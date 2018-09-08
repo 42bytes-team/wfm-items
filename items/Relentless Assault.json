@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4ec",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Relentless_Assault.1f785af43c72d1287936e6791314a9cc.png",
+    "thumb": "icons/en/thumbs/Relentless_Assault.1f785af43c72d1287936e6791314a9cc.128x128.png",
+    "icon_format": "port",
+    "url_name": "relentless_assault",
+    "tradable": true,
+    "en": {
+        "item_name": "Relentless Assault",
+        "description": "<p>Relentless Assault is a PvP-exclusive melee mod which increases melee attack speed at the cost of decreased blocking effectiveness.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Assault",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Безжалостное нападение",
+        "description": "<p>Безжалостное Нападение — редкий мод для оружия ближнего боя в режиме конклава, который увеличивает скорость атаки оружия после убийства противника на некоторый промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D0%B7%D0%B6%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Relentless_Assault.bf74324cd1a1f666658c3327a82b55a2.png",
+        "thumb": "icons/ru/thumbs/Relentless_Assault.bf74324cd1a1f666658c3327a82b55a2.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

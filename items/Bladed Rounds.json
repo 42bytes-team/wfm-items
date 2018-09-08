@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b2851133f656cb085d8d",
+    "tags": [
+        "rifle",
+        "mod",
+        "uncommon"
+    ],
+    "icon": "icons/en/Bladed_Rounds.ef8baaa32b793cfea6ede28f48ec2dd9.png",
+    "thumb": "icons/en/thumbs/Bladed_Rounds.ef8baaa32b793cfea6ede28f48ec2dd9.128x128.png",
+    "icon_format": "port",
+    "url_name": "bladed_rounds",
+    "tradable": true,
+    "en": {
+        "item_name": "Bladed Rounds",
+        "description": "<p>Bladed Rounds is an uncommon Rifle mod that increases Critical damage while aiming for a brief time upon a kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bladed_Rounds",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Violence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пули с лезвиями Клинок",
+        "description": "<p>Пули C Лезвиями — мод для основного оружия, который увеличивает множитель критического урона на определенный промежуток времени при убийстве противника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%83%D0%BB%D0%B8_%D1%81_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Violence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

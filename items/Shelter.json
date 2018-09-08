@@ -1,0 +1,48 @@
+{
+    "_id": "554d3f0ce779894445a848fd",
+    "tags": [
+        "mod",
+        "kubrow",
+        "uncommon"
+    ],
+    "icon": "icons/en/Shelter.d38b95bffc41ff5d6964c3433569ae00.png",
+    "thumb": "icons/en/thumbs/Shelter.d38b95bffc41ff5d6964c3433569ae00.128x128.png",
+    "icon_format": "port",
+    "url_name": "shelter",
+    "tradable": true,
+    "en": {
+        "item_name": "Shelter",
+        "description": "<p>Shelter allows a Kubrow to create a Shield around its master while they revive fallen Allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shelter",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Приют",
+        "description": "<p>Приют — необычный мод для всех пород Кубрау, который создает защитное поле вокруг владельца, когда тот воскрешает павшего союзника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D1%8E%D1%82",
+        "icon": "icons/ru/Shelter.c319e66f57a27e059c3dbde6f53a5dcf.png",
+        "thumb": "icons/ru/thumbs/Shelter.c319e66f57a27e059c3dbde6f53a5dcf.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 10,
+    "trading_tax": 4000
+}

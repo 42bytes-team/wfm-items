@@ -1,0 +1,47 @@
+{
+    "_id": "59385f6716efa3a742b15f61",
+    "tags": [
+        "mod",
+        "chroma"
+    ],
+    "icon": "icons/en/Guided_Effigy.c19b00b3672ac4678a87d7d3494ed55a.png",
+    "thumb": "icons/en/thumbs/Guided_Effigy.c19b00b3672ac4678a87d7d3494ed55a.128x128.png",
+    "icon_format": "port",
+    "url_name": "guided_effigy",
+    "tradable": true,
+    "en": {
+        "item_name": "Guided Effigy",
+        "description": "<p>Guided Effigy is a Warframe Augment Mod for Chroma's Effigy that allows him to control the Effigy, dealing rapid damage to enemies in its path and stunning enemies at the destination. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Guided_Effigy",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Управляемый Образ",
+        "description": "<p>Управляемый Образ — мод-аугмент для Варфрейма Хрома, улучшающий способность Образ. Активируйте и удерживайте способность нажатой, чтобы переместить Образ туда, куда вы целитесь. Наносит урон врагам на своем пути и издает рык по прибытии на место, оглушая противников.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B9_%D0%9E%D0%B1%D1%80%D0%B0%D0%B7",
+        "icon": "icons/ru/Guided_Effigy.407bacdc5ceb2821d1385ea4b4eff1d8.png",
+        "thumb": "icons/ru/thumbs/Guided_Effigy.407bacdc5ceb2821d1385ea4b4eff1d8.128x128.png",
+        "drop": [
+            {
+                "name": "Цефалон Суда",
+                "link": null
+            },
+            {
+                "name": "Последовательность Перрина",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156e1",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Gemini_Cross.e2d704efafe48796ded6c796e11db6ed.png",
+    "thumb": "icons/en/thumbs/Gemini_Cross.e2d704efafe48796ded6c796e11db6ed.128x128.png",
+    "icon_format": "port",
+    "url_name": "gemini_cross",
+    "tradable": true,
+    "en": {
+        "item_name": "Gemini Cross",
+        "description": "<p>Gemini Cross is a Stance mod for Tonfa-type weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gemini_Cross",
+        "drop": [
+            {
+                "name": "Corrupted MOA",
+                "link": null
+            },
+            {
+                "name": "Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Крест близнецов",
+        "description": "<p>Крест Близнецов — это необычная стойка, предназначенная для оружия ближнего боя класса Тонфы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82_%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2",
+        "icon": "icons/ru/Gemini_Cross.f9dae250221cc62f0380c01fbac403d1.png",
+        "thumb": "icons/ru/thumbs/Gemini_Cross.f9dae250221cc62f0380c01fbac403d1.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted MOA",
+                "link": null
+            },
+            {
+                "name": "Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

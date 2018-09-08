@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e515698",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Critical_Deceleration.1e6f0389e96ef70a93f09667ac7282a4.png",
+    "thumb": "icons/en/thumbs/Critical_Deceleration.1e6f0389e96ef70a93f09667ac7282a4.128x128.png",
+    "icon_format": "port",
+    "url_name": "critical_deceleration",
+    "tradable": true,
+    "en": {
+        "item_name": "Critical Deceleration",
+        "description": "<p>The Critical Deceleration mod increases the critical hit chance by 8% per rank while reducing the Fire Rate by -5% per rank of shotguns for a maximum of 48% critical hit chance and -30% fire rate at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Critical_Deceleration",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Критический распад",
+        "description": "<p>Критический Распад — поврежденный мод для дробовиков, который увеличивает шанс критического выстрела, взамен уменьшая скорострельность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D1%81%D0%BF%D0%B0%D0%B4",
+        "icon": "icons/ru/Critical_Deceleration.28c285fdf2b2a664bf976b1bf2d8d110.png",
+        "thumb": "icons/ru/thumbs/Critical_Deceleration.28c285fdf2b2a664bf976b1bf2d8d110.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

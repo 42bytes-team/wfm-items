@@ -1,0 +1,50 @@
+{
+    "_id": "57bc9c84e506eb45ea251459",
+    "tags": [
+        "blueprint",
+        "shotgun",
+        "prime"
+    ],
+    "icon": "icons/en/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.png",
+    "thumb": "icons/en/thumbs/Tigris_Prime_Set.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "tigris_prime_blueprint",
+    "tradable": true,
+    "part_of_set": [
+        "57bc9c84e506eb45ea251455",
+        "57bc9c84e506eb45ea251457",
+        "57bc9c84e506eb45ea251459",
+        "57bc9c84e506eb45ea251458",
+        "57bc9c84e506eb45ea251456"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Tigris Prime Blueprint",
+        "description": "<p>The Tigris Prime is the primed variant of the Tigris shotgun. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "Axi T1 Rare",
+                "link": null
+            }
+        ],
+        "codex": "An artifact of exquisite beauty. A weapon of deadly purpose."
+    },
+    "ru": {
+        "item_name": "Тигрис прайм Чертеж",
+        "description": "<p>Артефакт необычайной красоты. Оружие, предназначенное для убийств.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B8%D0%B3%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Axi T1 Rare",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 13,
+    "ducats": 100,
+    "trading_tax": 2000
+}

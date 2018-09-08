@@ -1,0 +1,47 @@
+{
+    "_id": "58f0ee99aa4b70452a173073",
+    "tags": [
+        "mod",
+        "ivara"
+    ],
+    "icon": "icons/en/Piercing_Navigator.ac1dd07d1c1ae58d59634ac4992ac024.png",
+    "thumb": "icons/en/thumbs/Piercing_Navigator.ac1dd07d1c1ae58d59634ac4992ac024.128x128.png",
+    "icon_format": "port",
+    "url_name": "piercing_navigator",
+    "tradable": true,
+    "en": {
+        "item_name": "Piercing Navigator",
+        "description": "<p>Piercing Navigator is a Warframe Augment Mod for Ivara's Navigator that increases the projectile's crit chance by 10%, every successful hit, up to a max of 50%.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Piercing_Navigator",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сквозной Навигатор",
+        "description": "<p>Сквозной Навигатор — мод-аугмент для Варфрейма Ивара, изменяющий способность Навигатор. Каждое попадание увеличивает шанс нанесения критического урона этим снарядом на 10%, вплоть до максимума в 50%.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%B2%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9_%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80",
+        "icon": "icons/ru/Piercing_Navigator.972ff893d5944148445e02efc1b22d73.png",
+        "thumb": "icons/ru/thumbs/Piercing_Navigator.972ff893d5944148445e02efc1b22d73.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

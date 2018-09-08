@@ -1,0 +1,80 @@
+{
+    "_id": "54a74454e779892d5e5155b3",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Gunslinger.946830b2595617de02b7572ac589db19.png",
+    "thumb": "icons/en/thumbs/Gunslinger.946830b2595617de02b7572ac589db19.128x128.png",
+    "icon_format": "port",
+    "url_name": "gunslinger",
+    "tradable": true,
+    "en": {
+        "item_name": "Gunslinger",
+        "description": "<p>The Gunslinger mod increases the fire rate of secondary weapons by 12% per rank for a maximum of 72% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gunslinger",
+        "drop": [
+            {
+                "name": "Alad V",
+                "link": null
+            },
+            {
+                "name": "Mutalist Alad V",
+                "link": null
+            },
+            {
+                "name": "Captain Vor",
+                "link": null
+            },
+            {
+                "name": "GrineerNapalm",
+                "link": null
+            },
+            {
+                "name": "CorpusScavenger Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Стрелок",
+        "description": "<p>Стрелок — необычный мод для вторичного оружия, который увеличивает скорострельность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA",
+        "icon": "icons/ru/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.png",
+        "thumb": "icons/ru/thumbs/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.128x128.png",
+        "drop": [
+            {
+                "name": "Alad V",
+                "link": null
+            },
+            {
+                "name": "Mutalist Alad V",
+                "link": null
+            },
+            {
+                "name": "Captain Vor",
+                "link": null
+            },
+            {
+                "name": "GrineerNapalm",
+                "link": null
+            },
+            {
+                "name": "CorpusScavenger Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

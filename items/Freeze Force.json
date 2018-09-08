@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515652",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Freeze_Force.76d7a06e084231ef174fdb02079b8389.png",
+    "thumb": "icons/en/thumbs/Freeze_Force.76d7a06e084231ef174fdb02079b8389.128x128.png",
+    "icon_format": "port",
+    "url_name": "freeze_force",
+    "tradable": true,
+    "en": {
+        "item_name": "Freeze Force",
+        "description": "<p>Freeze Force is a Warframe Augment Mod for Frost that allows Freeze to be cast on allies, temporarily granting them additional  Cold damage to all attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Freeze_Force",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Замораживающая сила",
+        "description": "<p>Замораживающая Сила — мод-аугмент для варфрейма Фрост и Фрост Прайм, улучшающий его способность Заморозка. Применение на союзнике даст ему возможность наносить дополнительный ледяной урон в течение 'определенного промежутка времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D1%80%D0%B0%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D0%B8%D0%BB%D0%B0",
+        "icon": "icons/ru/Freeze_Force.06e0357c0cb2bd96af102f5de365a667.png",
+        "thumb": "icons/ru/thumbs/Freeze_Force.06e0357c0cb2bd96af102f5de365a667.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

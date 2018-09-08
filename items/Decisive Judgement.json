@@ -1,0 +1,72 @@
+{
+    "_id": "54a74455e779892d5e5156c0",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Decisive_Judgement.1f59640c5a465330e0ebb0eb2c257ab5.png",
+    "thumb": "icons/en/thumbs/Decisive_Judgement.1f59640c5a465330e0ebb0eb2c257ab5.128x128.png",
+    "icon_format": "port",
+    "url_name": "decisive_judgement",
+    "tradable": true,
+    "en": {
+        "item_name": "Decisive Judgement",
+        "description": "<p>Decisive Judgement is a Stance Mod for Nikanas, which features two-handed slashes that can send the user airborne. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Decisive_Judgement",
+        "drop": [
+            {
+                "name": "Grineer Warden (0.03%)",
+                "link": null
+            },
+            {
+                "name": "GrineerHeavy Gunner (0.03%)",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Heavy Gunner (0.03%)",
+                "link": null
+            },
+            {
+                "name": "Infested Mesa (0.6%)",
+                "link": null
+            },
+            {
+                "name": "Infested Chroma (0.6%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Окончательное решение",
+        "description": "<p>Окончательное Решение — это редкая стойка, предназначенная для оружия ближнего боя класса Никана. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Decisive_Judgement.c86ac2326e18e7b5e68d4326239931d3.png",
+        "thumb": "icons/ru/thumbs/Decisive_Judgement.c86ac2326e18e7b5e68d4326239931d3.128x128.png",
+        "drop": [
+            {
+                "name": "Grineer Warden (0.03%)",
+                "link": null
+            },
+            {
+                "name": "GrineerHeavy Gunner (0.03%)",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Heavy Gunner (0.03%)",
+                "link": null
+            },
+            {
+                "name": "Infested Mesa (0.6%)",
+                "link": null
+            },
+            {
+                "name": "Infested Chroma (0.6%)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4f2",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Serrated_Rounds.e2d6ee028dbe85ce258f142b8fc9b072.png",
+    "thumb": "icons/en/thumbs/Serrated_Rounds.e2d6ee028dbe85ce258f142b8fc9b072.128x128.png",
+    "icon_format": "port",
+    "url_name": "serrated_rounds",
+    "tradable": true,
+    "en": {
+        "item_name": "Serrated Rounds",
+        "description": "<p>Serrated Rounds is a PvP exclusive Rifle Mod that converts an amount of physical damage to Slash damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Serrated_Rounds",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зубчатые патроны",
+        "description": "<p>Зубчатые Патроны — необычный мод для основного оружия в режиме конклава, который преобразует % базового урона в  режущий. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D1%83%D0%B1%D1%87%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
+        "icon": "icons/ru/Serrated_Rounds.32898dc497ccae13862af2c7e8a20aba.png",
+        "thumb": "icons/ru/thumbs/Serrated_Rounds.32898dc497ccae13862af2c7e8a20aba.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

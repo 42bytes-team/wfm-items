@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156a5",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Seismic_Palm.677fc917c032bd66d51b4e7f01674943.png",
+    "thumb": "icons/en/thumbs/Seismic_Palm.677fc917c032bd66d51b4e7f01674943.128x128.png",
+    "icon_format": "port",
+    "url_name": "seismic_palm",
+    "tradable": true,
+    "en": {
+        "item_name": "Seismic Palm",
+        "description": "<p>Seismic Palm is one of three Stance mods for fist weapons like the Furax. It features staggering and knockdowns. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Seismic_Palm",
+        "drop": [
+            {
+                "name": "InfestedLeaper",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сотрясающая ладонь",
+        "description": "<p>Сотрясающая Ладонь — это редкая стойка, предназначенная для оружия ближнего боя класса Кулаки. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D1%82%D1%80%D1%8F%D1%81%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BB%D0%B0%D0%B4%D0%BE%D0%BD%D1%8C",
+        "icon": "icons/ru/Seismic_Palm.26bc9820663bb2cf418c4a998f34e353.png",
+        "thumb": "icons/ru/thumbs/Seismic_Palm.26bc9820663bb2cf418c4a998f34e353.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedLeaper",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

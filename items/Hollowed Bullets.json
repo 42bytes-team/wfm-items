@@ -1,0 +1,72 @@
+{
+    "_id": "54a74454e779892d5e515590",
+    "tags": [
+        "mod",
+        "archwing gun",
+        "rare"
+    ],
+    "icon": "icons/en/Hollowed_Bullets.7071893ea940820a1513221c9daf6c41.png",
+    "thumb": "icons/en/thumbs/Hollowed_Bullets.7071893ea940820a1513221c9daf6c41.128x128.png",
+    "icon_format": "port",
+    "url_name": "hollowed_bullets",
+    "tradable": true,
+    "en": {
+        "item_name": "Hollowed Bullets",
+        "description": "<p>Hollowed Bullets increases the critical damage multiplier for Archwing guns by 15% per rank at a maximum of 60% at rank 3. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hollowed_Bullets",
+        "drop": [
+            {
+                "name": "CorpusRanger",
+                "link": null
+            },
+            {
+                "name": "CorpusQuanta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusPenta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusFrigate",
+                "link": null
+            },
+            {
+                "name": "Caelus,Uranus Interception Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пустотные пули",
+        "description": "<p>Пустотные Пули — мод для основного оружия арчвинга, который увеличивает множитель критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BB%D0%B8",
+        "icon": "icons/ru/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.png",
+        "thumb": "icons/ru/thumbs/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusRanger",
+                "link": null
+            },
+            {
+                "name": "CorpusQuanta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusPenta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusFrigate",
+                "link": null
+            },
+            {
+                "name": "Caelus,Uranus Interception Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

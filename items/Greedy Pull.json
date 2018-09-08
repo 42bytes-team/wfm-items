@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155c5",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Greedy_Pull.46407b1a24b9928f281e9fded5134de4.png",
+    "thumb": "icons/en/thumbs/Greedy_Pull.46407b1a24b9928f281e9fded5134de4.128x128.png",
+    "icon_format": "port",
+    "url_name": "greedy_pull",
+    "tradable": true,
+    "en": {
+        "item_name": "Greedy Pull",
+        "description": "<p>Greedy Pull is a Warframe Augment Mod that gives Mag's Pull the ability to attract pickups towards herself.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Greedy_Pull",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Алчное притяжение",
+        "description": "<p>Алчное Притяжение - мод-аугмент для Мэг и Мэг Прайм, который улучшает способность Притяжение, давая 40% шанс притянуть к себе не только врагов, но и поднимаемые предметы. На максимальном ранге мода шанс притяжения предметов составляет 100%.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BB%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Greedy_Pull.d9cc32ff0e0c6fa15011435452ce5389.png",
+        "thumb": "icons/ru/thumbs/Greedy_Pull.d9cc32ff0e0c6fa15011435452ce5389.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156e7",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Ice_Storm.83c9d29c3e761c17f72130e383b4febc.png",
+    "thumb": "icons/en/thumbs/Ice_Storm.83c9d29c3e761c17f72130e383b4febc.128x128.png",
+    "icon_format": "port",
+    "url_name": "ice_storm",
+    "tradable": true,
+    "en": {
+        "item_name": "Ice Storm",
+        "description": "<p>Ice Storm increases the magazine capacity and  Cold damage of Pistols.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ice_Storm",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ледяная буря",
+        "description": "<p>Ледяная Буря — гибридный мод для вторичного оружия, который увеличивает вместимость обоймы и  ледяной урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%B0%D1%8F_%D0%B1%D1%83%D1%80%D1%8F",
+        "icon": "icons/ru/Ice_Storm.22de22bbab0152d6886bca3c3a5c9718.png",
+        "thumb": "icons/ru/thumbs/Ice_Storm.22de22bbab0152d6886bca3c3a5c9718.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

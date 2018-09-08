@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515653",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Pathogen_Rounds.4eef46cd7b866eea2ac8009ec61901e9.png",
+    "thumb": "icons/en/thumbs/Pathogen_Rounds.4eef46cd7b866eea2ac8009ec61901e9.128x128.png",
+    "icon_format": "port",
+    "url_name": "pathogen_rounds",
+    "tradable": true,
+    "en": {
+        "item_name": "Pathogen Rounds",
+        "description": "<p>Pathogen Rounds adds +15%  Toxin damage per rank to pistols.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pathogen_Rounds",
+        "drop": [
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Патогенные снаряды",
+        "description": "<p>Патогенные Снаряды — необычный мод для вторичного оружия, который увеличивает  токсичный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%82%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
+        "icon": "icons/ru/Pathogen_Rounds.278bf56394303424da82f55c93586702.png",
+        "thumb": "icons/ru/thumbs/Pathogen_Rounds.278bf56394303424da82f55c93586702.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

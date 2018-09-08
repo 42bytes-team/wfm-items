@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e51560d",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Lethal_Torrent.5f97f70430d22026c0bbcf6030f046a8.png",
+    "thumb": "icons/en/thumbs/Lethal_Torrent.5f97f70430d22026c0bbcf6030f046a8.128x128.png",
+    "icon_format": "port",
+    "url_name": "lethal_torrent",
+    "tradable": true,
+    "en": {
+        "item_name": "Lethal Torrent",
+        "description": "<p>The Lethal Torrent mod increases both fire rate and multishot percentage. These additional rounds do not consume extra ammunition.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lethal_Torrent",
+        "drop": [
+            {
+                "name": "Operation Arid Fear",
+                "link": null
+            },
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Смертоносный ливень",
+        "description": "<p>Смертоносный Ливень — гибридный мод для вторичного оружия, который увеличивает скорострельность даёт шанс произвести дополнительный выстрел.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D1%8C",
+        "icon": "icons/ru/Lethal_Torrent.a3b66a06c82256ec7f9e3f1e3555f389.png",
+        "thumb": "icons/ru/thumbs/Lethal_Torrent.a3b66a06c82256ec7f9e3f1e3555f389.128x128.png",
+        "drop": [
+            {
+                "name": "Operation Arid Fear",
+                "link": null
+            },
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

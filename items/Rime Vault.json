@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4ed",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Rime_Vault.b7f9ac5af3893de698a10fb8cd13823e.png",
+    "thumb": "icons/en/thumbs/Rime_Vault.b7f9ac5af3893de698a10fb8cd13823e.128x128.png",
+    "icon_format": "port",
+    "url_name": "rime_vault",
+    "tradable": true,
+    "en": {
+        "item_name": "Rime Vault",
+        "description": "<p>Rime Vault is a PvP-exclusive Exilus mod that increases Bullet Jump speed and grants  Cold damage to Bullet Jumps at Max Energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rime_Vault",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Морозный кувырок",
+        "description": "<p>Морозный кувырок — эксилус мод для варфреймов в режиме конклава, который даёт бонусный  ледяной урон стремительному прыжку, расходуя энергию при попадании в противника в том случае, если у варфрейма в момент нанесения урона было максимальное количество энергии.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B2%D1%8B%D1%80%D0%BE%D0%BA",
+        "icon": "icons/ru/Rime_Vault.09ac744b0f6bc2812b908f09993d5bd8.png",
+        "thumb": "icons/ru/thumbs/Rime_Vault.09ac744b0f6bc2812b908f09993d5bd8.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

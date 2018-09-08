@@ -1,0 +1,64 @@
+{
+    "_id": "54a74455e779892d5e515696",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Expel_Grineer.93ee977e75b55886a5cdcda023bed2a3.png",
+    "thumb": "icons/en/thumbs/Expel_Grineer.93ee977e75b55886a5cdcda023bed2a3.128x128.png",
+    "icon_format": "port",
+    "url_name": "expel_grineer",
+    "tradable": true,
+    "en": {
+        "item_name": "Expel Grineer",
+        "description": "<p>Expel Grineer increases the damage of secondary weapons against Grineer.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Expel_Grineer",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Изгнание: гринир",
+        "description": "<p>Изгнание: Гринир —необычный мод для вторичного оружия, увеличивающий наносимый урон по бойцам  Гринир.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B7%D0%B3%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5:_%D0%B3%D1%80%D0%B8%D0%BD%D0%B8%D1%80",
+        "icon": "icons/ru/Expel_Grineer.359e239c1398c4425d8ffec61f5db96b.png",
+        "thumb": "icons/ru/thumbs/Expel_Grineer.359e239c1398c4425d8ffec61f5db96b.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

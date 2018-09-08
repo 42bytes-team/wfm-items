@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e5156c1",
+    "tags": [
+        "mod",
+        "warframe",
+        "common"
+    ],
+    "icon": "icons/en/Reflection.92eb5cc1554f5c5b3157030f0fbb951e.png",
+    "thumb": "icons/en/thumbs/Reflection.92eb5cc1554f5c5b3157030f0fbb951e.128x128.png",
+    "icon_format": "port",
+    "url_name": "reflection",
+    "tradable": true,
+    "en": {
+        "item_name": "Reflection",
+        "description": "<p>The Reflection mod increases the damage that blocking reflects back at attackers when blocking while channeling.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reflection",
+        "drop": [
+            {
+                "name": "Corrupted Ancient",
+                "link": null
+            },
+            {
+                "name": "Tier 1Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Отражение",
+        "description": "<p>Отражение — обычный мод для варфрейма, который позволяет отражать блокированный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Reflection.d49818e78eeaf6114bf32d67b49af410.png",
+        "thumb": "icons/ru/thumbs/Reflection.d49818e78eeaf6114bf32d67b49af410.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Ancient",
+                "link": null
+            },
+            {
+                "name": "Tier 1Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

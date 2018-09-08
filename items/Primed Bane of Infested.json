@@ -1,0 +1,41 @@
+{
+    "_id": "56900be253c8e91351672724",
+    "tags": [
+        "mod",
+        "rifle",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Bane_of_Infested.dfb6994085d676b00ca85cf63a082a61.png",
+    "thumb": "icons/en/thumbs/Primed_Bane_of_Infested.dfb6994085d676b00ca85cf63a082a61.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_bane_of_infested",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Bane of Infested",
+        "description": "<p>Primed Bane of Infested is the Primed version of the Bane of Infested mod, which increases the damage of rifles against Infested. The mod increases both the base damage and elemental damage of a weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Bane_of_Infested",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Погибель заражённых прайм",
+        "description": "<p>Погибель заражённых прайм — легендарный мод для основного оружия, который увеличивает урон по заражённым.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C_%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Bane_of_Infested.3846d99c3d00292879e8b616a73b242e.png",
+        "thumb": "icons/ru/thumbs/Primed_Bane_of_Infested.3846d99c3d00292879e8b616a73b242e.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

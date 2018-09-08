@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155b2",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Dead_Eye.6392a19f97f84c7112ffa014c0908dfd.png",
+    "thumb": "icons/en/thumbs/Dead_Eye.6392a19f97f84c7112ffa014c0908dfd.128x128.png",
+    "icon_format": "port",
+    "url_name": "dead_eye",
+    "tradable": true,
+    "en": {
+        "item_name": "Dead Eye",
+        "description": "<p>Dead Eye is an Aura that increases the damage dealt with sniper rifles by 8.75% per rank, up to 35% at maximum.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Dead_Eye",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Меткий стрелок",
+        "description": "<p>Меткий стрелок — необычная аура, которая увеличивает урон снайперского оружия для всех членов команды.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%82%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA",
+        "icon": "icons/ru/Dead_Eye.d6dd33e7a25305c870ce7a3de4cf8fec.png",
+        "thumb": "icons/ru/thumbs/Dead_Eye.d6dd33e7a25305c870ce7a3de4cf8fec.128x128.png",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

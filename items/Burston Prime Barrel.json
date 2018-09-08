@@ -1,0 +1,58 @@
+{
+    "_id": "54a73e65e779893a797fff39",
+    "tags": [
+        "parts",
+        "prime",
+        "barrel"
+    ],
+    "icon": "icons/en/Burston_Prime_Set.9fc6c6a6dca24113027828df669cd89e.png",
+    "thumb": "icons/en/thumbs/Burston_Prime_Set.9fc6c6a6dca24113027828df669cd89e.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "burston_prime_barrel",
+    "tradable": true,
+    "part_of_set": [
+        "56783f24cbfa8f0432dd8995",
+        "54a73e65e779893a797fff39",
+        "54a73e65e779893a797fff3a",
+        "54a73e65e779893a797fff3b",
+        "54a73e65e779893a797fff3c"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Burston Prime Barrel",
+        "description": "<p>The Burston Prime is the prime variant of the Burston. Compared to its predecessor, the Burston Prime features higher damage across the board, and a slightly higher status chance, making it a direct upgrade from the standard Burston. Like the standard Burston, the Burston Prime features the signature three-round burst mechanic, making it difficult for some Tenno to use, but rewarding if one can learn the patterns.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Burston_Prime",
+        "drop": [
+            {
+                "name": "Lith F2 Uncommon",
+                "link": null
+            },
+            {
+                "name": "Axi T1 Uncommon",
+                "link": null
+            }
+        ],
+        "codex": "Once thought lost to the ages, attempts to reengineer the Burston Prime never fully replicated this weapon's power and agility."
+    },
+    "ru": {
+        "item_name": "Бёрстон прайм Ствол",
+        "description": "<p>Попытки воссоздать Бёрстон Прайм, однажды утерянный на века, не увенчались успехом. Изначальная мощь и скорострельность так и не были получены в результате.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%91%D1%80%D1%81%D1%82%D0%BE%D0%BD_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Lith F2 Uncommon",
+                "link": null
+            },
+            {
+                "name": "Axi T1 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}

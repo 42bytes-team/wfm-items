@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4fc",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Sword_Alone.1c6ec66a54c742480eb3bee11e56ea72.png",
+    "thumb": "icons/en/thumbs/Sword_Alone.1c6ec66a54c742480eb3bee11e56ea72.128x128.png",
+    "icon_format": "port",
+    "url_name": "sword_alone",
+    "tradable": true,
+    "en": {
+        "item_name": "Sword Alone",
+        "description": "<p>Sword Alone is a melee mod in PvP that increases Mobility if a Melee is equipped.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sword_Alone",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Одинокий клинок",
+        "description": "<p>Одинокий Клинок - мод для оружия ближнего боя в режиме Конклава, который повышает мобильность варфрейма на  0 при экипированном оружии ближнего боя. На максимальном ранге мода бонус к мобильности составляет 0.1.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D0%BA",
+        "icon": "icons/ru/Sword_Alone.5650596f6b541aa66ca2f3f183b3cbad.png",
+        "thumb": "icons/ru/thumbs/Sword_Alone.5650596f6b541aa66ca2f3f183b3cbad.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "5615432bb66f8371035bfa2f",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Staggering_Shield.b0a7fcff3b0080dc20c52dfd3f4cd1f8.png",
+    "thumb": "icons/en/thumbs/Staggering_Shield.b0a7fcff3b0080dc20c52dfd3f4cd1f8.128x128.png",
+    "icon_format": "port",
+    "url_name": "staggering_shield",
+    "tradable": true,
+    "en": {
+        "item_name": "Staggering Shield",
+        "description": "<p>Staggering Shield is a Warframe Augment Mod for Mesa that gives shots reflected by Shatter Shield a chance to stagger enemies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Staggering_Shield",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ошеломляющий щит",
+        "description": "<p>Ошеломляющий Щит — мод-аугмент для варфрейма Миса, улучшающий её способность Осколочный Щит. Каждый отражённый снаряд может оглушить противника с некоторым шансом.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%88%D0%B5%D0%BB%D0%BE%D0%BC%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D1%89%D0%B8%D1%82",
+        "icon": "icons/ru/Staggering_Shield.38ba50562d0afcffca2d878b35b50c32.png",
+        "thumb": "icons/ru/thumbs/Staggering_Shield.38ba50562d0afcffca2d878b35b50c32.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

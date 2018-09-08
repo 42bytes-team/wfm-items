@@ -1,0 +1,48 @@
+{
+    "_id": "55c153afe779895d6f802d7a",
+    "tags": [
+        "mod",
+        "parkour",
+        "uncommon"
+    ],
+    "icon": "icons/en/Mobilize.05d2e152abd6ac55ee0939b7ab932e96.png",
+    "thumb": "icons/en/thumbs/Mobilize.05d2e152abd6ac55ee0939b7ab932e96.128x128.png",
+    "icon_format": "port",
+    "url_name": "mobilize",
+    "tradable": true,
+    "en": {
+        "item_name": "Mobilize",
+        "description": "<p>Mobilize increases Bullet Jump speed and the duration of Aim Glide and Wall Latch.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Mobilize",
+        "drop": [
+            {
+                "name": "Drekar Lancer",
+                "link": null
+            },
+            {
+                "name": "Drekar Elite Lancer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мобилизация",
+        "description": "<p>Мобилизация — эксилус мод для варфреймов, который увеличивает скорость стремительного прыжка, длительность полета и фиксации на стене.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+        "icon": "icons/ru/Mobilize.708f34760ae47fd7ce65748a29145f34.png",
+        "thumb": "icons/ru/thumbs/Mobilize.708f34760ae47fd7ce65748a29145f34.128x128.png",
+        "drop": [
+            {
+                "name": "Drekar Lancer",
+                "link": null
+            },
+            {
+                "name": "Drekar Elite Lancer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

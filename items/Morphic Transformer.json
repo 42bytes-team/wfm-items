@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515611",
+    "tags": [
+        "mod",
+        "archwing",
+        "rare"
+    ],
+    "icon": "icons/en/Morphic_Transformer.1cd8673949cc8643897933536c162ea7.png",
+    "thumb": "icons/en/thumbs/Morphic_Transformer.1cd8673949cc8643897933536c162ea7.128x128.png",
+    "icon_format": "port",
+    "url_name": "morphic_transformer",
+    "tradable": true,
+    "en": {
+        "item_name": "Morphic Transformer",
+        "description": "<p>The Morphic Transformer mod increases the Power Strength of Archwing abilities by 5% per rank for a maximum of 20% at rank 3. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Morphic_Transformer",
+        "drop": [
+            {
+                "name": "GrineerTemporal Dreg",
+                "link": null
+            },
+            {
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Морф-трансформер",
+        "description": "<p>Морф-Трансформер — редкий мод для арчвингов, который увеличивает силу способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D1%80%D1%84-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80",
+        "icon": "icons/ru/Morphic_Transformer.9a3e684f53c306b2cd4fe9287f08ae8a.png",
+        "thumb": "icons/ru/thumbs/Morphic_Transformer.9a3e684f53c306b2cd4fe9287f08ae8a.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerTemporal Dreg",
+                "link": null
+            },
+            {
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "57c05949d0d9ef638234e4af",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Brief_Respite.716172347813d137cc5d9d0cbe249d6c.png",
+    "thumb": "icons/en/thumbs/Brief_Respite.716172347813d137cc5d9d0cbe249d6c.128x128.png",
+    "icon_format": "port",
+    "url_name": "brief_respite",
+    "tradable": true,
+    "en": {
+        "item_name": "Brief Respite",
+        "description": "<p>Brief Respite is an aura that grants additional Shields equal to a percentage of Energy spent whenever an ability is cast.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Brief_Respite",
+        "drop": [
+            {
+                "name": "Orphid Specter",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Краткая отсрочка",
+        "description": "<p>Краткая отсрочка — необычная аура, которая при использовании способностей восполняет щиты, в размере от потраченной энергии которые переходят в сверхщиты.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F_%D0%BE%D1%82%D1%81%D1%80%D0%BE%D1%87%D0%BA%D0%B0",
+        "icon": "icons/ru/Brief_Respite.d454d2f8554a7860b0f2253c4ef2a189.png",
+        "thumb": "icons/ru/thumbs/Brief_Respite.d454d2f8554a7860b0f2253c4ef2a189.128x128.png",
+        "drop": [
+            {
+                "name": "Orphid Specter",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

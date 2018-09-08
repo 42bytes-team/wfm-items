@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515606",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Finishing_Touch.80048f517500e2e4647c0fcfa2449bee.png",
+    "thumb": "icons/en/thumbs/Finishing_Touch.80048f517500e2e4647c0fcfa2449bee.128x128.png",
+    "icon_format": "port",
+    "url_name": "finishing_touch",
+    "tradable": true,
+    "en": {
+        "item_name": "Finishing Touch",
+        "description": "<p>The Finishing Touch mod increases damage dealt by the combat finisher attack, ground finisher attack and stealth attack of melee weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Finishing_Touch",
+        "drop": [
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Финальный штрих",
+        "description": "<p>Финальный Штрих — необычный мод для оружия ближнего боя, который увеличивает урон при добивании противника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%88%D1%82%D1%80%D0%B8%D1%85",
+        "icon": "icons/ru/Finishing_Touch.25db53081243adc0d91522cb74fd6aa0.png",
+        "thumb": "icons/ru/thumbs/Finishing_Touch.25db53081243adc0d91522cb74fd6aa0.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

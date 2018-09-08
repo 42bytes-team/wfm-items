@@ -1,0 +1,39 @@
+{
+    "_id": "59dfeb6c115f1d887cfd7abf",
+    "tags": [
+        "mod",
+        "augur"
+    ],
+    "icon": "icons/en/Augur_Accord.068cadfef07bb4e729df53eb1b2f46db.png",
+    "thumb": "icons/en/thumbs/Augur_Accord.068cadfef07bb4e729df53eb1b2f46db.128x128.png",
+    "icon_format": "port",
+    "url_name": "augur_accord",
+    "tradable": true,
+    "en": {
+        "item_name": "Augur Accord",
+        "description": "<p>Augur Accord is a set mod available from bounties on the Plains of Eidolon. It increases shield capacity by 180% at max rank, the full set bonus apllied converts 150% of energy spent with abilities into Shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Accord",
+        "drop": [
+            {
+                "name": "Recon Commander (0.33%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Договор Предвестника",
+        "description": "<p>Договор Предвестника —  необычный мод для Варфрейма, увеличивающий базовый показатель щита.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Augur_Accord.9c93259d1a823989f0c06a94e1ac0fcc.png",
+        "thumb": "icons/ru/thumbs/Augur_Accord.9c93259d1a823989f0c06a94e1ac0fcc.128x128.png",
+        "drop": [
+            {
+                "name": "Командир Разведки (0.33%)",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%80_%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%BA%D0%B8"
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

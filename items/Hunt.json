@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155e2",
+    "tags": [
+        "mod",
+        "kubrow",
+        "rare"
+    ],
+    "icon": "icons/en/Hunt.b962f48385bc2733012d480f8cb8f1e6.png",
+    "thumb": "icons/en/thumbs/Hunt.b962f48385bc2733012d480f8cb8f1e6.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunt",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunt",
+        "description": "<p>Hunt  mod allows the Huras Kubrow to tackle a nearby opponent. The tackle can also hit multiple targets.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunt",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Травля",
+        "description": "<p>Травля — мод-заповедь для Кубрау породы Хурас, позволяющий ему атаковать врагов в зоне видимости и наносить дополнительный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%B0%D0%B2%D0%BB%D1%8F",
+        "icon": "icons/ru/Hunt.3ab5c5318a5d9cba43b87d57315c7fb0.png",
+        "thumb": "icons/ru/thumbs/Hunt.3ab5c5318a5d9cba43b87d57315c7fb0.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156ed",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Sinking_Talon.825973df87633e7b3f5cfbc94fbfeb5e.png",
+    "thumb": "icons/en/thumbs/Sinking_Talon.825973df87633e7b3f5cfbc94fbfeb5e.128x128.png",
+    "icon_format": "port",
+    "url_name": "sinking_talon",
+    "tradable": true,
+    "en": {
+        "item_name": "Sinking Talon",
+        "description": "<p>Sinking Talon is a Stance Mod for dual daggers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sinking_Talon",
+        "drop": [
+            {
+                "name": "CorpusDetron Crewman",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Впивающийся коготь",
+        "description": "<p>Впивающийся Коготь - это необычная стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BF%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F_%D0%BA%D0%BE%D0%B3%D0%BE%D1%82%D1%8C",
+        "icon": "icons/ru/Sinking_Talon.6cbe5491ac61f2f824a28ff3080e59c6.png",
+        "thumb": "icons/ru/thumbs/Sinking_Talon.6cbe5491ac61f2f824a28ff3080e59c6.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusDetron Crewman",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

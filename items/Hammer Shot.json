@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51558d",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Hammer_Shot.fb11fe7457d821871f4c92b9acea585e.png",
+    "thumb": "icons/en/thumbs/Hammer_Shot.fb11fe7457d821871f4c92b9acea585e.128x128.png",
+    "icon_format": "port",
+    "url_name": "hammer_shot",
+    "tradable": true,
+    "en": {
+        "item_name": "Hammer Shot",
+        "description": "<p>Hammer Shot increases the critical damage multiplier and the status effect chance of rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hammer_Shot",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alert Nightmare Mission",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мощный выстрел",
+        "description": "<p>Мощный Выстрел — гибридный мод для основного оружия, который увеличивает критический урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Hammer_Shot.1d819ba330c77d084fdfbe22961558f1.png",
+        "thumb": "icons/ru/thumbs/Hammer_Shot.1d819ba330c77d084fdfbe22961558f1.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alert Nightmare Mission",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

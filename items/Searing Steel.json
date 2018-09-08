@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155ba",
+    "tags": [
+        "mod",
+        "archwing melee",
+        "rare"
+    ],
+    "icon": "icons/en/Searing_Steel.7aa193ba4e202d8f625e091aa243f50d.png",
+    "thumb": "icons/en/thumbs/Searing_Steel.7aa193ba4e202d8f625e091aa243f50d.128x128.png",
+    "icon_format": "port",
+    "url_name": "searing_steel",
+    "tradable": true,
+    "en": {
+        "item_name": "Searing Steel",
+        "description": "<p>The Searing Steel mod increases the  Heat damage and Status Chance on Archwing melee weapons by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Searing_Steel",
+        "drop": [
+            {
+                "name": "Operation Eyes of Blight Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Жгучая сталь",
+        "description": "<p>Жгучая Сталь — редкий мод для оружия ближнего боя арчвинг, который  увеличивает  огненный урон и шанс срабатывания.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B3%D1%83%D1%87%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BB%D1%8C",
+        "icon": "icons/ru/Searing_Steel.30003eecf38a8ff6f46e7ccaa51723e6.png",
+        "thumb": "icons/ru/thumbs/Searing_Steel.30003eecf38a8ff6f46e7ccaa51723e6.128x128.png",
+        "drop": [
+            {
+                "name": "Operation Eyes of Blight Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

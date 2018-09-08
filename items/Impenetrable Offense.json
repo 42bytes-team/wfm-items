@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4db",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Impenetrable_Offense.5828ebb5c6b4eb84b15f19166430dca4.png",
+    "thumb": "icons/en/thumbs/Impenetrable_Offense.5828ebb5c6b4eb84b15f19166430dca4.128x128.png",
+    "icon_format": "port",
+    "url_name": "impenetrable_offense",
+    "tradable": true,
+    "en": {
+        "item_name": "Impenetrable Offense",
+        "description": "<p>Impenetrable Offense is a PvP-exclusive mod that increases Damage Block at max Energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Impenetrable_Offense",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Непробиваемое нападение",
+        "description": "<p>Непробиваемое Нападение — редкий мод для оружия ближнего боя в режиме конклава, который увеличивает эффективность блока в том случае, если у варфрейма максимальное количество энергии.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Impenetrable_Offense.d779a3ece37fbeab5e944aa539068093.png",
+        "thumb": "icons/ru/thumbs/Impenetrable_Offense.d779a3ece37fbeab5e944aa539068093.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

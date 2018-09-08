@@ -1,0 +1,48 @@
+{
+    "_id": "54e644ffe779897594fa68d0",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Swing_Line.cee452dde10f83d519cb358dcfc09276.png",
+    "thumb": "icons/en/thumbs/Swing_Line.cee452dde10f83d519cb358dcfc09276.128x128.png",
+    "icon_format": "port",
+    "url_name": "swing_line",
+    "tradable": true,
+    "en": {
+        "item_name": "Swing Line",
+        "description": "<p>Swing Line is a Warframe Augment Mod for Valkyr that enables the ability to, after an initial cast of Rip Line, grant successive uses of Rip Line without using energy if cast while airborne.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Swing_Line",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Шнур раскачки",
+        "description": "<p>Шнур Раскачки - мод-аугмент для варфрейма Валькирия, улучшающий её способность Разрывающий шнур. Повторное применение способности во время пребывания варфрейма в полёте не будет расходовать энергию.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D0%BD%D1%83%D1%80_%D1%80%D0%B0%D1%81%D0%BA%D0%B0%D1%87%D0%BA%D0%B8",
+        "icon": "icons/ru/Swing_Line.b2cb721e59218f93414a752e740a414f.png",
+        "thumb": "icons/ru/thumbs/Swing_Line.b2cb721e59218f93414a752e740a414f.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51566c",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Bleeding_Willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.png",
+    "thumb": "icons/en/thumbs/Bleeding_Willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.128x128.png",
+    "icon_format": "port",
+    "url_name": "bleeding_willow",
+    "tradable": true,
+    "en": {
+        "item_name": "Bleeding Willow",
+        "description": "<p>Bleeding Willow is a Stance Mod for polearm weapons, specializing in lunging, sweeping attacks that can hit large swathes of enemies. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bleeding_Willow",
+        "drop": [
+            {
+                "name": "Corrupted MOA",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Лоза кровотечения",
+        "description": "<p>Лоза Кровотечения — это редкая стойка, предназначенная для оружия ближнего боя класса Копья. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%BE%D0%B7%D0%B0_%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F",
+        "icon": "icons/ru/Bleeding_Willow.3f4ccf37c481420da79fe3bfcd7c5f1a.png",
+        "thumb": "icons/ru/thumbs/Bleeding_Willow.3f4ccf37c481420da79fe3bfcd7c5f1a.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted MOA",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

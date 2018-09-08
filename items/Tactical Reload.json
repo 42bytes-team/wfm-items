@@ -1,0 +1,48 @@
+{
+    "_id": "567af35fcbfa8f05d076a4fd",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Tactical_Reload.2ac877a6d2e8459575098a219e59b36e.png",
+    "thumb": "icons/en/thumbs/Tactical_Reload.2ac877a6d2e8459575098a219e59b36e.128x128.png",
+    "icon_format": "port",
+    "url_name": "tactical_reload",
+    "tradable": true,
+    "en": {
+        "item_name": "Tactical Reload",
+        "description": "<p>Tactical Reload is a rifle mod usable in both PvE and PvP that reloads a portion of a rifle's magazine for each second it is holstered.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tactical_Reload",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тактическая перезарядка",
+        "description": "<p>Тактическая Перезарядка — редкий мод для основного оружия в режиме конклава, который перезаряжает магазин в то время, когда оружие находится в кобуре.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0",
+        "icon": "icons/ru/Tactical_Reload.5008a64daec5c3de032b7a939bcd35dc.png",
+        "thumb": "icons/ru/thumbs/Tactical_Reload.5008a64daec5c3de032b7a939bcd35dc.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

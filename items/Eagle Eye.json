@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156cc",
+    "tags": [
+        "mod",
+        "rifle",
+        "uncommon"
+    ],
+    "icon": "icons/en/Eagle_Eye.84b925bc0a194c323f0a54f5ea4a2cd5.png",
+    "thumb": "icons/en/thumbs/Eagle_Eye.84b925bc0a194c323f0a54f5ea4a2cd5.128x128.png",
+    "icon_format": "port",
+    "url_name": "eagle_eye",
+    "tradable": true,
+    "en": {
+        "item_name": "Eagle Eye",
+        "description": "<p>The Eagle Eye mod increases the zoom of a rifle by 10% per rank up to a maximum of 40% at rank 3. Beginning with Update 12.6, Eagle Eye also increases the range at which Sentinels can shoot enemies if installed on a Sentinel Weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Eagle_Eye",
+        "drop": [
+            {
+                "name": "InfestedCrawler",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Орлиный глаз",
+        "description": "<p>Орлиный Глаз — необычный мод для основного оружия, который увеличивает приближение при прицеливании.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%80%D0%BB%D0%B8%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BB%D0%B0%D0%B7",
+        "icon": "icons/ru/Eagle_Eye.1f5010e386430d8d3131655bb1365c91.png",
+        "thumb": "icons/ru/thumbs/Eagle_Eye.1f5010e386430d8d3131655bb1365c91.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedCrawler",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

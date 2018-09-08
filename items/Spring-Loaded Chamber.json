@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b2941133f656cb085d90",
+    "tags": [
+        "mod",
+        "rifle",
+        "uncommon"
+    ],
+    "icon": "icons/en/Spring-Loaded_Chamber.74d90753e47acd3407facd4b708849d4.png",
+    "thumb": "icons/en/thumbs/Spring-Loaded_Chamber.74d90753e47acd3407facd4b708849d4.128x128.png",
+    "icon_format": "port",
+    "url_name": "spring_loaded_chamber",
+    "tradable": true,
+    "en": {
+        "item_name": "Spring-Loaded Chamber",
+        "description": "<p>Spring-Loaded Chamber is an uncommon Assault Rifle mod that increases Fire Rate while aiming for a brief time upon reloading.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Chamber",
+        "drop": [
+            {
+                "name": "Angst",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пружинный приёмник",
+        "description": "<p>Пружинный Приёмник — мод для основного оружия, который увеличивает скорострельность при прицеливании на определенный промежуток времени после перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BD%D0%B8%D0%BA",
+        "icon": "icons/ru/Spring-Loaded_Chamber.11d03fb6957623c5065762812e9f7728.png",
+        "thumb": "icons/ru/thumbs/Spring-Loaded_Chamber.11d03fb6957623c5065762812e9f7728.128x128.png",
+        "drop": [
+            {
+                "name": "Angst",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

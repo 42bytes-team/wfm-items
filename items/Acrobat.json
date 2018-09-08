@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156bf",
+    "tags": [
+        "mod",
+        "warframe",
+        "uncommon"
+    ],
+    "icon": "icons/en/Acrobat.88fa9bef9908a4cdbfdf3a62a604ee4c.png",
+    "thumb": "icons/en/thumbs/Acrobat.88fa9bef9908a4cdbfdf3a62a604ee4c.128x128.png",
+    "icon_format": "port",
+    "url_name": "acrobat",
+    "tradable": false,
+    "en": {
+        "item_name": "Acrobat",
+        "description": "<p>Acrobat reduces the stamina cost of wallrunning. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Acrobat",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Акробат",
+        "description": "<p>Акробат — необычный мод для варфреймов, который снижает затраты выносливости при беге по стенам.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BA%D1%80%D0%BE%D0%B1%D0%B0%D1%82",
+        "icon": "icons/ru/Acrobat.a8983e7c298b0fe91f85657574752060.png",
+        "thumb": "icons/ru/thumbs/Acrobat.a8983e7c298b0fe91f85657574752060.128x128.png",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

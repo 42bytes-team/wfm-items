@@ -1,0 +1,48 @@
+{
+    "_id": "576459af3ae92d545fd1e7b7",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Primal_Rage.c7d10e485d85553cea850b0a6514337e.png",
+    "thumb": "icons/en/thumbs/Primal_Rage.c7d10e485d85553cea850b0a6514337e.128x128.png",
+    "icon_format": "port",
+    "url_name": "primal_rage",
+    "tradable": true,
+    "en": {
+        "item_name": "Primal Rage",
+        "description": "<p>Primal Rage is a Warframe Augment Mod for Wukong that increases the Critical Chance of Primal Fury with every kill, up to a maximum of 100%. The additional critical chance gradually falls off every second. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primal_Rage",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Первобытный гнев",
+        "description": "<p>Первобытный Гнев — мод-аугмент для варфрейма Вуконг, улучшающий его способность Первобытная Ярость. Вуконг увеличивает шанс критического урона за каждого убитого противника. Шанс критического урона будет уменьшаться каждую секунду.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B1%D1%8B%D1%82%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BD%D0%B5%D0%B2",
+        "icon": "icons/ru/Primal_Rage.73d1fe081f2fc2a19ebab86216ff7005.png",
+        "thumb": "icons/ru/thumbs/Primal_Rage.73d1fe081f2fc2a19ebab86216ff7005.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

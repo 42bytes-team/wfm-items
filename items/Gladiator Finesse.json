@@ -1,0 +1,39 @@
+{
+    "_id": "59dfeb5c115f1d887cfd7ab4",
+    "tags": [
+        "mod",
+        "gladiator"
+    ],
+    "icon": "icons/en/Gladiator_Finesse.0047663196522e3da072cc72c0eef3d3.png",
+    "thumb": "icons/en/thumbs/Gladiator_Finesse.0047663196522e3da072cc72c0eef3d3.128x128.png",
+    "icon_format": "port",
+    "url_name": "gladiator_finesse",
+    "tradable": true,
+    "en": {
+        "item_name": "Gladiator Finesse",
+        "description": "<p>Gladiator Finesse is a set mod that uses a Warframe's residual energy pool as an emergency buffer to prevent death when the Warframe's health reaches 2.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gladiator_Finesse",
+        "drop": [
+            {
+                "name": "Aerial Commander (0.02%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ловкость Гладиатора",
+        "description": "<p>Ловкость Гладиатора — редкий мод для Варфреймов, который переносит весь входящий урон на энергию, когда у вас 2 единицы здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%BE%D0%B2%D0%BA%D0%BE%D1%81%D1%82%D1%8C_%D0%93%D0%BB%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80%D0%B0",
+        "icon": "icons/ru/Gladiator_Finesse.739b329d7ed094cd656270ad35aa831a.png",
+        "thumb": "icons/ru/thumbs/Gladiator_Finesse.739b329d7ed094cd656270ad35aa831a.128x128.png",
+        "drop": [
+            {
+                "name": "Воздушный Командир (0.02%)",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9_%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%80"
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

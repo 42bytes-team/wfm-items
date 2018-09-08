@@ -1,0 +1,42 @@
+{
+    "_id": "54c686dce7798913e1a86565",
+    "tags": [
+        "void trader",
+        "pistol",
+        "mod",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Heated_Charge.be3ac37bf7d2d82f77587dff71452c21.png",
+    "thumb": "icons/en/thumbs/Primed_Heated_Charge.be3ac37bf7d2d82f77587dff71452c21.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_heated_charge",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Heated Charge",
+        "description": "<p>Primed Heated Charge is the Primed version of the Heated Charge mod, which adds  Heat damage to secondary weapons.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Heated_Charge",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Горячий заряд прайм",
+        "description": "<p>Горячий заряд прайм — легендарный мод для вторичного оружия, который увеличивает  огненный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B9_%D0%B7%D0%B0%D1%80%D1%8F%D0%B4_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Heated_Charge.78ff950af4675b04bc4ec89117bac17d.png",
+        "thumb": "icons/ru/thumbs/Primed_Heated_Charge.78ff950af4675b04bc4ec89117bac17d.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

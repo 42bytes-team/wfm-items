@@ -1,0 +1,42 @@
+{
+    "_id": "5a0ef77010bc4000b8a7c12a",
+    "tags": [
+        "void trader",
+        "melee",
+        "mod",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Fever_Strike.a0dc6eb9fbb4c6648aed7793ca40286b.png",
+    "thumb": "icons/en/thumbs/Primed_Fever_Strike.a0dc6eb9fbb4c6648aed7793ca40286b.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_fever_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Fever Strike",
+        "description": "<p>Primed Fever Strike is the Primed version of the Fever Strike mod, which adds Toxin b Toxin damage to a Melee weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Fever_Strike",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Лихорадочный Удар Прайм",
+        "description": "<p>Лихорадочный Удар Прайм — легендарный мод для оружия ближнего боя, который увеличивает Токсин черный токсичный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B8%D1%85%D0%BE%D1%80%D0%B0%D0%B4%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%A3%D0%B4%D0%B0%D1%80_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Fever_Strike.1b89f5ca827b2a6d6acacf7827a97c41.png",
+        "thumb": "icons/ru/thumbs/Primed_Fever_Strike.1b89f5ca827b2a6d6acacf7827a97c41.128x128.png",
+        "drop": [
+            {
+                "name": "Баро Ки'Тиир",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D1%80%D0%BE_%D0%9A%D0%B8%27%D0%A2%D0%B8%D0%B8%D1%80"
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

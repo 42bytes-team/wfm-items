@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515643",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Coiling_Viper.aa153941b8afd949e633825037789622.png",
+    "thumb": "icons/en/thumbs/Coiling_Viper.aa153941b8afd949e633825037789622.128x128.png",
+    "icon_format": "port",
+    "url_name": "coiling_viper",
+    "tradable": true,
+    "en": {
+        "item_name": "Coiling Viper",
+        "description": "<p>Coiling Viper is one of two Stance mods for Whip type weapons. Wielders of this Stance trade range for highly mobile attacks. True to the namesake, the attack style of the stance greatly resembles a slithering Viper as opposed to Burning Wasp's flowing style.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Coiling_Viper",
+        "drop": [
+            {
+                "name": "Corrupted Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вьющаяся змея",
+        "description": "<p>Вьющаяся Змея — это редкя стойка, предназначенная для оружия ближнего боя класса Хлысты. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8C%D1%8E%D1%89%D0%B0%D1%8F%D1%81%D1%8F_%D0%B7%D0%BC%D0%B5%D1%8F",
+        "icon": "icons/ru/Coiling_Viper.e502d19c076bfdc0bd4e8946956cd2cf.png",
+        "thumb": "icons/ru/thumbs/Coiling_Viper.e502d19c076bfdc0bd4e8946956cd2cf.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

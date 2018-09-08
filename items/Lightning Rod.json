@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e51559b",
+    "tags": [
+        "mod",
+        "warframe",
+        "common"
+    ],
+    "icon": "icons/en/Lightning_Rod.d7cb1098d167e8d17cadf6065eb99d34.png",
+    "thumb": "icons/en/thumbs/Lightning_Rod.d7cb1098d167e8d17cadf6065eb99d34.128x128.png",
+    "icon_format": "port",
+    "url_name": "lightning_rod",
+    "tradable": true,
+    "en": {
+        "item_name": "Lightning Rod",
+        "description": "<p>Lightning Rod increases the Electrical Damage resistance of a Warframe's health and shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lightning_Rod",
+        "drop": [
+            {
+                "name": "GrineerScorpion",
+                "link": null
+            },
+            {
+                "name": "InfestedAncient Healer",
+                "link": null
+            },
+            {
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Громоотвод",
+        "description": "<p>Громоотвод — обычный мод для варфрейма, который увеличивает сопротивление  Электрическому урону.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%BE%D1%82%D0%B2%D0%BE%D0%B4",
+        "icon": "icons/ru/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.png",
+        "thumb": "icons/ru/thumbs/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerScorpion",
+                "link": null
+            },
+            {
+                "name": "InfestedAncient Healer",
+                "link": null
+            },
+            {
+                "name": "InfestedSwarm-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

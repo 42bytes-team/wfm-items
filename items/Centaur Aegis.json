@@ -1,0 +1,54 @@
+{
+    "_id": "5783bf45d9b6753790c89e94",
+    "tags": [
+        "blueprint",
+        "archwing"
+    ],
+    "icon": "icons/en/Centaur_Set.7365135b7b3831714b657721d6b1df22.png",
+    "thumb": "icons/en/thumbs/Centaur_Set.7365135b7b3831714b657721d6b1df22.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/generic_aegis_128x128.png",
+    "url_name": "centaur_aegis",
+    "tradable": true,
+    "part_of_set": [
+        "582b0f870af25410b099f7fc",
+        "5783bf45d9b6753790c89e94",
+        "5783bf41d9b6753790c89e93",
+        "5783bf4ad9b6753790c89e95"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Centaur Aegis",
+        "description": "<p>The Centaur is an Archwing based melee that also acts as a shield, which shares its own basic six-hit combo with Rathbone, but also possesses its own six-hit combo when used in quick melee (primary weapon equipped).</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Centaur",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ],
+        "codex": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire."
+    },
+    "ru": {
+        "item_name": "Кентавр",
+        "description": "<p>Частично меч, частично щит, Кентавр отлично показывает себя в безбашенных атаках под вражеским огнем</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D0%B0%D0%B2%D1%80",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

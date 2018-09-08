@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec1e779896af9418265",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Chilling_Globe.92223b7061c05a98afc460eb267fd053.png",
+    "thumb": "icons/en/thumbs/Chilling_Globe.92223b7061c05a98afc460eb267fd053.128x128.png",
+    "icon_format": "port",
+    "url_name": "chilling_globe",
+    "tradable": true,
+    "en": {
+        "item_name": "Chilling Globe",
+        "description": "<p>Chilling Globe is a Warframe Augment Mod for Frost that gives Snow Globe a chance to temporarily freeze enemies solid that enter its range.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Chilling_Globe",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Охлаждающая сфера",
+        "description": "<p>Охлаждающая Сфера — мод-аугмент для варфрейма Фрост и Фрост Прайм, улучшающий его способность Снежная Сфера. Враги, вошедшие в сферу, с некоторым шансом замораживаются.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D1%84%D0%B5%D1%80%D0%B0",
+        "icon": "icons/ru/Chilling_Globe.705405c8640e73a3773966581ee9c9ac.png",
+        "thumb": "icons/ru/thumbs/Chilling_Globe.705405c8640e73a3773966581ee9c9ac.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

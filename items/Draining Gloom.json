@@ -1,0 +1,40 @@
+{
+    "_id": "585a925a2c2ada004285df01",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Draining_Gloom.4d6890c07e01806ae034fd391d0a721c.png",
+    "thumb": "icons/en/thumbs/Draining_Gloom.4d6890c07e01806ae034fd391d0a721c.128x128.png",
+    "icon_format": "port",
+    "url_name": "draining_gloom",
+    "tradable": true,
+    "en": {
+        "item_name": "Draining Gloom",
+        "description": "<p>Draining Gloom is PvP-exclusive Despair mod which causes Energy-draining explosions, but reduces Magazine Capacity and Reserve Ammo.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Draining_Gloom",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Поглощающая Тьма",
+        "description": "<p>Поглощающая тьма - редкий мод для вторичного оружия отчаяние в режиме конклава, который с некоторым шансом может вызвать вспышку поглощения энергии, но при этом уменьшает боезапас и количество кинжалов в обойме.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%A2%D1%8C%D0%BC%D0%B0",
+        "icon": "icons/ru/Draining_Gloom.178992d2125575a59deec6a43367ecdb.png",
+        "thumb": "icons/ru/thumbs/Draining_Gloom.178992d2125575a59deec6a43367ecdb.128x128.png",
+        "drop": [
+            {
+                "name": "Награда за миссии Конклава",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

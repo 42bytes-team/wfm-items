@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a51e",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Mortal_Conduct.1891d5e6d5e0cb468f6d0947d91bf260.png",
+    "thumb": "icons/en/thumbs/Mortal_Conduct.1891d5e6d5e0cb468f6d0947d91bf260.128x128.png",
+    "icon_format": "port",
+    "url_name": "mortal_conduct",
+    "tradable": true,
+    "en": {
+        "item_name": "Mortal Conduct",
+        "description": "<p>Mortal Conduct is PvP-exclusive Melee Mod which increases Channeled Damage Reflection at low Health</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Mortal_Conduct",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Смертельное руководство",
+        "description": "<p>Смертельное Руководство — условный мод для оружия ближнего боя в режиме конклава, который отражает урон обратно противнику при низких показателях здоровья в течение определённого промежутка времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+        "icon": "icons/ru/Mortal_Conduct.2d88df7a8a955f746fce1fed2ff73f36.png",
+        "thumb": "icons/ru/thumbs/Mortal_Conduct.2d88df7a8a955f746fce1fed2ff73f36.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515626",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Crimson_Dervish.cbdbd8ebb0221bf67f7aacd3fa52ed7f.png",
+    "thumb": "icons/en/thumbs/Crimson_Dervish.cbdbd8ebb0221bf67f7aacd3fa52ed7f.128x128.png",
+    "icon_format": "port",
+    "url_name": "crimson_dervish",
+    "tradable": true,
+    "en": {
+        "item_name": "Crimson Dervish",
+        "description": "<p>Crimson Dervish is a Stance for swords, specializing in strong spinning attacks that can hit adjacent enemies or deal multiple strikes against a single foe, sacrificing mobility and speed. Combos executed in this stance are notable for their high damage multiplier.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Crimson_Dervish",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "Rathuum - Mission 3 (0.50%)",
+                "link": null
+            },
+            {
+                "name": "Knave Specter",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кровавый дервиш",
+        "description": "<p>Кровавый Дервиш — это редкая стойка, предназначенная для оружия ближнего боя класса Мечи. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D1%8B%D0%B9_%D0%B4%D0%B5%D1%80%D0%B2%D0%B8%D1%88",
+        "icon": "icons/ru/Crimson_Dervish.12f1451d9ba47c437c239a650d613525.png",
+        "thumb": "icons/ru/thumbs/Crimson_Dervish.12f1451d9ba47c437c239a650d613525.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "Rathuum - Mission 3 (0.50%)",
+                "link": null
+            },
+            {
+                "name": "Knave Specter",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

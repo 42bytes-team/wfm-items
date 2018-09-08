@@ -1,0 +1,56 @@
+{
+    "_id": "54e64500e779897594fa68d5",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Iron_Shrapnel.cf00aa7e7a9d4d58c550467c24b54a3a.png",
+    "thumb": "icons/en/thumbs/Iron_Shrapnel.cf00aa7e7a9d4d58c550467c24b54a3a.128x128.png",
+    "icon_format": "port",
+    "url_name": "iron_shrapnel",
+    "tradable": true,
+    "en": {
+        "item_name": "Iron Shrapnel",
+        "description": "<p>Iron Shrapnel is a Warframe Augment Mod usable in both PvE and PvP for Rhino's Iron Skin that when active allows it to be detonated by pressing the ability key (default 2), unleashing a radial AoE attack that deals a portion of its remaining health as  Puncture damage. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Iron_Shrapnel",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Железная шрапнель",
+        "description": "<p>Железная шрапнель — мод-аугмент для варфрейма Рино и Рино прайм, улучшающий его способность железная кожа. Повторное применение способности взорвет текущую кожу, нанося процент от оставшегося здоровья в виде  пронзающего урона и оглушая ближайших противников.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D1%88%D1%80%D0%B0%D0%BF%D0%BD%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Iron_Shrapnel.9899f88e184b08d71d6463a5c317d0c9.png",
+        "thumb": "icons/ru/thumbs/Iron_Shrapnel.9899f88e184b08d71d6463a5c317d0c9.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

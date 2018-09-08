@@ -1,0 +1,28 @@
+{
+    "_id": "55a46a58e77989027c23b89c",
+    "tags": [
+        "arcane enhancements"
+    ],
+    "icon": "icons/en/Arcane_Grace.3e4f746417d977c6ac5f2c9edd71ada0.png",
+    "thumb": "icons/en/thumbs/Arcane_Grace.3e4f746417d977c6ac5f2c9edd71ada0.128x128.png",
+    "icon_format": "land",
+    "url_name": "arcane_grace",
+    "tradable": true,
+    "en": {
+        "item_name": "Arcane Grace",
+        "description": "<p>Arcane Grace is an Arcane Enhancement that provides a chance whenever the player receives damage to regenerate a percentage of health per second for a short time.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Grace",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Мистическая благодать",
+        "description": "<p>Мистическая Благодать - редкий мистификатор, который при повреждении дает шанс 1.5% на восстановление 1% здоровья в секунду в течении 1.5 секунд. На максимальном ранге шанс срабатывания 6% на восстановление 4% здоровья в секунду в течении 6 секунд, итого 24% восстановления здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%82%D1%8C",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 3,
+    "trading_tax": 1000000
+}

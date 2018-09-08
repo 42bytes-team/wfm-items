@@ -1,0 +1,48 @@
+{
+    "_id": "54e0c9eee7798903744178ab",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Rift_Torrent.b72016d654f06dd8a0f9f21b86f38910.png",
+    "thumb": "icons/en/thumbs/Rift_Torrent.b72016d654f06dd8a0f9f21b86f38910.128x128.png",
+    "icon_format": "port",
+    "url_name": "rift_torrent",
+    "tradable": true,
+    "en": {
+        "item_name": "Rift Torrent",
+        "description": "<p>Rift Torrent is a Warframe Augment Mod for Limbo's Rift Surge that increases its damage bonus with each enemy present within the Rift Plane.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rift_Torrent",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Поток разлома",
+        "description": "<p>Поток Разлома - мод-аугмент для варфрейма Лимбо, улучшающий его способность Заряд Разлома. Каждый находящийся в Разломе враг будет увеличивать множитель урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_%D1%80%D0%B0%D0%B7%D0%BB%D0%BE%D0%BC%D0%B0",
+        "icon": "icons/ru/Rift_Torrent.59931528b917318766546edf6b5e7e90.png",
+        "thumb": "icons/ru/thumbs/Rift_Torrent.59931528b917318766546edf6b5e7e90.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

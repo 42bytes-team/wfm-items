@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a506",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Deft_Tempo.e50c0487ca72d93242873e1248b9f06f.png",
+    "thumb": "icons/en/thumbs/Deft_Tempo.e50c0487ca72d93242873e1248b9f06f.128x128.png",
+    "icon_format": "port",
+    "url_name": "deft_tempo",
+    "tradable": true,
+    "en": {
+        "item_name": "Deft Tempo",
+        "description": "<p>Deft Tempo is PvP-exclusive assault rifle mod which increases Bullet Jump on Headshots. It is no longer usable with Launcher weapons since Update 18.5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Deft_Tempo",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Искусный темп",
+        "description": "<p>Искусный Темп — условный мод для винтовок в режиме конклава, который увеличивает мобильность  на определенный промежуток времени при попадании в голову.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BC%D0%BF",
+        "icon": "icons/ru/Deft_Tempo.7a0839fb687215cb4e5c2d862119c160.png",
+        "thumb": "icons/ru/thumbs/Deft_Tempo.7a0839fb687215cb4e5c2d862119c160.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "55c15473e779895de4118590",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Concealed_Explosives.7c258d92086d8fff96684d6170455fe8.png",
+    "thumb": "icons/en/thumbs/Concealed_Explosives.7c258d92086d8fff96684d6170455fe8.128x128.png",
+    "icon_format": "port",
+    "url_name": "concealed_explosives",
+    "tradable": true,
+    "en": {
+        "item_name": "Concealed Explosives",
+        "description": "<p>Concealed Explosives is a mod gives certain thrown secondary weapons a chance of exploding on impact of a surface or an enemy. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Concealed_Explosives",
+        "drop": [
+            {
+                "name": "CorpusMine Osprey",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey",
+                "link": null
+            },
+            {
+                "name": "GrineerSikula",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Скрытая взрывчатка",
+        "description": "<p>Скрытая Взрывчатка — редкий мод для метательного оружия, который даёт шанс взорваться снаряду. Каждый взрыв наносит 500  взрывного урона в радиусе 10 метров.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2%D1%87%D0%B0%D1%82%D0%BA%D0%B0",
+        "icon": "icons/ru/Concealed_Explosives.b853d0ccc83beb7153ca0535c0b75f27.png",
+        "thumb": "icons/ru/thumbs/Concealed_Explosives.b853d0ccc83beb7153ca0535c0b75f27.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusMine Osprey",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey",
+                "link": null
+            },
+            {
+                "name": "GrineerSikula",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

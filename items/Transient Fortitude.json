@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155b7",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Transient_Fortitude.9faec0880e8bf9b85e7282b3df213b69.png",
+    "thumb": "icons/en/thumbs/Transient_Fortitude.9faec0880e8bf9b85e7282b3df213b69.128x128.png",
+    "icon_format": "port",
+    "url_name": "transient_fortitude",
+    "tradable": true,
+    "en": {
+        "item_name": "Transient Fortitude",
+        "description": "<p>Transient Fortitude increases Power Strength while reducing the Power Duration of Warframe abilities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Transient_Fortitude",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кратковременное усиление",
+        "description": "<p>Кратковременное усиление — повреждённый мод для варфреймов, который увеличивает силу способностей, взамен уменьшая длительность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D0%B8%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Transient_Fortitude.e090bef0b88917d8a06926b21dfb3911.png",
+        "thumb": "icons/ru/thumbs/Transient_Fortitude.e090bef0b88917d8a06926b21dfb3911.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

@@ -1,0 +1,35 @@
+{
+    "_id": "571955b44445c3e28b80fc7f",
+    "tags": [
+        "blueprint",
+        "landing craft",
+        "fuselage"
+    ],
+    "icon": "icons/en/Scimitar_Set.45f2aecb79415dcf4740690af001aabe.png",
+    "thumb": "icons/en/thumbs/Scimitar_Set.45f2aecb79415dcf4740690af001aabe.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/fuselage_128x128.png",
+    "url_name": "scimitar_fuselage",
+    "tradable": true,
+    "part_of_set": [
+        "57222f1092cc365777a61c0d",
+        "571955bf4445c3e28b80fc81",
+        "571955b94445c3e28b80fc80",
+        "571955b44445c3e28b80fc7f"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Scimitar Fuselage",
+        "description": "<p>The Scimitar is a Landing Craft, which can serve as an alternative transportation choice to the Liset. If the Scimitar is the selected Landing Craft, using an Air Support Charge will have Ordis deploy a Carpet Bomb ability. The Scimitar landed in Update 18.0.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Scimitar",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Скимитар Фюзеляж",
+        "description": "<p>Скимитар — десантный корабль, имеющий способность Ковровая бомбардировка. При использовании зарядов поддержки с корабля сбрасываются бомбы по направлению установленного маяка.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%80",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    }
+}

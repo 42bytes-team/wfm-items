@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515614",
+    "tags": [
+        "mod",
+        "kubrow",
+        "uncommon"
+    ],
+    "icon": "icons/en/Maul.85d6096a0d2d3be267e39717a8ea2e37.png",
+    "thumb": "icons/en/thumbs/Maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png",
+    "icon_format": "port",
+    "url_name": "maul",
+    "tradable": true,
+    "en": {
+        "item_name": "Maul",
+        "description": "<p>Maul mod increases the melee damage a Kubrow deals by 30% per rank to a maximum of 330% at rank 10.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Maul",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кувалда",
+        "description": "<p>Кувалда — необычный мод для Кубрау, который увеличивает наносимый урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%83%D0%B2%D0%B0%D0%BB%D0%B4%D0%B0",
+        "icon": "icons/ru/Maul.89a6afe157d0e3738cddb2d96b3a58ff.png",
+        "thumb": "icons/ru/thumbs/Maul.89a6afe157d0e3738cddb2d96b3a58ff.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 10,
+    "trading_tax": 4000
+}

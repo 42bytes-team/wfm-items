@@ -1,0 +1,65 @@
+{
+    "_id": "561536d5b66f836f889b79bb",
+    "tags": [
+        "blueprint",
+        "melee",
+        "prime"
+    ],
+    "icon": "icons/en/Dual_Kamas_Prime_Set.7d95cad6d71a59fa98902cc8bfe87da2.png",
+    "thumb": "icons/en/thumbs/Dual_Kamas_Prime_Set.7d95cad6d71a59fa98902cc8bfe87da2.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "dual_kamas_prime_blueprint",
+    "tradable": true,
+    "part_of_set": [
+        "56783f24cbfa8f0432dd8999",
+        "561536deb66f836f8bbaca47",
+        "561536d5b66f836f889b79bb",
+        "561536e4b66f836f8e15eb18"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Dual Kamas Prime Blueprint",
+        "description": "<p>The Dual Kamas Prime are the Primed versions of the Dual Kamas, featuring higher damage as well as improvements to most stats.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Dual_Kamas_Prime",
+        "drop": [
+            {
+                "name": "Neo V1 Common",
+                "link": null
+            },
+            {
+                "name": "Axi N3 Common",
+                "link": null
+            },
+            {
+                "name": "Axi V1 Common",
+                "link": null
+            }
+        ],
+        "codex": "The sensual lines of these golden Kamas have long been celebrated as a masterwork of Tenno weapon smithing."
+    },
+    "ru": {
+        "item_name": "Парные камы прайм Чертеж",
+        "description": "<p>Чувственные изгибы этих золотых Кам долгое время преподносились как шедевр кузнечного ремесла Тэнно.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D1%8B%D0%B5_%D0%BA%D0%B0%D0%BC%D1%8B_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Neo V1 Common",
+                "link": null
+            },
+            {
+                "name": "Axi N3 Common",
+                "link": null
+            },
+            {
+                "name": "Axi V1 Common",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 6,
+    "ducats": 15,
+    "trading_tax": 2000
+}

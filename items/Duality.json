@@ -1,0 +1,47 @@
+{
+    "_id": "56b656e0ef0390c7e4006383",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Duality.c5a99dd847f4468edbeb94731ec38d99.png",
+    "thumb": "icons/en/thumbs/Duality.c5a99dd847f4468edbeb94731ec38d99.128x128.png",
+    "icon_format": "port",
+    "url_name": "duality",
+    "tradable": true,
+    "en": {
+        "item_name": "Duality",
+        "description": "<p>Duality is a Warframe Augment Mod for Equinox that causes her opposite form to split from her when casting Metamorphosis, creating a Specter armed with the weapon Equinox was using during casting.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Duality",
+        "drop": [
+            {
+                "name": "New Loka",
+                "link": null
+            },
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Двуликость",
+        "description": "<p>Двуликость - мод для варфрейма Эквинокс, изменяющий способность Метаморфоза. На некоторое время призывает на поле боя вторую половину Эквинокс.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Duality.8883bceb80c4f93f6c9cab24b6a486b8.png",
+        "thumb": "icons/ru/thumbs/Duality.8883bceb80c4f93f6c9cab24b6a486b8.128x128.png",
+        "drop": [
+            {
+                "name": "New Loka",
+                "link": null
+            },
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

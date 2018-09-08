@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156ea",
+    "tags": [
+        "mod",
+        "archwing",
+        "rare"
+    ],
+    "icon": "icons/en/Hyperion_Thrusters.d180283d2297c661b4dda819da35006d.png",
+    "thumb": "icons/en/thumbs/Hyperion_Thrusters.d180283d2297c661b4dda819da35006d.128x128.png",
+    "icon_format": "port",
+    "url_name": "hyperion_thrusters",
+    "tradable": true,
+    "en": {
+        "item_name": "Hyperion Thrusters",
+        "description": "<p>The Hyperion Thrusters mod increases an Archwing's sprint (boost) speed by 2.5% per rank for a maximum of 27.5% at rank 10.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hyperion_Thrusters",
+        "drop": [
+            {
+                "name": "CorpusLocust Drone",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Гиперионские двигатели",
+        "description": "<p>Гиперионские Двигатели — редкий мод для арчвинга, который увеличивает скорость полёта.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D0%B8",
+        "icon": "icons/ru/Hyperion_Thrusters.c795c104ca20a0afb237af945c08acc1.png",
+        "thumb": "icons/ru/thumbs/Hyperion_Thrusters.c795c104ca20a0afb237af945c08acc1.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusLocust Drone",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

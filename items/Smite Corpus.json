@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51565a",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Smite_Corpus.ebf6929dc715d0b33f81121b6feca418.png",
+    "thumb": "icons/en/thumbs/Smite_Corpus.ebf6929dc715d0b33f81121b6feca418.128x128.png",
+    "icon_format": "port",
+    "url_name": "smite_corpus",
+    "tradable": true,
+    "en": {
+        "item_name": "Smite Corpus",
+        "description": "<p>The Smite Corpus mod increases the damage of melee weapons against Corpus by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Smite_Corpus",
+        "drop": [
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Крушитель: Корпус",
+        "description": "<p>Крушитель: Корпус — необычный мод для оружия ближнего боя, который увеличивает урон по бойцам  Корпуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81",
+        "icon": "icons/ru/Smite_Corpus.aec3a8b641ab3ae542d4061726f84fc5.png",
+        "thumb": "icons/ru/thumbs/Smite_Corpus.aec3a8b641ab3ae542d4061726f84fc5.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

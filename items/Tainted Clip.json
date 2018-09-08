@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51564e",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Tainted_Clip.bbcdd9d47cba552ded5731145f9998a3.png",
+    "thumb": "icons/en/thumbs/Tainted_Clip.bbcdd9d47cba552ded5731145f9998a3.128x128.png",
+    "icon_format": "port",
+    "url_name": "tainted_clip",
+    "tradable": true,
+    "en": {
+        "item_name": "Tainted Clip",
+        "description": "<p>Tainted Clip increases pistol magazine capacity while decreasing reload speed.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tainted_Clip",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Осквернённая обойма",
+        "description": "<p>Осквернённая Обойма — повреждённый мод для вторичного оружия, который увеличивает емкость магазина, взамен увеличивая время перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%81%D0%BA%D0%B2%D0%B5%D1%80%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%B9%D0%BC%D0%B0",
+        "icon": "icons/ru/Tainted_Clip.c992b867a9fe54b7e1d825409efc2a57.png",
+        "thumb": "icons/ru/thumbs/Tainted_Clip.c992b867a9fe54b7e1d825409efc2a57.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

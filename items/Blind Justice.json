@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e515680",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Blind_Justice.17a62caf922e646e19483c8cb3eeace8.png",
+    "thumb": "icons/en/thumbs/Blind_Justice.17a62caf922e646e19483c8cb3eeace8.128x128.png",
+    "icon_format": "port",
+    "url_name": "blind_justice",
+    "tradable": true,
+    "en": {
+        "item_name": "Blind Justice",
+        "description": "<p>Blind Justice is a Stance mod for Nikanas, specializing in high mobility combined with fast overhead slashes.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Blind_Justice",
+        "drop": [
+            {
+                "name": "Stalker (30.56%)",
+                "link": null
+            },
+            {
+                "name": "Shadow Stalker (30.56%)",
+                "link": null
+            },
+            {
+                "name": "Knave Specter",
+                "link": null
+            },
+            {
+                "name": "Rathuum Arenas",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Слепое правосудие",
+        "description": "<p>Слепое Правосудие — это необычная стойка, предназначенная для оружия ближнего боя класса Никана. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BB%D0%B5%D0%BF%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D1%83%D0%B4%D0%B8%D0%B5",
+        "icon": "icons/ru/Blind_Justice.41504f94c48ec29053067060b99fd2c6.png",
+        "thumb": "icons/ru/thumbs/Blind_Justice.41504f94c48ec29053067060b99fd2c6.128x128.png",
+        "drop": [
+            {
+                "name": "Stalker (30.56%)",
+                "link": null
+            },
+            {
+                "name": "Shadow Stalker (30.56%)",
+                "link": null
+            },
+            {
+                "name": "Knave Specter",
+                "link": null
+            },
+            {
+                "name": "Rathuum Arenas",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

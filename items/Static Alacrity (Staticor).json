@@ -1,0 +1,39 @@
+{
+    "_id": "56dac5bc5cc639de0a45c52a",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Static_Alacrity_(Staticor).6b3933168d44d40b5c6c70f0f53d1eb2.png",
+    "thumb": "icons/en/thumbs/Static_Alacrity_(Staticor).6b3933168d44d40b5c6c70f0f53d1eb2.128x128.png",
+    "icon_format": "port",
+    "url_name": "static_alacrity_(staticor)",
+    "tradable": true,
+    "en": {
+        "item_name": "Static Alacrity (Staticor)",
+        "description": "<p>Static Alacrity is PvP-exclusive Staticor mod which increases Flight Speed but reduces Explosion Radius.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Static_Alacrity",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Неподвижное рвение",
+        "description": "<p>Неподвижное Рвение - редкий мод для вторичного оружия Статикор в режиме конклава, который увеличивает скорость полета снаряда на 12.5%, но при этом уменьшает радиус его взрыва на 12.5%. На максимальном ранге мода бонус к скорости полета снаряда составит 50%, а радиус взрыва будет снижен на 50%.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D0%BE%D0%B5_%D1%80%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Static_Alacrity_(Staticor).8051f59b39c0b93ee3fa85396d48ffa6.png",
+        "thumb": "icons/ru/thumbs/Static_Alacrity_(Staticor).8051f59b39c0b93ee3fa85396d48ffa6.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

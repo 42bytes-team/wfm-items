@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec1e779896af9418260",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Hushed_Invisibility.d13d04f2ee52db1b892c0246cbbe8a80.png",
+    "thumb": "icons/en/thumbs/Hushed_Invisibility.d13d04f2ee52db1b892c0246cbbe8a80.128x128.png",
+    "icon_format": "port",
+    "url_name": "hushed_invisibility",
+    "tradable": true,
+    "en": {
+        "item_name": "Hushed Invisibility",
+        "description": "<p>Hushed Invisibility is a Warframe Augment Mod for Loki's Invisibility that allows it to reduce the noise level of weapons fired.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hushed_Invisibility",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тихая невидимость",
+        "description": "<p>Тихая Невидимость — мод-аугмент для варфрейма Локи и Локи Прайм, улучшающий его способность Невидимость. Активная способность также заглушает звук оружия, делая его полностью бесшумным. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B8%D1%85%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Hushed_Invisibility.0df52f0f024218dfdb866fc04dfe1933.png",
+        "thumb": "icons/ru/thumbs/Hushed_Invisibility.0df52f0f024218dfdb866fc04dfe1933.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b2991133f656cb085d91",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Repeater_Clip.83e327e168e4c91bc7d9c5ed0fbe1604.png",
+    "thumb": "icons/en/thumbs/Repeater_Clip.83e327e168e4c91bc7d9c5ed0fbe1604.128x128.png",
+    "icon_format": "port",
+    "url_name": "repeater_clip",
+    "tradable": true,
+    "en": {
+        "item_name": "Repeater Clip",
+        "description": "<p>Repeater Clip is an uncommon Shotgun mod that increases Fire Rate while aiming for a brief time upon reloading.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Repeater_Clip",
+        "drop": [
+            {
+                "name": "Angst",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Повторитель обоймы",
+        "description": "<p>Повторитель Обоймы — условный мод для дробовиков, который увеличивает скорострельность при прицеливании на определенный промежуток времени после перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BE%D0%B1%D0%BE%D0%B9%D0%BC%D1%8B",
+        "icon": "icons/ru/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.png",
+        "thumb": "icons/ru/thumbs/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.128x128.png",
+        "drop": [
+            {
+                "name": "Angst",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

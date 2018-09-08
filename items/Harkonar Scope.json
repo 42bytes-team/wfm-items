@@ -1,0 +1,40 @@
+{
+    "_id": "5729bcf9cb59ed5a9b484e8a",
+    "tags": [
+        "mod",
+        "sniper",
+        "uncommon"
+    ],
+    "icon": "icons/en/Harkonar_Scope.b28d2b70ffd7bdba26aad0e28c85d955.png",
+    "thumb": "icons/en/thumbs/Harkonar_Scope.b28d2b70ffd7bdba26aad0e28c85d955.128x128.png",
+    "icon_format": "port",
+    "url_name": "harkonar_scope",
+    "tradable": true,
+    "en": {
+        "item_name": "Harkonar Scope",
+        "description": "<p>Harkonar Scope is a Sniper Mod that increases a sniper rifle's combo duration while aiming.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Harkonar_Scope",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Прицел харконар",
+        "description": "<p>Прицел Харконар — мод для снайперского оружия, который увеличивает длительность комбо при прицеливании.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D1%86%D0%B5%D0%BB_%D1%85%D0%B0%D1%80%D0%BA%D0%BE%D0%BD%D0%B0%D1%80",
+        "icon": "icons/ru/Harkonar_Scope.ecfc559b91d9fb19c1fb3014a803c68a.png",
+        "thumb": "icons/ru/thumbs/Harkonar_Scope.ecfc559b91d9fb19c1fb3014a803c68a.128x128.png",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

@@ -1,0 +1,104 @@
+{
+    "_id": "54a74455e779892d5e5156e2",
+    "tags": [
+        "mod",
+        "rifle",
+        "uncommon"
+    ],
+    "icon": "icons/en/Stormbringer.b285307831913950e6d3fc05500352c7.png",
+    "thumb": "icons/en/thumbs/Stormbringer.b285307831913950e6d3fc05500352c7.128x128.png",
+    "icon_format": "port",
+    "url_name": "stormbringer",
+    "tradable": true,
+    "en": {
+        "item_name": "Stormbringer",
+        "description": "<p>The Stormbringer mod adds  Electricity damage to a weapon by 15% per rank for a maximum of 90% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stormbringer",
+        "drop": [
+            {
+                "name": "Ballista",
+                "link": null
+            },
+            {
+                "name": "Lynx",
+                "link": null
+            },
+            {
+                "name": "Sprag",
+                "link": null
+            },
+            {
+                "name": "Ven'kra Tel",
+                "link": null
+            },
+            {
+                "name": "Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Interception Reward",
+                "link": null
+            },
+            {
+                "name": "Spy Reward",
+                "link": null
+            },
+            {
+                "name": "OrokinStorage Container",
+                "link": null
+            },
+            {
+                "name": "Vor's Prize (Damaged)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Громовержец",
+        "description": "<p>Громовержец — необычный мод для основного оружия, который увеличивает  электрический урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D1%86",
+        "icon": "icons/ru/Stormbringer.bd4d9d80bf2634c2525a9fd816ff2eb9.png",
+        "thumb": "icons/ru/thumbs/Stormbringer.bd4d9d80bf2634c2525a9fd816ff2eb9.128x128.png",
+        "drop": [
+            {
+                "name": "Ballista",
+                "link": null
+            },
+            {
+                "name": "Lynx",
+                "link": null
+            },
+            {
+                "name": "Sprag",
+                "link": null
+            },
+            {
+                "name": "Ven'kra Tel",
+                "link": null
+            },
+            {
+                "name": "Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Interception Reward",
+                "link": null
+            },
+            {
+                "name": "Spy Reward",
+                "link": null
+            },
+            {
+                "name": "OrokinStorage Container",
+                "link": null
+            },
+            {
+                "name": "Vor's Prize (Damaged)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

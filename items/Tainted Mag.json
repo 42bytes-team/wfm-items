@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156e5",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Tainted_Mag.39fd33acdfae357e3d1a4de81f41b598.png",
+    "thumb": "icons/en/thumbs/Tainted_Mag.39fd33acdfae357e3d1a4de81f41b598.128x128.png",
+    "icon_format": "port",
+    "url_name": "tainted_mag",
+    "tradable": true,
+    "en": {
+        "item_name": "Tainted Mag",
+        "description": "<p>Tainted Mag is an assault rifle mod that increases magazine capacity while decreasing the reload speed.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tainted_Mag",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Осквернённый магазин",
+        "description": "<p>Осквернённый Магазин —  поврежденный мод для основного оружия, который увеличивает емкость магазина, взамен уменьшая скорость перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%81%D0%BA%D0%B2%D0%B5%D1%80%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Tainted_Mag.2062b1b81473fcb525e66cee6129b117.png",
+        "thumb": "icons/ru/thumbs/Tainted_Mag.2062b1b81473fcb525e66cee6129b117.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

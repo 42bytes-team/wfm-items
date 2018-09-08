@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e5155f9",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Vigor.f6d82ca2f863b300f3e53296976f9c81.png",
+    "thumb": "icons/en/thumbs/Vigor.f6d82ca2f863b300f3e53296976f9c81.128x128.png",
+    "icon_format": "port",
+    "url_name": "vigor",
+    "tradable": true,
+    "en": {
+        "item_name": "Vigor",
+        "description": "<p>The Vigor mod increases both Shield Capacity and Health attributes of a Warframe by a percentage of their base values.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigor",
+        "drop": [
+            {
+                "name": "Operation Arid Fear",
+                "link": null
+            },
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Биоэнергия",
+        "description": "<p>Биоэнергия — гибридный мод для варфреймов, который увеличивает базовые показатели щита и здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B8%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
+        "icon": "icons/ru/Vigor.597b9255f5393dcd9fa46fbaa1e37885.png",
+        "thumb": "icons/ru/thumbs/Vigor.597b9255f5393dcd9fa46fbaa1e37885.128x128.png",
+        "drop": [
+            {
+                "name": "Operation Arid Fear",
+                "link": null
+            },
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

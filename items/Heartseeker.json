@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4d9",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Heartseeker.463698c22aba220200956023b53177a1.png",
+    "thumb": "icons/en/thumbs/Heartseeker.463698c22aba220200956023b53177a1.128x128.png",
+    "icon_format": "port",
+    "url_name": "heartseeker",
+    "tradable": true,
+    "en": {
+        "item_name": "Heartseeker",
+        "description": "<p>Heartseeker is a Conclave/PvP Daggers Melee only Mod that decreases blocking effectiveness but enables automatic lock-on for melee attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Heartseeker",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Искатель сердец",
+        "description": "<p>Искатель Сердец — мод для кинжалов в режиме конклава, который автоматически наводит оружие ближнего боя на врагов в определенном радиусе, взамен снижая эффективность блока.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D1%81%D0%B5%D1%80%D0%B4%D0%B5%D1%86",
+        "icon": "icons/ru/Heartseeker.bc387a5d97b12cbec856ee1f98c2ed42.png",
+        "thumb": "icons/ru/thumbs/Heartseeker.bc387a5d97b12cbec856ee1f98c2ed42.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

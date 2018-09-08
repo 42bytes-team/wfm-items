@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515604",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Soul_Survivor.624cc099e5f256c381bd6d024d6d1270.png",
+    "thumb": "icons/en/thumbs/Soul_Survivor.624cc099e5f256c381bd6d024d6d1270.128x128.png",
+    "icon_format": "port",
+    "url_name": "soul_survivor",
+    "tradable": true,
+    "en": {
+        "item_name": "Soul Survivor",
+        "description": "<p>Soul Survivor is a Warframe Augment Mod that allows Nekros to use Soul Punch on allies in bleedout to revive them with partial health, at the cost of consuming all of Nekros's energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Soul_Survivor",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Выжившая душа",
+        "description": "<p>Выжившая Душа — мод-аугмент для варфрейма Некрос, улучшающий его способность Удар Души. Применение на союзнике, истекающим кровью, позволяет мгновенно воскресить его с неполным запасом здоровья,  при этом поглощая всю энергию Некроса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F_%D0%B4%D1%83%D1%88%D0%B0",
+        "icon": "icons/ru/Soul_Survivor.9bebdca342f77851742f558ad8c59ad4.png",
+        "thumb": "icons/ru/thumbs/Soul_Survivor.9bebdca342f77851742f558ad8c59ad4.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

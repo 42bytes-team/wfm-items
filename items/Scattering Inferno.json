@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515623",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Scattering_Inferno.0d2bd26b4df8e46933575d5f9e3ebb3f.png",
+    "thumb": "icons/en/thumbs/Scattering_Inferno.0d2bd26b4df8e46933575d5f9e3ebb3f.128x128.png",
+    "icon_format": "port",
+    "url_name": "scattering_inferno",
+    "tradable": true,
+    "en": {
+        "item_name": "Scattering Inferno",
+        "description": "<p>The Scattering Inferno mod increases both the  Heat damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Scattering_Inferno",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "17 points inOperation Breeding Grounds",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Разброс инферно",
+        "description": "<p>Разброс Инферно — гибридный мод для дробовиков, который увеличивает  огненный урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D1%80%D0%BE%D1%81_%D0%B8%D0%BD%D1%84%D0%B5%D1%80%D0%BD%D0%BE",
+        "icon": "icons/ru/Scattering_Inferno.807a2794dcad10db597d4f6601efe31f.png",
+        "thumb": "icons/ru/thumbs/Scattering_Inferno.807a2794dcad10db597d4f6601efe31f.128x128.png",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "17 points inOperation Breeding Grounds",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,55 @@
+{
+    "_id": "56a7b2b21133f656cb085d96",
+    "tags": [
+        "mod",
+        "common"
+    ],
+    "icon": "icons/en/Focused_Defense.f01158368a0551cdf22c4bc629c93340.png",
+    "thumb": "icons/en/thumbs/Focused_Defense.f01158368a0551cdf22c4bc629c93340.128x128.png",
+    "icon_format": "port",
+    "url_name": "focused_defense",
+    "tradable": true,
+    "en": {
+        "item_name": "Focused Defense",
+        "description": "<p>Focused Defense is a melee mod that increases armor while channeling at the cost of reduced channeling efficiency.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Focused_Defense",
+        "drop": [
+            {
+                "name": "Malice",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Идеальная оборона",
+        "description": "<p>Идеальная Оборона - обычный мод для оружия ближнего боя, который при активированной концентрации добавляет варфрейму 5% брони, однако также уменьшает эффективность концентрации на -35% за ранг. На максимальном ранге дает +20% брони во время концентрации, уменьшая эффективность концентрации на 140%.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0",
+        "icon": "icons/ru/Focused_Defense.3ea4e08a9f596551253e7b00def14d99.png",
+        "thumb": "icons/ru/thumbs/Focused_Defense.3ea4e08a9f596551253e7b00def14d99.128x128.png",
+        "drop": [
+            {
+                "name": "Malice",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

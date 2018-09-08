@@ -1,0 +1,48 @@
+{
+    "_id": "5a2feeb2c2c9e90cbdaa23d5",
+    "tags": [
+        "blueprint",
+        "warframe"
+    ],
+    "icon": "icons/en/Mirage_Prime_Set.e7f8f484dd6ae6c35f0767fff35a5109.png",
+    "thumb": "icons/en/thumbs/Mirage_Prime_Set.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "mirage_prime_chassis",
+    "tradable": true,
+    "part_of_set": [
+        "5a2feeb2c2c9e90cbdaa23d3",
+        "5a2feeb1c2c9e90cbdaa23d2",
+        "5a2feeb2c2c9e90cbdaa23d4",
+        "5a2feeb2c2c9e90cbdaa23d5",
+        "5a2feeb2c2c9e90cbdaa23d6"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Mirage Prime Chassis",
+        "description": "<p>Release Date: December 12, 2017</p><p>Dazzle the opposition with this golden master of illusion and mayhem.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Mirage/Prime",
+        "drop": [
+            {
+                "name": "Lith S7 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мираж Прайм Каркас",
+        "description": "<p>Релиз: 12 Декабря, 2017</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B8%D1%80%D0%B0%D0%B6/%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Лит S7 Обычная",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 8,
+    "ducats": 15,
+    "trading_tax": 4000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4e8",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Razor_Munitions.83cd92fcf1aa1ca8eaccb6f27d28f30b.png",
+    "thumb": "icons/en/thumbs/Razor_Munitions.83cd92fcf1aa1ca8eaccb6f27d28f30b.128x128.png",
+    "icon_format": "port",
+    "url_name": "razor_munitions",
+    "tradable": true,
+    "en": {
+        "item_name": "Razor Munitions",
+        "description": "<p>Razor Munitions is a PvP exclusive Pistol Mod that converts an amount of damage to Slash damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Razor_Munitions",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Режущие боеприпасы",
+        "description": "<p>Режущие Боеприпасы — необычный мод для вторичного оружия в режиме конклава, который преобразует % базового урона в  режущий.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B5%D0%B6%D1%83%D1%89%D0%B8%D0%B5_%D0%B1%D0%BE%D0%B5%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%81%D1%8B",
+        "icon": "icons/ru/Razor_Munitions.3166844e29b61731f7980b412c0b8423.png",
+        "thumb": "icons/ru/thumbs/Razor_Munitions.3166844e29b61731f7980b412c0b8423.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

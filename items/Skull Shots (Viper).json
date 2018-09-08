@@ -1,0 +1,39 @@
+{
+    "_id": "56dac5a85cc639de0a45c525",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Skull_Shots_(Viper).0f2cd3213223affa788129654da092e8.png",
+    "thumb": "icons/en/thumbs/Skull_Shots_(Viper).0f2cd3213223affa788129654da092e8.128x128.png",
+    "icon_format": "port",
+    "url_name": "skull_shots_(viper)",
+    "tradable": true,
+    "en": {
+        "item_name": "Skull Shots (Viper)",
+        "description": "<p>Skull Shots is PvP-exclusive Viper mod which increases Ammo Efficiency for 1 second, on Headshot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Skull_Shots",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Выстрел в голову",
+        "description": "<p>Выстрел в голову - условный мод для вторичного оружия Гадюка в режиме конклава, который снижает затраты боеприпасов на 25% на 0.25 секунд при попадании в голову. На максимальном ранге мода стрельба абсолютно не потребляет боеприпасов в течение 1 секунды.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_%D0%B2_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%83",
+        "icon": "icons/ru/Skull_Shots_(Viper).8051f59b39c0b93ee3fa85396d48ffa6.png",
+        "thumb": "icons/ru/thumbs/Skull_Shots_(Viper).8051f59b39c0b93ee3fa85396d48ffa6.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

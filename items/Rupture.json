@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515671",
+    "tags": [
+        "mod",
+        "rifle",
+        "common"
+    ],
+    "icon": "icons/en/Rupture.630bd87001b46e7542217517d61eb74f.png",
+    "thumb": "icons/en/thumbs/Rupture.630bd87001b46e7542217517d61eb74f.128x128.png",
+    "icon_format": "port",
+    "url_name": "rupture",
+    "tradable": true,
+    "en": {
+        "item_name": "Rupture",
+        "description": "<p>Rupture increases the  Impact damage of Rifles. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rupture",
+        "drop": [
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedElectric Crawler",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Разрыв",
+        "description": "<p>Разрыв — обычный мод для основного оружия, который увеличивает  ударный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2",
+        "icon": "icons/ru/Rupture.5290f8991b54823669a470be5c23cea9.png",
+        "thumb": "icons/ru/thumbs/Rupture.5290f8991b54823669a470be5c23cea9.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedElectric Crawler",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

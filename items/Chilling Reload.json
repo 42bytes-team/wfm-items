@@ -1,0 +1,48 @@
+{
+    "_id": "5814b1f2ca550948410af0ae",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Chilling_Reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.png",
+    "thumb": "icons/en/thumbs/Chilling_Reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.128x128.png",
+    "icon_format": "port",
+    "url_name": "chilling_reload",
+    "tradable": true,
+    "en": {
+        "item_name": "Chilling Reload",
+        "description": "<p>Chilling Reload increases  Cold damage and Reload Speed of Shotguns.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Chilling_Reload",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Леденящая перезарядка",
+        "description": "<p>Леденящая перезарядка — редкий мод для дробовиков, который увеличивает  ледяной урон и скорость перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D0%B4%D0%B5%D0%BD%D1%8F%D1%89%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0",
+        "icon": "icons/ru/Chilling_Reload.38af64c89e0edadfb5d4114f5e35f90f.png",
+        "thumb": "icons/ru/thumbs/Chilling_Reload.38af64c89e0edadfb5d4114f5e35f90f.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

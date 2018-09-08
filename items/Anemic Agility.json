@@ -1,0 +1,40 @@
+{
+    "_id": "54dd27f0e7798934fcf60799",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Anemic_Agility.93c78266ad510a79aa159112aadd754b.png",
+    "thumb": "icons/en/thumbs/Anemic_Agility.93c78266ad510a79aa159112aadd754b.128x128.png",
+    "icon_format": "port",
+    "url_name": "anemic_agility",
+    "tradable": true,
+    "en": {
+        "item_name": "Anemic Agility",
+        "description": "<p>Anemic Agility is a Corrupted Mod that increases a pistol's Fire Rate by 15% per rank but decreases its damage  by 2.5% per rank, for a maximum of 90% fire rate and -15% damage at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Anemic_Agility",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Анемичная ловкость",
+        "description": "<p>Анемичная Ловкость — поврежденный мод для вторичного оружия, который увеличивает скорострельность, взамен уменьшая урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Anemic_Agility.51aa6d54f226d3eca1dd5b674ded8677.png",
+        "thumb": "icons/ru/thumbs/Anemic_Agility.51aa6d54f226d3eca1dd5b674ded8677.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

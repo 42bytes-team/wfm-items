@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e5155d1",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Rifle_Ammo_Mutation.ceb8ace4467da7e032915e6330d9cf65.png",
+    "thumb": "icons/en/thumbs/Rifle_Ammo_Mutation.ceb8ace4467da7e032915e6330d9cf65.128x128.png",
+    "icon_format": "port",
+    "url_name": "rifle_ammo_mutation",
+    "tradable": true,
+    "en": {
+        "item_name": "Rifle Ammo Mutation",
+        "description": "<p>Rifle Ammo Mutation is an assault rifle mod that converts any unused ammo type into Rifle Ammo. The affected rifle will only convert ammo while equipped, and will not convert any ammo type used by holstered secondary weapons until their own ammo is full.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Ammo_Mutation",
+        "drop": [
+            {
+                "name": "Operation Sling-Stone",
+                "link": null
+            },
+            {
+                "name": "Survival (Rotation C)",
+                "link": null
+            },
+            {
+                "name": "Excavation (Rotation C)",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мутатор: винтовка",
+        "description": "<p>Мутатор: Винтовка — редкий мод для основного оружия, который превращает лишние подобранные патроны в патроны для винтовки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80:_%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B0",
+        "icon": "icons/ru/Rifle_Ammo_Mutation.1cba7af41b889a4a11cc1e89880d6ddb.png",
+        "thumb": "icons/ru/thumbs/Rifle_Ammo_Mutation.1cba7af41b889a4a11cc1e89880d6ddb.128x128.png",
+        "drop": [
+            {
+                "name": "Operation Sling-Stone",
+                "link": null
+            },
+            {
+                "name": "Survival (Rotation C)",
+                "link": null
+            },
+            {
+                "name": "Excavation (Rotation C)",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,64 @@
+{
+    "_id": "54a74455e779892d5e5156de",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Stabilizer.a31ad68e7d65e2e209c966fac3d5a6d1.png",
+    "thumb": "icons/en/thumbs/Stabilizer.a31ad68e7d65e2e209c966fac3d5a6d1.128x128.png",
+    "icon_format": "port",
+    "url_name": "stabilizer",
+    "tradable": true,
+    "en": {
+        "item_name": "Stabilizer",
+        "description": "<p>The Stabilizer mod is a rifle mod that reduces the recoil produced from firing a weapon by 15% per rank for a maximum of 60% at Rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stabilizer",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Tier 2-3Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            },
+            {
+                "name": "Tier 3Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Стабилизатор",
+        "description": "<p>Стабилизатор — редкий мод для основного оружия, который уменьшает отдачу.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80",
+        "icon": "icons/ru/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.png",
+        "thumb": "icons/ru/thumbs/Stabilizer.25cf5f29b34749a2e5bbd72e3c5427b3.128x128.png",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Tier 2-3Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            },
+            {
+                "name": "Tier 3Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

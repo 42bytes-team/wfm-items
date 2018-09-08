@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e5156e0",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Sundering_Strike.ebd1f73508fa44ab1d00a53ce98de05e.png",
+    "thumb": "icons/en/thumbs/Sundering_Strike.ebd1f73508fa44ab1d00a53ce98de05e.128x128.png",
+    "icon_format": "port",
+    "url_name": "sundering_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Sundering Strike",
+        "description": "<p>Sundering Strike increases  Puncture damage on a melee weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sundering_Strike",
+        "drop": [
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Tier 3Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Рассекающий удар",
+        "description": "<p>Рассекающий Удар — редкий мод для оружия ближнего боя, который увеличивает  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Sundering_Strike.a4c2b40335174dffa82e02a62afa22f0.png",
+        "thumb": "icons/ru/thumbs/Sundering_Strike.a4c2b40335174dffa82e02a62afa22f0.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Tier 3Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

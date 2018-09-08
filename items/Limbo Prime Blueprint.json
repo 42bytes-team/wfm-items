@@ -1,0 +1,50 @@
+{
+    "_id": "5b2987aaeb069f0536234276",
+    "tags": [
+        "blueprint",
+        "prime",
+        "warframe"
+    ],
+    "icon": "icons/en/Limbo_Prime_Set.7bfbc70bd8438594d45a47fba260b174.png",
+    "thumb": "icons/en/thumbs/Limbo_Prime_Set.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "limbo_prime_blueprint",
+    "tradable": true,
+    "part_of_set": [
+        "5b2987abeb069f0536234278",
+        "5b2987aaeb069f0536234276",
+        "5b2987abeb069f0536234277",
+        "5b2987abeb069f0536234279",
+        "5b2987abeb069f053623427a"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Limbo Prime Blueprint",
+        "description": "<p>Release Date: June 19, 2018</p><p>Limbo Prime is a Primed variant of Limbo.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Limbo/Prime",
+        "drop": [
+            {
+                "name": "Meso Z1 Uncommon",
+                "link": null
+            }
+        ],
+        "codex": "Dance between realms with this golden rift walker. Featuring altered mod polarities for greater customization."
+    },
+    "ru": {
+        "item_name": "Лимбо Прайм Чертеж",
+        "description": "<p>Release Date: June 19, 2018</p><p>Limbo Prime is a Primed variant of Limbo.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Limbo/Prime",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Meso Z1 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 4,
+    "ducats": 45,
+    "trading_tax": 4000
+}

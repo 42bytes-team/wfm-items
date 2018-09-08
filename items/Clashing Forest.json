@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515622",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Clashing_Forest.f7d9fcda2617d407371ca2e1e6da9b1f.png",
+    "thumb": "icons/en/thumbs/Clashing_Forest.f7d9fcda2617d407371ca2e1e6da9b1f.128x128.png",
+    "icon_format": "port",
+    "url_name": "clashing_forest",
+    "tradable": true,
+    "en": {
+        "item_name": "Clashing Forest",
+        "description": "<p>Clashing Forest is one of two Stance mods compatible with Staff type weapons. It is a highly mobile stance in which the Tenno advances in tandem with their strikes.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Clashing_Forest",
+        "drop": [
+            {
+                "name": "Corrupted Ancient",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Грохочущий лес",
+        "description": "<p>Грохочущий Лес — это необычная стойка, предназначенная для оружия ближнего боя класса Посохи. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D1%85%D0%BE%D1%87%D1%83%D1%89%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81",
+        "icon": "icons/ru/Clashing_Forest.6ff88ab70b8ba2438dc85eb83707fd7d.png",
+        "thumb": "icons/ru/thumbs/Clashing_Forest.6ff88ab70b8ba2438dc85eb83707fd7d.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Ancient",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

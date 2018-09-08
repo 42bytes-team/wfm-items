@@ -1,0 +1,48 @@
+{
+    "_id": "55c15448e779895dccdabe9c",
+    "tags": [
+        "mod",
+        "unique",
+        "rare"
+    ],
+    "icon": "icons/en/Adhesive_Blast.10b405d40b908ec8cf3ea73547e724f7.png",
+    "thumb": "icons/en/thumbs/Adhesive_Blast.10b405d40b908ec8cf3ea73547e724f7.128x128.png",
+    "icon_format": "port",
+    "url_name": "adhesive_blast",
+    "tradable": true,
+    "en": {
+        "item_name": "Adhesive Blast",
+        "description": "<p>Adhesive Blast allows weapon-fired grenades to stick to surfaces.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast",
+        "drop": [
+            {
+                "name": "InfestedAncient Disruptor",
+                "link": null
+            },
+            {
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Адгезивный взрыв",
+        "description": "<p>Адгезивный Взрыв — редкий мод для установок, позволяющий снарядам прилипать к поверхности. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D0%B3%D0%B5%D0%B7%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
+        "icon": "icons/ru/Adhesive_Blast.d0669fd97778e3ce363c0b5901482af4.png",
+        "thumb": "icons/ru/thumbs/Adhesive_Blast.d0669fd97778e3ce363c0b5901482af4.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedAncient Disruptor",
+                "link": null
+            },
+            {
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

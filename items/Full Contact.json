@@ -1,0 +1,48 @@
+{
+    "_id": "554d3f0ce779894445a848f0",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Full_Contact.1cead3f23fdf3edb28589758f25d73d6.png",
+    "thumb": "icons/en/thumbs/Full_Contact.1cead3f23fdf3edb28589758f25d73d6.128x128.png",
+    "icon_format": "port",
+    "url_name": "full_contact",
+    "tradable": true,
+    "en": {
+        "item_name": "Full Contact",
+        "description": "<p>The Full Contact mod increases  Impact damage of shotguns by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Full_Contact",
+        "drop": [
+            {
+                "name": "Operation False Profit reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Полный контакт",
+        "description": "<p>Полный Контакт — редкий мод для дробовиков, который увеличивает  ударный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82",
+        "icon": "icons/ru/Full_Contact.f75ce1da1f6a9bec437de97df6ca6702.png",
+        "thumb": "icons/ru/thumbs/Full_Contact.f75ce1da1f6a9bec437de97df6ca6702.128x128.png",
+        "drop": [
+            {
+                "name": "Operation False Profit reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

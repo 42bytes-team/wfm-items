@@ -1,0 +1,80 @@
+{
+    "_id": "54a74454e779892d5e51568c",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Tactical_Pump.20356a918f1ff578e35e1443a5026b65.png",
+    "thumb": "icons/en/thumbs/Tactical_Pump.20356a918f1ff578e35e1443a5026b65.128x128.png",
+    "icon_format": "port",
+    "url_name": "tactical_pump",
+    "tradable": true,
+    "en": {
+        "item_name": "Tactical Pump",
+        "description": "<p>The Tactical Pump mod increases reload speed of a shotgun by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tactical_Pump",
+        "drop": [
+            {
+                "name": "CorpusJackal",
+                "link": null
+            },
+            {
+                "name": "CorpusRazorback",
+                "link": null
+            },
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тактическая помпа",
+        "description": "<p>Тактическая Помпа — необычный мод для дробовиков, который увеличивает скорость перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BC%D0%BF%D0%B0",
+        "icon": "icons/ru/Tactical_Pump.46649129b897936cecb82681bf45c019.png",
+        "thumb": "icons/ru/thumbs/Tactical_Pump.46649129b897936cecb82681bf45c019.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusJackal",
+                "link": null
+            },
+            {
+                "name": "CorpusRazorback",
+                "link": null
+            },
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

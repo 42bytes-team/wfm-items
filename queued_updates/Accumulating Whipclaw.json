@@ -1,0 +1,25 @@
+{
+    "tags": [
+        "mod",
+        "khora"
+    ],
+    "icon": "local://item_operations/icons/accumulating_whipclaw.png",
+    "icon_format": "port",
+    "tradable": true,
+    "en": {
+        "item_name": "Accumulating Whipclaw",
+        "description": "<p>Hitting 3 enemies will grant a 35% stacking Damage Bonus to subsequent Whipclaws. Bonus will decay after 10s.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Accumulating_Whipclaw",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Accumulating Whipclaw",
+        "description": "<p>Hitting 3 enemies will grant a 35% stacking Damage Bonus to subsequent Whipclaws. Bonus will decay after 10s.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Accumulating_Whipclaw",
+        "drop": []
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000,
+    "ready": true
+}

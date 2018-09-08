@@ -1,0 +1,54 @@
+{
+    "_id": "5783bf54d9b6753790c89e97",
+    "tags": [
+        "parts",
+        "archwing",
+        "blade"
+    ],
+    "icon": "icons/en/Onorix_Set.04c7efcf7c6239c88c275d164d6a259a.png",
+    "thumb": "icons/en/thumbs/Onorix_Set.04c7efcf7c6239c88c275d164d6a259a.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "onorix_blade",
+    "tradable": true,
+    "part_of_set": [
+        "582b0f880af25410b099f7fd",
+        "5783bf54d9b6753790c89e97",
+        "5783bf4ed9b6753790c89e96"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Onorix Blade",
+        "description": "<p>The Onorix is a heavy axe designed for use with the Archwing flight system.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Onorix",
+        "drop": [
+            {
+                "name": "New Loka",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ],
+        "codex": "This laser-bladed battle axe easily hacks through a ship's defenses and the forces defending it."
+    },
+    "ru": {
+        "item_name": "Онорикс Клинок",
+        "description": "<p>Эта секира с лазерной кромкой лезвий легко пронзает защиту корабля и сил, его обороняющих</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BD%D0%BE%D1%80%D0%B8%D0%BA%D1%81",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "New Loka",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

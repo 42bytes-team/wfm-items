@@ -1,0 +1,47 @@
+{
+    "_id": "59dfeb63115f1d887cfd7abc",
+    "tags": [
+        "mod",
+        "vigilante"
+    ],
+    "icon": "icons/en/Vigilante_Pursuit.332dedb5fa7b6edac656a8fd1ad10535.png",
+    "thumb": "icons/en/thumbs/Vigilante_Pursuit.332dedb5fa7b6edac656a8fd1ad10535.128x128.png",
+    "icon_format": "port",
+    "url_name": "vigilante_pursuit",
+    "tradable": true,
+    "en": {
+        "item_name": "Vigilante Pursuit",
+        "description": "<p>Vigilante Pursuit is a set mod that displays all enemies within its radius with red markers on the mini-map.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Pursuit",
+        "drop": [
+            {
+                "name": "Bounty (30-50 )",
+                "link": null
+            },
+            {
+                "name": "Plains Commander (0.33%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Карательная Слежка",
+        "description": "<p>Карательная Слежка — необычный мод для варфреймов, который отмечает врагов на мини-карте в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%A1%D0%BB%D0%B5%D0%B6%D0%BA%D0%B0",
+        "icon": "icons/ru/Vigilante_Pursuit.de231320f282f31c9e3e27a46e576d24.png",
+        "thumb": "icons/ru/thumbs/Vigilante_Pursuit.de231320f282f31c9e3e27a46e576d24.128x128.png",
+        "drop": [
+            {
+                "name": "Заказы (30-50 )",
+                "link": null
+            },
+            {
+                "name": "Командир Равнин (0.33%)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

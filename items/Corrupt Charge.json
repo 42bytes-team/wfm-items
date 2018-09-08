@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515657",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Corrupt_Charge.612c9b65612f6c91c1eb811194bfc962.png",
+    "thumb": "icons/en/thumbs/Corrupt_Charge.612c9b65612f6c91c1eb811194bfc962.128x128.png",
+    "icon_format": "port",
+    "url_name": "corrupt_charge",
+    "tradable": true,
+    "en": {
+        "item_name": "Corrupt Charge",
+        "description": "<p>Corrupt Charge increases the Channeling damage of melee weapons while reducing Channeling efficiency.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Corrupt_Charge",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Разлагающий заряд",
+        "description": "<p>Разлагающий Заряд — мод концентрации, который увеличивает урон от концентрации, взамен снижая ее эффективность. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D0%BB%D0%B0%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%B7%D0%B0%D1%80%D1%8F%D0%B4",
+        "icon": "icons/ru/Corrupt_Charge.33ab10e3d4ea10da5c378a621f658fe6.png",
+        "thumb": "icons/ru/thumbs/Corrupt_Charge.33ab10e3d4ea10da5c378a621f658fe6.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e5156c5",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Buzz_Kill.40ec58c4f4598e9f4d94aa7fc38c8e4b.png",
+    "thumb": "icons/en/thumbs/Buzz_Kill.40ec58c4f4598e9f4d94aa7fc38c8e4b.128x128.png",
+    "icon_format": "port",
+    "url_name": "buzz_kill",
+    "tradable": true,
+    "en": {
+        "item_name": "Buzz Kill",
+        "description": "<p>The Buzz Kill mod increases  Slash damage of a melee weapon by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Buzz_Kill",
+        "drop": [
+            {
+                "name": "Operation: Gate Crash reward",
+                "link": null
+            },
+            {
+                "name": "Tactical Alert Emergency Exit",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Убивающий гул",
+        "description": "<p>Убивающий Гул — редкий мод для оружия ближнего боя, который увеличивает  режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%B3%D1%83%D0%BB",
+        "icon": "icons/ru/Buzz_Kill.e059490d01d11b022d6a433ce69c2aa9.png",
+        "thumb": "icons/ru/thumbs/Buzz_Kill.e059490d01d11b022d6a433ce69c2aa9.128x128.png",
+        "drop": [
+            {
+                "name": "Operation: Gate Crash reward",
+                "link": null
+            },
+            {
+                "name": "Tactical Alert Emergency Exit",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

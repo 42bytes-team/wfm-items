@@ -1,0 +1,112 @@
+{
+    "_id": "54a74455e779892d5e5156d5",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Killing_Blow.d2485dec97e285d62908a7291c7c9d8a.png",
+    "thumb": "icons/en/thumbs/Killing_Blow.d2485dec97e285d62908a7291c7c9d8a.128x128.png",
+    "icon_format": "port",
+    "url_name": "killing_blow",
+    "tradable": true,
+    "en": {
+        "item_name": "Killing Blow",
+        "description": "<p>Killing Blow increases the channeling damage of a melee weapon by 20% per rank, at a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Killing_Blow",
+        "drop": [
+            {
+                "name": "Councilor Vay Hek",
+                "link": null
+            },
+            {
+                "name": "Lieutenant Lech Kril",
+                "link": null
+            },
+            {
+                "name": "Phorid",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerArtificer",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Смертельный удар",
+        "description": "<p>Смертельный Удар — необычный мод концентрации для оружия ближнего боя, который увеличивает мощность атаки при использовании концентрации. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Killing_Blow.f55f309b82e8ae66ed4e32f9758cb753.png",
+        "thumb": "icons/ru/thumbs/Killing_Blow.f55f309b82e8ae66ed4e32f9758cb753.128x128.png",
+        "drop": [
+            {
+                "name": "Councilor Vay Hek",
+                "link": null
+            },
+            {
+                "name": "Lieutenant Lech Kril",
+                "link": null
+            },
+            {
+                "name": "Phorid",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerArtificer",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

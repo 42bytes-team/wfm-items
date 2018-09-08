@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec0e779896af9418258",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Explosive_Legerdemain.57a5e4fb2b850e67dfdbfa748cfbe64c.png",
+    "thumb": "icons/en/thumbs/Explosive_Legerdemain.57a5e4fb2b850e67dfdbfa748cfbe64c.128x128.png",
+    "icon_format": "port",
+    "url_name": "explosive_legerdemain",
+    "tradable": true,
+    "en": {
+        "item_name": "Explosive Legerdemain",
+        "description": "<p>Explosive Legerdemain is a Warframe Augment Mod for Mirage that causes Sleight Of Hand to turn all eligible Pickups into proximity mines ready to detonate.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Legerdemain",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Взрывной обман",
+        "description": "<p>Взрывной Обман — мод-аугмент для варфрейма Мираж, улучшающий её способность Ловкость Рук. Подбираемые предметы превращаются в мины, наносящие врагам урон при попадании. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BC%D0%B0%D0%BD",
+        "icon": "icons/ru/Explosive_Legerdemain.4bcc3db23864e960e14242e7ee8cb7e2.png",
+        "thumb": "icons/ru/thumbs/Explosive_Legerdemain.4bcc3db23864e960e14242e7ee8cb7e2.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

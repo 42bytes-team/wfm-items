@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155a3",
+    "tags": [
+        "mod",
+        "archwing",
+        "common"
+    ],
+    "icon": "icons/en/Energy_Inversion.7d740ef630c6614d7ae0d72789a69c7f.png",
+    "thumb": "icons/en/thumbs/Energy_Inversion.7d740ef630c6614d7ae0d72789a69c7f.128x128.png",
+    "icon_format": "port",
+    "url_name": "energy_inversion",
+    "tradable": true,
+    "en": {
+        "item_name": "Energy Inversion",
+        "description": "<p>The Energy Inversion mod increases the Shield Capacity of an Archwing by 30% per rank at a maximum of 120% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Inversion",
+        "drop": [
+            {
+                "name": "GrineerShield Dargyn",
+                "link": null
+            },
+            {
+                "name": "Archwing Interception Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Инверсия энергии",
+        "description": "<p>Инверсия Энергии — обычный мод для арчвинга, который увеличивает показатель щита.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8",
+        "icon": "icons/ru/Energy_Inversion.8c78deedfff112506a80d0a089cd5d9e.png",
+        "thumb": "icons/ru/thumbs/Energy_Inversion.8c78deedfff112506a80d0a089cd5d9e.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerShield Dargyn",
+                "link": null
+            },
+            {
+                "name": "Archwing Interception Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

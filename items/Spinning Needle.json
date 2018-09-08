@@ -1,0 +1,39 @@
+{
+    "_id": "57c5948794b4b0f159ab5e0e",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Spinning_Needle.bdc6d23ef44620e513b7dbad41ff7c26.png",
+    "thumb": "icons/en/thumbs/Spinning_Needle.bdc6d23ef44620e513b7dbad41ff7c26.128x128.png",
+    "icon_format": "port",
+    "url_name": "spinning_needle",
+    "tradable": true,
+    "en": {
+        "item_name": "Spinning Needle",
+        "description": "<p>Can be equipped on:</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spinning_Needle",
+        "drop": [
+            {
+                "name": "InfestedLeaper",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вращающаяся игла",
+        "description": "<p>Вращающаяся игла — это необычная стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%89%D0%B0%D1%8F%D1%81%D1%8F_%D0%B8%D0%B3%D0%BB%D0%B0",
+        "icon": "icons/ru/Spinning_Needle.221c3feff1f46c55e43e7f22251d1c76.png",
+        "thumb": "icons/ru/thumbs/Spinning_Needle.221c3feff1f46c55e43e7f22251d1c76.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedLeaper",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "trading_tax": 4000
+}

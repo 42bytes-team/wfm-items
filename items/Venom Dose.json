@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155eb",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Venom_Dose.d007c6d2482b902147768da85fccc6cf.png",
+    "thumb": "icons/en/thumbs/Venom_Dose.d007c6d2482b902147768da85fccc6cf.128x128.png",
+    "icon_format": "port",
+    "url_name": "venom_dose",
+    "tradable": true,
+    "en": {
+        "item_name": "Venom Dose",
+        "description": "<p>Venom Dose is a Warframe Augment Mod for Saryn that allows Spores to be cast on allies, temporarily granting them additional  Toxin damage to all attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Venom_Dose",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Доза яда",
+        "description": "<p>Доза Яда — мод-аугмент для варфрейма Сарина и Сарина Прайм, улучшающий её способность Споры. Применение на союзнике даст ему возможность наносить дополнительный  токсичный урон в течение определенного промежутка времени. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%B7%D0%B0_%D1%8F%D0%B4%D0%B0",
+        "icon": "icons/ru/Venom_Dose.1a5699017aba253a3168720481764142.png",
+        "thumb": "icons/ru/thumbs/Venom_Dose.1a5699017aba253a3168720481764142.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

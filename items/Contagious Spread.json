@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e5155da",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Contagious_Spread.e2853d158134319b74677c8a17ffa80d.png",
+    "thumb": "icons/en/thumbs/Contagious_Spread.e2853d158134319b74677c8a17ffa80d.128x128.png",
+    "icon_format": "port",
+    "url_name": "contagious_spread",
+    "tradable": true,
+    "en": {
+        "item_name": "Contagious Spread",
+        "description": "<p>Contagious Spread increases the  Toxin damage on a Shotgun Weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Contagious_Spread",
+        "drop": [
+            {
+                "name": "CorpusScavenger Drone",
+                "link": null
+            },
+            {
+                "name": "InfestedElectric Crawler",
+                "link": null
+            },
+            {
+                "name": "Hive Sabotage Cache",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Заразный разброс",
+        "description": "<p>Заразный Разброс  — необычный мод для дробовиков, который увеличивает  токсичный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B7%D0%B1%D1%80%D0%BE%D1%81",
+        "icon": "icons/ru/Contagious_Spread.fcebedcc3b90093e915a450436f6f04c.png",
+        "thumb": "icons/ru/thumbs/Contagious_Spread.fcebedcc3b90093e915a450436f6f04c.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusScavenger Drone",
+                "link": null
+            },
+            {
+                "name": "InfestedElectric Crawler",
+                "link": null
+            },
+            {
+                "name": "Hive Sabotage Cache",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

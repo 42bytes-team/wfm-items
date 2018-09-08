@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a509",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Feathered_Arrows.c024ea4e02bfe81e74a987d71e60c886.png",
+    "thumb": "icons/en/thumbs/Feathered_Arrows.c024ea4e02bfe81e74a987d71e60c886.128x128.png",
+    "icon_format": "port",
+    "url_name": "feathered_arrows",
+    "tradable": true,
+    "en": {
+        "item_name": "Feathered Arrows",
+        "description": "<p>Feathered Arrows  is a PvP-exclusive Bow mod which provides faster projectile flight speed at the cost of reduced damage.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Оперённые стрелы",
+        "description": "<p>Оперённые Стрелы — необычный мод для луков в режиме конклава, который увеличивает скорость полёта стрелы, взамен уменьшая урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8B",
+        "icon": "icons/ru/Feathered_Arrows.86176c0fcb1242395ea7e3e16942d2f6.png",
+        "thumb": "icons/ru/thumbs/Feathered_Arrows.86176c0fcb1242395ea7e3e16942d2f6.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515658",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Shock_Trooper.49895e046fdca37d2f6308e528165f82.png",
+    "thumb": "icons/en/thumbs/Shock_Trooper.49895e046fdca37d2f6308e528165f82.128x128.png",
+    "icon_format": "port",
+    "url_name": "shock_trooper",
+    "tradable": true,
+    "en": {
+        "item_name": "Shock Trooper",
+        "description": "<p>Shock Trooper is a Warframe Augment Mod for Volt that allows Shock to be cast on allies, temporarily granting them additional  Electric damage to all attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shock_Trooper",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Шоковый пехотинец",
+        "description": "<p>Шоковый пехотинец — мод-аугмент для варфрейма Вольт и Вольт Прайм, улучшающий его способность шок. Применение на союзнике даст ему возможность наносить дополнительный   электрический урон в течение определённого промежутка времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B5%D1%85%D0%BE%D1%82%D0%B8%D0%BD%D0%B5%D1%86",
+        "icon": "icons/ru/Shock_Trooper.c42bd49aa009e2dbf192371d1a3c51dd.png",
+        "thumb": "icons/ru/thumbs/Shock_Trooper.c42bd49aa009e2dbf192371d1a3c51dd.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "54a74454e779892d5e515646",
+    "tags": [
+        "mod",
+        "warframe",
+        "common"
+    ],
+    "icon": "icons/en/Thief's_Wit.b861b939df1689692ce5371fbe2d1e2d.png",
+    "thumb": "icons/en/thumbs/Thief's_Wit.b861b939df1689692ce5371fbe2d1e2d.128x128.png",
+    "icon_format": "port",
+    "url_name": "thiefs_wit",
+    "tradable": true,
+    "en": {
+        "item_name": "Thief's Wit",
+        "description": "<p>Thief's Wit is a Warframe mod which adds a loot radar to the minimap. The loot radar will display resources, lootable canisters, chests, crates, and lootable corpses (which only appear during the self-destruction environmental hazard) on the mini-map. It will also locate Medallions in Syndicate Alert Missions and Resource Caches in Sabotage missions. Thief's Wit will not display lockers or dropped blueprints.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Thief's_Wit",
+        "drop": [
+            {
+                "name": "The Sergeant",
+                "link": null
+            },
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Чутьё вора",
+        "description": "<p>Чутьё Вора — эксилус мод для варфреймов, который отмечает на мини-карте ресурсы, моды и контейнеры в определённом радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D1%82%D1%8C%D1%91_%D0%B2%D0%BE%D1%80%D0%B0",
+        "icon": "icons/ru/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.png",
+        "thumb": "icons/ru/thumbs/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.128x128.png",
+        "drop": [
+            {
+                "name": "The Sergeant",
+                "link": null
+            },
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

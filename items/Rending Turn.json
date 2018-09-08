@@ -1,0 +1,40 @@
+{
+    "_id": "55c153dae779895d91dff3bb",
+    "tags": [
+        "mod",
+        "parkour",
+        "uncommon"
+    ],
+    "icon": "icons/en/Rending_Turn.1a63e9edd7387b62a3ebf1dac810dcc8.png",
+    "thumb": "icons/en/thumbs/Rending_Turn.1a63e9edd7387b62a3ebf1dac810dcc8.128x128.png",
+    "icon_format": "port",
+    "url_name": "rending_turn",
+    "tradable": true,
+    "en": {
+        "item_name": "Rending Turn",
+        "description": "<p>The Rending Turn mod increases the speed of Bullet Jump, lengthens the duration of Aim Glide and Wall Latching, and adds  Slash damage to Bullet Jump.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rending_Turn",
+        "drop": [
+            {
+                "name": "Drekar EvisceratorSabotage Uranus",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Разрывающий поворот",
+        "description": "<p>Разрывающий Поворот — эксилус мод для варфреймов, который увеличивает скорость прыжка-выстрела, длительность полета и фиксации на стене, а также даёт бонусный  режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%82",
+        "icon": "icons/ru/Rending_Turn.e590f5224ef065a195fc7d39050dfa2f.png",
+        "thumb": "icons/ru/thumbs/Rending_Turn.e590f5224ef065a195fc7d39050dfa2f.128x128.png",
+        "drop": [
+            {
+                "name": "Drekar EvisceratorSabotage Uranus",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

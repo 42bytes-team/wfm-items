@@ -1,0 +1,49 @@
+{
+    "_id": "559daae8e779897b56bee133",
+    "tags": [
+        "blueprint",
+        "prime"
+    ],
+    "icon": "icons/en/Vectis_Prime_Set.028e001af4469482df80bff29542e043.png",
+    "thumb": "icons/en/thumbs/Vectis_Prime_Set.028e001af4469482df80bff29542e043.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "vectis_prime_blueprint",
+    "tradable": true,
+    "part_of_set": [
+        "56783f24cbfa8f0432dd89b1",
+        "559daae0e779897b5273b716",
+        "559daae8e779897b56bee133",
+        "559daaefe779897b5a2d3551",
+        "559daaf7e779897b5f3f5480"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Vectis Prime Blueprint",
+        "description": "<p>The Vectis Prime is the prime version of the Vectis sniper rifle. Featuring higher base damage and a doubled magazine, the Vectis Prime retains the standard version's 4x zoom setting, but swaps the Vectis' 3x zoom for a much higher 10x zoom, allowing for both medium and long range combat.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vectis_Prime",
+        "drop": [
+            {
+                "name": "Lith A1 Uncommon",
+                "link": null
+            }
+        ],
+        "codex": "Once thought destroyed, the newly uncovered Vectis Prime revives Tenno martial traditions."
+    },
+    "ru": {
+        "item_name": "Вектис прайм Чертеж",
+        "description": "<p>Однажды считавшаяся утерянной, винтовка Вектис Прайм возрождает боевые традиции Тэнно.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%B8%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Lith A1 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

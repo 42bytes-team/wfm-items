@@ -1,0 +1,48 @@
+{
+    "_id": "55397302e77989047f88411c",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Perpetual_Vortex.da2527719d70b46359d08248e715524d.png",
+    "thumb": "icons/en/thumbs/Perpetual_Vortex.da2527719d70b46359d08248e715524d.128x128.png",
+    "icon_format": "port",
+    "url_name": "perpetual_vortex",
+    "tradable": true,
+    "en": {
+        "item_name": "Perpetual Vortex",
+        "description": "<p>Perpetual Vortex is a Warframe Augment Mod for Vauban's Vortex that increases its duration for every additional Vortex thrown into it.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Perpetual_Vortex",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вечный вихрь",
+        "description": "<p>Вечный Вихрь — мод-аугмент для варфреймов Вобан и Вобан Прайм, улучшающий его способность Вихрь. Уже активный вихрь можно продлить повторно кинув вихрь в уже существующий.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B8%D1%85%D1%80%D1%8C",
+        "icon": "icons/ru/Perpetual_Vortex.b2d8a5a7b6fe5e9816776ce8f660648f.png",
+        "thumb": "icons/ru/thumbs/Perpetual_Vortex.b2d8a5a7b6fe5e9816776ce8f660648f.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

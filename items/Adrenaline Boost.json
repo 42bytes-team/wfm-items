@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a504",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Adrenaline_Boost.88d9c8458c9ee910776531a85f3021ad.png",
+    "thumb": "icons/en/thumbs/Adrenaline_Boost.88d9c8458c9ee910776531a85f3021ad.128x128.png",
+    "icon_format": "port",
+    "url_name": "adrenaline_boost",
+    "tradable": true,
+    "en": {
+        "item_name": "Adrenaline Boost",
+        "description": "<p>Adrenaline Boost is a PvP-exclusive Warframe mod which provides more Energy at the cost of reduced Health. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Adrenaline_Boost",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Выброс адреналина",
+        "description": "<p>Выброс адреналина — редкий мод для варфреймов в режиме конклава, который увеличивает максимальную энергию, взамен уменьшая здоровье.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D0%B1%D1%80%D0%BE%D1%81_%D0%B0%D0%B4%D1%80%D0%B5%D0%BD%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0",
+        "icon": "icons/ru/Adrenaline_Boost.245b5d482771336128529e0b4a9e8b20.png",
+        "thumb": "icons/ru/thumbs/Adrenaline_Boost.245b5d482771336128529e0b4a9e8b20.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

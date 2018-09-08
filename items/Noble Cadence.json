@@ -1,0 +1,39 @@
+{
+    "_id": "5800c901c021d9dc0a9f891e",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Noble_Cadence.181a81c57ee312bbd781192b6369efb2.png",
+    "thumb": "icons/en/thumbs/Noble_Cadence.181a81c57ee312bbd781192b6369efb2.128x128.png",
+    "icon_format": "port",
+    "url_name": "noble_cadence",
+    "tradable": true,
+    "en": {
+        "item_name": "Noble Cadence",
+        "description": "<p>Noble Cadence is a PvP exclusive Stance mod for Heavy Blades.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Noble_Cadence",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Благородная каденция",
+        "description": "<p>Благородная Каденция — необычная стойка в режиме конклава, предназначенная для оружия ближнего боя класса тяжёлые клинки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D1%8F",
+        "icon": "icons/ru/Noble_Cadence.073f070ec9a1730f90ac43a0a9448dcf.png",
+        "thumb": "icons/ru/thumbs/Noble_Cadence.073f070ec9a1730f90ac43a0a9448dcf.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "trading_tax": 4000
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "54a74455e779892d5e5156b3",
+    "tags": [
+        "mod",
+        "shotgun",
+        "common"
+    ],
+    "icon": "icons/en/Flechette.d861855060f3cffa9baa7a9157d9169a.png",
+    "thumb": "icons/en/thumbs/Flechette.d861855060f3cffa9baa7a9157d9169a.128x128.png",
+    "icon_format": "port",
+    "url_name": "flechette",
+    "tradable": true,
+    "en": {
+        "item_name": "Flechette",
+        "description": "<p>Flechette increases the  Puncture damage of shotguns.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Flechette",
+        "drop": [
+            {
+                "name": "InfestedAncient Disrupter",
+                "link": null
+            },
+            {
+                "name": "InfestedBrood Mother",
+                "link": null
+            },
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Игольчатые снаряды",
+        "description": "<p>Игольчатые Снаряды — обычный мод для дробовиков, который увеличивает  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B3%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D1%8B%D0%B5_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
+        "icon": "icons/ru/Flechette.0a374445eb28cee89f69a33a8bdbf41d.png",
+        "thumb": "icons/ru/thumbs/Flechette.0a374445eb28cee89f69a33a8bdbf41d.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedAncient Disrupter",
+                "link": null
+            },
+            {
+                "name": "InfestedBrood Mother",
+                "link": null
+            },
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

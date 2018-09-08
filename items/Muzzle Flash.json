@@ -1,0 +1,48 @@
+{
+    "_id": "54e0c9eee7798903744178a5",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Muzzle_Flash.a69e742b615a88d8971f99dcd6ba7fa0.png",
+    "thumb": "icons/en/thumbs/Muzzle_Flash.a69e742b615a88d8971f99dcd6ba7fa0.128x128.png",
+    "icon_format": "port",
+    "url_name": "muzzle_flash",
+    "tradable": true,
+    "en": {
+        "item_name": "Muzzle Flash",
+        "description": "<p>Muzzle Flash is a Warframe Augment Mod for Mesa, that makes Shooting Gallery emit a flash that blinds enemies before switching to another player.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Muzzle_Flash",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пламя выстрела",
+        "description": "<p>Пламя Выстрела — мод-аугмент для варфрейма Миса, улучшающий её способность Тир. После окончания действия ослепит всех врагов в определенном радиусе от игрока, на котором он окончился.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B0",
+        "icon": "icons/ru/Muzzle_Flash.5363feeedce05d44d6c3826dcd73c58e.png",
+        "thumb": "icons/ru/thumbs/Muzzle_Flash.5363feeedce05d44d6c3826dcd73c58e.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

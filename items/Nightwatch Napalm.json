@@ -1,0 +1,40 @@
+{
+    "_id": "5729bd0acb59ed5a9b484e8e",
+    "tags": [
+        "mod",
+        "weapons",
+        "uncommon"
+    ],
+    "icon": "icons/en/Nightwatch_Napalm.b05aadc47dbdbf18a8e8adb0a7dd564e.png",
+    "thumb": "icons/en/thumbs/Nightwatch_Napalm.b05aadc47dbdbf18a8e8adb0a7dd564e.128x128.png",
+    "icon_format": "port",
+    "url_name": "nightwatch_napalm",
+    "tradable": true,
+    "en": {
+        "item_name": "Nightwatch Napalm",
+        "description": "<p>Nightwatch Napalm is an Ogris-exclusive mod that, upon striking an enemy or object, small pockets of fire will form a ring around the impact area, dealing 30% of the weapons base  Blast damage as  Heat damage with 100% chance to proc, for 6 seconds. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Nightwatch_Napalm",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Напалм ночного дозора",
+        "description": "<p>Напалм Ночного Дозора — мод-аугмент для ракетной установки Огрис, который добавляет возможность ракетам наносить часть от основного урона напалмом в течение определённого промежутка времени в некотором радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D0%BF%D0%B0%D0%BB%D0%BC_%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%B7%D0%BE%D1%80%D0%B0",
+        "icon": "icons/ru/Nightwatch_Napalm.d814645811503432845148c8ec6ad14b.png",
+        "thumb": "icons/ru/thumbs/Nightwatch_Napalm.d814645811503432845148c8ec6ad14b.128x128.png",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

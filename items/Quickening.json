@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e5156df",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Quickening.9e97bf104d79d8311bd058bd79b120c0.png",
+    "thumb": "icons/en/thumbs/Quickening.9e97bf104d79d8311bd058bd79b120c0.128x128.png",
+    "icon_format": "port",
+    "url_name": "quickening",
+    "tradable": true,
+    "en": {
+        "item_name": "Quickening",
+        "description": "<p>Quickening increases the attack speed of melee weapons while channeling at the cost of reduced channeling efficiency.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Quickening",
+        "drop": [
+            {
+                "name": "Dark Sectors Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ускоряющий",
+        "description": "<p>Ускоряющий — редкий мод концентрации для оружия ближнего боя, который увеличивает скорость атаки, взамен уменьшая эффективность концентрации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D0%B9",
+        "icon": "icons/ru/Quickening.e5c0f247575db10bc09a5eebfefc1e02.png",
+        "thumb": "icons/ru/thumbs/Quickening.e5c0f247575db10bc09a5eebfefc1e02.128x128.png",
+        "drop": [
+            {
+                "name": "Dark Sectors Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

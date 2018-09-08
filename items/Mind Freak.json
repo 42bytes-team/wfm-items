@@ -1,0 +1,48 @@
+{
+    "_id": "54e644ffe779897594fa68ce",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Mind_Freak.9fa9ad270ea0f0f491a1c49b20e621a6.png",
+    "thumb": "icons/en/thumbs/Mind_Freak.9fa9ad270ea0f0f491a1c49b20e621a6.128x128.png",
+    "icon_format": "port",
+    "url_name": "mind_freak",
+    "tradable": true,
+    "en": {
+        "item_name": "Mind Freak",
+        "description": "<p>Mind Freak is a Warframe Augment Mod for Nyx that makes enemies under the effects of Mind Control deal additional attack damage. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Mind_Freak",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Каприз разума",
+        "description": "<p>Каприз Разума — мод-аугмент для варфрейма Никс и Никс Прайм, улучшаюий её способность Власть над разумом. Увеличивается урон цели, подверженной эффекту умения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%B8%D0%B7_%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0",
+        "icon": "icons/ru/Mind_Freak.b8add81c1b98946fab58c13d83c07a3e.png",
+        "thumb": "icons/ru/thumbs/Mind_Freak.b8add81c1b98946fab58c13d83c07a3e.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

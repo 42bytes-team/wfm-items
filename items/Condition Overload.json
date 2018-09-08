@@ -1,0 +1,40 @@
+{
+    "_id": "58446f192c2ada003b4d4ffc",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Condition_Overload.fe7962221a25bc6305bbad0dc925e38b.png",
+    "thumb": "icons/en/thumbs/Condition_Overload.fe7962221a25bc6305bbad0dc925e38b.128x128.png",
+    "icon_format": "port",
+    "url_name": "condition_overload",
+    "tradable": true,
+    "en": {
+        "item_name": "Condition Overload",
+        "description": "<p>Condition Overload grant extra melee damage for each Status Effect type affecting the target.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Condition_Overload",
+        "drop": [
+            {
+                "name": "Drekar Butcher",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Избыточное Состояние",
+        "description": "<p>+60% Урона в Ближнем Боя за каждый тип статуса на цели.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Избыточное_Состояние",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Drekar Butcher",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

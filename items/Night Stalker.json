@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4e2",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Night_Stalker.e3f83458b9a79243df2613bf3d334861.png",
+    "thumb": "icons/en/thumbs/Night_Stalker.e3f83458b9a79243df2613bf3d334861.128x128.png",
+    "icon_format": "port",
+    "url_name": "night_stalker",
+    "tradable": true,
+    "en": {
+        "item_name": "Night Stalker",
+        "description": "<p>Night Stalker is a secondary weapon mod in PvP which causes targets hit by secondary weapons to be temporarily visible on the minimap. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Night_Stalker",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ночной охотник",
+        "description": "<p>Ночной Охотник — необычный мод для вторичного оружия в режиме конклава, который отображает задетых выстрелом противников на миникарте в течение определенного промежутка времени. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA",
+        "icon": "icons/ru/Night_Stalker.080d84c9d541a7c24efe189a68b5f73e.png",
+        "thumb": "icons/ru/thumbs/Night_Stalker.080d84c9d541a7c24efe189a68b5f73e.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

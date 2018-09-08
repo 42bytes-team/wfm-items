@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e5155fd",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Brutal_Tide.5af3086dd2d058f73ac47b98a73cd6aa.png",
+    "thumb": "icons/en/thumbs/Brutal_Tide.5af3086dd2d058f73ac47b98a73cd6aa.128x128.png",
+    "icon_format": "port",
+    "url_name": "brutal_tide",
+    "tradable": true,
+    "en": {
+        "item_name": "Brutal Tide",
+        "description": "<p>Brutal Tide is one of two Stance mods for hands & feet weapons, featuring highly agile sweeping kicks combined with powerful fist attacks. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Brutal_Tide",
+        "drop": [
+            {
+                "name": "InfestedBoiler",
+                "link": null
+            },
+            {
+                "name": "InfestedArcane Boiler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Ancient",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Брутальный натиск",
+        "description": "<p>Брутальный Натиск — это редкая стойка, предназначенная для оружия ближнего боя класса Спарринг. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D1%82%D0%B8%D1%81%D0%BA",
+        "icon": "icons/ru/Brutal_Tide.6c231e794938ee5e8b301919b2abed64.png",
+        "thumb": "icons/ru/thumbs/Brutal_Tide.6c231e794938ee5e8b301919b2abed64.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedBoiler",
+                "link": null
+            },
+            {
+                "name": "InfestedArcane Boiler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Ancient",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

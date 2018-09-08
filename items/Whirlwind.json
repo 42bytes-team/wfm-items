@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e51563a",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Whirlwind.80aebc2d1fc7a32c71c31d57142b555b.png",
+    "thumb": "icons/en/thumbs/Whirlwind.80aebc2d1fc7a32c71c31d57142b555b.128x128.png",
+    "icon_format": "port",
+    "url_name": "whirlwind",
+    "tradable": true,
+    "en": {
+        "item_name": "Whirlwind",
+        "description": "<p>Whirlwind increases the flight speed of Glaive weapons. As a direct result, this mod also increases throwing distance.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Whirlwind",
+        "drop": [
+            {
+                "name": "Corrupted Bombard",
+                "link": null
+            },
+            {
+                "name": "Corrupted Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Corrupted Nullifier",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ураган",
+        "description": "<p>Ураган — редкий мод для оружия ближнего боя класса Глефы, который увеличивает скорость полёта при метательной атаке. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
+        "icon": "icons/ru/Whirlwind.f00eaf345d79e6b673e748f66b635833.png",
+        "thumb": "icons/ru/thumbs/Whirlwind.f00eaf345d79e6b673e748f66b635833.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Bombard",
+                "link": null
+            },
+            {
+                "name": "Corrupted Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Corrupted Nullifier",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

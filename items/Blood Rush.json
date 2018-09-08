@@ -1,0 +1,56 @@
+{
+    "_id": "56a7b24c1133f656cb085d85",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Blood_Rush.7512063f1029665d1ddc9b5d9a0700f8.png",
+    "thumb": "icons/en/thumbs/Blood_Rush.7512063f1029665d1ddc9b5d9a0700f8.128x128.png",
+    "icon_format": "port",
+    "url_name": "blood_rush",
+    "tradable": true,
+    "en": {
+        "item_name": "Blood Rush",
+        "description": "<p>Blood Rush is an uncommon Melee mod that increases Critical chance as the Melee Combo Counter increases.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Blood_Rush",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Torment",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Приток крови",
+        "description": "<p>Приток Крови — необычный мод для оружия ближнего боя, который даёт шанс критического урона в зависимости от счётчика комбо-ударов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%BA%D1%80%D0%BE%D0%B2%D0%B8",
+        "icon": "icons/ru/Blood_Rush.dd5689d19999a7ab5e76b1bd0a69ff69.png",
+        "thumb": "icons/ru/thumbs/Blood_Rush.dd5689d19999a7ab5e76b1bd0a69ff69.128x128.png",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Torment",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 10,
+    "trading_tax": 4000
+}

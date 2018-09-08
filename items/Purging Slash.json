@@ -1,0 +1,40 @@
+{
+    "_id": "554d3f0ce779894445a848f5",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Purging_Slash.886c4664423e40b382dc41558493e7f5.png",
+    "thumb": "icons/en/thumbs/Purging_Slash.886c4664423e40b382dc41558493e7f5.128x128.png",
+    "icon_format": "port",
+    "url_name": "purging_slash",
+    "tradable": true,
+    "en": {
+        "item_name": "Purging Slash",
+        "description": "<p>Purging Slash is a Warframe Augment Mod for Excalibur's Slash Dash in PvP that removes allies' debuffs and restores their shields when Slash Dashed into. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Purging_Slash",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Очищающий рывок",
+        "description": "<p>Очищающий рывок — мод-аугмент для варфрейма Экскалибур и Экскалибур прайм в режиме конклава, улучшающий его способность рассекающий рывок, который восстанавливает показатели щита и снимает негативные эффекты всем попавшим в радиус действия способности союзникам.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%87%D0%B8%D1%89%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%80%D1%8B%D0%B2%D0%BE%D0%BA",
+        "icon": "icons/ru/Purging_Slash.e86d658a7f1a47c944d851d44277f2e8.png",
+        "thumb": "icons/ru/thumbs/Purging_Slash.e86d658a7f1a47c944d851d44277f2e8.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

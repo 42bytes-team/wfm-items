@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515613",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Homing_Fang.4a024ae5692abd0ef304003c58a31ef7.png",
+    "thumb": "icons/en/thumbs/Homing_Fang.4a024ae5692abd0ef304003c58a31ef7.128x128.png",
+    "icon_format": "port",
+    "url_name": "homing_fang",
+    "tradable": true,
+    "en": {
+        "item_name": "Homing Fang",
+        "description": "<p>Homing Fang is a Stance mod for daggers that features highly mobile spinning attacks and powerful finishers. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Homing_Fang",
+        "drop": [
+            {
+                "name": "InfestedNauseous Crawler",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Находящий клык",
+        "description": "<p>Находящий Клык — это необычная стойка, предназначенная для оружия ближнего боя типа Кинжалы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D0%B9_%D0%BA%D0%BB%D1%8B%D0%BA",
+        "icon": "icons/ru/Homing_Fang.cfaaccdd41d5af01feb7dbff778ddc1d.png",
+        "thumb": "icons/ru/thumbs/Homing_Fang.cfaaccdd41d5af01feb7dbff778ddc1d.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedNauseous Crawler",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

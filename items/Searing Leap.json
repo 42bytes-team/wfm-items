@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4f0",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Searing_Leap.49e5b609935a9d61587e14ac7a729f85.png",
+    "thumb": "icons/en/thumbs/Searing_Leap.49e5b609935a9d61587e14ac7a729f85.128x128.png",
+    "icon_format": "port",
+    "url_name": "searing_leap",
+    "tradable": true,
+    "en": {
+        "item_name": "Searing Leap",
+        "description": "<p>Searing Leap is a PvP-exclusive Exilus mod that increases Bullet Jump speed and grants  Heat damage to Bullet Jumps at Max Energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Searing_Leap",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Обжигающий прыжок",
+        "description": "<p>Обжигающий прыжок — эксилус мод для варфреймов в режиме конклава, который даёт бонусный  огненный урон стремительному прыжку, расходуя энергию при попадании в противника в том случае, если у варфрейма в момент нанесения урона было максимальное количество энергии.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%B6%D0%B8%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
+        "icon": "icons/ru/Searing_Leap.a7e6049fffaac70efd08c621d4cb1797.png",
+        "thumb": "icons/ru/thumbs/Searing_Leap.a7e6049fffaac70efd08c621d4cb1797.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

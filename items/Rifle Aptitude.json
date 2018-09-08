@@ -1,0 +1,72 @@
+{
+    "_id": "54a74454e779892d5e51562a",
+    "tags": [
+        "mod",
+        "rifle",
+        "uncommon"
+    ],
+    "icon": "icons/en/Rifle_Aptitude.4fb3374071db751af083e54519fb8034.png",
+    "thumb": "icons/en/thumbs/Rifle_Aptitude.4fb3374071db751af083e54519fb8034.128x128.png",
+    "icon_format": "port",
+    "url_name": "rifle_aptitude",
+    "tradable": true,
+    "en": {
+        "item_name": "Rifle Aptitude",
+        "description": "<p>Rifle Aptitude increases the Status Chance of Rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude",
+        "drop": [
+            {
+                "name": "GrineerArid Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "GrinnerGuardsman Eximus",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Боеспособность",
+        "description": "<p>Боеспособность — необычный мод для основного оружия, который увеличивает шанс срабатывания статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D1%85%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA",
+        "icon": "icons/ru/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png",
+        "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerArid Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "GrinnerGuardsman Eximus",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

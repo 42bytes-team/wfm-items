@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a511",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Heavy_Warhead.f6463d740768ab98091869aa34de1698.png",
+    "thumb": "icons/en/thumbs/Heavy_Warhead.f6463d740768ab98091869aa34de1698.128x128.png",
+    "icon_format": "port",
+    "url_name": "heavy_warhead",
+    "tradable": true,
+    "en": {
+        "item_name": "Heavy Warhead",
+        "description": "<p>Heavy Warhead is PvP-exclusive Pistol Mod which increases explosion radius for a reduction in flight speed. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Утяжелённые боеголовки",
+        "description": "<p>Утяжелённые Боеголовки — редкий мод для вторичного оружия в режиме конклава, который увеличивает радиус поражения снаряда, взамен уменьшая скорость его полёта.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D0%B5%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8",
+        "icon": "icons/ru/Heavy_Warhead.84f166424dbddd2263462a31d9233dcb.png",
+        "thumb": "icons/ru/thumbs/Heavy_Warhead.84f166424dbddd2263462a31d9233dcb.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

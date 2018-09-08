@@ -1,0 +1,41 @@
+{
+    "_id": "563893fcb66f83093e823472",
+    "tags": [
+        "mod",
+        "pistol",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Target_Cracker.dbdd7561e20eb9243d62a193a1d786aa.png",
+    "thumb": "icons/en/thumbs/Primed_Target_Cracker.dbdd7561e20eb9243d62a193a1d786aa.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_target_cracker",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Target Cracker",
+        "description": "<p>Primed Target Cracker is the Primed version of Target Cracker, which increases the critical damage of Pistols. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Target_Cracker",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Дробитель прайм",
+        "description": "<p>Дробитель прайм — легендарный мод для вторичного оружия, который увеличивает множитель критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Target_Cracker.e80b851c60b62d5c92aa665cb29cc122.png",
+        "thumb": "icons/ru/thumbs/Primed_Target_Cracker.e80b851c60b62d5c92aa665cb29cc122.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

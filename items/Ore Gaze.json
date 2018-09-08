@@ -1,0 +1,47 @@
+{
+    "_id": "56b656cbef0390c7e4006380",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Ore_Gaze.b00450a6b07791dcdbace16e888159c6.png",
+    "thumb": "icons/en/thumbs/Ore_Gaze.b00450a6b07791dcdbace16e888159c6.128x128.png",
+    "icon_format": "port",
+    "url_name": "ore_gaze",
+    "tradable": true,
+    "en": {
+        "item_name": "Ore Gaze",
+        "description": "<p>Ore Gaze is a Warframe Augment Mod for Atlas that modifies Petrify to cause enemies turned to stone to be scanned into the codex and have a chance to make them drop extra loot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ore_Gaze",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Рудный взор",
+        "description": "<p>Рудный Взор — мод-аугмент для варфрейма Атлас, улучшающий его способность Остолбенение. Окаменевшие враги заносятся в кодекс и имеют шанс обронить после своей смерти дополнительный предмет.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D0%BE%D1%80",
+        "icon": "icons/ru/Ore_Gaze.b77f50eede031b5edf5da16f99ed2f8d.png",
+        "thumb": "icons/ru/thumbs/Ore_Gaze.b77f50eede031b5edf5da16f99ed2f8d.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

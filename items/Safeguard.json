@@ -1,0 +1,48 @@
+{
+    "_id": "57c20990022d3f62c0d81aa8",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Safeguard.636dc23f7f989e63a549c926a64efee6.png",
+    "thumb": "icons/en/thumbs/Safeguard.636dc23f7f989e63a549c926a64efee6.128x128.png",
+    "icon_format": "port",
+    "url_name": "safeguard",
+    "tradable": true,
+    "en": {
+        "item_name": "Safeguard",
+        "description": "<p>Safeguard is a Warframe Augment Mod for Nezha that allows him to cast Warding Halo on allies, albeit with reduced durability.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Safeguard",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Защитные меры",
+        "description": "<p>Защитные меры - мод-аугмент для варфрейма Нэчжа, изменяющий способность оберегающее гало. Теперь оберегающее гало может быть применено на союзниках с 50% эффективностью.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%80%D1%8B",
+        "icon": "icons/ru/Safeguard.53999a795c91389d98a06d414f29e0c9.png",
+        "thumb": "icons/ru/thumbs/Safeguard.53999a795c91389d98a06d414f29e0c9.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

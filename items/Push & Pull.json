@@ -1,0 +1,39 @@
+{
+    "_id": "56dac5765cc639de0a45c51d",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Push_&_Pull.390046aef411e9647af281f85d990c2f.png",
+    "thumb": "icons/en/thumbs/Push_&_Pull.390046aef411e9647af281f85d990c2f.128x128.png",
+    "icon_format": "port",
+    "url_name": "push_and_pull",
+    "tradable": true,
+    "en": {
+        "item_name": "Push & Pull",
+        "description": "<p>Push & Pull is a Warframe Augment Mod for Equinox's Metamorphosis in PvP that Staggers enemies within 6m when switching to day-form, or knocks them down if switching to night-form. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Push_&_Pull",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Натиск и рывок",
+        "description": "<p>Натиск И Рывок — мод-аугмент для варфрейма Эквинокс в режиме конклава, улучшающий её способность метаморфоза. При переключении на дневную форму срабатывает эффект оглушения или опрокидывания (в зависимости от переключаемой стороны). При переключении на дневную сторону — оглушает, при переключении на ночную сторону — опрокидывает.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D1%82%D0%B8%D1%81%D0%BA_%D0%B8_%D1%80%D1%8B%D0%B2%D0%BE%D0%BA",
+        "icon": "icons/ru/Push_&_Pull.d457540b4324dbc4cb21dd6681e047ec.png",
+        "thumb": "icons/ru/thumbs/Push_&_Pull.d457540b4324dbc4cb21dd6681e047ec.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

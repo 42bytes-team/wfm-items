@@ -1,0 +1,72 @@
+{
+    "_id": "54a74455e779892d5e5156f0",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Reaping_Spiral.77e9198edff9f980f9afba221e5431dc.png",
+    "thumb": "icons/en/thumbs/Reaping_Spiral.77e9198edff9f980f9afba221e5431dc.128x128.png",
+    "icon_format": "port",
+    "url_name": "reaping_spiral",
+    "tradable": true,
+    "en": {
+        "item_name": "Reaping Spiral",
+        "description": "<p>Reaping Spiral is a Scythe Stance mod that features somersaults and high damage weapon throws. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Spiral",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerHellion Power Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пожинающая спираль",
+        "description": "<p>Пожинающая Спираль — это необычная стойка, предназначенная для оружия ближнего боя класса Косы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B6%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D1%8C",
+        "icon": "icons/ru/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.png",
+        "thumb": "icons/ru/thumbs/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerHellion Power Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

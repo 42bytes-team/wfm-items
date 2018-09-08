@@ -1,0 +1,39 @@
+{
+    "_id": "5800c901c021d9dc0a9f891c",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Argent_Scourge.8a20a60d9783334c31cfe5eb983f61cd.png",
+    "thumb": "icons/en/thumbs/Argent_Scourge.8a20a60d9783334c31cfe5eb983f61cd.128x128.png",
+    "icon_format": "port",
+    "url_name": "argent_scourge",
+    "tradable": true,
+    "en": {
+        "item_name": "Argent Scourge",
+        "description": "<p>Argent Scourge is a PvP exclusive Stance mod for Polearms.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Argent_Scourge",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Серебристая кара",
+        "description": "<p>Серебристая Кара — необычная стойка в режиме конклава, предназначенная для оружия ближнего боя класса копья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D0%B0",
+        "icon": "icons/ru/Argent_Scourge.b501aaa775642046fe14e71a2946d5f6.png",
+        "thumb": "icons/ru/thumbs/Argent_Scourge.b501aaa775642046fe14e71a2946d5f6.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "trading_tax": 4000
+}

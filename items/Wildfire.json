@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515610",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Wildfire.146df295f70ba7a56acf599bbd52f0ee.png",
+    "thumb": "icons/en/thumbs/Wildfire.146df295f70ba7a56acf599bbd52f0ee.128x128.png",
+    "icon_format": "port",
+    "url_name": "wildfire",
+    "tradable": true,
+    "en": {
+        "item_name": "Wildfire",
+        "description": "<p>The Wildfire mod increases magazine capacity and adds additional  Heat damage increasing it to a maximum of 20% and 60% at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Wildfire",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пожар",
+        "description": "<p>Пожар — гибридный мод для основного оружия, который увеличивает вместимость магазина и увеличивает  огненный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B6%D0%B0%D1%80",
+        "icon": "icons/ru/Wildfire.0f1657bfbba8a45b29d3e2dbd85f7602.png",
+        "thumb": "icons/ru/thumbs/Wildfire.0f1657bfbba8a45b29d3e2dbd85f7602.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

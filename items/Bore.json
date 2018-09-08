@@ -1,0 +1,48 @@
+{
+    "_id": "554d3f0ce779894445a848f8",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Bore.85134a49bc61d938217e3df664f0cef5.png",
+    "thumb": "icons/en/thumbs/Bore.85134a49bc61d938217e3df664f0cef5.128x128.png",
+    "icon_format": "port",
+    "url_name": "bore",
+    "tradable": true,
+    "en": {
+        "item_name": "Bore",
+        "description": "<p>The Bore mod increases  Puncture damage of a pistol by 20% per rank for a maximum of 120% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bore",
+        "drop": [
+            {
+                "name": "Operation: Mutalist Incursions reward",
+                "link": null
+            },
+            {
+                "name": "Tactical Alert (Divine Will )",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сверло",
+        "description": "<p>Сверло  — редкий мод для вторичного оружия, который увеличивает  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D0%BB%D0%BE",
+        "icon": "icons/ru/Bore.fed60c59ed5a1fd2f9ebc40b1e338108.png",
+        "thumb": "icons/ru/thumbs/Bore.fed60c59ed5a1fd2f9ebc40b1e338108.128x128.png",
+        "drop": [
+            {
+                "name": "Operation: Mutalist Incursions reward",
+                "link": null
+            },
+            {
+                "name": "Tactical Alert (Divine Will )",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

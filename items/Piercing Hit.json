@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e51563e",
+    "tags": [
+        "mod",
+        "rifle",
+        "common"
+    ],
+    "icon": "icons/en/Piercing_Hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.png",
+    "thumb": "icons/en/thumbs/Piercing_Hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.128x128.png",
+    "icon_format": "port",
+    "url_name": "piercing_hit",
+    "tradable": true,
+    "en": {
+        "item_name": "Piercing Hit",
+        "description": "<p>The Piercing Hit mod increases  Puncture damage for rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Piercing_Hit",
+        "drop": [
+            {
+                "name": "Shockwave MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пронзающий удар",
+        "description": "<p>Пронзающий Удар — обычный мод для основного оружия, увеличивающий  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%BD%D0%B7%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Piercing_Hit.748168ca401d2171c0ab60945dd267ea.png",
+        "thumb": "icons/ru/thumbs/Piercing_Hit.748168ca401d2171c0ab60945dd267ea.128x128.png",
+        "drop": [
+            {
+                "name": "Shockwave MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

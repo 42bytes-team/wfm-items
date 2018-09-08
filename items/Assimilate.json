@@ -1,0 +1,48 @@
+{
+    "_id": "57c20990022d3f62c0d81aa7",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
+    "thumb": "icons/en/thumbs/Assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png",
+    "icon_format": "port",
+    "url_name": "assimilate",
+    "tradable": true,
+    "en": {
+        "item_name": "Assimilate",
+        "description": "<p>Assimilate is a Warframe Augment Mod for Nyx that allows her to move while channeling Absorb, at the cost of shrinking Absorb's effective radius by 50%. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Assimilate",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ассимиляция",
+        "description": "<p>Улучшение Поглощения - Никс может передвигаться со скоростью 50% от обычной, при этом используя Поглощение, но радиус действия способности снижен вдвое.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Ассимиляция",
+        "icon": "icons/ru/Assimilate.26836cc9cd5e5d9ef0e92e93c42018c0.png",
+        "thumb": "icons/ru/thumbs/Assimilate.26836cc9cd5e5d9ef0e92e93c42018c0.128x128.png",
+        "drop": [
+            {
+                "name": "Арбитры Гексиса",
+                "link": null
+            },
+            {
+                "name": "Новая Лока",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

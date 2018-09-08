@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156b2",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Haven.c002782aff7fe8f1601c895cff626768.png",
+    "thumb": "icons/en/thumbs/Haven.c002782aff7fe8f1601c895cff626768.128x128.png",
+    "icon_format": "port",
+    "url_name": "haven",
+    "tradable": true,
+    "en": {
+        "item_name": "Haven",
+        "description": "<p>Haven is a Warframe Augment Mod for Limbo that makes Banish restore a portion of an injured ally's health.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Haven",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Укрытие",
+        "description": "<p>Укрытие — мод-аугмент для варфрейма Лимбо, улучшающий его способность Изгнание. Союзники, помещенные в разлом, будут регенерировать здоровье со временем.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5",
+        "icon": "icons/ru/Haven.2eed24e8a378519c8f011d65921122fa.png",
+        "thumb": "icons/ru/thumbs/Haven.2eed24e8a378519c8f011d65921122fa.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

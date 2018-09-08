@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e51567d",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Sweeping_Serration.4b3c010db4dbd87d01acd779b861506f.png",
+    "thumb": "icons/en/thumbs/Sweeping_Serration.4b3c010db4dbd87d01acd779b861506f.128x128.png",
+    "icon_format": "port",
+    "url_name": "sweeping_serration",
+    "tradable": true,
+    "en": {
+        "item_name": "Sweeping Serration",
+        "description": "<p>The Sweeping Serration mod increases  Slash damage of a shotgun by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sweeping_Serration",
+        "drop": [
+            {
+                "name": "Operation: Gate Crash reward",
+                "link": null
+            },
+            {
+                "name": "Emergency ExitTactical Alert reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зазубренное рассечение",
+        "description": "<p>Зазубренное Рассечение — редкий мод для дробовиков, который увеличивает  режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%B7%D1%83%D0%B1%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Sweeping_Serration.3156cada9564768ddb9d2280f18fefe8.png",
+        "thumb": "icons/ru/thumbs/Sweeping_Serration.3156cada9564768ddb9d2280f18fefe8.128x128.png",
+        "drop": [
+            {
+                "name": "Operation: Gate Crash reward",
+                "link": null
+            },
+            {
+                "name": "Emergency ExitTactical Alert reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

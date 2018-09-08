@@ -1,0 +1,80 @@
+{
+    "_id": "5696e4e06629907e30c394f8",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Vulpine_Mask.8f91c81fa49c6e9d430b354d01fd3cbf.png",
+    "thumb": "icons/en/thumbs/Vulpine_Mask.8f91c81fa49c6e9d430b354d01fd3cbf.128x128.png",
+    "icon_format": "port",
+    "url_name": "vulpine_mask",
+    "tradable": true,
+    "en": {
+        "item_name": "Vulpine Mask",
+        "description": "<p>Vulpine Mask is a Stance Mod for Rapier type weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vulpine_Mask",
+        "drop": [
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "Destreza Finesse Bundle",
+                "link": null
+            },
+            {
+                "name": "CorpusComba",
+                "link": null
+            },
+            {
+                "name": "CorpusScrambus",
+                "link": null
+            },
+            {
+                "name": "CorpusDatalyst",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Лисья ухмылка",
+        "description": "<p>Лисья Ухмылка — это редкая стойка, предназначенная для оружия ближнего боя класса Рапиры. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B8%D1%81%D1%8C%D1%8F_%D1%83%D1%85%D0%BC%D1%8B%D0%BB%D0%BA%D0%B0",
+        "icon": "icons/ru/Vulpine_Mask.d0cef907e6bd583eaee685aededdb885.png",
+        "thumb": "icons/ru/thumbs/Vulpine_Mask.d0cef907e6bd583eaee685aededdb885.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "Destreza Finesse Bundle",
+                "link": null
+            },
+            {
+                "name": "CorpusComba",
+                "link": null
+            },
+            {
+                "name": "CorpusScrambus",
+                "link": null
+            },
+            {
+                "name": "CorpusDatalyst",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

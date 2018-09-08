@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4ea",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Recuperate.ae5fec3f7c795bb2035fba9441f27a5d.png",
+    "thumb": "icons/en/thumbs/Recuperate.ae5fec3f7c795bb2035fba9441f27a5d.128x128.png",
+    "icon_format": "port",
+    "url_name": "recuperate",
+    "tradable": true,
+    "en": {
+        "item_name": "Recuperate",
+        "description": "<p>Recuperate was a PvP-exclusive secondary weapon mod that gave a chance to restore health on each kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Recuperate",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Выздоровление",
+        "description": "<p>Выздоровление — редкий мод для вторичного оружия в режиме конклава, который с некоторым шансом полностью восстанавливает здоровье при убийстве противника. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Recuperate.8cebe840e13e3a6d614eb9257f256fbc.png",
+        "thumb": "icons/ru/thumbs/Recuperate.8cebe840e13e3a6d614eb9257f256fbc.128x128.png",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

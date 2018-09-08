@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515661",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Rime_Rounds.68c847363e800165a0a585da13f20ce7.png",
+    "thumb": "icons/en/thumbs/Rime_Rounds.68c847363e800165a0a585da13f20ce7.128x128.png",
+    "icon_format": "port",
+    "url_name": "rime_rounds",
+    "tradable": true,
+    "en": {
+        "item_name": "Rime Rounds",
+        "description": "<p>The Rime Rounds mod increases both the  Cold damage and Status Chance of rifles by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rime_Rounds",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Cryotic Front",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Иней-Патроны",
+        "description": "<p>Иней-Патроны — гибридный мод для основного оружия, который увеличивают  ледяной урон и шанс эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%BD%D0%B5%D0%B9-%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
+        "icon": "icons/ru/Rime_Rounds.f01336d6a6bafd005e71f47daa821603.png",
+        "thumb": "icons/ru/thumbs/Rime_Rounds.f01336d6a6bafd005e71f47daa821603.128x128.png",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Cryotic Front",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

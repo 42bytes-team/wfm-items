@@ -1,0 +1,39 @@
+{
+    "_id": "56dac5805cc639de0a45c51f",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Prism_Guard.739b3605765381236dc43f5697692fc1.png",
+    "thumb": "icons/en/thumbs/Prism_Guard.739b3605765381236dc43f5697692fc1.128x128.png",
+    "icon_format": "port",
+    "url_name": "prism_guard",
+    "tradable": true,
+    "en": {
+        "item_name": "Prism Guard",
+        "description": "<p>Prism Guard is a Warframe Augment Mod for Mirage's Prism in PvP that causes the prism to follow above her. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Prism_Guard",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Призма-страж",
+        "description": "<p>Призма-Страж — мод-аугмент для варфрейма Мираж в режиме конклава, улучшающий её способность призма. После применения способности, Призма будет следовать за Мираж в течение короткого промежутка времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0-%D1%81%D1%82%D1%80%D0%B0%D0%B6",
+        "icon": "icons/ru/Prism_Guard.ab8bf49810581e856d22d0f517040fa7.png",
+        "thumb": "icons/ru/thumbs/Prism_Guard.ab8bf49810581e856d22d0f517040fa7.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

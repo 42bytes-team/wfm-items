@@ -1,0 +1,57 @@
+{
+    "_id": "559daad1e779897b4be73862",
+    "tags": [
+        "parts",
+        "prime",
+        "carapace"
+    ],
+    "icon": "icons/en/Carrier_Prime_Set.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+    "thumb": "icons/en/thumbs/Carrier_Prime_Set.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/carapace_128x128.png",
+    "url_name": "carrier_prime_carapace",
+    "tradable": true,
+    "part_of_set": [
+        "56783f24cbfa8f0432dd8996",
+        "559daac1e779897b4253a85e",
+        "559daad1e779897b4be73862",
+        "559daacae779897b47b74c13",
+        "559daad8e779897b4f59525f"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Carrier Prime Carapace",
+        "description": "<p>The Primed version of the Carrier Sentinel, the Carrier Prime features increased health and armor, and comes with the enhanced Sweeper Prime weapon. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Neo S1 Common",
+                "link": null
+            },
+            {
+                "name": "Axi N2 Common",
+                "link": null
+            }
+        ],
+        "codex": "This ornate sentinel is an excellent example of late Orokin craftsmanship and styling"
+    },
+    "ru": {
+        "item_name": "Носитель Прайм Панцирь",
+        "description": "<p>Этот украшенный страж - прекрасный образец мастерства и стиля последних разработок Орокин.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Neo S1 Common",
+                "link": null
+            },
+            {
+                "name": "Axi N2 Common",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 15,
+    "trading_tax": 4000
+}

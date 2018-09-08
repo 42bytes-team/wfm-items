@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515682",
+    "tags": [
+        "mod",
+        "sentinel",
+        "rare"
+    ],
+    "icon": "icons/en/Sacrifice.d4fc63e8b062883f8824e2453f92de37.png",
+    "thumb": "icons/en/thumbs/Sacrifice.d4fc63e8b062883f8824e2453f92de37.128x128.png",
+    "icon_format": "port",
+    "url_name": "sacrifice",
+    "tradable": true,
+    "en": {
+        "item_name": "Sacrifice",
+        "description": "<p>Sacrifice allows a Sentinel to revive its owner at the cost of its own life.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sacrifice",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Жертвоприношение",
+        "description": "<p>Жертвоприношение — редкий мод, позволяющий Стражу возродить хозяина ценой собственной жизни, восстановив ему некоторый запас здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%BF%D1%80%D0%B8%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Sacrifice.d4fc63e8b062883f8824e2453f92de37.png",
+        "thumb": "icons/ru/thumbs/Sacrifice.d4fc63e8b062883f8824e2453f92de37.128x128.png",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

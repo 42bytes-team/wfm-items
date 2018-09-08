@@ -1,0 +1,39 @@
+{
+    "_id": "595567c18e34b5ed3cb3d9bc",
+    "tags": [
+        "mod",
+        "melee"
+    ],
+    "icon": "icons/en/Smite_Corrupted.423d5c24da5d1afc7e0efe1d91d30544.png",
+    "thumb": "icons/en/thumbs/Smite_Corrupted.423d5c24da5d1afc7e0efe1d91d30544.128x128.png",
+    "icon_format": "port",
+    "url_name": "smite_corrupted",
+    "tradable": true,
+    "en": {
+        "item_name": "Smite Corrupted",
+        "description": "<p>Smite Corrupted increases the damage of melee weapons against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Smite_Corrupted",
+        "drop": [
+            {
+                "name": "Defection Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Крушитель: Порабощённые",
+        "description": "<p>Крушитель: Порабощённые — необычный мод для оружия ближнего боя, который увеличивает урон по Орокин mПорабощённым.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%9F%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B5",
+        "icon": "icons/ru/Smite_Corrupted.58c67d723de207374fbad39bdec7f465.png",
+        "thumb": "icons/ru/thumbs/Smite_Corrupted.58c67d723de207374fbad39bdec7f465.128x128.png",
+        "drop": [
+            {
+                "name": "Defection Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

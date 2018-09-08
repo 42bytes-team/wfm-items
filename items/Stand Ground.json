@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4f9",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Stand_Ground.363d438b54e942781d9db3665d197a59.png",
+    "thumb": "icons/en/thumbs/Stand_Ground.363d438b54e942781d9db3665d197a59.128x128.png",
+    "icon_format": "port",
+    "url_name": "stand_ground",
+    "tradable": true,
+    "en": {
+        "item_name": "Stand Ground",
+        "description": "<p>Stand Ground is a melee mod in PvP that reduces damage taken from enemy abilities while blocking. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stand_Ground",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Заземление",
+        "description": "<p>Заземление  — редкий мод для холодного оружия в режиме конклава, который снижает урон от всех способностей при блокировании. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0/%D0%9A%D0%BE%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2",
+        "icon": "icons/ru/Stand_Ground.f2187e5877d90c230a4ee85f750b5db3.png",
+        "thumb": "icons/ru/thumbs/Stand_Ground.f2187e5877d90c230a4ee85f750b5db3.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

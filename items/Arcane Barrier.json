@@ -1,0 +1,28 @@
+{
+    "_id": "551085aee77989729e1416d0",
+    "tags": [
+        "arcane enhancements"
+    ],
+    "icon": "icons/en/Arcane_Barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.png",
+    "thumb": "icons/en/thumbs/Arcane_Barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.128x128.png",
+    "icon_format": "land",
+    "url_name": "arcane_barrier",
+    "tradable": true,
+    "en": {
+        "item_name": "Arcane Barrier",
+        "description": "<p>Arcane Barrier is an Arcane Enhancement that provides a chance whenever the player receives damage to instantly restore shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Barrier",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Мистический Барьер",
+        "description": "<p>Мистический Барьер - редкий мистификатор, который полностью восстанавливает щиты при получении урона с шансом 1%. На максимальном ранге мистификатора шанс полного восстановления щитов составляет 4%.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%B0%D1%80%D1%8C%D0%B5%D1%80",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 3,
+    "trading_tax": 1000000
+}

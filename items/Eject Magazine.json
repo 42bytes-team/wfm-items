@@ -1,0 +1,48 @@
+{
+    "_id": "567af35fcbfa8f05d076a4d3",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Eject_Magazine.45a94b039a6eb3097ca63e08d63a3761.png",
+    "thumb": "icons/en/thumbs/Eject_Magazine.45a94b039a6eb3097ca63e08d63a3761.128x128.png",
+    "icon_format": "port",
+    "url_name": "eject_magazine",
+    "tradable": true,
+    "en": {
+        "item_name": "Eject Magazine",
+        "description": "<p>Eject Magazine is a pistol mod usable in both PvE and PvP that reloads a portion of a secondary weapon's magazine for each second while holstered.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Eject_Magazine",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Съёмный магазин",
+        "description": "<p>Съёмный Магазин — редкий мод для вторичного оружия, который перезаряжает магазин в то время, когда оружие находится в кобуре. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%8A%D1%91%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Eject_Magazine.bf82c7746b757ce43534cdd80126590d.png",
+        "thumb": "icons/ru/thumbs/Eject_Magazine.bf82c7746b757ce43534cdd80126590d.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

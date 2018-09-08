@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e51567e",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Cleaving_Whirlwind.8a59807c69c368ffe0b459a4f3d0dc08.png",
+    "thumb": "icons/en/thumbs/Cleaving_Whirlwind.8a59807c69c368ffe0b459a4f3d0dc08.128x128.png",
+    "icon_format": "port",
+    "url_name": "cleaving_whirlwind",
+    "tradable": true,
+    "en": {
+        "item_name": "Cleaving Whirlwind",
+        "description": "<p>Cleaving Whirlwind is a Stance mod for Heavy Blade melee weapons. It is a momentum-based stance whose slow, sweeping attacks deal high damage in coned or radial areas around the wielder.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cleaving_Whirlwind",
+        "drop": [
+            {
+                "name": "InfestedAncient Disruptor",
+                "link": null
+            },
+            {
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Рассекающий ураган",
+        "description": "<p>Рассекающий Ураган — это редкая стойка, предназначенная для оружия ближнего боя класса Тяжелые клинки. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
+        "icon": "icons/ru/Cleaving_Whirlwind.7fbdfb2c0731488a765be2a34eb48114.png",
+        "thumb": "icons/ru/thumbs/Cleaving_Whirlwind.7fbdfb2c0731488a765be2a34eb48114.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedAncient Disruptor",
+                "link": null
+            },
+            {
+                "name": "InfestedTar-Mutalist MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

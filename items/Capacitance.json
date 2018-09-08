@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec0e779896af941825e",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Capacitance.d58fa98b900e20e34c6e9efb597a8f0d.png",
+    "thumb": "icons/en/thumbs/Capacitance.d58fa98b900e20e34c6e9efb597a8f0d.128x128.png",
+    "icon_format": "port",
+    "url_name": "capacitance",
+    "tradable": true,
+    "en": {
+        "item_name": "Capacitance",
+        "description": "<p>Capacitance is a Warframe Augment Mod for Volt that converts a percentage of damage dealt by Discharge into shields, split between himself and allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Capacitance",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вместилище",
+        "description": "<p>Вместилище — мод-аугмент для варфрейма Вольт и Вольт Прайм, улучшающий его способность Разрядка. Преобразует наносимый способностью урон в щиты, равномерно распределяющиеся между Вольтом и его союзниками. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5",
+        "icon": "icons/ru/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.png",
+        "thumb": "icons/ru/thumbs/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

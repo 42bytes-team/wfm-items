@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e515595",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Target_Cracker.6b81dd2b57724976438b9b083f8301f3.png",
+    "thumb": "icons/en/thumbs/Target_Cracker.6b81dd2b57724976438b9b083f8301f3.128x128.png",
+    "icon_format": "port",
+    "url_name": "target_cracker",
+    "tradable": true,
+    "en": {
+        "item_name": "Target Cracker",
+        "description": "<p>The Target Cracker mod increases the critical damage of a pistol by 10% for each rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Target_Cracker",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 2 InfestedDefense Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Дробитель",
+        "description": "<p>Дробитель — необычный мод для вторичного оружия, который увеличивает множитель критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Target_Cracker.880956b007fc501ad7bde53299ea281a.png",
+        "thumb": "icons/ru/thumbs/Target_Cracker.880956b007fc501ad7bde53299ea281a.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 2 InfestedDefense Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

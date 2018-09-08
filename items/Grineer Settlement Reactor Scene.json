@@ -1,0 +1,36 @@
+{
+    "_id": "5a9e8670b2b6a800db67f127",
+    "tags": [
+        "scene"
+    ],
+    "icon": "icons/en/Grineer_Settlement_Reactor_Scene.f3696ad7d670f8228acf03032758f902.png",
+    "thumb": "icons/en/thumbs/Grineer_Settlement_Reactor_Scene.f3696ad7d670f8228acf03032758f902.128x128.png",
+    "icon_format": "land",
+    "url_name": "grineer_settlement_reactor_scene",
+    "tradable": true,
+    "en": {
+        "item_name": "Grineer Settlement Reactor Scene",
+        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Captura",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Grineer Settlement Reactor Scene",
+        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Стальной Меридиан",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "566759c8db7c7a568a8d45c6",
+    "tags": [
+        "mod",
+        "exilus",
+        "rare"
+    ],
+    "icon": "icons/en/Cunning_Drift.a103fc3c7d90e1fddb3f8fa4d1de1ca8.png",
+    "thumb": "icons/en/thumbs/Cunning_Drift.a103fc3c7d90e1fddb3f8fa4d1de1ca8.128x128.png",
+    "icon_format": "port",
+    "url_name": "cunning_drift",
+    "tradable": true,
+    "en": {
+        "item_name": "Cunning Drift",
+        "description": "<p>Cunning Drift is a rare triple-stat Exilus mod that increases slide, reduces friction and increases Power Range.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cunning_Drift",
+        "drop": [
+            {
+                "name": "Orokin Moon Test",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Хитрое течение",
+        "description": "<p>Хитрое течение — эксилус мод для варфреймов, который увеличивает продолжительность скольжения и радиус поражения способностей, а также уменьшает трение во время подката.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%B8%D1%82%D1%80%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Cunning_Drift.b2a98cb2fd457f072efd1c2d9c85a96a.png",
+        "thumb": "icons/ru/thumbs/Cunning_Drift.b2a98cb2fd457f072efd1c2d9c85a96a.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Moon Test",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

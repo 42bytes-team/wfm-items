@@ -1,0 +1,48 @@
+{
+    "_id": "554d3af4e77989420d3de2a2",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Pummel.ebfb7032904e901422b7cdb346c7d55b.png",
+    "thumb": "icons/en/thumbs/Pummel.ebfb7032904e901422b7cdb346c7d55b.128x128.png",
+    "icon_format": "port",
+    "url_name": "pummel",
+    "tradable": true,
+    "en": {
+        "item_name": "Pummel",
+        "description": "<p>The Pummel mod increases  Impact damage of a pistol by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pummel",
+        "drop": [
+            {
+                "name": "Operation False Profit reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Избиение",
+        "description": "<p>Избиение — редкий мод для вторичного оружия, который увеличивает  ударный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Pummel.a7b33d064bd7974577405799d2eb22f0.png",
+        "thumb": "icons/ru/thumbs/Pummel.a7b33d064bd7974577405799d2eb22f0.128x128.png",
+        "drop": [
+            {
+                "name": "Operation False Profit reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

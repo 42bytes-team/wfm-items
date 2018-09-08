@@ -1,0 +1,47 @@
+{
+    "_id": "56a7b2bb1133f656cb085d98",
+    "tags": [
+        "mod",
+        "uncommon"
+    ],
+    "icon": "icons/en/Targeting_Subsystem.bab012feb316116d1c4c66888e73a6e8.png",
+    "thumb": "icons/en/thumbs/Targeting_Subsystem.bab012feb316116d1c4c66888e73a6e8.128x128.png",
+    "icon_format": "port",
+    "url_name": "targeting_subsystem",
+    "tradable": true,
+    "en": {
+        "item_name": "Targeting Subsystem",
+        "description": "<p>Targeting Subsystem is a Pistol mod that temporarily increases accuracy while aiming upon hitting an enemy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Targeting_Subsystem",
+        "drop": [
+            {
+                "name": "Malice",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Подсистема прицеливания",
+        "description": "<p>Подсистема Прицеливания — необычный мод для вторичного оружия, который увеличивает точность оружия при прицеливании на определенный промежуток времени после нанесения урона противнику.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BF%D1%80%D0%B8%D1%86%D0%B5%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F",
+        "icon": "icons/ru/Targeting_Subsystem.d9ea94267ef9959cd26ab6386792ebec.png",
+        "thumb": "icons/ru/thumbs/Targeting_Subsystem.d9ea94267ef9959cd26ab6386792ebec.128x128.png",
+        "drop": [
+            {
+                "name": "Malice",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

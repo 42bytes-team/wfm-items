@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155dd",
+    "tags": [
+        "mod",
+        "kubrow",
+        "rare"
+    ],
+    "icon": "icons/en/Bite.a6fc634c425dd4f1fce100e679286c73.png",
+    "thumb": "icons/en/thumbs/Bite.a6fc634c425dd4f1fce100e679286c73.128x128.png",
+    "icon_format": "port",
+    "url_name": "bite",
+    "tradable": true,
+    "en": {
+        "item_name": "Bite",
+        "description": "<p>Bite mod increases Kubrow and Kavat Critical Chance & Critical Damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bite",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Укус",
+        "description": "<p>Укус — редкий мод для Кубрау, увеличивающий шанс и урон критической атаки компаньона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BA%D1%83%D1%81",
+        "icon": "icons/ru/Bite.5614a9370256f452c379599ee1940a2c.png",
+        "thumb": "icons/ru/thumbs/Bite.5614a9370256f452c379599ee1940a2c.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

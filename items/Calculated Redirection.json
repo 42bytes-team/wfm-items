@@ -1,0 +1,72 @@
+{
+    "_id": "5758af4842ba8659dde2f572",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Calculated_Redirection.153e48ee77eeb3d2a70a9c3956be0b6f.png",
+    "thumb": "icons/en/thumbs/Calculated_Redirection.153e48ee77eeb3d2a70a9c3956be0b6f.128x128.png",
+    "icon_format": "port",
+    "url_name": "calculated_redirection",
+    "tradable": true,
+    "en": {
+        "item_name": "Calculated Redirection",
+        "description": "<p>Calculated Redirection increases the shield capacity of a Sentinel.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Calculated_Redirection",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Просчитанное перенаправление",
+        "description": "<p>Просчитанное Перенаправление — обычный мод для стражей, который увеличивает базовый показатель щита.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Calculated_Redirection.a936a0d7d0d82594501180644f815238.png",
+        "thumb": "icons/ru/thumbs/Calculated_Redirection.a936a0d7d0d82594501180644f815238.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 10,
+    "trading_tax": 2000
+}

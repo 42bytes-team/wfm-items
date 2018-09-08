@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155c4",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Tranquil_Cleave.e23ba51f66afdbde9fdf05c445ea99c2.png",
+    "thumb": "icons/en/thumbs/Tranquil_Cleave.e23ba51f66afdbde9fdf05c445ea99c2.128x128.png",
+    "icon_format": "port",
+    "url_name": "tranquil_cleave",
+    "tradable": true,
+    "en": {
+        "item_name": "Tranquil Cleave",
+        "description": "<p>Tranquil Cleave is a Stance mod for Nikanas. This stance features swift and precise single-handed slashes. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tranquil_Cleave",
+        "drop": [
+            {
+                "name": "GrineerArid Butcher (0.03%)",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Butcher (0.03%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Безмятежный раскол",
+        "description": "<p>Безмятежный Раскол — это редкая стойка, предназначенная для оружия ближнего боя класса Никаны. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D0%B7%D0%BC%D1%8F%D1%82%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%BB",
+        "icon": "icons/ru/Tranquil_Cleave.8fc669d8763e1d16d9f882ccd0f8c7fe.png",
+        "thumb": "icons/ru/thumbs/Tranquil_Cleave.8fc669d8763e1d16d9f882ccd0f8c7fe.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerArid Butcher (0.03%)",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Butcher (0.03%)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

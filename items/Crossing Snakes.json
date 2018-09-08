@@ -1,0 +1,88 @@
+{
+    "_id": "54a74454e779892d5e515676",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Crossing_Snakes.cfbb8e6095d5810c5e11a994d31c8883.png",
+    "thumb": "icons/en/thumbs/Crossing_Snakes.cfbb8e6095d5810c5e11a994d31c8883.128x128.png",
+    "icon_format": "port",
+    "url_name": "crossing_snakes",
+    "tradable": true,
+    "en": {
+        "item_name": "Crossing Snakes",
+        "description": "<p>Crossing Snakes is one of two Stance mods for Dual Sword type weapons. Wielders of this Stance thrust at foes with deadly jabs.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Crossing_Snakes",
+        "drop": [
+            {
+                "name": "GrineerElite Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Arid Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerShock Draga",
+                "link": null
+            },
+            {
+                "name": "GrineerDraga",
+                "link": null
+            },
+            {
+                "name": "GrineerDarek Draga",
+                "link": null
+            },
+            {
+                "name": "Orphid Specter",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Перекрещенные змеи",
+        "description": "<p>Перекрещенные Змеи — это редкая стойка, предназначенная для оружия ближнего боя класса Парные клинки. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B7%D0%BC%D0%B5%D0%B8",
+        "icon": "icons/ru/Crossing_Snakes.9ad484202f980ce6eec048dacc067a11.png",
+        "thumb": "icons/ru/thumbs/Crossing_Snakes.9ad484202f980ce6eec048dacc067a11.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerElite Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Arid Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerShock Draga",
+                "link": null
+            },
+            {
+                "name": "GrineerDraga",
+                "link": null
+            },
+            {
+                "name": "GrineerDarek Draga",
+                "link": null
+            },
+            {
+                "name": "Orphid Specter",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

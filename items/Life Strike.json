@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156d8",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Life_Strike.506662d9aab0f405716d2ee8300c6576.png",
+    "thumb": "icons/en/thumbs/Life_Strike.506662d9aab0f405716d2ee8300c6576.128x128.png",
+    "icon_format": "port",
+    "url_name": "life_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Life Strike",
+        "description": "<p>While Channeling, the Life Strike mod increases Life Steal, i.e. converts weapon damage to health, but dramatically decreases Channeling efficiency.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Life_Strike",
+        "drop": [
+            {
+                "name": "Drover Bursa",
+                "link": null
+            },
+            {
+                "name": "Dark Sector Rewards Rotation C",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Удар жизни",
+        "description": "<p>Удар Жизни — редкий мод концентрации, который перенаправляет часть нанесённого урона в Здоровье, взамен уменьшая эффективность концентрации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B4%D0%B0%D1%80_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8",
+        "icon": "icons/ru/Life_Strike.2537ca9f743df97307a7b513d05ec990.png",
+        "thumb": "icons/ru/thumbs/Life_Strike.2537ca9f743df97307a7b513d05ec990.128x128.png",
+        "drop": [
+            {
+                "name": "Drover Bursa",
+                "link": null
+            },
+            {
+                "name": "Dark Sector Rewards Rotation C",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

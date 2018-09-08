@@ -1,0 +1,120 @@
+{
+    "_id": "54a74455e779892d5e5156ae",
+    "tags": [
+        "mod",
+        "melee",
+        "common"
+    ],
+    "icon": "icons/en/Organ_Shatter.d0948b147f608627817540ab9299dbcc.png",
+    "thumb": "icons/en/thumbs/Organ_Shatter.d0948b147f608627817540ab9299dbcc.128x128.png",
+    "icon_format": "port",
+    "url_name": "organ_shatter",
+    "tradable": true,
+    "en": {
+        "item_name": "Organ Shatter",
+        "description": "<p>Organ Shatter increases the critical damage of a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Organ_Shatter",
+        "drop": [
+            {
+                "name": "Lynx",
+                "link": null
+            },
+            {
+                "name": "Raptor",
+                "link": null
+            },
+            {
+                "name": "Ven'kra Tel",
+                "link": null
+            },
+            {
+                "name": "Sprag",
+                "link": null
+            },
+            {
+                "name": "GrineerBallista",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Ballista",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Hellion",
+                "link": null
+            },
+            {
+                "name": "InfestedBoiler",
+                "link": null
+            },
+            {
+                "name": "InfestedArcane Boiler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Ancient",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Крушитель органов",
+        "description": "<p>Крушитель Органов — обычный мод для оружия ближнего боя, который увеличивает критический урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2",
+        "icon": "icons/ru/Organ_Shatter.bba1129449dea8f9638fe51812517403.png",
+        "thumb": "icons/ru/thumbs/Organ_Shatter.bba1129449dea8f9638fe51812517403.128x128.png",
+        "drop": [
+            {
+                "name": "Lynx",
+                "link": null
+            },
+            {
+                "name": "Raptor",
+                "link": null
+            },
+            {
+                "name": "Ven'kra Tel",
+                "link": null
+            },
+            {
+                "name": "Sprag",
+                "link": null
+            },
+            {
+                "name": "GrineerBallista",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Ballista",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Hellion",
+                "link": null
+            },
+            {
+                "name": "InfestedBoiler",
+                "link": null
+            },
+            {
+                "name": "InfestedArcane Boiler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Ancient",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

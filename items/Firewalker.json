@@ -1,0 +1,40 @@
+{
+    "_id": "55c153b7e779895d77556bb1",
+    "tags": [
+        "mod",
+        "parkour",
+        "rare"
+    ],
+    "icon": "icons/en/Firewalker.2cb2403fa29e147124f5a0221da9c94d.png",
+    "thumb": "icons/en/thumbs/Firewalker.2cb2403fa29e147124f5a0221da9c94d.128x128.png",
+    "icon_format": "port",
+    "url_name": "firewalker",
+    "tradable": true,
+    "en": {
+        "item_name": "Firewalker",
+        "description": "<p>The Firewalker Mod increases the speed of Bullet Jump, lengthens the duration of Aim Glide and Wall Latching, and adds  Heat damage to Bullet Jump.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Firewalker",
+        "drop": [
+            {
+                "name": "Drekar HellionSabotage on Uranus",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Огнеход",
+        "description": "<p>Огнеход — эксилус мод для варфреймов, который увеличивает скорость стремительного прыжка, длительность полета и фиксации на стене, а также даёт бонусный  огненный урон стремительному прыжку.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D1%85%D0%BE%D0%B4",
+        "icon": "icons/ru/Firewalker.e2b64342aebf5b394a639ae82ee38e80.png",
+        "thumb": "icons/ru/thumbs/Firewalker.e2b64342aebf5b394a639ae82ee38e80.128x128.png",
+        "drop": [
+            {
+                "name": "Drekar HellionSabotage on Uranus",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

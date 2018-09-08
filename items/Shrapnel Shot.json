@@ -1,0 +1,56 @@
+{
+    "_id": "56a7b28a1133f656cb085d8e",
+    "tags": [
+        "mod",
+        "shotgun",
+        "common"
+    ],
+    "icon": "icons/en/Shrapnel_Shot.1683a43d4d96837610006fcd1de3bdb2.png",
+    "thumb": "icons/en/thumbs/Shrapnel_Shot.1683a43d4d96837610006fcd1de3bdb2.128x128.png",
+    "icon_format": "port",
+    "url_name": "shrapnel_shot",
+    "tradable": true,
+    "en": {
+        "item_name": "Shrapnel Shot",
+        "description": "<p>Shrapnel Shot is a common Shotgun mod that increases Critical damage while aiming for a brief time upon a kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shrapnel_Shot",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Violence",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Шрапнельный выстрел",
+        "description": "<p>Шрапнельный Выстрел — мод для дробовиков, который увеличивает множитель критического урона при прицеливании в течение определённого промежутка времени после убийства противника. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D1%80%D0%B0%D0%BF%D0%BD%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Shrapnel_Shot.90c427edcbc1eed4d3a125cd2302fc85.png",
+        "thumb": "icons/ru/thumbs/Shrapnel_Shot.90c427edcbc1eed4d3a125cd2302fc85.128x128.png",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Violence",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

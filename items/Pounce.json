@@ -1,0 +1,40 @@
+{
+    "_id": "57b4e5486f6b2fda8ea6caa2",
+    "tags": [
+        "mod",
+        "kavat",
+        "uncommon"
+    ],
+    "icon": "icons/en/Pounce.3ab83e349347ec39631b9f203e5ec42c.png",
+    "thumb": "icons/en/thumbs/Pounce.3ab83e349347ec39631b9f203e5ec42c.128x128.png",
+    "icon_format": "port",
+    "url_name": "pounce",
+    "tradable": true,
+    "en": {
+        "item_name": "Pounce",
+        "description": "<p>The Kavat pounces at an enemy, stunning them for a short duration.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pounce",
+        "drop": [
+            {
+                "name": "Feral Kavat",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Наскок",
+        "description": "<p>Наскок — мод для каватов, позволяющий компаньону нападать на противника, оглушая его на определённый промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D1%81%D0%BA%D0%BE%D0%BA",
+        "icon": "icons/ru/Pounce.e87f3425fffab3a27319469e08ea8855.png",
+        "thumb": "icons/ru/thumbs/Pounce.e87f3425fffab3a27319469e08ea8855.128x128.png",
+        "drop": [
+            {
+                "name": "Feral Kavat",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

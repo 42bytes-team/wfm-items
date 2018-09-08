@@ -1,0 +1,39 @@
+{
+    "_id": "5870156c937cde2c9d378ac0",
+    "tags": [
+        "mod",
+        "rifle"
+    ],
+    "icon": "icons/en/Flux_Overdrive.9376e8165c3348b000ea5079648ce948.png",
+    "thumb": "icons/en/thumbs/Flux_Overdrive.9376e8165c3348b000ea5079648ce948.128x128.png",
+    "icon_format": "port",
+    "url_name": "flux_overdrive",
+    "tradable": true,
+    "en": {
+        "item_name": "Flux Overdrive",
+        "description": "<p>Flux Overdrive is an Index Mod for the Flux Rifle that increases its Status Chance by a random value for every second it remains fired.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Flux_Overdrive",
+        "drop": [
+            {
+                "name": "The Index",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Потоковая Перегрузка",
+        "description": "<p>Потоковая Перегрузка — редкий мод для Потоковой Винтовки, который увеличивает шанс статуса при непрерывной стрельбе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0",
+        "icon": "icons/ru/Flux_Overdrive.da9ade5eddd859e6747ed211090e1e74.png",
+        "thumb": "icons/ru/thumbs/Flux_Overdrive.da9ade5eddd859e6747ed211090e1e74.128x128.png",
+        "drop": [
+            {
+                "name": "The Index",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

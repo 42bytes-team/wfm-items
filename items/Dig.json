@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156e3",
+    "tags": [
+        "mod",
+        "kubrow",
+        "rare"
+    ],
+    "icon": "icons/en/Dig.32255f0064ec32dc35c1c50a4f2585c1.png",
+    "thumb": "icons/en/thumbs/Dig.32255f0064ec32dc35c1c50a4f2585c1.128x128.png",
+    "icon_format": "port",
+    "url_name": "dig",
+    "tradable": true,
+    "en": {
+        "item_name": "Dig",
+        "description": "<p>The Dig mod allows the Sahasa Kubrow to dig up items upon the battlefield. They will be able to dig up random ammunition types, health orbs, energy orbs, small amounts of credits, and occasionally mods.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Dig",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Раскоп",
+        "description": "<p>Раскоп - мод-заповедь для Кубрау породы Сахаса, позволяющий вынюхивать и выкапывать предметы, такие как кредиты, сферы здоровья/энергии/синтеза, моды, боеприпасы, а также капсулы жизнеобеспечения (на миссиях Выживания).Перерыв между использованием заповеди составляет ~15 секунд.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D1%81%D0%BA%D0%BE%D0%BF",
+        "icon": "icons/ru/Dig.7a36c283659a3affb8062cce1f1694ec.png",
+        "thumb": "icons/ru/thumbs/Dig.7a36c283659a3affb8062cce1f1694ec.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

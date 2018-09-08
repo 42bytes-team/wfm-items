@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b2901133f656cb085d8f",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Pressurized_Magazine.daa3ea71eeb3c2b826aacc536d4b5e95.png",
+    "thumb": "icons/en/thumbs/Pressurized_Magazine.daa3ea71eeb3c2b826aacc536d4b5e95.128x128.png",
+    "icon_format": "port",
+    "url_name": "pressurized_magazine",
+    "tradable": true,
+    "en": {
+        "item_name": "Pressurized Magazine",
+        "description": "<p>Pressurized Magazine is a rare Pistol mod that increases Fire Rate while aiming for a brief time upon reloading.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pressurized_Magazine",
+        "drop": [
+            {
+                "name": "Angst",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Уплотнённый магазин",
+        "description": "<p>Уплотненный Магазин — редкий мод для вторичного оружия, который увеличивает скорострельность при прицеливании на определённый промежуток времени после перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Pressurized_Magazine.3a3e59776f1fcec2242f73bf90d42d23.png",
+        "thumb": "icons/ru/thumbs/Pressurized_Magazine.3a3e59776f1fcec2242f73bf90d42d23.128x128.png",
+        "drop": [
+            {
+                "name": "Angst",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

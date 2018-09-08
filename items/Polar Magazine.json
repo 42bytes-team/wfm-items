@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515600",
+    "tags": [
+        "mod",
+        "archwing gun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Polar_Magazine.b1ff9ac7249fcc44429a6fa9153236fb.png",
+    "thumb": "icons/en/thumbs/Polar_Magazine.b1ff9ac7249fcc44429a6fa9153236fb.128x128.png",
+    "icon_format": "port",
+    "url_name": "polar_magazine",
+    "tradable": true,
+    "en": {
+        "item_name": "Polar Magazine",
+        "description": "<p>The Polar Magazine mod adds  Cold damage on Archwing guns by 20% per rank at a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Polar_Magazine",
+        "drop": [
+            {
+                "name": "GrineerTemporal Dreg",
+                "link": null
+            },
+            {
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
+            },
+            {
+                "name": "Corpus Archwing Mobile Defense Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Полярный магазин",
+        "description": "<p>Полярный Магазин — необычный мод для основного оружия арчвинг, который увеличивает  ледяной урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Polar_Magazine.edad942e345b3cd0cd74a51ecd0529af.png",
+        "thumb": "icons/ru/thumbs/Polar_Magazine.edad942e345b3cd0cd74a51ecd0529af.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerTemporal Dreg",
+                "link": null
+            },
+            {
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
+            },
+            {
+                "name": "Corpus Archwing Mobile Defense Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

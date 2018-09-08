@@ -1,0 +1,40 @@
+{
+    "_id": "5788fad04fff472f131a135f",
+    "tags": [
+        "mod",
+        "kavat",
+        "rare"
+    ],
+    "icon": "icons/en/Charm.6112d33fa330329649e3f40e41c2b30f.png",
+    "thumb": "icons/en/thumbs/Charm.6112d33fa330329649e3f40e41c2b30f.128x128.png",
+    "icon_format": "port",
+    "url_name": "charm",
+    "tradable": true,
+    "en": {
+        "item_name": "Charm",
+        "description": "<p>Charm allows the Smeeta Kavat to grant a random buff to its owner, indicated by a special icon next to its owner's health and shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Charm",
+        "drop": [
+            {
+                "name": "Hyekka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Талисман",
+        "description": "<p>Талисман — мод-заповедь для кавата Смита, который накладывает на хозяина один из случайных бонусных эффектов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B0%D0%BB%D0%B8%D1%81%D0%BC%D0%B0%D0%BD",
+        "icon": "icons/ru/Charm.64f4c7ce409fe415d1d81986c9652071.png",
+        "thumb": "icons/ru/thumbs/Charm.64f4c7ce409fe415d1d81986c9652071.128x128.png",
+        "drop": [
+            {
+                "name": "Hyekka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

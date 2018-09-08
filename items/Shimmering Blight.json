@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e5156b7",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Shimmering_Blight.4a5333fbc806d24aaba48ed9c62360e0.png",
+    "thumb": "icons/en/thumbs/Shimmering_Blight.4a5333fbc806d24aaba48ed9c62360e0.128x128.png",
+    "icon_format": "port",
+    "url_name": "shimmering_blight",
+    "tradable": true,
+    "en": {
+        "item_name": "Shimmering Blight",
+        "description": "<p>Shimmering Blight is a Stance Mod for polearms that allows for rapid, spinning strikes which hit multiple enemies, and finishes with powerful, slashing strikes. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shimmering_Blight",
+        "drop": [
+            {
+                "name": "GrineerArid Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мерцающая пагубь",
+        "description": "<p>Мерцающая Пагубь — это необычная стойка, предназначенная для оружия ближнего боя класса Копья. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%80%D1%86%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BF%D0%B0%D0%B3%D1%83%D0%B1%D1%8C",
+        "icon": "icons/ru/Shimmering_Blight.b1da6febbb523a9d8ecb47268282a4fb.png",
+        "thumb": "icons/ru/thumbs/Shimmering_Blight.b1da6febbb523a9d8ecb47268282a4fb.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerArid Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

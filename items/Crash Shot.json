@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4d1",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Crash_Shot.8de3e7c1f08433a767ab31af52864e06.png",
+    "thumb": "icons/en/thumbs/Crash_Shot.8de3e7c1f08433a767ab31af52864e06.128x128.png",
+    "icon_format": "port",
+    "url_name": "crash_shot",
+    "tradable": true,
+    "en": {
+        "item_name": "Crash Shot",
+        "description": "<p>Crash Shot is a PvP exclusive shotgun mod that converts an amount of physical damage to Impact damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Crash_Shot",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Крушащий выстрел",
+        "description": "<p>Крушащий Выстрел — необычный мод для дробовиков в режиме конклава, который преобразует % базового урона в  ударный.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B0%D1%89%D0%B8%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Crash_Shot.06f3955ddbfcf991a99589c4a12c1670.png",
+        "thumb": "icons/ru/thumbs/Crash_Shot.06f3955ddbfcf991a99589c4a12c1670.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

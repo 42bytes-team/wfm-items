@@ -1,0 +1,48 @@
+{
+    "_id": "54e0c9eee7798903744178af",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Ballistic_Bullseye.7c80b74fd8358f402b96f1502e0ae453.png",
+    "thumb": "icons/en/thumbs/Ballistic_Bullseye.7c80b74fd8358f402b96f1502e0ae453.128x128.png",
+    "icon_format": "port",
+    "url_name": "ballistic_bullseye",
+    "tradable": true,
+    "en": {
+        "item_name": "Ballistic Bullseye",
+        "description": "<p>Ballistic Bullseye is a Warframe Augment Mod for Mesa that gives shots enhanced by Ballistic Battery a chance to deal Status Effects.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ballistic_Bullseye",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Баллистическая метка",
+        "description": "<p>Баллистическая Метка — мод-аугмент для варфрейма Миса, улучшающий её способность Баллистика. Выстрел будет иметь шанс срабатывания эффекта статуса, зависящий от количества накопленного заряда.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%82%D0%BA%D0%B0",
+        "icon": "icons/ru/Ballistic_Bullseye.4740ef0c7b4f53cb4e75bddeacc66d81.png",
+        "thumb": "icons/ru/thumbs/Ballistic_Bullseye.4740ef0c7b4f53cb4e75bddeacc66d81.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

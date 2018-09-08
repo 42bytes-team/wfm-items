@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515618",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Energy_Siphon.c8633b0c81bfa7eb93afe95cc861663d.png",
+    "thumb": "icons/en/thumbs/Energy_Siphon.c8633b0c81bfa7eb93afe95cc861663d.128x128.png",
+    "icon_format": "port",
+    "url_name": "energy_siphon",
+    "tradable": true,
+    "en": {
+        "item_name": "Energy Siphon",
+        "description": "<p>Energy Siphon is an Aura that regenerates all team members' energy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Siphon",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Энергетический источник",
+        "description": "<p>Энергетический источник — необычная аура, которая регенерирует энергию со временем для всех членов команды.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA",
+        "icon": "icons/ru/Energy_Siphon.c062239706f3f5d1bb1efdd11795b09f.png",
+        "thumb": "icons/ru/thumbs/Energy_Siphon.c062239706f3f5d1bb1efdd11795b09f.128x128.png",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "55c154a7e779895e0186c0a4",
+    "tags": [
+        "mod",
+        "sniper",
+        "rare"
+    ],
+    "icon": "icons/en/Depleted_Reload.0eeb2b2d90c62036d54c8121d291b916.png",
+    "thumb": "icons/en/thumbs/Depleted_Reload.0eeb2b2d90c62036d54c8121d291b916.128x128.png",
+    "icon_format": "port",
+    "url_name": "depleted_reload",
+    "tradable": true,
+    "en": {
+        "item_name": "Depleted Reload",
+        "description": "<p>Depleted Reload is a Corrupted sniper rifle mod that decreases magazine capacity and increases reload speed.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Depleted_Reload",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Истощённая перезарядка",
+        "description": "<p>Истощённая Перезарядка — повреждённый мод для снайперского оружия, который сокращает время перезарядки, взамен уменьшая емкость магазина.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0",
+        "icon": "icons/ru/Depleted_Reload.64d2763161d533220adeed4a61e298bc.png",
+        "thumb": "icons/ru/thumbs/Depleted_Reload.64d2763161d533220adeed4a61e298bc.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

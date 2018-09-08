@@ -1,0 +1,88 @@
+{
+    "_id": "54a74454e779892d5e5155fb",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Shell_Compression.e9dcc6c51d9f2b5fdeeb03a539b5cfea.png",
+    "thumb": "icons/en/thumbs/Shell_Compression.e9dcc6c51d9f2b5fdeeb03a539b5cfea.128x128.png",
+    "icon_format": "port",
+    "url_name": "shell_compression",
+    "tradable": true,
+    "en": {
+        "item_name": "Shell Compression",
+        "description": "<p>The Shell Compression mod increases maximum ammo of a shotgun by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Compression",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "Corrupted Warden",
+                "link": null
+            },
+            {
+                "name": "GrineerCommander",
+                "link": null
+            },
+            {
+                "name": "GrineerDesert Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "GrineerHeavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Grineer Warden",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Укладка боеприпасов",
+        "description": "<p>Укладка Боеприпасов — необычный мод для дробовиков, который увеличивает максимальное количество боеприпасов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0_%D0%B1%D0%BE%D0%B5%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%81%D0%BE%D0%B2",
+        "icon": "icons/ru/Shell_Compression.f896831925bb7838ca5c6feb6ece6cf5.png",
+        "thumb": "icons/ru/thumbs/Shell_Compression.f896831925bb7838ca5c6feb6ece6cf5.128x128.png",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "Corrupted Warden",
+                "link": null
+            },
+            {
+                "name": "GrineerCommander",
+                "link": null
+            },
+            {
+                "name": "GrineerDesert Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "GrineerHeavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Grineer Warden",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

@@ -1,0 +1,88 @@
+{
+    "_id": "54a74454e779892d5e515608",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/No_Return.6532dbe63e3ea0fb7d8597ad46359a9b.png",
+    "thumb": "icons/en/thumbs/No_Return.6532dbe63e3ea0fb7d8597ad46359a9b.128x128.png",
+    "icon_format": "port",
+    "url_name": "no_return",
+    "tradable": true,
+    "en": {
+        "item_name": "No Return",
+        "description": "<p>No Return increases the  Puncture damage of a pistol.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/No_Return",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusElite Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нет спасения",
+        "description": "<p>Нет Спасения — необычный мод для вторичного оружия, который увеличивает  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D1%82_%D1%81%D0%BF%D0%B0%D1%81%D0%B5%D0%BD%D0%B8%D1%8F",
+        "icon": "icons/ru/No_Return.fc3d5426d8668d40003114680c562984.png",
+        "thumb": "icons/ru/thumbs/No_Return.fc3d5426d8668d40003114680c562984.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusElite Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

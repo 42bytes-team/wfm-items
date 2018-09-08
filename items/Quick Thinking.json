@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e51568d",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Quick_Thinking.062fbe5be0dfb26fa2f268b338cae078.png",
+    "thumb": "icons/en/thumbs/Quick_Thinking.062fbe5be0dfb26fa2f268b338cae078.128x128.png",
+    "icon_format": "port",
+    "url_name": "quick_thinking",
+    "tradable": true,
+    "en": {
+        "item_name": "Quick Thinking",
+        "description": "<p>Quick Thinking is a mod that uses the Warframe's residual energy pool as an emergency buffer to prevent death whenever a player drops to 2 Health.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Quick_Thinking",
+        "drop": [
+            {
+                "name": "Corrupted Ancient",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Быстрое мышление",
+        "description": "<p>Быстрое Мышление — редкий мод для варфреймов, который переносит весь входящий урон на энергию, когда у вас 2 единицы здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5_%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Quick_Thinking.c4922e364b1be50d8b2e5153b9d76655.png",
+        "thumb": "icons/ru/thumbs/Quick_Thinking.c4922e364b1be50d8b2e5153b9d76655.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Ancient",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,55 @@
+{
+    "_id": "5783bf0ad9b6753790c89e89",
+    "tags": [
+        "parts",
+        "archwing",
+        "receiver"
+    ],
+    "icon": "icons/en/Velocitus_Set.0e2289bd3cc8bba9a0393d1fad061ab6.png",
+    "thumb": "icons/en/thumbs/Velocitus_Set.0e2289bd3cc8bba9a0393d1fad061ab6.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/receiver_128x128.png",
+    "url_name": "velocitus_receiver",
+    "tradable": true,
+    "part_of_set": [
+        "582b0f850af25410b099f7f8",
+        "5783beebd9b6753790c89e88",
+        "5783bf0ad9b6753790c89e89",
+        "5783bf10d9b6753790c89e8a"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Velocitus Receiver",
+        "description": "<p>The Velocitus is an Archwing Gauss-gun that deals heavy charged shot damage. It is the first Archwing weapon to have base  Magnetic damage. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Velocitus",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ],
+        "codex": "When fully charged, the magnetized barrel of the Velocitus accelerates a metal slug to tremendous speeds, piercing hulls and obliterating armor."
+    },
+    "ru": {
+        "item_name": "Велоцитус Приемник",
+        "description": "<p>Полностью заряженный, магнитный ствол Велоцитуса разгоняет металлическую болванку до огромных скоростей, позволяя ей пробивать дыры в броне и разрушать ее.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%86%D0%B8%D1%82%D1%83%D1%81",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

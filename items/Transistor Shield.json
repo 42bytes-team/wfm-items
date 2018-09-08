@@ -1,0 +1,47 @@
+{
+    "_id": "59385f6716efa3a742b15f62",
+    "tags": [
+        "mod",
+        "volt"
+    ],
+    "icon": "icons/en/Transistor_Shield.b1eb304e0e3c018b8ac465c6b3bcb968.png",
+    "thumb": "icons/en/thumbs/Transistor_Shield.b1eb304e0e3c018b8ac465c6b3bcb968.128x128.png",
+    "icon_format": "port",
+    "url_name": "transistor_shield",
+    "tradable": true,
+    "en": {
+        "item_name": "Transistor Shield",
+        "description": "<p>Transistor Shield is a Warframe Augment Mod for Volt's Electric Shield that allows allies to pick up and move Electric Shields. Additionally, a percentage of enemy damage absorbed by the Electric Shield(s) will add up to Volt's Static Discharge passive. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Transistor_Shield",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Транзисторный Щит",
+        "description": "<p>Транзисторный щит — мод-аугмент для Варфреймов Вольт и Вольт Прайм, изменяющий способность Электрический Щит. Союзники могут поднимать Электрический Щит. 100% поглощенного урона будет направлено на усиление Статического Разрядника Вольта.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%A9%D0%B8%D1%82",
+        "icon": "icons/ru/Transistor_Shield.6acefe0596c4e327b31c69c768b3857d.png",
+        "thumb": "icons/ru/thumbs/Transistor_Shield.6acefe0596c4e327b31c69c768b3857d.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

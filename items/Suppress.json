@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156c2",
+    "tags": [
+        "mod",
+        "pistol",
+        "common"
+    ],
+    "icon": "icons/en/Suppress.4fe191bbd38ac388a7e39b805b0bec95.png",
+    "thumb": "icons/en/thumbs/Suppress.4fe191bbd38ac388a7e39b805b0bec95.128x128.png",
+    "icon_format": "port",
+    "url_name": "suppress",
+    "tradable": true,
+    "en": {
+        "item_name": "Suppress",
+        "description": "<p>The Suppress mod reduces Noise Level on pistols. At max rank, it renders any pistols completely silent and undetectable while firing.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Suppress",
+        "drop": [
+            {
+                "name": "Corrupted Crewman",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Заглушение",
+        "description": "<p>Заглушение — обычный мод для вторичного оружия, который снижает вероятность обнаружения ваших выстрелов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Suppress.ee43e328e4e8a32cf033716288d97ae3.png",
+        "thumb": "icons/ru/thumbs/Suppress.ee43e328e4e8a32cf033716288d97ae3.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Crewman",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

@@ -1,0 +1,39 @@
+{
+    "_id": "567872239906166591f69a9a",
+    "tags": [
+        "transmute core",
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Madurai_Transmute_Core.4550b0b0a7749bc7d89773b220b0c60d.png",
+    "thumb": "icons/en/Madurai_Transmute_Core.4550b0b0a7749bc7d89773b220b0c60d.128x128.png",
+    "icon_format": "port",
+    "url_name": "madurai_transmute_core",
+    "tradable": true,
+    "en": {
+        "item_name": "Madurai Transmute Core",
+        "description": "<p>Madurai Transmute Core is a special Core that can be used as an ingredient in Transmutation. When transmuted alongside other Mods, the core ensures that the resulting Mod will be of  Madurai Polarity. Using a Transmutation Core also removes the credit cost for that transmutation, allowing for cheaper attempts at transmuting Rare-quality Mods. Transmutation Cores do not guarantee the rarity of the resulting mod, only their polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Madurai_Transmute_Core",
+        "drop": [
+            {
+                "name": "Cephalon Simaris",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ядро трансмутации мадурай",
+        "description": "<p>Ядро трансмутации Мадурай — мод, использующийся в преобразовании и позволяющий без денежных затрат гарантированно получить мод с полярностью .</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8_%D0%BC%D0%B0%D0%B4%D1%83%D1%80%D0%B0%D0%B9",
+        "icon": "icons/ru/Madurai_Transmute_Core.8f4227abcb6607935fb63c9905c96473.png",
+        "thumb": "icons/ru/thumbs/Madurai_Transmute_Core.8f4227abcb6607935fb63c9905c96473.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Simaris",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "trading_tax": 2000
+}

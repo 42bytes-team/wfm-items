@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a523",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Tactical_Retreat.90f93980f8da9a73157f4a6bca59e78f.png",
+    "thumb": "icons/en/thumbs/Tactical_Retreat.90f93980f8da9a73157f4a6bca59e78f.128x128.png",
+    "icon_format": "port",
+    "url_name": "tactical_retreat",
+    "tradable": true,
+    "en": {
+        "item_name": "Tactical Retreat",
+        "description": "<p>Tactical Retreat is a PvP-exclusive Warframe mod which increases mobility at low health.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tactical_Retreat",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тактическое отступление",
+        "description": "<p>Тактическое отступление — редкий мод для варфреймов в режиме конклава, который увеличивает мобильность при низких показателях здоровья в течение определённого промежутка времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Tactical_Retreat.a29e6abe46705c0d489100c1c1feb074.png",
+        "thumb": "icons/ru/thumbs/Tactical_Retreat.a29e6abe46705c0d489100c1c1feb074.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

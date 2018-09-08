@@ -1,0 +1,40 @@
+{
+    "_id": "54c688a2e77989145e6d0aa0",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Astral_Twilight.0e11466aa6264c5f2886a5de6a921772.png",
+    "thumb": "icons/en/thumbs/Astral_Twilight.0e11466aa6264c5f2886a5de6a921772.128x128.png",
+    "icon_format": "port",
+    "url_name": "astral_twilight",
+    "tradable": true,
+    "en": {
+        "item_name": "Astral Twilight",
+        "description": "<p>Astral Twilight is one of two available Stance mods for Glaive-type weapons, featuring highly mobile spins and sweeping slashes. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Astral_Twilight",
+        "drop": [
+            {
+                "name": "Overtake RewardDenial BursaBaro Ki'TeerOrokin Moon Spy RewardRathuum - Mission 3 (0.5%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Астральный сумрак",
+        "description": "<p>Астральный Сумрак  — это стойка, предназначенная для оружия ближнего боя класса Глефы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%BC%D1%80%D0%B0%D0%BA",
+        "icon": "icons/ru/Astral_Twilight.ccdc899cd995447eee438131bd4e02d3.png",
+        "thumb": "icons/ru/thumbs/Astral_Twilight.ccdc899cd995447eee438131bd4e02d3.128x128.png",
+        "drop": [
+            {
+                "name": "Overtake RewardDenial BursaBaro Ki'TeerOrokin Moon Spy RewardRathuum - Mission 3 (0.5%)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

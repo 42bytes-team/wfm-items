@@ -1,0 +1,39 @@
+{
+    "_id": "5678722e9906166591f69a9c",
+    "tags": [
+        "transmute core",
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Vazarin_Transmute_Core.6ffe9f46821c5f74f31505452e02f314.png",
+    "thumb": "icons/en/Vazarin_Transmute_Core.6ffe9f46821c5f74f31505452e02f314.128x128.png",
+    "icon_format": "port",
+    "url_name": "vazarin_transmute_core",
+    "tradable": true,
+    "en": {
+        "item_name": "Vazarin Transmute Core",
+        "description": "<p>Vazarin Transmutate Core is a special Core that can be used as an ingredient in Transmutation. When transmuted alongside other Mods, the core ensures that the resulting Mod will be of  Vazarin Polarity. Using a Transmutation Core also removes the credit cost for that transmutation, allowing for cheaper attempts at transmuting Rare-quality Mods. Transmutation Cores do not guarantee the rarity of the resulting mod, only their polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vazarin_Transmute_Core",
+        "drop": [
+            {
+                "name": "Cephalon Simaris",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ядро трансмутации вазарин",
+        "description": "<p>Ядро трансмутации Вазарин — мод, использующийся в преобразовании и позволяющий без денежных затрат гарантированно получить мод с полярностью .</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8_%D0%B2%D0%B0%D0%B7%D0%B0%D1%80%D0%B8%D0%BD",
+        "icon": "icons/ru/Vazarin_Transmute_Core.cbab4c300e96ba1505f1f588604fd382.png",
+        "thumb": "icons/ru/thumbs/Vazarin_Transmute_Core.cbab4c300e96ba1505f1f588604fd382.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Simaris",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "trading_tax": 2000
+}

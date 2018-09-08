@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51558f",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Seeking_Force.9efcc6f0d43c53ca9a57a65d753de6f3.png",
+    "thumb": "icons/en/thumbs/Seeking_Force.9efcc6f0d43c53ca9a57a65d753de6f3.128x128.png",
+    "icon_format": "port",
+    "url_name": "seeking_force",
+    "tradable": true,
+    "en": {
+        "item_name": "Seeking Force",
+        "description": "<p>The Seeking Force mod increases Punch Through of a shotgun starting at 0.4 meters, with a maximum of 2.1 meters at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Seeking_Force",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сила охотника",
+        "description": "<p>Сила Охотника — редкий мод для дробовиков, который увеличивает пронзание. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B8%D0%BB%D0%B0_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Seeking_Force.7d8343c15bff2b0cf537c58fa952d60b.png",
+        "thumb": "icons/ru/thumbs/Seeking_Force.7d8343c15bff2b0cf537c58fa952d60b.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

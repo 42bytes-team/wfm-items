@@ -1,0 +1,55 @@
+{
+    "_id": "5783bf20d9b6753790c89e8d",
+    "tags": [
+        "parts",
+        "archwing",
+        "stock"
+    ],
+    "icon": "icons/en/Fluctus_Set.764b2148dde0c8969f748d6e0b80f957.png",
+    "thumb": "icons/en/thumbs/Fluctus_Set.764b2148dde0c8969f748d6e0b80f957.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "fluctus_stock",
+    "tradable": true,
+    "part_of_set": [
+        "582b0f850af25410b099f7f9",
+        "5783bf15d9b6753790c89e8b",
+        "5783bf1ad9b6753790c89e8c",
+        "5783bf20d9b6753790c89e8d"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Fluctus Stock",
+        "description": "<p>The Fluctus is an Archwing primary weapon which fires a wave of energy. It was released in Update 15.7.2.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fluctus",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ],
+        "codex": "An Archwing energy weapon that sends waves of deadly plasma crashing into enemies."
+    },
+    "ru": {
+        "item_name": "Флактус Приклад",
+        "description": "<p>Энергетическое оружие Арчвинга, стреляющее сгустками плазмы, расщепляющей врагов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D0%BB%D0%B0%D0%BA%D1%82%D1%83%D1%81",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

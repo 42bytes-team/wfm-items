@@ -1,0 +1,53 @@
+{
+    "_id": "578d33bf34003bbbb9e20925",
+    "tags": [
+        "blueprint",
+        "archwing"
+    ],
+    "icon": "icons/en/Rathbone_Set.7e6a0db9a09fae95a9f6a4e96b1f0979.png",
+    "thumb": "icons/en/thumbs/Rathbone_Set.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/generic_head_128x128.png",
+    "url_name": "rathbone_head",
+    "tradable": true,
+    "part_of_set": [
+        "582b0f8a0af25410b099f800",
+        "578d33bf34003bbbb9e20924",
+        "578d33bf34003bbbb9e20925"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Rathbone Head",
+        "description": "<p>A heavy Hammer exclusive to Archwing use, the Rathbone primarily deals  Impact damage, which is ideal for taking down Corpus shields. This weapon shares its own basic six combo with Centaur.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rathbone",
+        "drop": [
+            {
+                "name": "New Loka",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ],
+        "codex": "Using Archwing's jets for thrust, this massive hammer crushes anything in its path."
+    },
+    "ru": {
+        "item_name": "Рэтбон",
+        "description": "<p>Используя реактивную силу Арчвинга, этот массивный молот разрушает всё на своём пути</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8D%D1%82%D0%B1%D0%BE%D0%BD",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "New Loka",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4c6",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Adept_Surge.d176142917c6532a97645ade76dd3edc.png",
+    "thumb": "icons/en/thumbs/Adept_Surge.d176142917c6532a97645ade76dd3edc.128x128.png",
+    "icon_format": "port",
+    "url_name": "adept_surge",
+    "tradable": true,
+    "en": {
+        "item_name": "Adept Surge",
+        "description": "<p>Adept Surge is a PvP-exclusive Warframe mod that increases Mobility at the cost of Health.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Adept_Surge",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Искусный выброс",
+        "description": "<p>Искусный выброс — эксилус мод для варфреймов в режиме конклава, который увеличивает мобильность, взамен уменьшая показатели здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D0%B1%D1%80%D0%BE%D1%81",
+        "icon": "icons/ru/Adept_Surge.182d075dd4a7cb4072ea3a0875db418d.png",
+        "thumb": "icons/ru/thumbs/Adept_Surge.182d075dd4a7cb4072ea3a0875db418d.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

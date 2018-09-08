@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155d0",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Corrosive_Projection.4ab2acaab21c1bdbf7414b993a57b32a.png",
+    "thumb": "icons/en/thumbs/Corrosive_Projection.4ab2acaab21c1bdbf7414b993a57b32a.128x128.png",
+    "icon_format": "port",
+    "url_name": "corrosive_projection",
+    "tradable": true,
+    "en": {
+        "item_name": "Corrosive Projection",
+        "description": "<p>Corrosive Projection is an aura that reduces armor for all enemies in a mission.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Corrosive_Projection",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Коррозийный выброс",
+        "description": "<p>Коррозийный выброс — необычная аура, которая снижает показатель брони противника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D1%80%D1%80%D0%BE%D0%B7%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D0%B1%D1%80%D0%BE%D1%81",
+        "icon": "icons/ru/Corrosive_Projection.88e813e0955c866d39b88a20e7084147.png",
+        "thumb": "icons/ru/thumbs/Corrosive_Projection.88e813e0955c866d39b88a20e7084147.128x128.png",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

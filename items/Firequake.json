@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec1e779896af9418266",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Firequake.07cde6fd466b03dd80e2c60bd79d3476.png",
+    "thumb": "icons/en/thumbs/Firequake.07cde6fd466b03dd80e2c60bd79d3476.128x128.png",
+    "icon_format": "port",
+    "url_name": "firequake",
+    "tradable": true,
+    "en": {
+        "item_name": "Firequake",
+        "description": "<p>Firequake is a Warframe Augment Mod for Ember that gives World On Fire a chance to down enemies caught in the flames.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Firequake",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Дрожащий огонь",
+        "description": "<p>Дрожащий Огонь — мод-аугмент для варфрейма Эмбер и Эмбер Прайм, улучшающий её способность Мир В Огне. Враги, задетые способностью, будут опрокинуты с некоторым шансом.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%80%D0%BE%D0%B6%D0%B0%D1%89%D0%B8%D0%B9_%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C",
+        "icon": "icons/ru/Firequake.c1390c4da520b1504720a49604f5a598.png",
+        "thumb": "icons/ru/thumbs/Firequake.c1390c4da520b1504720a49604f5a598.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155e5",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Volcanic_Edge.9c1e4796e7e9c52e16d5a85d353e58d7.png",
+    "thumb": "icons/en/thumbs/Volcanic_Edge.9c1e4796e7e9c52e16d5a85d353e58d7.128x128.png",
+    "icon_format": "port",
+    "url_name": "volcanic_edge",
+    "tradable": true,
+    "en": {
+        "item_name": "Volcanic Edge",
+        "description": "<p>The Volcanic Edge mod increases both the  Heat damage and Status Chance of a melee weapon by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Volcanic_Edge",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Breeding Grounds",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вулканическая грань",
+        "description": "<p>Вулканическая Грань — гибридный мод для оружия ближнего боя, который увеличивает  огненный урон и шанс срабатывания.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%BD%D1%8C",
+        "icon": "icons/ru/Volcanic_Edge.6fb07d8a0a5bace6bb978a8956cf9e1c.png",
+        "thumb": "icons/ru/thumbs/Volcanic_Edge.6fb07d8a0a5bace6bb978a8956cf9e1c.128x128.png",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Breeding Grounds",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

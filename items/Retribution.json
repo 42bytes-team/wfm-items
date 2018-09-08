@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e51569e",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Retribution.2830651404639a9119f19d51d8454de2.png",
+    "thumb": "icons/en/thumbs/Retribution.2830651404639a9119f19d51d8454de2.128x128.png",
+    "icon_format": "port",
+    "url_name": "retribution",
+    "tradable": true,
+    "en": {
+        "item_name": "Retribution",
+        "description": "<p>The Retribution mod grants a chance to damage enemies with  Electricity damage when they strike a Warframe in melee.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Retribution",
+        "drop": [
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "Orokin Void containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Возмездие",
+        "description": "<p>Возмездие — эксилус мод для варфреймов, который наносит урон  электричеством (с некоторым шансом может сработать статус), если враги враги нанесли вам урон по щитам в ближнем бою.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B7%D0%BC%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5",
+        "icon": "icons/ru/Retribution.772df8bcc559f0b63e2ffc63ba1a9e69.png",
+        "thumb": "icons/ru/thumbs/Retribution.772df8bcc559f0b63e2ffc63ba1a9e69.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "Orokin Void containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

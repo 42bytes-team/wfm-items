@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155a7",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Warrior.f242df87020912815a276c2b9160c411.png",
+    "thumb": "icons/en/thumbs/Warrior.f242df87020912815a276c2b9160c411.128x128.png",
+    "icon_format": "port",
+    "url_name": "warrior",
+    "tradable": true,
+    "en": {
+        "item_name": "Warrior",
+        "description": "<p>Warrior allows Wyrm to attack the first visible enemy in range.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Warrior",
+        "drop": [
+            {
+                "name": "CorpusNullifier Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusSniper Crewman",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Воитель",
+        "description": "<p>Воитель - мод-заповедь для для стража Вирм и Вирм Прайм, дающий ему возможность атаковать врагов в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Warrior.66f25a1fe744cd29335f648f5592dcce.png",
+        "thumb": "icons/ru/thumbs/Warrior.66f25a1fe744cd29335f648f5592dcce.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusNullifier Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusSniper Crewman",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

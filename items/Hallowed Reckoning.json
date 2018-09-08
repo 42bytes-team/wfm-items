@@ -1,0 +1,48 @@
+{
+    "_id": "5615432cb66f8371035bfa34",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Hallowed_Reckoning.1003970df17174c7a7d16418d099910b.png",
+    "thumb": "icons/en/thumbs/Hallowed_Reckoning.1003970df17174c7a7d16418d099910b.128x128.png",
+    "icon_format": "port",
+    "url_name": "hallowed_reckoning",
+    "tradable": true,
+    "en": {
+        "item_name": "Hallowed Reckoning",
+        "description": "<p>Hallowed Reckoning is a Warframe Augment Mod for Oberon that makes enemies damaged by Reckoning create fields of Hallowed Ground that deal damage-over-time to enemies standing in them, while providing armor to allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hallowed_Reckoning",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Священное искупление",
+        "description": "<p>Священное Искупление — мод-аугмент для варфрейма Оберон, улучшающий его способность Искупление. Задетые способностью враги создают поля, аналогичные Святой Земле на определённый промежуток времени. Союзники, попавшие в радиус действия поля, получат бонус к броне. Также враги, подверженные эффекту умения, будут получать определенный урон в секунду.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Hallowed_Reckoning.38d480d694d5d91df582f3a863ca404e.png",
+        "thumb": "icons/ru/thumbs/Hallowed_Reckoning.38d480d694d5d91df582f3a863ca404e.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

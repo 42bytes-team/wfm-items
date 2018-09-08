@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156d7",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Curative_Undertow.fa308482fddacdfa8814c5625d5e0284.png",
+    "thumb": "icons/en/thumbs/Curative_Undertow.fa308482fddacdfa8814c5625d5e0284.128x128.png",
+    "icon_format": "port",
+    "url_name": "curative_undertow",
+    "tradable": true,
+    "en": {
+        "item_name": "Curative Undertow",
+        "description": "<p>Curative Undertow is a Hydroid Warframe Augment Mod that allows Undertow to heal Hydroid and his allies within range by a percentage of their max health every 1.5 seconds. Each ally atop the pool increases Undertow's energy drain per second.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Curative_Undertow",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Лечебный отлив",
+        "description": "<p>Лечебный Отлив — мод-аугмент для варфейма Гидроид, улучшающий его способность Отлив. Союзникам, находящимся в зоне действия способности, будет регенерироваться здоровье.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D0%BB%D0%B8%D0%B2",
+        "icon": "icons/ru/Curative_Undertow.c7cdf9bf8d91d97dd1d0d18cacf9ff46.png",
+        "thumb": "icons/ru/thumbs/Curative_Undertow.c7cdf9bf8d91d97dd1d0d18cacf9ff46.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

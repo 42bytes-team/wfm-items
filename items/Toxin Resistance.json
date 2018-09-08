@@ -1,0 +1,39 @@
+{
+    "_id": "595567c18e34b5ed3cb3d9be",
+    "tags": [
+        "mod",
+        "aura"
+    ],
+    "icon": "icons/en/Toxin_Resistance.d7d61c40b26bb9842aa608479c9ca8a1.png",
+    "thumb": "icons/en/thumbs/Toxin_Resistance.d7d61c40b26bb9842aa608479c9ca8a1.128x128.png",
+    "icon_format": "port",
+    "url_name": "toxin_resistance",
+    "tradable": true,
+    "en": {
+        "item_name": "Toxin Resistance",
+        "description": "<p>Toxin Resistance is an Aura that reduces poison damage by 2.5% per rank, up to 15% at max. This can be stacked with other teammates' to reduce the damage by 60%. Its effects are identical to Antitoxin. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Toxin_Resistance",
+        "drop": [
+            {
+                "name": "Grineer Nox",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сопротивление Токсинам",
+        "description": "",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A2%D0%BE%D0%BA%D1%81%D0%B8%D0%BD%D0%B0%D0%BC",
+        "icon": "icons/ru/Toxin_Resistance.549dcb4c1d90eafb9aa951cfb344e0ca.png",
+        "thumb": "icons/ru/thumbs/Toxin_Resistance.549dcb4c1d90eafb9aa951cfb344e0ca.128x128.png",
+        "drop": [
+            {
+                "name": "Grineer Nox",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}
