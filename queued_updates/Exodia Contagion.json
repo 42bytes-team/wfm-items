@@ -1,0 +1,38 @@
+{
+    "_id": "5a26c31dc2c9e903a8381330",
+    "tags": [
+        "arcane enhancements",
+        "zaw"
+    ],
+    "icon": "icons/en/Exodia_Contagion.f1cb19151ee32fa1ee23a778cba612a2.png",
+    "thumb": "icons/en/thumbs/Exodia_Contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png",
+    "icon_format": "land",
+    "url_name": "exodia_contagion",
+    "tradable": true,
+    "en": {
+        "item_name": "Exodia Contagion",
+        "description": "<p>Exodia Contagion is an Arcane Enhancement for Zaws that unleashes a projectile of Infested energy upon performing an aerial melee attack after a bullet jump or double jump.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Contagion",
+        "drop": [
+            {
+                "name": "Operation: Plague Star",
+                "link": "http://warframe.wikia.com/wiki/Operation:_Plague_Star"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Заражение Эксодии",
+        "description": "<p>Заражение Эксодии - мистификатор для Зо. После прыжка-выстрела или двойного прыжка, атаки в воздухе создают снаряд Заражённой энергии, взрывающийся при попадании в цель.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%AD%D0%BA%D1%81%D0%BE%D0%B4%D0%B8%D0%B8",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Чумная Звезда",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F:_%D0%A7%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0"
+            }
+        ]
+    },
+    "mod_max_rank": 3,
+    "trading_tax": 1000000
+}
