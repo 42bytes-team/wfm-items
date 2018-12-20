@@ -4,23 +4,23 @@
         "mod",
         "beast"
     ],
-    "icon": "icons/en/Venom_Teeth.0ee29c47782681b62f7ba573dcdd10f9.png",
-    "thumb": "icons/en/thumbs/Venom_Teeth.0ee29c47782681b62f7ba573dcdd10f9.128x128.png",
+    "icon": "icons/en/Venom_Teeth.34e128ccb964bde24be6e935b6dc51a7.png",
+    "thumb": "icons/en/thumbs/Venom_Teeth.34e128ccb964bde24be6e935b6dc51a7.128x128.png",
     "icon_format": "port",
     "url_name": "venom_teeth",
     "tradable": true,
     "en": {
         "item_name": "Venom Teeth",
-        "description": "<p>Increased Toxin/Status Chance</p>",
+        "description": "<p>Venom Teeth increases both the Toxin damage and status chance of Kubrows and Kavats.</p>",
         "wiki_link": "http://warframe.fandom.com/wiki/Venom_Teeth",
         "drop": []
     },
     "ru": {
-        "item_name": "Venom Teeth",
-        "description": "<p>Increased Toxin/Status Chance</p>",
-        "wiki_link": "http://warframe.fandom.com/wiki/Venom_Teeth",
-        "icon": null,
-        "thumb": null,
+        "item_name": "Ядовитые Клыки",
+        "description": "<p>Ядовитые Клыки — гибридный мод для компаньонов, который добавляет его атакам токсичный урон и увеличивает шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AF%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D1%8B%D0%B5_%D0%9A%D0%BB%D1%8B%D0%BA%D0%B8",
+        "icon": "icons/ru/Venom_Teeth.b14284851ce2688c1c67d6bc98093dc0.png",
+        "thumb": "icons/ru/thumbs/Venom_Teeth.b14284851ce2688c1c67d6bc98093dc0.128x128.png",
         "drop": []
     },
     "rarity": "rare",

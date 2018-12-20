@@ -4,23 +4,23 @@
         "mod",
         "beast"
     ],
-    "icon": "icons/en/Frost_Jaw.4c65a46847aa389bd3be9a6ec0180d4e.png",
-    "thumb": "icons/en/thumbs/Frost_Jaw.4c65a46847aa389bd3be9a6ec0180d4e.128x128.png",
+    "icon": "icons/en/Frost_Jaw.d59a7a5de076a6b9d8207259212dace6.png",
+    "thumb": "icons/en/thumbs/Frost_Jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png",
     "icon_format": "port",
     "url_name": "frost_jaw",
     "tradable": true,
     "en": {
         "item_name": "Frost Jaw",
-        "description": "<p>Increased Cold/Status Chance</p>",
+        "description": "<p>Frost Jaw increases both the Cold damage and status chance of Kubrows and Kavats.</p>",
         "wiki_link": "http://warframe.fandom.com/wiki/Frost_Jaw",
         "drop": []
     },
     "ru": {
-        "item_name": "Frost Jaw",
-        "description": "<p>Increased Cold/Status Chance</p>",
-        "wiki_link": "http://warframe.fandom.com/wiki/Frost_Jaw",
-        "icon": null,
-        "thumb": null,
+        "item_name": "Холодная Пасть",
+        "description": "<p>Холодная Пасть — гибридный мод для компаньонов, который добавляет его атакам Лед черный ледяной урон и увеличивает шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%9F%D0%B0%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Frost_Jaw.c4b1dfc96a3ce6b3339bbbca38017fcc.png",
+        "thumb": "icons/ru/thumbs/Frost_Jaw.c4b1dfc96a3ce6b3339bbbca38017fcc.128x128.png",
         "drop": []
     },
     "rarity": "rare",

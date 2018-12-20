@@ -4,24 +4,34 @@
         "mod",
         "k-drive"
     ],
-    "icon": "icons/en/Mag_Locks.37f998cca140b3e158a90166a2cc15fc.png",
-    "thumb": "icons/en/thumbs/Mag_Locks.37f998cca140b3e158a90166a2cc15fc.128x128.png",
+    "icon": "icons/en/Mag_Locks.276bba4eb302ed0a1f7e10e3ae05784b.png",
+    "thumb": "icons/en/thumbs/Mag_Locks.276bba4eb302ed0a1f7e10e3ae05784b.128x128.png",
     "icon_format": "port",
     "url_name": "mag_locks",
     "tradable": true,
     "en": {
         "item_name": "Mag Locks",
-        "description": "<p>+5% K-Drive Grind Magnetism</p>",
-        "wiki_link": null,
-        "drop": []
+        "description": "<p>Mag Locks is a mod that allows K-Drives to have better grind magnetism.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Locks",
+        "drop": [
+            {
+                "name": "Ventkids",
+                "link": null
+            }
+        ]
     },
     "ru": {
-        "item_name": "Mag Locks",
-        "description": "<p>+5% K-Drive Grind Magnetism</p>",
-        "wiki_link": null,
-        "icon": null,
-        "thumb": null,
-        "drop": []
+        "item_name": "Магнитные Захваты",
+        "description": "<p>Магнитные Захваты — модификатор для К-Драйва, увеличивающий его способность притягиваться к перилам, трубам и т.п., во время выполнения грайнда.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D1%8B%D0%B5_%D0%97%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D1%8B",
+        "icon": "icons/ru/Mag_Locks.3ddde5e04c01e46c3bf169093fdd48d4.png",
+        "thumb": "icons/ru/thumbs/Mag_Locks.3ddde5e04c01e46c3bf169093fdd48d4.128x128.png",
+        "drop": [
+            {
+                "name": "Дети Труб",
+                "link": null
+            }
+        ]
     },
     "rarity": "common",
     "mod_max_rank": 5,
