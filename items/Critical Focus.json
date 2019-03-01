@@ -12,15 +12,25 @@
         "item_name": "Critical Focus",
         "description": "<p>Critical Focus is a mod that increases the critical chance and damage of an Archwing gun when aiming by 10% per rank for a maximum of 60% at rank 5.</p>",
         "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus",
-        "drop": []
+        "drop": [
+            {
+                "name": "Profit-Taker Bounty (Phase 4)",
+                "link": null
+            }
+        ]
     },
     "ru": {
-        "item_name": "Critical Focus",
-        "description": "<p>Critical Focus is a mod that increases the critical chance and damage of an Archwing gun when aiming by 10% per rank for a maximum of 60% at rank 5.</p>",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus",
-        "icon": null,
-        "thumb": null,
-        "drop": []
+        "item_name": "Критический Фокус",
+        "description": "<p>Критический Фокус — редкий мод для основного оружия арчвинга, который увеличивает шанс нанесения критического удара и критический урон в режиме прицеливания.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A4%D0%BE%D0%BA%D1%83%D1%81",
+        "icon": "icons/ru/Critical_Focus.8bb49028e4a727a793b21af5c758836c.png",
+        "thumb": "icons/ru/thumbs/Critical_Focus.8bb49028e4a727a793b21af5c758836c.128x128.png",
+        "drop": [
+            {
+                "name": "Profit-Taker Bounty (Phase 4)",
+                "link": null
+            }
+        ]
     },
     "rarity": "rare",
     "mod_max_rank": 5,
