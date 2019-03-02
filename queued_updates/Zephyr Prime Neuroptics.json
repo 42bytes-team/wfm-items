@@ -1,0 +1,60 @@
+{
+    "_id": "5ab1570db2b6a8044d5137c1",
+    "tags": [
+        "blueprint",
+        "warframe",
+        "neuroptics"
+    ],
+    "icon": "icons/en/Zephyr_Prime_Set.0e09d33a330ff376c5d258a8ac8db850.png",
+    "thumb": "icons/en/thumbs/Zephyr_Prime_Set.0e09d33a330ff376c5d258a8ac8db850.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/neuroptics_128x128.png",
+    "url_name": "zephyr_prime_neuroptics",
+    "tradable": true,
+    "part_of_set": [
+        "5ab1570db2b6a8044d5137c5",
+        "5ab1570db2b6a8044d5137c1",
+        "5ab1570db2b6a8044d5137c2",
+        "5ab1570db2b6a8044d5137c3",
+        "5ab1570db2b6a8044d5137c4"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Zephyr Prime Neuroptics",
+        "description": "<p>Release Date: March 20th, 2018</p><p>Zephyr Prime is the Primed variant of Zephyr, featuring higher armor, energy pool and sprint speed. It comes also with two extra polarities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zephyr/Prime",
+        "drop": [
+            {
+                "name": "Lith H2 Common",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "제피르 프라임 뉴로옵틱스",
+        "description": "<p>Release Date: March 20th, 2018</p><p>Zephyr Prime is the Primed variant of Zephyr, featuring higher armor, energy pool and sprint speed. It comes also with two extra polarities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zephyr/Prime",
+        "drop": [
+            {
+                "name": "Lith H2 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зефир Прайм Нейрооптика",
+        "description": "<p>Релиз: 20 Марта, 2018</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B5%D1%84%D0%B8%D1%80",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Лит H2 Обычная",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 6,
+    "ducats": 15,
+    "trading_tax": 4000
+}
