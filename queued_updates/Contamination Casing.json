@@ -1,0 +1,46 @@
+{
+    "_id": "5c1bda1914a8e4006b1dad8d",
+    "tags": [
+        "mod"
+    ],
+    "icon": "icons/en/Contamination_Casing.de6a78dc0528ba17a09271d73ea2f935.png",
+    "thumb": "icons/en/thumbs/Contamination_Casing.de6a78dc0528ba17a09271d73ea2f935.128x128.png",
+    "icon_format": "port",
+    "url_name": "contamination_casing",
+    "tradable": true,
+    "en": {
+        "item_name": "Contamination Casing",
+        "description": "<p>Contamination Casing is a mod that increases Toxin damage and status chance of Arch-guns by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Contamination_Casing",
+        "drop": [
+            {
+                "name": "Fomorian Sabotage (5%)",
+                "link": null
+            },
+            {
+                "name": "Profit-Taker Orb (2.56%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зараженная Оболочка",
+        "description": "<p>Зараженная Оболочка — гибридный мод для основного оружия арчвинга, который увеличивает урон токсином и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%9E%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0",
+        "icon": "icons/ru/Contamination_Casing.31522e93b03f0c132df5e6425a7e3ec4.png",
+        "thumb": "icons/ru/thumbs/Contamination_Casing.31522e93b03f0c132df5e6425a7e3ec4.128x128.png",
+        "drop": [
+            {
+                "name": "Фоморианская Угроза (5%)",
+                "link": null
+            },
+            {
+                "name": "Сфера Извлечения Прибыли (2.56%)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

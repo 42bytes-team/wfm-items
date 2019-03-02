@@ -1,0 +1,41 @@
+{
+    "_id": "581d0c4ed5f9e290fa2e959f",
+    "tags": [
+        "mod",
+        "rifle",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Cryo_Rounds.6f4f3f7dd369e80de462cac282f21d63.png",
+    "thumb": "icons/en/thumbs/Primed_Cryo_Rounds.6f4f3f7dd369e80de462cac282f21d63.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_cryo_rounds",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Cryo Rounds",
+        "description": "<p>The Primed Cryo Rounds mod increases  Cold damage of Rifles by 15% per rank for a maximum of 165% at rank 10.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Cryo_Rounds",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Крио патроны прайм",
+        "description": "<p>Крио патроны прайм — легендарный мод для основного оружия, который увеличивает  ледяной урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%B8%D0%BE_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Cryo_Rounds.3552affd29bcbdcc1bd0a9b1b1741479.png",
+        "thumb": "icons/ru/thumbs/Primed_Cryo_Rounds.3552affd29bcbdcc1bd0a9b1b1741479.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

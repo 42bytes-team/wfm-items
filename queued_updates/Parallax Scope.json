@@ -1,0 +1,104 @@
+{
+    "_id": "54a74454e779892d5e5155f8",
+    "tags": [
+        "mod",
+        "archwing gun",
+        "common"
+    ],
+    "icon": "icons/en/Parallax_Scope.733e5e6c2f4ae0dd23263865e11fafa5.png",
+    "thumb": "icons/en/thumbs/Parallax_Scope.733e5e6c2f4ae0dd23263865e11fafa5.128x128.png",
+    "icon_format": "port",
+    "url_name": "parallax_scope",
+    "tradable": true,
+    "en": {
+        "item_name": "Parallax Scope",
+        "description": "<p>The Parallax Scope mod increases the critical hit chance of an Archwing gun by 20% per rank for a maximum of 80% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Parallax_Scope",
+        "drop": [
+            {
+                "name": "CorpusFrigate",
+                "link": null
+            },
+            {
+                "name": "CorpusPenta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusQuanta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusRanger",
+                "link": null
+            },
+            {
+                "name": "GrineerDreg",
+                "link": null
+            },
+            {
+                "name": "GrineerTemporal Dreg",
+                "link": null
+            },
+            {
+                "name": "InfestedAttack Mutalist",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Параллакс-линзы",
+        "description": "<p>Параллакс-Линзы — обычный мод для основного оружия арчвинга, который увеличивает шанс критической атаки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B0%D0%BA%D1%81-%D0%BB%D0%B8%D0%BD%D0%B7%D1%8B",
+        "icon": "icons/ru/Parallax_Scope.0df796ff0a0c07b59483dae99b5ebf59.png",
+        "thumb": "icons/ru/thumbs/Parallax_Scope.0df796ff0a0c07b59483dae99b5ebf59.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusFrigate",
+                "link": null
+            },
+            {
+                "name": "CorpusPenta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusQuanta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusRanger",
+                "link": null
+            },
+            {
+                "name": "GrineerDreg",
+                "link": null
+            },
+            {
+                "name": "GrineerTemporal Dreg",
+                "link": null
+            },
+            {
+                "name": "InfestedAttack Mutalist",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

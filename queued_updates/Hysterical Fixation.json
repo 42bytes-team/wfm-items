@@ -1,0 +1,40 @@
+{
+    "_id": "5615432bb66f8371035bfa27",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Hysterical_Fixation.ee66a28ce6af173f246b554544b1121f.png",
+    "thumb": "icons/en/thumbs/Hysterical_Fixation.ee66a28ce6af173f246b554544b1121f.128x128.png",
+    "icon_format": "port",
+    "url_name": "hysterical_fixation",
+    "tradable": true,
+    "en": {
+        "item_name": "Hysterical Fixation",
+        "description": "<p>Hysterical Fixation is a PvP-exclusive Warframe Augment Mod for Valkyr's Hysteria that replenishes a percentage of your shields for every kill while in Hysteria.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hysterical_Fixation",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Истеричная стабилизация",
+        "description": "<p>Истеричная стабилизация — мод-аугмент для варфрейма Валькирия в режиме конклава, улучшающий её способность истерия. Пока активно умение, каждое убийство восстанавливает Валькирии щиты от их максимального показателя.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+        "icon": "icons/ru/Hysterical_Fixation.b2a62b309de4ffc720fee2052b0df5bf.png",
+        "thumb": "icons/ru/thumbs/Hysterical_Fixation.b2a62b309de4ffc720fee2052b0df5bf.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,96 @@
+{
+    "_id": "5758ae0842ba8659dde2f571",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Enhanced_Vitality.20178f43d39b9452c6e589f1c33577a4.png",
+    "thumb": "icons/en/thumbs/Enhanced_Vitality.20178f43d39b9452c6e589f1c33577a4.128x128.png",
+    "icon_format": "port",
+    "url_name": "enhanced_vitality",
+    "tradable": true,
+    "en": {
+        "item_name": "Enhanced Vitality",
+        "description": "<p>Enhanced Vitality increases the health of a Sentinel.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Enhanced_Vitality",
+        "drop": [
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusLynx Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusLynx Turret",
+                "link": null
+            },
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerNapalm",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller Sentry",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Улучшенная живучесть",
+        "description": "<p>Улучшенная Живучесть — обычный мод для для стражей, который увеличивает максимальный запас здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B2%D1%83%D1%87%D0%B5%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Enhanced_Vitality.f8daf759c9f8c9b5a220631bf55a68fe.png",
+        "thumb": "icons/ru/thumbs/Enhanced_Vitality.f8daf759c9f8c9b5a220631bf55a68fe.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusLynx Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusLynx Turret",
+                "link": null
+            },
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerNapalm",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller Sentry",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 10,
+    "trading_tax": 2000
+}

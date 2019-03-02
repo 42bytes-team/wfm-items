@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4e6",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Prize_Kill.e3319fbe68882457f6ba2a167d2121d2.png",
+    "thumb": "icons/en/thumbs/Prize_Kill.e3319fbe68882457f6ba2a167d2121d2.128x128.png",
+    "icon_format": "port",
+    "url_name": "prize_kill",
+    "tradable": true,
+    "en": {
+        "item_name": "Prize Kill",
+        "description": "<p>Prize Kill was a PvP-exclusive shotgun mod that gave a chance to restore shields on kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Prize_Kill",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Наградное убийство",
+        "description": "<p>Наградное Убийство — мод для дробовиков в режиме конклава, который с некоторым шансом полностью восстанавливает показатели щита при убийстве противника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5_%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+        "icon": "icons/ru/Prize_Kill.ff3ef8afc1691fb44fa37ba72aababf0.png",
+        "thumb": "icons/ru/thumbs/Prize_Kill.ff3ef8afc1691fb44fa37ba72aababf0.128x128.png",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec0e779896af941825b",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Vampire_Leech.97cf256f35ee533378a490c5f27e0e2e.png",
+    "thumb": "icons/en/thumbs/Vampire_Leech.97cf256f35ee533378a490c5f27e0e2e.128x128.png",
+    "icon_format": "port",
+    "url_name": "vampire_leech",
+    "tradable": true,
+    "en": {
+        "item_name": "Vampire Leech",
+        "description": "<p>Vampire Leech is a Warframe Augment Mod for Trinity that causes Energy Vampire to convert excess energy into replenishing Shields, and will even boost into Overshields.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vampire_Leech",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вампирская пиявка",
+        "description": "<p>Вампирская Пиявка — мод-аугмент для варфрейма Тринити и Тринити Прайм, улучшающий её способность Энергетический Вампир. Если шкала энергии игрока заполнена, то пульсации этой способности будут восстанавливать и давать дополнительные щиты.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B8%D1%8F%D0%B2%D0%BA%D0%B0",
+        "icon": "icons/ru/Vampire_Leech.80a3d67c8c10ca019f9598c72a469511.png",
+        "thumb": "icons/ru/thumbs/Vampire_Leech.80a3d67c8c10ca019f9598c72a469511.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

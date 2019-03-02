@@ -1,0 +1,48 @@
+{
+    "_id": "5615432bb66f8371035bfa2a",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Sonic_Fracture.42750ffc5b0a98753ad727b73c1ef3d6.png",
+    "thumb": "icons/en/thumbs/Sonic_Fracture.42750ffc5b0a98753ad727b73c1ef3d6.128x128.png",
+    "icon_format": "port",
+    "url_name": "sonic_fracture",
+    "tradable": true,
+    "en": {
+        "item_name": "Sonic Fracture",
+        "description": "<p>Sonic Fracture is a Warframe Augment Mod for Banshee's Sonic Boom that allows it to temporarily strip armor off enemies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sonic_Fracture",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Акустический разрыв",
+        "description": "<p>Акустический Разрыв — мод-аугмент для варфрейма Банши, улучшающий её способность  Звуковой удар. У врагов,  задетых умением, будет снижена броня на короткий промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B7%D1%80%D1%8B%D0%B2",
+        "icon": "icons/ru/Sonic_Fracture.81bef50fccca655e30be787b0acc8d0a.png",
+        "thumb": "icons/ru/thumbs/Sonic_Fracture.81bef50fccca655e30be787b0acc8d0a.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

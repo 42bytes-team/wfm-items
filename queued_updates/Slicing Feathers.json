@@ -1,0 +1,41 @@
+{
+    "_id": "5a3e4a52c2c9e91beabdae8f",
+    "tags": [
+        "mod",
+        "stance",
+        "warfans",
+        "rare"
+    ],
+    "icon": "icons/en/Slicing_Feathers.7c036b7747007c3c17ba20d3cfa61a18.png",
+    "thumb": "icons/en/thumbs/Slicing_Feathers.7c036b7747007c3c17ba20d3cfa61a18.128x128.png",
+    "icon_format": "port",
+    "url_name": "slicing_feathers",
+    "tradable": true,
+    "en": {
+        "item_name": "Slicing Feathers",
+        "description": "<p>Slicing Feathers is a Stance mod for Warfans introduced in the Plains of Eidolon update.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Slicing_Feathers",
+        "drop": [
+            {
+                "name": "Ghoul bounty",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Секущие Перья",
+        "description": "<p>Секущие Перья — это редкая стойка, предназначенная для оружия класса Веера. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D0%9F%D0%B5%D1%80%D1%8C%D1%8F",
+        "icon": "icons/ru/Slicing_Feathers.829b7506bcb8dc711aac49aef9dc5702.png",
+        "thumb": "icons/ru/thumbs/Slicing_Feathers.829b7506bcb8dc711aac49aef9dc5702.128x128.png",
+        "drop": [
+            {
+                "name": "Гули",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

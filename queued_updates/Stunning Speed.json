@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51561b",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Stunning_Speed.c8e495b6c748e9386a65f9ee03c4fa5f.png",
+    "thumb": "icons/en/thumbs/Stunning_Speed.c8e495b6c748e9386a65f9ee03c4fa5f.128x128.png",
+    "icon_format": "port",
+    "url_name": "stunning_speed",
+    "tradable": true,
+    "en": {
+        "item_name": "Stunning Speed",
+        "description": "<p>The Stunning Speed mod increases reload speed and status effect chance by 10% and 2.5% per rank for a maximum of 40% and 10%, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stunning_Speed",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward,Alert",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Оглушающая скорость",
+        "description": "<p>Оглушающая Скорость — гибридный мод для вторичного оружия, который увеличивает скорость перезарядки пистолета и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BB%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Stunning_Speed.6b87ee0a299e10b727df2c329375b574.png",
+        "thumb": "icons/ru/thumbs/Stunning_Speed.6b87ee0a299e10b727df2c329375b574.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward,Alert",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

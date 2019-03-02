@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51566f",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Rifle_Scavenger.ed6f40912a4c031cf930152ce241e7c8.png",
+    "thumb": "icons/en/thumbs/Rifle_Scavenger.ed6f40912a4c031cf930152ce241e7c8.128x128.png",
+    "icon_format": "port",
+    "url_name": "rifle_scavenger",
+    "tradable": true,
+    "en": {
+        "item_name": "Rifle Scavenger",
+        "description": "<p>Rifle Scavenger is an Aura that increases the amount of rifle ammo recovered per drop.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Scavenger",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Добытчик: винтовка",
+        "description": "<p>Добытчик: винтовка — необычная аура, которая увеличивает количество подбираемых патронов для винтовки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA:_%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B0",
+        "icon": "icons/ru/Rifle_Scavenger.7a4fd7cbac7cdbb62266d504bd954fc7.png",
+        "thumb": "icons/ru/thumbs/Rifle_Scavenger.7a4fd7cbac7cdbb62266d504bd954fc7.128x128.png",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

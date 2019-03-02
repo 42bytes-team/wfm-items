@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e5156a2",
+    "tags": [
+        "mod",
+        "warframe",
+        "uncommon"
+    ],
+    "icon": "icons/en/Equilibrium.2bbbfd93da9ed5a3676a8eee1c5af479.png",
+    "thumb": "icons/en/thumbs/Equilibrium.2bbbfd93da9ed5a3676a8eee1c5af479.128x128.png",
+    "icon_format": "port",
+    "url_name": "equilibrium",
+    "tradable": true,
+    "en": {
+        "item_name": "Equilibrium",
+        "description": "<p>Equilibrium restores additional Energy when collecting Health Orbs, and additional Health when collecting Energy Orbs. Converted orbs are denoted by a  symbol.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Equilibrium",
+        "drop": [
+            {
+                "name": "Lephantis (Phase 1 )",
+                "link": null
+            },
+            {
+                "name": "Survival Weekend Event",
+                "link": null
+            },
+            {
+                "name": "Vor's Prize (Damaged )",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Равновесие",
+        "description": "<p>Равновесие — необычный мод для варфреймоов, который при подборе сферы здоровья также восстанавливает энергию, а при подборе сферы энергии - здоровье. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D0%B5",
+        "icon": "icons/ru/Equilibrium.3fab5c3e9a3cc666d3e664dd5c714bae.png",
+        "thumb": "icons/ru/thumbs/Equilibrium.3fab5c3e9a3cc666d3e664dd5c714bae.128x128.png",
+        "drop": [
+            {
+                "name": "Lephantis (Phase 1 )",
+                "link": null
+            },
+            {
+                "name": "Survival Weekend Event",
+                "link": null
+            },
+            {
+                "name": "Vor's Prize (Damaged )",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 10,
+    "trading_tax": 4000
+}

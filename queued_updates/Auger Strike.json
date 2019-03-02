@@ -1,0 +1,48 @@
+{
+    "_id": "554d3f0ce779894445a848fe",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Auger_Strike.159c0bc73cc79d8771071597f91ccd86.png",
+    "thumb": "icons/en/thumbs/Auger_Strike.159c0bc73cc79d8771071597f91ccd86.128x128.png",
+    "icon_format": "port",
+    "url_name": "auger_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Auger Strike",
+        "description": "<p>The Auger Strike mod increases  Puncture damage of a melee weapon by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Auger_Strike",
+        "drop": [
+            {
+                "name": "Operation: Mutalist Incursions reward",
+                "link": null
+            },
+            {
+                "name": "Tactical Alert (Divine Will )",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пробивающий удар",
+        "description": "<p>Пробивающий Удар — редкий мод для оружия ближнего боя, который увеличивает  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Auger_Strike.66a10981104c61445f8b46ecdc60a9ec.png",
+        "thumb": "icons/ru/thumbs/Auger_Strike.66a10981104c61445f8b46ecdc60a9ec.128x128.png",
+        "drop": [
+            {
+                "name": "Operation: Mutalist Incursions reward",
+                "link": null
+            },
+            {
+                "name": "Tactical Alert (Divine Will )",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

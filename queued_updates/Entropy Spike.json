@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155be",
+    "tags": [
+        "mod",
+        "weapons",
+        "rare"
+    ],
+    "icon": "icons/en/Entropy_Spike.def94f74a5e4438a695d47fb336d6066.png",
+    "thumb": "icons/en/thumbs/Entropy_Spike.def94f74a5e4438a695d47fb336d6066.128x128.png",
+    "icon_format": "port",
+    "url_name": "entropy_spike",
+    "tradable": true,
+    "en": {
+        "item_name": "Entropy Spike",
+        "description": "<p>The Entropy Spike mod is a Weapon Augment Mod that adds an explosion chance and Entropy specifically for the Bolto. It increases the explosion chance by 0.05 and Entropy by 0.25 per rank, at a maximum of 0.2 and 1 at rank 3, respectively. Explosions deal 250  Blast damage to the target, as well as to nearby enemies within 10 meters of the blast (scaled by distance).</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Spike",
+        "drop": [
+            {
+                "name": "Cephalon Suda Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Шип энтропии",
+        "description": "<p>Шип Энтропии — мод-аугмент для оружия Болто, который с некоторым шансом позволяет болтам оружия взрываться при соприкосновении и даёт прирост синдикат-эффекта - Энтропия. Радиус взрыва составляет 10 метров. Попавшие в зону поражения противники получают 250  взрывного урона. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D0%B8%D0%BF_%D1%8D%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D0%B8",
+        "icon": "icons/ru/Entropy_Spike.000f2e27229f84cb2b9e1e8a5afcf1c7.png",
+        "thumb": "icons/ru/thumbs/Entropy_Spike.000f2e27229f84cb2b9e1e8a5afcf1c7.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

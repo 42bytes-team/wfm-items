@@ -1,0 +1,64 @@
+{
+    "_id": "54a74455e779892d5e5156a9",
+    "tags": [
+        "mod",
+        "rifle",
+        "uncommon"
+    ],
+    "icon": "icons/en/Infected_Clip.2dcda9f516cee1490539981e6167c1ea.png",
+    "thumb": "icons/en/thumbs/Infected_Clip.2dcda9f516cee1490539981e6167c1ea.128x128.png",
+    "icon_format": "port",
+    "url_name": "infected_clip",
+    "tradable": true,
+    "en": {
+        "item_name": "Infected Clip",
+        "description": "<p>Infected Clip increases  Toxin damage done by rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Infected_Clip",
+        "drop": [
+            {
+                "name": "CorpusElite Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusDetron Crewman",
+                "link": null
+            },
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Токсичная обойма",
+        "description": "<p>Токсичная Обойма — необычный мод для основного оружия, который увеличивает  токсичный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%B9%D0%BC%D0%B0",
+        "icon": "icons/ru/Infected_Clip.64907824f376feb0a35490a7b50db9c4.png",
+        "thumb": "icons/ru/thumbs/Infected_Clip.64907824f376feb0a35490a7b50db9c4.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusElite Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusDetron Crewman",
+                "link": null
+            },
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

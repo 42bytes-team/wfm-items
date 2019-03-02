@@ -1,0 +1,88 @@
+{
+    "_id": "54a74454e779892d5e51563f",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Thunderbolt.0603c4ed87ce8ab6ce79a27205d081a4.png",
+    "thumb": "icons/en/thumbs/Thunderbolt.0603c4ed87ce8ab6ce79a27205d081a4.128x128.png",
+    "icon_format": "port",
+    "url_name": "thunderbolt",
+    "tradable": true,
+    "en": {
+        "item_name": "Thunderbolt",
+        "description": "<p>The Thunderbolt mod gives arrows from Bows a 7.5% chance per rank of exploding on impact for a maximum of 30% chance at Rank 3, dealing 250  Blast damage to the target, as well as to nearby enemies within 10 meters of the blast (scaled by distance).</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Thunderbolt",
+        "drop": [
+            {
+                "name": "GrineerElite Arid Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerDraga",
+                "link": null
+            },
+            {
+                "name": "GrineerDarek Draga",
+                "link": null
+            },
+            {
+                "name": "GrineerShock Draga",
+                "link": null
+            },
+            {
+                "name": "Infested T3Defense Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Громобой",
+        "description": "<p>Громобой — редкий мод для луков, который с некоторым шансом подрывает стрелы при попадании, нанося урон врагам в радиусе 10-ти метров от взрыва.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%BE%D0%B9",
+        "icon": "icons/ru/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.png",
+        "thumb": "icons/ru/thumbs/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerElite Arid Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerDraga",
+                "link": null
+            },
+            {
+                "name": "GrineerDarek Draga",
+                "link": null
+            },
+            {
+                "name": "GrineerShock Draga",
+                "link": null
+            },
+            {
+                "name": "Infested T3Defense Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

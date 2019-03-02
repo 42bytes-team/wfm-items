@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155e4",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Hall_of_Malevolence.00f7a45b319be600ecc0f40ad7b90a6c.png",
+    "thumb": "icons/en/thumbs/Hall_of_Malevolence.00f7a45b319be600ecc0f40ad7b90a6c.128x128.png",
+    "icon_format": "port",
+    "url_name": "hall_of_malevolence",
+    "tradable": true,
+    "en": {
+        "item_name": "Hall of Malevolence",
+        "description": "<p>Hall of Malevolence is a Warframe Augment Mod for Mirage's Hall of Mirrors that makes her doppelgangers deal more damage with every enemy killed.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hall_of_Malevolence",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Галерея злобы",
+        "description": "<p>Галерея Злобы — мод-аугмент для варфрейма Мираж, улучшающий её способность Зеркальная Галерея. Урон клонов Мираж будет увеличиваться с каждым убитым врагом.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%B7%D0%BB%D0%BE%D0%B1%D1%8B",
+        "icon": "icons/ru/Hall_of_Malevolence.e2b578c86934df8465b54f3105ea0eaa.png",
+        "thumb": "icons/ru/thumbs/Hall_of_Malevolence.e2b578c86934df8465b54f3105ea0eaa.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec1e779896af9418264",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Rising_Storm.11c0c21cadba43d90d6b240fd1e8f3c8.png",
+    "thumb": "icons/en/thumbs/Rising_Storm.11c0c21cadba43d90d6b240fd1e8f3c8.128x128.png",
+    "icon_format": "port",
+    "url_name": "rising_storm",
+    "tradable": true,
+    "en": {
+        "item_name": "Rising Storm",
+        "description": "<p>Rising Storm is an Ash Warframe Augment Mod that increases the duration of the Melee Combo Counter when Blade Storm is used.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rising_Storm",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Восходящая буря",
+        "description": "<p>Восходящая Буря — мод-аугмент для варфрейма Эш и Эш Прайм, улучшающий его способность Буря Клинков. Увеличивает длительность Комбо-множителя при использовании Бури клинков. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D1%81%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D1%83%D1%80%D1%8F",
+        "icon": "icons/ru/Rising_Storm.e5f51174138f461fcc22ea9963516b2e.png",
+        "thumb": "icons/ru/thumbs/Rising_Storm.e5f51174138f461fcc22ea9963516b2e.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

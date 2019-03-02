@@ -1,0 +1,40 @@
+{
+    "_id": "5783909ed9b6753790c89e83",
+    "tags": [
+        "mod",
+        "archwing",
+        "rare"
+    ],
+    "icon": "icons/en/Comet_Blast.887ff3540f0524b94f2066e6ed3ac7a9.png",
+    "thumb": "icons/en/thumbs/Comet_Blast.887ff3540f0524b94f2066e6ed3ac7a9.128x128.png",
+    "icon_format": "port",
+    "url_name": "comet_blast",
+    "tradable": true,
+    "en": {
+        "item_name": "Comet Blast",
+        "description": "<p>The Comet Blast mods adds/Increases Impact b Impact damage of an Arch-gun by 15% per rank for maximum of 90% at max Rank.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Comet_Blast",
+        "drop": [
+            {
+                "name": "Archwing Mobile Defense RewardArchwing Sabotage Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кометный взрыв",
+        "description": "<p>Кометный Взрыв — редкий мод для основного оружия арчвинг, увеличивающий  ударный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BC%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
+        "icon": "icons/ru/Comet_Blast.470c9595f7f51f6d88c21dd3e7641dec.png",
+        "thumb": "icons/ru/thumbs/Comet_Blast.470c9595f7f51f6d88c21dd3e7641dec.128x128.png",
+        "drop": [
+            {
+                "name": "Archwing Mobile Defense RewardArchwing Sabotage Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "5615432cb66f8371035bfa33",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Cataclysmic_Continuum.97b3de0d31396da2b920bef226ea8791.png",
+    "thumb": "icons/en/thumbs/Cataclysmic_Continuum.97b3de0d31396da2b920bef226ea8791.128x128.png",
+    "icon_format": "port",
+    "url_name": "cataclysmic_continuum",
+    "tradable": true,
+    "en": {
+        "item_name": "Cataclysmic Continuum",
+        "description": "<p>Cataclysmic Continuum is a Warframe Augment Mod for Limbo that extends Cataclysm's duration for every enemy killed inside it. This mod does not increase the duration beyond the maximum duration of Cataclysm, and the added seconds do not increase the Cataclysm's size.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cataclysmic_Continuum",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Континуум катаклизмов",
+        "description": "<p>Катаклизм — мод-аугмент для варфрейма Лимбо, улучшающий его способность Катаклизм. Каждый убитый враг в радиусе Катаклизма будет увеличивать длительность умения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D1%83%D1%83%D0%BC_%D0%BA%D0%B0%D1%82%D0%B0%D0%BA%D0%BB%D0%B8%D0%B7%D0%BC%D0%BE%D0%B2",
+        "icon": "icons/ru/Cataclysmic_Continuum.fc66c0da903fd57e32417c4eba09a6f0.png",
+        "thumb": "icons/ru/thumbs/Cataclysmic_Continuum.fc66c0da903fd57e32417c4eba09a6f0.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

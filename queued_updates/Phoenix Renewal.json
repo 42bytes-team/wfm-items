@@ -1,0 +1,48 @@
+{
+    "_id": "5754a312e701ef5844257da9",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Phoenix_Renewal.92f0ed82f9b6df3be53be221db2e15e6.png",
+    "thumb": "icons/en/thumbs/Phoenix_Renewal.92f0ed82f9b6df3be53be221db2e15e6.128x128.png",
+    "icon_format": "port",
+    "url_name": "phoenix_renewal",
+    "tradable": true,
+    "en": {
+        "item_name": "Phoenix Renewal",
+        "description": "<p>Phoenix Renewal is an Warframe Augment Mod for Oberon's Renewal. If a player takes fatal damage while under the effects of Renewal, they are instead healed a percentage of health. However, the augment's effects will only occur once per ally, and has a 90-second cooldown before another player can be affected.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Phoenix_Renewal",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Возрождение феникса",
+        "description": "<p>Данный мод стоит 25 000 и приобретается у синдикатов Новая Лока и Стальной Меридиан после получения 5 ранга в данном синдикате. Также его можно получить через Торговый пост в Додзё или Базар Мэру на планете Земля.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B7%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%D0%B0",
+        "icon": "icons/ru/Phoenix_Renewal.ef770f15523e83f0c44fd92e97cc991f.png",
+        "thumb": "icons/ru/thumbs/Phoenix_Renewal.ef770f15523e83f0c44fd92e97cc991f.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

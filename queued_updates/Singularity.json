@@ -1,0 +1,40 @@
+{
+    "_id": "554d3f0ce779894445a848f3",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Singularity.35761be20b6fae2d9a65cd2b57ebe67f.png",
+    "thumb": "icons/en/thumbs/Singularity.35761be20b6fae2d9a65cd2b57ebe67f.128x128.png",
+    "icon_format": "port",
+    "url_name": "singularity",
+    "tradable": true,
+    "en": {
+        "item_name": "Singularity",
+        "description": "<p>Singularity is a Warframe Augment Mod for Nyx's Absorb in PvP that creates a ring every three seconds to drag in enemies close enough to Singularity's radius.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Singularity",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сингулярность",
+        "description": "<p>Сингулярность — мод-аугмент для варфрейма Никс и Никс прайм в режиме конклава, улучшающий её способность поглощение.  Способность создаёт кольцо, которое притягивает противников в определённом радиусе. Откат эффекта составляет три секунды.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B8%D0%BD%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Singularity.c4b05580c6a1f351d9d754ff5208e1a5.png",
+        "thumb": "icons/ru/thumbs/Singularity.c4b05580c6a1f351d9d754ff5208e1a5.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

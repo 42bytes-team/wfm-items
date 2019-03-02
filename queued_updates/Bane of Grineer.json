@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51559f",
+    "tags": [
+        "mod",
+        "rifle",
+        "uncommon"
+    ],
+    "icon": "icons/en/Bane_of_Grineer.cb97a4f4096f1dac411cad6e57439734.png",
+    "thumb": "icons/en/thumbs/Bane_of_Grineer.cb97a4f4096f1dac411cad6e57439734.128x128.png",
+    "icon_format": "port",
+    "url_name": "bane_of_grineer",
+    "tradable": true,
+    "en": {
+        "item_name": "Bane of Grineer",
+        "description": "<p>Bane of Grineer increases the damage of rifles against Grineer. The mod increases both the base damage and elemental damage of a weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bane_of_Grineer",
+        "drop": [
+            {
+                "name": "GrineerScorch",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Погибель гринир",
+        "description": "<p>Погибель Гринир — необычный мод для основного оружия, увеличивающий урон по бойцам  Гринир.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C_%D0%B3%D1%80%D0%B8%D0%BD%D0%B8%D1%80",
+        "icon": "icons/ru/Bane_of_Grineer.223a5e0c8f51d6f7f77ab61422f11a51.png",
+        "thumb": "icons/ru/thumbs/Bane_of_Grineer.223a5e0c8f51d6f7f77ab61422f11a51.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerScorch",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4d4",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Enguard.f305bfb16f8724f14eff760ea1af7eab.png",
+    "thumb": "icons/en/thumbs/Enguard.f305bfb16f8724f14eff760ea1af7eab.128x128.png",
+    "icon_format": "port",
+    "url_name": "enguard",
+    "tradable": true,
+    "en": {
+        "item_name": "Enguard",
+        "description": "<p>Enguard was a PvP exclusive utility mod that prevents the player from becoming knocked down after a previous knock down has been inflicted.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Enguard",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Оборона (мод)",
+        "description": "<p>Оборона - мод для Варфреймов в режиме конклава, который даёт иммунитет к сбиванию с ног на 2 секунды, после того, как вас опрокинули. На максимальном ранге мода длительность иммунитета составляет 8 секунд.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_(%D0%BC%D0%BE%D0%B4)",
+        "icon": "icons/ru/Enguard.cd2412034758e8f59d5c802d6916e689.png",
+        "thumb": "icons/ru/thumbs/Enguard.cd2412034758e8f59d5c802d6916e689.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

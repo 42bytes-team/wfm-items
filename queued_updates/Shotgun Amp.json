@@ -1,0 +1,40 @@
+{
+    "_id": "57c05949d0d9ef638234e4ac",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Shotgun_Amp.b5e296afc4e2c578a30f26353cd1d622.png",
+    "thumb": "icons/en/thumbs/Shotgun_Amp.b5e296afc4e2c578a30f26353cd1d622.128x128.png",
+    "icon_format": "port",
+    "url_name": "shotgun_amp",
+    "tradable": true,
+    "en": {
+        "item_name": "Shotgun Amp",
+        "description": "<p>Shotgun Amp is an aura that increases the damage dealt with shotguns by 3% per rank, up to 18% at full rank.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shotgun_Amp",
+        "drop": [
+            {
+                "name": "Feyarch Specter",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Усилитель: дробовик",
+        "description": "<p>Усилитель: дробовик — необычная аура, увеличивающая урон дробовиков для всех членов команды.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%B4%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B8%D0%BA",
+        "icon": "icons/ru/Shotgun_Amp.887daa86ba032c1e99e93c2aefc2374d.png",
+        "thumb": "icons/ru/thumbs/Shotgun_Amp.887daa86ba032c1e99e93c2aefc2374d.128x128.png",
+        "drop": [
+            {
+                "name": "Feyarch Specter",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

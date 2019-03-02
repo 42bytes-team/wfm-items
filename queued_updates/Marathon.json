@@ -1,0 +1,40 @@
+{
+    "_id": "5615432bb66f8371035bfa28",
+    "tags": [
+        "mod",
+        "warframe",
+        "common"
+    ],
+    "icon": "icons/en/Marathon.1106e7f526e39a26f92a3dd59c8ce63a.png",
+    "thumb": "icons/en/thumbs/Marathon.1106e7f526e39a26f92a3dd59c8ce63a.128x128.png",
+    "icon_format": "port",
+    "url_name": "marathon",
+    "tradable": false,
+    "en": {
+        "item_name": "Marathon",
+        "description": "<p>Marathon increases the maximum Stamina of a Warframe. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Marathon",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Марафон",
+        "description": "<p>Марафон — обычный мод, который увеличивает максимальное количество выносливости.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD",
+        "icon": "icons/ru/Marathon.c7b0d24932dce54526af8b5fc9037926.png",
+        "thumb": "icons/ru/thumbs/Marathon.c7b0d24932dce54526af8b5fc9037926.128x128.png",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

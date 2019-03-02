@@ -1,0 +1,40 @@
+{
+    "_id": "56dac5905cc639de0a45c522",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Ward_Recovery.a69c640cd181a2e08bd24ce05d4cfdc3.png",
+    "thumb": "icons/en/thumbs/Ward_Recovery.a69c640cd181a2e08bd24ce05d4cfdc3.128x128.png",
+    "icon_format": "port",
+    "url_name": "ward_recovery",
+    "tradable": true,
+    "en": {
+        "item_name": "Ward Recovery",
+        "description": "<p>Ward Recovery is a Warframe Augment Mod for Nezha's Warding Halo in PvP that recovers some of the energy used to cast it, based on how much protection is left. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ward_Recovery",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Оберегающее восстановление",
+        "description": "<p>Оберегающее восстановление — мод-аугмент для варфрейма Нэчжа в режиме конклава, улучшающий его способность оберегающее гало. После применения способности, каждое применение способности будет стоить меньше на определённый процент, в зависимости от оставшейся защиты.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Ward_Recovery.0c48b63ccf3a1aa3bbafbef084f7da77.png",
+        "thumb": "icons/ru/thumbs/Ward_Recovery.0c48b63ccf3a1aa3bbafbef084f7da77.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

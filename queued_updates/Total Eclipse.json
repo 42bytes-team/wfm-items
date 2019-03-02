@@ -1,0 +1,48 @@
+{
+    "_id": "54e0c9eee7798903744178ac",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Total_Eclipse.3531ed460655dfbd2caa75d87a73af3c.png",
+    "thumb": "icons/en/thumbs/Total_Eclipse.3531ed460655dfbd2caa75d87a73af3c.128x128.png",
+    "icon_format": "port",
+    "url_name": "total_eclipse",
+    "tradable": true,
+    "en": {
+        "item_name": "Total Eclipse",
+        "description": "<p>Total Eclipse is a Mirage Warframe Augment Mod for Eclipse that allows it to grant its bonuses to nearby allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Total_Eclipse",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Полное затмение",
+        "description": "<p>Полное Затмение — мод-аугмент для варфрейма Мираж, улучшающий ее способность Затмение. Союзники в определенном радиусе получают эффект способности.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Total_Eclipse.e7203e48b4f0caa6f2f40c92ae149acb.png",
+        "thumb": "icons/ru/thumbs/Total_Eclipse.e7203e48b4f0caa6f2f40c92ae149acb.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

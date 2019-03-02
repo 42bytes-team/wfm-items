@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4fb",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Surplus_Diverters.09029ac49b2910d44f759dd05afc889e.png",
+    "thumb": "icons/en/thumbs/Surplus_Diverters.09029ac49b2910d44f759dd05afc889e.128x128.png",
+    "icon_format": "port",
+    "url_name": "surplus_diverters",
+    "tradable": true,
+    "en": {
+        "item_name": "Surplus Diverters",
+        "description": "<p>Surplus Diverters is a mod in PvP that grants energy upon replenishing shields completely without interruption after they have been deactivated. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Отвод излишков",
+        "description": "<p>Отвод излишков — редкий мод для вафреймов в режиме конклава, который  восстанавливает энергию при полном восстановлении щитов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%82%D0%B2%D0%BE%D0%B4_%D0%B8%D0%B7%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%B2",
+        "icon": "icons/ru/Surplus_Diverters.03c7791e722ea417d1c34298f07f2bba.png",
+        "thumb": "icons/ru/thumbs/Surplus_Diverters.03c7791e722ea417d1c34298f07f2bba.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

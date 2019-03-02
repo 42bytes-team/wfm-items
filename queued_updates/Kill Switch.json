@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a516",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Kill_Switch.96ca67221bbb27cb0da2566ac276b735.png",
+    "thumb": "icons/en/thumbs/Kill_Switch.96ca67221bbb27cb0da2566ac276b735.128x128.png",
+    "icon_format": "port",
+    "url_name": "kill_switch",
+    "tradable": true,
+    "en": {
+        "item_name": "Kill Switch",
+        "description": "<p>Kill Switch is PvP-exclusive Shotgun mod which increases Reload Speed on Kills.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Kill_Switch",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Выключатель",
+        "description": "<p>Выключатель — редкий мод для дробовиков в режиме конклава, который увеличивает скорость перезарядки при убийстве противника на определенный промежуток времени. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Kill_Switch.8b1b03c3d37b5ca1fd53cb5d68ca03b9.png",
+        "thumb": "icons/ru/thumbs/Kill_Switch.8b1b03c3d37b5ca1fd53cb5d68ca03b9.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

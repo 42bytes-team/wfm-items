@@ -1,0 +1,64 @@
+{
+    "_id": "54a74455e779892d5e5156a1",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Ravage.2d2e570ce05bd26a256cb9ba253f7ce8.png",
+    "thumb": "icons/en/thumbs/Ravage.2d2e570ce05bd26a256cb9ba253f7ce8.128x128.png",
+    "icon_format": "port",
+    "url_name": "ravage",
+    "tradable": true,
+    "en": {
+        "item_name": "Ravage",
+        "description": "<p>The Ravage mod increases the critical damage of a shotgun by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ravage",
+        "drop": [
+            {
+                "name": "CorpusNullifier Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusSniper Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Dark Sector Rewards Rotation B",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Опустошение",
+        "description": "<p>Опустошение — редкий мод для дробовиков, который увеличивает множитель критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BF%D1%83%D1%81%D1%82%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Ravage.31fa4675ccf772b1ea7ac01302c4dbd2.png",
+        "thumb": "icons/ru/thumbs/Ravage.31fa4675ccf772b1ea7ac01302c4dbd2.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusNullifier Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusSniper Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Dark Sector Rewards Rotation B",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

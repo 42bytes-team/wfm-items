@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515617",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Fireball_Frenzy.536fb1f6223d7bb25f6fb0df988a2496.png",
+    "thumb": "icons/en/thumbs/Fireball_Frenzy.536fb1f6223d7bb25f6fb0df988a2496.128x128.png",
+    "icon_format": "port",
+    "url_name": "fireball_frenzy",
+    "tradable": true,
+    "en": {
+        "item_name": "Fireball Frenzy",
+        "description": "<p>Fireball Frenzy is a Warframe Augment Mod for Ember that allows Fireball to be cast on allies, temporarily granting them additional  Heat damage to all attacks, including Warframe powers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fireball_Frenzy",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Огненная ярость",
+        "description": "<p>Огненная Ярость — мод-аугмент для варфрейма Эмбер и Эмбер Прайм, улучшающий её способность Огненный Шар. Применение на союзнике даст ему возможность наносить дополнительный 50%  огненный урон в течение определенного промежутка времени</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8F%D1%80%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Fireball_Frenzy.4facba7e42b4841a3f347288efd873dd.png",
+        "thumb": "icons/ru/thumbs/Fireball_Frenzy.4facba7e42b4841a3f347288efd873dd.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

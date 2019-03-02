@@ -1,0 +1,50 @@
+{
+    "_id": "573b80230ec44a47787a6912",
+    "tags": [
+        "parts",
+        "melee",
+        "handle",
+        "prime"
+    ],
+    "icon": "icons/en/Fragor_Prime_Set.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+    "thumb": "icons/en/thumbs/Fragor_Prime_Set.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/handle_128x128.png",
+    "url_name": "fragor_prime_handle",
+    "tradable": true,
+    "part_of_set": [
+        "573b802f0ec44a47787a6914",
+        "573b801c0ec44a47787a6911",
+        "573b80230ec44a47787a6912",
+        "573b80280ec44a47787a6913"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Fragor Prime Handle",
+        "description": "<p>Fragor Prime is the Prime variant of the Fragor.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "Lith V1 Rare",
+                "link": null
+            }
+        ],
+        "codex": "A beautifully forged instrument of devastation."
+    },
+    "ru": {
+        "item_name": "Фрагор прайм Рукоять",
+        "description": "<p>Изумительно выкованный инструмент разрушения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D1%80%D0%B0%D0%B3%D0%BE%D1%80_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Lith V1 Rare",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 7,
+    "ducats": 65,
+    "trading_tax": 2000
+}

@@ -1,0 +1,30 @@
+{
+    "_id": "54a74455e779892d5e5156c8",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Vacuum.451be5b17b63faa76cab6fafac26dadd.png",
+    "thumb": "icons/en/thumbs/Vacuum.451be5b17b63faa76cab6fafac26dadd.128x128.png",
+    "icon_format": "port",
+    "url_name": "vacuum",
+    "tradable": true,
+    "en": {
+        "item_name": "Vacuum",
+        "description": "<p>Vacuum allows a Sentinel to detect and collect Pickups, Ammo, and Mods within the area. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vacuum",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Вакуум",
+        "description": "<p>Вакуум — мод-заповедь для стражей, который позволяет обнаруживать и собирать предметы, включая моды, в определенном радиусе от своего хозяина. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC",
+        "icon": "icons/ru/Vacuum.650c2c775b04d81b20be4a94ef6c3e97.png",
+        "thumb": "icons/ru/thumbs/Vacuum.650c2c775b04d81b20be4a94ef6c3e97.128x128.png",
+        "drop": []
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

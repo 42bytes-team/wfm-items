@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156b0",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Natural_Talent.d93810daccabd89634d5f429fb3120d1.png",
+    "thumb": "icons/en/thumbs/Natural_Talent.d93810daccabd89634d5f429fb3120d1.128x128.png",
+    "icon_format": "port",
+    "url_name": "natural_talent",
+    "tradable": true,
+    "en": {
+        "item_name": "Natural Talent",
+        "description": "<p>Natural Talent improves casting speed of most Warframe abilities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Natural_Talent",
+        "drop": [
+            {
+                "name": "Interception",
+                "link": null
+            },
+            {
+                "name": "The Grustrag Three",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Врождённый талант",
+        "description": "<p>Врождённый Талант — редкий мод для варфреймов, который увеличивает скорость применения способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%80%D0%BE%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%B0%D0%BB%D0%B0%D0%BD%D1%82",
+        "icon": "icons/ru/Natural_Talent.8b725db82b979eea7f0079500f8d14be.png",
+        "thumb": "icons/ru/thumbs/Natural_Talent.8b725db82b979eea7f0079500f8d14be.128x128.png",
+        "drop": [
+            {
+                "name": "Interception",
+                "link": null
+            },
+            {
+                "name": "The Grustrag Three",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

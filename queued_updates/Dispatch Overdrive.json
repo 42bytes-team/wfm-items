@@ -1,0 +1,40 @@
+{
+    "_id": "58446f672c2ada00485f0fce",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Dispatch_Overdrive.519d416df82b98a0bd26a03463fa0a89.png",
+    "thumb": "icons/en/thumbs/Dispatch_Overdrive.519d416df82b98a0bd26a03463fa0a89.128x128.png",
+    "icon_format": "port",
+    "url_name": "dispatch_overdrive",
+    "tradable": true,
+    "en": {
+        "item_name": "Dispatch Overdrive",
+        "description": "<p>Dispatch Overdrive grants a movement speed buff on a Melee Channel kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Dispatch_Overdrive",
+        "drop": [
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сконцентрированный Разгон",
+        "description": "<p>При Убийстве с Концентрацией: +60% Скорости передвижения на 15 секунд.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Сконцентрированный_Разгон",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

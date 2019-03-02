@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156d0",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Tainted_Shell.ead13d95b9f2da054c3bf69f799d4028.png",
+    "thumb": "icons/en/thumbs/Tainted_Shell.ead13d95b9f2da054c3bf69f799d4028.128x128.png",
+    "icon_format": "port",
+    "url_name": "tainted_shell",
+    "tradable": true,
+    "en": {
+        "item_name": "Tainted Shell",
+        "description": "<p>The Tainted Shell mod reduces the spread of Shotgun fire by -7% per rank while also decreasing the fire rate by -5% per rank for a maximum of reduced spread by -77% and reduced fire rate by -55% at rank 10.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tainted_Shell",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Осквернённый снаряд",
+        "description": "<p>Осквернённый Снаряд — повреждённый мод для дробовиков, который увеличивает точность, взамен уменьшая скорострельность оружия. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%81%D0%BA%D0%B2%D0%B5%D1%80%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4",
+        "icon": "icons/ru/Tainted_Shell.57f5d4dc8e973f6ab5a233517e40b565.png",
+        "thumb": "icons/ru/thumbs/Tainted_Shell.57f5d4dc8e973f6ab5a233517e40b565.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

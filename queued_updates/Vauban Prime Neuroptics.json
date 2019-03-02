@@ -1,0 +1,58 @@
+{
+    "_id": "573b7fc80ec44a47787a690f",
+    "tags": [
+        "blueprint",
+        "neuroptics",
+        "prime",
+        "warframe"
+    ],
+    "icon": "icons/en/Vauban_Prime_Set.9c15bb47d3ed4ed8e960c2502fac82f2.png",
+    "thumb": "icons/en/thumbs/Vauban_Prime_Set.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/neuroptics_128x128.png",
+    "url_name": "vauban_prime_neuroptics",
+    "tradable": true,
+    "part_of_set": [
+        "573b7fcc0ec44a47787a6910",
+        "573b7fbd0ec44a47787a690d",
+        "573b7fc20ec44a47787a690e",
+        "573b7fc80ec44a47787a690f",
+        "573d0efa336297b2dfca2909"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Vauban Prime Neuroptics",
+        "description": "<p>Release Date: May 17th, 2016</p><p>Vauban Prime is the Prime variant of the Vauban Warframe featuring higher shields and armor values, as well as an additional  polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vauban/Prime",
+        "drop": [
+            {
+                "name": "Meso N2 Rare",
+                "link": null
+            },
+            {
+                "name": "Neo V3 Rare",
+                "link": null
+            }
+        ],
+        "codex": "Transform the battlefield into a weapon with this gilded tactician. Features unique mod polarities for extended customization"
+    },
+    "ru": {
+        "item_name": "Вобан Нейроптика",
+        "description": "<p>Мастер тактики Вобан может создавать ловушки, которые наносят урон электричеством, обездвиживают и пространственно сминают врагов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B1%D0%B0%D0%BD",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Meso N2 Rare",
+                "link": null
+            },
+            {
+                "name": "Neo V3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 100,
+    "trading_tax": 4000
+}

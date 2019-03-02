@@ -1,0 +1,39 @@
+{
+    "_id": "5800c901c021d9dc0a9f891d",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Rending_Wind.a5712d17ddc13c130600bd4aace80eb5.png",
+    "thumb": "icons/en/thumbs/Rending_Wind.a5712d17ddc13c130600bd4aace80eb5.128x128.png",
+    "icon_format": "port",
+    "url_name": "rending_wind",
+    "tradable": true,
+    "en": {
+        "item_name": "Rending Wind",
+        "description": "<p>Rending Wind is a PvP exclusive Stance mod for Machetes.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rending_Wind",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Разрывающий ветер (конклав)",
+        "description": "<p>Разрывающий Ветер — необычная стойка в режиме конклава, предназначенная для оружия ближнего боя класса мачете.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80_(%D0%BA%D0%BE%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2)",
+        "icon": "icons/ru/Rending_Wind.cb912de83e69c057385d4d5146d72d04.png",
+        "thumb": "icons/ru/thumbs/Rending_Wind.cb912de83e69c057385d4d5146d72d04.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "trading_tax": 4000
+}

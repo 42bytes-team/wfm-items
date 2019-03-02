@@ -1,0 +1,56 @@
+{
+    "_id": "554d3f0ce779894445a848f1",
+    "tags": [
+        "mod",
+        "melee",
+        "common"
+    ],
+    "icon": "icons/en/Enduring_Strike.2493ecc2118827876ba362d616ee5cfb.png",
+    "thumb": "icons/en/thumbs/Enduring_Strike.2493ecc2118827876ba362d616ee5cfb.128x128.png",
+    "icon_format": "port",
+    "url_name": "enduring_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Enduring Strike",
+        "description": "<p>Enduring Strike increases the status chance of melee weapons while Channeling at the cost of reduced channeling efficiency.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Enduring_Strike",
+        "drop": [
+            {
+                "name": "Dark Sectors Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Выносливый удар",
+        "description": "<p>Выносливый Удар — мод концентрации для оружия ближнего боя, который увеличивает шанс срабатывания статуса, взамен уменьшая эффективность концентрации. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D0%BD%D0%BE%D1%81%D0%BB%D0%B8%D0%B2%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Enduring_Strike.2861a466dcb79a2a61278ee8d3f59ed9.png",
+        "thumb": "icons/ru/thumbs/Enduring_Strike.2861a466dcb79a2a61278ee8d3f59ed9.128x128.png",
+        "drop": [
+            {
+                "name": "Dark Sectors Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

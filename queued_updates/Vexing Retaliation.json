@@ -1,0 +1,48 @@
+{
+    "_id": "554d3b75e77989423ccdf0da",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Vexing_Retaliation.d5be3839fc5eb654044a32d238c4b176.png",
+    "thumb": "icons/en/thumbs/Vexing_Retaliation.d5be3839fc5eb654044a32d238c4b176.128x128.png",
+    "icon_format": "port",
+    "url_name": "vexing_retaliation",
+    "tradable": true,
+    "en": {
+        "item_name": "Vexing Retaliation",
+        "description": "<p>Vexing Retaliation is a PvE Warframe Augment for Chroma that makes Vex Armor detonate an area-of-effect attack upon receiving 150 incoming damage, dealing procs on enemies. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vexing_Retaliation",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Дразнящее возмездие",
+        "description": "<p>Дразнящее Возмездие — мод-аугмент для варфрейма Хрома, улучшающий его способность Дразнящая Броня. Получение урона спровоцирует взрыв в определенном радиусе. Взрыв от урона по щитам будет наносить  пронзающий урон, а от урона по здоровью -  взрывной. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D1%80%D0%B0%D0%B7%D0%BD%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2%D0%BE%D0%B7%D0%BC%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5",
+        "icon": "icons/ru/Vexing_Retaliation.e51ff858e237a58525e6f3ff834e13ca.png",
+        "thumb": "icons/ru/thumbs/Vexing_Retaliation.e51ff858e237a58525e6f3ff834e13ca.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

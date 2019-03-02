@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156d6",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Sure_Footed.fc77413849eba2d536fe1e92526ec2d4.png",
+    "thumb": "icons/en/thumbs/Sure_Footed.fc77413849eba2d536fe1e92526ec2d4.128x128.png",
+    "icon_format": "port",
+    "url_name": "sure_footed",
+    "tradable": true,
+    "en": {
+        "item_name": "Sure Footed",
+        "description": "<p>Sure Footed increases a Warframe's chance to resist knockdown.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sure_Footed",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "Conclave Battle Rewards",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Уверенная стойка",
+        "description": "<p>Уверенная стойка — эксилус мод для варфеймов, который с некоторым шансом позволяет не быть сбитым с ног. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0",
+        "icon": "icons/ru/Sure_Footed.cc02dc6cac81d62db3139afe31dbbdd7.png",
+        "thumb": "icons/ru/thumbs/Sure_Footed.cc02dc6cac81d62db3139afe31dbbdd7.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "Conclave Battle Rewards",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

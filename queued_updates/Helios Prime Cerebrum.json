@@ -1,0 +1,64 @@
+{
+    "_id": "58b57068eb26db5c31192115",
+    "tags": [
+        "set",
+        "sentinel"
+    ],
+    "icon": "icons/en/Helios_Prime_Set.625b7c74ea5dd61b1840f8094df7648a.png",
+    "thumb": "icons/en/thumbs/Helios_Prime_Set.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/cerebrum_128x128.png",
+    "url_name": "helios_prime_cerebrum",
+    "tradable": true,
+    "part_of_set": [
+        "58b57068eb26db5c31192114",
+        "58b57068eb26db5c31192118",
+        "58b57068eb26db5c31192116",
+        "58b57068eb26db5c31192115",
+        "58b57068eb26db5c31192117"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Helios Prime Cerebrum",
+        "description": "<p>Helios Prime is the Orokin-enhanced version of the Helios Sentinel and is equipped with Deconstructor Prime.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Helios_Prime",
+        "drop": [
+            {
+                "name": "Lith H1 Rare",
+                "link": null
+            },
+            {
+                "name": "Axi H1 Rare",
+                "link": null
+            },
+            {
+                "name": "Axi H2 Rare",
+                "link": null
+            }
+        ],
+        "codex": "This knowledge hungry protector defends its master with Deconstructor Prime."
+    },
+    "ru": {
+        "item_name": "Гелиос Прайм Мозг",
+        "description": "<p>Гелиос Прайм является Прайм версией обычного Гелиоса. Он отличается большим количеством здоровья и брони, а также дополнительной Вазарин полярностью.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%BE%D1%81/%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Lith H1 Rare",
+                "link": null
+            },
+            {
+                "name": "Axi H1 Rare",
+                "link": null
+            },
+            {
+                "name": "Axi H2 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 100,
+    "trading_tax": 4000
+}

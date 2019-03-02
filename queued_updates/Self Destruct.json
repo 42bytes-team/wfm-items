@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156bb",
+    "tags": [
+        "mod",
+        "sentinel",
+        "rare"
+    ],
+    "icon": "icons/en/Self_Destruct.bf15bae15156d3194870d9d09d6d211d.png",
+    "thumb": "icons/en/thumbs/Self_Destruct.bf15bae15156d3194870d9d09d6d211d.128x128.png",
+    "icon_format": "port",
+    "url_name": "self_destruct",
+    "tradable": true,
+    "en": {
+        "item_name": "Self Destruct",
+        "description": "<p>Self Destruct allows Sentinels to explode upon death, dealing Explosion Damage in a moderate AoE.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Self_Destruct",
+        "drop": [
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "Referral Program",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Самоуничтожение",
+        "description": "<p>Самоуничтожение — редкий мод для стражей, наносит  взрывной урон при уничтожения компаньона в определённом радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Self_Destruct.b56ddae1754b5ec150b73bea7eb86e94.png",
+        "thumb": "icons/ru/thumbs/Self_Destruct.b56ddae1754b5ec150b73bea7eb86e94.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "Referral Program",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

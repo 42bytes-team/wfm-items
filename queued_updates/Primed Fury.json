@@ -1,0 +1,41 @@
+{
+    "_id": "5766fbe54feac79c2255858e",
+    "tags": [
+        "mod",
+        "melee",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Fury.3993e45930afeab306bf08732cb22a53.png",
+    "thumb": "icons/en/thumbs/Primed_Fury.3993e45930afeab306bf08732cb22a53.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_fury",
+    "tradable": false,
+    "en": {
+        "item_name": "Primed Fury",
+        "description": "<p>Primed Fury is the Primed version of Fury, which increases the attack speed of a melee weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Fury",
+        "drop": [
+            {
+                "name": "Daily Tribute",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ярость прайм",
+        "description": "<p>Ярость прайм — легендарный мод, который увеличивает скорость атаки оружия ближнего боя. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Fury.0fe19f88e661180b5813dbcde89bffd5.png",
+        "thumb": "icons/ru/thumbs/Primed_Fury.0fe19f88e661180b5813dbcde89bffd5.128x128.png",
+        "drop": [
+            {
+                "name": "Daily Tribute",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

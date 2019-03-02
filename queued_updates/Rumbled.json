@@ -1,0 +1,39 @@
+{
+    "_id": "56dac5705cc639de0a45c51c",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Rumbled.31408430f6752afe44073e836b2e48d9.png",
+    "thumb": "icons/en/thumbs/Rumbled.31408430f6752afe44073e836b2e48d9.128x128.png",
+    "icon_format": "port",
+    "url_name": "rumbled",
+    "tradable": true,
+    "en": {
+        "item_name": "Rumbled",
+        "description": "<p>Rumbled is a Warframe Augment Mod for Atlas's Rumblers in PvP that transforms Atlas into a Rumbler and grants additional armor that absorbs damage. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rumbled",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Бронирован",
+        "description": "<p>Бронирован — мод-аугмент для варфрейма Атлас в режиме конклава, улучшающий его способность рокотуны. Атлас превращается в рокотуна, который способен поглотить определённое количество урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD",
+        "icon": "icons/ru/Rumbled.7982227201b99a55fee21090f129cb47.png",
+        "thumb": "icons/ru/thumbs/Rumbled.7982227201b99a55fee21090f129cb47.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

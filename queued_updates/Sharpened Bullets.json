@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b2801133f656cb085d8c",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Sharpened_Bullets.e2574bfc3a35927af69218dd4f48a6f6.png",
+    "thumb": "icons/en/thumbs/Sharpened_Bullets.e2574bfc3a35927af69218dd4f48a6f6.128x128.png",
+    "icon_format": "port",
+    "url_name": "sharpened_bullets",
+    "tradable": true,
+    "en": {
+        "item_name": "Sharpened Bullets",
+        "description": "<p>Sharpened Bullets is an uncommon Pistol mod that increases Critical damage while aiming for a brief time upon a kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sharpened_Bullets",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Violence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Заострённые Пули",
+        "description": "<p>Заострённые Пули — условный мод для вторичного оружия, который увеличивает множитель критического урона в прицеливании при убийстве.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BE%D1%81%D1%82%D1%80%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%9F%D1%83%D0%BB%D0%B8",
+        "icon": "icons/ru/Sharpened_Bullets.5b1e10bdabdd0172d5d0854e0a6cc5d1.png",
+        "thumb": "icons/ru/thumbs/Sharpened_Bullets.5b1e10bdabdd0172d5d0854e0a6cc5d1.128x128.png",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Violence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

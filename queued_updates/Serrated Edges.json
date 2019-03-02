@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4f1",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Serrated_Edges.7734d4b5eca3d49886694329157f1d74.png",
+    "thumb": "icons/en/thumbs/Serrated_Edges.7734d4b5eca3d49886694329157f1d74.128x128.png",
+    "icon_format": "port",
+    "url_name": "serrated_edges",
+    "tradable": true,
+    "en": {
+        "item_name": "Serrated Edges",
+        "description": "<p>Serrated Edges is a PvP exclusive Melee Mod that converts an amount of physical damage to Puncture damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Serrated_Edges",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зубчатая кромка",
+        "description": "<p>Зубчатая Кромка — необычный мод для оружия ближнего боя в режиме конклава, который преобразует % базового урона в  пронзающий. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D1%83%D0%B1%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%BA%D1%80%D0%BE%D0%BC%D0%BA%D0%B0",
+        "icon": "icons/ru/Serrated_Edges.ec3c218e19267538c3a262f8da5b7282.png",
+        "thumb": "icons/ru/thumbs/Serrated_Edges.ec3c218e19267538c3a262f8da5b7282.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

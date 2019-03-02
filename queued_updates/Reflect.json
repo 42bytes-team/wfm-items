@@ -1,0 +1,40 @@
+{
+    "_id": "5788fadc4fff472f131a1362",
+    "tags": [
+        "mod",
+        "kavat",
+        "rare"
+    ],
+    "icon": "icons/en/Reflect.425845045b282ef7487fc8f5566cc6d5.png",
+    "thumb": "icons/en/thumbs/Reflect.425845045b282ef7487fc8f5566cc6d5.128x128.png",
+    "icon_format": "port",
+    "url_name": "reflect",
+    "tradable": true,
+    "en": {
+        "item_name": "Reflect",
+        "description": "<p>Adarza Kavat will occasionally reflect and amplify damage back to an enemy. It seems to only happen when the kavat takes damage, and not when the player does.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reflect",
+        "drop": [
+            {
+                "name": "Hyekka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Отражение (способность)",
+        "description": "<p>Отражение — мод-заповедь для кавата Адарза, позволяющий ему отразить и усилить урон, наносимый противнику</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C)",
+        "icon": "icons/ru/Reflect.425845045b282ef7487fc8f5566cc6d5.png",
+        "thumb": "icons/ru/thumbs/Reflect.425845045b282ef7487fc8f5566cc6d5.128x128.png",
+        "drop": [
+            {
+                "name": "Hyekka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,50 @@
+{
+    "_id": "54a73e65e779893a797fff61",
+    "tags": [
+        "parts",
+        "prime",
+        "barrel"
+    ],
+    "icon": "icons/en/Soma_Prime_Set.1bf4937a6c2106c373cffeb93b1c87e0.png",
+    "thumb": "icons/en/thumbs/Soma_Prime_Set.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "soma_prime_barrel",
+    "tradable": true,
+    "part_of_set": [
+        "56783f24cbfa8f0432dd89ae",
+        "54a73e65e779893a797fff61",
+        "54a73e65e779893a797fff62",
+        "54a73e65e779893a797fff63",
+        "54a73e65e779893a797fff64"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Soma Prime Barrel",
+        "description": "<p>The Soma Prime is the primed version of the Soma assault rifle. It primarily features a greater magazine size, greater ammo reserves, and a slight increase to physical damage and status chance.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Neo S3 Common",
+                "link": null
+            }
+        ],
+        "codex": "Known for taking down whole squads with its single massive clip, few weapons were as feared as the Prime Soma."
+    },
+    "ru": {
+        "item_name": "Сома прайм Ствол",
+        "description": "<p>Известная своей способностью уложить целый отряд за один магазин, Сома Прайм имела немного столь же устрашающих аналогов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%BC%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Neo S3 Common",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 7,
+    "ducats": 15,
+    "trading_tax": 2000
+}

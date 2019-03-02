@@ -1,0 +1,42 @@
+{
+    "_id": "54c6869ae7798913ca68c3dd",
+    "tags": [
+        "void trader",
+        "rifle",
+        "mod",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Fast_Hands.6bd825412c58f77828bfaaa9936a7e92.png",
+    "thumb": "icons/en/thumbs/Primed_Fast_Hands.6bd825412c58f77828bfaaa9936a7e92.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_fast_hands",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Fast Hands",
+        "description": "<p>Primed Fast Hands is the Primed version of the Fast Hands mod, which increases the reload speed of rifles. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Fast_Hands",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Быстрые руки прайм",
+        "description": "<p>Быстрые руки прайм — легендарный мод для основного оружия, который увеличивает скорость перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B5_%D1%80%D1%83%D0%BA%D0%B8_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Fast_Hands.723c21a2cb0192fa2cb413b933ec2725.png",
+        "thumb": "icons/ru/thumbs/Primed_Fast_Hands.723c21a2cb0192fa2cb413b933ec2725.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

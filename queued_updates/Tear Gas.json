@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4fe",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Tear_Gas.dabcc0fbb32e0b6fb9188fd034fd6807.png",
+    "thumb": "icons/en/thumbs/Tear_Gas.dabcc0fbb32e0b6fb9188fd034fd6807.128x128.png",
+    "icon_format": "port",
+    "url_name": "tear_gas",
+    "tradable": true,
+    "en": {
+        "item_name": "Tear Gas",
+        "description": "<p>Tear Gas is a PvP Warframe Augment Mod for Ash's Smoke Screen which blinds enemies temporarily. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Tear_Gas",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Слезоточивый газ",
+        "description": "<p>Слезоточивый газ — мод-аугмент для варфрейма Эш и Эш прайм в режиме конклава, улучшающий его способность дымовая завеса. При использовании способности противники в небольшом радиусе будут ослеплены в течение некоторого времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BB%D0%B5%D0%B7%D0%BE%D1%82%D0%BE%D1%87%D0%B8%D0%B2%D1%8B%D0%B9_%D0%B3%D0%B0%D0%B7",
+        "icon": "icons/ru/Tear_Gas.1e172d9369c5323d952b2734bf89063c.png",
+        "thumb": "icons/ru/thumbs/Tear_Gas.1e172d9369c5323d952b2734bf89063c.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "57839086d9b6753790c89e7e",
+    "tags": [
+        "mod",
+        "archwing",
+        "rare"
+    ],
+    "icon": "icons/en/Energy_Field.62ae23c80ca40b5acbb9a7087a8cb5ba.png",
+    "thumb": "icons/en/thumbs/Energy_Field.62ae23c80ca40b5acbb9a7087a8cb5ba.128x128.png",
+    "icon_format": "port",
+    "url_name": "energy_field",
+    "tradable": true,
+    "en": {
+        "item_name": "Energy Field",
+        "description": "<p>Energy Field is an Odonata Augment Mod for Energy Shell that extends its effects to nearby allies within a set distance.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Field",
+        "drop": [
+            {
+                "name": "ArchwingEximus",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Энергетическое поле",
+        "description": "<p>Энергетическое Поле - мод-аугмент для арчвинга Одоната, улучшающий способность Энергетическая Оболочка. Защитная оболочка появляется и на союзниках, находящихся рядом.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5",
+        "icon": "icons/ru/Energy_Field.b06d7bd51b17c38fe2f5f0bc1e1bdf05.png",
+        "thumb": "icons/ru/thumbs/Energy_Field.b06d7bd51b17c38fe2f5f0bc1e1bdf05.128x128.png",
+        "drop": [
+            {
+                "name": "ArchwingEximus",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

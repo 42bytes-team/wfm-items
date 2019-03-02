@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515630",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Burdened_Magazine.cd8210ab3b0045b270997e1df53f210c.png",
+    "thumb": "icons/en/thumbs/Burdened_Magazine.cd8210ab3b0045b270997e1df53f210c.128x128.png",
+    "icon_format": "port",
+    "url_name": "burdened_magazine",
+    "tradable": true,
+    "en": {
+        "item_name": "Burdened Magazine",
+        "description": "<p>Burdened Magazine increases magazine capacity while reducing the reload speed of Shotguns.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Burdened_Magazine",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Переполненный магазин",
+        "description": "<p>Переполненный Магазин — повреждённый мод для дробовиков, который увеличивает емкость магазина, взамен уменьшая скорость перезарядки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Burdened_Magazine.06aa48886ff27aec310285f41001384e.png",
+        "thumb": "icons/ru/thumbs/Burdened_Magazine.06aa48886ff27aec310285f41001384e.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

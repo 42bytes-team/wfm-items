@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e5155ea",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Handspring.7f0d92568cc658d57fd8a30090f4d6ea.png",
+    "thumb": "icons/en/thumbs/Handspring.7f0d92568cc658d57fd8a30090f4d6ea.128x128.png",
+    "icon_format": "port",
+    "url_name": "handspring",
+    "tradable": true,
+    "en": {
+        "item_name": "Handspring",
+        "description": "<p>Handspring speeds up a Warframe's knock-down recovery rate.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Handspring",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "Corpus Tech",
+                "link": null
+            },
+            {
+                "name": "Corpus Warden",
+                "link": null
+            },
+            {
+                "name": "Grineer T3Defense Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сальто",
+        "description": "<p>Сальто — эксилус мод для варфреймов, который увеличивает скорость подъёма на ноги после падения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D1%82%D0%BE",
+        "icon": "icons/ru/Handspring.73999f1779fdee2f6ab7fe5656e74954.png",
+        "thumb": "icons/ru/thumbs/Handspring.73999f1779fdee2f6ab7fe5656e74954.128x128.png",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "Corpus Tech",
+                "link": null
+            },
+            {
+                "name": "Corpus Warden",
+                "link": null
+            },
+            {
+                "name": "Grineer T3Defense Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

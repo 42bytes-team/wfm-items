@@ -1,0 +1,80 @@
+{
+    "_id": "54a74454e779892d5e5155f2",
+    "tags": [
+        "mod",
+        "melee",
+        "common"
+    ],
+    "icon": "icons/en/Reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.png",
+    "thumb": "icons/en/thumbs/Reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.128x128.png",
+    "icon_format": "port",
+    "url_name": "reach",
+    "tradable": true,
+    "en": {
+        "item_name": "Reach",
+        "description": "<p>Reach increases the range of a melee weapon's attacks, except Glaive (Prime), Kestrel, and Halikar's thrown-distance (they can hit enemies more easily, though, because the projectile can reach a greater swath). Reach also increases the range at which Sentinels can attack enemies if installed on a Sentinel Weapon. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reach",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "Raptor",
+                "link": null
+            },
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Размах",
+        "description": "<p>Размах — обычный мод для оружия ближнего боя, который увеличивает радиус поражения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B0%D1%85",
+        "icon": "icons/ru/Reach.3c3aadf53c5f9e86719bc9a3d59e0209.png",
+        "thumb": "icons/ru/thumbs/Reach.3c3aadf53c5f9e86719bc9a3d59e0209.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "Raptor",
+                "link": null
+            },
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

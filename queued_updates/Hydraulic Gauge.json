@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a515",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Hydraulic_Gauge.dd072c8d4744b9a456008a7f2adbee13.png",
+    "thumb": "icons/en/thumbs/Hydraulic_Gauge.dd072c8d4744b9a456008a7f2adbee13.128x128.png",
+    "icon_format": "port",
+    "url_name": "hydraulic_gauge",
+    "tradable": true,
+    "en": {
+        "item_name": "Hydraulic Gauge",
+        "description": "<p>Hydraulic Gauge is PvP-exclusive assault rifle mod which reduces weapon recoil at the cost of reduced magazine capacity. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Гидравлический калибр",
+        "description": "<p>Гидравлический калибр — редкий мод для основного оружия в режиме конклава, который уменьшает отдачу, взамен уменьшая вместимость магазина. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B8%D0%B1%D1%80",
+        "icon": "icons/ru/Hydraulic_Gauge.281e512df99e4f89502ceeae61ec1e31.png",
+        "thumb": "icons/ru/thumbs/Hydraulic_Gauge.281e512df99e4f89502ceeae61ec1e31.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4e4",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Overcharge_Detectors.b9a371b79d26b7eb4a755729147a8ca7.png",
+    "thumb": "icons/en/thumbs/Overcharge_Detectors.b9a371b79d26b7eb4a755729147a8ca7.128x128.png",
+    "icon_format": "port",
+    "url_name": "overcharge_detectors",
+    "tradable": true,
+    "en": {
+        "item_name": "Overcharge Detectors",
+        "description": "<p>Overcharge Detectors is a mod in PvP that exposes enemies within a certain range if they are at their maximum energy capacity. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Overcharge_Detectors",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Детекторы избытка",
+        "description": "<p>Детекторы избытка — эксилус мод для варфреймов в режиме конклава, который показывает противников в определенном радиусе в том случае, если у них полный запас энергии. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%B8%D0%B7%D0%B1%D1%8B%D1%82%D0%BA%D0%B0",
+        "icon": "icons/ru/Overcharge_Detectors.6e88616baeba51290733b63420c8657e.png",
+        "thumb": "icons/ru/thumbs/Overcharge_Detectors.6e88616baeba51290733b63420c8657e.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

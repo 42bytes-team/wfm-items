@@ -1,0 +1,64 @@
+{
+    "_id": "580e38faca550948410af0a7",
+    "tags": [
+        "mod",
+        "sentinel",
+        "rare"
+    ],
+    "icon": "icons/en/Shield_Charger.1546221ebdf55621fa89258271588896.png",
+    "thumb": "icons/en/thumbs/Shield_Charger.1546221ebdf55621fa89258271588896.128x128.png",
+    "icon_format": "port",
+    "url_name": "shield_charger",
+    "tradable": true,
+    "en": {
+        "item_name": "Shield Charger",
+        "description": "<p>Shield Charger is a Sentinel Mod that periodically increases your Warframe's Max Shields and Shield Regen for a certain amount of time. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shield_Charger",
+        "drop": [
+            {
+                "name": "Auditor",
+                "link": null
+            },
+            {
+                "name": "Azoth",
+                "link": null
+            },
+            {
+                "name": "Jad Teran",
+                "link": null
+            },
+            {
+                "name": "Raptor RX",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зарядник щита",
+        "description": "<p>Зарядник щита — редкий мод для стражей, который временно увеличивает максимальный показатель щита варфрейма и скорость его восстановления.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA_%D1%89%D0%B8%D1%82%D0%B0",
+        "icon": "icons/ru/Shield_Charger.a8a00f839b18d2a64557fdd530db179a.png",
+        "thumb": "icons/ru/thumbs/Shield_Charger.a8a00f839b18d2a64557fdd530db179a.128x128.png",
+        "drop": [
+            {
+                "name": "Auditor",
+                "link": null
+            },
+            {
+                "name": "Azoth",
+                "link": null
+            },
+            {
+                "name": "Jad Teran",
+                "link": null
+            },
+            {
+                "name": "Raptor RX",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

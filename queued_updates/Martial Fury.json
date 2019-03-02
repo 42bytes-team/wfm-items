@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4df",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Martial_Fury.6044dbbfba1b34d294924c7325a605c2.png",
+    "thumb": "icons/en/thumbs/Martial_Fury.6044dbbfba1b34d294924c7325a605c2.128x128.png",
+    "icon_format": "port",
+    "url_name": "martial_fury",
+    "tradable": true,
+    "en": {
+        "item_name": "Martial Fury",
+        "description": "<p>Martial Fury is a melee mod in PvP which increases attack speed 20% on hit for 20 seconds with a melee weapon equipped.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Martial_Fury",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Боевая ярость",
+        "description": "<p>Боевая ярость — мод для оружия ближнего боя в режиме конклава, который увеличивает скорость атаки при нанесении удара.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8F%D1%80%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Martial_Fury.93e43b205468c253ad73d4951e407035.png",
+        "thumb": "icons/ru/thumbs/Martial_Fury.93e43b205468c253ad73d4951e407035.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

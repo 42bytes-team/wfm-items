@@ -1,0 +1,48 @@
+{
+    "_id": "54e0c9eee7798903744178a8",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Surging_Dash.95479235e9e1b4f7b1f21f47a927f723.png",
+    "thumb": "icons/en/thumbs/Surging_Dash.95479235e9e1b4f7b1f21f47a927f723.128x128.png",
+    "icon_format": "port",
+    "url_name": "surging_dash",
+    "tradable": true,
+    "en": {
+        "item_name": "Surging Dash",
+        "description": "<p>Surging Dash is a Warframe Augment Mod for Excalibur, allowing each enemy hit by Slash Dash to add to the Warframe's Melee Combo Counter.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Surging_Dash",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Колеблющий рывок",
+        "description": "<p>Колеблющий Рывок — мод-аугмент для варфрейма Экскалибур и Экскалибур Прайм, улучшающий его способность Рассекающий Рывок. Каждый удар по врагу, нанесенный Рассекающим Рывком, дополнительно увеличивает комбо счётчик ближнего боя.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BB%D0%B5%D0%B1%D0%BB%D1%8E%D1%89%D0%B8%D0%B9_%D1%80%D1%8B%D0%B2%D0%BE%D0%BA",
+        "icon": "icons/ru/Surging_Dash.2e840abfa992d061c7f5663911460ca4.png",
+        "thumb": "icons/ru/thumbs/Surging_Dash.2e840abfa992d061c7f5663911460ca4.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

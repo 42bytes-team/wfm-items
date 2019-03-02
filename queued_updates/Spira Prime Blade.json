@@ -1,0 +1,49 @@
+{
+    "_id": "56c3bc0c5d2f0202da32e945",
+    "tags": [
+        "parts",
+        "blade",
+        "prime"
+    ],
+    "icon": "icons/en/Spira_Prime_Set.1a495b1cb31bba268dc7a50f2a4f7134.png",
+    "thumb": "icons/en/thumbs/Spira_Prime_Set.1a495b1cb31bba268dc7a50f2a4f7134.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "spira_prime_blade",
+    "tradable": true,
+    "part_of_set": [
+        "56c3bc1c5d2f0202da32e947",
+        "56c3bc0c5d2f0202da32e945",
+        "56c3bc025d2f0202da32e944",
+        "56c3bc115d2f0202da32e946"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Spira Prime Blade",
+        "description": "<p>The Spira Prime is the Primed variant of the Spira throwing daggers featuring a boost to its Fire Rate, Reload Speed, Status Effect chance, Critical chance and Critical multiplier in exchange for reduced damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spira_Prime",
+        "drop": [
+            {
+                "name": "Neo S3 Rare",
+                "link": null
+            }
+        ],
+        "codex": "These rare, braided throwing daggers were a favorite tool of high ranking Orokin assassins."
+    },
+    "ru": {
+        "item_name": "Спира прайм Клинок",
+        "description": "<p>Эти редкие метательные кинжалы с оплетёнными рукоятями были предпочтительным оружием высокопоставленных ассасинов Орокин.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Neo S3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 100,
+    "trading_tax": 2000
+}

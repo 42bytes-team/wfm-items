@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515662",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Prolonged_Paralysis.d1a7e0254f38ad1b3c220f774f84bf07.png",
+    "thumb": "icons/en/thumbs/Prolonged_Paralysis.d1a7e0254f38ad1b3c220f774f84bf07.128x128.png",
+    "icon_format": "port",
+    "url_name": "prolonged_paralysis",
+    "tradable": true,
+    "en": {
+        "item_name": "Prolonged Paralysis",
+        "description": "<p>Prolonged Paralysis is a Warframe Augment Mod for Valkyr that increases Paralysis's stun duration, as well as slowly pulling affected enemies towards her.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Prolonged_Paralysis",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Длительный паралич",
+        "description": "<p>Длительный Паралич — мод-аугмент для варфрейма Валькирия, улучшающий её способность Паралич. При применении враги, попавшие в радиус действия способности, притягиваются к Валькирии, падая с ног. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D1%87",
+        "icon": "icons/ru/Prolonged_Paralysis.823abc810eae9eb64eec85812c9aac79.png",
+        "thumb": "icons/ru/thumbs/Prolonged_Paralysis.823abc810eae9eb64eec85812c9aac79.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

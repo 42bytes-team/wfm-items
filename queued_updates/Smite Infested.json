@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e515693",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Smite_Infested.bfacf65757f7f50af83415cc4a441706.png",
+    "thumb": "icons/en/thumbs/Smite_Infested.bfacf65757f7f50af83415cc4a441706.128x128.png",
+    "icon_format": "port",
+    "url_name": "smite_infested",
+    "tradable": true,
+    "en": {
+        "item_name": "Smite Infested",
+        "description": "<p>The Smite Infested mod increases the damage of melee weapons against Infested by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Smite_Infested",
+        "drop": [
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Крушитель: Заражённые",
+        "description": "<p>Крушитель: Заражённые — необычный мод для оружия ближнего боя, который увеличивает урон по  Заражённым.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5",
+        "icon": "icons/ru/Smite_Infested.51cb8b8098f6c41fb5c25f148464d124.png",
+        "thumb": "icons/ru/thumbs/Smite_Infested.51cb8b8098f6c41fb5c25f148464d124.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155f7",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Loot_Detector.6aa5548d69fc0e07a731d65c9845c6f9.png",
+    "thumb": "icons/en/thumbs/Loot_Detector.6aa5548d69fc0e07a731d65c9845c6f9.128x128.png",
+    "icon_format": "port",
+    "url_name": "loot_detector",
+    "tradable": true,
+    "en": {
+        "item_name": "Loot Detector",
+        "description": "<p>Loot Detector will display resources, lootable canisters, chests, crates, and lootable corpses (which only appear during the self-destruction environmental hazard) on the mini-map for all players on a mission, as well as locate Medallions in Syndicate Alert Missions and Resource Cache in Sabotage missions.  It will not display lockers or dropped blueprints.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Loot_Detector",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Детектор добычи",
+        "description": "<p>Детектор добычи — необычная аура, которая отмечает на мини-карте некоторые поднимаемые предметы, включая ресурсы и моды, а также контейнеры для всей команды в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8",
+        "icon": "icons/ru/Loot_Detector.318d2c808ec6b39f806b3f72370ace51.png",
+        "thumb": "icons/ru/thumbs/Loot_Detector.318d2c808ec6b39f806b3f72370ace51.128x128.png",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

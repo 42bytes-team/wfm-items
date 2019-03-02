@@ -1,0 +1,41 @@
+{
+    "_id": "559dacd3e779897ba8819965",
+    "tags": [
+        "mod",
+        "pistol",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Pistol_Gambit.a4590d10e9f17bc15d1cdaae9507d4ad.png",
+    "thumb": "icons/en/thumbs/Primed_Pistol_Gambit.a4590d10e9f17bc15d1cdaae9507d4ad.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_pistol_gambit",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Pistol Gambit",
+        "description": "<p>Primed Pistol Gambit is the primed version of the Pistol Gambit mod, which increases the critical chance of secondary weapons.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Pistol_Gambit",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пистолетный гамбит прайм",
+        "description": "<p>Пистолетный гамбит прайм — легендарный мод для вторичного оружия, который  увеличивает шанс критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%BC%D0%B1%D0%B8%D1%82_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Pistol_Gambit.9d0a3046cfb2c2071a337c3cd08ae29b.png",
+        "thumb": "icons/ru/thumbs/Primed_Pistol_Gambit.9d0a3046cfb2c2071a337c3cd08ae29b.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

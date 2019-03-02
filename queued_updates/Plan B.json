@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a51f",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Plan_B.97f0cc8968aace82c1b9a54d29997581.png",
+    "thumb": "icons/en/thumbs/Plan_B.97f0cc8968aace82c1b9a54d29997581.128x128.png",
+    "icon_format": "port",
+    "url_name": "plan_b",
+    "tradable": true,
+    "en": {
+        "item_name": "Plan B",
+        "description": "<p>Plan B is PvP-exclusive Bow Mod which increases Fire Rate for Secondary Weapons on Hits.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Plan_B",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "План б",
+        "description": "<p>План Б — редкий мод для луков в режиме конклава, который увеличивает скорострельность вторичного оружия на определенный промежуток времени при попадании в противника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BB%D0%B0%D0%BD_%D0%B1",
+        "icon": "icons/ru/Plan_B.d188248ffb9091d4742fcfb7d1d1e787.png",
+        "thumb": "icons/ru/thumbs/Plan_B.d188248ffb9091d4742fcfb7d1d1e787.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

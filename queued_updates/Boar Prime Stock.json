@@ -1,0 +1,50 @@
+{
+    "_id": "54a73e65e779893a797fff2d",
+    "tags": [
+        "parts",
+        "prime",
+        "stock"
+    ],
+    "icon": "icons/en/Boar_Prime_Set.5e8a5ba1520169c7a99c738624328d26.png",
+    "thumb": "icons/en/thumbs/Boar_Prime_Set.5e8a5ba1520169c7a99c738624328d26.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "boar_prime_stock",
+    "tradable": true,
+    "part_of_set": [
+        "56783f24cbfa8f0432dd8991",
+        "54a73e65e779893a797fff2a",
+        "54a73e65e779893a797fff2b",
+        "54a73e65e779893a797fff2c",
+        "54a73e65e779893a797fff2d"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Boar Prime Stock",
+        "description": "<p>The Boar Prime is an ancient Orokin automatic shotgun that serves as an upgraded version of the Boar. The Boar Prime further improves on the strengths of the Boar, focusing on a high rate of fire, spread, and magazine capacity, on top of improving overall damage. This gives the Boar Prime extremely high damage per second, mitigated only by the short-comings of its predecessor, with its inability to effectively engage targets past short range. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Boar_Prime",
+        "drop": [
+            {
+                "name": "Meso B1 Rare",
+                "link": null
+            }
+        ],
+        "codex": "One of the finest examples of Tenno craftsmanship, the Boar Prime offers a higher rate of fire and clip size with a slight decrease in per-shot damage ."
+    },
+    "ru": {
+        "item_name": "Вепрь прайм Приклад",
+        "description": "<p>Один из лучших примеров оружейного мастерства Тэнно, Вепрь Прайм имеет повышенную скорострельность и увеличенный магазин с несколько меньшим уроном на выстрел.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D0%BF%D1%80%D1%8C_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Meso B1 Rare",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 11,
+    "ducats": 100,
+    "trading_tax": 2000
+}

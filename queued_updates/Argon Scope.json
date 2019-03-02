@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b2741133f656cb085d8a",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Argon_Scope.f59f66183ee3f605c51f28d68dfa6714.png",
+    "thumb": "icons/en/thumbs/Argon_Scope.f59f66183ee3f605c51f28d68dfa6714.128x128.png",
+    "icon_format": "port",
+    "url_name": "argon_scope",
+    "tradable": true,
+    "en": {
+        "item_name": "Argon Scope",
+        "description": "<p>Argon Scope is a rare rifle mod that increases critical chance while aiming for a brief time upon a headshot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Argon_Scope",
+        "drop": [
+            {
+                "name": "Torment",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Аргоновый прицел",
+        "description": "<p>Аргоновый Прицел — условный мод для винтовок, который после попадания в голову увеличивает шанс критического урона на некоторый промежуток времени при прицеливании.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%86%D0%B5%D0%BB",
+        "icon": "icons/ru/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.png",
+        "thumb": "icons/ru/thumbs/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.128x128.png",
+        "drop": [
+            {
+                "name": "Torment",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

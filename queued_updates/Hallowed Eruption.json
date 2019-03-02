@@ -1,0 +1,48 @@
+{
+    "_id": "54e64500e779897594fa68d4",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Hallowed_Eruption.9ddc1dac0b8c64c03ab90ece2f0126a6.png",
+    "thumb": "icons/en/thumbs/Hallowed_Eruption.9ddc1dac0b8c64c03ab90ece2f0126a6.128x128.png",
+    "icon_format": "port",
+    "url_name": "hallowed_eruption",
+    "tradable": true,
+    "en": {
+        "item_name": "Hallowed Eruption",
+        "description": "<p>Hallowed Eruption is a Warframe Augment Mod for Oberon. Upon casting Hallowed Ground again with a previous instance still active, the first one will detonate, dealing all remaining damage as an AoE blast with a chance to deal  Radiation proc.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hallowed_Eruption",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Святое извержение",
+        "description": "<p>Святое Извержение — мод-аугмент для варфрейма Оберон, улучшающий его способность Святая Земля.  Последующее применение этой способности приведёт к взрыву, наносящему урон  радиацией с определённым шансом срабатывания эффекта статуса. Урон взрыва зависит от количества оставшегося урона первого использования способности.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B5_%D0%B8%D0%B7%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Hallowed_Eruption.d2b38531c87ec81fdbb90aed23cd5807.png",
+        "thumb": "icons/ru/thumbs/Hallowed_Eruption.d2b38531c87ec81fdbb90aed23cd5807.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

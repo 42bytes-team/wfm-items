@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e51569d",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Frigid_Blast.0b918ce4eea7e629fbde24ad88de852e.png",
+    "thumb": "icons/en/thumbs/Frigid_Blast.0b918ce4eea7e629fbde24ad88de852e.128x128.png",
+    "icon_format": "port",
+    "url_name": "frigid_blast",
+    "tradable": true,
+    "en": {
+        "item_name": "Frigid Blast",
+        "description": "<p>The Frigid Blast mod increases both the  Cold damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Frigid_Blast",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Cryotic Front",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Холодный взрыв",
+        "description": "<p>Холодный Взрыв — гибридный мод для дробовиков, который увеличивает  ледяной урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
+        "icon": "icons/ru/Frigid_Blast.5d3b048032de27f74c7e8e69fe96bc11.png",
+        "thumb": "icons/ru/thumbs/Frigid_Blast.5d3b048032de27f74c7e8e69fe96bc11.128x128.png",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Cryotic Front",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

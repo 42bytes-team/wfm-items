@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b25f1133f656cb085d88",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Maiming_Strike.5f1cac479fe228788be880a41cfe11b7.png",
+    "thumb": "icons/en/thumbs/Maiming_Strike.5f1cac479fe228788be880a41cfe11b7.128x128.png",
+    "icon_format": "port",
+    "url_name": "maiming_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Maiming Strike",
+        "description": "<p>Maiming Strike is a rare Melee mod that increases the chance of a Critical Hit on slide attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Maiming_Strike",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Violence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Калечащий удар",
+        "description": "<p>Калечащий Удар — редкий мод для оружия ближнего боя, который добавляет шанс критического урона во время скольжения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D1%87%D0%B0%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Maiming_Strike.0fae39fedd9c3c7e52e3436a1c3750ef.png",
+        "thumb": "icons/ru/thumbs/Maiming_Strike.0fae39fedd9c3c7e52e3436a1c3750ef.128x128.png",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Violence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

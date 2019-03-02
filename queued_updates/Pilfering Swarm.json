@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec1e779896af9418261",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Pilfering_Swarm.eddeebdc39966986118eac7ab1e0de81.png",
+    "thumb": "icons/en/thumbs/Pilfering_Swarm.eddeebdc39966986118eac7ab1e0de81.128x128.png",
+    "icon_format": "port",
+    "url_name": "pilfering_swarm",
+    "tradable": true,
+    "en": {
+        "item_name": "Pilfering Swarm",
+        "description": "<p>Pilfering Swarm is a Hydroid Warframe Augment Mod that grants Tentacle Swarm a chance to yield additional loot from enemies killed while they're ensnared by the tentacles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pilfering_Swarm",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ворующие щупальца",
+        "description": "<p>Ворующие Щупальца — мод-аугмент для варфрейма Гидроид, улучшающий его способность Рой Щупалец. Враги, задетые щупальцами, имеют шанс дать дополнительную добычу при своей смерти. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%89%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B0",
+        "icon": "icons/ru/Pilfering_Swarm.9ae67f96ff0a61053c4674ece422f723.png",
+        "thumb": "icons/ru/thumbs/Pilfering_Swarm.9ae67f96ff0a61053c4674ece422f723.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

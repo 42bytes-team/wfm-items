@@ -1,0 +1,48 @@
+{
+    "_id": "55c153e7e779895d9dec229d",
+    "tags": [
+        "mod",
+        "parkour",
+        "uncommon"
+    ],
+    "icon": "icons/en/Patagium.61f5090481883dcd5c935250f103f9e2.png",
+    "thumb": "icons/en/thumbs/Patagium.61f5090481883dcd5c935250f103f9e2.128x128.png",
+    "icon_format": "port",
+    "url_name": "patagium",
+    "tradable": true,
+    "en": {
+        "item_name": "Patagium",
+        "description": "<p>Patagium is a Warframe mod that increases the duration of Aim Glide and Wall Latch.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Patagium",
+        "drop": [
+            {
+                "name": "Drekar Trooper",
+                "link": null
+            },
+            {
+                "name": "Grineer Sealab Sabotage Resource Caches",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Патагий",
+        "description": "<p>Патагий — эксилус мод для варфреймов, который увеличивает управляемость полета и длительность фиксации на стене.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%82%D0%B0%D0%B3%D0%B8%D0%B9",
+        "icon": "icons/ru/Patagium.a5c990e863fc82a7310b08fa3871543c.png",
+        "thumb": "icons/ru/thumbs/Patagium.a5c990e863fc82a7310b08fa3871543c.128x128.png",
+        "drop": [
+            {
+                "name": "Drekar Trooper",
+                "link": null
+            },
+            {
+                "name": "Grineer Sealab Sabotage Resource Caches",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

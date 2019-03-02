@@ -1,0 +1,50 @@
+{
+    "_id": "54a73e65e779893a797fff71",
+    "tags": [
+        "blueprint",
+        "prime",
+        "neuroptics",
+        "warframe"
+    ],
+    "icon": "icons/en/Nyx_Prime_Set.fd41c04c9e9bcc7e0e6963914f68f880.png",
+    "thumb": "icons/en/thumbs/Nyx_Prime_Set.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/neuroptics_128x128.png",
+    "url_name": "nyx_prime_neuroptics",
+    "tradable": true,
+    "part_of_set": [
+        "56783f24cbfa8f0432dd89a6",
+        "54a73e65e779893a797fff72",
+        "54a73e65e779893a797fff73",
+        "54a73e65e779893a797fff71",
+        "54a73e65e779893a797fff76"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Nyx Prime Neuroptics",
+        "description": "<p>Release Date: September 23rd, 2014</p><p>Nyx Prime is the primed variant of the Nyx Warframe featuring more powerful stats: possessing higher armor, sprint speed and shield capacity, as well as an additional  polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Nyx/Prime",
+        "drop": [
+            {
+                "name": "Meso N1 Rare",
+                "link": null
+            }
+        ],
+        "codex": "Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization."
+    },
+    "ru": {
+        "item_name": "Никс Прайм Нейроптика",
+        "description": "<p>Атакуйте разум ваших противников с Никс прайм. Обладает дополнительными слотами полярности для большей кастомизации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B8%D0%BA%D1%81/Прайм",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Meso N1 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 100,
+    "trading_tax": 4000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "554d3f0ce779894445a848ff",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Collision_Force.2f14bb6f9c6d9e152d5e836124c8c4b0.png",
+    "thumb": "icons/en/thumbs/Collision_Force.2f14bb6f9c6d9e152d5e836124c8c4b0.128x128.png",
+    "icon_format": "port",
+    "url_name": "collision_force",
+    "tradable": true,
+    "en": {
+        "item_name": "Collision Force",
+        "description": "<p>The Collision Force mod increases  Impact damage of melee weapons by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Collision_Force",
+        "drop": [
+            {
+                "name": "Operation False Profit reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сбивающий удар",
+        "description": "<p>Сбивающий Удар — редкий мод для оружия ближнего боя, который  увеличивает  ударный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Collision_Force.9725633e035e0d289f8c76388a2746b3.png",
+        "thumb": "icons/ru/thumbs/Collision_Force.9725633e035e0d289f8c76388a2746b3.128x128.png",
+        "drop": [
+            {
+                "name": "Operation False Profit reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

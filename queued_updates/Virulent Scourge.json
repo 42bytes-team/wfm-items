@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515672",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Virulent_Scourge.8f1ae337bfdc14e2ff7ceade522842a5.png",
+    "thumb": "icons/en/thumbs/Virulent_Scourge.8f1ae337bfdc14e2ff7ceade522842a5.128x128.png",
+    "icon_format": "port",
+    "url_name": "virulent_scourge",
+    "tradable": true,
+    "en": {
+        "item_name": "Virulent Scourge",
+        "description": "<p>The Virulent Scourge mod increases both the  Toxin Damage and Status Chance of a melee weapon by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virulent_Scourge",
+        "drop": [
+            {
+                "name": "Reward fromThe Cicero Crisis",
+                "link": null
+            },
+            {
+                "name": "Captain Vor (Corrupted)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ядовитая кара",
+        "description": "<p>Ядовитая Кара — гибридный мод для оружия ближнего боя, который увеличивает  токсичный урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D0%B0",
+        "icon": "icons/ru/Virulent_Scourge.f4c08852d56c8d0d59fe3380a350bd71.png",
+        "thumb": "icons/ru/thumbs/Virulent_Scourge.f4c08852d56c8d0d59fe3380a350bd71.128x128.png",
+        "drop": [
+            {
+                "name": "Reward fromThe Cicero Crisis",
+                "link": null
+            },
+            {
+                "name": "Captain Vor (Corrupted)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

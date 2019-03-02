@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51565c",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Hawk_Eye.099299329b644d2b752e32006e9c4e83.png",
+    "thumb": "icons/en/thumbs/Hawk_Eye.099299329b644d2b752e32006e9c4e83.128x128.png",
+    "icon_format": "port",
+    "url_name": "hawk_eye",
+    "tradable": true,
+    "en": {
+        "item_name": "Hawk Eye",
+        "description": "<p>Hawk Eye increases the zoom of secondary weapons.  Beginning with Update 12.6, Hawk Eye also increases the range at which Sentinels can shoot enemies if installed on a Sentinel Weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hawk_Eye",
+        "drop": [
+            {
+                "name": "Shield Osprey",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Соколиный глаз",
+        "description": "<p>Соколиный Глаз — необычный мод для вторичного оружия, который увеличивает приближение при прицеливание.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BB%D0%B0%D0%B7",
+        "icon": "icons/ru/Hawk_Eye.89e8f96b544925bde6308d3704406084.png",
+        "thumb": "icons/ru/thumbs/Hawk_Eye.89e8f96b544925bde6308d3704406084.128x128.png",
+        "drop": [
+            {
+                "name": "Shield Osprey",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

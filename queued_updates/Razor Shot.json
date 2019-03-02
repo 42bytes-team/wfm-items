@@ -1,0 +1,80 @@
+{
+    "_id": "54a74454e779892d5e515640",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Razor_Shot.d8e458d15e2db1b17648dfe00019a062.png",
+    "thumb": "icons/en/thumbs/Razor_Shot.d8e458d15e2db1b17648dfe00019a062.128x128.png",
+    "icon_format": "port",
+    "url_name": "razor_shot",
+    "tradable": true,
+    "en": {
+        "item_name": "Razor Shot",
+        "description": "<p>Razor Shot increases the  Slash damage of pistols.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Razor_Shot",
+        "drop": [
+            {
+                "name": "GrineerElite Arid Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerDraga",
+                "link": null
+            },
+            {
+                "name": "GrineerDarek Draga",
+                "link": null
+            },
+            {
+                "name": "GrineerShock Draga",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Выстрел лезвием",
+        "description": "<p>Выстрел Лезвием — необычный мод для вторичного оружия, который увеличивает  режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5%D0%BC",
+        "icon": "icons/ru/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.png",
+        "thumb": "icons/ru/thumbs/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerElite Arid Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Frontier Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerElite Lancer",
+                "link": null
+            },
+            {
+                "name": "GrineerDraga",
+                "link": null
+            },
+            {
+                "name": "GrineerDarek Draga",
+                "link": null
+            },
+            {
+                "name": "GrineerShock Draga",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

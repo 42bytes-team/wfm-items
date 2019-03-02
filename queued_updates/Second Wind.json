@@ -1,0 +1,40 @@
+{
+    "_id": "5615432bb66f8371035bfa31",
+    "tags": [
+        "mod",
+        "melee",
+        "commmon"
+    ],
+    "icon": "icons/en/Second_Wind.bb0d07d025928e83428a9362f561a4d2.png",
+    "thumb": "icons/en/thumbs/Second_Wind.bb0d07d025928e83428a9362f561a4d2.128x128.png",
+    "icon_format": "port",
+    "url_name": "second_wind",
+    "tradable": false,
+    "en": {
+        "item_name": "Second Wind",
+        "description": "<p>The Second Wind mod gives Stamina when an enemy is killed using Channeling, at the cost of Channeling efficiency.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Second_Wind",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Второе дыхание (устарело)",
+        "description": "<p>Второе Дыхание восстанавливает +5% выносливости за убийство в ближнем бою, уменьшая эффективность концентрации на -10% за ранг. На максимальном ранге мода бонус к выносливости за убийство будет составлять +30%, а эффективность концентрации будет понижена на -60%.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B5_%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D0%B5_(%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%BB%D0%BE)",
+        "icon": "icons/ru/Second_Wind.0ebbbb01e7498ffcb9615a8b82d50295.png",
+        "thumb": "icons/ru/thumbs/Second_Wind.0ebbbb01e7498ffcb9615a8b82d50295.128x128.png",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "commmon",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

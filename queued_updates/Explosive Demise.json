@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4d5",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Explosive_Demise.b10b3c3c0c794946cc6c8078c220138c.png",
+    "thumb": "icons/en/thumbs/Explosive_Demise.b10b3c3c0c794946cc6c8078c220138c.128x128.png",
+    "icon_format": "port",
+    "url_name": "explosive_demise",
+    "tradable": true,
+    "en": {
+        "item_name": "Explosive Demise",
+        "description": "<p>Explosive Demise is a melee mod in PvP which causes killed enemies to explode shortly after death, dealing damage to surrounding enemies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Demise",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Взрывное наследство",
+        "description": "<p>Взрывное Наследство — редкий мод в режиме конклава для оружия ближнего боя, который взрывает врагов после их смерти от оружия ближнего боя, нанося  взрывной урон близлежащим противникам.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+        "icon": "icons/ru/Explosive_Demise.141943ded5d9215fd9490b1819bfc607.png",
+        "thumb": "icons/ru/thumbs/Explosive_Demise.141943ded5d9215fd9490b1819bfc607.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

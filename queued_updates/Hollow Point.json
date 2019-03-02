@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51567b",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Hollow_Point.47649c316b258dc9581f82fdfd8e1843.png",
+    "thumb": "icons/en/thumbs/Hollow_Point.47649c316b258dc9581f82fdfd8e1843.128x128.png",
+    "icon_format": "port",
+    "url_name": "hollow_point",
+    "tradable": true,
+    "en": {
+        "item_name": "Hollow Point",
+        "description": "<p>Hollow Point increases critical hit damage while reducing the damage of Pistols.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hollow_Point",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Экспансивные боеприпасы",
+        "description": "<p>Экспансивные Боеприпасы — повреждённый мод для вторичного оружия, который увеличивает множитель критического урона, взамен уменьшая базовый урон оружия.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D0%B5%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%81%D1%8B",
+        "icon": "icons/ru/Hollow_Point.88acac559193e510b14b1345d1dc7684.png",
+        "thumb": "icons/ru/thumbs/Hollow_Point.88acac559193e510b14b1345d1dc7684.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "54a74454e779892d5e5155de",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Shotgun_Savvy.ab720d50e1f812fdd35cd695701e31b6.png",
+    "thumb": "icons/en/thumbs/Shotgun_Savvy.ab720d50e1f812fdd35cd695701e31b6.128x128.png",
+    "icon_format": "port",
+    "url_name": "shotgun_savvy",
+    "tradable": true,
+    "en": {
+        "item_name": "Shotgun Savvy",
+        "description": "<p>Shotgun Savvy increases Shotgun Status Chance.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shotgun_Savvy",
+        "drop": [
+            {
+                "name": "General Sargas Ruk",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Оглушение дробовика",
+        "description": "<p>Оглушение Дробовика — необычный мод для дробовиков, который увеличивает шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BB%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Shotgun_Savvy.5111ef4d0102226d22894a36b9875fe7.png",
+        "thumb": "icons/ru/thumbs/Shotgun_Savvy.5111ef4d0102226d22894a36b9875fe7.128x128.png",
+        "drop": [
+            {
+                "name": "General Sargas Ruk",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

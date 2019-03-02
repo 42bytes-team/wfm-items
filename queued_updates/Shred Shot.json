@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4f4",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Shred_Shot.6c54abde2f2a72ce7c5b88ac37500cc3.png",
+    "thumb": "icons/en/thumbs/Shred_Shot.6c54abde2f2a72ce7c5b88ac37500cc3.128x128.png",
+    "icon_format": "port",
+    "url_name": "shred_shot",
+    "tradable": true,
+    "en": {
+        "item_name": "Shred Shot",
+        "description": "<p>Shred Shot is a PvP exclusive Shotgun Mod that converts an amount of physical damage to Puncture damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shred_Shot",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кромсающий выстрел",
+        "description": "<p>Кромсающий Выстрел — необычный мод для дробовиков в режиме конклава, который преобразует % базового урона в  пронзающий.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Shred_Shot.6d3b9403f4f4e4b6d8f4cf29345cf2d2.png",
+        "thumb": "icons/ru/thumbs/Shred_Shot.6d3b9403f4f4e4b6d8f4cf29345cf2d2.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

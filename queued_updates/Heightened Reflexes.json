@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a512",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Heightened_Reflexes.e303a65658bac2a06e0681ee8cdf3483.png",
+    "thumb": "icons/en/thumbs/Heightened_Reflexes.e303a65658bac2a06e0681ee8cdf3483.128x128.png",
+    "icon_format": "port",
+    "url_name": "heightened_reflexes",
+    "tradable": true,
+    "en": {
+        "item_name": "Heightened Reflexes",
+        "description": "<p>Heightened Reflexes is a PvP Warframe mod which increases casting speed at the cost of reduced Power Efficiency. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Heightened_Reflexes",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ускоренные рефлексы",
+        "description": "<p>Ускоренные рефлексы — редкий мод для варфреймов в режиме конклава, который увеличивает скорость применения способностей, взамен уменьшая их энергоэффективность. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%80%D0%B5%D1%84%D0%BB%D0%B5%D0%BA%D1%81%D1%8B",
+        "icon": "icons/ru/Heightened_Reflexes.1d0eca629afe73e76b7128b9861698cb.png",
+        "thumb": "icons/ru/thumbs/Heightened_Reflexes.1d0eca629afe73e76b7128b9861698cb.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

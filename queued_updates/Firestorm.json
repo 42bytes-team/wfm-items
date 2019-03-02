@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e5155e7",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Firestorm.2082d7fa0de3a3e7a8014e6c141d9744.png",
+    "thumb": "icons/en/thumbs/Firestorm.2082d7fa0de3a3e7a8014e6c141d9744.128x128.png",
+    "icon_format": "port",
+    "url_name": "firestorm",
+    "tradable": true,
+    "en": {
+        "item_name": "Firestorm",
+        "description": "<p>Firestorm increases the area-of-effect radius of the Ignis, Ogris, Penta, Torid, Opticor, and Tonkor.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Firestorm",
+        "drop": [
+            {
+                "name": "Referral Program",
+                "link": null
+            },
+            {
+                "name": "Toxic Ancient",
+                "link": null
+            },
+            {
+                "name": "Boiler",
+                "link": null
+            },
+            {
+                "name": "Hive Sabotage cache reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Огненный шторм",
+        "description": "<p>Огненный Шторм — редкий мод для некоторых гранатометов, который увеличивает радиус взрывной атаки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%88%D1%82%D0%BE%D1%80%D0%BC",
+        "icon": "icons/ru/Firestorm.98517690aa7e2c6ce0dc119935e95616.png",
+        "thumb": "icons/ru/thumbs/Firestorm.98517690aa7e2c6ce0dc119935e95616.128x128.png",
+        "drop": [
+            {
+                "name": "Referral Program",
+                "link": null
+            },
+            {
+                "name": "Toxic Ancient",
+                "link": null
+            },
+            {
+                "name": "Boiler",
+                "link": null
+            },
+            {
+                "name": "Hive Sabotage cache reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

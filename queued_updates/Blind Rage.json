@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155cc",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Blind_Rage.a3969916d438992c1b132d3c56ded7a5.png",
+    "thumb": "icons/en/thumbs/Blind_Rage.a3969916d438992c1b132d3c56ded7a5.128x128.png",
+    "icon_format": "port",
+    "url_name": "blind_rage",
+    "tradable": true,
+    "en": {
+        "item_name": "Blind Rage",
+        "description": "<p>Blind Rage increases Power Strength while reducing Power Efficiency of Warframe abilities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Blind_Rage",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Слепая ярость",
+        "description": "<p>Слепая ярость — повреждённый мод для варфреймов, который увеличивает силу способностей, взамен уменьшая её энергоэффективность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BB%D0%B5%D0%BF%D0%B0%D1%8F_%D1%8F%D1%80%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Blind_Rage.75fc70337700cc463e3ee46f142b9e63.png",
+        "thumb": "icons/ru/thumbs/Blind_Rage.75fc70337700cc463e3ee46f142b9e63.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

@@ -1,0 +1,36 @@
+{
+    "_id": "58e6407ada6e257f670cf06f",
+    "tags": [
+        "scene"
+    ],
+    "icon": "icons/en/Suda's_Datascape_Scene.b524e2355531edae21dfa2154e93bab1.png",
+    "thumb": "icons/en/thumbs/Suda's_Datascape_Scene.b524e2355531edae21dfa2154e93bab1.128x128.png",
+    "icon_format": "land",
+    "url_name": "sudas_datascape_scene",
+    "tradable": true,
+    "en": {
+        "item_name": "Suda's Datascape Scene",
+        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Captura",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Подпространство Суды",
+        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Цефалон Суда",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

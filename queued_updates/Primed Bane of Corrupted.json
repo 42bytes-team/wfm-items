@@ -1,0 +1,39 @@
+{
+    "_id": "5992f2fa6a92654847b8df2a",
+    "tags": [
+        "mod",
+        "rifle"
+    ],
+    "icon": "icons/en/Primed_Bane_of_Corrupted.b273d5d38532bdb777d830ce87a84d9e.png",
+    "thumb": "icons/en/thumbs/Primed_Bane_of_Corrupted.b273d5d38532bdb777d830ce87a84d9e.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_bane_of_corrupted",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Bane of Corrupted",
+        "description": "<p>Primed Bane of Corrupted is the Primed version of the Bane of Corrupted mod, which increases the damage of rifles against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Bane_of_Corrupted",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Погибель Прайм: Порабощённые",
+        "description": "<p>Погибель Прайм: Порабощённые — легендарный мод для основного оружия, который увеличивает урон по бойцам Порабощённых.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC:_%D0%9F%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B5",
+        "icon": "icons/ru/Primed_Bane_of_Corrupted.c995529b113e5c37da293c8d6f051fb8.png",
+        "thumb": "icons/ru/thumbs/Primed_Bane_of_Corrupted.c995529b113e5c37da293c8d6f051fb8.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

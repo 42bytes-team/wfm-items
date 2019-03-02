@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155f5",
+    "tags": [
+        "mod",
+        "weapons",
+        "rare"
+    ],
+    "icon": "icons/en/Scattered_Justice.b46113ecdbc04d327240cedec0e3b1f1.png",
+    "thumb": "icons/en/thumbs/Scattered_Justice.b46113ecdbc04d327240cedec0e3b1f1.128x128.png",
+    "icon_format": "port",
+    "url_name": "scattered_justice",
+    "tradable": true,
+    "en": {
+        "item_name": "Scattered Justice",
+        "description": "<p>The Scattered Justice mod is a Weapon Augment Mod that adds multishot and Justice specifically for the Hek. It increases multishot by 50% and Justice by 0.25 per rank, at a maximum of 200% and 1 at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Scattered_Justice",
+        "drop": [
+            {
+                "name": "Steel Meridian Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Переменная справедливость",
+        "description": "<p>Переменная Справедливость — мод-аугмент для дробовика Хек, который увеличивает шанс произведения дополнительного выстрела и даёт прирост Синдикат-эффекта - Правосудие.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Scattered_Justice.952071bd3461743095391ef3c4ed5f81.png",
+        "thumb": "icons/ru/thumbs/Scattered_Justice.952071bd3461743095391ef3c4ed5f81.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

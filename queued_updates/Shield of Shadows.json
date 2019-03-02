@@ -1,0 +1,48 @@
+{
+    "_id": "554d3d13e77989430b114cb1",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Shield_of_Shadows.877c5c3618e4f49db59674559c69f807.png",
+    "thumb": "icons/en/thumbs/Shield_of_Shadows.877c5c3618e4f49db59674559c69f807.128x128.png",
+    "icon_format": "port",
+    "url_name": "shield_of_shadows",
+    "tradable": true,
+    "en": {
+        "item_name": "Shield of Shadows",
+        "description": "<p>Shield of Shadows is a Warframe Augment Mod that allows Nekros to transfer a percentage of damage he receives to any active Shadows of the Dead minions within 50 meters.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shield_of_Shadows",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Щит теней",
+        "description": "<p>Щит Теней — мод-аугмент для варфрейма Некрос, улучшающий его способность Тени Мертвых. Тени будут поглощать получаемый Некросом урон в определённом радиусе от варфрейма, создавая нити, аналогичные способности Тринити - Связь.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A9%D0%B8%D1%82_%D1%82%D0%B5%D0%BD%D0%B5%D0%B9",
+        "icon": "icons/ru/Shield_of_Shadows.8deabfb24dd08579dcbddb60fd04ecc2.png",
+        "thumb": "icons/ru/thumbs/Shield_of_Shadows.8deabfb24dd08579dcbddb60fd04ecc2.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

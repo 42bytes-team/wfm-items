@@ -1,0 +1,39 @@
+{
+    "_id": "56dac5985cc639de0a45c524",
+    "tags": [
+        "mod",
+        "uncommon"
+    ],
+    "icon": "icons/en/Anti-Flak_Plating.cf4a771790c289975365c7dd23e51cde.png",
+    "thumb": "icons/en/thumbs/Anti-Flak_Plating.cf4a771790c289975365c7dd23e51cde.128x128.png",
+    "icon_format": "port",
+    "url_name": "anti_flak_plating",
+    "tradable": true,
+    "en": {
+        "item_name": "Anti-Flak Plating",
+        "description": "<p>Anti-Flak Plating is PvP-exclusive Warframe mod which grants resistance to  Blast damage but reduces Mobility.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Anti-Flak_Plating",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Противоосколочное покрытие",
+        "description": "<p>Противоосколочное покрытие - необычный мод для варфреймов в режиме конклава, который уменьшает входящий  взрывной урон, уменьшая мобильность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BE%D1%81%D0%BA%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5",
+        "icon": "icons/ru/Anti-Flak_Plating.661dcccbb7e3f632bedc63af7277a14b.png",
+        "thumb": "icons/ru/thumbs/Anti-Flak_Plating.661dcccbb7e3f632bedc63af7277a14b.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e515627",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Deep_Freeze.337e20a21ade89374d13a36733da015f.png",
+    "thumb": "icons/en/thumbs/Deep_Freeze.337e20a21ade89374d13a36733da015f.128x128.png",
+    "icon_format": "port",
+    "url_name": "deep_freeze",
+    "tradable": true,
+    "en": {
+        "item_name": "Deep Freeze",
+        "description": "<p>Deep Freeze increases  Cold damage on a secondary weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Deep_Freeze",
+        "drop": [
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Grineer T3Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Augustus, Mars Corpus T1Interception",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Глубокая заморозка",
+        "description": "<p>Глубокая Заморозка — необычный мод для вторичного оружия, который увеличивает  ледяной урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%B0",
+        "icon": "icons/ru/Deep_Freeze.cd567cf175d103ff9bd9698b9a25e776.png",
+        "thumb": "icons/ru/thumbs/Deep_Freeze.cd567cf175d103ff9bd9698b9a25e776.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Grineer T3Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Augustus, Mars Corpus T1Interception",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

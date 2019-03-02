@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51559a",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Narrow_Minded.7f5295adebe0b2e9fa1b71353924f6cb.png",
+    "thumb": "icons/en/thumbs/Narrow_Minded.7f5295adebe0b2e9fa1b71353924f6cb.128x128.png",
+    "icon_format": "port",
+    "url_name": "narrow_minded",
+    "tradable": true,
+    "en": {
+        "item_name": "Narrow Minded",
+        "description": "<p>Narrow Minded increases Power Duration while reducing Power Range of Warframe abilities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Narrow_Minded",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Упрощённое мышление",
+        "description": "<p>Упрощённое мышление — повреждённый мод для варфреймов, который увеличивает длительность действия способности, взамен уменьшая радиус.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BF%D1%80%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Narrow_Minded.bef52e22dd4de05215121d974d7532eb.png",
+        "thumb": "icons/ru/thumbs/Narrow_Minded.bef52e22dd4de05215121d974d7532eb.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

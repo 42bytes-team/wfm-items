@@ -1,0 +1,56 @@
+{
+    "_id": "58b57068eb26db5c3119210c",
+    "tags": [
+        "blueprint",
+        "warframe"
+    ],
+    "icon": "icons/en/Banshee_Prime_Set.a0956816beb733841bce57e69a568cd6.png",
+    "thumb": "icons/en/thumbs/Banshee_Prime_Set.a0956816beb733841bce57e69a568cd6.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "banshee_prime_chassis",
+    "tradable": true,
+    "part_of_set": [
+        "58b57068eb26db5c3119210e",
+        "58b57068eb26db5c3119210a",
+        "58b57068eb26db5c3119210c",
+        "58b57068eb26db5c3119210b",
+        "58b57068eb26db5c3119210d"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Banshee Prime Chassis",
+        "description": "<p>Release date: 28 February 2017</p><p>Banshee Prime is the Prime variant of the Banshee Warframe featuring higher armor, sprint speed, and power values, as well as an additional Naramon Pol polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Banshee/Prime",
+        "drop": [
+            {
+                "name": "Neo B2 Rare",
+                "link": null
+            },
+            {
+                "name": "Neo B1 Rare",
+                "link": null
+            }
+        ],
+        "codex": "Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization."
+    },
+    "ru": {
+        "item_name": "Банши Прайм Каркас",
+        "description": "<p>Банши Прайм представляет из себя легкобронированного и быстрого Варфрейма, который властвует акустикой. Банши ориентированна на нанесение колоссального урона по противнику и поддержки команды. У самой Банши нет способностей, наносящих высокий прямой урон по противнику, однако она может создавать слабые точки противника, попадание по которым будет наносить сверхвысокий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D0%BD%D1%88%D0%B8/%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Neo B2 Rare",
+                "link": null
+            },
+            {
+                "name": "Neo B1 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 100,
+    "trading_tax": 4000
+}

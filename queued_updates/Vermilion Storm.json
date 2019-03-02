@@ -1,0 +1,64 @@
+{
+    "_id": "55c15393e779895d5e78e215",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Vermilion_Storm.0a31bf81d380ac7e5ced4e490fdb46f3.png",
+    "thumb": "icons/en/thumbs/Vermilion_Storm.0a31bf81d380ac7e5ced4e490fdb46f3.128x128.png",
+    "icon_format": "port",
+    "url_name": "vermilion_storm",
+    "tradable": true,
+    "en": {
+        "item_name": "Vermilion Storm",
+        "description": "<p>Vermilion Storm is a Rare Stance mod for Claw weapons.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vermilion_Storm",
+        "drop": [
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            },
+            {
+                "name": "Conclave Weekly Challenges",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Багровый шторм",
+        "description": "<p>Багровый Шторм  — это редкая стойка, предназначенная для оружия ближнего боя типа Когти. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D1%82%D0%BE%D1%80%D0%BC",
+        "icon": "icons/ru/Vermilion_Storm.c9b0ece6a57465d52db9368213bbbbc8.png",
+        "thumb": "icons/ru/thumbs/Vermilion_Storm.c9b0ece6a57465d52db9368213bbbbc8.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            },
+            {
+                "name": "Conclave Weekly Challenges",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

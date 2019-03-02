@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e515639",
+    "tags": [
+        "mod",
+        "archwing melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Furor.071ae1a3bff51fa6de6657046b22617e.png",
+    "thumb": "icons/en/thumbs/Furor.071ae1a3bff51fa6de6657046b22617e.128x128.png",
+    "icon_format": "port",
+    "url_name": "furor",
+    "tradable": true,
+    "en": {
+        "item_name": "Furor",
+        "description": "<p>The Furor mod increases the attack speed of Archwing melee weapons by 2.5% per rank at a maximum of 10% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Furor",
+        "drop": [
+            {
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
+            },
+            {
+                "name": "CorpusCorvette",
+                "link": null
+            },
+            {
+                "name": "CorpusGox",
+                "link": null
+            },
+            {
+                "name": "GrineerShield Dargyn",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Фурор",
+        "description": "<p>Фурор — мод для холодного оружия арчвинга, который увеличивает скорость атаки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D1%83%D1%80%D0%BE%D1%80",
+        "icon": "icons/ru/Furor.17d27be65ae6de92c9fe58c96559cdbb.png",
+        "thumb": "icons/ru/thumbs/Furor.17d27be65ae6de92c9fe58c96559cdbb.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
+            },
+            {
+                "name": "CorpusCorvette",
+                "link": null
+            },
+            {
+                "name": "CorpusGox",
+                "link": null
+            },
+            {
+                "name": "GrineerShield Dargyn",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

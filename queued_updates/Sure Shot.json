@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e51559c",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Sure_Shot.d6761f1901d2e4f8f44d2616ddbb8d57.png",
+    "thumb": "icons/en/thumbs/Sure_Shot.d6761f1901d2e4f8f44d2616ddbb8d57.128x128.png",
+    "icon_format": "port",
+    "url_name": "sure_shot",
+    "tradable": true,
+    "en": {
+        "item_name": "Sure Shot",
+        "description": "<p>Sure Shot increases the Status Chance of Pistols.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sure_Shot",
+        "drop": [
+            {
+                "name": "GrineerScorch",
+                "link": null
+            },
+            {
+                "name": "InfestedElectric Crawler",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Точный выстрел",
+        "description": "<p>Точный Выстрел — необычный мод для вторичного оружия, который увеличивает шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Sure_Shot.1a77821f0b863719bf103a66eeca901f.png",
+        "thumb": "icons/ru/thumbs/Sure_Shot.1a77821f0b863719bf103a66eeca901f.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerScorch",
+                "link": null
+            },
+            {
+                "name": "InfestedElectric Crawler",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

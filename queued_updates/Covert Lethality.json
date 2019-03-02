@@ -1,0 +1,40 @@
+{
+    "_id": "55c15459e779895dd6f10f59",
+    "tags": [
+        "mod",
+        "daggers",
+        "rare"
+    ],
+    "icon": "icons/en/Covert_Lethality.bdddef2fb5c4e8f763467ee054206363.png",
+    "thumb": "icons/en/thumbs/Covert_Lethality.bdddef2fb5c4e8f763467ee054206363.128x128.png",
+    "icon_format": "port",
+    "url_name": "covert_lethality",
+    "tradable": true,
+    "en": {
+        "item_name": "Covert Lethality",
+        "description": "<p>Covert Lethality is a mod that increases the base attack damage of single daggers and deals lethal damage on finishers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Covert_Lethality",
+        "drop": [
+            {
+                "name": "Tier 3Spy vault reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Смертоносная скрытность",
+        "description": "<p>Смертоносная скрытность — редкий мод для одиночных кинжалов, который увеличивает базовый урон или наносит смертельный урон при скрытных добиваниях. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%BE%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Covert_Lethality.d13f2507eba0042591d6bda7c80b04ad.png",
+        "thumb": "icons/ru/thumbs/Covert_Lethality.d13f2507eba0042591d6bda7c80b04ad.128x128.png",
+        "drop": [
+            {
+                "name": "Tier 3Spy vault reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

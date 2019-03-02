@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e51566a",
+    "tags": [
+        "mod",
+        "rifle",
+        "common"
+    ],
+    "icon": "icons/en/Sawtooth_Clip.830e46abe286063df243932fa45de311.png",
+    "thumb": "icons/en/thumbs/Sawtooth_Clip.830e46abe286063df243932fa45de311.128x128.png",
+    "icon_format": "port",
+    "url_name": "sawtooth_clip",
+    "tradable": true,
+    "en": {
+        "item_name": "Sawtooth Clip",
+        "description": "<p>Sawtooth Clip Increases the  Slash damage of Rifles. Not to be confused with Serration which increases all damage types at once.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sawtooth_Clip",
+        "drop": [
+            {
+                "name": "GrineerArid Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зубчатый магазин",
+        "description": "<p>Зубчатый Магазин — обычный мод для основного оружия, который увеличивает  режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D1%83%D0%B1%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Sawtooth_Clip.562a54bb2a6fd83f83e0e23b0026180f.png",
+        "thumb": "icons/ru/thumbs/Sawtooth_Clip.562a54bb2a6fd83f83e0e23b0026180f.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerArid Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Seeker",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

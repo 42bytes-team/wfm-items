@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51560c",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Vicious_Spread.19c08f4fbc9b85fa04676afc1331f63b.png",
+    "thumb": "icons/en/thumbs/Vicious_Spread.19c08f4fbc9b85fa04676afc1331f63b.128x128.png",
+    "icon_format": "port",
+    "url_name": "vicious_spread",
+    "tradable": true,
+    "en": {
+        "item_name": "Vicious Spread",
+        "description": "<p>Vicious Spread increases the damage and spread of shotguns by 15% and 10% per rank to a maximum of 90% and 60% at Rank 5, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vicious_Spread",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Агрессивный разброс",
+        "description": "<p>Агрессивный Разброс — поврежденный мод для дробовиков, который увеличивает урон, взамен уменьшая их точность. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B7%D0%B1%D1%80%D0%BE%D1%81",
+        "icon": "icons/ru/Vicious_Spread.2c6103075cf772b7970f674be614dc43.png",
+        "thumb": "icons/ru/thumbs/Vicious_Spread.2c6103075cf772b7970f674be614dc43.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

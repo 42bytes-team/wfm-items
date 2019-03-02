@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51564f",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Rapid_Resilience.b14f79218a26403aa00409a93f5dcfa0.png",
+    "thumb": "icons/en/thumbs/Rapid_Resilience.b14f79218a26403aa00409a93f5dcfa0.128x128.png",
+    "icon_format": "port",
+    "url_name": "rapid_resilience",
+    "tradable": true,
+    "en": {
+        "item_name": "Rapid Resilience",
+        "description": "<p>The Rapid Resilience mod reduces the time procs affect the player.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rapid_Resilience",
+        "drop": [
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Стремительная стойкость",
+        "description": "<p>Стремительная Стойкость — редкий мод для варфреймов, который уменьшает длительность негативного статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Rapid_Resilience.da58906132a6fa05a16c2798f80f7fa4.png",
+        "thumb": "icons/ru/thumbs/Rapid_Resilience.da58906132a6fa05a16c2798f80f7fa4.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

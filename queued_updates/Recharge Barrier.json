@@ -1,0 +1,40 @@
+{
+    "_id": "554d3f0ce779894445a848f4",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Recharge_Barrier.ac127e80c1c496aba3a9b59072e02f75.png",
+    "thumb": "icons/en/thumbs/Recharge_Barrier.ac127e80c1c496aba3a9b59072e02f75.128x128.png",
+    "icon_format": "port",
+    "url_name": "recharge_barrier",
+    "tradable": true,
+    "en": {
+        "item_name": "Recharge Barrier",
+        "description": "<p>Recharge Barrier is a PvP-exclusive Warframe Augment Mod for Volt's Electric Shield that restores allies' shields when they pass through the barrier. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Recharge_Barrier",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Барьер перезарядки",
+        "description": "<p>Барьер перезарядки — мод-аугмент для варфрейма Вольт и Вольт прайм в режиме конклава, улучшающий его способность электрический щит. Союзники, прошедшие через электрический щит, однократно восстановят себе часть щитов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D1%80%D1%8C%D0%B5%D1%80_%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B8",
+        "icon": "icons/ru/Recharge_Barrier.67ce99791abac1082d57a8af8125ed41.png",
+        "thumb": "icons/ru/thumbs/Recharge_Barrier.67ce99791abac1082d57a8af8125ed41.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

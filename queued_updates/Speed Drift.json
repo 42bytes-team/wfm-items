@@ -1,0 +1,40 @@
+{
+    "_id": "566759c8db7c7a568a8d45c9",
+    "tags": [
+        "mod",
+        "exilus",
+        "rare"
+    ],
+    "icon": "icons/en/Speed_Drift.53a547593da9f3d0310f6c9c0a1bb958.png",
+    "thumb": "icons/en/thumbs/Speed_Drift.53a547593da9f3d0310f6c9c0a1bb958.128x128.png",
+    "icon_format": "port",
+    "url_name": "speed_drift",
+    "tradable": true,
+    "en": {
+        "item_name": "Speed Drift",
+        "description": "<p>Speed Drift is a rare dual-stat Exilus mod that increases sprint speed and casting speed.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Speed_Drift",
+        "drop": [
+            {
+                "name": "Orokin Moon Test",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Скоростное течение",
+        "description": "<p>Скоростное течение — эксилус мод для варфреймов, который увеличивает скорость бега и скорость применения способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Speed_Drift.3163b69c88aff6fc9fd9a660553919b8.png",
+        "thumb": "icons/ru/thumbs/Speed_Drift.3163b69c88aff6fc9fd9a660553919b8.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Moon Test",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

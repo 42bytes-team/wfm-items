@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4e3",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Overcharged.e8dfb3f7bb67ad9b3628d6932a427d46.png",
+    "thumb": "icons/en/thumbs/Overcharged.e8dfb3f7bb67ad9b3628d6932a427d46.128x128.png",
+    "icon_format": "port",
+    "url_name": "overcharged",
+    "tradable": true,
+    "en": {
+        "item_name": "Overcharged",
+        "description": "<p>Overcharged is a PvP-exclusive mod that converts up to 25 respawn Energy to Overshield.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Overcharged",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Перегруженный",
+        "description": "<p>Перегруженный — редкий мод для варфреймов в режиме конклава, который переносит начальную энергию в щит.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
+        "icon": "icons/ru/Overcharged.63535c4f635df9b6766ac24c573c683e.png",
+        "thumb": "icons/ru/thumbs/Overcharged.63535c4f635df9b6766ac24c573c683e.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "5526aec1e779896af9418262",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Afterburn.b80b09df8cb5238b9f09230b76a27d8a.png",
+    "thumb": "icons/en/thumbs/Afterburn.b80b09df8cb5238b9f09230b76a27d8a.128x128.png",
+    "icon_format": "port",
+    "url_name": "afterburn",
+    "tradable": true,
+    "en": {
+        "item_name": "Afterburn",
+        "description": "<p>Afterburn is a Warframe Augment Mod usable in both PvE and PvP for Chroma's Spectral Scream that launches a single damaging elemental attack upon deactivating the ability. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Afterburn",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Последствия горения",
+        "description": "<p>Последствия горения — мод-аугмент для варфрейма Хрома, улучшающий его способность призрачный вопль. Каждая секунда способности добавит определённое количество урона до его лимита.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D0%B3%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D1%8F",
+        "icon": "icons/ru/Afterburn.9898db923c9a82462a699a2888b0d061.png",
+        "thumb": "icons/ru/thumbs/Afterburn.9898db923c9a82462a699a2888b0d061.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

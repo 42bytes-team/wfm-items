@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156a8",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Constitution.f1d2cd4cd1c771e3db5ef3b0c87a5fb3.png",
+    "thumb": "icons/en/thumbs/Constitution.f1d2cd4cd1c771e3db5ef3b0c87a5fb3.128x128.png",
+    "icon_format": "port",
+    "url_name": "constitution",
+    "tradable": true,
+    "en": {
+        "item_name": "Constitution",
+        "description": "<p>Constitution increases Warframe Knockdown Recovery and Power Duration of Warframe abilities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Constitution",
+        "drop": [
+            {
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Телосложение",
+        "description": "<p>Телосложение — гибридный мод для варфреймов, который увеличивает скорость подъёма после падения и длительность способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D0%BB%D0%BE%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Constitution.4ff2f73c78d8391929363b1e2e6aaf06.png",
+        "thumb": "icons/ru/thumbs/Constitution.4ff2f73c78d8391929363b1e2e6aaf06.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode rewardAlerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515597",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Shock_Absorbers.f8b689167fd8fe8c992773d65dcb95fe.png",
+    "thumb": "icons/en/thumbs/Shock_Absorbers.f8b689167fd8fe8c992773d65dcb95fe.128x128.png",
+    "icon_format": "port",
+    "url_name": "shock_absorbers",
+    "tradable": true,
+    "en": {
+        "item_name": "Shock Absorbers",
+        "description": "<p>The Shock Absorbers mod increases a Warframe's damage resistance while knocked down. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shock_Absorbers",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "CorpusShield Osprey",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Амортизаторы",
+        "description": "<p>Амортизаторы — эксилус мод, который уменьшает получаемый урон, в то время, когда игрок сбит с ног.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80%D1%8B",
+        "icon": "icons/ru/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.png",
+        "thumb": "icons/ru/thumbs/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.128x128.png",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "CorpusShield Osprey",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4f7",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Spring-Loaded_Broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.png",
+    "thumb": "icons/en/thumbs/Spring-Loaded_Broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.128x128.png",
+    "icon_format": "port",
+    "url_name": "spring_loaded_broadhead",
+    "tradable": true,
+    "en": {
+        "item_name": "Spring-Loaded Broadhead",
+        "description": "<p>Spring-Loaded Broadhead is a Daikyu-exclusive mod usable in both PvE and PvP that gives the Daikyu a damage bonus against targets 15 meters away or further.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Broadhead",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пружинные наконечники",
+        "description": "<p>Пружинные Наконечники — мод-аугмент для лука Дайкю, который увеличивает урон в том случае, если противник находится в определённом радиусе эффекта мода. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%B8",
+        "icon": "icons/ru/Spring-Loaded_Broadhead.3a74f59b24020d0825517fec047fd4fe.png",
+        "thumb": "icons/ru/thumbs/Spring-Loaded_Broadhead.3a74f59b24020d0825517fec047fd4fe.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

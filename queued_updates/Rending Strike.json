@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156a0",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Rending_Strike.07440fd328749d627d981654c4dd4a84.png",
+    "thumb": "icons/en/thumbs/Rending_Strike.07440fd328749d627d981654c4dd4a84.128x128.png",
+    "icon_format": "port",
+    "url_name": "rending_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Rending Strike",
+        "description": "<p>The Rending Strike mod adds an additional 20%  Puncture per rank and 15%  Slash per rank for a maximum of 80% and 60% at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rending_Strike",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Разрушающий удар",
+        "description": "<p>Разрушающий Удар — гибридный мод для оружия ближнего боя, который увеличивает  пронзающий и  режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Rending_Strike.296a9f8e97bce04104bd8612ec717b1a.png",
+        "thumb": "icons/ru/thumbs/Rending_Strike.296a9f8e97bce04104bd8612ec717b1a.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode reward",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

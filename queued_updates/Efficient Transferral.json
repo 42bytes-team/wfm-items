@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515681",
+    "tags": [
+        "mod",
+        "archwing",
+        "rare"
+    ],
+    "icon": "icons/en/Efficient_Transferral.e195ab0ac5476bfb2666870ce833a462.png",
+    "thumb": "icons/en/thumbs/Efficient_Transferral.e195ab0ac5476bfb2666870ce833a462.128x128.png",
+    "icon_format": "port",
+    "url_name": "efficient_transferral",
+    "tradable": true,
+    "en": {
+        "item_name": "Efficient Transferral",
+        "description": "<p>Efficient Transferral increases Power Duration of Archwing's abilities by 7.5% per rank at a maximum of 30% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Efficient_Transferral",
+        "drop": [
+            {
+                "name": "CorpusAttack Drone",
+                "link": null
+            },
+            {
+                "name": "GrineerDargyn",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Эффективный перенос",
+        "description": "<p>Эффективный Перенос — редкий мод для арчвинга, который увеличивает длительность способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81",
+        "icon": "icons/ru/Efficient_Transferral.2e3793ae9b713807482861f550c738e4.png",
+        "thumb": "icons/ru/thumbs/Efficient_Transferral.2e3793ae9b713807482861f550c738e4.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusAttack Drone",
+                "link": null
+            },
+            {
+                "name": "GrineerDargyn",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

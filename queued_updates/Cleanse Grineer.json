@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e5155df",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Cleanse_Grineer.6272080967d415c1b552b9e824df3cdf.png",
+    "thumb": "icons/en/thumbs/Cleanse_Grineer.6272080967d415c1b552b9e824df3cdf.128x128.png",
+    "icon_format": "port",
+    "url_name": "cleanse_grineer",
+    "tradable": true,
+    "en": {
+        "item_name": "Cleanse Grineer",
+        "description": "<p>The Cleanse Grineer mod increases the base damage of shotguns against Grineer by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cleanse_Grineer",
+        "drop": [
+            {
+                "name": "CorpusTech",
+                "link": null
+            },
+            {
+                "name": "Corpus Warden",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 1Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зачистка: гринир",
+        "description": "<p>Зачистка: Гринир — необычный мод для дробовиков, который увеличивает урон по бойцам  Гринир.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0:_%D0%B3%D1%80%D0%B8%D0%BD%D0%B8%D1%80",
+        "icon": "icons/ru/Cleanse_Grineer.173fc93661fbe35151e9329b11b77a0f.png",
+        "thumb": "icons/ru/thumbs/Cleanse_Grineer.173fc93661fbe35151e9329b11b77a0f.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusTech",
+                "link": null
+            },
+            {
+                "name": "Corpus Warden",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 1Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b29e1133f656cb085d92",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Embedded_Catalyzer.b6ea1f474cd68fcb3ffe93bc0cc24300.png",
+    "thumb": "icons/en/thumbs/Embedded_Catalyzer.b6ea1f474cd68fcb3ffe93bc0cc24300.128x128.png",
+    "icon_format": "port",
+    "url_name": "embedded_catalyzer",
+    "tradable": true,
+    "en": {
+        "item_name": "Embedded Catalyzer",
+        "description": "<p>Embedded Catalyzer is an uncommon Pistol mod that increases Status chance while aiming for a brief time after casting an ability.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Embedded_Catalyzer",
+        "drop": [
+            {
+                "name": "Mania",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Встроенный катализатор",
+        "description": "<p>Встроенный Катализатор — условный мод для вторичного оружия, который увеличивает шанс эффекта статуса при использовании способности варфрейма.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80",
+        "icon": "icons/ru/Embedded_Catalyzer.48caeff8ed870e4a33a7aec24d66554f.png",
+        "thumb": "icons/ru/thumbs/Embedded_Catalyzer.48caeff8ed870e4a33a7aec24d66554f.128x128.png",
+        "drop": [
+            {
+                "name": "Mania",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

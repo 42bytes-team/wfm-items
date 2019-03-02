@@ -1,0 +1,40 @@
+{
+    "_id": "568c17a0c221c673bc088846",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Armored_Acrobatics.b11d5151eae71051909a66fe4d53eb90.png",
+    "thumb": "icons/en/thumbs/Armored_Acrobatics.b11d5151eae71051909a66fe4d53eb90.128x128.png",
+    "icon_format": "port",
+    "url_name": "armored_acrobatics",
+    "tradable": true,
+    "en": {
+        "item_name": "Armored Acrobatics",
+        "description": "<p>Armored Acrobatics is a PvP-exclusive Warframe mod that reduces Mobility and increases Damage Resistance during Bullet Jump.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Armored_Acrobatics",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Бронированная акробатика",
+        "description": "<p>Бронированная акробатика  — условный мод для варфреймов в режиме конклава, который снижает получаемый урон во время выполнения стремительного прыжка, взамен уменьшая мобильность. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BA%D1%80%D0%BE%D0%B1%D0%B0%D1%82%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Armored_Acrobatics.56545c32aa454c154b8aa61b2ea1c7d9.png",
+        "thumb": "icons/ru/thumbs/Armored_Acrobatics.56545c32aa454c154b8aa61b2ea1c7d9.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

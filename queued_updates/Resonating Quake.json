@@ -1,0 +1,48 @@
+{
+    "_id": "5754a307e701ef5844257da7",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Resonating_Quake.02bc8ba11ab6bf320f04755aa6b9a972.png",
+    "thumb": "icons/en/thumbs/Resonating_Quake.02bc8ba11ab6bf320f04755aa6b9a972.128x128.png",
+    "icon_format": "port",
+    "url_name": "resonating_quake",
+    "tradable": true,
+    "en": {
+        "item_name": "Resonating Quake",
+        "description": "<p>Resonating Quake is an Warframe Augment Mod for Banshee that increases Sound Quake's damage, range and energy drain for every second it is active.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Resonating_Quake",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Резонирующий взрыв",
+        "description": "<p>Резонирующий Взрыв - мод-аугмент для варфрейма Банши, улучшающий её способность Звуковой Взрыв. Каждую секунду мод будет увеличивать урон на 60, радиус на 0.5м и поглощение энергии в секунду на 1. На максимальном ранге мода урон способности будет увеличиваться на 100, а радиус на 1м.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BD%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
+        "icon": "icons/ru/Resonating_Quake.fff058f85e8d79e1ceaf1a50443fc44c.png",
+        "thumb": "icons/ru/thumbs/Resonating_Quake.fff058f85e8d79e1ceaf1a50443fc44c.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

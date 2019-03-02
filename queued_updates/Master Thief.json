@@ -1,0 +1,72 @@
+{
+    "_id": "54a74454e779892d5e515634",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Master_Thief.5baf4d4ff0f669f514245a4b30f9b867.png",
+    "thumb": "icons/en/thumbs/Master_Thief.5baf4d4ff0f669f514245a4b30f9b867.128x128.png",
+    "icon_format": "port",
+    "url_name": "master_thief",
+    "tradable": true,
+    "en": {
+        "item_name": "Master Thief",
+        "description": "<p>Master Thief grants a chance of unlocking locked lockers.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Master_Thief",
+        "drop": [
+            {
+                "name": "GrineerScorpion",
+                "link": null
+            },
+            {
+                "name": "Infested Mesa",
+                "link": null
+            },
+            {
+                "name": "Infested Chroma",
+                "link": null
+            },
+            {
+                "name": "Hyena Pack",
+                "link": null
+            },
+            {
+                "name": "Defense Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мастер-вор",
+        "description": "<p>Мастер-Вор — эксилус мод для варфреймов, который с некоторым шансом позволяет открывать запертые шкафчики.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80-%D0%B2%D0%BE%D1%80",
+        "icon": "icons/ru/Master_Thief.99c6e9bf1306768db4381e5d2be3fdd7.png",
+        "thumb": "icons/ru/thumbs/Master_Thief.99c6e9bf1306768db4381e5d2be3fdd7.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerScorpion",
+                "link": null
+            },
+            {
+                "name": "Infested Mesa",
+                "link": null
+            },
+            {
+                "name": "Infested Chroma",
+                "link": null
+            },
+            {
+                "name": "Hyena Pack",
+                "link": null
+            },
+            {
+                "name": "Defense Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

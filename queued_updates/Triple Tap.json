@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a524",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Triple_Tap.14b8847d5ad2021abe36193085a5b8b6.png",
+    "thumb": "icons/en/thumbs/Triple_Tap.14b8847d5ad2021abe36193085a5b8b6.128x128.png",
+    "icon_format": "port",
+    "url_name": "triple_tap",
+    "tradable": true,
+    "en": {
+        "item_name": "Triple Tap",
+        "description": "<p>Triple Tap is PvP-exclusive Burston mod which increases Damage on 2 Hits within 0.2 seconds.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Triple_Tap",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тройное касание",
+        "description": "<p>Тройное Касание — условный мод для винтовки Бёрстон и Бёрстон Прайм в режиме конклава, который увеличивает урон при двух попаданиях в течение 0.2-х секунд, на определённый промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BA%D0%B0%D1%81%D0%B0%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Triple_Tap.8051f59b39c0b93ee3fa85396d48ffa6.png",
+        "thumb": "icons/ru/thumbs/Triple_Tap.8051f59b39c0b93ee3fa85396d48ffa6.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,41 @@
+{
+    "_id": "57c05949d0d9ef638234e4ad",
+    "tags": [
+        "parts",
+        "aura",
+        "blade",
+        "rare"
+    ],
+    "icon": "icons/en/Empowered_Blades.99e396cdb655abbd8cb07ca3901f1079.png",
+    "thumb": "icons/en/thumbs/Empowered_Blades.99e396cdb655abbd8cb07ca3901f1079.128x128.png",
+    "icon_format": "port",
+    "url_name": "empowered_blades",
+    "tradable": true,
+    "en": {
+        "item_name": "Empowered Blades",
+        "description": "<p>Empowered Blades is an aura that increases status chance and status damage (where applicable) of charged melee attacks, at the cost of draining a portion of shields per hit.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Empowered_Blades",
+        "drop": [
+            {
+                "name": "Feyarch Specter",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Запитанные клинки Клинок",
+        "description": "<p>Запитанные клинки — редкая аура, усиливающая заряженные атаки для всех членов команды. Заряженные атаки будут наносить больший урон и иметь повышенный шанс срабатывания негативного статуса на противнике, взамен тратя небольшое количество щитов при её совершении.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Feyarch Specter",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

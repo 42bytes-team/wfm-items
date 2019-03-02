@@ -1,0 +1,48 @@
+{
+    "_id": "567af35fcbfa8f05d076a4cc",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Broad_Eye.c8cea7c86654b0d03289729613f972be.png",
+    "thumb": "icons/en/thumbs/Broad_Eye.c8cea7c86654b0d03289729613f972be.128x128.png",
+    "icon_format": "port",
+    "url_name": "broad_eye",
+    "tradable": true,
+    "en": {
+        "item_name": "Broad Eye",
+        "description": "<p>Broad Eye is a shotgun mod usable in both PvE and PvP that decreases zoom during Aim Glide.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Broad_Eye",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Широкий взор",
+        "description": "<p>Широкий Взор — необычный мод для дробовиков в режиме конклава, который уменьшает приближение прицела при управляемом полёте.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A8%D0%B8%D1%80%D0%BE%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B7%D0%BE%D1%80",
+        "icon": "icons/ru/Broad_Eye.3716395f8f07b3d3e80037caf71c6013.png",
+        "thumb": "icons/ru/thumbs/Broad_Eye.3716395f8f07b3d3e80037caf71c6013.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

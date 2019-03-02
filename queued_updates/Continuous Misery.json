@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e5156f3",
+    "tags": [
+        "mod",
+        "rifle",
+        "common"
+    ],
+    "icon": "icons/en/Continuous_Misery.d7dcb952ea18898c89c0a04c83213b8c.png",
+    "thumb": "icons/en/thumbs/Continuous_Misery.d7dcb952ea18898c89c0a04c83213b8c.128x128.png",
+    "icon_format": "port",
+    "url_name": "continuous_misery",
+    "tradable": true,
+    "en": {
+        "item_name": "Continuous Misery",
+        "description": "<p>Continuous Misery increases the duration of Status Effects inflicted by rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Continuous_Misery",
+        "drop": [
+            {
+                "name": "Sprag",
+                "link": null
+            },
+            {
+                "name": "Ven'kra Tel",
+                "link": null
+            },
+            {
+                "name": "Drekar Hellion",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Непрерывные страдания",
+        "description": "<p>Непрерывные Страдания — обычный мод для основного оружия, который увеличивает длительность эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F",
+        "icon": "icons/ru/Continuous_Misery.e871eea096c2c8d218bf38cb5de95e13.png",
+        "thumb": "icons/ru/thumbs/Continuous_Misery.e871eea096c2c8d218bf38cb5de95e13.128x128.png",
+        "drop": [
+            {
+                "name": "Sprag",
+                "link": null
+            },
+            {
+                "name": "Ven'kra Tel",
+                "link": null
+            },
+            {
+                "name": "Drekar Hellion",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

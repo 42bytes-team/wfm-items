@@ -1,0 +1,88 @@
+{
+    "_id": "54a74454e779892d5e51564b",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Energy_Channel.d69e91b8d709d7369f235efb0384f44f.png",
+    "thumb": "icons/en/thumbs/Energy_Channel.d69e91b8d709d7369f235efb0384f44f.128x128.png",
+    "icon_format": "port",
+    "url_name": "energy_channel",
+    "tradable": true,
+    "en": {
+        "item_name": "Energy Channel",
+        "description": "<p>The Energy Channel mod converts 50% of energy used to bonus damage on next melee attack and stores up to +50 bonus damage per rank, for a maximum of 200% and +200 at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Channel",
+        "drop": [
+            {
+                "name": "Councilor Vay Hek",
+                "link": null
+            },
+            {
+                "name": "Lieutenant Lech Kril",
+                "link": null
+            },
+            {
+                "name": "Phorid",
+                "link": null
+            },
+            {
+                "name": "Stalker",
+                "link": null
+            },
+            {
+                "name": "CorpusMOA",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Энергетический канал",
+        "description": "<p>Энергетический Канал — редкий мод концентрации для оружия ближнего боя, который переводит часть использованной энергии в бонусный урон для следующей атаки в ближнем бою.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB",
+        "icon": "icons/ru/Energy_Channel.485f39c04a647cf676c33c9817833b0f.png",
+        "thumb": "icons/ru/thumbs/Energy_Channel.485f39c04a647cf676c33c9817833b0f.128x128.png",
+        "drop": [
+            {
+                "name": "Councilor Vay Hek",
+                "link": null
+            },
+            {
+                "name": "Lieutenant Lech Kril",
+                "link": null
+            },
+            {
+                "name": "Phorid",
+                "link": null
+            },
+            {
+                "name": "Stalker",
+                "link": null
+            },
+            {
+                "name": "CorpusMOA",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

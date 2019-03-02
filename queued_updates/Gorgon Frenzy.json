@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a50e",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Gorgon_Frenzy.0993e71e3c052de71d6bfe993c4076f7.png",
+    "thumb": "icons/en/thumbs/Gorgon_Frenzy.0993e71e3c052de71d6bfe993c4076f7.128x128.png",
+    "icon_format": "port",
+    "url_name": "gorgon_frenzy",
+    "tradable": true,
+    "en": {
+        "item_name": "Gorgon Frenzy",
+        "description": "<p>Gorgon Frenzy is PvP-exclusive Gorgon mod which increases Fire Rate on Kills.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gorgon_Frenzy",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Горгоново безумие",
+        "description": "<p>Горгоново Безумие — мод для всех версий Горгоны в режиме конклава, который увеличивает скорострельность на определенный промежуток времени при убийстве противника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%BE%D1%80%D0%B3%D0%BE%D0%BD%D0%BE%D0%B2%D0%BE_%D0%B1%D0%B5%D0%B7%D1%83%D0%BC%D0%B8%D0%B5",
+        "icon": "icons/ru/Gorgon_Frenzy.8155a8c6c880a420a2db8633fc7d45ec.png",
+        "thumb": "icons/ru/thumbs/Gorgon_Frenzy.8155a8c6c880a420a2db8633fc7d45ec.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

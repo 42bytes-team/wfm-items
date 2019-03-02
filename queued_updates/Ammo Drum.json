@@ -1,0 +1,112 @@
+{
+    "_id": "54a74454e779892d5e51562f",
+    "tags": [
+        "mod",
+        "rifle",
+        "common"
+    ],
+    "icon": "icons/en/Ammo_Drum.2c5e508c9c2f5b8d199bccbc8dde9491.png",
+    "thumb": "icons/en/thumbs/Ammo_Drum.2c5e508c9c2f5b8d199bccbc8dde9491.128x128.png",
+    "icon_format": "port",
+    "url_name": "ammo_drum",
+    "tradable": true,
+    "en": {
+        "item_name": "Ammo Drum",
+        "description": "<p>Ammo Drum increases the maximum amount of rifle ammunition your Warframe can carry for that weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Drum",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusMOA",
+                "link": null
+            },
+            {
+                "name": "CorpusDenial Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusDrover Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusIsolator Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerHellion Power Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Барабанный магазин",
+        "description": "<p>Барабанный Магазин — обычный мод для основного оружия, который увеличивает максимальное количество боеприпасов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Ammo_Drum.90fb528710198eec03feb163e2ff2c55.png",
+        "thumb": "icons/ru/thumbs/Ammo_Drum.90fb528710198eec03feb163e2ff2c55.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusMOA",
+                "link": null
+            },
+            {
+                "name": "CorpusDenial Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusDrover Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusIsolator Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerHellion Power Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156b4",
+    "tags": [
+        "mod",
+        "warframe",
+        "uncommon"
+    ],
+    "icon": "icons/en/Provoked.d03668dd7faa355653d8c8b691520299.png",
+    "thumb": "icons/en/thumbs/Provoked.d03668dd7faa355653d8c8b691520299.128x128.png",
+    "icon_format": "port",
+    "url_name": "provoked",
+    "tradable": true,
+    "en": {
+        "item_name": "Provoked",
+        "description": "<p>Provoked increases the damage dealt by a Warframe while in bleedout.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Provoked",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Спровоцированный",
+        "description": "<p>Спровоцированный — необычный мод для варфреймов, который увеличивает урон вторичного оружия в то время, когда варфрейм выведен из строя.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9",
+        "icon": "icons/ru/Provoked.14f3fb01098e99ed454369ede09d56ba.png",
+        "thumb": "icons/ru/thumbs/Provoked.14f3fb01098e99ed454369ede09d56ba.128x128.png",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 10,
+    "trading_tax": 4000
+}

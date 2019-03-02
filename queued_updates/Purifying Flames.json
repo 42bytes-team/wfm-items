@@ -1,0 +1,40 @@
+{
+    "_id": "5615432bb66f8371035bfa30",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Purifying_Flames.73a8800c038ea61c537e5714726a6908.png",
+    "thumb": "icons/en/thumbs/Purifying_Flames.73a8800c038ea61c537e5714726a6908.128x128.png",
+    "icon_format": "port",
+    "url_name": "purifying_flames",
+    "tradable": true,
+    "en": {
+        "item_name": "Purifying Flames",
+        "description": "<p>Purifying Flames is a PvP Warframe Augment Mod for Ember's Fire Blast that causes allies who enter the fire to have debuffs removed. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Purifying_Flames",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Очищающее пламя",
+        "description": "<p>Очищающее пламя — мод-аугмент для варфрейма Эмбер и Эмбер прайм в режиме конклава, улучшающий её способность огненный взрыв. Способность будет снимать негативные эффекты всем союзникам, вошедшим в радиус действия способности.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%87%D0%B8%D1%89%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
+        "icon": "icons/ru/Purifying_Flames.f4231b3f8e21c02d962cc822ee1368cc.png",
+        "thumb": "icons/ru/thumbs/Purifying_Flames.f4231b3f8e21c02d962cc822ee1368cc.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

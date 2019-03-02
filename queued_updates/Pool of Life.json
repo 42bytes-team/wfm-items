@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51564c",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Pool_of_Life.86c8aad96e3d49f9d2dbb0a3be6d7ae1.png",
+    "thumb": "icons/en/thumbs/Pool_of_Life.86c8aad96e3d49f9d2dbb0a3be6d7ae1.128x128.png",
+    "icon_format": "port",
+    "url_name": "pool_of_life",
+    "tradable": true,
+    "en": {
+        "item_name": "Pool of Life",
+        "description": "<p>Pool Of Life is a Warframe Augment Mod that makes enemies marked by Trinity's Well Of Life drop Health Orbs upon death, with a chance to drop an additional Energy Orb.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pool_of_Life",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Жизненный пруд",
+        "description": "<p>Жизненный Пруд — мод-аугмент для варфрейма Тринити и Тринити Прайм, улучшающий её способность Источник Жизни. Враг, на котором была задействована способность, после смерти роняет сферу здоровья и с определенным шансом сферу энергии.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%83%D0%B4",
+        "icon": "icons/ru/Pool_of_Life.61819d55fa32eb55e62603eee7ea13c4.png",
+        "thumb": "icons/ru/thumbs/Pool_of_Life.61819d55fa32eb55e62603eee7ea13c4.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

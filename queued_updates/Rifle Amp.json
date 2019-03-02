@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515605",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Rifle_Amp.393176c3d05878ea1226069551af65a0.png",
+    "thumb": "icons/en/thumbs/Rifle_Amp.393176c3d05878ea1226069551af65a0.128x128.png",
+    "icon_format": "port",
+    "url_name": "rifle_amp",
+    "tradable": true,
+    "en": {
+        "item_name": "Rifle Amp",
+        "description": "<p>Rifle Amp is an Aura that increases the damage dealt with rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Amp",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Усилитель: винтовка",
+        "description": "<p>Усилитель: винтовка — необычная аура, увеличивающая урон основного оружия для всех членов команды.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B0",
+        "icon": "icons/ru/Rifle_Amp.bdfb49a9108ff0aef7295963a70581a7.png",
+        "thumb": "icons/ru/thumbs/Rifle_Amp.bdfb49a9108ff0aef7295963a70581a7.128x128.png",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

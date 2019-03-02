@@ -1,0 +1,72 @@
+{
+    "_id": "54a74454e779892d5e515667",
+    "tags": [
+        "mod",
+        "sentinel",
+        "uncommon"
+    ],
+    "icon": "icons/en/Spare_Parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
+    "thumb": "icons/en/thumbs/Spare_Parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png",
+    "icon_format": "port",
+    "url_name": "spare_parts",
+    "tradable": true,
+    "en": {
+        "item_name": "Spare Parts",
+        "description": "<p>Spare Parts gives the Sentinel a chance to drop rare items on death.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spare_Parts",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Corrupted Bombard",
+                "link": null
+            },
+            {
+                "name": "Corrupted Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Corrupted Nullifier",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Запасные части",
+        "description": "<p>Запасные Части — необычный мод для стражей, который позволяет стражу с некоторым шансом выронить ресурсы после его смерти. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D1%87%D0%B0%D1%81%D1%82%D0%B8",
+        "icon": "icons/ru/Spare_Parts.28296f8ff8aa2b378e4869dc63707d30.png",
+        "thumb": "icons/ru/thumbs/Spare_Parts.28296f8ff8aa2b378e4869dc63707d30.128x128.png",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Corrupted Bombard",
+                "link": null
+            },
+            {
+                "name": "Corrupted Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Corrupted Nullifier",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

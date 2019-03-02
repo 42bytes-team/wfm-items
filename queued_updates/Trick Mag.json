@@ -1,0 +1,120 @@
+{
+    "_id": "54a74454e779892d5e5155f0",
+    "tags": [
+        "mod",
+        "pistol",
+        "common"
+    ],
+    "icon": "icons/en/Trick_Mag.17992c866f1b256de786611bb2e8c7b2.png",
+    "thumb": "icons/en/thumbs/Trick_Mag.17992c866f1b256de786611bb2e8c7b2.128x128.png",
+    "icon_format": "port",
+    "url_name": "trick_mag",
+    "tradable": true,
+    "en": {
+        "item_name": "Trick Mag",
+        "description": "<p>The Trick Mag increases maximum ammo of a pistol by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Trick_Mag",
+        "drop": [
+            {
+                "name": "Lynx Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusRailgun MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusShield Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusShockwave MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "GrineerGuardsman",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller Sentry",
+                "link": null
+            },
+            {
+                "name": "InfestedLobber Crawler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Crawler",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Хитрый магазин",
+        "description": "<p>Хитрый Магазин — обычный мод для вторичного оружия, который увеличивает максимальное количество патронов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%B8%D1%82%D1%80%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Trick_Mag.66ad7082298d62b1a8c23d7a3db10470.png",
+        "thumb": "icons/ru/thumbs/Trick_Mag.66ad7082298d62b1a8c23d7a3db10470.128x128.png",
+        "drop": [
+            {
+                "name": "Lynx Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusRailgun MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusShield Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusShockwave MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "GrineerGuardsman",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller",
+                "link": null
+            },
+            {
+                "name": "GrineerRoller Sentry",
+                "link": null
+            },
+            {
+                "name": "InfestedLobber Crawler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Crawler",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

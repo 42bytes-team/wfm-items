@@ -1,0 +1,40 @@
+{
+    "_id": "5740c1909d238d4a03d28519",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Air_Thrusters.43dba0311d632578830cd0537a965aa2.png",
+    "thumb": "icons/en/thumbs/Air_Thrusters.43dba0311d632578830cd0537a965aa2.128x128.png",
+    "icon_format": "port",
+    "url_name": "air_thrusters",
+    "tradable": true,
+    "en": {
+        "item_name": "Air Thrusters",
+        "description": "<p>Air Thrusters is a PvP-exclusive Warframe mod that reduces Mobility and gives the player a Slide Boost while airborne.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Air_Thrusters",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Воздушные двигатели",
+        "description": "<p>Воздушные двигатели — эксилус мод для варфреймов в режиме конклава, который увеличивает скольжение в воздухе, взамен уменьшая мобильность варфрейма.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D0%B8",
+        "icon": "icons/ru/Air_Thrusters.dba36cf7e1c7611cb61f037ff42e1dbb.png",
+        "thumb": "icons/ru/thumbs/Air_Thrusters.dba36cf7e1c7611cb61f037ff42e1dbb.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

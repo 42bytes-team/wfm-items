@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155f6",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Vile_Precision.8b4bb8b7e4906de9e2c199af1a4407d5.png",
+    "thumb": "icons/en/thumbs/Vile_Precision.8b4bb8b7e4906de9e2c199af1a4407d5.128x128.png",
+    "icon_format": "port",
+    "url_name": "vile_precision",
+    "tradable": true,
+    "en": {
+        "item_name": "Vile Precision",
+        "description": "<p>The Vile Precision mod decreases weapon recoil by -10% per rank and fire rate by -6% per rank of primary weapons for a maximum of -60% weapon recoil and -36% fire rate at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vile_Precision",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ужасающая меткость",
+        "description": "<p>Ужасающая Меткость — повреждённый мод для основного оружия, который снижает отдачу, взамен уменьшая скорострельность оружия.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B6%D0%B0%D1%81%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BC%D0%B5%D1%82%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Vile_Precision.bb07880f239ceda3f354a64e8ff6e0bd.png",
+        "thumb": "icons/ru/thumbs/Vile_Precision.bb07880f239ceda3f354a64e8ff6e0bd.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

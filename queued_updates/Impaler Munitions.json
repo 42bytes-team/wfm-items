@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4da",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Impaler_Munitions.5bbb1a625def945ac6d5ca590f947fd6.png",
+    "thumb": "icons/en/thumbs/Impaler_Munitions.5bbb1a625def945ac6d5ca590f947fd6.128x128.png",
+    "icon_format": "port",
+    "url_name": "impaler_munitions",
+    "tradable": true,
+    "en": {
+        "item_name": "Impaler Munitions",
+        "description": "<p>Impaler Munitions is a PvP exclusive Pistol Mod that converts an amount of physical damage to Puncture damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Impaler_Munitions",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Игольчатые боеприпасы",
+        "description": "<p>Игольчатые Боеприпасы — необычный мод для вторичного оружия в режиме конклава, который преобразует % базового урона в  пронзающий.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B3%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D1%8B%D0%B5_%D0%B1%D0%BE%D0%B5%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%81%D1%8B",
+        "icon": "icons/ru/Impaler_Munitions.249de9b6a52ff0bfd6adab70b3b5b1b1.png",
+        "thumb": "icons/ru/thumbs/Impaler_Munitions.249de9b6a52ff0bfd6adab70b3b5b1b1.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

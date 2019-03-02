@@ -1,0 +1,40 @@
+{
+    "_id": "5729bd02cb59ed5a9b484e8c",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Acid_Shells.b43df89f2ae8597841c0087d02df2314.png",
+    "thumb": "icons/en/thumbs/Acid_Shells.b43df89f2ae8597841c0087d02df2314.128x128.png",
+    "icon_format": "port",
+    "url_name": "acid_shells",
+    "tradable": true,
+    "en": {
+        "item_name": "Acid Shells",
+        "description": "<p>Acid Shells is a Sobek-exclusive mod that causes enemies killed by the Sobek to explode, dealing a flat amount of  Corrosive damage plus a percentage of the enemy's maximum health in an area of effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Acid_Shells",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кислотные снаряды",
+        "description": "<p>Кислотные снаряды — мод-аугмент для оружия Собек, который позволяет при убийстве врагов взрывать их тела, нанося урон  коррозией в определённом радиусе от убитого противника.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
+        "icon": "icons/ru/Acid_Shells.b4c6474b71b447ead333f739721d36fa.png",
+        "thumb": "icons/ru/thumbs/Acid_Shells.b4c6474b71b447ead333f739721d36fa.128x128.png",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

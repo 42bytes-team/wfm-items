@@ -1,0 +1,48 @@
+{
+    "_id": "57c20990022d3f62c0d81aa9",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Path_of_Statues.56d82cf8e4dad50d1fe7dc748f03df1d.png",
+    "thumb": "icons/en/thumbs/Path_of_Statues.56d82cf8e4dad50d1fe7dc748f03df1d.128x128.png",
+    "icon_format": "port",
+    "url_name": "path_of_statues",
+    "tradable": true,
+    "en": {
+        "item_name": "Path of Statues",
+        "description": "<p>Path of Statues is a Warframe Augment Mod for Atlas, that makes Landslide leave a petrifying path for a short period.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Path_of_Statues",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тропа статуй",
+        "description": "<p>Тропа статуй - мод для Атласа, изменяющий способность Оползень. Оползень оставляет след, который обращает врагов в камень.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D0%B9",
+        "icon": "icons/ru/Path_of_Statues.11350ba0e1e8f153d2cda4b604fa7771.png",
+        "thumb": "icons/ru/thumbs/Path_of_Statues.11350ba0e1e8f153d2cda4b604fa7771.128x128.png",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

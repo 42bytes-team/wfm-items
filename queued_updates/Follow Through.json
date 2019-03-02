@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4d7",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Follow_Through.c4f54158e0f340645e9f79d974dba7d9.png",
+    "thumb": "icons/en/thumbs/Follow_Through.c4f54158e0f340645e9f79d974dba7d9.128x128.png",
+    "icon_format": "port",
+    "url_name": "follow_through",
+    "tradable": true,
+    "en": {
+        "item_name": "Follow Through",
+        "description": "<p>Follow Through is a Warframe mod for PvP that grants +5 energy on Respawn </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Follow_Through",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Завершение начатого",
+        "description": "<p>Завершение начатого — мод для варфреймов в режиме конклава, который мгновенно восстанавливает некоторое количество энергии после возрождения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D0%BE%D0%B3%D0%BE",
+        "icon": "icons/ru/Follow_Through.8c53937a9ac1fb7f8d866b86228a5211.png",
+        "thumb": "icons/ru/thumbs/Follow_Through.8c53937a9ac1fb7f8d866b86228a5211.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

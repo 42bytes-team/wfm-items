@@ -1,0 +1,39 @@
+{
+    "_id": "56dac57b5cc639de0a45c51e",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Antimatter_Mine.384adc9bfe518c61363ea6c5640c89ee.png",
+    "thumb": "icons/en/thumbs/Antimatter_Mine.384adc9bfe518c61363ea6c5640c89ee.128x128.png",
+    "icon_format": "port",
+    "url_name": "antimatter_mine",
+    "tradable": true,
+    "en": {
+        "item_name": "Antimatter Mine",
+        "description": "<p>Antimatter Mine is a Warframe Augment Mod for Nova's Antimatter Drop in PvP which creates a fully charged stationary orb, that either explodes after 6 seconds or on enemy proximity. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Antimatter_Mine",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Залежь антивещества",
+        "description": "<p>Залежь антивещества — мод-аугмент для варфрейма Нова и Нова прайм в режиме конклава, улучшающий её способность сброс антивещества. Изначально способность полностью заряжена, но её взрыв произойдёт только спустя некоторое время, или при столкновении с противником.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BB%D0%B5%D0%B6%D1%8C_%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0",
+        "icon": "icons/ru/Antimatter_Mine.6624d3cc9845a9b9060a02f2cf0b3172.png",
+        "thumb": "icons/ru/thumbs/Antimatter_Mine.6624d3cc9845a9b9060a02f2cf0b3172.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

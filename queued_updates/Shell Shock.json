@@ -1,0 +1,80 @@
+{
+    "_id": "54a74454e779892d5e515638",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Shell_Shock.35bf2750cb8660baea04267adab60b34.png",
+    "thumb": "icons/en/thumbs/Shell_Shock.35bf2750cb8660baea04267adab60b34.128x128.png",
+    "icon_format": "port",
+    "url_name": "shell_shock",
+    "tradable": true,
+    "en": {
+        "item_name": "Shell Shock",
+        "description": "<p>The Shell Shock mod increases both the  Electricity damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Shock",
+        "drop": [
+            {
+                "name": "Tethra's Doom Reward",
+                "link": null
+            },
+            {
+                "name": "Operation: Mutalist Incursions Reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            },
+            {
+                "name": "Project Undermine Reward",
+                "link": null
+            },
+            {
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
+            },
+            {
+                "name": "One Thousand Cuts Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Контузия",
+        "description": "<p>Контузия — гибридрный мод для дробовиков, который увеличивает  электрический урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D1%8F",
+        "icon": "icons/ru/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.png",
+        "thumb": "icons/ru/thumbs/Shell_Shock.8c6f3f6b976657b8b200ea4b1f353e19.128x128.png",
+        "drop": [
+            {
+                "name": "Tethra's Doom Reward",
+                "link": null
+            },
+            {
+                "name": "Operation: Mutalist Incursions Reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            },
+            {
+                "name": "Project Undermine Reward",
+                "link": null
+            },
+            {
+                "name": "Hive Sabotage Cache Reward",
+                "link": null
+            },
+            {
+                "name": "One Thousand Cuts Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

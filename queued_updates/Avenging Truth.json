@@ -1,0 +1,47 @@
+{
+    "_id": "5911f11d97a0add8e9d5da51",
+    "tags": [
+        "mod",
+        "silva & aegis"
+    ],
+    "icon": "icons/en/Avenging_Truth.78f187d18567a17c8f76d1c8cdbd5ef3.png",
+    "thumb": "icons/en/thumbs/Avenging_Truth.78f187d18567a17c8f76d1c8cdbd5ef3.128x128.png",
+    "icon_format": "port",
+    "url_name": "avenging_truth",
+    "tradable": true,
+    "en": {
+        "item_name": "Avenging Truth",
+        "description": "<p>Avenging Truth allows Silva & Aegis to absorb a percentage of incoming damage while blocking. Damage absorbed this way will be stored as extra damage for the next charge attack. It also adds a Truth effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Avenging_Truth",
+        "drop": [
+            {
+                "name": "Operation: Ambulas Reborn",
+                "link": null
+            },
+            {
+                "name": "Arbiters of Hexis Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мстительная Правда",
+        "description": "<p>Мод-Аугмент для оружия Сильва и Эгида, который накапливает заблокированный урон и усиливает заряженную атаку. Даёт прирост синдикат-эффекта — Правда.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D0%B0",
+        "icon": "icons/ru/Avenging_Truth.846efa48a583a2ca0bfa03f04728896b.png",
+        "thumb": "icons/ru/thumbs/Avenging_Truth.846efa48a583a2ca0bfa03f04728896b.128x128.png",
+        "drop": [
+            {
+                "name": "Operation: Ambulas Reborn",
+                "link": null
+            },
+            {
+                "name": "Arbiters of Hexis Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

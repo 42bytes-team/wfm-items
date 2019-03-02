@@ -1,0 +1,112 @@
+{
+    "_id": "54a74454e779892d5e5155ca",
+    "tags": [
+        "mod",
+        "pistol",
+        "common"
+    ],
+    "icon": "icons/en/Pistol_Gambit.b7912cda548f169c61b0102350caa3ad.png",
+    "thumb": "icons/en/thumbs/Pistol_Gambit.b7912cda548f169c61b0102350caa3ad.128x128.png",
+    "icon_format": "port",
+    "url_name": "pistol_gambit",
+    "tradable": true,
+    "en": {
+        "item_name": "Pistol Gambit",
+        "description": "<p>The Pistol Gambit mod increases the critical hit chance of a pistol by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Gambit",
+        "drop": [
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerEviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerTrooper",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Trooper",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пистолетный гамбит",
+        "description": "<p>Пистолетный Гамбит — обычный мод для вторичного оружия, который  увеличивает шанс критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%BC%D0%B1%D0%B8%D1%82",
+        "icon": "icons/ru/Pistol_Gambit.79f0186abc6150ac7c05108c2faa3de9.png",
+        "thumb": "icons/ru/thumbs/Pistol_Gambit.79f0186abc6150ac7c05108c2faa3de9.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerEviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerTrooper",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Trooper",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

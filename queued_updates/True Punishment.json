@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e51568f",
+    "tags": [
+        "mod",
+        "melee",
+        "common"
+    ],
+    "icon": "icons/en/True_Punishment.c59acae5a0429f8e1f9db6bdc0b7c6b0.png",
+    "thumb": "icons/en/thumbs/True_Punishment.c59acae5a0429f8e1f9db6bdc0b7c6b0.128x128.png",
+    "icon_format": "port",
+    "url_name": "true_punishment",
+    "tradable": true,
+    "en": {
+        "item_name": "True Punishment",
+        "description": "<p>While Channeling is active, the True Punishment mod increases a melee weapon's Critical hit chance but decreases Channeling efficiency.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/True_Punishment",
+        "drop": [
+            {
+                "name": "Dark Sectors Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Истинное наказание",
+        "description": "<p>Истинное Наказание —  мод концентрации для оружия ближнего боя, который увеличивает шанс нанесения критического урона, взамен уменьшая эффективность концентрации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/True_Punishment.2070a54681b5b4e4fe57b6e1f2643504.png",
+        "thumb": "icons/ru/thumbs/True_Punishment.2070a54681b5b4e4fe57b6e1f2643504.128x128.png",
+        "drop": [
+            {
+                "name": "Dark Sectors Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Dark Sectors Excavation Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

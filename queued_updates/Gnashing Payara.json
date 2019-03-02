@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51568b",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Gnashing_Payara.376c7788c5604a5109534a1695b2503d.png",
+    "thumb": "icons/en/thumbs/Gnashing_Payara.376c7788c5604a5109534a1695b2503d.128x128.png",
+    "icon_format": "port",
+    "url_name": "gnashing_payara",
+    "tradable": true,
+    "en": {
+        "item_name": "Gnashing Payara",
+        "description": "<p>Gnashing Payara is a Stance Mod for dual daggers that deals spinning attacks, stabs and slashes. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gnashing_Payara",
+        "drop": [
+            {
+                "name": "CorpusElite Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Скрежешущий гидролик",
+        "description": "<p>Скрежешущий Гидролик — это редкая стойка, предназначенная для оружия ближнего боя класса Парные кинжалы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D1%80%D0%B5%D0%B6%D0%B5%D1%88%D1%83%D1%89%D0%B8%D0%B9_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D0%BB%D0%B8%D0%BA",
+        "icon": "icons/ru/Gnashing_Payara.376ee3b0ea60e05fb58ed7056604173f.png",
+        "thumb": "icons/ru/thumbs/Gnashing_Payara.376ee3b0ea60e05fb58ed7056604173f.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusElite Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

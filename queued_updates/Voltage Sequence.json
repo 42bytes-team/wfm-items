@@ -1,0 +1,47 @@
+{
+    "_id": "5911f11d97a0add8e9d5da4e",
+    "tags": [
+        "mod",
+        "lanka"
+    ],
+    "icon": "icons/en/Voltage_Sequence.65e42495eb08f41e8bbeb35b041e981a.png",
+    "thumb": "icons/en/thumbs/Voltage_Sequence.65e42495eb08f41e8bbeb35b041e981a.128x128.png",
+    "icon_format": "port",
+    "url_name": "voltage_sequence",
+    "tradable": true,
+    "en": {
+        "item_name": "Voltage Sequence",
+        "description": "<p>Voltage Sequence turns flying enemies killed by Lanka into electric traps for a short duration. It also adds a Sequence effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Voltage_Sequence",
+        "drop": [
+            {
+                "name": "Operation: Ambulas Reborn",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Последовательность Напряжения",
+        "description": "<p>Последовательность Напряжения — Мод-Аугмент для оружия Ланка, который преобразует убитого летающего врага в ловушку и даёт прирост синдикат-эффекта — Последовательность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%9D%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F",
+        "icon": "icons/ru/Voltage_Sequence.126dca38357c6c1484b7c748e0bb07c2.png",
+        "thumb": "icons/ru/thumbs/Voltage_Sequence.126dca38357c6c1484b7c748e0bb07c2.128x128.png",
+        "drop": [
+            {
+                "name": "Операция: Возрождение Амбуласа",
+                "link": null
+            },
+            {
+                "name": "Последовательность Перрина",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

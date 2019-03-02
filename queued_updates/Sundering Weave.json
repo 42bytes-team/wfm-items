@@ -1,0 +1,80 @@
+{
+    "_id": "54a74454e779892d5e5155b5",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Sundering_Weave.bbee29e4bef621557278830ca7186a6a.png",
+    "thumb": "icons/en/thumbs/Sundering_Weave.bbee29e4bef621557278830ca7186a6a.128x128.png",
+    "icon_format": "port",
+    "url_name": "sundering_weave",
+    "tradable": true,
+    "en": {
+        "item_name": "Sundering Weave",
+        "description": "<p>It specializes in steady strikes combined with forward-striking finishers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sundering_Weave",
+        "drop": [
+            {
+                "name": "GrineerArid Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerEviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerTrooper",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Рассекающий узор",
+        "description": "<p>Рассекающий Узор — это необычная стойка, предназначенная для оружия ближнего боя класса Мачете. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B7%D0%BE%D1%80",
+        "icon": "icons/ru/Sundering_Weave.d6bb046c7a59ea1b7f4f6e0187e7ad91.png",
+        "thumb": "icons/ru/thumbs/Sundering_Weave.d6bb046c7a59ea1b7f4f6e0187e7ad91.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerArid Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerEviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerTrooper",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

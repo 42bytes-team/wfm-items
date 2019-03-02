@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b2a91133f656cb085d94",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Nano-Applicator.ec520af73a56f8c1db97dafface96ddc.png",
+    "thumb": "icons/en/thumbs/Nano-Applicator.ec520af73a56f8c1db97dafface96ddc.128x128.png",
+    "icon_format": "port",
+    "url_name": "nano_applicator",
+    "tradable": true,
+    "en": {
+        "item_name": "Nano-Applicator",
+        "description": "<p>Nano-Applicator is a rare Shotgun mod that increases Status chance while aiming for a brief time after casting an ability.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Nano-Applicator",
+        "drop": [
+            {
+                "name": "Mania",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нано-Аппликатор",
+        "description": "<p>Нано-Аппликатор — условный мод для дробовиков, который увеличивает шанс срабатывания эффекта статуса при прицеливании на определенный промежуток времени после использования способности.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D0%BD%D0%BE-%D0%90%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80",
+        "icon": "icons/ru/Nano-Applicator.f29d06a70aa625c96ea457564fa9ca58.png",
+        "thumb": "icons/ru/thumbs/Nano-Applicator.f29d06a70aa625c96ea457564fa9ca58.128x128.png",
+        "drop": [
+            {
+                "name": "Mania",
+                "link": null
+            },
+            {
+                "name": "Misery",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

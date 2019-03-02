@@ -1,0 +1,39 @@
+{
+    "_id": "5800c901c021d9dc0a9f891b",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Cunning_Aspect.e96626645e49485235fb748ede495988.png",
+    "thumb": "icons/en/thumbs/Cunning_Aspect.e96626645e49485235fb748ede495988.128x128.png",
+    "icon_format": "port",
+    "url_name": "cunning_aspect",
+    "tradable": true,
+    "en": {
+        "item_name": "Cunning Aspect",
+        "description": "<p>Cunning Aspect is a PvP exclusive Stance mod for Rapiers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cunning_Aspect",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Хитрый аспект",
+        "description": "<p>Хитрый Аспект — необычная стойка в режиме конклава, предназначенная для оружия ближнего боя класса рапиры.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%B8%D1%82%D1%80%D1%8B%D0%B9_%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82",
+        "icon": "icons/ru/Cunning_Aspect.c42a9b6107481e6a0d3dc3a038378c61.png",
+        "thumb": "icons/ru/thumbs/Cunning_Aspect.c42a9b6107481e6a0d3dc3a038378c61.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "trading_tax": 4000
+}

@@ -1,0 +1,136 @@
+{
+    "_id": "54a74454e779892d5e515686",
+    "tags": [
+        "mod",
+        "shotgun",
+        "common"
+    ],
+    "icon": "icons/en/Blunderbuss.f8df9459d8032ae3006453260a938a77.png",
+    "thumb": "icons/en/thumbs/Blunderbuss.f8df9459d8032ae3006453260a938a77.128x128.png",
+    "icon_format": "port",
+    "url_name": "blunderbuss",
+    "tradable": true,
+    "en": {
+        "item_name": "Blunderbuss",
+        "description": "<p>The Blunderbuss increases critical chance of a shotgun by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Blunderbuss",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "Razorback",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerCommander",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerHeavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Grineer Warden",
+                "link": null
+            },
+            {
+                "name": "InfestedLobber Crawler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Crawler",
+                "link": null
+            },
+            {
+                "name": "Corrupted Warden",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мушкетон",
+        "description": "<p>Мушкетон — обычный мод для дробовиков, который увеличивает шанс критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%83%D1%88%D0%BA%D0%B5%D1%82%D0%BE%D0%BD",
+        "icon": "icons/ru/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.png",
+        "thumb": "icons/ru/thumbs/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.128x128.png",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "Razorback",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerCommander",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerHeavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Grineer Warden",
+                "link": null
+            },
+            {
+                "name": "InfestedLobber Crawler",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Crawler",
+                "link": null
+            },
+            {
+                "name": "Corrupted Warden",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

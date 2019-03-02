@@ -1,0 +1,47 @@
+{
+    "_id": "59eb9b0952f90ed715e14144",
+    "tags": [
+        "mod",
+        "swords"
+    ],
+    "icon": "icons/en/Swooping_Falcon.f21a348782f3613ef0c5d9e4d4dc9191.png",
+    "thumb": "icons/en/thumbs/Swooping_Falcon.f21a348782f3613ef0c5d9e4d4dc9191.128x128.png",
+    "icon_format": "port",
+    "url_name": "swooping_falcon",
+    "tradable": true,
+    "en": {
+        "item_name": "Swooping Falcon",
+        "description": "<p>Swooping Falcon is a stance mod for swords</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Swooping_Falcon",
+        "drop": [
+            {
+                "name": "Bounty (40-60)",
+                "link": null
+            },
+            {
+                "name": "Aerial Commander (0.02%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пикирующий Сокол",
+        "description": "<p>Пикирующий Сокол — это редкая стойка, предназначенная для оружия ближнего боя класса Мечи. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B8%D0%BA%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB",
+        "icon": "icons/ru/Swooping_Falcon.7698e3b0d5c2926ca1220e1d6a0bd900.png",
+        "thumb": "icons/ru/thumbs/Swooping_Falcon.7698e3b0d5c2926ca1220e1d6a0bd900.128x128.png",
+        "drop": [
+            {
+                "name": "Bounty (40-60)",
+                "link": null
+            },
+            {
+                "name": "Aerial Commander (0.02%)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

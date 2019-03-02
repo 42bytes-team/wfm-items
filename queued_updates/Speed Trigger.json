@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515625",
+    "tags": [
+        "mod",
+        "rifle",
+        "uncommon"
+    ],
+    "icon": "icons/en/Speed_Trigger.ae1332c42356a11560f0c6878258e5c9.png",
+    "thumb": "icons/en/thumbs/Speed_Trigger.ae1332c42356a11560f0c6878258e5c9.128x128.png",
+    "icon_format": "port",
+    "url_name": "speed_trigger",
+    "tradable": true,
+    "en": {
+        "item_name": "Speed Trigger",
+        "description": "<p>The Speed Trigger mod increases a primary weapon's fire rate by 10% per rank for a maximum of 60% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Speed_Trigger",
+        "drop": [
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Скоростной курок",
+        "description": "<p>Скоростной Курок — необычный мод для основного оружия, увеличивает скорострельность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D0%BA%D1%83%D1%80%D0%BE%D0%BA",
+        "icon": "icons/ru/Speed_Trigger.26b2d93955f8747a32beed3c33ef125e.png",
+        "thumb": "icons/ru/thumbs/Speed_Trigger.26b2d93955f8747a32beed3c33ef125e.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

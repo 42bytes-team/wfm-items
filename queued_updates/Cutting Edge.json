@@ -1,0 +1,104 @@
+{
+    "_id": "54a74454e779892d5e5155d9",
+    "tags": [
+        "mod",
+        "archwing melee",
+        "common"
+    ],
+    "icon": "icons/en/Cutting_Edge.23befea83d877ef8878df22fd1c32dea.png",
+    "thumb": "icons/en/thumbs/Cutting_Edge.23befea83d877ef8878df22fd1c32dea.128x128.png",
+    "icon_format": "port",
+    "url_name": "cutting_edge",
+    "tradable": true,
+    "en": {
+        "item_name": "Cutting Edge",
+        "description": "<p>The Cutting Edge mod increases melee damage of an Archwing melee weapon by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cutting_Edge",
+        "drop": [
+            {
+                "name": "CorpusFrigate",
+                "link": null
+            },
+            {
+                "name": "CorpusPenta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusQuanta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusRanger",
+                "link": null
+            },
+            {
+                "name": "GrineerDreg",
+                "link": null
+            },
+            {
+                "name": "GrineerOgma",
+                "link": null
+            },
+            {
+                "name": "InfestedAttack Mutalist",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Режущая грань",
+        "description": "<p>Режущая Грань — обычный мод для оружия ближнего боя арчвинга, который увеличивает базовый урон оружия.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B5%D0%B6%D1%83%D1%89%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%BD%D1%8C",
+        "icon": "icons/ru/Cutting_Edge.5ea4ef49742b3292b1a6428b0e4baf58.png",
+        "thumb": "icons/ru/thumbs/Cutting_Edge.5ea4ef49742b3292b1a6428b0e4baf58.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusFrigate",
+                "link": null
+            },
+            {
+                "name": "CorpusPenta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusQuanta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusRanger",
+                "link": null
+            },
+            {
+                "name": "GrineerDreg",
+                "link": null
+            },
+            {
+                "name": "GrineerOgma",
+                "link": null
+            },
+            {
+                "name": "InfestedAttack Mutalist",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

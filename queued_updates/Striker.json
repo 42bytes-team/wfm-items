@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515647",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Striker.8b16b6c928d0e2325b3c4a0d450e9f3b.png",
+    "thumb": "icons/en/thumbs/Striker.8b16b6c928d0e2325b3c4a0d450e9f3b.128x128.png",
+    "icon_format": "port",
+    "url_name": "striker",
+    "tradable": true,
+    "en": {
+        "item_name": "Striker",
+        "description": "<p>Striker mod allows Carrier to attack the first visible enemy in range.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Striker",
+        "drop": [
+            {
+                "name": "Corrupted MOA",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Гарпунер",
+        "description": "<p>Гарпунер — мод-заповедь для стража Носитель, дающий ему возможность атаковать ближайших врагов в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B0%D1%80%D0%BF%D1%83%D0%BD%D0%B5%D1%80",
+        "icon": "icons/ru/Striker.4fff5ad81c0f62d8290829fb746c3048.png",
+        "thumb": "icons/ru/thumbs/Striker.4fff5ad81c0f62d8290829fb746c3048.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted MOA",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

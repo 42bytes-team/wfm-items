@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51567c",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Gleaming_Talon.d891c21d066a48485059c35cf0d55214.png",
+    "thumb": "icons/en/thumbs/Gleaming_Talon.d891c21d066a48485059c35cf0d55214.128x128.png",
+    "icon_format": "port",
+    "url_name": "gleaming_talon",
+    "tradable": true,
+    "en": {
+        "item_name": "Gleaming Talon",
+        "description": "<p>Gleaming Talon is one of two available Stance mods for Glaives, which combines whirling attacks with explosive weapon throws. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gleaming_Talon",
+        "drop": [
+            {
+                "name": "CorpusLeech Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusSapping Osprey",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мерцающий коготь",
+        "description": "<p>Мерцающий Коготь — это необычная стойка, предназначенная для оружия класса Глефы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%80%D1%86%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B3%D0%BE%D1%82%D1%8C",
+        "icon": "icons/ru/Gleaming_Talon.57189cf5795c977421443dd15bf5665e.png",
+        "thumb": "icons/ru/thumbs/Gleaming_Talon.57189cf5795c977421443dd15bf5665e.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusLeech Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusSapping Osprey",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

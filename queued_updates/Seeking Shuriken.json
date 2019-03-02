@@ -1,0 +1,48 @@
+{
+    "_id": "54e0c9eee7798903744178aa",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Seeking_Shuriken.815652a6488e8e4df314308ad4a872d4.png",
+    "thumb": "icons/en/thumbs/Seeking_Shuriken.815652a6488e8e4df314308ad4a872d4.128x128.png",
+    "icon_format": "port",
+    "url_name": "seeking_shuriken",
+    "tradable": true,
+    "en": {
+        "item_name": "Seeking Shuriken",
+        "description": "<p>Seeking Shuriken is an Ash Warframe Augment Mod that allows Shuriken to temporarily reduce the armor of their targets.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Seeking_Shuriken",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ищущий сюрикен",
+        "description": "<p>Ищущий Сюрикен  — мод-аугмент для варфрейма Эш и Эш Прайм, улучшающий его способность Сюрикен. У врагов, подверженных эффекту умения, на некоторый промежуток времени снижается броня.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%89%D1%83%D1%89%D0%B8%D0%B9_%D1%81%D1%8E%D1%80%D0%B8%D0%BA%D0%B5%D0%BD",
+        "icon": "icons/ru/Seeking_Shuriken.df66b5560b525ca8afcd6bf50bd2b605.png",
+        "thumb": "icons/ru/thumbs/Seeking_Shuriken.df66b5560b525ca8afcd6bf50bd2b605.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

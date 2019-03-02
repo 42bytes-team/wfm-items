@@ -1,0 +1,72 @@
+{
+    "_id": "54a74455e779892d5e5156a6",
+    "tags": [
+        "mod",
+        "warframe",
+        "uncommon"
+    ],
+    "icon": "icons/en/Rush.f8e228622bcae9b591c244d0c257d2b8.png",
+    "thumb": "icons/en/thumbs/Rush.f8e228622bcae9b591c244d0c257d2b8.128x128.png",
+    "icon_format": "port",
+    "url_name": "rush",
+    "tradable": true,
+    "en": {
+        "item_name": "Rush",
+        "description": "<p>The Rush mod increases the speed at which a Warframe moves while sprinting. Rush also increases the distance that both vertical and horizontal wall running maneuvers can cover.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rush",
+        "drop": [
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 1Defense",
+                "link": null
+            },
+            {
+                "name": "Grineer Capture Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Спешка",
+        "description": "<p>Спешка — эксилус мод для варфреймов, который увеличивает скорость спринта. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BF%D0%B5%D1%88%D0%BA%D0%B0",
+        "icon": "icons/ru/Rush.9110fb38319fa26bfe89f3d082d30e98.png",
+        "thumb": "icons/ru/thumbs/Rush.9110fb38319fa26bfe89f3d082d30e98.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 1Defense",
+                "link": null
+            },
+            {
+                "name": "Grineer Capture Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

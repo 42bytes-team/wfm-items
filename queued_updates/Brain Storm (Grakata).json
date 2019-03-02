@@ -1,0 +1,39 @@
+{
+    "_id": "56dac5ac5cc639de0a45c526",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Brain_Storm_(Grakata).85cc50bf4d62733e3b35cd2f0e3c7b7b.png",
+    "thumb": "icons/en/thumbs/Brain_Storm_(Grakata).85cc50bf4d62733e3b35cd2f0e3c7b7b.128x128.png",
+    "icon_format": "port",
+    "url_name": "brain_storm_(grakata)",
+    "tradable": true,
+    "en": {
+        "item_name": "Brain Storm (Grakata)",
+        "description": "<p>Brain Storm is PvP-exclusive Grakata mod that increases Ammo Efficiency for 0.5 second on headshot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Brain_Storm",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мозговой штурм",
+        "description": "<p>Мозговой Штурм - условный мод для основного оружия Граката в режиме конклава, который снижает затраты боеприпасов на 25% на 0.13 секунды при попадании в голову. На максимальном ранге мода стрельба абсолютно не потребляет боеприпасов в течение 0.5 секунд.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D1%88%D1%82%D1%83%D1%80%D0%BC",
+        "icon": "icons/ru/Brain_Storm_(Grakata).a688cdf04068bb4f29df9f7b5d61ccb4.png",
+        "thumb": "icons/ru/thumbs/Brain_Storm_(Grakata).a688cdf04068bb4f29df9f7b5d61ccb4.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

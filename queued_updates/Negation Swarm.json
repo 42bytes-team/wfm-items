@@ -1,0 +1,47 @@
+{
+    "_id": "58f0ee99aa4b70452a173071",
+    "tags": [
+        "mod",
+        "inaros"
+    ],
+    "icon": "icons/en/Negation_Swarm.32cd331f70a7a848636a1bb777b96201.png",
+    "thumb": "icons/en/thumbs/Negation_Swarm.32cd331f70a7a848636a1bb777b96201.128x128.png",
+    "icon_format": "port",
+    "url_name": "negation_swarm",
+    "tradable": true,
+    "en": {
+        "item_name": "Negation Swarm",
+        "description": "<p>Negation Swarm is a Warframe Augment Mod for Inaros that allows Scarab Swarm to block incoming Status Effects, draining a percentage of bonus Armor for every Status Effect blocked.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Negation_Swarm",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Отрицающий Рой",
+        "description": "",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%82%D1%80%D0%B8%D1%86%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%A0%D0%BE%D0%B9",
+        "icon": "icons/ru/Negation_Swarm.8afaca02faebc8c4b9dc81fec6a61c31.png",
+        "thumb": "icons/ru/thumbs/Negation_Swarm.8afaca02faebc8c4b9dc81fec6a61c31.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

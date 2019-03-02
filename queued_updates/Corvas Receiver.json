@@ -1,0 +1,55 @@
+{
+    "_id": "578d33bf34003bbbb9e20922",
+    "tags": [
+        "parts",
+        "archwing",
+        "receiver"
+    ],
+    "icon": "icons/en/Corvas_Set.0248b2ad006d7ad6a460cc03eac4baa7.png",
+    "thumb": "icons/en/thumbs/Corvas_Set.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/receiver_128x128.png",
+    "url_name": "corvas_receiver",
+    "tradable": true,
+    "part_of_set": [
+        "582b0f890af25410b099f7ff",
+        "578d33bf34003bbbb9e20921",
+        "578d33bf34003bbbb9e20922",
+        "578d33bf34003bbbb9e20923"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Corvas Receiver",
+        "description": "<p>The Corvas flak cannon is a heavy shotgun designed for exclusive use with the Archwing flight system, introduced in Update 15.0. It can be rapidly fired to saturate an area with pellets, or charged to release a more powerful scattershot.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Corvas",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ],
+        "codex": "When fully charged, this flak-cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors."
+    },
+    "ru": {
+        "item_name": "Корвас Приемник",
+        "description": "<p>Полностью заряженная эта осколочная пушка наносит огромный урон. Идеально подходил для уничтожения быстродвижущихся перехватчиков.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D1%80%D0%B2%D0%B0%D1%81",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

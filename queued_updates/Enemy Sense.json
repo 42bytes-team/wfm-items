@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515624",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Enemy_Sense.601975f5f1d8963777585aacd6f9ba82.png",
+    "thumb": "icons/en/thumbs/Enemy_Sense.601975f5f1d8963777585aacd6f9ba82.128x128.png",
+    "icon_format": "port",
+    "url_name": "enemy_sense",
+    "tradable": true,
+    "en": {
+        "item_name": "Enemy Sense",
+        "description": "<p>Enemy Sense displays all enemies within its radius with red markers on the mini-map. This includes Latchers thrown by Grineer Seekers and Maggots spawned by Brood Mothers, but does not include cameras and turrets present in Corpus missions.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Enemy_Sense",
+        "drop": [
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "Guardsman Eximus",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Инстинкт охотника",
+        "description": "<p>Инстинкт Охотника — эксилус мод для варфреймов, который отображает врагов на мини-карте в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D1%82_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Enemy_Sense.e3ebd86fd80a0622cdb08581fbdbbbd8.png",
+        "thumb": "icons/ru/thumbs/Enemy_Sense.e3ebd86fd80a0622cdb08581fbdbbbd8.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "Guardsman Eximus",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

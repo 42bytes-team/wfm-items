@@ -1,0 +1,72 @@
+{
+    "_id": "54a74454e779892d5e5155d4",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Power_Throw.3f539579816deca71f6af6d661a5b08d.png",
+    "thumb": "icons/en/thumbs/Power_Throw.3f539579816deca71f6af6d661a5b08d.128x128.png",
+    "icon_format": "port",
+    "url_name": "power_throw",
+    "tradable": true,
+    "en": {
+        "item_name": "Power Throw",
+        "description": "<p>Power Throw adds Punch Through distance to the charge attacks of Glaive weapons. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Power_Throw",
+        "drop": [
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer",
+                "link": null
+            },
+            {
+                "name": "Tier 3Survival",
+                "link": null
+            },
+            {
+                "name": "Dark Sector Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Могучий бросок",
+        "description": "<p>Могучий Бросок — редкий мод для оружия ближнего боя типа Глефы, который увеличивает пронзание метательного удара.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%B3%D1%83%D1%87%D0%B8%D0%B9_%D0%B1%D1%80%D0%BE%D1%81%D0%BE%D0%BA",
+        "icon": "icons/ru/Power_Throw.a8383e969239dedc669e9d9b9db10dd2.png",
+        "thumb": "icons/ru/thumbs/Power_Throw.a8383e969239dedc669e9d9b9db10dd2.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer",
+                "link": null
+            },
+            {
+                "name": "Tier 3Survival",
+                "link": null
+            },
+            {
+                "name": "Dark Sector Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

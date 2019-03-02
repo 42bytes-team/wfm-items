@@ -1,0 +1,43 @@
+{
+    "_id": "5a0ef3fc10bc40007cce1c8d",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Hunter_Command.cf8a8c9c68407be2be4c09089815569d.png",
+    "thumb": "icons/en/thumbs/Hunter_Command.cf8a8c9c68407be2be4c09089815569d.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunter_command",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunter Command",
+        "description": "<p>Hunter Command is a set mod dropped from the Hemocyte during Operation: Plague Star that causes your companion to attack the nearest enemy effected by Slash b Slash Status.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Command",
+        "drop": [
+            {
+                "name": "Hemocyte",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Приказ Охотника",
+        "description": "<p>Приказ Охотника — редкий мод для Кубрау и Кават. Компаньон будет атаковать ближайшего врага подверженного статусу Разрез черный разреза в течении 6 секунд.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7_%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Hunter_Command.83b483e06a0cb4cd72cf77d1d88e477a.png",
+        "thumb": "icons/ru/thumbs/Hunter_Command.83b483e06a0cb4cd72cf77d1d88e477a.128x128.png",
+        "drop": [
+            {
+                "name": "Гемоцит",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B5%D0%BC%D0%BE%D1%86%D0%B8%D1%82"
+            },
+            {
+                "name": "Операция: Чумная Звезда",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F:_%D0%A7%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0"
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

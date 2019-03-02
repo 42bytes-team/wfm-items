@@ -1,0 +1,39 @@
+{
+    "_id": "5bc1ab93b919f200c18c10ef",
+    "tags": [
+        "mod",
+        "warframe"
+    ],
+    "icon": "icons/en/Adaptation.9dba90bb600779763d3c5e81f83b6dc9.png",
+    "thumb": "icons/en/thumbs/Adaptation.9dba90bb600779763d3c5e81f83b6dc9.128x128.png",
+    "icon_format": "port",
+    "url_name": "adaptation",
+    "tradable": true,
+    "en": {
+        "item_name": "Adaptation",
+        "description": "Adaptation is an Warframe mod that grants damage resistance to the last damage type received to the player by 10% for 20s. This effect can stack up to 90% resistance.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Adaptation",
+        "drop": [
+            {
+                "name": "Arbitrations",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Adaptation",
+        "description": "Adaptation is an Warframe mod that grants damage resistance to the last damage type received to the player by 10% for 20s. This effect can stack up to 90% resistance.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Adaptation",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Arbitrations",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

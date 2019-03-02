@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155db",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Vile_Acceleration.099e12a749ebb259d6cf079c8608297f.png",
+    "thumb": "icons/en/thumbs/Vile_Acceleration.099e12a749ebb259d6cf079c8608297f.128x128.png",
+    "icon_format": "port",
+    "url_name": "vile_acceleration",
+    "tradable": true,
+    "en": {
+        "item_name": "Vile Acceleration",
+        "description": "<p>Vile Acceleration is a Corrupted Mod for rifles and Bows that increases their Fire Rate by 15% per rank to 90% at rank 5 but decreases damage by -2.5% per rank to -15% at rank 5. The increase in fire rate is doubled for bows. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vile_Acceleration",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Злодейская акселерация",
+        "description": "<p>Злодейская Акселерация — повреждённый мод для основного оружия, который увеличивает скорострельность, взамен уменьшая урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%BB%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BA%D1%81%D0%B5%D0%BB%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+        "icon": "icons/ru/Vile_Acceleration.2bcd7acaa1425b6182d63a49927a4f38.png",
+        "thumb": "icons/ru/thumbs/Vile_Acceleration.2bcd7acaa1425b6182d63a49927a4f38.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

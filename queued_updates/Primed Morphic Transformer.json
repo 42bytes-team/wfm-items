@@ -1,0 +1,41 @@
+{
+    "_id": "5655c4e5b66f832e25b8ce7b",
+    "tags": [
+        "mod",
+        "archwing",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Morphic_Transformer.d9aafc2cca4aed29c725c5b131874ffe.png",
+    "thumb": "icons/en/thumbs/Primed_Morphic_Transformer.d9aafc2cca4aed29c725c5b131874ffe.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_morphic_transformer",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Morphic Transformer",
+        "description": "<p>Primed Morphic Transformer is the primed version of the Morphic Transformer mod, which increases the Power Strength of Archwing abilities.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Morphic_Transformer",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Морф-трансформер прайм",
+        "description": "<p>Морф-трансформер прайм — легендарный мод для арчвингов, который увеличивает силу способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D1%80%D1%84-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Morphic_Transformer.9f6144506a10214f2764beb801287b38.png",
+        "thumb": "icons/ru/thumbs/Primed_Morphic_Transformer.9f6144506a10214f2764beb801287b38.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

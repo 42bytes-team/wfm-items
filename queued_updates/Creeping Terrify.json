@@ -1,0 +1,48 @@
+{
+    "_id": "576459bc3ae92d545fd1e7b9",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Creeping_Terrify.1e5e17ddfeb4274998f69cc73a1b398d.png",
+    "thumb": "icons/en/thumbs/Creeping_Terrify.1e5e17ddfeb4274998f69cc73a1b398d.128x128.png",
+    "icon_format": "port",
+    "url_name": "creeping_terrify",
+    "tradable": true,
+    "en": {
+        "item_name": "Creeping Terrify",
+        "description": "<p>Creeping Terrify is a Warframe Augment Mod for Nekros' Terrify that slows down affected enemies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Creeping_Terrify",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Леденящее устрашение",
+        "description": "<p>Леденящее Устрашение — мод-аугмент для варфрейма Некрос, улучшающий его способность Устрашение. Замедляет врагов, подверженных эффекту умения. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D0%B4%D0%B5%D0%BD%D1%8F%D1%89%D0%B5%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Creeping_Terrify.f810ea00558092d01a5941cd609b7cf7.png",
+        "thumb": "icons/ru/thumbs/Creeping_Terrify.f810ea00558092d01a5941cd609b7cf7.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

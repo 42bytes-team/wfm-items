@@ -1,0 +1,48 @@
+{
+    "_id": "576459d33ae92d545fd1e7ba",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Infiltrate.c37581f44e0fd82263fee16fb0dfd3bd.png",
+    "thumb": "icons/en/thumbs/Infiltrate.c37581f44e0fd82263fee16fb0dfd3bd.128x128.png",
+    "icon_format": "port",
+    "url_name": "infiltrate",
+    "tradable": true,
+    "en": {
+        "item_name": "Infiltrate",
+        "description": "<p>Infiltrate is a Warframe Augment Mod for Ivara that allows her to pass through security barriers unharmed, and increases her movement speed while Prowl is active. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Infiltrate",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Проникновение",
+        "description": "<p>Проникновение — мод-аугмент для варфрейма Ивара, улучшающий её способность Обыск. Ивара получает способность миновать любые лазерные преграды, а также получает прибавку к скорости передвижения во время активной способности Обыск. Учитывайте, что на бонус к скорости передвижения влияет сила способностей Ивары (т.е. при 100% силы будет бонус в +25%, при 200% силы бонус будет составлять +50% и т.д.)</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Infiltrate.b67a260b06d363b1c994910ed277c7f1.png",
+        "thumb": "icons/ru/thumbs/Infiltrate.b67a260b06d363b1c994910ed277c7f1.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

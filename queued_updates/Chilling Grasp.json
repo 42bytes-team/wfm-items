@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155bf",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Chilling_Grasp.7dfb6e5744d0c7356011ad64c0e2d039.png",
+    "thumb": "icons/en/thumbs/Chilling_Grasp.7dfb6e5744d0c7356011ad64c0e2d039.128x128.png",
+    "icon_format": "port",
+    "url_name": "chilling_grasp",
+    "tradable": true,
+    "en": {
+        "item_name": "Chilling Grasp",
+        "description": "<p>The Chilling Grasp mod increases  Cold damage on shotguns by 15% per rank for a maximum of 90% at rank 5. The picture shows a Frost with a Strun, and a frozen Corpus Crewman.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Chilling_Grasp",
+        "drop": [
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ледяное прикосновение",
+        "description": "<p>Ледяное Прикосновение — необычный мод для дробовиков, который увеличивает  ледяной урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Chilling_Grasp.b9cb00e2d7abb6091494194dac604e36.png",
+        "thumb": "icons/ru/thumbs/Chilling_Grasp.b9cb00e2d7abb6091494194dac604e36.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusProd Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

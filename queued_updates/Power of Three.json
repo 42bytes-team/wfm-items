@@ -1,0 +1,39 @@
+{
+    "_id": "56dac5945cc639de0a45c523",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Power_of_Three.f147d10eef80bc05208279a4d0d44a06.png",
+    "thumb": "icons/en/thumbs/Power_of_Three.f147d10eef80bc05208279a4d0d44a06.128x128.png",
+    "icon_format": "port",
+    "url_name": "power_of_three",
+    "tradable": true,
+    "en": {
+        "item_name": "Power of Three",
+        "description": "<p>Power of Three is a Warframe Augment Mod for Ivara's Quiver in PvP that fires three additional arrows but consumes extra energy. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Power_of_Three",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сила трёх",
+        "description": "<p>Сила трёх — мод-аугмент для варфрейма Ивара в режиме конклава, улучшающий её способность колчан. Ивара выстреливает 3 стрелы, вместо одной, но те потребляют больше энергии.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B8%D0%BB%D0%B0_%D1%82%D1%80%D1%91%D1%85",
+        "icon": "icons/ru/Power_of_Three.c6e0cc7efc16bccfc906c1d0be5a7985.png",
+        "thumb": "icons/ru/thumbs/Power_of_Three.c6e0cc7efc16bccfc906c1d0be5a7985.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

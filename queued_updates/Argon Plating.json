@@ -1,0 +1,72 @@
+{
+    "_id": "54a74455e779892d5e5156cd",
+    "tags": [
+        "mod",
+        "archwing",
+        "common"
+    ],
+    "icon": "icons/en/Argon_Plating.fa183b27e0d58aba993369ad910ab455.png",
+    "thumb": "icons/en/thumbs/Argon_Plating.fa183b27e0d58aba993369ad910ab455.128x128.png",
+    "icon_format": "port",
+    "url_name": "argon_plating",
+    "tradable": true,
+    "en": {
+        "item_name": "Argon Plating",
+        "description": "<p>The Argon Plating mod increases an Archwing's armor by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Argon_Plating",
+        "drop": [
+            {
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
+            },
+            {
+                "name": "GrineerDreg",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedAttack Mutalist",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Броня из аргона",
+        "description": "<p>Броня из Аргона — обычный мод для арчвинга, который увеличивает показатель брони.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%80%D0%BE%D0%BD%D1%8F_%D0%B8%D0%B7_%D0%B0%D1%80%D0%B3%D0%BE%D0%BD%D0%B0",
+        "icon": "icons/ru/Argon_Plating.a04e19b08f861e0f3b564b25e628d37f.png",
+        "thumb": "icons/ru/thumbs/Argon_Plating.a04e19b08f861e0f3b564b25e628d37f.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusCarrier (Enemy)",
+                "link": null
+            },
+            {
+                "name": "GrineerDreg",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedAttack Mutalist",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

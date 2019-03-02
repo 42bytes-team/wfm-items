@@ -1,0 +1,40 @@
+{
+    "_id": "5788fad84fff472f131a1361",
+    "tags": [
+        "mod",
+        "kavat",
+        "rare"
+    ],
+    "icon": "icons/en/Cat's_Eye.ec8680ee8d86067156c3d818b72cb1e5.png",
+    "thumb": "icons/en/thumbs/Cat's_Eye.ec8680ee8d86067156c3d818b72cb1e5.128x128.png",
+    "icon_format": "port",
+    "url_name": "cats_eye",
+    "tradable": true,
+    "en": {
+        "item_name": "Cat's Eye",
+        "description": "<p>Cat's eye mod allows a Adarza Kavat to provide an additive Critical Hit buff to nearby allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cat's_Eye",
+        "drop": [
+            {
+                "name": "Feral Kavat",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кошачий глаз",
+        "description": "<p>Кошачий Глаз — мод-заповедь для кавата Адарза, позволяющий ему увеличить шанс нанесения критического удара для всех игроков поблизости на определённый промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D1%88%D0%B0%D1%87%D0%B8%D0%B9_%D0%B3%D0%BB%D0%B0%D0%B7",
+        "icon": "icons/ru/Cat's_Eye.252e312f634b867208abfc4cda61fb30.png",
+        "thumb": "icons/ru/thumbs/Cat's_Eye.252e312f634b867208abfc4cda61fb30.128x128.png",
+        "drop": [
+            {
+                "name": "Feral Kavat",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

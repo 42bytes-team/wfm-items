@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515668",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
+    "thumb": "icons/en/thumbs/Vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png",
+    "icon_format": "port",
+    "url_name": "vaporize",
+    "tradable": true,
+    "en": {
+        "item_name": "Vaporize",
+        "description": "<p>Vaporize allows Dethcube to periodically fire a powerful beam weapon at nearby foes.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vaporize",
+        "drop": [
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Испаритель",
+        "description": "<p>Испаритель — мод-заповедь для Стража Куб Смерти, позволяющий ему наносить урон  радиацией любому, кто будет находиться на определенном расстоянии от хозяина.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D1%81%D0%BF%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Vaporize.a90e337030a8bd33ac5783fb60fe2420.png",
+        "thumb": "icons/ru/thumbs/Vaporize.a90e337030a8bd33ac5783fb60fe2420.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

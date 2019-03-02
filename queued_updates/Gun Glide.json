@@ -1,0 +1,48 @@
+{
+    "_id": "567af35fcbfa8f05d076a4d8",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Gun_Glide.2dd3e5bb22e91fae14f1b78aaa764d5d.png",
+    "thumb": "icons/en/thumbs/Gun_Glide.2dd3e5bb22e91fae14f1b78aaa764d5d.128x128.png",
+    "icon_format": "port",
+    "url_name": "gun_glide",
+    "tradable": true,
+    "en": {
+        "item_name": "Gun Glide",
+        "description": "<p>Gun Glide is a rifle mod usable in both PvE and PvP that reduces recoil and spread when firing while sliding.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gun_Glide",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Оружейное скольжение",
+        "description": "<p>Оружейное Скольжение — условный мод для основного оружия в режиме конклава, который увеличивает скорость перезарядки и уменьшает разброс при подкате.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Gun_Glide.2f550e2e9dcd6718165157d0236e6896.png",
+        "thumb": "icons/ru/thumbs/Gun_Glide.2f550e2e9dcd6718165157d0236e6896.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

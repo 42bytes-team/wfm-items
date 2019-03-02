@@ -1,0 +1,39 @@
+{
+    "_id": "59dfeb6c115f1d887cfd7ac0",
+    "tags": [
+        "mod",
+        "augur"
+    ],
+    "icon": "icons/en/Augur_Message.dab0bb53ba6150cdfacb10e0355bca4a.png",
+    "thumb": "icons/en/thumbs/Augur_Message.dab0bb53ba6150cdfacb10e0355bca4a.128x128.png",
+    "icon_format": "port",
+    "url_name": "augur_message",
+    "tradable": true,
+    "en": {
+        "item_name": "Augur Message",
+        "description": "<p>Augur Message is a set mod available from bounties on the Plains of Eidolon. It increases the Ability Duration of the Warframe by +24% at max rank, with the full Set Bonus applied 150% of the Energy spent with the Abilities is converted into Shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Message",
+        "drop": [
+            {
+                "name": "Recon Commander (1.14%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сообщение Предвестника",
+        "description": "<p>Сообщение Предвестника — обычный мод для Варфрейма, который увеличивает длительность способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Augur_Message.18fcf75c2106382a579a0076373464aa.png",
+        "thumb": "icons/ru/thumbs/Augur_Message.18fcf75c2106382a579a0076373464aa.128x128.png",
+        "drop": [
+            {
+                "name": "Командир Разведки (1.14%)",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%80_%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%BA%D0%B8"
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

@@ -1,0 +1,46 @@
+{
+    "_id": "59eb9b0952f90ed715e14143",
+    "tags": [
+        "mod",
+        "polearms"
+    ],
+    "icon": "icons/en/Twirling_Spire.67fe342c880bda80d815f6eae1eec325.png",
+    "thumb": "icons/en/thumbs/Twirling_Spire.67fe342c880bda80d815f6eae1eec325.128x128.png",
+    "icon_format": "port",
+    "url_name": "twirling_spire",
+    "tradable": true,
+    "en": {
+        "item_name": "Twirling Spire",
+        "description": "<p>Twirling Spire is a Stance Mod for polearms that allows for a mix of sweeping attacks with precise strikes.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Twirling_Spire",
+        "drop": [
+            {
+                "name": "Bounty (40-60)",
+                "link": null
+            },
+            {
+                "name": "Recon Commander (0.02%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Витой Шпиль",
+        "description": "<p>Витой Шпиль — это редкая стойка, предназначенная для оружия ближнего боя класса Копья. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B8%D1%82%D0%BE%D0%B9_%D0%A8%D0%BF%D0%B8%D0%BB%D1%8C",
+        "icon": "icons/ru/Twirling_Spire.99d5124c5b0ef2f0010d2094fd628e34.png",
+        "thumb": "icons/ru/thumbs/Twirling_Spire.99d5124c5b0ef2f0010d2094fd628e34.128x128.png",
+        "drop": [
+            {
+                "name": "Bounty (40-60)",
+                "link": null
+            },
+            {
+                "name": "Recon Commander (0.02%)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "trading_tax": 8000
+}

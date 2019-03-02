@@ -1,0 +1,42 @@
+{
+    "_id": "54dd265ce7798934d026f6fc",
+    "tags": [
+        "void trader",
+        "melee",
+        "mod",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Reach.190fc0fb5b26e6b8a2f5be6927099fa0.png",
+    "thumb": "icons/en/thumbs/Primed_Reach.190fc0fb5b26e6b8a2f5be6927099fa0.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_reach",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Reach",
+        "description": "<p>Primed Reach is the Primed version of the Reach mod, which extends the attack range of Melee weapons. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Reach",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Размах прайм",
+        "description": "<p>Размах прайм — легендарный мод для оружия ближнего боя, который увеличивает радиус поражения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B0%D1%85_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Reach.ef34b03dbcd80b4a40d7927c607cc8af.png",
+        "thumb": "icons/ru/thumbs/Primed_Reach.ef34b03dbcd80b4a40d7927c607cc8af.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

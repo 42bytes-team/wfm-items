@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e5156e8",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Toxic_Barrage.47b3693994df124d36bc7525be30b374.png",
+    "thumb": "icons/en/thumbs/Toxic_Barrage.47b3693994df124d36bc7525be30b374.128x128.png",
+    "icon_format": "port",
+    "url_name": "toxic_barrage",
+    "tradable": true,
+    "en": {
+        "item_name": "Toxic Barrage",
+        "description": "<p>The Toxic Barrage mod increases both the  Toxin damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Toxic_Barrage",
+        "drop": [
+            {
+                "name": "Reward fromThe Cicero Crisis",
+                "link": null
+            },
+            {
+                "name": "Captain Vor (Corrupted)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Токсичный шквал",
+        "description": "<p>Токсичный Шквал — гибридный мод для дробовиков, который увеличивает  токсичный урон шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%88%D0%BA%D0%B2%D0%B0%D0%BB",
+        "icon": "icons/ru/Toxic_Barrage.87020e810efa1d381f73af9f0d315be4.png",
+        "thumb": "icons/ru/thumbs/Toxic_Barrage.87020e810efa1d381f73af9f0d315be4.128x128.png",
+        "drop": [
+            {
+                "name": "Reward fromThe Cicero Crisis",
+                "link": null
+            },
+            {
+                "name": "Captain Vor (Corrupted)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

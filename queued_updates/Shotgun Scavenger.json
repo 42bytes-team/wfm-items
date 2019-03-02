@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156d3",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Shotgun_Scavenger.1f23255c80dbcc3c34e4505c9479f931.png",
+    "thumb": "icons/en/thumbs/Shotgun_Scavenger.1f23255c80dbcc3c34e4505c9479f931.128x128.png",
+    "icon_format": "port",
+    "url_name": "shotgun_scavenger",
+    "tradable": true,
+    "en": {
+        "item_name": "Shotgun Scavenger",
+        "description": "<p>Shotgun Scavenger is an Aura that increases the amount of shotgun ammo recovered per drop.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shotgun_Scavenger",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Добытчик: дробовик",
+        "description": "<p>Добытчик: дробовик — необычная аура, которая увеличивает количество подбираемых патронов для дробовика.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA:_%D0%B4%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B8%D0%BA",
+        "icon": "icons/ru/Shotgun_Scavenger.5097bdbb9251cff5a0717129ae0812e5.png",
+        "thumb": "icons/ru/thumbs/Shotgun_Scavenger.5097bdbb9251cff5a0717129ae0812e5.128x128.png",
+        "drop": [
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

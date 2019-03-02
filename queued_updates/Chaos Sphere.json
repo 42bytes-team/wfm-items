@@ -1,0 +1,48 @@
+{
+    "_id": "5615432bb66f8371035bfa26",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Chaos_Sphere.4194f4d65e462bfc107592b025aef339.png",
+    "thumb": "icons/en/thumbs/Chaos_Sphere.4194f4d65e462bfc107592b025aef339.128x128.png",
+    "icon_format": "port",
+    "url_name": "chaos_sphere",
+    "tradable": true,
+    "en": {
+        "item_name": "Chaos Sphere",
+        "description": "<p>Chaos Sphere is a Warframe Augment Mod for Nyx that allows Chaos to create a circular radius that affects enemies entering within its range for a fraction of its duration. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Chaos_Sphere",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сфера хаоса",
+        "description": "<p>Сфера Хаоса — мод-аугмент для варфрейма Никс и Никс Прайм, улучшающий ее способность Хаос.  Враги, вошедшие в радиус действия способности также будут подвержены Хаосу. При этом, радиус эффекта со временем сокращается. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%B0_%D1%85%D0%B0%D0%BE%D1%81%D0%B0",
+        "icon": "icons/ru/Chaos_Sphere.0817b4d140831b93701d6b2593da45f1.png",
+        "thumb": "icons/ru/thumbs/Chaos_Sphere.0817b4d140831b93701d6b2593da45f1.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

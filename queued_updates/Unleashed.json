@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155ed",
+    "tags": [
+        "mod",
+        "kubrow",
+        "rare"
+    ],
+    "icon": "icons/en/Unleashed.288fb815d754cd11dc9cce471441492d.png",
+    "thumb": "icons/en/thumbs/Unleashed.288fb815d754cd11dc9cce471441492d.128x128.png",
+    "icon_format": "port",
+    "url_name": "unleashed",
+    "tradable": true,
+    "en": {
+        "item_name": "Unleashed",
+        "description": "<p>The  Unleashed  mod allows the Sunika Kubrow to grapple a VIP target, forcing them to the ground.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Unleashed",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Отпуск с привязи",
+        "description": "<p>Отпуск с Привязи — мод-заповедь для Кубрау Суника, позволяющий набрасываться на цель захвата, сбивая ее с ног, и удерживать в таком положении  в течение определенного промежутка времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%82%D0%BF%D1%83%D1%81%D0%BA_%D1%81_%D0%BF%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%B8",
+        "icon": "icons/ru/Unleashed.6cbce6710a12343e299ffdb0bc259343.png",
+        "thumb": "icons/ru/thumbs/Unleashed.6cbce6710a12343e299ffdb0bc259343.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

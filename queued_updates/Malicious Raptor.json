@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51567a",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Malicious_Raptor.501a9e285cf7f788e2a9b4678a38c367.png",
+    "thumb": "icons/en/thumbs/Malicious_Raptor.501a9e285cf7f788e2a9b4678a38c367.128x128.png",
+    "icon_format": "port",
+    "url_name": "malicious_raptor",
+    "tradable": true,
+    "en": {
+        "item_name": "Malicious Raptor",
+        "description": "<p>Malicious Raptor is a rare Stance mod for Claw-type weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Malicious_Raptor",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Взбешенный раптор",
+        "description": "<p>Взбешенный Раптор - это редкая стойка, предназначенная для оружия ближнего боя класса Когти. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B7%D0%B1%D0%B5%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BF%D1%82%D0%BE%D1%80",
+        "icon": "icons/ru/Malicious_Raptor.d7acc3ce35ed52912f3a487a9a7638d2.png",
+        "thumb": "icons/ru/thumbs/Malicious_Raptor.d7acc3ce35ed52912f3a487a9a7638d2.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

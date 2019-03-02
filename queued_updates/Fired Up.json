@@ -1,0 +1,56 @@
+{
+    "_id": "54a74455e779892d5e51569b",
+    "tags": [
+        "mod",
+        "sentinel",
+        "rare"
+    ],
+    "icon": "icons/en/Fired_Up.33e41b63a3f193f1e801b503a1afb585.png",
+    "thumb": "icons/en/thumbs/Fired_Up.33e41b63a3f193f1e801b503a1afb585.128x128.png",
+    "icon_format": "port",
+    "url_name": "fired_up",
+    "tradable": true,
+    "en": {
+        "item_name": "Fired Up",
+        "description": "<p>Fired Up is a Sentinel mod that increases the damage of a sentinel after continuously firing its weapon for a set amount of time.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fired_Up",
+        "drop": [
+            {
+                "name": "Corrupted Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Spectator",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "С огоньком",
+        "description": "<p>С огоньком — редкий мод для стража, увеличивает наносимый стражем урон при беспрерывной стрельбе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1_%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C%D0%BA%D0%BE%D0%BC",
+        "icon": "icons/ru/Fired_Up.0b83271365ce0a0aa27e2c52ff9eed89.png",
+        "thumb": "icons/ru/thumbs/Fired_Up.0b83271365ce0a0aa27e2c52ff9eed89.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Crewman",
+                "link": null
+            },
+            {
+                "name": "Orokin Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Spectator",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

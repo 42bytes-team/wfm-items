@@ -1,0 +1,56 @@
+{
+    "_id": "5783bf71d9b6753790c89e9d",
+    "tags": [
+        "parts",
+        "archwing",
+        "stock"
+    ],
+    "icon": "icons/en/Cyngas_Set.5b9891a467264b6048cd58b409911767.png",
+    "thumb": "icons/en/thumbs/Cyngas_Set.5b9891a467264b6048cd58b409911767.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "cyngas_stock",
+    "tradable": true,
+    "part_of_set": [
+        "58284d9f0af2540aa8de3495",
+        "5783bf69d9b6753790c89e9b",
+        "5783bf6dd9b6753790c89e9c",
+        "5783bf71d9b6753790c89e9d"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Cyngas Stock",
+        "description": "<p>This weapon deals primarily  Slash damage by a small margin</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cyngas",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ],
+        "codex": "Unload deadly accurate bursts of mayhem."
+    },
+    "ru": {
+        "item_name": "Цингас Приклад",
+        "description": "<p>Наносите увечья смертельно точными очередями.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A6%D0%B8%D0%BD%D0%B3%D0%B0%D1%81",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 4,
+    "trading_tax": 2000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "5729bd0dcb59ed5a9b484e8f",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Electromagnetic_Shielding.e28bfaee7d2685661a1ffd07e005c60d.png",
+    "thumb": "icons/en/thumbs/Electromagnetic_Shielding.e28bfaee7d2685661a1ffd07e005c60d.128x128.png",
+    "icon_format": "port",
+    "url_name": "electromagnetic_shielding",
+    "tradable": true,
+    "en": {
+        "item_name": "Electromagnetic Shielding",
+        "description": "<p>Electromagnetic Shielding is an Ack & Brunt-exclusive mod that transfers a percentage of damage and all Status Effects that nearby allies receive to yourself, but only when you are blocking. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Electromagnetic_Shielding",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Электромагнитное покрытие",
+        "description": "<p>Электромагнитное Покрытие — необычный мод для оружия ближнего боя Ак и Брант, который перенаправляет часть урона, нанесённого союзникам, находящимся в определённом радиусе от носителя Ак и Бранта, на него при блокировании атаки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5",
+        "icon": "icons/ru/Electromagnetic_Shielding.d7dc46c491b6a6f62e0801c8447bb318.png",
+        "thumb": "icons/ru/thumbs/Electromagnetic_Shielding.d7dc46c491b6a6f62e0801c8447bb318.128x128.png",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

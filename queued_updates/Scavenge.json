@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155b0",
+    "tags": [
+        "mod",
+        "kubrow",
+        "common"
+    ],
+    "icon": "icons/en/Scavenge.e597b9b2f1fbef58407446ed6b39c68a.png",
+    "thumb": "icons/en/thumbs/Scavenge.e597b9b2f1fbef58407446ed6b39c68a.128x128.png",
+    "icon_format": "port",
+    "url_name": "scavenge",
+    "tradable": true,
+    "en": {
+        "item_name": "Scavenge",
+        "description": "<p>Scavenge mod gives Kubrows and Kavats a chance to unlock lockers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Scavenge",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Собиратель",
+        "description": "<p>Собиратель — мод-заповедь для всех пород Кубрау, позволяющий тем с некоторым шансом открывать закрытые шкафчики.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Scavenge.696ffc70e2fb4c08e094b679b10312d8.png",
+        "thumb": "icons/ru/thumbs/Scavenge.696ffc70e2fb4c08e094b679b10312d8.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

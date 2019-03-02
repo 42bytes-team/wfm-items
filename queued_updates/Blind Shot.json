@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a505",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Blind_Shot.5d5b866f41a1395ae506007edefbd5d8.png",
+    "thumb": "icons/en/thumbs/Blind_Shot.5d5b866f41a1395ae506007edefbd5d8.128x128.png",
+    "icon_format": "port",
+    "url_name": "blind_shot",
+    "tradable": true,
+    "en": {
+        "item_name": "Blind Shot",
+        "description": "<p>Blind Shot is a PvP-exclusive pistol mod which provides faster projectile flight speed at the cost of reduced accuracy. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Blind_Shot",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Слепящий выстрел",
+        "description": "<p>Слепящий Выстрел — мод для вторичного оружия в режиме конклава, который увеличивает скорость полёта пули/снаряда, взамен уменьшая точность оружия.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BB%D0%B5%D0%BF%D1%8F%D1%89%D0%B8%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Blind_Shot.ec255cb6eba3de52cb4d8242da3647a9.png",
+        "thumb": "icons/ru/thumbs/Blind_Shot.ec255cb6eba3de52cb4d8242da3647a9.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

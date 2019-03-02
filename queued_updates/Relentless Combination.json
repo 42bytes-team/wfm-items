@@ -1,0 +1,48 @@
+{
+    "_id": "58446ffa2c2ada0071154b52",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Relentless_Combination.1c8cacce7f4d841b2471013085cde633.png",
+    "thumb": "icons/en/thumbs/Relentless_Combination.1c8cacce7f4d841b2471013085cde633.128x128.png",
+    "icon_format": "port",
+    "url_name": "relentless_combination",
+    "tradable": true,
+    "en": {
+        "item_name": "Relentless Combination",
+        "description": "<p>Relentless Combination grants a chance to deal Combo Counter hits when a target is dealt damage from a Slash b Slash proc caused by the player.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination",
+        "drop": [
+            {
+                "name": "Ancient Disruptor",
+                "link": null
+            },
+            {
+                "name": "Tar-Mutalist MOA",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Неустанная Комбинация",
+        "description": "<p>+100% шанса увеличения комбо, когда Статус Разреза наносит урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Неустанная_Комбинация",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Ancient Disruptor",
+                "link": null
+            },
+            {
+                "name": "Tar-Mutalist MOA",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

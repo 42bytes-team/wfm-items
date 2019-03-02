@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156b6",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Spoiled_Strike.79611a3d5edd3c4cfaa9a6c514cc6310.png",
+    "thumb": "icons/en/thumbs/Spoiled_Strike.79611a3d5edd3c4cfaa9a6c514cc6310.128x128.png",
+    "icon_format": "port",
+    "url_name": "spoiled_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Spoiled Strike",
+        "description": "<p>The Spoiled Strike mod increases damage by 25% per rank while reducing attack speed by -5% per rank of melee attacks for a maximum of 100% damage and -20% attack speed at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spoiled_Strike",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Удар порчи",
+        "description": "<p>Удар Порчи — повреждённый мод для оружия ближнего боя, который увеличивает базовый урон, взамен уменьшая скорость атаки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B4%D0%B0%D1%80_%D0%BF%D0%BE%D1%80%D1%87%D0%B8",
+        "icon": "icons/ru/Spoiled_Strike.75759304262a39dcf98b4a875d1581c5.png",
+        "thumb": "icons/ru/thumbs/Spoiled_Strike.75759304262a39dcf98b4a875d1581c5.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

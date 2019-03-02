@@ -1,0 +1,40 @@
+{
+    "_id": "566759c8db7c7a568a8d45c8",
+    "tags": [
+        "mod",
+        "exilus",
+        "rare"
+    ],
+    "icon": "icons/en/Power_Drift.d9e8ed5d061459f61a6265d9bb87bede.png",
+    "thumb": "icons/en/thumbs/Power_Drift.d9e8ed5d061459f61a6265d9bb87bede.128x128.png",
+    "icon_format": "port",
+    "url_name": "power_drift",
+    "tradable": true,
+    "en": {
+        "item_name": "Power Drift",
+        "description": "<p>Power Drift is a rare dual-stat Exilus mod that increases Power Strength and grants a chance to resist knockdown.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Power_Drift",
+        "drop": [
+            {
+                "name": "Orokin Moon Test",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Силовое течение",
+        "description": "<p>Силовое течение — эксилус мод для варфреймов, который увеличивает силу способностей и даёт шанс не быть сбитым с ног.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Power_Drift.66970a5c29d076c4d5ecfbfd81601d4d.png",
+        "thumb": "icons/ru/thumbs/Power_Drift.66970a5c29d076c4d5ecfbfd81601d4d.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Moon Test",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

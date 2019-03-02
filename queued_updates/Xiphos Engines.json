@@ -1,0 +1,36 @@
+{
+    "_id": "5719557e4445c3e28b80fc7a",
+    "tags": [
+        "blueprint",
+        "landing craft",
+        "engines"
+    ],
+    "icon": "icons/en/Xiphos_Set.796e0d0f0261353882157726b12a3a71.png",
+    "thumb": "icons/en/thumbs/Xiphos_Set.796e0d0f0261353882157726b12a3a71.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/engines_128x128.png",
+    "url_name": "xiphos_engines",
+    "tradable": true,
+    "part_of_set": [
+        "57222f1692cc365777a61c0e",
+        "571955834445c3e28b80fc7b",
+        "5719557e4445c3e28b80fc7a",
+        "571955784445c3e28b80fc79"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Xiphos Engines",
+        "description": "<p>The Xiphos is a Landing Craft, which can serve as an alternative transportation choice to the Liset. If the Xiphos is the selected Landing Craft, using an Air Support Charge will have Ordis deploy a sentry gun. The Xiphos landed in Update 18.5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Xiphos",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Ксифос Двигатели",
+        "description": "<p>Ксифос — десантный корабль, имеющий способность Установка турели. При использовании зарядов поддержки с корабля сбрасывается турель по направлению установленного маяка. Турель имеет высокую скорострельность, но небольшой урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%81%D0%B8%D1%84%D0%BE%D1%81",
+        "icon": null,
+        "thumb": null,
+        "drop": []
+    },
+    "trading_tax": 4000
+}

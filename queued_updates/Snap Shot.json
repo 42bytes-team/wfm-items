@@ -1,0 +1,48 @@
+{
+    "_id": "567af35fcbfa8f05d076a4f5",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Snap_Shot.7832d651c7914eab0ccfc4385acf34b1.png",
+    "thumb": "icons/en/thumbs/Snap_Shot.7832d651c7914eab0ccfc4385acf34b1.128x128.png",
+    "icon_format": "port",
+    "url_name": "snap_shot",
+    "tradable": true,
+    "en": {
+        "item_name": "Snap Shot",
+        "description": "<p>Snap Shot is a shotgun mod usable in both PvE and PvP that increases movement speed while aiming.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Snap_Shot",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Conculyst",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Быстрое прицеливание",
+        "description": "<p>Быстрое Прицеливание — необычный мод для дробовиков в режиме конклава, который увеличивает скорость передвижения в прицеливании.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D1%86%D0%B5%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Snap_Shot.db098fd65a0e2dbc9010ccf0eda422fd.png",
+        "thumb": "icons/ru/thumbs/Snap_Shot.db098fd65a0e2dbc9010ccf0eda422fd.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Conculyst",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

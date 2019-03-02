@@ -1,0 +1,40 @@
+{
+    "_id": "57b4e5486f6b2fda8ea6caa0",
+    "tags": [
+        "mod",
+        "kavat",
+        "uncommon"
+    ],
+    "icon": "icons/en/Territorial_Aggression.fe5b1085fb610c35d7318fb07524b81c.png",
+    "thumb": "icons/en/thumbs/Territorial_Aggression.fe5b1085fb610c35d7318fb07524b81c.128x128.png",
+    "icon_format": "port",
+    "url_name": "territorial_aggression",
+    "tradable": true,
+    "en": {
+        "item_name": "Territorial Aggression",
+        "description": "<p>The Kavat marks their territory pacifying any wild creature within it.  Wild creatures such as Feral Kubrows and Desert Skates within a certain radius will not attack.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression",
+        "drop": [
+            {
+                "name": "Feral Kavat",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Территориальная агрессия",
+        "description": "<p>Территориальная Агрессия — мод-заповедь для каватов, позволяющий компаньону помечать территорию, в зоне которой дикие животные становятся нейтральными к игрокам и стражам.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F",
+        "icon": "icons/ru/Territorial_Aggression.c0fb989aae3f68fa02d12049a02509bb.png",
+        "thumb": "icons/ru/thumbs/Territorial_Aggression.c0fb989aae3f68fa02d12049a02509bb.128x128.png",
+        "drop": [
+            {
+                "name": "Feral Kavat",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

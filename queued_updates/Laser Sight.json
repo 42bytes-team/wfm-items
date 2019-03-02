@@ -1,0 +1,48 @@
+{
+    "_id": "56a7b27a1133f656cb085d8b",
+    "tags": [
+        "mod",
+        "shotgun",
+        "uncommon"
+    ],
+    "icon": "icons/en/Laser_Sight.856fb0b93fb9bd6cc8bbd68041666039.png",
+    "thumb": "icons/en/thumbs/Laser_Sight.856fb0b93fb9bd6cc8bbd68041666039.128x128.png",
+    "icon_format": "port",
+    "url_name": "laser_sight",
+    "tradable": true,
+    "en": {
+        "item_name": "Laser Sight",
+        "description": "<p>Laser Sight is an uncommon Shotgun mod that increases Critical chance while aiming for a brief time upon a headshot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Laser_Sight",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Torment",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Лазерный прицел",
+        "description": "<p>Лазерный Прицел — условный мод для дробовиков, который увеличивает шанс критического урона при прицеливании после попадания в голову на определенный промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%86%D0%B5%D0%BB",
+        "icon": "icons/ru/Laser_Sight.31a117c34ed4403704e13e888af597a4.png",
+        "thumb": "icons/ru/thumbs/Laser_Sight.31a117c34ed4403704e13e888af597a4.128x128.png",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Torment",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

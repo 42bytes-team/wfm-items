@@ -1,0 +1,56 @@
+{
+    "_id": "56a7b2661133f656cb085d89",
+    "tags": [
+        "mod",
+        "pistol",
+        "common"
+    ],
+    "icon": "icons/en/Hydraulic_Crosshairs.818cf18013b567c4bbe4379f9608df56.png",
+    "thumb": "icons/en/thumbs/Hydraulic_Crosshairs.818cf18013b567c4bbe4379f9608df56.128x128.png",
+    "icon_format": "port",
+    "url_name": "hydraulic_crosshairs",
+    "tradable": true,
+    "en": {
+        "item_name": "Hydraulic Crosshairs",
+        "description": "<p>Hydraulic Crosshairs is a common Pistol mod that increases Critical chance while aiming for a brief time upon a headshot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Crosshairs",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Torment",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Гидравлические перекрестия",
+        "description": "<p>Гидравлические Перекрестия — условный мод для вторичного оружия, который при попадании в голову увеличивает шанс критического урона на определенный промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D1%8F",
+        "icon": "icons/ru/Hydraulic_Crosshairs.e3e3893a38da1f83f3df7ece6c1b544f.png",
+        "thumb": "icons/ru/thumbs/Hydraulic_Crosshairs.e3e3893a38da1f83f3df7ece6c1b544f.128x128.png",
+        "drop": [
+            {
+                "name": "Misery",
+                "link": null
+            },
+            {
+                "name": "Torment",
+                "link": null
+            },
+            {
+                "name": "Orokin Moon Spy Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

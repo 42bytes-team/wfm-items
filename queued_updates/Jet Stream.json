@@ -1,0 +1,48 @@
+{
+    "_id": "54e644ffe779897594fa68d1",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Jet_Stream.1c4a9461dc1fddf7d9123314cb0d2d9c.png",
+    "thumb": "icons/en/thumbs/Jet_Stream.1c4a9461dc1fddf7d9123314cb0d2d9c.128x128.png",
+    "icon_format": "port",
+    "url_name": "jet_stream",
+    "tradable": true,
+    "en": {
+        "item_name": "Jet Stream",
+        "description": "<p>Jet Stream is a Warframe Augment Mod for Zephyr that grants Turbulence the ability to provide additional movement speed and projectile speed for Zephyr and nearby allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Jet_Stream",
+        "drop": [
+            {
+                "name": "Red Veil",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Реактивный поток",
+        "description": "<p>Реактивный Поток — мод-аугмент для варфрейма Зефир, улучшающий ее способность Турбулентность. Активная способность увеличивает скорость полёта снарядов и передвижения для варфреймов, попавшие в определённый радиус действия.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA",
+        "icon": "icons/ru/Jet_Stream.ecdb47b4ab67e51c58dc5c1b7e194626.png",
+        "thumb": "icons/ru/thumbs/Jet_Stream.ecdb47b4ab67e51c58dc5c1b7e194626.128x128.png",
+        "drop": [
+            {
+                "name": "Red Veil",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

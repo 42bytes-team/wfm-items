@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515621",
+    "tags": [
+        "mod",
+        "rifle",
+        "common"
+    ],
+    "icon": "icons/en/Hush.59b2133ac35cd53a445a9fe50fd7b164.png",
+    "thumb": "icons/en/thumbs/Hush.59b2133ac35cd53a445a9fe50fd7b164.128x128.png",
+    "icon_format": "port",
+    "url_name": "hush",
+    "tradable": true,
+    "en": {
+        "item_name": "Hush",
+        "description": "<p>The Hush mod reduces Noise Level on rifles. At max rank, it renders any rifles completely silent and undetectable while firing.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hush",
+        "drop": [
+            {
+                "name": "Orokin Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Spectator",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Беззвучие",
+        "description": "<p>Беззвучие — обычный мод для основного оружия, который снижает вероятность обнаружения выстрелов врагом.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B8%D1%88%D0%B8%D0%BD%D0%B0_(%D0%9C%D0%BE%D0%B4)",
+        "icon": "icons/ru/Hush.c40b651760e08b270e4411af63a03a22.png",
+        "thumb": "icons/ru/thumbs/Hush.c40b651760e08b270e4411af63a03a22.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Spectator",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "5615432bb66f8371035bfa24",
+    "tags": [
+        "mod",
+        "warframe",
+        "common"
+    ],
+    "icon": "icons/en/Shield_Flux.d9e0b1e7ff37c197504ab8f7e50d20c6.png",
+    "thumb": "icons/en/thumbs/Shield_Flux.d9e0b1e7ff37c197504ab8f7e50d20c6.128x128.png",
+    "icon_format": "port",
+    "url_name": "shield_flux",
+    "tradable": false,
+    "en": {
+        "item_name": "Shield Flux",
+        "description": "<p>Shield Flux converts a Warframe's Shield to Stamina continuously after Stamina is completely drained.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shield_Flux",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Потоковый щит",
+        "description": "<p>Потоковый Щит — мод для варфреймов, который перенаправляет траты выносливости в щит.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%89%D0%B8%D1%82",
+        "icon": "icons/ru/Shield_Flux.495420140a5f01a1c5adbb69d31f5d71.png",
+        "thumb": "icons/ru/thumbs/Shield_Flux.495420140a5f01a1c5adbb69d31f5d71.128x128.png",
+        "drop": [
+            {
+                "name": "N/A",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}

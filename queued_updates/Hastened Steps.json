@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a510",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Hastened_Steps.8cad83d07e5da2f97087ef18013d20b2.png",
+    "thumb": "icons/en/thumbs/Hastened_Steps.8cad83d07e5da2f97087ef18013d20b2.128x128.png",
+    "icon_format": "port",
+    "url_name": "hastened_steps",
+    "tradable": true,
+    "en": {
+        "item_name": "Hastened Steps",
+        "description": "<p>Hastened Steps is a PvP-exclusive Warframe mod which provides more Sprint speed at the cost of reduced Shield capacity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hastened_Steps",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Быстрый шаг",
+        "description": "<p>Быстрый шаг — редкий мод для варфреймов в режиме конклава, который увеличивает скорость спринта, взамен уменьшая показатели щита у варфрейма.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D1%88%D0%B0%D0%B3",
+        "icon": "icons/ru/Hastened_Steps.5ac8a5676ba5d694012a9de400581e09.png",
+        "thumb": "icons/ru/thumbs/Hastened_Steps.5ac8a5676ba5d694012a9de400581e09.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

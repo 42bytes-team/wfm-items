@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e5155ac",
+    "tags": [
+        "mod",
+        "pistol",
+        "rare"
+    ],
+    "icon": "icons/en/Frostbite.e8c9b830402b0f3228c0c14efcae34fe.png",
+    "thumb": "icons/en/thumbs/Frostbite.e8c9b830402b0f3228c0c14efcae34fe.128x128.png",
+    "icon_format": "port",
+    "url_name": "frostbite",
+    "tradable": true,
+    "en": {
+        "item_name": "Frostbite",
+        "description": "<p>The Frostbite mod increases both the  Cold damage and Status Chance of a sidearm by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Frostbite",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Cryotic Front",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Обморожение",
+        "description": "<p>Обморожение — гибридный мод для вторичного оружия, который увеличивает  ледяной урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Frostbite.6870d89e932383a58a083313f2c74102.png",
+        "thumb": "icons/ru/thumbs/Frostbite.6870d89e932383a58a083313f2c74102.128x128.png",
+        "drop": [
+            {
+                "name": "Spy 2.0 reward",
+                "link": null
+            },
+            {
+                "name": "Reward fromOperation Cryotic Front",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

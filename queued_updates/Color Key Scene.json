@@ -1,0 +1,36 @@
+{
+    "_id": "58e6407ada6e257f670cf06b",
+    "tags": [
+        "scene"
+    ],
+    "icon": "icons/en/Color_Key_Scene.df44186af9a8fd041e62fe3c62e3332a.png",
+    "thumb": "icons/en/thumbs/Color_Key_Scene.df44186af9a8fd041e62fe3c62e3332a.128x128.png",
+    "icon_format": "land",
+    "url_name": "color_key_scene",
+    "tradable": true,
+    "en": {
+        "item_name": "Color Key Scene",
+        "description": "<p>Captura is an image capture and editing tool that allows players to manipulate and compose scenarios for screenshots.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Captura",
+        "drop": [
+            {
+                "name": "Cephalon Simaris",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Хромакей",
+        "description": "<p>Специальный режим, позволяющий делать красочные снимки.<br/>Для использования режима необходимо войти во Внешний вид и нажать Каптура.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Цефалон Симэрис",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e515651",
+    "tags": [
+        "mod",
+        "shotgun",
+        "rare"
+    ],
+    "icon": "icons/en/Frail_Momentum.8495568df9bed9b94564b2b882a57317.png",
+    "thumb": "icons/en/thumbs/Frail_Momentum.8495568df9bed9b94564b2b882a57317.128x128.png",
+    "icon_format": "port",
+    "url_name": "frail_momentum",
+    "tradable": true,
+    "en": {
+        "item_name": "Frail Momentum",
+        "description": "<p>Frail Momentum is a Corrupted Mod that increases the Fire Rate of shotguns at the cost of damage by 15% and -2.5% per rank at a maximum of 90% and -15% at rank 5, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Frail_Momentum",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ломкий момент",
+        "description": "<p>Ломкий Момент — поврежденный мод для дробовиков, который увеличивает скорострельность, взамен уменьшая урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%BE%D0%BC%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82",
+        "icon": "icons/ru/Frail_Momentum.6805653a9527ccd335c639fae37f2a99.png",
+        "thumb": "icons/ru/thumbs/Frail_Momentum.6805653a9527ccd335c639fae37f2a99.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "578390a2d9b6753790c89e84",
+    "tags": [
+        "mod",
+        "archwing",
+        "rare"
+    ],
+    "icon": "icons/en/Nebula_Bore.fd708a4b4dcd2f8a9c8fc0b16a351a7d.png",
+    "thumb": "icons/en/thumbs/Nebula_Bore.fd708a4b4dcd2f8a9c8fc0b16a351a7d.128x128.png",
+    "icon_format": "port",
+    "url_name": "nebula_bore",
+    "tradable": true,
+    "en": {
+        "item_name": "Nebula Bore",
+        "description": "<p>The Nebula Bore mod increases the  Puncture of an Archwing melee by 15% per rank  for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Nebula_Bore",
+        "drop": [
+            {
+                "name": "Archwing Mobile Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Archwing Sabotage Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Туманный бур",
+        "description": "<p>Туманный Бур — редкий мод для оружия ближнего боя арчвинг, увеличивающий  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D1%80",
+        "icon": "icons/ru/Nebula_Bore.3eeb26b0cf2b38503cd66420348bbda3.png",
+        "thumb": "icons/ru/thumbs/Nebula_Bore.3eeb26b0cf2b38503cd66420348bbda3.128x128.png",
+        "drop": [
+            {
+                "name": "Archwing Mobile Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Archwing Sabotage Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

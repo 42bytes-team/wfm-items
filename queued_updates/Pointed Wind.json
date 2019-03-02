@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e51566e",
+    "tags": [
+        "mod",
+        "stance",
+        "rare"
+    ],
+    "icon": "icons/en/Pointed_Wind.32a87c4d2733e14f641db59e0c53e8c6.png",
+    "thumb": "icons/en/thumbs/Pointed_Wind.32a87c4d2733e14f641db59e0c53e8c6.128x128.png",
+    "icon_format": "port",
+    "url_name": "pointed_wind",
+    "tradable": true,
+    "en": {
+        "item_name": "Pointed Wind",
+        "description": "<p>Pointed Wind is a Stance mod for daggers that specializes in high damage, sweeping slashes and jumping strikes. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pointed_Wind",
+        "drop": [
+            {
+                "name": "CorpusShockwave MOA",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Острый ветер",
+        "description": "<p>Острый Ветер — это редкая  стойка, предназначенная для оружия ближнего боя класса Кинжалы. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80",
+        "icon": "icons/ru/Pointed_Wind.697bb980167436ef5d8e9ed6883b5c30.png",
+        "thumb": "icons/ru/thumbs/Pointed_Wind.697bb980167436ef5d8e9ed6883b5c30.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusShockwave MOA",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

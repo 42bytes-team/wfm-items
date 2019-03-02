@@ -1,0 +1,39 @@
+{
+    "_id": "56a7b2b71133f656cb085d97",
+    "tags": [
+        "mod",
+        "uncommon"
+    ],
+    "icon": "icons/en/Guided_Ordnance.8c6d41220c28637b737a2b8a001d4b56.png",
+    "thumb": "icons/en/thumbs/Guided_Ordnance.8c6d41220c28637b737a2b8a001d4b56.128x128.png",
+    "icon_format": "port",
+    "url_name": "guided_ordnance",
+    "tradable": true,
+    "en": {
+        "item_name": "Guided Ordnance",
+        "description": "<p>Guided Ordnance is an assault rifle mod that temporarily increases accuracy while aiming upon hitting an enemy.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Guided_Ordinance",
+        "drop": [
+            {
+                "name": "MaliceMisery",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Направленный указ",
+        "description": "<p>Направленный Указ - условный мод для основного оружия, который увеличивает точность оружия при прицеливании на определенный промежуток времени после нанесения урона противнику. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7",
+        "icon": "icons/ru/Guided_Ordnance.dbc80003719752c3b57005764f057d2c.png",
+        "thumb": "icons/ru/thumbs/Guided_Ordnance.dbc80003719752c3b57005764f057d2c.128x128.png",
+        "drop": [
+            {
+                "name": "MaliceMisery",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

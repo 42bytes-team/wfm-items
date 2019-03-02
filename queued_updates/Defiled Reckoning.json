@@ -1,0 +1,40 @@
+{
+    "_id": "5615432bb66f8371035bfa2b",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Defiled_Reckoning.a2814ddc291d021dc6e3ea9d9c88e92b.png",
+    "thumb": "icons/en/thumbs/Defiled_Reckoning.a2814ddc291d021dc6e3ea9d9c88e92b.128x128.png",
+    "icon_format": "port",
+    "url_name": "defiled_reckoning",
+    "tradable": true,
+    "en": {
+        "item_name": "Defiled Reckoning",
+        "description": "<p>Defiled Reckoning is a PvP-exclusive Warframe Augment Mod for Oberon's Reckoning that makes Health Orbs created by kills from Reckoning temporarily invisible to, and unusable by, enemies. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Defiled_Reckoning",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Порочное искупление",
+        "description": "<p>Порочное искупление — мод-аугмент для варфрейма Оберон в режиме конклава, улучшающий его способность искупление.  Противники, подверженные эффекту умения не смогут использовать сферу здоровья на определенный промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Defiled_Reckoning.ffac201c5b111787337881f60c1aa021.png",
+        "thumb": "icons/ru/thumbs/Defiled_Reckoning.ffac201c5b111787337881f60c1aa021.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

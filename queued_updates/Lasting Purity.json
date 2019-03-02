@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155b8",
+    "tags": [
+        "mod",
+        "weapons",
+        "rare"
+    ],
+    "icon": "icons/en/Lasting_Purity.702ff6d12dcff064a4b9d24ba344260c.png",
+    "thumb": "icons/en/thumbs/Lasting_Purity.702ff6d12dcff064a4b9d24ba344260c.128x128.png",
+    "icon_format": "port",
+    "url_name": "lasting_purity",
+    "tradable": true,
+    "en": {
+        "item_name": "Lasting Purity",
+        "description": "<p>The Lasting Purity mod is a Weapon Augment Mod that adds Dead Aim (damage while zoomed in) and Purity specifically for the Vulkar and Vulkar Wraith. It increases Dead Aim by 15% and Purity by 0.25 per rank, at a maximum of 60% and 1 at rank 3, respectively. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lasting_Purity",
+        "drop": [
+            {
+                "name": "New Loka Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Убеждённая чистота",
+        "description": "<p>Убежденная Чистота — мод-аугмент для оружия Вулкар, который  увеличивает урон при прицеливании и даёт прирост синдикат-эффетка - Чистота.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%87%D0%B8%D1%81%D1%82%D0%BE%D1%82%D0%B0",
+        "icon": "icons/ru/Lasting_Purity.d40c649b4fe0d3b4f78b58469d5b3164.png",
+        "thumb": "icons/ru/thumbs/Lasting_Purity.d40c649b4fe0d3b4f78b58469d5b3164.128x128.png",
+        "drop": [
+            {
+                "name": "New Loka Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

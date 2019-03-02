@@ -1,0 +1,48 @@
+{
+    "_id": "567af35fcbfa8f05d076a4fa",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Strafing_Slide.7c339df1175de65544fdabd98bad1310.png",
+    "thumb": "icons/en/thumbs/Strafing_Slide.7c339df1175de65544fdabd98bad1310.128x128.png",
+    "icon_format": "port",
+    "url_name": "strafing_slide",
+    "tradable": true,
+    "en": {
+        "item_name": "Strafing Slide",
+        "description": "<p>Strafing Slide is a pistol mod usable in both PvE and PvP that reduces recoil and spread when firing while sliding.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Strafing_Slide",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Скользящий обстрел",
+        "description": "<p>Скользящий Обстрел — условный мод для вторичного оружия в режиме конклава, который увеличивает скорость перезарядки и уменьшает разброс при подкате.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%BE%D0%B1%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.png",
+        "thumb": "icons/ru/thumbs/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Battalyst",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

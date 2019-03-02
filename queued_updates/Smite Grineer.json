@@ -1,0 +1,112 @@
+{
+    "_id": "54a74454e779892d5e5155e6",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Smite_Grineer.43bb7e987aa1a2e58acaf75c663ab3ab.png",
+    "thumb": "icons/en/thumbs/Smite_Grineer.43bb7e987aa1a2e58acaf75c663ab3ab.128x128.png",
+    "icon_format": "port",
+    "url_name": "smite_grineer",
+    "tradable": true,
+    "en": {
+        "item_name": "Smite Grineer",
+        "description": "<p>The Smite Grineer mod increases the damage of melee weapons against Grineer by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Smite_Grineer",
+        "drop": [
+            {
+                "name": "CorpusMOA",
+                "link": null
+            },
+            {
+                "name": "CorpusIsolator Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusDrover Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusDenial Bursa",
+                "link": null
+            },
+            {
+                "name": "GrineerBailiff",
+                "link": null
+            },
+            {
+                "name": "GrineerBailiff Defector",
+                "link": null
+            },
+            {
+                "name": "GrineerButcher",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerGuardsman",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Крушитель: Гринир",
+        "description": "<p>Крушитель: Гринир — необычный мод для оружия ближнего боя, который увеличивает урон по бойцам  Гринир.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%B3%D1%80%D0%B8%D0%BD%D0%B8%D1%80",
+        "icon": "icons/ru/Smite_Grineer.4e1e049810ca5064322b313caa26d639.png",
+        "thumb": "icons/ru/thumbs/Smite_Grineer.4e1e049810ca5064322b313caa26d639.128x128.png",
+        "drop": [
+            {
+                "name": "CorpusMOA",
+                "link": null
+            },
+            {
+                "name": "CorpusIsolator Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusDrover Bursa",
+                "link": null
+            },
+            {
+                "name": "CorpusDenial Bursa",
+                "link": null
+            },
+            {
+                "name": "GrineerBailiff",
+                "link": null
+            },
+            {
+                "name": "GrineerBailiff Defector",
+                "link": null
+            },
+            {
+                "name": "GrineerButcher",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Butcher",
+                "link": null
+            },
+            {
+                "name": "GrineerGuardsman",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

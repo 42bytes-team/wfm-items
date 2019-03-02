@@ -1,0 +1,40 @@
+{
+    "_id": "554d3f0ce779894445a848fa",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Kinetic_Collision.167f9268ab9b025ea7c2c2c911d04ff6.png",
+    "thumb": "icons/en/thumbs/Kinetic_Collision.167f9268ab9b025ea7c2c2c911d04ff6.128x128.png",
+    "icon_format": "port",
+    "url_name": "kinetic_collision",
+    "tradable": true,
+    "en": {
+        "item_name": "Kinetic Collision",
+        "description": "<p>Kinetic Collision is a Warframe Augment Mod for Volt's Speed in PvP that increases Speed's duration when the player makes contact with an opponent. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Collision",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кинетическое столкновение",
+        "description": "<p>Кинетическое столкновение — мод-аугмент для варфрейма Вольт и Вольт прайм в режиме конклава, улучшающий его способность ускорение. При столкновении с противником длительность способности будет продлена. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Kinetic_Collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.png",
+        "thumb": "icons/ru/thumbs/Kinetic_Collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

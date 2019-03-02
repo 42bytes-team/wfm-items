@@ -1,0 +1,40 @@
+{
+    "_id": "57c05949d0d9ef638234e4aa",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Pistol_Amp.b6659bfe332db6d87dbf43951229caa8.png",
+    "thumb": "icons/en/thumbs/Pistol_Amp.b6659bfe332db6d87dbf43951229caa8.128x128.png",
+    "icon_format": "port",
+    "url_name": "pistol_amp",
+    "tradable": true,
+    "en": {
+        "item_name": "Pistol Amp",
+        "description": "<p>Pistol Amp is an aura that that increases the damage dealt with Secondary Weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Amp",
+        "drop": [
+            {
+                "name": "Knave Specter",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Усилитель: пистолет",
+        "description": "<p>Усилитель: пистолет — необычная аура, увеличивающая урон вторичного оружия для всех членов команды. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
+        "icon": "icons/ru/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.png",
+        "thumb": "icons/ru/thumbs/Pistol_Amp.d2d12174896d3399bdcbb06567829e19.128x128.png",
+        "drop": [
+            {
+                "name": "Knave Specter",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

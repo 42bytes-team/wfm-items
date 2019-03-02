@@ -1,0 +1,96 @@
+{
+    "_id": "54a74455e779892d5e5156ad",
+    "tags": [
+        "mod",
+        "shotgun",
+        "common"
+    ],
+    "icon": "icons/en/Lingering_Torment.e63fea80ff3cb599d0840090716ad730.png",
+    "thumb": "icons/en/thumbs/Lingering_Torment.e63fea80ff3cb599d0840090716ad730.128x128.png",
+    "icon_format": "port",
+    "url_name": "lingering_torment",
+    "tradable": true,
+    "en": {
+        "item_name": "Lingering Torment",
+        "description": "<p>Lingering Torment increases the duration of Status Effects inflicted by Shotguns. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lingering_Torment",
+        "drop": [
+            {
+                "name": "GrineerEviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerTrooper",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Trooper",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Долгие мучения",
+        "description": "<p>Долгие Мучения — обычный мод для дробовиков, который увеличивает длительность статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%B8%D0%B5_%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F",
+        "icon": "icons/ru/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.png",
+        "thumb": "icons/ru/thumbs/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerEviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerTrooper",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerArid Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Trooper",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Eviscerator",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Trooper",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

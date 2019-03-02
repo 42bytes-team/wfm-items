@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e515684",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Guardian.82a8cad9f3aa8df41a82c490e85425d6.png",
+    "thumb": "icons/en/thumbs/Guardian.82a8cad9f3aa8df41a82c490e85425d6.128x128.png",
+    "icon_format": "port",
+    "url_name": "guardian",
+    "tradable": true,
+    "en": {
+        "item_name": "Guardian",
+        "description": "<p>Guardian grants a Sentinel the ability to replenish its owner's shield when depleted.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Guardian",
+        "drop": [
+            {
+                "name": "Orokin Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Spectator",
+                "link": null
+            },
+            {
+                "name": "Orokin Storage Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Защитник",
+        "description": "<p>Защитник — мод-заповедь для стражей, который предоставляет ему возможность восполнить щиты владельца, если они на нуле.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA",
+        "icon": "icons/ru/Guardian.8626522c8178be2b9617cc62332a553f.png",
+        "thumb": "icons/ru/thumbs/Guardian.8626522c8178be2b9617cc62332a553f.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Spectator",
+                "link": null
+            },
+            {
+                "name": "Orokin Storage Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

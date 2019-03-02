@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e5155e1",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Swift_Deth.bf16f4af74526fe4cae5bdd317ea9e00.png",
+    "thumb": "icons/en/thumbs/Swift_Deth.bf16f4af74526fe4cae5bdd317ea9e00.128x128.png",
+    "icon_format": "port",
+    "url_name": "swift_deth",
+    "tradable": true,
+    "en": {
+        "item_name": "Swift Deth",
+        "description": "<p>Swift Deth mod allows Dethcube to attack the first visible enemy in range.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Swift_Deth",
+        "drop": [
+            {
+                "name": "GrineerScorch",
+                "link": null
+            },
+            {
+                "name": "InfestedLeaper",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Быстрая смерть",
+        "description": "<p>Быстрая Смерть — мод-заповедь для стража Куб Смерти, позволяющий стрелять в ближайшую враждебную цель в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B0%D1%8F_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D1%8C",
+        "icon": "icons/ru/Swift_Deth.49e78b85f5d81bd596d119d32f25d3e6.png",
+        "thumb": "icons/ru/thumbs/Swift_Deth.49e78b85f5d81bd596d119d32f25d3e6.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerScorch",
+                "link": null
+            },
+            {
+                "name": "InfestedLeaper",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

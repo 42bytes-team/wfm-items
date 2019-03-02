@@ -1,0 +1,56 @@
+{
+    "_id": "54a74454e779892d5e5155a5",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Reflex_Guard.ea9e700f4f3fa69772933405bac8fa36.png",
+    "thumb": "icons/en/thumbs/Reflex_Guard.ea9e700f4f3fa69772933405bac8fa36.128x128.png",
+    "icon_format": "port",
+    "url_name": "reflex_guard",
+    "tradable": true,
+    "en": {
+        "item_name": "Reflex Guard",
+        "description": "<p>The Reflex Guard mod grants a chance for a Warframe to automatically parry incoming attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reflex_Guard",
+        "drop": [
+            {
+                "name": "Corrupted MOA",
+                "link": null
+            },
+            {
+                "name": "Tier 1Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Защитный рефлекс",
+        "description": "<p>Защитный Рефлекс — редкий мод для варфреймов, который позволяет с некоторым шансом автоматически блокировать атаки ближнего и дальнего боя.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D1%84%D0%BB%D0%B5%D0%BA%D1%81",
+        "icon": "icons/ru/Reflex_Guard.899ebdebde95c79942740a500b7d99f0.png",
+        "thumb": "icons/ru/thumbs/Reflex_Guard.899ebdebde95c79942740a500b7d99f0.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted MOA",
+                "link": null
+            },
+            {
+                "name": "Tier 1Survival Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

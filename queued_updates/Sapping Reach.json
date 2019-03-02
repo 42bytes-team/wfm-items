@@ -1,0 +1,40 @@
+{
+    "_id": "554d3d13e77989430b114cb2",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Sapping_Reach.443c26cf9edee1c90fefca34a579609a.png",
+    "thumb": "icons/en/thumbs/Sapping_Reach.443c26cf9edee1c90fefca34a579609a.128x128.png",
+    "icon_format": "port",
+    "url_name": "sapping_reach",
+    "tradable": true,
+    "en": {
+        "item_name": "Sapping Reach",
+        "description": "<p>Sapping Reach is a Warframe Augment Mod for Mag's Pull in PvP that steals energy from an opponent. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sapping_Reach",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ослабляющее притяжение",
+        "description": "<p>Ослабляющее притяжение — мод-аугмент для варфрейма Мэг и Мэг прайм в режиме конклава, улучшающий её способность притяжение. Притяжение также будет красть у противника энергию.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%81%D0%BB%D0%B0%D0%B1%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%B5_%D0%BF%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Sapping_Reach.f612157137a5278a9e1bed1fc742347e.png",
+        "thumb": "icons/ru/thumbs/Sapping_Reach.f612157137a5278a9e1bed1fc742347e.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

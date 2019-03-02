@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155d5",
+    "tags": [
+        "mod",
+        "weapons",
+        "rare"
+    ],
+    "icon": "icons/en/Gleaming_Blight.864cbc195d8dbbdb4adfdadd56d7de13.png",
+    "thumb": "icons/en/thumbs/Gleaming_Blight.864cbc195d8dbbdb4adfdadd56d7de13.128x128.png",
+    "icon_format": "port",
+    "url_name": "gleaming_blight",
+    "tradable": true,
+    "en": {
+        "item_name": "Gleaming Blight",
+        "description": "<p>The Gleaming Blight mod is a Weapon Augment Mod that increases status chance and Blight specifically for the Dark Dagger. It increases status chance by 25% and Blight by 0.25 per rank, at a maximum of 100% and 1 at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gleaming_Blight",
+        "drop": [
+            {
+                "name": "Red Veil Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Блестящая гниль",
+        "description": "<p>Блестящая Гниль — мод-аугмент для кинжалов: Темный Кинжал и Ракта тёмный кинжал, который увеличивает шанс срабатывания статуса на 25% за ранг. На максимальном ранге мода увеличения шанса срабатывания составляет 100%.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BB%D0%B5%D1%81%D1%82%D1%8F%D1%89%D0%B0%D1%8F_%D0%B3%D0%BD%D0%B8%D0%BB%D1%8C",
+        "icon": "icons/ru/Gleaming_Blight.80ec79901ed4bc8566ce8f9399968ea0.png",
+        "thumb": "icons/ru/thumbs/Gleaming_Blight.80ec79901ed4bc8566ce8f9399968ea0.128x128.png",
+        "drop": [
+            {
+                "name": "Red Veil Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "568c177fc221c673bc088845",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Armored_Evade.726f03c9e8f010cb3074d216fc1a68f2.png",
+    "thumb": "icons/en/thumbs/Armored_Evade.726f03c9e8f010cb3074d216fc1a68f2.128x128.png",
+    "icon_format": "port",
+    "url_name": "armored_evade",
+    "tradable": true,
+    "en": {
+        "item_name": "Armored Evade",
+        "description": "<p>Armored Evade is a PvP-exclusive Warframe mod that reduces Slide and increases Damage Resistance while dodging.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Armored_Evade",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Бронированное уклонение",
+        "description": "<p>Бронированное уклонение — условный мод для варфреймов в режиме конклава, который увеличивает сопротивление к урону во время выполнения акробатических навыков, взамен снижая эффективность скольжения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%83%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Armored_Evade.808f601566ee557eb489a9852466e1b2.png",
+        "thumb": "icons/ru/thumbs/Armored_Evade.808f601566ee557eb489a9852466e1b2.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

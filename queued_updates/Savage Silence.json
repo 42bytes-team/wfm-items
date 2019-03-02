@@ -1,0 +1,48 @@
+{
+    "_id": "54a74455e779892d5e515690",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Savage_Silence.ac9dfbbdd2b49fac9fe8a9fadd681463.png",
+    "thumb": "icons/en/thumbs/Savage_Silence.ac9dfbbdd2b49fac9fe8a9fadd681463.128x128.png",
+    "icon_format": "port",
+    "url_name": "savage_silence",
+    "tradable": true,
+    "en": {
+        "item_name": "Savage Silence",
+        "description": "<p>Savage Silence is a Warframe Augment Mod for Banshee's Silence that increases Finisher damage while active.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Savage_Silence",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Дикая тишина",
+        "description": "<p>Дикая Тишина — мод-аугмент для варфрейма Банши, улучшающий её способность Тишина. Во время активной способности увеличивается урон завершающего удара.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F_%D1%82%D0%B8%D1%88%D0%B8%D0%BD%D0%B0",
+        "icon": "icons/ru/Savage_Silence.1337cb9e463392001e3327a969137d39.png",
+        "thumb": "icons/ru/thumbs/Savage_Silence.1337cb9e463392001e3327a969137d39.128x128.png",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

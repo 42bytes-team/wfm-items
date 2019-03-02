@@ -1,0 +1,48 @@
+{
+    "_id": "54e644ffe779897594fa68cd",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Despoil.2633a2c7793d85b21d22cb4c4a0b70cf.png",
+    "thumb": "icons/en/thumbs/Despoil.2633a2c7793d85b21d22cb4c4a0b70cf.128x128.png",
+    "icon_format": "port",
+    "url_name": "despoil",
+    "tradable": true,
+    "en": {
+        "item_name": "Despoil",
+        "description": "<p>Despoil is a Warframe Augment Mod that allows Nekros to consume health instead of energy to cast Desecrate.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Despoil",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Лишение",
+        "description": "<p>Лишение — мод-аугмент для варфрейма Некрос, улучшающий его способность осквернение. Способность не расходует энергию, поглощая 10 единиц здоровья за каждое осквернённое тело.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Despoil.a13144018fd22ac0d13257bf4a391dbc.png",
+        "thumb": "icons/ru/thumbs/Despoil.a13144018fd22ac0d13257bf4a391dbc.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

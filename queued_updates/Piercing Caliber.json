@@ -1,0 +1,48 @@
+{
+    "_id": "5526aec0e779896af941825c",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Piercing_Caliber.a4e3271e2add82496c5f8ab858076116.png",
+    "thumb": "icons/en/thumbs/Piercing_Caliber.a4e3271e2add82496c5f8ab858076116.128x128.png",
+    "icon_format": "port",
+    "url_name": "piercing_caliber",
+    "tradable": true,
+    "en": {
+        "item_name": "Piercing Caliber",
+        "description": "<p>The Piercing Caliber mod increases  Puncture damage of a rifle by 20% per rank for a maximum of 120% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Piercing_Caliber",
+        "drop": [
+            {
+                "name": "Operation: Mutalist Incursions reward",
+                "link": null
+            },
+            {
+                "name": "Tactical Alert (Divine Will ) Endurance Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пробивающий калибр",
+        "description": "<p>Пробивающий Калибр - редкий мод для основного оружия, который увеличивает   пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B8%D0%B1%D1%80",
+        "icon": "icons/ru/Piercing_Caliber.c03e0d2471177b20ab94325efb956843.png",
+        "thumb": "icons/ru/thumbs/Piercing_Caliber.c03e0d2471177b20ab94325efb956843.128x128.png",
+        "drop": [
+            {
+                "name": "Operation: Mutalist Incursions reward",
+                "link": null
+            },
+            {
+                "name": "Tactical Alert (Divine Will ) Endurance Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

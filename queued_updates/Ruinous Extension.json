@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155a1",
+    "tags": [
+        "mod",
+        "pistol",
+        "uncommon"
+    ],
+    "icon": "icons/en/Ruinous_Extension.25e7e56624d0e1dbf1197ef7834a5e24.png",
+    "thumb": "icons/en/thumbs/Ruinous_Extension.25e7e56624d0e1dbf1197ef7834a5e24.128x128.png",
+    "icon_format": "port",
+    "url_name": "ruinous_extension",
+    "tradable": true,
+    "en": {
+        "item_name": "Ruinous Extension",
+        "description": "<p>Ruinous Extension increases the range of pistol weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ruinous_Extension",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Разрушительное растяжение",
+        "description": "<p>Разрушительное Растяжение — мод для вторичного оружия, который увеличивает дальность поражения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Ruinous_Extension.e35e0c77934d73d32f9e012d9f55e4e0.png",
+        "thumb": "icons/ru/thumbs/Ruinous_Extension.e35e0c77934d73d32f9e012d9f55e4e0.128x128.png",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

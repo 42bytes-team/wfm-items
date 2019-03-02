@@ -1,0 +1,48 @@
+{
+    "_id": "56153836b66f836fa7d42c8c",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Atlantis_Vulcan.e996f3c43cc79c72236bd8b5b422fc65.png",
+    "thumb": "icons/en/thumbs/Atlantis_Vulcan.e996f3c43cc79c72236bd8b5b422fc65.128x128.png",
+    "icon_format": "port",
+    "url_name": "atlantis_vulcan",
+    "tradable": true,
+    "en": {
+        "item_name": "Atlantis Vulcan",
+        "description": "<p>Atlantis Vulcan is a Stance for Nunchaku-type weapons, specializing in fast, multi-hit whirling strikes.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Atlantis_Vulcan",
+        "drop": [
+            {
+                "name": "GrineerGuardsman",
+                "link": null
+            },
+            {
+                "name": "Orphid Specter",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Атлантический вулкан",
+        "description": "<p>Атлантический Вулкан — это стойка, предназначенная для оружия ближнего боя класса Нунчаки. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD",
+        "icon": "icons/ru/Atlantis_Vulcan.ca8c67457568321c86820f93c31defee.png",
+        "thumb": "icons/ru/thumbs/Atlantis_Vulcan.ca8c67457568321c86820f93c31defee.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerGuardsman",
+                "link": null
+            },
+            {
+                "name": "Orphid Specter",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "54e644ffe779897594fa68cc",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Repelling_Bastille.26836a977f11a44fd9b9432ed495637d.png",
+    "thumb": "icons/en/thumbs/Repelling_Bastille.26836a977f11a44fd9b9432ed495637d.128x128.png",
+    "icon_format": "port",
+    "url_name": "repelling_bastille",
+    "tradable": true,
+    "en": {
+        "item_name": "Repelling Bastille",
+        "description": "<p>Repelling Bastille is a Warframe Augment Mod for Vauban's Bastille that repels new enemies when it reaches the maximum amount of enemies it can contain.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Repelling_Bastille",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Отталкивающая бастилия",
+        "description": "<p>Отталкивающая бастилия — мод-аугмент для варфрейма Вобан и Вобан прайм, улучшающий его способность бастилия. После достижения максимального количества удерживаемых целей, бастилия с некоторым шансом отбрасывает врагов, попавших в радиус действия способности.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%82%D1%82%D0%B0%D0%BB%D0%BA%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%B1%D0%B0%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%8F",
+        "icon": "icons/ru/Repelling_Bastille.09dc01c03267e038a7ba0baf7832dab6.png",
+        "thumb": "icons/ru/thumbs/Repelling_Bastille.09dc01c03267e038a7ba0baf7832dab6.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

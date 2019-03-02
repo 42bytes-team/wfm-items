@@ -1,0 +1,47 @@
+{
+    "_id": "59e203ce115f1d887cfd7ac6",
+    "tags": [
+        "mod",
+        "sentinel"
+    ],
+    "icon": "icons/en/Ammo_Case.862c4134af807edfca25894181d72d50.png",
+    "thumb": "icons/en/thumbs/Ammo_Case.862c4134af807edfca25894181d72d50.128x128.png",
+    "icon_format": "port",
+    "url_name": "ammo_case",
+    "tradable": true,
+    "en": {
+        "item_name": "Ammo Case",
+        "description": "<p>Ammo Case allows the Carrier sentinel to convert any unused ammo type into ammo for the currently equipped weapon and provides increased ammunition capacity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case",
+        "drop": [
+            {
+                "name": "Corrupted Butcher (1.14%)",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer (1.14%)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Оружейный Ящик",
+        "description": "<p>Мод-заповедь для Стража Носитель, который увеличивает вместимость амуниции и конвертирует подбираемые боеприпасы в используемые установленным оружием после небольшой задержки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D1%8F%D1%89%D0%B8%D0%BA",
+        "icon": "icons/ru/Ammo_Case.a3aa6742d5314d56a80c04959ad813d5.png",
+        "thumb": "icons/ru/thumbs/Ammo_Case.a3aa6742d5314d56a80c04959ad813d5.128x128.png",
+        "drop": [
+            {
+                "name": "Corrupted Butcher (1.14%)",
+                "link": null
+            },
+            {
+                "name": "Corrupted Lancer (1.14%)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e515642",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Continuity.c8f4628b5ad77db5bee66f587e6a1b96.png",
+    "thumb": "icons/en/thumbs/Continuity.c8f4628b5ad77db5bee66f587e6a1b96.128x128.png",
+    "icon_format": "port",
+    "url_name": "continuity",
+    "tradable": true,
+    "en": {
+        "item_name": "Continuity",
+        "description": "<p>Continuity increases the Power Duration of a Warframe's abilities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Continuity",
+        "drop": [
+            {
+                "name": "General Sargas Ruk",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Corpus T3Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Непрерывность",
+        "description": "<p>Непрерывность — редкий мод для варфреймов, который увеличивает длительность способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Continuity.d3175cd01c144a47114e37f29bf432f6.png",
+        "thumb": "icons/ru/thumbs/Continuity.d3175cd01c144a47114e37f29bf432f6.128x128.png",
+        "drop": [
+            {
+                "name": "General Sargas Ruk",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            },
+            {
+                "name": "Corpus T3Defense Reward",
+                "link": null
+            },
+            {
+                "name": "Spy 2.0 Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

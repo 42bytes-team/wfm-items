@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e51561f",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Regen.5c9ce2616c97c6f6acd55023ca7974f7.png",
+    "thumb": "icons/en/thumbs/Regen.5c9ce2616c97c6f6acd55023ca7974f7.128x128.png",
+    "icon_format": "port",
+    "url_name": "regen",
+    "tradable": true,
+    "en": {
+        "item_name": "Regen",
+        "description": "<p>Regen allows a Sentinel to regenerate once per mission if killed. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Regen",
+        "drop": [
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Регенерация",
+        "description": "<p>Регенерация — обычный мод для стражей, который однократно восстанавливает стража после его смерти.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+        "icon": "icons/ru/Regen.d0b7e1ee3a38af066f4fbc71c7e04969.png",
+        "thumb": "icons/ru/thumbs/Regen.d0b7e1ee3a38af066f4fbc71c7e04969.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

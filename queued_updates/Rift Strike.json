@@ -1,0 +1,40 @@
+{
+    "_id": "5729bd11cb59ed5a9b484e90",
+    "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+    ],
+    "icon": "icons/en/Rift_Strike.37fa7334f532fe72ffd8c452c7791387.png",
+    "thumb": "icons/en/thumbs/Rift_Strike.37fa7334f532fe72ffd8c452c7791387.128x128.png",
+    "icon_format": "port",
+    "url_name": "rift_strike",
+    "tradable": true,
+    "en": {
+        "item_name": "Rift Strike",
+        "description": "<p>Rift Strike is a mod exclusive to the Twin Basolk that causes Charge Attacks to teleport the user directly in melee range of an enemy, provided the user is aiming at them before the charge attack is completed, and the user is standing within the mod's listed range.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rift_Strike",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Удар бездны",
+        "description": "<p>Удар Бездны — мод-аугмент для оружия ближнего боя Парный Басолк, который добавляет возможность телепортироваться к противнику, который находится в определённом радиусе от Варфрейма.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B4%D0%B0%D1%80_%D0%B1%D0%B5%D0%B7%D0%B4%D0%BD%D1%8B",
+        "icon": "icons/ru/Rift_Strike.cf21817cd37dab58055535442d37ec80.png",
+        "thumb": "icons/ru/thumbs/Rift_Strike.cf21817cd37dab58055535442d37ec80.128x128.png",
+        "drop": [
+            {
+                "name": "Kela De Thaym",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

@@ -1,0 +1,42 @@
+{
+    "_id": "54c6855ee779891362942572",
+    "tags": [
+        "void trader",
+        "warframe",
+        "mod",
+        "prime",
+        "legendary"
+    ],
+    "icon": "icons/en/Primed_Continuity.240ece0417bbfeff4410681ea2294f13.png",
+    "thumb": "icons/en/thumbs/Primed_Continuity.240ece0417bbfeff4410681ea2294f13.128x128.png",
+    "icon_format": "port",
+    "url_name": "primed_continuity",
+    "tradable": true,
+    "en": {
+        "item_name": "Primed Continuity",
+        "description": "<p>Primed Continuity increases the Power Duration of Warframe abilities and is a direct upgrade to the Continuity mod.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Continuity",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Непрерывность прайм",
+        "description": "<p>Непрерывность прайм — легендарный мод для варфреймов, который увеличивает длительность способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Continuity.b014c0895d0968e76bc2a65e010f98a5.png",
+        "thumb": "icons/ru/thumbs/Primed_Continuity.b014c0895d0968e76bc2a65e010f98a5.128x128.png",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "legendary",
+    "mod_max_rank": 10,
+    "trading_tax": 1000000
+}

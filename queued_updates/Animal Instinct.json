@@ -1,0 +1,56 @@
+{
+    "_id": "559dacd3e779897ba8819969",
+    "tags": [
+        "mod",
+        "kubrow",
+        "rare"
+    ],
+    "icon": "icons/en/Animal_Instinct.934c4722d6e4f4013aa14bc75a2d84b0.png",
+    "thumb": "icons/en/thumbs/Animal_Instinct.934c4722d6e4f4013aa14bc75a2d84b0.128x128.png",
+    "icon_format": "port",
+    "url_name": "animal_instinct",
+    "tradable": true,
+    "en": {
+        "item_name": "Animal Instinct",
+        "description": "<p>Animal Instinct is a Companion mod that gives Enemy Sense and Loot Detection effects to the companion's owner. It can be equipped on both Sentinels and Kubrows.[1] Unlike the equivalent Warframe auras (with which these effects stack), these effects only apply to the owner and not the other players in the squad, and they cease if the companion dies during the mission.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Animal_Instinct",
+        "drop": [
+            {
+                "name": "Nightmare Mode Reward",
+                "link": null
+            },
+            {
+                "name": "Tier 5-6Platinum Packs",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Животный инстинкт",
+        "description": "<p>Животный инстинкт — гибридный мод для стражей, кубрау и кават, позволяющий отображать противников и ресурсы в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D1%82",
+        "icon": "icons/ru/Animal_Instinct.17e444aa73960f8406141ae7a9d4bfab.png",
+        "thumb": "icons/ru/thumbs/Animal_Instinct.17e444aa73960f8406141ae7a9d4bfab.128x128.png",
+        "drop": [
+            {
+                "name": "Nightmare Mode Reward",
+                "link": null
+            },
+            {
+                "name": "Tier 5-6Platinum Packs",
+                "link": null
+            },
+            {
+                "name": "Alerts",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

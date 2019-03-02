@@ -1,0 +1,48 @@
+{
+    "_id": "567af35fcbfa8f05d076a500",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Twitch.3145448174cc2b42b2b4530b749d36e7.png",
+    "thumb": "icons/en/thumbs/Twitch.3145448174cc2b42b2b4530b749d36e7.128x128.png",
+    "icon_format": "port",
+    "url_name": "twitch",
+    "tradable": true,
+    "en": {
+        "item_name": "Twitch",
+        "description": "<p>Twitch is a rifle mod usable in both PvE and PvP that increases the holster rate of rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Twitch",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Conculyst",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Рывок",
+        "description": "<p>Рывок— необычный мод для основного оружия в режиме конклава, который увеличивает скорость смены оружия.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B2%D0%BE%D0%BA",
+        "icon": "icons/ru/Twitch.4ed15eef96923a1da9ff94ffe31e33dd.png",
+        "thumb": "icons/ru/thumbs/Twitch.4ed15eef96923a1da9ff94ffe31e33dd.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            },
+            {
+                "name": "Conculyst",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

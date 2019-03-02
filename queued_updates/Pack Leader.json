@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515602",
+    "tags": [
+        "mod",
+        "kubrow",
+        "common"
+    ],
+    "icon": "icons/en/Pack_Leader.4e87848ac52dd4ab5673acb0ddcaadfb.png",
+    "thumb": "icons/en/thumbs/Pack_Leader.4e87848ac52dd4ab5673acb0ddcaadfb.128x128.png",
+    "icon_format": "port",
+    "url_name": "pack_leader",
+    "tradable": true,
+    "en": {
+        "item_name": "Pack Leader",
+        "description": "<p>Pack Leader is a mod that heals an incubated companion by a percentage of the damage dealt by a player with melee attacks.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pack_Leader",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вожак стаи",
+        "description": "<p>Вожак Стаи — обычный мод для всех пород Кубрау, который излечивает кубрау на часть от нанесенного в ближнем бою урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B6%D0%B0%D0%BA_%D1%81%D1%82%D0%B0%D0%B8",
+        "icon": "icons/ru/Pack_Leader.44c846a5793e617225827e3797f853a6.png",
+        "thumb": "icons/ru/thumbs/Pack_Leader.44c846a5793e617225827e3797f853a6.128x128.png",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

@@ -1,0 +1,43 @@
+{
+    "_id": "5a0ef3fb10bc40007cce1c8a",
+    "tags": [
+        "mod",
+        "uncommon"
+    ],
+    "icon": "icons/en/Hunter_Synergy.e81bc36b78ed133f43f6923c04cc136f.png",
+    "thumb": "icons/en/thumbs/Hunter_Synergy.e81bc36b78ed133f43f6923c04cc136f.128x128.png",
+    "icon_format": "port",
+    "url_name": "hunter_synergy",
+    "tradable": true,
+    "en": {
+        "item_name": "Hunter Synergy",
+        "description": "<p>Hunter Synergy is a set mod dropped by the Hemocyte during Operation: Plague Star that possibly grants your companion a critical chance bonus based on mods equipped for the current weapon (It's actual effect is unconfirmed.)</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Synergy",
+        "drop": [
+            {
+                "name": "Hemocyte",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Синергия Охотника",
+        "description": "<p>Синергия Охотника — необычный мод для Кубрау и Кават, увеличивающий шанс критической атаки.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B8%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F_%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Hunter_Synergy.68a71117874a29fe701378d6e200c9a6.png",
+        "thumb": "icons/ru/thumbs/Hunter_Synergy.68a71117874a29fe701378d6e200c9a6.128x128.png",
+        "drop": [
+            {
+                "name": "Гемоцит",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%93%D0%B5%D0%BC%D0%BE%D1%86%D0%B8%D1%82"
+            },
+            {
+                "name": "Операция: Чумная Звезда",
+                "link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F:_%D0%A7%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0"
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

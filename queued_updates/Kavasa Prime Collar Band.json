@@ -1,0 +1,56 @@
+{
+    "_id": "56153734b66f836f976f5501",
+    "tags": [
+        "parts",
+        "kubrow",
+        "prime",
+        "band"
+    ],
+    "icon": "icons/en/Kavasa_Prime_Collar_Set.cc1bafee4156c05ebaa812d39cd559ba.png",
+    "thumb": "icons/en/thumbs/Kavasa_Prime_Collar_Set.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/band_128x128.png",
+    "url_name": "kavasa_prime_collar_band",
+    "tradable": true,
+    "part_of_set": [
+        "56783f24cbfa8f0432dd89a0",
+        "56153734b66f836f976f5501",
+        "56153727b66f836f91a8e849",
+        "56153730b66f836f9488bcce"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Kavasa Prime Collar Band",
+        "description": "<p>The Kavasa Prime Collar is a Prime collar of Orokin design that can be equipped on a player's Kubrow. It records their genetic memory and DNA, allowing them to be reconstructed in an Incubator, just like the Taichen Collar. Equipping the collar grants +10 Health, +10 Shields, and +100 Armor to a kubrow. Health bonus is modified by DNA Stability.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar",
+        "drop": [
+            {
+                "name": "Lith C1 Uncommon",
+                "link": null
+            },
+            {
+                "name": "Lith S2 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ошейник Каваса Прайм Лента",
+        "description": "<p>Ошейник Каваса Прайм — ошейник Прайм, который может быть экипирован на Кубрау. Даёт начальный бонус +20 здоровья и +10 щитов, а также дополнительно +100 единиц брони. Дополнительное здоровье зависит от стабильности ДНК Кубрау.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D1%88%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA_%D0%9A%D0%B0%D1%81%D0%B0%D0%B2%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
+        "icon": null,
+        "thumb": null,
+        "drop": [
+            {
+                "name": "Lith C1 Uncommon",
+                "link": null
+            },
+            {
+                "name": "Lith S2 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 45,
+    "trading_tax": 4000
+}

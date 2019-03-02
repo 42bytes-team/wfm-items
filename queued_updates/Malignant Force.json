@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e51558e",
+    "tags": [
+        "mod",
+        "rifle",
+        "rare"
+    ],
+    "icon": "icons/en/Malignant_Force.3631edb8f6b00600a1cb5e5e99b5fa42.png",
+    "thumb": "icons/en/thumbs/Malignant_Force.3631edb8f6b00600a1cb5e5e99b5fa42.128x128.png",
+    "icon_format": "port",
+    "url_name": "malignant_force",
+    "tradable": true,
+    "en": {
+        "item_name": "Malignant Force",
+        "description": "<p>The Malignant Force mod increases both the  Toxin damage and Status Chance of a rifle by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Malignant_Force",
+        "drop": [
+            {
+                "name": "The Cicero Crisis",
+                "link": null
+            },
+            {
+                "name": "Captain Vor (Corrupted)",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пагубная сила",
+        "description": "<p>Пагубная Сила — гибридный мод для основного оружия,  который увеличивает  токсичный урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D0%B3%D1%83%D0%B1%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D0%BB%D0%B0",
+        "icon": "icons/ru/Malignant_Force.364177ff84dc38e793d0228afe0a1489.png",
+        "thumb": "icons/ru/thumbs/Malignant_Force.364177ff84dc38e793d0228afe0a1489.128x128.png",
+        "drop": [
+            {
+                "name": "The Cicero Crisis",
+                "link": null
+            },
+            {
+                "name": "Captain Vor (Corrupted)",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

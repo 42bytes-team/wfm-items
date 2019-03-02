@@ -1,0 +1,48 @@
+{
+    "_id": "576459b43ae92d545fd1e7b8",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Iron_Vault.c370a07f3fd7ed17cb5d46c91be32e44.png",
+    "thumb": "icons/en/thumbs/Iron_Vault.c370a07f3fd7ed17cb5d46c91be32e44.128x128.png",
+    "icon_format": "port",
+    "url_name": "iron_vault",
+    "tradable": true,
+    "en": {
+        "item_name": "Iron Vault",
+        "description": "<p>Iron Vault is a Warframe Augment Mod for Wukong. Aiming Iron Jab at the ground will launch Wukong into the air, and any Slam Attack performed will gain additional range and damage. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Iron_Vault",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Железный прыжок",
+        "description": "<p>Железный Прыжок — мод-аугмент для варфрейма Вуконг, улучшающий его способность Железный Тычок. При тычке в землю подбрасывает Вуконга в воздух, увеличивая радиус поражения и урон атаки в прыжке.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
+        "icon": "icons/ru/Iron_Vault.a25eb800a26255384a7fa96b886363a3.png",
+        "thumb": "icons/ru/thumbs/Iron_Vault.a25eb800a26255384a7fa96b886363a3.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

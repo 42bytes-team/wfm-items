@@ -1,0 +1,64 @@
+{
+    "_id": "54a74454e779892d5e5155d7",
+    "tags": [
+        "mod",
+        "sentinel",
+        "rare"
+    ],
+    "icon": "icons/en/Sanctuary.69a5b2425b10b1ee21c9ea5a9a641898.png",
+    "thumb": "icons/en/thumbs/Sanctuary.69a5b2425b10b1ee21c9ea5a9a641898.128x128.png",
+    "icon_format": "port",
+    "url_name": "sanctuary",
+    "tradable": true,
+    "en": {
+        "item_name": "Sanctuary",
+        "description": "<p>Sanctuary allows a Sentinel to create a shield around its master while they heal fallen allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Убежище",
+        "description": "<p>Убежище — редкий мод  для стражей, который даёт ему возможность создавать защитное поле при воскрешении павшего союзника. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
+        "icon": "icons/ru/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
+        "thumb": "icons/ru/thumbs/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 10,
+    "trading_tax": 8000
+}

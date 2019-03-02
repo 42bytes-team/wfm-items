@@ -1,0 +1,64 @@
+{
+    "_id": "55c15374e779895d4f633bca",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Final_Harbinger.eca5ce98036f65d3581d0b860755db27.png",
+    "thumb": "icons/en/thumbs/Final_Harbinger.eca5ce98036f65d3581d0b860755db27.128x128.png",
+    "icon_format": "port",
+    "url_name": "final_harbinger",
+    "tradable": true,
+    "en": {
+        "item_name": "Final Harbinger",
+        "description": "<p>Final Harbinger is a Stance mod for Sword and Shield melee weapons.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Final_Harbinger",
+        "drop": [
+            {
+                "name": "GrineerDrekar Manic",
+                "link": null
+            },
+            {
+                "name": "Equinox Mega Pack",
+                "link": null
+            },
+            {
+                "name": "Tier 2Arena Reward",
+                "link": null
+            },
+            {
+                "name": "Feyarch Specter",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Предвестник конца",
+        "description": "<p>Предвестник Конца — это необычная стойка, предназначенная для оружия ближнего боя класса Меч и щит. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%BA%D0%BE%D0%BD%D1%86%D0%B0",
+        "icon": "icons/ru/Final_Harbinger.2cb7d0d5b3c97bfb440fd813c2203d1a.png",
+        "thumb": "icons/ru/thumbs/Final_Harbinger.2cb7d0d5b3c97bfb440fd813c2203d1a.128x128.png",
+        "drop": [
+            {
+                "name": "GrineerDrekar Manic",
+                "link": null
+            },
+            {
+                "name": "Equinox Mega Pack",
+                "link": null
+            },
+            {
+                "name": "Tier 2Arena Reward",
+                "link": null
+            },
+            {
+                "name": "Feyarch Specter",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

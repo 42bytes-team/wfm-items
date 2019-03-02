@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a50b",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Final_Tap.e06ec710b97bbbe0a82278fc7bcdca2b.png",
+    "thumb": "icons/en/thumbs/Final_Tap.e06ec710b97bbbe0a82278fc7bcdca2b.128x128.png",
+    "icon_format": "port",
+    "url_name": "final_tap",
+    "tradable": true,
+    "en": {
+        "item_name": "Final Tap",
+        "description": "<p>Final Tap is PvP-exclusive Hind mod which increases damage on 4 Hits within 0.5 seconds, effectively meaning that if the first 4 shots of the Hind's 5-shot burst land, the final shot will have extra damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Final_Tap",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Последний выстрел",
+        "description": "<p>Последний Выстрел — мод-аугмент для винтовки Лань в режиме конклава, который увеличивает урон на определенный промежуток времени при 4-х попаданиях в противника за 0,5 секунды на определенный промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Final_Tap.1dacddfc137347186cb337a76c6e4480.png",
+        "thumb": "icons/ru/thumbs/Final_Tap.1dacddfc137347186cb337a76c6e4480.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

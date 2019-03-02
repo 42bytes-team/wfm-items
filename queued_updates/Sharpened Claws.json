@@ -1,0 +1,40 @@
+{
+    "_id": "57b4e5486f6b2fda8ea6caa3",
+    "tags": [
+        "mod",
+        "kavat",
+        "uncommon"
+    ],
+    "icon": "icons/en/Sharpened_Claws.52d84f002b93e89569ee95d885e585c9.png",
+    "thumb": "icons/en/thumbs/Sharpened_Claws.52d84f002b93e89569ee95d885e585c9.128x128.png",
+    "icon_format": "port",
+    "url_name": "sharpened_claws",
+    "tradable": true,
+    "en": {
+        "item_name": "Sharpened Claws",
+        "description": "<p>Sharpened Claws is a Kavat exclusive mod that allows the Kavat to target an enemy and begin ripping it apart as it is stunned in a \"free fall\" animation (animation may change in the future). In addition to dealing high damage especially when combined with damage mods and boosts to critical attack damage, each swipe will remove some of the targets Armor if they possess any, making each swipe more deadly and exposing heavy units to more damage from allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sharpened_Claws",
+        "drop": [
+            {
+                "name": "Hyekka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Наточенные когти",
+        "description": "<p>Наточенные Когти — мод для каватов, позволяющий компаньону наносить особую атаку, уничтожая броню задетого противника и нанося увеличенный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B0%D1%82%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%B3%D1%82%D0%B8",
+        "icon": "icons/ru/Sharpened_Claws.4029f8a0bbba15a79ed6ed81e85bd96d.png",
+        "thumb": "icons/ru/thumbs/Sharpened_Claws.4029f8a0bbba15a79ed6ed81e85bd96d.128x128.png",
+        "drop": [
+            {
+                "name": "Hyekka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

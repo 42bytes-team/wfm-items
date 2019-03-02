@@ -1,0 +1,40 @@
+{
+    "_id": "554d3c0ce7798942793d7e8a",
+    "tags": [
+        "mod",
+        "pvp",
+        "rare"
+    ],
+    "icon": "icons/en/Shield_Overload.e2751dfa85b7b91e170d549cd1f6b574.png",
+    "thumb": "icons/en/thumbs/Shield_Overload.e2751dfa85b7b91e170d549cd1f6b574.128x128.png",
+    "icon_format": "port",
+    "url_name": "shield_overload",
+    "tradable": true,
+    "en": {
+        "item_name": "Shield Overload",
+        "description": "<p>Shield Overload is a Warframe Augment Mod for Mag's Shield Polarize in PvP that increases the time for an opponent's shields to begin recharging when hit. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shield_Overload",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Перегрузка щита",
+        "description": "<p>Перегрузка Щита — мод-аугмент для варфрейма Мэг и Мэг Прайм в режиме конклава, улучшающий её способность Поляризация щита. Использование способности полностью препятствует восстановлению щитов противника на определенное время.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0_%D1%89%D0%B8%D1%82%D0%B0",
+        "icon": "icons/ru/Shield_Overload.c153db3ef827ffc2986000da5b98b8b6.png",
+        "thumb": "icons/ru/thumbs/Shield_Overload.c153db3ef827ffc2986000da5b98b8b6.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

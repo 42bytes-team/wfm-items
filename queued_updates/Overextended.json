@@ -1,0 +1,40 @@
+{
+    "_id": "54a74454e779892d5e5155d6",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare"
+    ],
+    "icon": "icons/en/Overextended.4939196d35936b87b0ba4c85cdc97bef.png",
+    "thumb": "icons/en/thumbs/Overextended.4939196d35936b87b0ba4c85cdc97bef.128x128.png",
+    "icon_format": "port",
+    "url_name": "overextended",
+    "tradable": true,
+    "en": {
+        "item_name": "Overextended",
+        "description": "<p>Overextended increases Power Range while reducing Power Strength of Warframe abilities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Overextended",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Перенапряжение",
+        "description": "<p>Перенапряжение — повреждённый мод для варфреймов, который увеличивает радиус действия способности, взамен уменьшая силу.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
+        "icon": "icons/ru/Overextended.c9425a997c06e73bac156dce65c74714.png",
+        "thumb": "icons/ru/thumbs/Overextended.c9425a997c06e73bac156dce65c74714.128x128.png",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "54a74455e779892d5e5156ac",
+    "tags": [
+        "mod",
+        "stance",
+        "uncommon"
+    ],
+    "icon": "icons/en/Shattering_Storm.db1b1e72c57367903c6c7baad6461aa6.png",
+    "thumb": "icons/en/thumbs/Shattering_Storm.db1b1e72c57367903c6c7baad6461aa6.128x128.png",
+    "icon_format": "port",
+    "url_name": "shattering_storm",
+    "tradable": true,
+    "en": {
+        "item_name": "Shattering Storm",
+        "description": "<p>Shattering Storm is one of two Stance mods for Hammer type weapons, specializing in high impact smashes.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Storm",
+        "drop": [
+            {
+                "name": "General Sargas Ruk",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сокрушающий шторм",
+        "description": "<p>Сокрушающий Шторм — это необычная стойка, предназначенная для оружия ближнего боя класса Молоты. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%BA%D1%80%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%88%D1%82%D0%BE%D1%80%D0%BC",
+        "icon": "icons/ru/Shattering_Storm.36b740cf7347784bc24d1d445dacffb5.png",
+        "thumb": "icons/ru/thumbs/Shattering_Storm.36b740cf7347784bc24d1d445dacffb5.128x128.png",
+        "drop": [
+            {
+                "name": "General Sargas Ruk",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

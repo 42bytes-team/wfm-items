@@ -1,0 +1,40 @@
+{
+    "_id": "567af35fcbfa8f05d076a4ee",
+    "tags": [
+        "mod",
+        "pvp",
+        "uncommon"
+    ],
+    "icon": "icons/en/Ripper_Rounds.b14591b6f15dcf7aba2a721201fd706e.png",
+    "thumb": "icons/en/thumbs/Ripper_Rounds.b14591b6f15dcf7aba2a721201fd706e.128x128.png",
+    "icon_format": "port",
+    "url_name": "ripper_rounds",
+    "tradable": true,
+    "en": {
+        "item_name": "Ripper Rounds",
+        "description": "<p>Ripper Rounds is a PvP exclusive Rifle Mod that converts an amount of physical damage to Puncture damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ripper_Rounds",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Разрезающие снаряды",
+        "description": "<p>Разрезающие Снаряды — необычный мод для основного оружия в режиме конклава, который преобразует % базового урона в  пронзающий.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D0%B7%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
+        "icon": "icons/ru/Ripper_Rounds.59cd9766e3c21bc0481105f5a0258434.png",
+        "thumb": "icons/ru/thumbs/Ripper_Rounds.59cd9766e3c21bc0481105f5a0258434.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "uncommon",
+    "mod_max_rank": 3,
+    "trading_tax": 4000
+}

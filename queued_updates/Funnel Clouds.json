@@ -1,0 +1,48 @@
+{
+    "_id": "554d3f0ce779894445a848fb",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Funnel_Clouds.b40582a7a46c29c0b6717a57b1bc7e4a.png",
+    "thumb": "icons/en/thumbs/Funnel_Clouds.b40582a7a46c29c0b6717a57b1bc7e4a.128x128.png",
+    "icon_format": "port",
+    "url_name": "funnel_clouds",
+    "tradable": true,
+    "en": {
+        "item_name": "Funnel Clouds",
+        "description": "<p>Funnel Clouds is a Warframe Augment Mod for Zephyr that increases the number of active Tornadoes while decreasing their size and removes their ability to pick up enemies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Funnel_Clouds",
+        "drop": [
+            {
+                "name": "Red Veil",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Облако воронок",
+        "description": "<p>Облако Воронок — мод-аугмент для варфрейма Зефир, улучшающий её способность Торнадо. Вместо больших торнадо, умение будет создавать несколько маленьких (в зависимости от ранга мода), неспособных поднять врагов, торнадо.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%BA",
+        "icon": "icons/ru/Funnel_Clouds.60ea29053047471b7a5ec1ba6cb560a1.png",
+        "thumb": "icons/ru/thumbs/Funnel_Clouds.60ea29053047471b7a5ec1ba6cb560a1.128x128.png",
+        "drop": [
+            {
+                "name": "Red Veil",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

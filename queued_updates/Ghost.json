@@ -1,0 +1,48 @@
+{
+    "_id": "54a74454e779892d5e515660",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Ghost.9c61a624b07663f8d4d710a3331cccce.png",
+    "thumb": "icons/en/thumbs/Ghost.9c61a624b07663f8d4d710a3331cccce.128x128.png",
+    "icon_format": "port",
+    "url_name": "ghost",
+    "tradable": true,
+    "en": {
+        "item_name": "Ghost",
+        "description": "<p>Ghost allows the Shade sentinel to cloak itself and the user when hostile entities are within range, rendering themselves invisible to enemies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ghost",
+        "drop": [
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Призрак",
+        "description": "<p>Описание отсутствует</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA",
+        "icon": "icons/ru/Ghost.af1ac0c228fe4a086de87eeaf9db75ed.png",
+        "thumb": "icons/ru/thumbs/Ghost.af1ac0c228fe4a086de87eeaf9db75ed.128x128.png",
+        "drop": [
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

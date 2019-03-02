@@ -1,0 +1,48 @@
+{
+    "_id": "54e0c9eee7798903744178a7",
+    "tags": [
+        "mod",
+        "pve",
+        "rare"
+    ],
+    "icon": "icons/en/Counter_Pulse.7f88af7ba65853e9e371265203a77526.png",
+    "thumb": "icons/en/thumbs/Counter_Pulse.7f88af7ba65853e9e371265203a77526.128x128.png",
+    "icon_format": "port",
+    "url_name": "counter_pulse",
+    "tradable": true,
+    "en": {
+        "item_name": "Counter Pulse",
+        "description": "<p>Counter Pulse is a Warframe Augment Mod for Mag's Polarize that jams enemy weapons and disables Robotic enemies for a set duration.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Counter_Pulse",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Обратный Импульс",
+        "description": "<p>Обратный Импульс — мод-аугмент для Варфреймов Мэг и Мэг Прайм, улучшающий способность Поляризация Щита.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81",
+        "icon": "icons/ru/Counter_Pulse.ea42c1af0484a17620a5b70fc6ea6ef4.png",
+        "thumb": "icons/ru/thumbs/Counter_Pulse.ea42c1af0484a17620a5b70fc6ea6ef4.128x128.png",
+        "drop": [
+            {
+                "name": "The Perrin Sequence",
+                "link": null
+            },
+            {
+                "name": "New Loka",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}
