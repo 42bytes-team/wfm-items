@@ -4,9 +4,9 @@
         "arcane enhancements",
         "operator"
     ],
-    "icon": "icons/en/Magus_Destruct.5d566d3caf8a4d577f3316224757d24f.png",
-    "thumb": "icons/en/thumbs/Magus_Destruct.5d566d3caf8a4d577f3316224757d24f.128x128.png",
-    "icon_format": "land",
+    "icon": "icons/en/Magus_Destruct.ff5f23593d0850514dd7b63c3a16d8c9.png",
+    "thumb": "icons/en/thumbs/Magus_Destruct.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
+    "icon_format": "port",
     "url_name": "magus_destruct",
     "tradable": true,
     "en": {
@@ -15,9 +15,15 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Magus_Destruct",
         "drop": []
     },
+    "ko": {
+        "item_name": "마구스 디스트럭트",
+        "description": "<p>ON VOID BLAST: Reduce enemy resistance to Puncture Damage by 12/25/37/50%.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Destruct",
+        "drop": []
+    },
     "ru": {
-        "item_name": "Распад Волхва",
-        "description": "<p>Распад Волхва - мистификатор для Оператора, который снижает сопротивление пронзающему урону противников задетых взрывом бездны.</p>",
+        "item_name": "Magus Destruct",
+        "description": "<p>ON VOID BLAST: Reduce enemy resistance to Puncture Damage by 12/25/37/50%.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Magus_Destruct",
         "icon": null,
         "thumb": null,

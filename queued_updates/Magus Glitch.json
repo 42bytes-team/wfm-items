@@ -4,9 +4,9 @@
         "arcane enhancements",
         "operator"
     ],
-    "icon": "icons/en/Magus_Glitch.280ca4675b8d1d36f742493903bf7c3c.png",
-    "thumb": "icons/en/thumbs/Magus_Glitch.280ca4675b8d1d36f742493903bf7c3c.128x128.png",
-    "icon_format": "land",
+    "icon": "icons/en/Magus_Glitch.ff5f23593d0850514dd7b63c3a16d8c9.png",
+    "thumb": "icons/en/thumbs/Magus_Glitch.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
+    "icon_format": "port",
     "url_name": "magus_glitch",
     "tradable": true,
     "en": {
@@ -15,10 +15,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch",
         "drop": []
     },
+    "ko": {
+        "item_name": "마구스 글리치",
+        "description": "<p>ON TRANSFERENCE STATIC: 25/50/75/100% chance to negate Transference Static.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch",
+        "drop": []
+    },
     "ru": {
-        "item_name": "Сбой Волхва",
-        "description": "<p>Сбой Волхва - мистификатор для Оператора, который позволяет ему с определённым шансом избежать накладывания эффекта «помехи переноса» при полной потере здоровья.</p>",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B1%D0%BE%D0%B9_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0",
+        "item_name": "Magus Glitch",
+        "description": "<p>ON TRANSFERENCE STATIC: 25/50/75/100% chance to negate Transference Static.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch",
         "icon": null,
         "thumb": null,
         "drop": []

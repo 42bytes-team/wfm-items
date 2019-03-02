@@ -2,7 +2,7 @@
     "_id": "5a26c320c2c9e903a8381331",
     "tags": [
         "arcane enhancements",
-        "zaw"
+        "operator"
     ],
     "icon": "icons/en/Exodia_Epidemic.3807403ba71019a6186468b251bc1d3a.png",
     "thumb": "icons/en/thumbs/Exodia_Epidemic.3807403ba71019a6186468b251bc1d3a.128x128.png",
@@ -11,6 +11,17 @@
     "tradable": true,
     "en": {
         "item_name": "Exodia Epidemic",
+        "description": "<p>Exodia Epidemic is an Arcane Enhancement for Zaws that unleashes a shockwave of Infested energy that suspends enemies caught in the blast radius, generated from the melee ground slam performed immediately after a bullet jump or double jump.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Epidemic",
+        "drop": [
+            {
+                "name": "Operation: Plague Star",
+                "link": "http://warframe.wikia.com/wiki/Operation:_Plague_Star"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "엑소디아 에피데믹",
         "description": "<p>Exodia Epidemic is an Arcane Enhancement for Zaws that unleashes a shockwave of Infested energy that suspends enemies caught in the blast radius, generated from the melee ground slam performed immediately after a bullet jump or double jump.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Epidemic",
         "drop": [

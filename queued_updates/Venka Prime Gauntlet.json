@@ -1,4 +1,4 @@
-{
+    {
     "_id": "58358e1b2c2ada00655a4ef5",
     "tags": [
         "blueprint",
@@ -20,6 +20,18 @@
     "set_root": false,
     "en": {
         "item_name": "Venka Prime Gauntlet",
+        "description": "<p>The Venka Prime are ancient Orokin claws that serve as an upgrade of the Venka. Apart from having higher base damage and slightly faster attack speed, the Venka Prime also has an improved melee combo multiplier.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "Neo V4 Rare",
+                "link": null
+            }
+        ],
+        "codex": ""
+    },
+    "ko": {
+        "item_name": "벤카 프라임 건틀렛",
         "description": "<p>The Venka Prime are ancient Orokin claws that serve as an upgrade of the Venka. Apart from having higher base damage and slightly faster attack speed, the Venka Prime also has an improved melee combo multiplier.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Venka_Prime",
         "drop": [

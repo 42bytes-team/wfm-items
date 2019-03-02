@@ -4,9 +4,9 @@
         "arcane enhancements",
         "operator"
     ],
-    "icon": "icons/en/Magus_Repair.476b8fa90aceb37cf1b07e223f1669fb.png",
-    "thumb": "icons/en/thumbs/Magus_Repair.476b8fa90aceb37cf1b07e223f1669fb.128x128.png",
-    "icon_format": "land",
+    "icon": "icons/en/Magus_Repair.ff5f23593d0850514dd7b63c3a16d8c9.png",
+    "thumb": "icons/en/thumbs/Magus_Repair.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
+    "icon_format": "port",
     "url_name": "magus_repair",
     "tradable": true,
     "en": {
@@ -15,10 +15,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Magus_Repair",
         "drop": []
     },
+    "ko": {
+        "item_name": "마구스 리페어",
+        "description": "<p>ON VOID MODE: Heal Warframes within 5/10/15/20m by 2/5/7/10% Health/s.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Repair",
+        "drop": []
+    },
     "ru": {
-        "item_name": "Ремонт Волхва",
-        "description": "<p>Ремонт Волхва - мистификатор для Оператора, который при нахождении в режиме бездны восстанавливает здоровье находящимся рядом варфреймам.</p>",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0",
+        "item_name": "Magus Repair",
+        "description": "<p>ON VOID MODE: Heal Warframes within 5/10/15/20m by 2/5/7/10% Health/s.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Repair",
         "icon": null,
         "thumb": null,
         "drop": []

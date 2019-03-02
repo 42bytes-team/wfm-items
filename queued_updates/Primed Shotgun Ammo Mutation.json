@@ -11,8 +11,19 @@
     "icon_format": "port",
     "url_name": "primed_shotgun_ammo_mutation",
     "tradable": true,
-    "en": {
+    "ko": {
         "item_name": "Primed Shotgun Ammo Mutation",
+        "description": "<p>Primed Shotgun Ammo Mutation is the Primed version of the Shotgun Ammo Mutation mod for shotguns, which converts any unused ammo type into Shotgun Ammo. The affected shotgun will only convert ammo while equipped, and will not convert any ammo type used by holstered secondary weapons until their own ammo is full.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Shotgun_Ammo_Mutation",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "en": {
+        "item_name": "프라임드 샷건 애모 뮤테이션",
         "description": "<p>Primed Shotgun Ammo Mutation is the Primed version of the Shotgun Ammo Mutation mod for shotguns, which converts any unused ammo type into Shotgun Ammo. The affected shotgun will only convert ammo while equipped, and will not convert any ammo type used by holstered secondary weapons until their own ammo is full.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Primed_Shotgun_Ammo_Mutation",
         "drop": [

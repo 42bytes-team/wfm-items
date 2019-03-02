@@ -4,9 +4,9 @@
         "arcane enhancements",
         "operator"
     ],
-    "icon": "icons/en/Virtuos_Surge.1047626f95c989bdd5ee977d1eca05d5.png",
-    "thumb": "icons/en/thumbs/Virtuos_Surge.1047626f95c989bdd5ee977d1eca05d5.128x128.png",
-    "icon_format": "land",
+    "icon": "icons/en/Virtuos_Surge.ff5f23593d0850514dd7b63c3a16d8c9.png",
+    "thumb": "icons/en/thumbs/Virtuos_Surge.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
+    "icon_format": "port",
     "url_name": "virtuos_surge",
     "tradable": true,
     "en": {
@@ -15,13 +15,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Surge",
         "drop": []
     },
+    "ko": {
+        "item_name": "버츄오스 서지",
+        "description": "<p>ON HIT: Converts 25/50/75/100% Void Damage to Electricity Damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Surge",
+        "drop": []
+    },
     "ru": {
-        "item_name": "Виртуозный Всполох",
-        "description": "<p>Виртуозный Всполох - мистификатор для усилителя оператора, который конвертирует урон бездной в электрический урон.</p>",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%92%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D1%85",
+        "item_name": "Virtuos Surge",
+        "description": "<p>ON HIT: Converts 25/50/75/100% Void Damage to Electricity Damage.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Surge",
         "icon": null,
         "thumb": null,
         "drop": []
     },
-    "mod_max_rank": 3
+    "mod_max_rank": 3,
+    "trading_tax": 0
 }
