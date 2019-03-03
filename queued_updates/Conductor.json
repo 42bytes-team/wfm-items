@@ -24,21 +24,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "컨덕터",
-        "description": "<p>Conductor is a Warframe Augment Mod for Octavia that allows her to command Resonator by reactivating it, ordering it to move to her reticle with increased speed.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Conductor",
-        "drop": [
-            {
-                "name": "Cephalon Suda",
-                "link": null
-            },
-            {
-                "name": "New Loka",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Дирижёр",
         "description": "<p>Мод-аугмент для Варфрейма Октавия изменяющий способность Резонатор. Повторное нажатие клавиши способности (по умолчанию 2) позволяет управлять роллером — он будет двигаться по направлению к точке, куда указывает прицел, но с уменьшенной на 100 / 115 / 135 / 150% скоростью.</p>",
@@ -52,6 +37,21 @@
             },
             {
                 "name": "Новая Лока",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "컨덕터",
+        "description": "<p>Conductor is a Warframe Augment Mod for Octavia that allows her to command Resonator by reactivating it, ordering it to move to her reticle with increased speed.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Conductor",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "New Loka",
                 "link": null
             }
         ]

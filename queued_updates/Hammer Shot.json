@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "해머 샷",
-        "description": "<p>Hammer Shot increases the critical damage multiplier and the status effect chance of rifles.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hammer_Shot",
+    "ru": {
+        "item_name": "Мощный выстрел",
+        "description": "<p>Мощный Выстрел — гибридный мод для основного оружия, который увеличивает критический урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Hammer_Shot.1d819ba330c77d084fdfbe22961558f1.png",
+        "thumb": "icons/ru/thumbs/Hammer_Shot.1d819ba330c77d084fdfbe22961558f1.128x128.png",
         "drop": [
             {
                 "name": "Nightmare Mode reward",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Мощный выстрел",
-        "description": "<p>Мощный Выстрел — гибридный мод для основного оружия, который увеличивает критический урон и шанс срабатывания эффекта статуса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "icon": "icons/ru/Hammer_Shot.1d819ba330c77d084fdfbe22961558f1.png",
-        "thumb": "icons/ru/thumbs/Hammer_Shot.1d819ba330c77d084fdfbe22961558f1.128x128.png",
+    "ko": {
+        "item_name": "해머 샷",
+        "description": "<p>Hammer Shot increases the critical damage multiplier and the status effect chance of rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hammer_Shot",
         "drop": [
             {
                 "name": "Nightmare Mode reward",

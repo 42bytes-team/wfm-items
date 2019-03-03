@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "안티시페이션",
-        "description": "<p>Anticipation is a PvP-exclusive Exilus mod that grants temporary immunity to either staggers or knockdowns depending on which was received.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Anticipation",
+    "ru": {
+        "item_name": "Предвидение",
+        "description": "<p>Предвидение — эксилус мод для варфреймов в режиме конклава, который даёт иммунитет к оглушению и сбиванию с ног на определенный промежуток времени после того, как вас опрокинули, либо оглушили.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Anticipation.0fbf6bc39ee29d6f15663c464658e11c.png",
+        "thumb": "icons/ru/thumbs/Anticipation.0fbf6bc39ee29d6f15663c464658e11c.128x128.png",
         "drop": [
             {
                 "name": "Conclave Offering",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Предвидение",
-        "description": "<p>Предвидение — эксилус мод для варфреймов в режиме конклава, который даёт иммунитет к оглушению и сбиванию с ног на определенный промежуток времени после того, как вас опрокинули, либо оглушили.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Anticipation.0fbf6bc39ee29d6f15663c464658e11c.png",
-        "thumb": "icons/ru/thumbs/Anticipation.0fbf6bc39ee29d6f15663c464658e11c.128x128.png",
+    "ko": {
+        "item_name": "안티시페이션",
+        "description": "<p>Anticipation is a PvP-exclusive Exilus mod that grants temporary immunity to either staggers or knockdowns depending on which was received.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Anticipation",
         "drop": [
             {
                 "name": "Conclave Offering",

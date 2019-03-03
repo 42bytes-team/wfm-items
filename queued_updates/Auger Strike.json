@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "어거 스트라이크",
-        "description": "<p>The Auger Strike mod increases  Puncture damage of a melee weapon by 20% per rank for a maximum of 120% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Auger_Strike",
+    "ru": {
+        "item_name": "Пробивающий удар",
+        "description": "<p>Пробивающий Удар — редкий мод для оружия ближнего боя, который увеличивает  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Auger_Strike.66a10981104c61445f8b46ecdc60a9ec.png",
+        "thumb": "icons/ru/thumbs/Auger_Strike.66a10981104c61445f8b46ecdc60a9ec.128x128.png",
         "drop": [
             {
                 "name": "Operation: Mutalist Incursions reward",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Пробивающий удар",
-        "description": "<p>Пробивающий Удар — редкий мод для оружия ближнего боя, который увеличивает  пронзающий урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
-        "icon": "icons/ru/Auger_Strike.66a10981104c61445f8b46ecdc60a9ec.png",
-        "thumb": "icons/ru/thumbs/Auger_Strike.66a10981104c61445f8b46ecdc60a9ec.128x128.png",
+    "ko": {
+        "item_name": "어거 스트라이크",
+        "description": "<p>The Auger Strike mod increases  Puncture damage of a melee weapon by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Auger_Strike",
         "drop": [
             {
                 "name": "Operation: Mutalist Incursions reward",

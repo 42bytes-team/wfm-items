@@ -49,10 +49,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "페인 쓰레쉬홀드",
-        "description": "<p>Pain Threshold is an exilus Index mod that increases the stagger recovery of your Warframe.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pain_Threshold",
+    "ru": {
+        "item_name": "Болевой порог",
+        "description": "<p>Болевой порог — эксилус мод для варфреймов, увеличивающий скорость восстановления варфрейма после полученного оглушения.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%80%D0%BE%D0%B3",
+        "icon": "icons/ru/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.png",
+        "thumb": "icons/ru/thumbs/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.128x128.png",
         "drop": [
             {
                 "name": "Auditor",
@@ -88,12 +90,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Болевой порог",
-        "description": "<p>Болевой порог — эксилус мод для варфреймов, увеличивающий скорость восстановления варфрейма после полученного оглушения.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%80%D0%BE%D0%B3",
-        "icon": "icons/ru/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.png",
-        "thumb": "icons/ru/thumbs/Pain_Threshold.33d14cf44d121d20cabcce4473d9a5d3.128x128.png",
+    "ko": {
+        "item_name": "페인 쓰레쉬홀드",
+        "description": "<p>Pain Threshold is an exilus Index mod that increases the stagger recovery of your Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pain_Threshold",
         "drop": [
             {
                 "name": "Auditor",

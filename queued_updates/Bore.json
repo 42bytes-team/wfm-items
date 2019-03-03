@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "보어",
-        "description": "<p>The Bore mod increases  Puncture damage of a pistol by 20% per rank for a maximum of 120% at Rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bore",
+    "ru": {
+        "item_name": "Сверло",
+        "description": "<p>Сверло  — редкий мод для вторичного оружия, который увеличивает  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D0%BB%D0%BE",
+        "icon": "icons/ru/Bore.fed60c59ed5a1fd2f9ebc40b1e338108.png",
+        "thumb": "icons/ru/thumbs/Bore.fed60c59ed5a1fd2f9ebc40b1e338108.128x128.png",
         "drop": [
             {
                 "name": "Operation: Mutalist Incursions reward",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Сверло",
-        "description": "<p>Сверло  — редкий мод для вторичного оружия, который увеличивает  пронзающий урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D0%BB%D0%BE",
-        "icon": "icons/ru/Bore.fed60c59ed5a1fd2f9ebc40b1e338108.png",
-        "thumb": "icons/ru/thumbs/Bore.fed60c59ed5a1fd2f9ebc40b1e338108.128x128.png",
+    "ko": {
+        "item_name": "보어",
+        "description": "<p>The Bore mod increases  Puncture damage of a pistol by 20% per rank for a maximum of 120% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bore",
         "drop": [
             {
                 "name": "Operation: Mutalist Incursions reward",

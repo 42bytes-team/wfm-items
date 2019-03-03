@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "쉴드 오브 섀도우스",
-        "description": "<p>Shield of Shadows is a Warframe Augment Mod that allows Nekros to transfer a percentage of damage he receives to any active Shadows of the Dead minions within 50 meters.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shield_of_Shadows",
+    "ru": {
+        "item_name": "Щит теней",
+        "description": "<p>Щит Теней — мод-аугмент для варфрейма Некрос, улучшающий его способность Тени Мертвых. Тени будут поглощать получаемый Некросом урон в определённом радиусе от варфрейма, создавая нити, аналогичные способности Тринити - Связь.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A9%D0%B8%D1%82_%D1%82%D0%B5%D0%BD%D0%B5%D0%B9",
+        "icon": "icons/ru/Shield_of_Shadows.8deabfb24dd08579dcbddb60fd04ecc2.png",
+        "thumb": "icons/ru/thumbs/Shield_of_Shadows.8deabfb24dd08579dcbddb60fd04ecc2.128x128.png",
         "drop": [
             {
                 "name": "The Perrin Sequence",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Щит теней",
-        "description": "<p>Щит Теней — мод-аугмент для варфрейма Некрос, улучшающий его способность Тени Мертвых. Тени будут поглощать получаемый Некросом урон в определённом радиусе от варфрейма, создавая нити, аналогичные способности Тринити - Связь.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A9%D0%B8%D1%82_%D1%82%D0%B5%D0%BD%D0%B5%D0%B9",
-        "icon": "icons/ru/Shield_of_Shadows.8deabfb24dd08579dcbddb60fd04ecc2.png",
-        "thumb": "icons/ru/thumbs/Shield_of_Shadows.8deabfb24dd08579dcbddb60fd04ecc2.128x128.png",
+    "ko": {
+        "item_name": "쉴드 오브 섀도우스",
+        "description": "<p>Shield of Shadows is a Warframe Augment Mod that allows Nekros to transfer a percentage of damage he receives to any active Shadows of the Dead minions within 50 meters.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shield_of_Shadows",
         "drop": [
             {
                 "name": "The Perrin Sequence",

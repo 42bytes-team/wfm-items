@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "리쥬버네이션",
-        "description": "<p>Rejuvenation is an Aura that regenerates all team members' health every second.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rejuvenation",
+    "ru": {
+        "item_name": "Омоложение",
+        "description": "<p>Омоложение — необычная аура, которая регенерирует здоровье команды с течением времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BC%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.png",
+        "thumb": "icons/ru/thumbs/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.128x128.png",
         "drop": [
             {
                 "name": "Alerts",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Омоложение",
-        "description": "<p>Омоложение — необычная аура, которая регенерирует здоровье команды с течением времени.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BC%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.png",
-        "thumb": "icons/ru/thumbs/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.128x128.png",
+    "ko": {
+        "item_name": "리쥬버네이션",
+        "description": "<p>Rejuvenation is an Aura that regenerates all team members' health every second.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rejuvenation",
         "drop": [
             {
                 "name": "Alerts",

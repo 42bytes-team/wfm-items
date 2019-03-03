@@ -22,10 +22,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "프라임드 퓨리",
-        "description": "<p>Primed Fury is the Primed version of Fury, which increases the attack speed of a melee weapon.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Fury",
+    "ru": {
+        "item_name": "Ярость прайм",
+        "description": "<p>Ярость прайм — легендарный мод, который увеличивает скорость атаки оружия ближнего боя. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "icon": "icons/ru/Primed_Fury.0fe19f88e661180b5813dbcde89bffd5.png",
+        "thumb": "icons/ru/thumbs/Primed_Fury.0fe19f88e661180b5813dbcde89bffd5.128x128.png",
         "drop": [
             {
                 "name": "Daily Tribute",
@@ -33,12 +35,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Ярость прайм",
-        "description": "<p>Ярость прайм — легендарный мод, который увеличивает скорость атаки оружия ближнего боя. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "icon": "icons/ru/Primed_Fury.0fe19f88e661180b5813dbcde89bffd5.png",
-        "thumb": "icons/ru/thumbs/Primed_Fury.0fe19f88e661180b5813dbcde89bffd5.128x128.png",
+    "ko": {
+        "item_name": "프라임드 퓨리",
+        "description": "<p>Primed Fury is the Primed version of Fury, which increases the attack speed of a melee weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Fury",
         "drop": [
             {
                 "name": "Daily Tribute",

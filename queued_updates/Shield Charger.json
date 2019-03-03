@@ -33,10 +33,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "쉴드 차저",
-        "description": "<p>Shield Charger is a Sentinel Mod that periodically increases your Warframe's Max Shields and Shield Regen for a certain amount of time. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shield_Charger",
+    "ru": {
+        "item_name": "Зарядник щита",
+        "description": "<p>Зарядник щита — редкий мод для стражей, который временно увеличивает максимальный показатель щита варфрейма и скорость его восстановления.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA_%D1%89%D0%B8%D1%82%D0%B0",
+        "icon": "icons/ru/Shield_Charger.a8a00f839b18d2a64557fdd530db179a.png",
+        "thumb": "icons/ru/thumbs/Shield_Charger.a8a00f839b18d2a64557fdd530db179a.128x128.png",
         "drop": [
             {
                 "name": "Auditor",
@@ -56,12 +58,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Зарядник щита",
-        "description": "<p>Зарядник щита — редкий мод для стражей, который временно увеличивает максимальный показатель щита варфрейма и скорость его восстановления.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%B8%D0%BA_%D1%89%D0%B8%D1%82%D0%B0",
-        "icon": "icons/ru/Shield_Charger.a8a00f839b18d2a64557fdd530db179a.png",
-        "thumb": "icons/ru/thumbs/Shield_Charger.a8a00f839b18d2a64557fdd530db179a.128x128.png",
+    "ko": {
+        "item_name": "쉴드 차저",
+        "description": "<p>Shield Charger is a Sentinel Mod that periodically increases your Warframe's Max Shields and Shield Regen for a certain amount of time. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shield_Charger",
         "drop": [
             {
                 "name": "Auditor",

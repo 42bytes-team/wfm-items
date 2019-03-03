@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "프리지드 블래스트",
-        "description": "<p>The Frigid Blast mod increases both the  Cold damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Frigid_Blast",
+    "ru": {
+        "item_name": "Холодный взрыв",
+        "description": "<p>Холодный Взрыв — гибридный мод для дробовиков, который увеличивает  ледяной урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
+        "icon": "icons/ru/Frigid_Blast.5d3b048032de27f74c7e8e69fe96bc11.png",
+        "thumb": "icons/ru/thumbs/Frigid_Blast.5d3b048032de27f74c7e8e69fe96bc11.128x128.png",
         "drop": [
             {
                 "name": "Spy 2.0 reward",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Холодный взрыв",
-        "description": "<p>Холодный Взрыв — гибридный мод для дробовиков, который увеличивает  ледяной урон и шанс срабатывания эффекта статуса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
-        "icon": "icons/ru/Frigid_Blast.5d3b048032de27f74c7e8e69fe96bc11.png",
-        "thumb": "icons/ru/thumbs/Frigid_Blast.5d3b048032de27f74c7e8e69fe96bc11.128x128.png",
+    "ko": {
+        "item_name": "프리지드 블래스트",
+        "description": "<p>The Frigid Blast mod increases both the  Cold damage and Status Chance of a shotgun by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Frigid_Blast",
         "drop": [
             {
                 "name": "Spy 2.0 reward",

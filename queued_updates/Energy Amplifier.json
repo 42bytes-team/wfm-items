@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "에너지 앰플리파이어",
-        "description": "<p>The Energy Amplifier mod increases the Power Range of an Archwing by 10% per rank for a maximum of 60% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Amplifier",
+    "ru": {
+        "item_name": "Усилитель энергии",
+        "description": "<p>Усилитель Энергии — мод для арчвинга, который увеличивает зону поражения способностей.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8",
+        "icon": "icons/ru/Energy_Amplifier.aacc77ae72fefc482e60e98f9db5208c.png",
+        "thumb": "icons/ru/thumbs/Energy_Amplifier.aacc77ae72fefc482e60e98f9db5208c.128x128.png",
         "drop": [
             {
                 "name": "GrineerLancer Dreg",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Усилитель энергии",
-        "description": "<p>Усилитель Энергии — мод для арчвинга, который увеличивает зону поражения способностей.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8",
-        "icon": "icons/ru/Energy_Amplifier.aacc77ae72fefc482e60e98f9db5208c.png",
-        "thumb": "icons/ru/thumbs/Energy_Amplifier.aacc77ae72fefc482e60e98f9db5208c.128x128.png",
+    "ko": {
+        "item_name": "에너지 앰플리파이어",
+        "description": "<p>The Energy Amplifier mod increases the Power Range of an Archwing by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Amplifier",
         "drop": [
             {
                 "name": "GrineerLancer Dreg",

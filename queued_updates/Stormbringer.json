@@ -53,10 +53,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "스톰브링어",
-        "description": "<p>The Stormbringer mod adds  Electricity damage to a weapon by 15% per rank for a maximum of 90% at Rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stormbringer",
+    "ru": {
+        "item_name": "Громовержец",
+        "description": "<p>Громовержец — необычный мод для основного оружия, который увеличивает  электрический урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D1%86",
+        "icon": "icons/ru/Stormbringer.bd4d9d80bf2634c2525a9fd816ff2eb9.png",
+        "thumb": "icons/ru/thumbs/Stormbringer.bd4d9d80bf2634c2525a9fd816ff2eb9.128x128.png",
         "drop": [
             {
                 "name": "Ballista",
@@ -96,12 +98,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Громовержец",
-        "description": "<p>Громовержец — необычный мод для основного оружия, который увеличивает  электрический урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D1%86",
-        "icon": "icons/ru/Stormbringer.bd4d9d80bf2634c2525a9fd816ff2eb9.png",
-        "thumb": "icons/ru/thumbs/Stormbringer.bd4d9d80bf2634c2525a9fd816ff2eb9.128x128.png",
+    "ko": {
+        "item_name": "스톰브링어",
+        "description": "<p>The Stormbringer mod adds  Electricity damage to a weapon by 15% per rank for a maximum of 90% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Stormbringer",
         "drop": [
             {
                 "name": "Ballista",

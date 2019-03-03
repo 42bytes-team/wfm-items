@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "칼큘레이티드 스프링",
-        "description": "<p>Calculated Spring is a PvP-exclusive Exilus mod that increases Health at the cost of reduced Mobility.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Calculated_Spring",
+    "ru": {
+        "item_name": "Просчитанный прыжок",
+        "description": "<p>Просчитанный прыжок — эксилус мод для варфреймов в режиме конклава который увеличивает показатели здоровья, взамен уменьшая мобильность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
+        "icon": "icons/ru/Calculated_Spring.835d83b299e893358e28b34cbd923ecb.png",
+        "thumb": "icons/ru/thumbs/Calculated_Spring.835d83b299e893358e28b34cbd923ecb.128x128.png",
         "drop": [
             {
                 "name": "Conclave Offering",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Просчитанный прыжок",
-        "description": "<p>Просчитанный прыжок — эксилус мод для варфреймов в режиме конклава который увеличивает показатели здоровья, взамен уменьшая мобильность.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
-        "icon": "icons/ru/Calculated_Spring.835d83b299e893358e28b34cbd923ecb.png",
-        "thumb": "icons/ru/thumbs/Calculated_Spring.835d83b299e893358e28b34cbd923ecb.128x128.png",
+    "ko": {
+        "item_name": "칼큘레이티드 스프링",
+        "description": "<p>Calculated Spring is a PvP-exclusive Exilus mod that increases Health at the cost of reduced Mobility.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Calculated_Spring",
         "drop": [
             {
                 "name": "Conclave Offering",

@@ -57,10 +57,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "피스톨 갬빗",
-        "description": "<p>The Pistol Gambit mod increases the critical hit chance of a pistol by 20% per rank for a maximum of 120% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Gambit",
+    "ru": {
+        "item_name": "Пистолетный гамбит",
+        "description": "<p>Пистолетный Гамбит — обычный мод для вторичного оружия, который  увеличивает шанс критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%BC%D0%B1%D0%B8%D1%82",
+        "icon": "icons/ru/Pistol_Gambit.79f0186abc6150ac7c05108c2faa3de9.png",
+        "thumb": "icons/ru/thumbs/Pistol_Gambit.79f0186abc6150ac7c05108c2faa3de9.128x128.png",
         "drop": [
             {
                 "name": "CorpusProd Crewman",
@@ -104,12 +106,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Пистолетный гамбит",
-        "description": "<p>Пистолетный Гамбит — обычный мод для вторичного оружия, который  увеличивает шанс критического урона.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%BC%D0%B1%D0%B8%D1%82",
-        "icon": "icons/ru/Pistol_Gambit.79f0186abc6150ac7c05108c2faa3de9.png",
-        "thumb": "icons/ru/thumbs/Pistol_Gambit.79f0186abc6150ac7c05108c2faa3de9.128x128.png",
+    "ko": {
+        "item_name": "피스톨 갬빗",
+        "description": "<p>The Pistol Gambit mod increases the critical hit chance of a pistol by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Gambit",
         "drop": [
             {
                 "name": "CorpusProd Crewman",

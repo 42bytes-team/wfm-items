@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "파타지엄",
-        "description": "<p>Patagium is a Warframe mod that increases the duration of Aim Glide and Wall Latch.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Patagium",
+    "ru": {
+        "item_name": "Патагий",
+        "description": "<p>Патагий — эксилус мод для варфреймов, который увеличивает управляемость полета и длительность фиксации на стене.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%82%D0%B0%D0%B3%D0%B8%D0%B9",
+        "icon": "icons/ru/Patagium.a5c990e863fc82a7310b08fa3871543c.png",
+        "thumb": "icons/ru/thumbs/Patagium.a5c990e863fc82a7310b08fa3871543c.128x128.png",
         "drop": [
             {
                 "name": "Drekar Trooper",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Патагий",
-        "description": "<p>Патагий — эксилус мод для варфреймов, который увеличивает управляемость полета и длительность фиксации на стене.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%82%D0%B0%D0%B3%D0%B8%D0%B9",
-        "icon": "icons/ru/Patagium.a5c990e863fc82a7310b08fa3871543c.png",
-        "thumb": "icons/ru/thumbs/Patagium.a5c990e863fc82a7310b08fa3871543c.128x128.png",
+    "ko": {
+        "item_name": "파타지엄",
+        "description": "<p>Patagium is a Warframe mod that increases the duration of Aim Glide and Wall Latch.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Patagium",
         "drop": [
             {
                 "name": "Drekar Trooper",

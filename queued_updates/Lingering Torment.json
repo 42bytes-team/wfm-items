@@ -49,10 +49,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "링거링 토멘트",
-        "description": "<p>Lingering Torment increases the duration of Status Effects inflicted by Shotguns. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Lingering_Torment",
+    "ru": {
+        "item_name": "Долгие мучения",
+        "description": "<p>Долгие Мучения — обычный мод для дробовиков, который увеличивает длительность статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%B8%D0%B5_%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F",
+        "icon": "icons/ru/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.png",
+        "thumb": "icons/ru/thumbs/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.128x128.png",
         "drop": [
             {
                 "name": "GrineerEviscerator",
@@ -88,12 +90,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Долгие мучения",
-        "description": "<p>Долгие Мучения — обычный мод для дробовиков, который увеличивает длительность статуса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%B8%D0%B5_%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F",
-        "icon": "icons/ru/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.png",
-        "thumb": "icons/ru/thumbs/Lingering_Torment.37dda63e8b06844a40f73a2544fcd75b.128x128.png",
+    "ko": {
+        "item_name": "링거링 토멘트",
+        "description": "<p>Lingering Torment increases the duration of Status Effects inflicted by Shotguns. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lingering_Torment",
         "drop": [
             {
                 "name": "GrineerEviscerator",

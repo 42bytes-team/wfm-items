@@ -41,10 +41,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "레이저 샷",
-        "description": "<p>Razor Shot increases the  Slash damage of pistols.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Razor_Shot",
+    "ru": {
+        "item_name": "Выстрел лезвием",
+        "description": "<p>Выстрел Лезвием — необычный мод для вторичного оружия, который увеличивает  режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5%D0%BC",
+        "icon": "icons/ru/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.png",
+        "thumb": "icons/ru/thumbs/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.128x128.png",
         "drop": [
             {
                 "name": "GrineerElite Arid Lancer",
@@ -72,12 +74,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Выстрел лезвием",
-        "description": "<p>Выстрел Лезвием — необычный мод для вторичного оружия, который увеличивает  режущий урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5%D0%BC",
-        "icon": "icons/ru/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.png",
-        "thumb": "icons/ru/thumbs/Razor_Shot.a8d66b00b24d13e518dd722b38f26e18.128x128.png",
+    "ko": {
+        "item_name": "레이저 샷",
+        "description": "<p>Razor Shot increases the  Slash damage of pistols.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Razor_Shot",
         "drop": [
             {
                 "name": "GrineerElite Arid Lancer",

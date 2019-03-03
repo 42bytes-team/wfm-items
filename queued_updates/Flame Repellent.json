@@ -41,10 +41,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "플레임 레펠런트",
-        "description": "<p>Flame Repellent increases the  Heat resistance of a Warframe's health and shields.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flame_Repellent",
+    "ru": {
+        "item_name": "Огнестойкость",
+        "description": "<p>Огнестойкость — обычный мод для варфреймов, который увеличивает сопротивление  Огненному урону.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.png",
+        "thumb": "icons/ru/thumbs/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.128x128.png",
         "drop": [
             {
                 "name": "GrineerFlameblade",
@@ -72,12 +74,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Огнестойкость",
-        "description": "<p>Огнестойкость — обычный мод для варфреймов, который увеличивает сопротивление  Огненному урону.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.png",
-        "thumb": "icons/ru/thumbs/Flame_Repellent.2781d826eeb124dddce91db1c47c838f.128x128.png",
+    "ko": {
+        "item_name": "플레임 레펠런트",
+        "description": "<p>Flame Repellent increases the  Heat resistance of a Warframe's health and shields.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Flame_Repellent",
         "drop": [
             {
                 "name": "GrineerFlameblade",

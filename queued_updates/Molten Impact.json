@@ -53,10 +53,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "몰튼 임팩트",
-        "description": "<p>The Molten Impact increases  Heat damage on a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Molten_Impact",
+    "ru": {
+        "item_name": "Обжигающий удар",
+        "description": "<p>Обжигающий Удар — необычный мод для оружия ближнего боя, который увеличивает  огненный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%B6%D0%B8%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Molten_Impact.922f9a82bb8ca7c107ea9065fddf23af.png",
+        "thumb": "icons/ru/thumbs/Molten_Impact.922f9a82bb8ca7c107ea9065fddf23af.128x128.png",
         "drop": [
             {
                 "name": "Ambulas",
@@ -96,12 +98,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Обжигающий удар",
-        "description": "<p>Обжигающий Удар — необычный мод для оружия ближнего боя, который увеличивает  огненный урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%B1%D0%B6%D0%B8%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
-        "icon": "icons/ru/Molten_Impact.922f9a82bb8ca7c107ea9065fddf23af.png",
-        "thumb": "icons/ru/thumbs/Molten_Impact.922f9a82bb8ca7c107ea9065fddf23af.128x128.png",
+    "ko": {
+        "item_name": "몰튼 임팩트",
+        "description": "<p>The Molten Impact increases  Heat damage on a melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Molten_Impact",
         "drop": [
             {
                 "name": "Ambulas",

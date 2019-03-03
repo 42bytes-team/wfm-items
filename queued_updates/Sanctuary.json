@@ -33,10 +33,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "생츄어리",
-        "description": "<p>Sanctuary allows a Sentinel to create a shield around its master while they heal fallen allies.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)",
+    "ru": {
+        "item_name": "Убежище",
+        "description": "<p>Убежище — редкий мод  для стражей, который даёт ему возможность создавать защитное поле при воскрешении павшего союзника. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
+        "icon": "icons/ru/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
+        "thumb": "icons/ru/thumbs/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.128x128.png",
         "drop": [
             {
                 "name": "GrineerBombard",
@@ -56,12 +58,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Убежище",
-        "description": "<p>Убежище — редкий мод  для стражей, который даёт ему возможность создавать защитное поле при воскрешении павшего союзника. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
-        "icon": "icons/ru/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
-        "thumb": "icons/ru/thumbs/Sanctuary.1b90eedee92421a6c3ff165d10d46fb5.128x128.png",
+    "ko": {
+        "item_name": "생츄어리",
+        "description": "<p>Sanctuary allows a Sentinel to create a shield around its master while they heal fallen allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)",
         "drop": [
             {
                 "name": "GrineerBombard",

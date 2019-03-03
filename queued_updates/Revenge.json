@@ -57,10 +57,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "리벤지",
-        "description": "<p>Revenge allows Shade to attack enemies but only if they attacked its owner.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Revenge",
+    "ru": {
+        "item_name": "Месть",
+        "description": "<p>Месть — мод-заповедь для Стража Шейд, дающий ему возможность атаковать врагов в определенном радиусе от хозяина.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Revenge.11965b485374f7c64e7b2c929ac34ca9.png",
+        "thumb": "icons/ru/thumbs/Revenge.11965b485374f7c64e7b2c929ac34ca9.128x128.png",
         "drop": [
             {
                 "name": "CorpusMOA",
@@ -104,12 +106,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Месть",
-        "description": "<p>Месть — мод-заповедь для Стража Шейд, дающий ему возможность атаковать врагов в определенном радиусе от хозяина.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Revenge.11965b485374f7c64e7b2c929ac34ca9.png",
-        "thumb": "icons/ru/thumbs/Revenge.11965b485374f7c64e7b2c929ac34ca9.128x128.png",
+    "ko": {
+        "item_name": "리벤지",
+        "description": "<p>Revenge allows Shade to attack enemies but only if they attacked its owner.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Revenge",
         "drop": [
             {
                 "name": "CorpusMOA",

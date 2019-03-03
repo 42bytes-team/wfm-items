@@ -24,21 +24,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "인벨로핑 클라우드",
-        "description": "<p>Enveloping Cloud is a Warframe Augment Mod for Wukong's Cloud Walker that gives allies near the cloud temporary invisiblity.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Enveloping_Cloud",
-        "drop": [
-            {
-                "name": "Arbiters of Hexis",
-                "link": null
-            },
-            {
-                "name": "New Loka",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Окутывающее Облако",
         "description": "<p>Мод-аугмент для Варфрейма Вуконг изменяющий способность Идущий Среди Облаков. При использовании способности, союзники в радиусе 2.5 / 3 / 3.5 / 4 метров получают невидимость на 8 / 10 / 12 / 14 секунд.</p>",
@@ -52,6 +37,21 @@
             },
             {
                 "name": "Новая Лока",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "인벨로핑 클라우드",
+        "description": "<p>Enveloping Cloud is a Warframe Augment Mod for Wukong's Cloud Walker that gives allies near the cloud temporary invisiblity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Enveloping_Cloud",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "New Loka",
                 "link": null
             }
         ]

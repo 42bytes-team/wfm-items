@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "스프린트 부스트",
-        "description": "<p>Sprint Boost is an Aura that increases sprint speed of Warframes.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sprint_Boost",
+    "ru": {
+        "item_name": "Ускоритель",
+        "description": "<p>Ускоритель  — необычная аура, которая увеличивает скорость спринта всех членов команды.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Sprint_Boost.5557a83e4c37267110123e7ae78c3e8a.png",
+        "thumb": "icons/ru/thumbs/Sprint_Boost.5557a83e4c37267110123e7ae78c3e8a.128x128.png",
         "drop": [
             {
                 "name": "Alerts",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Ускоритель",
-        "description": "<p>Ускоритель  — необычная аура, которая увеличивает скорость спринта всех членов команды.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
-        "icon": "icons/ru/Sprint_Boost.5557a83e4c37267110123e7ae78c3e8a.png",
-        "thumb": "icons/ru/thumbs/Sprint_Boost.5557a83e4c37267110123e7ae78c3e8a.128x128.png",
+    "ko": {
+        "item_name": "스프린트 부스트",
+        "description": "<p>Sprint Boost is an Aura that increases sprint speed of Warframes.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sprint_Boost",
         "drop": [
             {
                 "name": "Alerts",

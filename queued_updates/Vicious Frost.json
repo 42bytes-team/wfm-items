@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "비셔스 프로스트",
-        "description": "<p>The Vicious Frost mod increases both the  Cold damage and Status Chance of a melee weapon by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vicious_Frost",
+    "ru": {
+        "item_name": "Порочный мороз",
+        "description": "<p>Порочный Мороз — гибридный мод для оружия ближнего боя, который увеличивает  ледяной урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%80%D0%BE%D0%B7",
+        "icon": "icons/ru/Vicious_Frost.1faf2ca913f8d4d576e7009864c8a2aa.png",
+        "thumb": "icons/ru/thumbs/Vicious_Frost.1faf2ca913f8d4d576e7009864c8a2aa.128x128.png",
         "drop": [
             {
                 "name": "Spy 2.0 reward",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Порочный мороз",
-        "description": "<p>Порочный Мороз — гибридный мод для оружия ближнего боя, который увеличивает  ледяной урон и шанс срабатывания эффекта статуса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%80%D0%BE%D0%B7",
-        "icon": "icons/ru/Vicious_Frost.1faf2ca913f8d4d576e7009864c8a2aa.png",
-        "thumb": "icons/ru/thumbs/Vicious_Frost.1faf2ca913f8d4d576e7009864c8a2aa.128x128.png",
+    "ko": {
+        "item_name": "비셔스 프로스트",
+        "description": "<p>The Vicious Frost mod increases both the  Cold damage and Status Chance of a melee weapon by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vicious_Frost",
         "drop": [
             {
                 "name": "Spy 2.0 reward",

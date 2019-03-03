@@ -49,10 +49,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "헬파이어",
-        "description": "<p>The Hellfire mod increases  Heat damage by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hellfire",
+    "ru": {
+        "item_name": "Адское пламя",
+        "description": "<p>Адское Пламя — необычный мод для основного оружия, который добавляет оружию  огненный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
+        "icon": "icons/ru/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.png",
+        "thumb": "icons/ru/thumbs/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png",
         "drop": [
             {
                 "name": "Ambulas",
@@ -88,12 +90,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Адское пламя",
-        "description": "<p>Адское Пламя — необычный мод для основного оружия, который добавляет оружию  огненный урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
-        "icon": "icons/ru/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.png",
-        "thumb": "icons/ru/thumbs/Hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png",
+    "ko": {
+        "item_name": "헬파이어",
+        "description": "<p>The Hellfire mod increases  Heat damage by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Hellfire",
         "drop": [
             {
                 "name": "Ambulas",

@@ -33,10 +33,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "스틸 파이버",
-        "description": "<p>Steel Fiber increases the armor of a Warframe.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Steel_Fiber",
+    "ru": {
+        "item_name": "Стальное волокно",
+        "description": "<p>Стальное волокно — обычный мод для варфреймов, который увеличивает показатели брони.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE",
+        "icon": "icons/ru/Steel_Fiber.cd810416081c60c108359ffb2655dad3.png",
+        "thumb": "icons/ru/thumbs/Steel_Fiber.cd810416081c60c108359ffb2655dad3.128x128.png",
         "drop": [
             {
                 "name": "Tyl Regor",
@@ -56,12 +58,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Стальное волокно",
-        "description": "<p>Стальное волокно — обычный мод для варфреймов, который увеличивает показатели брони.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE",
-        "icon": "icons/ru/Steel_Fiber.cd810416081c60c108359ffb2655dad3.png",
-        "thumb": "icons/ru/thumbs/Steel_Fiber.cd810416081c60c108359ffb2655dad3.128x128.png",
+    "ko": {
+        "item_name": "스틸 파이버",
+        "description": "<p>Steel Fiber increases the armor of a Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Steel_Fiber",
         "drop": [
             {
                 "name": "Tyl Regor",

@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "이스케이프 벨로시티",
-        "description": "<p>Escape Velocity is a Nova Warframe Augment Mod for Worm Hole that grants Nova and her allies increased movement speed after teleporting. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Escape_Velocity",
+    "ru": {
+        "item_name": "Бегство",
+        "description": "<p>Бегство - мод-аугмент для варфрейма Нова и Нова Прайм, улучшающий её способность Червоточина. Варфреймы, прошедшие через Червоточину, получают ускорение на некоторый промежуток времени. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE",
+        "icon": "icons/ru/Escape_Velocity.a8fac4d91e3d7be7406abc55374420e9.png",
+        "thumb": "icons/ru/thumbs/Escape_Velocity.a8fac4d91e3d7be7406abc55374420e9.128x128.png",
         "drop": [
             {
                 "name": "Steel Meridian",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Бегство",
-        "description": "<p>Бегство - мод-аугмент для варфрейма Нова и Нова Прайм, улучшающий её способность Червоточина. Варфреймы, прошедшие через Червоточину, получают ускорение на некоторый промежуток времени. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE",
-        "icon": "icons/ru/Escape_Velocity.a8fac4d91e3d7be7406abc55374420e9.png",
-        "thumb": "icons/ru/thumbs/Escape_Velocity.a8fac4d91e3d7be7406abc55374420e9.128x128.png",
+    "ko": {
+        "item_name": "이스케이프 벨로시티",
+        "description": "<p>Escape Velocity is a Nova Warframe Augment Mod for Worm Hole that grants Nova and her allies increased movement speed after teleporting. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Escape_Velocity",
         "drop": [
             {
                 "name": "Steel Meridian",

@@ -24,21 +24,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "데시케이션스 커스",
-        "description": "<p>Desiccation's Curse is a Warframe Augment Mod for Inaros' Desiccation ability that has a chance to summon a Sand Shadow when killing a blinded enemy with a finisher.</p>",
-        "wiki_link": "https://warframe.fandom.com/wiki/Desiccation%27s_Curse",
-        "drop": [
-            {
-                "name": "Arbiters of Hexis",
-                "link": null
-            },
-            {
-                "name": "The Perrin Sequence",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Проклятие Суховея",
         "description": "<p>Проклятие Суховея — мод-аугмент для Варфрейма Инарос, изменяющий способность суховей. При убийстве ослеплённого данной способностью противника есть шанс призвать его песчаную тень.</p>",
@@ -52,6 +37,21 @@
             },
             {
                 "name": "Последовательность Перрина",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "데시케이션스 커스",
+        "description": "<p>Desiccation's Curse is a Warframe Augment Mod for Inaros' Desiccation ability that has a chance to summon a Sand Shadow when killing a blinded enemy with a finisher.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Desiccation%27s_Curse",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
                 "link": null
             }
         ]

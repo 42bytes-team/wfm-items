@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "링크 쉴드",
-        "description": "<p>Link Shields increases a Kubrow's maximum shields by adding a percent of the Warframe's shields to its own shields. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Link_Shields",
+    "ru": {
+        "item_name": "Связь щитов",
+        "description": "<p>Связь Щитов — необычный мод для всех пород Кубрау, увеличивающий максимальное значение щита питомца путем добавления к нему процента щита текущего варфрейма.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C_%D1%89%D0%B8%D1%82%D0%BE%D0%B2",
+        "icon": "icons/ru/Link_Shields.75b9ae75ff706a620b52e45c1758b68c.png",
+        "thumb": "icons/ru/thumbs/Link_Shields.75b9ae75ff706a620b52e45c1758b68c.128x128.png",
         "drop": [
             {
                 "name": "Drahk",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Связь щитов",
-        "description": "<p>Связь Щитов — необычный мод для всех пород Кубрау, увеличивающий максимальное значение щита питомца путем добавления к нему процента щита текущего варфрейма.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C_%D1%89%D0%B8%D1%82%D0%BE%D0%B2",
-        "icon": "icons/ru/Link_Shields.75b9ae75ff706a620b52e45c1758b68c.png",
-        "thumb": "icons/ru/thumbs/Link_Shields.75b9ae75ff706a620b52e45c1758b68c.128x128.png",
+    "ko": {
+        "item_name": "링크 쉴드",
+        "description": "<p>Link Shields increases a Kubrow's maximum shields by adding a percent of the Warframe's shields to its own shields. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Link_Shields",
         "drop": [
             {
                 "name": "Drahk",

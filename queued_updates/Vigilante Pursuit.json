@@ -24,21 +24,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "비질란티 퍼수트",
-        "description": "<p>Vigilante Pursuit is a set mod that displays all enemies within its radius with red markers on the mini-map.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Pursuit",
-        "drop": [
-            {
-                "name": "Bounty (30-50 )",
-                "link": null
-            },
-            {
-                "name": "Plains Commander (0.33%)",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Карательная Слежка",
         "description": "<p>Карательная Слежка — необычный мод для варфреймов, который отмечает врагов на мини-карте в определенном радиусе.</p>",
@@ -52,6 +37,21 @@
             },
             {
                 "name": "Командир Равнин (0.33%)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "비질란티 퍼수트",
+        "description": "<p>Vigilante Pursuit is a set mod that displays all enemies within its radius with red markers on the mini-map.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Pursuit",
+        "drop": [
+            {
+                "name": "Bounty (30-50 )",
+                "link": null
+            },
+            {
+                "name": "Plains Commander (0.33%)",
                 "link": null
             }
         ]

@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "스프링-로디드 브로드헤드",
-        "description": "<p>Spring-Loaded Broadhead is a Daikyu-exclusive mod usable in both PvE and PvP that gives the Daikyu a damage bonus against targets 15 meters away or further.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Broadhead",
+    "ru": {
+        "item_name": "Пружинные наконечники",
+        "description": "<p>Пружинные Наконечники — мод-аугмент для лука Дайкю, который увеличивает урон в том случае, если противник находится в определённом радиусе эффекта мода. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%B8",
+        "icon": "icons/ru/Spring-Loaded_Broadhead.3a74f59b24020d0825517fec047fd4fe.png",
+        "thumb": "icons/ru/thumbs/Spring-Loaded_Broadhead.3a74f59b24020d0825517fec047fd4fe.128x128.png",
         "drop": [
             {
                 "name": "Conclave Offering",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Пружинные наконечники",
-        "description": "<p>Пружинные Наконечники — мод-аугмент для лука Дайкю, который увеличивает урон в том случае, если противник находится в определённом радиусе эффекта мода. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%B8",
-        "icon": "icons/ru/Spring-Loaded_Broadhead.3a74f59b24020d0825517fec047fd4fe.png",
-        "thumb": "icons/ru/thumbs/Spring-Loaded_Broadhead.3a74f59b24020d0825517fec047fd4fe.128x128.png",
+    "ko": {
+        "item_name": "스프링-로디드 브로드헤드",
+        "description": "<p>Spring-Loaded Broadhead is a Daikyu-exclusive mod usable in both PvE and PvP that gives the Daikyu a damage bonus against targets 15 meters away or further.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Broadhead",
         "drop": [
             {
                 "name": "Conclave Offering",

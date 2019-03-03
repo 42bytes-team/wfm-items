@@ -29,10 +29,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "퀵 싱킹",
-        "description": "<p>Quickening increases the attack speed of melee weapons while channeling at the cost of reduced channeling efficiency.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Quickening",
+    "ru": {
+        "item_name": "Ускоряющий",
+        "description": "<p>Ускоряющий — редкий мод концентрации для оружия ближнего боя, который увеличивает скорость атаки, взамен уменьшая эффективность концентрации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D0%B9",
+        "icon": "icons/ru/Quickening.e5c0f247575db10bc09a5eebfefc1e02.png",
+        "thumb": "icons/ru/thumbs/Quickening.e5c0f247575db10bc09a5eebfefc1e02.128x128.png",
         "drop": [
             {
                 "name": "Dark Sectors Defense Reward",
@@ -48,12 +50,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Ускоряющий",
-        "description": "<p>Ускоряющий — редкий мод концентрации для оружия ближнего боя, который увеличивает скорость атаки, взамен уменьшая эффективность концентрации.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D0%B9",
-        "icon": "icons/ru/Quickening.e5c0f247575db10bc09a5eebfefc1e02.png",
-        "thumb": "icons/ru/thumbs/Quickening.e5c0f247575db10bc09a5eebfefc1e02.128x128.png",
+    "ko": {
+        "item_name": "퀵 싱킹",
+        "description": "<p>Quickening increases the attack speed of melee weapons while channeling at the cost of reduced channeling efficiency.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Quickening",
         "drop": [
             {
                 "name": "Dark Sectors Defense Reward",

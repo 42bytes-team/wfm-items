@@ -20,17 +20,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "트래쉬 랜딩",
-        "description": "<p>Thrash Landing is a K-Drive mod that deals Blast damage on landing, to enemies within range. Damage is calculated based on a percentage of Trick score.</p>",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrash_Landing",
-        "drop": [
-            {
-                "name": "Ventkids",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Грязное Приземление",
         "description": "<p>Грязное Приземление — модификатор для К-Драйва, позволяющий после выполнения трюка нанести 40% от накопленных очков трюков в виде взрывного урона противникам в радиусе 4 метра.</p>",
@@ -40,6 +29,17 @@
         "drop": [
             {
                 "name": "Дети Труб",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "트래쉬 랜딩",
+        "description": "<p>Thrash Landing is a K-Drive mod that deals Blast damage on landing, to enemies within range. Damage is calculated based on a percentage of Trick score.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Thrash_Landing",
+        "drop": [
+            {
+                "name": "Ventkids",
                 "link": null
             }
         ]

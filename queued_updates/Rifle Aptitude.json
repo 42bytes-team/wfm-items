@@ -37,10 +37,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "라이플 앱티튜드",
-        "description": "<p>Rifle Aptitude increases the Status Chance of Rifles.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude",
+    "ru": {
+        "item_name": "Боеспособность",
+        "description": "<p>Боеспособность — необычный мод для основного оружия, который увеличивает шанс срабатывания статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D1%85%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA",
+        "icon": "icons/ru/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png",
+        "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
         "drop": [
             {
                 "name": "GrineerArid Butcher",
@@ -64,12 +66,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Боеспособность",
-        "description": "<p>Боеспособность — необычный мод для основного оружия, который увеличивает шанс срабатывания статуса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D1%85%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA",
-        "icon": "icons/ru/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png",
-        "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
+    "ko": {
+        "item_name": "라이플 앱티튜드",
+        "description": "<p>Rifle Aptitude increases the Status Chance of Rifles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude",
         "drop": [
             {
                 "name": "GrineerArid Butcher",

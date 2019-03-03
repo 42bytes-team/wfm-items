@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "스트레이핑 슬라이드",
-        "description": "<p>Strafing Slide is a pistol mod usable in both PvE and PvP that reduces recoil and spread when firing while sliding.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Strafing_Slide",
+    "ru": {
+        "item_name": "Скользящий обстрел",
+        "description": "<p>Скользящий Обстрел — условный мод для вторичного оружия в режиме конклава, который увеличивает скорость перезарядки и уменьшает разброс при подкате.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%BE%D0%B1%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.png",
+        "thumb": "icons/ru/thumbs/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.128x128.png",
         "drop": [
             {
                 "name": "Conclave Offering",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Скользящий обстрел",
-        "description": "<p>Скользящий Обстрел — условный мод для вторичного оружия в режиме конклава, который увеличивает скорость перезарядки и уменьшает разброс при подкате.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%BE%D0%B1%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "icon": "icons/ru/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.png",
-        "thumb": "icons/ru/thumbs/Strafing_Slide.6accbaf82a81feb29c97ca8d930ee785.128x128.png",
+    "ko": {
+        "item_name": "스트레이핑 슬라이드",
+        "description": "<p>Strafing Slide is a pistol mod usable in both PvE and PvP that reduces recoil and spread when firing while sliding.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Strafing_Slide",
         "drop": [
             {
                 "name": "Conclave Offering",

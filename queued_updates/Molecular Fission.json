@@ -24,21 +24,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "몰레큘러 피션",
-        "description": "<p>Molecular Fission is a Warframe Augment Mod for Nova's Molecular Prime that makes primed enemies restore Null Star charges when killed.</p>",
-        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission",
-        "drop": [
-            {
-                "name": "Cephalon Suda",
-                "link": null
-            },
-            {
-                "name": "Steel Meridian",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Молекулярное Деление",
         "description": "<p>Молекулярное Деление — мод-аугмент для Варфрейма Нова и Нова Прайм, изменяющий способность Молекулярный Заряд. При убийствах противников находящихся под действием эффекта молекулярного заряда будет гарантированно восстанавливаться один заряд звезды пустоты и дополнительный заряд с шансом 25% / 50% / 75% / 100% в зависимости от ранга модификатора.</p>",
@@ -52,6 +37,21 @@
             },
             {
                 "name": "Стальной Меридиан",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "몰레큘러 피션",
+        "description": "<p>Molecular Fission is a Warframe Augment Mod for Nova's Molecular Prime that makes primed enemies restore Null Star charges when killed.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "Steel Meridian",
                 "link": null
             }
         ]

@@ -29,10 +29,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "메임",
-        "description": "<p>The Maim mod increases  Slash damage of a pistol by 20% per rank for a maximum of 120% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Maim",
+    "ru": {
+        "item_name": "Порез",
+        "description": "<p>Порез — редкий мод для вторичного оружия, который увеличивает   режущий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7",
+        "icon": "icons/ru/Maim.4fe4214fe68c683d09a7d4fee17c03bb.png",
+        "thumb": "icons/ru/thumbs/Maim.4fe4214fe68c683d09a7d4fee17c03bb.128x128.png",
         "drop": [
             {
                 "name": "Operation: Gate Crash reward",
@@ -48,12 +50,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Порез",
-        "description": "<p>Порез — редкий мод для вторичного оружия, который увеличивает   режущий урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%80%D0%B5%D0%B7",
-        "icon": "icons/ru/Maim.4fe4214fe68c683d09a7d4fee17c03bb.png",
-        "thumb": "icons/ru/thumbs/Maim.4fe4214fe68c683d09a7d4fee17c03bb.128x128.png",
+    "ko": {
+        "item_name": "메임",
+        "description": "<p>The Maim mod increases  Slash damage of a pistol by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Maim",
         "drop": [
             {
                 "name": "Operation: Gate Crash reward",

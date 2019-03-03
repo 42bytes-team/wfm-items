@@ -29,10 +29,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "웜 코트",
-        "description": "<p>Warm Coat increases a Warframe's shield resistance against the cryogenic temperatures environmental hazard.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Warm_Coat",
+    "ru": {
+        "item_name": "Обогрев",
+        "description": "<p>Обогрев — эксилус мод для варфреймов, который увеличивает сопротивление щита к воздействию льда.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0",
+        "icon": "icons/ru/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.png",
+        "thumb": "icons/ru/thumbs/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.128x128.png",
         "drop": [
             {
                 "name": "GrineerBombard",
@@ -48,12 +50,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Обогрев",
-        "description": "<p>Обогрев — эксилус мод для варфреймов, который увеличивает сопротивление щита к воздействию льда.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0",
-        "icon": "icons/ru/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.png",
-        "thumb": "icons/ru/thumbs/Warm_Coat.c5065a9b04c335bbfdce0ca5772f2511.128x128.png",
+    "ko": {
+        "item_name": "웜 코트",
+        "description": "<p>Warm Coat increases a Warframe's shield resistance against the cryogenic temperatures environmental hazard.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Warm_Coat",
         "drop": [
             {
                 "name": "GrineerBombard",

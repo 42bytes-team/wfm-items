@@ -49,10 +49,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "디스럽터",
-        "description": "<p>Disruptor increases the  Impact damage of Shotguns.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Disruptor",
+    "ru": {
+        "item_name": "Разрушитель",
+        "description": "<p>Разрушитель — обычный мод для дробовиков, который увеличивает  ударный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Disruptor.55e9e6689104309932f81d90d41459ae.png",
+        "thumb": "icons/ru/thumbs/Disruptor.55e9e6689104309932f81d90d41459ae.128x128.png",
         "drop": [
             {
                 "name": "GrineerArid Eviscerator",
@@ -88,12 +90,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Разрушитель",
-        "description": "<p>Разрушитель — обычный мод для дробовиков, который увеличивает  ударный урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
-        "icon": "icons/ru/Disruptor.55e9e6689104309932f81d90d41459ae.png",
-        "thumb": "icons/ru/thumbs/Disruptor.55e9e6689104309932f81d90d41459ae.128x128.png",
+    "ko": {
+        "item_name": "디스럽터",
+        "description": "<p>Disruptor increases the  Impact damage of Shotguns.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Disruptor",
         "drop": [
             {
                 "name": "GrineerArid Eviscerator",

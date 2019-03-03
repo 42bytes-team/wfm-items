@@ -45,10 +45,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "썬더볼트",
-        "description": "<p>The Thunderbolt mod gives arrows from Bows a 7.5% chance per rank of exploding on impact for a maximum of 30% chance at Rank 3, dealing 250  Blast damage to the target, as well as to nearby enemies within 10 meters of the blast (scaled by distance).</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Thunderbolt",
+    "ru": {
+        "item_name": "Громобой",
+        "description": "<p>Громобой — редкий мод для луков, который с некоторым шансом подрывает стрелы при попадании, нанося урон врагам в радиусе 10-ти метров от взрыва.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%BE%D0%B9",
+        "icon": "icons/ru/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.png",
+        "thumb": "icons/ru/thumbs/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.128x128.png",
         "drop": [
             {
                 "name": "GrineerElite Arid Lancer",
@@ -80,12 +82,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Громобой",
-        "description": "<p>Громобой — редкий мод для луков, который с некоторым шансом подрывает стрелы при попадании, нанося урон врагам в радиусе 10-ти метров от взрыва.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%BE%D0%B9",
-        "icon": "icons/ru/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.png",
-        "thumb": "icons/ru/thumbs/Thunderbolt.6aa47a95f7ffc571867cf0540cc17f9d.128x128.png",
+    "ko": {
+        "item_name": "썬더볼트",
+        "description": "<p>The Thunderbolt mod gives arrows from Bows a 7.5% chance per rank of exploding on impact for a maximum of 30% chance at Rank 3, dealing 250  Blast damage to the target, as well as to nearby enemies within 10 meters of the blast (scaled by distance).</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Thunderbolt",
         "drop": [
             {
                 "name": "GrineerElite Arid Lancer",

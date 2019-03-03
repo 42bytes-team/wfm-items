@@ -29,10 +29,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "비거",
-        "description": "<p>The Vigor mod increases both Shield Capacity and Health attributes of a Warframe by a percentage of their base values.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigor",
+    "ru": {
+        "item_name": "Биоэнергия",
+        "description": "<p>Биоэнергия — гибридный мод для варфреймов, который увеличивает базовые показатели щита и здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B8%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
+        "icon": "icons/ru/Vigor.597b9255f5393dcd9fa46fbaa1e37885.png",
+        "thumb": "icons/ru/thumbs/Vigor.597b9255f5393dcd9fa46fbaa1e37885.128x128.png",
         "drop": [
             {
                 "name": "Operation Arid Fear",
@@ -48,12 +50,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Биоэнергия",
-        "description": "<p>Биоэнергия — гибридный мод для варфреймов, который увеличивает базовые показатели щита и здоровья.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B8%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
-        "icon": "icons/ru/Vigor.597b9255f5393dcd9fa46fbaa1e37885.png",
-        "thumb": "icons/ru/thumbs/Vigor.597b9255f5393dcd9fa46fbaa1e37885.128x128.png",
+    "ko": {
+        "item_name": "비거",
+        "description": "<p>The Vigor mod increases both Shield Capacity and Health attributes of a Warframe by a percentage of their base values.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigor",
         "drop": [
             {
                 "name": "Operation Arid Fear",

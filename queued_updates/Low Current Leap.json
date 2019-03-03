@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "노 커런트 립",
-        "description": "<p>Low Current Leap is a Warframe mod in PvP that increases Mobility for a decrease of Power Max.  </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Low_Current_Leap",
+    "ru": {
+        "item_name": "Слаботочный скачок",
+        "description": "<p>Слаботочный скачок — необычный эксилус мод для варфреймов в режиме конклава, который увеличивает мобильность варфрейма, задерживая время перед началом восстановления щита.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BB%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%BA%D0%B0%D1%87%D0%BE%D0%BA",
+        "icon": "icons/ru/Low_Current_Leap.5538d53c1b29c83c3a9866479a63fba8.png",
+        "thumb": "icons/ru/thumbs/Low_Current_Leap.5538d53c1b29c83c3a9866479a63fba8.128x128.png",
         "drop": [
             {
                 "name": "Conclave Offering",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Слаботочный скачок",
-        "description": "<p>Слаботочный скачок — необычный эксилус мод для варфреймов в режиме конклава, который увеличивает мобильность варфрейма, задерживая время перед началом восстановления щита.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BB%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%BA%D0%B0%D1%87%D0%BE%D0%BA",
-        "icon": "icons/ru/Low_Current_Leap.5538d53c1b29c83c3a9866479a63fba8.png",
-        "thumb": "icons/ru/thumbs/Low_Current_Leap.5538d53c1b29c83c3a9866479a63fba8.128x128.png",
+    "ko": {
+        "item_name": "노 커런트 립",
+        "description": "<p>Low Current Leap is a Warframe mod in PvP that increases Mobility for a decrease of Power Max.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Low_Current_Leap",
         "drop": [
             {
                 "name": "Conclave Offering",

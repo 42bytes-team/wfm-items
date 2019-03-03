@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "코멧 라운즈",
-        "description": "<p>Comet Rounds is a PvP exclusive rifle Mod that converts an amount of physical damage to Impact damage</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Comet_Rounds",
+    "ru": {
+        "item_name": "Патроны из кометы",
+        "description": "<p>Патроны Из Кометы — необычный мод для основного оружия в режиме конклава, который преобразует % базового урона в  ударный. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%B8%D0%B7_%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%8B",
+        "icon": "icons/ru/Comet_Rounds.028b5ff164b4003a81d051dd05e6eac5.png",
+        "thumb": "icons/ru/thumbs/Comet_Rounds.028b5ff164b4003a81d051dd05e6eac5.128x128.png",
         "drop": [
             {
                 "name": "Conclave Offering",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Патроны из кометы",
-        "description": "<p>Патроны Из Кометы — необычный мод для основного оружия в режиме конклава, который преобразует % базового урона в  ударный. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%B8%D0%B7_%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%8B",
-        "icon": "icons/ru/Comet_Rounds.028b5ff164b4003a81d051dd05e6eac5.png",
-        "thumb": "icons/ru/thumbs/Comet_Rounds.028b5ff164b4003a81d051dd05e6eac5.128x128.png",
+    "ko": {
+        "item_name": "코멧 라운즈",
+        "description": "<p>Comet Rounds is a PvP exclusive rifle Mod that converts an amount of physical damage to Impact damage</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Comet_Rounds",
         "drop": [
             {
                 "name": "Conclave Offering",

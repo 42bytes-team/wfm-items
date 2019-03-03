@@ -37,10 +37,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "시브즈 위트",
-        "description": "<p>Thief's Wit is a Warframe mod which adds a loot radar to the minimap. The loot radar will display resources, lootable canisters, chests, crates, and lootable corpses (which only appear during the self-destruction environmental hazard) on the mini-map. It will also locate Medallions in Syndicate Alert Missions and Resource Caches in Sabotage missions. Thief's Wit will not display lockers or dropped blueprints.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Thief's_Wit",
+    "ru": {
+        "item_name": "Чутьё вора",
+        "description": "<p>Чутьё Вора — эксилус мод для варфреймов, который отмечает на мини-карте ресурсы, моды и контейнеры в определённом радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D1%82%D1%8C%D1%91_%D0%B2%D0%BE%D1%80%D0%B0",
+        "icon": "icons/ru/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.png",
+        "thumb": "icons/ru/thumbs/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.128x128.png",
         "drop": [
             {
                 "name": "The Sergeant",
@@ -64,12 +66,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Чутьё вора",
-        "description": "<p>Чутьё Вора — эксилус мод для варфреймов, который отмечает на мини-карте ресурсы, моды и контейнеры в определённом радиусе.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D1%82%D1%8C%D1%91_%D0%B2%D0%BE%D1%80%D0%B0",
-        "icon": "icons/ru/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.png",
-        "thumb": "icons/ru/thumbs/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.128x128.png",
+    "ko": {
+        "item_name": "시브즈 위트",
+        "description": "<p>Thief's Wit is a Warframe mod which adds a loot radar to the minimap. The loot radar will display resources, lootable canisters, chests, crates, and lootable corpses (which only appear during the self-destruction environmental hazard) on the mini-map. It will also locate Medallions in Syndicate Alert Missions and Resource Caches in Sabotage missions. Thief's Wit will not display lockers or dropped blueprints.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Thief's_Wit",
         "drop": [
             {
                 "name": "The Sergeant",

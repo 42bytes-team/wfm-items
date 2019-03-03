@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "아르곤 스코프",
-        "description": "<p>Argon Scope is a rare rifle mod that increases critical chance while aiming for a brief time upon a headshot.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Argon_Scope",
+    "ru": {
+        "item_name": "Аргоновый прицел",
+        "description": "<p>Аргоновый Прицел — условный мод для винтовок, который после попадания в голову увеличивает шанс критического урона на некоторый промежуток времени при прицеливании.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%86%D0%B5%D0%BB",
+        "icon": "icons/ru/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.png",
+        "thumb": "icons/ru/thumbs/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.128x128.png",
         "drop": [
             {
                 "name": "Torment",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Аргоновый прицел",
-        "description": "<p>Аргоновый Прицел — условный мод для винтовок, который после попадания в голову увеличивает шанс критического урона на некоторый промежуток времени при прицеливании.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%86%D0%B5%D0%BB",
-        "icon": "icons/ru/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.png",
-        "thumb": "icons/ru/thumbs/Argon_Scope.898fbb057f65449fc6fc3c6abc1150b8.128x128.png",
+    "ko": {
+        "item_name": "아르곤 스코프",
+        "description": "<p>Argon Scope is a rare rifle mod that increases critical chance while aiming for a brief time upon a headshot.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Argon_Scope",
         "drop": [
             {
                 "name": "Torment",

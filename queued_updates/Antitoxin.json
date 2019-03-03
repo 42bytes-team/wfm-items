@@ -33,10 +33,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "안티톡신",
-        "description": "<p>Antitoxin increases the Toxin resistance of a Warframe's health.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Antitoxin_(Mod)",
+    "ru": {
+        "item_name": "Антитоксин (мод)",
+        "description": "<p>Антитоксин — необычный мод для варфреймов, который увеличивает сопротивление  токсичному урону.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BD_(%D0%BC%D0%BE%D0%B4)",
+        "icon": "icons/ru/Antitoxin.72252cc58215e6041361b7a5b67887cf.png",
+        "thumb": "icons/ru/thumbs/Antitoxin.72252cc58215e6041361b7a5b67887cf.128x128.png",
         "drop": [
             {
                 "name": "CorpusFusion MOA",
@@ -56,12 +58,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Антитоксин (мод)",
-        "description": "<p>Антитоксин — необычный мод для варфреймов, который увеличивает сопротивление  токсичному урону.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BD_(%D0%BC%D0%BE%D0%B4)",
-        "icon": "icons/ru/Antitoxin.72252cc58215e6041361b7a5b67887cf.png",
-        "thumb": "icons/ru/thumbs/Antitoxin.72252cc58215e6041361b7a5b67887cf.128x128.png",
+    "ko": {
+        "item_name": "안티톡신",
+        "description": "<p>Antitoxin increases the Toxin resistance of a Warframe's health.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Antitoxin_(Mod)",
         "drop": [
             {
                 "name": "CorpusFusion MOA",

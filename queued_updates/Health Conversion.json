@@ -20,10 +20,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "헬스 컨버전",
-        "description": "<p>Health Conversion is a Warframe mod that grants additional armor that stacks up to 3 times on picking up a health orb. Taking damage will consume a stack after 3 seconds.  This armor bonus is taken into account for abilities that use armor to calculate aspects of their functionality, including Rhino's Iron Skin, Nezha's Warding Halo, and Frost's Snow Globe.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Health_Conversion",
+    "ru": {
+        "item_name": "Преобразование здоровья",
+        "description": "<p>Преобразование Здоровья - редкий мод для варфреймов, который увеличивает броню на 75 при поднятии  сферы здоровья до 3 раз. На максимальном ранге мода бонус к броне составляет 450 за один стак.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F",
+        "icon": "icons/ru/Health_Conversion.2d477f792cab68700d4d1778a8429295.png",
+        "thumb": "icons/ru/thumbs/Health_Conversion.2d477f792cab68700d4d1778a8429295.128x128.png",
         "drop": [
             {
                 "name": "Cephalon Simaris Offering",
@@ -31,12 +33,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Преобразование здоровья",
-        "description": "<p>Преобразование Здоровья - редкий мод для варфреймов, который увеличивает броню на 75 при поднятии  сферы здоровья до 3 раз. На максимальном ранге мода бонус к броне составляет 450 за один стак.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F",
-        "icon": "icons/ru/Health_Conversion.2d477f792cab68700d4d1778a8429295.png",
-        "thumb": "icons/ru/thumbs/Health_Conversion.2d477f792cab68700d4d1778a8429295.128x128.png",
+    "ko": {
+        "item_name": "헬스 컨버전",
+        "description": "<p>Health Conversion is a Warframe mod that grants additional armor that stacks up to 3 times on picking up a health orb. Taking damage will consume a stack after 3 seconds.  This armor bonus is taken into account for abilities that use armor to calculate aspects of their functionality, including Rhino's Iron Skin, Nezha's Warding Halo, and Frost's Snow Globe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Health_Conversion",
         "drop": [
             {
                 "name": "Cephalon Simaris Offering",

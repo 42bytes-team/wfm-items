@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "에너미 레이더",
-        "description": "<p>Enemy Radar is an Aura that allows you and your teammates to see enemies on your mini-maps.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Enemy_Radar",
+    "ru": {
+        "item_name": "Детектор противника",
+        "description": "<p>Детектор противника — необычная аура, отмечающая врагов на мини-карте в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0",
+        "icon": "icons/ru/Enemy_Radar.ba312fa12df280a3df014395f158f860.png",
+        "thumb": "icons/ru/thumbs/Enemy_Radar.ba312fa12df280a3df014395f158f860.128x128.png",
         "drop": [
             {
                 "name": "Alerts",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Детектор противника",
-        "description": "<p>Детектор противника — необычная аура, отмечающая врагов на мини-карте в определенном радиусе.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0",
-        "icon": "icons/ru/Enemy_Radar.ba312fa12df280a3df014395f158f860.png",
-        "thumb": "icons/ru/thumbs/Enemy_Radar.ba312fa12df280a3df014395f158f860.128x128.png",
+    "ko": {
+        "item_name": "에너미 레이더",
+        "description": "<p>Enemy Radar is an Aura that allows you and your teammates to see enemies on your mini-maps.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Enemy_Radar",
         "drop": [
             {
                 "name": "Alerts",

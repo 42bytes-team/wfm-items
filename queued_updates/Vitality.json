@@ -113,10 +113,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "바이탈리티",
-        "description": "<p>Vitality increases the Maximum Health of a Warframe.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vitality",
+    "ru": {
+        "item_name": "Живучесть",
+        "description": "<p>Живучесть — обычный мод для варфреймов, который увеличивает максимальный запас здоровья.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B8%D0%B2%D1%83%D1%87%D0%B5%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Vitality.14f078cc2a43ce3ddb7de9c3b0c82cf6.png",
+        "thumb": "icons/ru/thumbs/Vitality.14f078cc2a43ce3ddb7de9c3b0c82cf6.128x128.png",
         "drop": [
             {
                 "name": "Alad V",
@@ -216,12 +218,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Живучесть",
-        "description": "<p>Живучесть — обычный мод для варфреймов, который увеличивает максимальный запас здоровья.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%96%D0%B8%D0%B2%D1%83%D1%87%D0%B5%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Vitality.14f078cc2a43ce3ddb7de9c3b0c82cf6.png",
-        "thumb": "icons/ru/thumbs/Vitality.14f078cc2a43ce3ddb7de9c3b0c82cf6.128x128.png",
+    "ko": {
+        "item_name": "바이탈리티",
+        "description": "<p>Vitality increases the Maximum Health of a Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vitality",
         "drop": [
             {
                 "name": "Alad V",

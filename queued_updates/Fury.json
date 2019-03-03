@@ -69,10 +69,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "퓨리",
-        "description": "<p>The Fury mod increases the attack speed of a melee weapon by 5% per rank for a maximum of 30% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Fury",
+    "ru": {
+        "item_name": "Ярость",
+        "description": "<p>Ярость — необычный мод для оружия ближнего боя, который увеличивает скорость атак.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Fury.731f521e43cc0d77f59a6f213b819003.png",
+        "thumb": "icons/ru/thumbs/Fury.731f521e43cc0d77f59a6f213b819003.128x128.png",
         "drop": [
             {
                 "name": "CorpusCrewman",
@@ -128,12 +130,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Ярость",
-        "description": "<p>Ярость — необычный мод для оружия ближнего боя, который увеличивает скорость атак.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Fury.731f521e43cc0d77f59a6f213b819003.png",
-        "thumb": "icons/ru/thumbs/Fury.731f521e43cc0d77f59a6f213b819003.128x128.png",
+    "ko": {
+        "item_name": "퓨리",
+        "description": "<p>The Fury mod increases the attack speed of a melee weapon by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fury",
         "drop": [
             {
                 "name": "CorpusCrewman",

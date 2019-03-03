@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "페로시티",
-        "description": "<p>The Ferocity  mod allows the Sahasa Kubrow to use finisher attacks on enemies.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ferocity",
+    "ru": {
+        "item_name": "Свирепость",
+        "description": "<p>Свирепость — мод-заповедь для Кубрау породы Сахаса, который позволяет компаньону совершить завершающую атаку на врагах, при этом увеличивая их урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D0%B8%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/Ferocity.3029361db9c137c94deffa5750c3f5ba.png",
+        "thumb": "icons/ru/thumbs/Ferocity.3029361db9c137c94deffa5750c3f5ba.128x128.png",
         "drop": [
             {
                 "name": "Drahk",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Свирепость",
-        "description": "<p>Свирепость — мод-заповедь для Кубрау породы Сахаса, который позволяет компаньону совершить завершающую атаку на врагах, при этом увеличивая их урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B2%D0%B8%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Ferocity.3029361db9c137c94deffa5750c3f5ba.png",
-        "thumb": "icons/ru/thumbs/Ferocity.3029361db9c137c94deffa5750c3f5ba.128x128.png",
+    "ko": {
+        "item_name": "페로시티",
+        "description": "<p>The Ferocity  mod allows the Sahasa Kubrow to use finisher attacks on enemies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ferocity",
         "drop": [
             {
                 "name": "Drahk",

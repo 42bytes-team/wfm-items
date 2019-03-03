@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "포커스 에너지",
-        "description": "<p>The Focus Energy mod increases Channeling efficiency and  Electricity damage on melee weapons by 10% and 15% per rank, at a maximum of 40% and 60% at rank 3, respectively.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Focus_Energy",
+    "ru": {
+        "item_name": "Фокусировка энергии",
+        "description": "<p>Фокусировка Энергии — гибридный мод для оружия ближнего боя, который увеличивает  электрический урон и эффективность концентрации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8",
+        "icon": "icons/ru/Focus_Energy.d11ae07eed12c4654fb429c61db171c3.png",
+        "thumb": "icons/ru/thumbs/Focus_Energy.d11ae07eed12c4654fb429c61db171c3.128x128.png",
         "drop": [
             {
                 "name": "Nightmare Mode reward",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Фокусировка энергии",
-        "description": "<p>Фокусировка Энергии — гибридный мод для оружия ближнего боя, который увеличивает  электрический урон и эффективность концентрации.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8",
-        "icon": "icons/ru/Focus_Energy.d11ae07eed12c4654fb429c61db171c3.png",
-        "thumb": "icons/ru/thumbs/Focus_Energy.d11ae07eed12c4654fb429c61db171c3.128x128.png",
+    "ko": {
+        "item_name": "포커스 에너지",
+        "description": "<p>The Focus Energy mod increases Channeling efficiency and  Electricity damage on melee weapons by 10% and 15% per rank, at a maximum of 40% and 60% at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Focus_Energy",
         "drop": [
             {
                 "name": "Nightmare Mode reward",

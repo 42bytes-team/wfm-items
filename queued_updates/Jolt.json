@@ -37,10 +37,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "졸트",
-        "description": "<p>The Jolt mod increases both the  Electricity damage and Status Chance of a pistol by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Jolt",
+    "ru": {
+        "item_name": "Тряска",
+        "description": "<p>Тряска — гибридный мод для вторичного оружия, который увеличивает  электрический урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D1%8F%D1%81%D0%BA%D0%B0",
+        "icon": "icons/ru/Jolt.a945cbd525bc11e940a8cd77fc3fa4fc.png",
+        "thumb": "icons/ru/thumbs/Jolt.a945cbd525bc11e940a8cd77fc3fa4fc.128x128.png",
         "drop": [
             {
                 "name": "Tethra's Doom Reward",
@@ -64,12 +66,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Тряска",
-        "description": "<p>Тряска — гибридный мод для вторичного оружия, который увеличивает  электрический урон и шанс срабатывания эффекта статуса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D1%8F%D1%81%D0%BA%D0%B0",
-        "icon": "icons/ru/Jolt.a945cbd525bc11e940a8cd77fc3fa4fc.png",
-        "thumb": "icons/ru/thumbs/Jolt.a945cbd525bc11e940a8cd77fc3fa4fc.128x128.png",
+    "ko": {
+        "item_name": "졸트",
+        "description": "<p>The Jolt mod increases both the  Electricity damage and Status Chance of a pistol by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Jolt",
         "drop": [
             {
                 "name": "Tethra's Doom Reward",

@@ -24,21 +24,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "크로마틱 블레이드",
-        "description": "<p>Chromatic Blade is a Warframe Augment Mod for Excalibur  that increases Exalted Blade's Status Chance while changing its damage from Physical Damage to a certain primary Elemental Damage type depending on Excalibur's chosen energy color.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Chromatic_Blade",
-        "drop": [
-            {
-                "name": "Steel Meridian",
-                "link": null
-            },
-            {
-                "name": "Arbiters of Hexis",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Хроматический Клинок",
         "description": "<p>Мод-аугмент для Варфреймов Экскалибур и Экскалибур Прайм, улучшающий способность Величественный Клинок. Тип урона Величественного Клинка меняется в зависимости от цвета энергии, а шанс статуса повышается на 50%.</p>",
@@ -52,6 +37,21 @@
             },
             {
                 "name": "Арбитры Гексиса",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "크로마틱 블레이드",
+        "description": "<p>Chromatic Blade is a Warframe Augment Mod for Excalibur  that increases Exalted Blade's Status Chance while changing its damage from Physical Damage to a certain primary Elemental Damage type depending on Excalibur's chosen energy color.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Chromatic_Blade",
+        "drop": [
+            {
+                "name": "Steel Meridian",
+                "link": null
+            },
+            {
+                "name": "Arbiters of Hexis",
                 "link": null
             }
         ]

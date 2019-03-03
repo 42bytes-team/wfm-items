@@ -57,10 +57,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "애모 드럼",
-        "description": "<p>Ammo Drum increases the maximum amount of rifle ammunition your Warframe can carry for that weapon.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Drum",
+    "ru": {
+        "item_name": "Барабанный магазин",
+        "description": "<p>Барабанный Магазин — обычный мод для основного оружия, который увеличивает максимальное количество боеприпасов.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "icon": "icons/ru/Ammo_Drum.90fb528710198eec03feb163e2ff2c55.png",
+        "thumb": "icons/ru/thumbs/Ammo_Drum.90fb528710198eec03feb163e2ff2c55.128x128.png",
         "drop": [
             {
                 "name": "CorpusCrewman",
@@ -104,12 +106,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Барабанный магазин",
-        "description": "<p>Барабанный Магазин — обычный мод для основного оружия, который увеличивает максимальное количество боеприпасов.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
-        "icon": "icons/ru/Ammo_Drum.90fb528710198eec03feb163e2ff2c55.png",
-        "thumb": "icons/ru/thumbs/Ammo_Drum.90fb528710198eec03feb163e2ff2c55.128x128.png",
+    "ko": {
+        "item_name": "애모 드럼",
+        "description": "<p>Ammo Drum increases the maximum amount of rifle ammunition your Warframe can carry for that weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Drum",
         "drop": [
             {
                 "name": "CorpusCrewman",

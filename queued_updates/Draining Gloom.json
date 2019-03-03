@@ -21,17 +21,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "드레이닝 글룸",
-        "description": "<p>Draining Gloom is PvP-exclusive Despair mod which causes Energy-draining explosions, but reduces Magazine Capacity and Reserve Ammo.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Draining_Gloom",
-        "drop": [
-            {
-                "name": "Conclave Mission Reward",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Поглощающая Тьма",
         "description": "<p>Поглощающая тьма - редкий мод для вторичного оружия отчаяние в режиме конклава, который с некоторым шансом может вызвать вспышку поглощения энергии, но при этом уменьшает боезапас и количество кинжалов в обойме.</p>",
@@ -41,6 +30,17 @@
         "drop": [
             {
                 "name": "Награда за миссии Конклава",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "드레이닝 글룸",
+        "description": "<p>Draining Gloom is PvP-exclusive Despair mod which causes Energy-draining explosions, but reduces Magazine Capacity and Reserve Ammo.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Draining_Gloom",
+        "drop": [
+            {
+                "name": "Conclave Mission Reward",
                 "link": null
             }
         ]

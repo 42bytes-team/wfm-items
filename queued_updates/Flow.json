@@ -69,10 +69,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "플로우",
-        "description": "<p>Flow increases the Maximum Energy reserve of a Warframe.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flow",
+    "ru": {
+        "item_name": "Поток",
+        "description": "<p>Поток — редкий мод для варфреймов, который увеличивает максимальное количество запасов энергии.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
+        "icon": "icons/ru/Flow.fbd625752e6c15063fea368b83f7eaf3.png",
+        "thumb": "icons/ru/thumbs/Flow.fbd625752e6c15063fea368b83f7eaf3.128x128.png",
         "drop": [
             {
                 "name": "GrineerBailiff",
@@ -128,12 +130,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Поток",
-        "description": "<p>Поток — редкий мод для варфреймов, который увеличивает максимальное количество запасов энергии.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
-        "icon": "icons/ru/Flow.fbd625752e6c15063fea368b83f7eaf3.png",
-        "thumb": "icons/ru/thumbs/Flow.fbd625752e6c15063fea368b83f7eaf3.128x128.png",
+    "ko": {
+        "item_name": "플로우",
+        "description": "<p>Flow increases the Maximum Energy reserve of a Warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Flow",
         "drop": [
             {
                 "name": "GrineerBailiff",

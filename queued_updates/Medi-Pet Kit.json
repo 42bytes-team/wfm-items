@@ -49,10 +49,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "메디-펫 킷",
-        "description": "<p>Medi-Pet Kit is a companion Index mod that provides health regeneration and a bleedout timer increase to the companion.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Medi-Pet_Kit",
+    "ru": {
+        "item_name": "Аптечка для питомца",
+        "description": "<p>Аптечка для питомца — необычный мод для кубрау и каватов, который восстанавливает им здоровье и уменьшает скорость кровопотери.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/Medi-Pet_Kit",
+        "icon": "icons/ru/Medi-Pet_Kit.17350657edce4547ee4d7c90c840c762.png",
+        "thumb": "icons/ru/thumbs/Medi-Pet_Kit.17350657edce4547ee4d7c90c840c762.128x128.png",
         "drop": [
             {
                 "name": "Auditor",
@@ -88,12 +90,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Аптечка для питомца",
-        "description": "<p>Аптечка для питомца — необычный мод для кубрау и каватов, который восстанавливает им здоровье и уменьшает скорость кровопотери.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/Medi-Pet_Kit",
-        "icon": "icons/ru/Medi-Pet_Kit.17350657edce4547ee4d7c90c840c762.png",
-        "thumb": "icons/ru/thumbs/Medi-Pet_Kit.17350657edce4547ee4d7c90c840c762.128x128.png",
+    "ko": {
+        "item_name": "메디-펫 킷",
+        "description": "<p>Medi-Pet Kit is a companion Index mod that provides health regeneration and a bleedout timer increase to the companion.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Medi-Pet_Kit",
         "drop": [
             {
                 "name": "Auditor",

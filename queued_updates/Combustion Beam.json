@@ -37,10 +37,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "컴버스쳔 빔",
-        "description": "<p>Combustion Beam  causes enemies killed by beam weapons to explode, dealing up to 600 damage shortly after death.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Combustion_Beam",
+    "ru": {
+        "item_name": "Опаляющий луч",
+        "description": "<p>Опаляющий Луч — редкий мод для основного потокового оружия, который взрывает врагов после их смерти, нанося  взрывной урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BF%D0%B0%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%BB%D1%83%D1%87",
+        "icon": "icons/ru/Combustion_Beam.dbc026cf454e8549b4264a07d7e5cadf.png",
+        "thumb": "icons/ru/thumbs/Combustion_Beam.dbc026cf454e8549b4264a07d7e5cadf.128x128.png",
         "drop": [
             {
                 "name": "CorpusComba",
@@ -64,12 +66,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Опаляющий луч",
-        "description": "<p>Опаляющий Луч — редкий мод для основного потокового оружия, который взрывает врагов после их смерти, нанося  взрывной урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9E%D0%BF%D0%B0%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%BB%D1%83%D1%87",
-        "icon": "icons/ru/Combustion_Beam.dbc026cf454e8549b4264a07d7e5cadf.png",
-        "thumb": "icons/ru/thumbs/Combustion_Beam.dbc026cf454e8549b4264a07d7e5cadf.128x128.png",
+    "ko": {
+        "item_name": "컴버스쳔 빔",
+        "description": "<p>Combustion Beam  causes enemies killed by beam weapons to explode, dealing up to 600 damage shortly after death.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Combustion_Beam",
         "drop": [
             {
                 "name": "CorpusComba",

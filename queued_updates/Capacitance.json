@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "캐패시턴스",
-        "description": "<p>Capacitance is a Warframe Augment Mod for Volt that converts a percentage of damage dealt by Discharge into shields, split between himself and allies.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Capacitance",
+    "ru": {
+        "item_name": "Вместилище",
+        "description": "<p>Вместилище — мод-аугмент для варфрейма Вольт и Вольт Прайм, улучшающий его способность Разрядка. Преобразует наносимый способностью урон в щиты, равномерно распределяющиеся между Вольтом и его союзниками. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5",
+        "icon": "icons/ru/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.png",
+        "thumb": "icons/ru/thumbs/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.128x128.png",
         "drop": [
             {
                 "name": "Arbiters of Hexis",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Вместилище",
-        "description": "<p>Вместилище — мод-аугмент для варфрейма Вольт и Вольт Прайм, улучшающий его способность Разрядка. Преобразует наносимый способностью урон в щиты, равномерно распределяющиеся между Вольтом и его союзниками. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B5",
-        "icon": "icons/ru/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.png",
-        "thumb": "icons/ru/thumbs/Capacitance.2eb6c9221ee517f9cbb83c0ed3cad53a.128x128.png",
+    "ko": {
+        "item_name": "캐패시턴스",
+        "description": "<p>Capacitance is a Warframe Augment Mod for Volt that converts a percentage of damage dealt by Discharge into shields, split between himself and allies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Capacitance",
         "drop": [
             {
                 "name": "Arbiters of Hexis",

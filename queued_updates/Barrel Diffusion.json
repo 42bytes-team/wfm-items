@@ -41,10 +41,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "배럴 디퓨전",
-        "description": "<p>Barrel Diffusion increases the multishot of pistols. These additional rounds do not consume extra ammunition.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Barrel_Diffusion",
+    "ru": {
+        "item_name": "Двойной Ствол",
+        "description": "<p>Двойной Ствол — редкий мод для вторичного оружия, который увеличивает произведения дополнительного выстрела.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D0%B2%D0%BE%D0%BB",
+        "icon": "icons/ru/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.png",
+        "thumb": "icons/ru/thumbs/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.128x128.png",
         "drop": [
             {
                 "name": "The Grustrag Three",
@@ -72,12 +74,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Двойной Ствол",
-        "description": "<p>Двойной Ствол — редкий мод для вторичного оружия, который увеличивает произведения дополнительного выстрела.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D0%B2%D0%BE%D0%BB",
-        "icon": "icons/ru/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.png",
-        "thumb": "icons/ru/thumbs/Barrel_Diffusion.b96103b17a46dbc974cd61632ff2716b.128x128.png",
+    "ko": {
+        "item_name": "배럴 디퓨전",
+        "description": "<p>Barrel Diffusion increases the multishot of pistols. These additional rounds do not consume extra ammunition.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Barrel_Diffusion",
         "drop": [
             {
                 "name": "The Grustrag Three",

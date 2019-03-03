@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "아이언클라드 차지",
-        "description": "<p>Ironclad Charge is a Warframe Augment Mod that temporarily increases Rhino's armor for each enemy hit by Rhino Charge.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ironclad_Charge",
+    "ru": {
+        "item_name": "Нерушимый рывок",
+        "description": "<p>Нерушимый Рывок — мод-аугмент для варфрейма Рино и Рино Прайм, улучшающий его способность Рывок Рино. Способность увеличивает базовый показатель брони за каждого задетого врага на определенный промежуток времени.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D1%80%D1%83%D1%88%D0%B8%D0%BC%D1%8B%D0%B9_%D1%80%D1%8B%D0%B2%D0%BE%D0%BA",
+        "icon": "icons/ru/Ironclad_Charge.de65857c9348265ab7d29c9a7058e6c0.png",
+        "thumb": "icons/ru/thumbs/Ironclad_Charge.de65857c9348265ab7d29c9a7058e6c0.128x128.png",
         "drop": [
             {
                 "name": "Steel Meridian",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Нерушимый рывок",
-        "description": "<p>Нерушимый Рывок — мод-аугмент для варфрейма Рино и Рино Прайм, улучшающий его способность Рывок Рино. Способность увеличивает базовый показатель брони за каждого задетого врага на определенный промежуток времени.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B5%D1%80%D1%83%D1%88%D0%B8%D0%BC%D1%8B%D0%B9_%D1%80%D1%8B%D0%B2%D0%BE%D0%BA",
-        "icon": "icons/ru/Ironclad_Charge.de65857c9348265ab7d29c9a7058e6c0.png",
-        "thumb": "icons/ru/thumbs/Ironclad_Charge.de65857c9348265ab7d29c9a7058e6c0.128x128.png",
+    "ko": {
+        "item_name": "아이언클라드 차지",
+        "description": "<p>Ironclad Charge is a Warframe Augment Mod that temporarily increases Rhino's armor for each enemy hit by Rhino Charge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ironclad_Charge",
         "drop": [
             {
                 "name": "Steel Meridian",

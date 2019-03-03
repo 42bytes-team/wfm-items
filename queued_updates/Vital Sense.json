@@ -41,10 +41,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "바이탈 센스",
-        "description": "<p>The Vital Sense mod increases critical damage on rifles by 20% per rank for a maximum of 120% at Rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vital_Sense",
+    "ru": {
+        "item_name": "Чутьё на уязвимости",
+        "description": "<p>Чутьё На Уязвимости — редкий мод для основного оружия, который увеличивает множитель критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D1%82%D1%8C%D1%91_%D0%BD%D0%B0_%D1%83%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8",
+        "icon": "icons/ru/Vital_Sense.ff56bb48619783eaea1c39c447fea158.png",
+        "thumb": "icons/ru/thumbs/Vital_Sense.ff56bb48619783eaea1c39c447fea158.128x128.png",
         "drop": [
             {
                 "name": "CorpusProd Crewman",
@@ -72,12 +74,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Чутьё на уязвимости",
-        "description": "<p>Чутьё На Уязвимости — редкий мод для основного оружия, который увеличивает множитель критического урона.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D1%82%D1%8C%D1%91_%D0%BD%D0%B0_%D1%83%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8",
-        "icon": "icons/ru/Vital_Sense.ff56bb48619783eaea1c39c447fea158.png",
-        "thumb": "icons/ru/thumbs/Vital_Sense.ff56bb48619783eaea1c39c447fea158.128x128.png",
+    "ko": {
+        "item_name": "바이탈 센스",
+        "description": "<p>The Vital Sense mod increases critical damage on rifles by 20% per rank for a maximum of 120% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vital_Sense",
         "drop": [
             {
                 "name": "CorpusProd Crewman",

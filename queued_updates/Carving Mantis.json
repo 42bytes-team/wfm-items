@@ -24,6 +24,19 @@
             }
         ]
     },
+    "ru": {
+        "item_name": "Секущий Богомол",
+        "description": "<p>Это редкая стойка, предназначенная для оружия ближнего боя класса Парные мечи. Увеличение ранга открывает новые комбинации.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%BE%D0%BB",
+        "icon": "icons/ru/Carving_Mantis.ba8fbf43a5dd6ded01bc774c32ba6911.png",
+        "thumb": "icons/ru/thumbs/Carving_Mantis.ba8fbf43a5dd6ded01bc774c32ba6911.128x128.png",
+        "drop": [
+            {
+                "name": "Заказ максимальной сложности у Острона",
+                "link": null
+            }
+        ]
+    },
     "ko": {
         "item_name": "카빙 맨티스",
         "description": "<p>It's obtained from Plains Of Eidolon bounty missions, via transmuting or by incursions as well.</p>",
@@ -35,19 +48,6 @@
             },
             {
                 "name": "Bounty (40-60)",
-                "link": null
-            }
-        ]
-    },
-    "ru": {
-        "item_name": "Секущий Богомол",
-        "description": "<p>Это редкая стойка, предназначенная для оружия ближнего боя класса Парные мечи. Увеличение ранга открывает новые комбинации.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%BE%D0%BB",
-        "icon": "icons/ru/Carving_Mantis.ba8fbf43a5dd6ded01bc774c32ba6911.png",
-        "thumb": "icons/ru/thumbs/Carving_Mantis.ba8fbf43a5dd6ded01bc774c32ba6911.128x128.png",
-        "drop": [
-            {
-                "name": "Заказ максимальной сложности у Острона",
                 "link": null
             }
         ]

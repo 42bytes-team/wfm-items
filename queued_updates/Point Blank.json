@@ -33,10 +33,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "포인트 블랭크",
-        "description": "<p>The Point Blank mod increases the base damage of a shotgun by 15% per rank at a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Point_Blank",
+    "ru": {
+        "item_name": "В упор",
+        "description": "<p>В Упор — необычный мод для дробовиков, который увеличивает базовый урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92_%D1%83%D0%BF%D0%BE%D1%80",
+        "icon": "icons/ru/Point_Blank.ea7390ac3cafdbed38bef397132446f3.png",
+        "thumb": "icons/ru/thumbs/Point_Blank.ea7390ac3cafdbed38bef397132446f3.128x128.png",
         "drop": [
             {
                 "name": "InfestedVolatile Runner",
@@ -56,12 +58,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "В упор",
-        "description": "<p>В Упор — необычный мод для дробовиков, который увеличивает базовый урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92_%D1%83%D0%BF%D0%BE%D1%80",
-        "icon": "icons/ru/Point_Blank.ea7390ac3cafdbed38bef397132446f3.png",
-        "thumb": "icons/ru/thumbs/Point_Blank.ea7390ac3cafdbed38bef397132446f3.128x128.png",
+    "ko": {
+        "item_name": "포인트 블랭크",
+        "description": "<p>The Point Blank mod increases the base damage of a shotgun by 15% per rank at a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Point_Blank",
         "drop": [
             {
                 "name": "InfestedVolatile Runner",

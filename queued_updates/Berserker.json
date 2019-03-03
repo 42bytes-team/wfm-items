@@ -29,10 +29,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "버서커",
-        "description": "<p>Not to be confused with the Berserker Warframe, Valkyr.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Berserker",
+    "ru": {
+        "item_name": "Берсерк",
+        "description": "<p>Берсерк — редкий мод для оружия ближнего боя, который увеличивает скорость атаки после нанесения критического удара. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D1%80%D1%81%D0%B5%D1%80%D0%BA%D0%B5%D1%80",
+        "icon": "icons/ru/Berserker.28d67e50acf910f0e2619fc68688797f.png",
+        "thumb": "icons/ru/thumbs/Berserker.28d67e50acf910f0e2619fc68688797f.128x128.png",
         "drop": [
             {
                 "name": "Corrupted Ancient",
@@ -48,12 +50,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Берсерк",
-        "description": "<p>Берсерк — редкий мод для оружия ближнего боя, который увеличивает скорость атаки после нанесения критического удара. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B5%D1%80%D1%81%D0%B5%D1%80%D0%BA%D0%B5%D1%80",
-        "icon": "icons/ru/Berserker.28d67e50acf910f0e2619fc68688797f.png",
-        "thumb": "icons/ru/thumbs/Berserker.28d67e50acf910f0e2619fc68688797f.128x128.png",
+    "ko": {
+        "item_name": "버서커",
+        "description": "<p>Not to be confused with the Berserker Warframe, Valkyr.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Berserker",
         "drop": [
             {
                 "name": "Corrupted Ancient",

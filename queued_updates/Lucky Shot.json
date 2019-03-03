@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "럭키 샷",
-        "description": "<p>Lucky Shot is a PvP-exclusive rifle mod which provides faster projectile flight speed at the cost of reduced accuracy. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Lucky_Shot",
+    "ru": {
+        "item_name": "Удачный выстрел",
+        "description": "<p>Удачный Выстрел — необычный мод для основного оружия в режиме конклава, который увеличивает скорость полёта снаряда или пули, взамен уменьшая точность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B4%D0%B0%D1%87%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
+        "icon": "icons/ru/Lucky_Shot.7405362d0f72eaf1532b5dfdbd43e582.png",
+        "thumb": "icons/ru/thumbs/Lucky_Shot.7405362d0f72eaf1532b5dfdbd43e582.128x128.png",
         "drop": [
             {
                 "name": "Conclave Mission Reward",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Удачный выстрел",
-        "description": "<p>Удачный Выстрел — необычный мод для основного оружия в режиме конклава, который увеличивает скорость полёта снаряда или пули, взамен уменьшая точность.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%B4%D0%B0%D1%87%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "icon": "icons/ru/Lucky_Shot.7405362d0f72eaf1532b5dfdbd43e582.png",
-        "thumb": "icons/ru/thumbs/Lucky_Shot.7405362d0f72eaf1532b5dfdbd43e582.128x128.png",
+    "ko": {
+        "item_name": "럭키 샷",
+        "description": "<p>Lucky Shot is a PvP-exclusive rifle mod which provides faster projectile flight speed at the cost of reduced accuracy. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Lucky_Shot",
         "drop": [
             {
                 "name": "Conclave Mission Reward",

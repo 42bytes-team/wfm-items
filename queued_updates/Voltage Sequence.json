@@ -24,21 +24,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "볼티지 시퀀스",
-        "description": "<p>Voltage Sequence turns flying enemies killed by Lanka into electric traps for a short duration. It also adds a Sequence effect.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Voltage_Sequence",
-        "drop": [
-            {
-                "name": "Operation: Ambulas Reborn",
-                "link": null
-            },
-            {
-                "name": "The Perrin Sequence Offering",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Последовательность Напряжения",
         "description": "<p>Последовательность Напряжения — Мод-Аугмент для оружия Ланка, который преобразует убитого летающего врага в ловушку и даёт прирост синдикат-эффекта — Последовательность.</p>",
@@ -52,6 +37,21 @@
             },
             {
                 "name": "Последовательность Перрина",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "볼티지 시퀀스",
+        "description": "<p>Voltage Sequence turns flying enemies killed by Lanka into electric traps for a short duration. It also adds a Sequence effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Voltage_Sequence",
+        "drop": [
+            {
+                "name": "Operation: Ambulas Reborn",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence Offering",
                 "link": null
             }
         ]

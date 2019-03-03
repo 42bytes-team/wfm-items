@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "퀘이사 드릴",
-        "description": "<p>The Quasar Drill mod adds/increases Puncture b Puncture damage of an Arch-Gun by 15% per rank for maximum of 90% at Rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Quasar_Drill",
+    "ru": {
+        "item_name": "Квазарное сверло",
+        "description": "<p>Квазарное Сверло  — редкий мод для основного оружия арчвинга, который увеличивает  пронзающий урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B2%D0%B0%D0%B7%D0%B0%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D0%B2%D0%B5%D1%80%D0%BB%D0%BE",
+        "icon": "icons/ru/Quasar_Drill.62fe12774db35e45f3c8a26bcb8e33fa.png",
+        "thumb": "icons/ru/thumbs/Quasar_Drill.62fe12774db35e45f3c8a26bcb8e33fa.128x128.png",
         "drop": [
             {
                 "name": "Archwing Mobile Defense RewardArchwing Sabotage Reward",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Квазарное сверло",
-        "description": "<p>Квазарное Сверло  — редкий мод для основного оружия арчвинга, который увеличивает  пронзающий урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B2%D0%B0%D0%B7%D0%B0%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D0%B2%D0%B5%D1%80%D0%BB%D0%BE",
-        "icon": "icons/ru/Quasar_Drill.62fe12774db35e45f3c8a26bcb8e33fa.png",
-        "thumb": "icons/ru/thumbs/Quasar_Drill.62fe12774db35e45f3c8a26bcb8e33fa.128x128.png",
+    "ko": {
+        "item_name": "퀘이사 드릴",
+        "description": "<p>The Quasar Drill mod adds/increases Puncture b Puncture damage of an Arch-Gun by 15% per rank for maximum of 90% at Rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Quasar_Drill",
         "drop": [
             {
                 "name": "Archwing Mobile Defense RewardArchwing Sabotage Reward",

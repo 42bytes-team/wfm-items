@@ -57,10 +57,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "트루 스틸",
-        "description": "<p>The True Steel mod increases critical chance on a melee weapon by 10% per rank for a maximum of 60% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/True_Steel",
+    "ru": {
+        "item_name": "Закалка",
+        "description": "<p>Закалка — обычный мод для оружия ближнего боя, который увеличивает шанс критического уронa.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D0%BB%D0%BA%D0%B0",
+        "icon": "icons/ru/True_Steel.c6107f0b04eb9bc22b4f50fe640d6f46.png",
+        "thumb": "icons/ru/thumbs/True_Steel.c6107f0b04eb9bc22b4f50fe640d6f46.128x128.png",
         "drop": [
             {
                 "name": "Hyena Pack",
@@ -104,12 +106,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Закалка",
-        "description": "<p>Закалка — обычный мод для оружия ближнего боя, который увеличивает шанс критического уронa.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D0%BB%D0%BA%D0%B0",
-        "icon": "icons/ru/True_Steel.c6107f0b04eb9bc22b4f50fe640d6f46.png",
-        "thumb": "icons/ru/thumbs/True_Steel.c6107f0b04eb9bc22b4f50fe640d6f46.128x128.png",
+    "ko": {
+        "item_name": "트루 스틸",
+        "description": "<p>The True Steel mod increases critical chance on a melee weapon by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/True_Steel",
         "drop": [
             {
                 "name": "Hyena Pack",

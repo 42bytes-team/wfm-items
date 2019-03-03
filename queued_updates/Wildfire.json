@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "와일드파이어",
-        "description": "<p>The Wildfire mod increases magazine capacity and adds additional  Heat damage increasing it to a maximum of 20% and 60% at rank 3, respectively.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Wildfire",
+    "ru": {
+        "item_name": "Пожар",
+        "description": "<p>Пожар — гибридный мод для основного оружия, который увеличивает вместимость магазина и увеличивает  огненный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B6%D0%B0%D1%80",
+        "icon": "icons/ru/Wildfire.0f1657bfbba8a45b29d3e2dbd85f7602.png",
+        "thumb": "icons/ru/thumbs/Wildfire.0f1657bfbba8a45b29d3e2dbd85f7602.128x128.png",
         "drop": [
             {
                 "name": "Nightmare Mode reward",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Пожар",
-        "description": "<p>Пожар — гибридный мод для основного оружия, который увеличивает вместимость магазина и увеличивает  огненный урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B6%D0%B0%D1%80",
-        "icon": "icons/ru/Wildfire.0f1657bfbba8a45b29d3e2dbd85f7602.png",
-        "thumb": "icons/ru/thumbs/Wildfire.0f1657bfbba8a45b29d3e2dbd85f7602.128x128.png",
+    "ko": {
+        "item_name": "와일드파이어",
+        "description": "<p>The Wildfire mod increases magazine capacity and adds additional  Heat damage increasing it to a maximum of 20% and 60% at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Wildfire",
         "drop": [
             {
                 "name": "Nightmare Mode reward",

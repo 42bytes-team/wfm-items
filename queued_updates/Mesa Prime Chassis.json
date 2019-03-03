@@ -31,6 +31,17 @@
             }
         ]
     },
+    "ru": {
+        "item_name": "Миса Прайм Каркас",
+        "description": "<p>Прайм версия Мисы</p>",
+        "wiki_link": "http://warframe.fandom.com/wiki/Mesa/Prime",
+        "drop": [
+            {
+                "name": "Акси H4 Обычная",
+                "link": null
+            }
+        ]
+    },
     "ko": {
         "item_name": "메사 프라임 섀시",
         "description": "<p>Release Date: December 18, 2018</p><p>Mesa Prime is the Primed variant of Mesa. Mesa Prime was released alongside Akjagara Prime and Redeemer Prime.</p>",
@@ -42,19 +53,7 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Миса Прайм Каркас",
-        "description": "<p>Прайм версия Мисы</p>",
-        "wiki_link": "http://warframe.fandom.com/wiki/Mesa/Prime",
-        "icon": null,
-        "thumb": null,
-        "drop": [
-            {
-                "name": "Акси H4 Обычная",
-                "link": null
-            }
-        ]
-    },
     "mastery_level": 2,
+    "ducats": 15,
     "trading_tax": 4000
 }

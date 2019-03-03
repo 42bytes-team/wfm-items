@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "피스톨 페스틸런스",
-        "description": "<p>The Pistol Pestilence mod increases the  Toxin Damage and Status Chance of a pistol by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Pestilence",
+    "ru": {
+        "item_name": "Чумной пистолет",
+        "description": "<p>Чумной Пистолет — гибридный мод для вторичного оружия, который увеличивает  токсичный урон и шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D0%BC%D0%BD%D0%BE%D0%B9_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
+        "icon": "icons/ru/Pistol_Pestilence.1efd228a723537fc2e42c4bc48260c2b.png",
+        "thumb": "icons/ru/thumbs/Pistol_Pestilence.1efd228a723537fc2e42c4bc48260c2b.128x128.png",
         "drop": [
             {
                 "name": "Reward fromThe Cicero Crisis",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Чумной пистолет",
-        "description": "<p>Чумной Пистолет — гибридный мод для вторичного оружия, который увеличивает  токсичный урон и шанс срабатывания эффекта статуса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A7%D1%83%D0%BC%D0%BD%D0%BE%D0%B9_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
-        "icon": "icons/ru/Pistol_Pestilence.1efd228a723537fc2e42c4bc48260c2b.png",
-        "thumb": "icons/ru/thumbs/Pistol_Pestilence.1efd228a723537fc2e42c4bc48260c2b.128x128.png",
+    "ko": {
+        "item_name": "피스톨 페스틸런스",
+        "description": "<p>The Pistol Pestilence mod increases the  Toxin Damage and Status Chance of a pistol by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Pestilence",
         "drop": [
             {
                 "name": "Reward fromThe Cicero Crisis",

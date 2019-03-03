@@ -21,17 +21,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "루터",
-        "description": "<p>Looter allows the Carrier (and its Prime counterpart) to break nearby containers by releasing a wave of energy that destroys all breakable loot containers within 12 meters at max rank.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Looter",
-        "drop": [
-            {
-                "name": "Cephalon Simaris Offering",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Грабитель",
         "description": "<p>Грабитель — редкий мод для Стража Носитель, который позволяет ему разрушать контейнеры в определенном радиусе.</p>",
@@ -41,6 +30,17 @@
         "drop": [
             {
                 "name": "Цефалон Симэрис",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "루터",
+        "description": "<p>Looter allows the Carrier (and its Prime counterpart) to break nearby containers by releasing a wave of energy that destroys all breakable loot containers within 12 meters at max rank.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Looter",
+        "drop": [
+            {
+                "name": "Cephalon Simaris Offering",
                 "link": null
             }
         ]

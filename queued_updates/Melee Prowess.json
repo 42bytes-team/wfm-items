@@ -49,10 +49,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "밀리 프라워스",
-        "description": "<p>Melee Prowess increases the status effect chance of melee weapons. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Melee_Prowess",
+    "ru": {
+        "item_name": "Умение ближнего боя",
+        "description": "<p>Умение ближнего боя — обычный мод для оружия ближнего боя, который увеличивает шанс срабатывания эффекта статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%BB%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B1%D0%BE%D1%8F",
+        "icon": "icons/ru/Melee_Prowess.a3deab8f721ff3ce4c8d4a557a369a4e.png",
+        "thumb": "icons/ru/thumbs/Melee_Prowess.a3deab8f721ff3ce4c8d4a557a369a4e.128x128.png",
         "drop": [
             {
                 "name": "General Sargas Ruk",
@@ -88,12 +90,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Умение ближнего боя",
-        "description": "<p>Умение ближнего боя — обычный мод для оружия ближнего боя, который увеличивает шанс срабатывания эффекта статуса.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%BB%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B1%D0%BE%D1%8F",
-        "icon": "icons/ru/Melee_Prowess.a3deab8f721ff3ce4c8d4a557a369a4e.png",
-        "thumb": "icons/ru/thumbs/Melee_Prowess.a3deab8f721ff3ce4c8d4a557a369a4e.128x128.png",
+    "ko": {
+        "item_name": "밀리 프라워스",
+        "description": "<p>Melee Prowess increases the status effect chance of melee weapons. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Melee_Prowess",
         "drop": [
             {
                 "name": "General Sargas Ruk",

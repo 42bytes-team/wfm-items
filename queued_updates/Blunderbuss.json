@@ -69,10 +69,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "불런더버스",
-        "description": "<p>The Blunderbuss increases critical chance of a shotgun by 15% per rank for a maximum of 90% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blunderbuss",
+    "ru": {
+        "item_name": "Мушкетон",
+        "description": "<p>Мушкетон — обычный мод для дробовиков, который увеличивает шанс критического урона.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%83%D1%88%D0%BA%D0%B5%D1%82%D0%BE%D0%BD",
+        "icon": "icons/ru/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.png",
+        "thumb": "icons/ru/thumbs/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.128x128.png",
         "drop": [
             {
                 "name": "Jackal",
@@ -128,12 +130,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Мушкетон",
-        "description": "<p>Мушкетон — обычный мод для дробовиков, который увеличивает шанс критического урона.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%83%D1%88%D0%BA%D0%B5%D1%82%D0%BE%D0%BD",
-        "icon": "icons/ru/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.png",
-        "thumb": "icons/ru/thumbs/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.128x128.png",
+    "ko": {
+        "item_name": "불런더버스",
+        "description": "<p>The Blunderbuss increases critical chance of a shotgun by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Blunderbuss",
         "drop": [
             {
                 "name": "Jackal",

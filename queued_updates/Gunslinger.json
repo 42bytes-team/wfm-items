@@ -41,10 +41,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "건슬링어",
-        "description": "<p>The Gunslinger mod increases the fire rate of secondary weapons by 12% per rank for a maximum of 72% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gunslinger",
+    "ru": {
+        "item_name": "Стрелок",
+        "description": "<p>Стрелок — необычный мод для вторичного оружия, который увеличивает скорострельность.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA",
+        "icon": "icons/ru/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.png",
+        "thumb": "icons/ru/thumbs/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.128x128.png",
         "drop": [
             {
                 "name": "Alad V",
@@ -72,12 +74,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Стрелок",
-        "description": "<p>Стрелок — необычный мод для вторичного оружия, который увеличивает скорострельность.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA",
-        "icon": "icons/ru/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.png",
-        "thumb": "icons/ru/thumbs/Gunslinger.9f1ff0396fbe0f4d9e6a64628d50a5df.128x128.png",
+    "ko": {
+        "item_name": "건슬링어",
+        "description": "<p>The Gunslinger mod increases the fire rate of secondary weapons by 12% per rank for a maximum of 72% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Gunslinger",
         "drop": [
             {
                 "name": "Alad V",

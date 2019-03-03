@@ -29,10 +29,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "쇼크 업소버",
-        "description": "<p>The Shock Absorbers mod increases a Warframe's damage resistance while knocked down. </p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shock_Absorbers",
+    "ru": {
+        "item_name": "Амортизаторы",
+        "description": "<p>Амортизаторы — эксилус мод, который уменьшает получаемый урон, в то время, когда игрок сбит с ног.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80%D1%8B",
+        "icon": "icons/ru/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.png",
+        "thumb": "icons/ru/thumbs/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.128x128.png",
         "drop": [
             {
                 "name": "Jackal",
@@ -48,12 +50,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Амортизаторы",
-        "description": "<p>Амортизаторы — эксилус мод, который уменьшает получаемый урон, в то время, когда игрок сбит с ног.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80%D1%8B",
-        "icon": "icons/ru/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.png",
-        "thumb": "icons/ru/thumbs/Shock_Absorbers.d417132b860ef1a5bf1cbc6147ffc4cb.128x128.png",
+    "ko": {
+        "item_name": "쇼크 업소버",
+        "description": "<p>The Shock Absorbers mod increases a Warframe's damage resistance while knocked down. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shock_Absorbers",
         "drop": [
             {
                 "name": "Jackal",

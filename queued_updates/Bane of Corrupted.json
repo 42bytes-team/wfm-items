@@ -20,10 +20,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "베인 오브 커럽티드",
-        "description": "<p>Bane of Corrupted increases the damage of primary weapons against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bane_of_Corrupted",
+    "ru": {
+        "item_name": "Погибель Порабощённые",
+        "description": "<p>Необычный мод для основного оружия, который увеличивает урон по бойцам Порабощённых.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C:_%D0%9F%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B5",
+        "icon": "icons/ru/Bane_of_Corrupted.e72fe5ef5a2f915f501b48831bb5f70c.png",
+        "thumb": "icons/ru/thumbs/Bane_of_Corrupted.e72fe5ef5a2f915f501b48831bb5f70c.128x128.png",
         "drop": [
             {
                 "name": "Defection (T1, T2, T3)",
@@ -31,12 +33,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Погибель Порабощённые",
-        "description": "<p>Необычный мод для основного оружия, который увеличивает урон по бойцам Порабощённых.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C:_%D0%9F%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B5",
-        "icon": "icons/ru/Bane_of_Corrupted.e72fe5ef5a2f915f501b48831bb5f70c.png",
-        "thumb": "icons/ru/thumbs/Bane_of_Corrupted.e72fe5ef5a2f915f501b48831bb5f70c.128x128.png",
+    "ko": {
+        "item_name": "베인 오브 커럽티드",
+        "description": "<p>Bane of Corrupted increases the damage of primary weapons against Corrupted. The mod increases both the base damage and elemental damage of a weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bane_of_Corrupted",
         "drop": [
             {
                 "name": "Defection (T1, T2, T3)",

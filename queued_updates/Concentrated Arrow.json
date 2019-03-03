@@ -25,21 +25,6 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "컨센트레이티드 애로우",
-        "description": "<p>Concentrated Arrow is a Warframe Augment Mod for Ivara that replaces Artemis Bow's multiple projectiles with a single arrow. On headshots, the arrow has added critical chance and explodes. The single arrow is incapable of utilising punch through.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Concentrated_Arrow",
-        "drop": [
-            {
-                "name": "Cephalon Suda",
-                "link": null
-            },
-            {
-                "name": "The Perrin Sequence",
-                "link": null
-            }
-        ]
-    },
     "ru": {
         "item_name": "Сфокусированная Стрела",
         "description": "<p>Сфокусированная Стрела — мод-аугмент для Варфрейма Ивара, изменяющий способность Лук Артемиды. Во время активной способности выпускает всего одну стрелу, которая при попадании в голову имеет повышенный шанс критического урона, а так же взрывается в радиусе 7 м. Убирает пронзание.</p>",
@@ -53,6 +38,21 @@
             },
             {
                 "name": "Последовательность Перрина",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "컨센트레이티드 애로우",
+        "description": "<p>Concentrated Arrow is a Warframe Augment Mod for Ivara that replaces Artemis Bow's multiple projectiles with a single arrow. On headshots, the arrow has added critical chance and explodes. The single arrow is incapable of utilising punch through.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Concentrated_Arrow",
+        "drop": [
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            },
+            {
+                "name": "The Perrin Sequence",
                 "link": null
             }
         ]

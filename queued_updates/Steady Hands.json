@@ -29,10 +29,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "스테디 핸즈",
-        "description": "<p>The Steady Hands mod is a pistol mod that reduces the recoil produced from firing a weapon by 15% per rank for a maximum of 60% at rank 3.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Steady_Hands",
+    "ru": {
+        "item_name": "Устойчивые руки",
+        "description": "<p>Устойчивые Руки — редкий мод для вторичного оружия, который уменьшает отдачу. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D1%8B%D0%B5_%D1%80%D1%83%D0%BA%D0%B8",
+        "icon": "icons/ru/Steady_Hands.1bf5586b18cdbd5d537adf31a36acf23.png",
+        "thumb": "icons/ru/thumbs/Steady_Hands.1bf5586b18cdbd5d537adf31a36acf23.128x128.png",
         "drop": [
             {
                 "name": "Corrupted Crewman",
@@ -48,12 +50,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Устойчивые руки",
-        "description": "<p>Устойчивые Руки — редкий мод для вторичного оружия, который уменьшает отдачу. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A3%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D1%8B%D0%B5_%D1%80%D1%83%D0%BA%D0%B8",
-        "icon": "icons/ru/Steady_Hands.1bf5586b18cdbd5d537adf31a36acf23.png",
-        "thumb": "icons/ru/thumbs/Steady_Hands.1bf5586b18cdbd5d537adf31a36acf23.128x128.png",
+    "ko": {
+        "item_name": "스테디 핸즈",
+        "description": "<p>The Steady Hands mod is a pistol mod that reduces the recoil produced from firing a weapon by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Steady_Hands",
         "drop": [
             {
                 "name": "Corrupted Crewman",

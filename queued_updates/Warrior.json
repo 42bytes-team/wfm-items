@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "워리어",
-        "description": "<p>Warrior allows Wyrm to attack the first visible enemy in range.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Warrior",
+    "ru": {
+        "item_name": "Воитель",
+        "description": "<p>Воитель - мод-заповедь для для стража Вирм и Вирм Прайм, дающий ему возможность атаковать врагов в определенном радиусе.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Warrior.66f25a1fe744cd29335f648f5592dcce.png",
+        "thumb": "icons/ru/thumbs/Warrior.66f25a1fe744cd29335f648f5592dcce.128x128.png",
         "drop": [
             {
                 "name": "CorpusNullifier Crewman",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Воитель",
-        "description": "<p>Воитель - мод-заповедь для для стража Вирм и Вирм Прайм, дающий ему возможность атаковать врагов в определенном радиусе.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
-        "icon": "icons/ru/Warrior.66f25a1fe744cd29335f648f5592dcce.png",
-        "thumb": "icons/ru/thumbs/Warrior.66f25a1fe744cd29335f648f5592dcce.128x128.png",
+    "ko": {
+        "item_name": "워리어",
+        "description": "<p>Warrior allows Wyrm to attack the first visible enemy in range.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Warrior",
         "drop": [
             {
                 "name": "CorpusNullifier Crewman",

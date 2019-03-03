@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "프로보크드",
-        "description": "<p>Provoked increases the damage dealt by a Warframe while in bleedout.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Provoked",
+    "ru": {
+        "item_name": "Спровоцированный",
+        "description": "<p>Спровоцированный — необычный мод для варфреймов, который увеличивает урон вторичного оружия в то время, когда варфрейм выведен из строя.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9",
+        "icon": "icons/ru/Provoked.14f3fb01098e99ed454369ede09d56ba.png",
+        "thumb": "icons/ru/thumbs/Provoked.14f3fb01098e99ed454369ede09d56ba.128x128.png",
         "drop": [
             {
                 "name": "Lephantis",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Спровоцированный",
-        "description": "<p>Спровоцированный — необычный мод для варфреймов, который увеличивает урон вторичного оружия в то время, когда варфрейм выведен из строя.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9",
-        "icon": "icons/ru/Provoked.14f3fb01098e99ed454369ede09d56ba.png",
-        "thumb": "icons/ru/thumbs/Provoked.14f3fb01098e99ed454369ede09d56ba.128x128.png",
+    "ko": {
+        "item_name": "프로보크드",
+        "description": "<p>Provoked increases the damage dealt by a Warframe while in bleedout.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Provoked",
         "drop": [
             {
                 "name": "Lephantis",

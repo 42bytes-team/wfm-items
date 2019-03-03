@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "콜리전 포스",
-        "description": "<p>The Collision Force mod increases  Impact damage of melee weapons by 20% per rank for a maximum of 120% at rank 5.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Collision_Force",
+    "ru": {
+        "item_name": "Сбивающий удар",
+        "description": "<p>Сбивающий Удар — редкий мод для оружия ближнего боя, который  увеличивает  ударный урон.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
+        "icon": "icons/ru/Collision_Force.9725633e035e0d289f8c76388a2746b3.png",
+        "thumb": "icons/ru/thumbs/Collision_Force.9725633e035e0d289f8c76388a2746b3.128x128.png",
         "drop": [
             {
                 "name": "Operation False Profit reward",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Сбивающий удар",
-        "description": "<p>Сбивающий Удар — редкий мод для оружия ближнего боя, который  увеличивает  ударный урон.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
-        "icon": "icons/ru/Collision_Force.9725633e035e0d289f8c76388a2746b3.png",
-        "thumb": "icons/ru/thumbs/Collision_Force.9725633e035e0d289f8c76388a2746b3.128x128.png",
+    "ko": {
+        "item_name": "콜리전 포스",
+        "description": "<p>The Collision Force mod increases  Impact damage of melee weapons by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Collision_Force",
         "drop": [
             {
                 "name": "Operation False Profit reward",

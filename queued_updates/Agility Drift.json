@@ -21,10 +21,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "어질리티 드리프트",
-        "description": "<p>Agility Drift is a rare dual-stat Exilus mod that reduces damage taken while airborne and reduces enemy accuracy when targeting the player.[1]</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Agility_Drift",
+    "ru": {
+        "item_name": "Проворное течение",
+        "description": "<p>Проворное течение — эксилус мод для варфреймов, который уменьшает получаемый урон во время полета увеличивает уворот.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Agility_Drift.cb29e4e3d9336e3fb7b2d93a891dde48.png",
+        "thumb": "icons/ru/thumbs/Agility_Drift.cb29e4e3d9336e3fb7b2d93a891dde48.128x128.png",
         "drop": [
             {
                 "name": "Orokin Moon Test",
@@ -32,12 +34,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Проворное течение",
-        "description": "<p>Проворное течение — эксилус мод для варфреймов, который уменьшает получаемый урон во время полета увеличивает уворот.</p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Agility_Drift.cb29e4e3d9336e3fb7b2d93a891dde48.png",
-        "thumb": "icons/ru/thumbs/Agility_Drift.cb29e4e3d9336e3fb7b2d93a891dde48.128x128.png",
+    "ko": {
+        "item_name": "어질리티 드리프트",
+        "description": "<p>Agility Drift is a rare dual-stat Exilus mod that reduces damage taken while airborne and reduces enemy accuracy when targeting the player.[1]</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Agility_Drift",
         "drop": [
             {
                 "name": "Orokin Moon Test",

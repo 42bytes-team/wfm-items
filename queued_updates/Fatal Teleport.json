@@ -25,10 +25,12 @@
             }
         ]
     },
-    "ko": {
-        "item_name": "페이탈 텔레포트",
-        "description": "<p>Fatal Teleport is a Warframe Augment Mod for Ash's Teleport that immediately performs a melee finisher upon teleporting to the target, with an additional damage multiplier. Additionally, if the finisher kills its target, 50% of Teleport's energy cost is refunded.</p>",
-        "wiki_link": "http://warframe.wikia.com/wiki/Fatal_Teleport",
+    "ru": {
+        "item_name": "Смертельный телепорт",
+        "description": "<p>Смертельный Телепорт — мод-аугмент для варфрейма Эш и Эш Прайм, улучшающий его способность Телепорт. Телепорт будет закончен ударом по цели, наносящим дополнительный урон. Также в случае убийства цели 50% затраченной энергии будет возвращено. </p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D0%BE%D1%80%D1%82",
+        "icon": "icons/ru/Fatal_Teleport.dc869ed8219868a32c9eff74c16a3880.png",
+        "thumb": "icons/ru/thumbs/Fatal_Teleport.dc869ed8219868a32c9eff74c16a3880.128x128.png",
         "drop": [
             {
                 "name": "Arbiters of Hexis",
@@ -40,12 +42,10 @@
             }
         ]
     },
-    "ru": {
-        "item_name": "Смертельный телепорт",
-        "description": "<p>Смертельный Телепорт — мод-аугмент для варфрейма Эш и Эш Прайм, улучшающий его способность Телепорт. Телепорт будет закончен ударом по цели, наносящим дополнительный урон. Также в случае убийства цели 50% затраченной энергии будет возвращено. </p>",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D0%BE%D1%80%D1%82",
-        "icon": "icons/ru/Fatal_Teleport.dc869ed8219868a32c9eff74c16a3880.png",
-        "thumb": "icons/ru/thumbs/Fatal_Teleport.dc869ed8219868a32c9eff74c16a3880.128x128.png",
+    "ko": {
+        "item_name": "페이탈 텔레포트",
+        "description": "<p>Fatal Teleport is a Warframe Augment Mod for Ash's Teleport that immediately performs a melee finisher upon teleporting to the target, with an additional damage multiplier. Additionally, if the finisher kills its target, 50% of Teleport's energy cost is refunded.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fatal_Teleport",
         "drop": [
             {
                 "name": "Arbiters of Hexis",
