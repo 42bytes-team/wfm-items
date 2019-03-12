@@ -50,6 +50,25 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "웜 코트",
+        "description": "<p>Warm Coat increases a Warframe's shield resistance against the cryogenic temperatures environmental hazard.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Warm_Coat",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "InfestedToxic Ancient",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 3,
     "trading_tax": 2000

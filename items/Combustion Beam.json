@@ -66,6 +66,33 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "컴버스쳔 빔",
+        "description": "<p>Combustion Beam  causes enemies killed by beam weapons to explode, dealing up to 600 damage shortly after death.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Combustion_Beam",
+        "drop": [
+            {
+                "name": "CorpusComba",
+                "link": null
+            },
+            {
+                "name": "CorpusDatalyst",
+                "link": null
+            },
+            {
+                "name": "CorpusNullifier Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusScrambus",
+                "link": null
+            },
+            {
+                "name": "CorpusSniper Crewman",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 5,
     "trading_tax": 8000

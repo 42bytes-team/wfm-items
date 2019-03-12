@@ -24,8 +24,17 @@
         "item_name": "Sharpshooter",
         "description": "Sharpshooter is a Sniper mod that restores energy upon a headshot kill.",
         "wiki_link": "http://warframe.wikia.com/wiki/Sharpshooter",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Arbitrations",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "샤프슈터",
+        "description": "Sharpshooter is a Sniper mod that restores energy upon a headshot kill.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Sharpshooter",
         "drop": [
             {
                 "name": "Arbitrations",

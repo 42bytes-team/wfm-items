@@ -34,6 +34,17 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "크리티컬 디셀러레이션",
+        "description": "<p>The Critical Deceleration mod increases the critical hit chance by 8% per rank while reducing the Fire Rate by -5% per rank of shotguns for a maximum of 48% critical hit chance and -30% fire rate at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Critical_Deceleration",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 5,
     "trading_tax": 8000

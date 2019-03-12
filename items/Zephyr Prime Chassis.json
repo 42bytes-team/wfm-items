@@ -5,8 +5,8 @@
         "warframe",
         "chassis"
     ],
-    "icon": "icons/en/Zephyr_Prime_Set.0e09d33a330ff376c5d258a8ac8db850.png",
-    "thumb": "icons/en/thumbs/Zephyr_Prime_Set.0e09d33a330ff376c5d258a8ac8db850.128x128.png",
+    "icon": "icons/en/Zephyr_Prime_Set.4ffc19dd100b3c182beef5f1ef3d337e.png",
+    "thumb": "icons/en/thumbs/Zephyr_Prime_Set.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/chassis_128x128.png",
     "url_name": "zephyr_prime_chassis",
@@ -34,11 +34,20 @@
         "item_name": "Зефир Прайм Каркас",
         "description": "<p>Релиз: 20 Марта, 2018</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%97%D0%B5%D1%84%D0%B8%D1%80",
-        "icon": null,
-        "thumb": null,
         "drop": [
             {
                 "name": "Нео K1 Необычная",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "제피르 프라임 섀시",
+        "description": "<p>Release Date: March 20th, 2018</p><p>Zephyr Prime is the Primed variant of Zephyr, featuring higher armor, energy pool and sprint speed. It comes also with two extra polarities.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zephyr/Prime",
+        "drop": [
+            {
+                "name": "Neo K1 Uncommon",
                 "link": null
             }
         ]

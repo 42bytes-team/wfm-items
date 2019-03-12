@@ -58,6 +58,29 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "익스펠 그리니어",
+        "description": "<p>Expel Grineer increases the damage of secondary weapons against Grineer.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Expel_Grineer",
+        "drop": [
+            {
+                "name": "GrineerBombard",
+                "link": null
+            },
+            {
+                "name": "GrineerDrekar Manic Bombard",
+                "link": null
+            },
+            {
+                "name": "GrineerManic Bombard",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

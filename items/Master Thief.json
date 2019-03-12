@@ -66,6 +66,33 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "마스터 시프",
+        "description": "<p>Master Thief grants a chance of unlocking locked lockers.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Master_Thief",
+        "drop": [
+            {
+                "name": "GrineerScorpion",
+                "link": null
+            },
+            {
+                "name": "Infested Mesa",
+                "link": null
+            },
+            {
+                "name": "Infested Chroma",
+                "link": null
+            },
+            {
+                "name": "Hyena Pack",
+                "link": null
+            },
+            {
+                "name": "Defense Reward",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 3,
     "trading_tax": 8000

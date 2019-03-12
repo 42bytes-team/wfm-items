@@ -29,8 +29,21 @@
         "item_name": "Razorwing Blitz",
         "description": "<p>Razorwing Blitz is a Warframe Augment Mod for Titania's Razorwing ability that increases its flight speed and fire rate when using Spellbind, Tribute, or Lantern.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Razorwing_Blitz",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "New Loka",
+                "link": null
+            },
+            {
+                "name": "Red Veil",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "레이저윙 블릿츠",
+        "description": "<p>Razorwing Blitz is a Warframe Augment Mod for Titania's Razorwing ability that increases its flight speed and fire rate when using Spellbind, Tribute, or Lantern.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Razorwing_Blitz",
         "drop": [
             {
                 "name": "New Loka",

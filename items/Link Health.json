@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "링크 헬스",
+        "description": "<p>Link Health is a Kubrow mod that increases its health based on a percentage of the player's health. The player's health is unaffected by this mod.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Link_Health",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 10,
     "trading_tax": 4000

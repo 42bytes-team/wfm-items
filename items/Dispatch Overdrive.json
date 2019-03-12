@@ -25,8 +25,17 @@
         "item_name": "Сконцентрированный Разгон",
         "description": "<p>При Убийстве с Концентрацией: +60% Скорости передвижения на 15 секунд.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/Сконцентрированный_Разгон",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Corrupted Butcher",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "디스패치 오버드라이브",
+        "description": "<p>Dispatch Overdrive grants a movement speed buff on a Melee Channel kill.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Dispatch_Overdrive",
         "drop": [
             {
                 "name": "Corrupted Butcher",

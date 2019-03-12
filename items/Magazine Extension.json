@@ -50,6 +50,25 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "매거진 익스텐션",
+        "description": "<p>The Magazine Extension mod increases the magazine capacity of Archwing guns by 10% per rank for a maximum of 60% at rank 5. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magazine_Extension",
+        "drop": [
+            {
+                "name": "CorpusAttack Drone",
+                "link": null
+            },
+            {
+                "name": "GrineerDargyn",
+                "link": null
+            },
+            {
+                "name": "GrineerZeplen",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000

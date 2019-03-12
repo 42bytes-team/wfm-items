@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "머울",
+        "description": "<p>Maul mod increases the melee damage a Kubrow deals by 30% per rank to a maximum of 330% at rank 10.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Maul",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 10,
     "trading_tax": 4000

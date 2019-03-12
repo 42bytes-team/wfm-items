@@ -98,6 +98,49 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "커팅 엣지",
+        "description": "<p>The Cutting Edge mod increases melee damage of an Archwing melee weapon by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cutting_Edge",
+        "drop": [
+            {
+                "name": "CorpusFrigate",
+                "link": null
+            },
+            {
+                "name": "CorpusPenta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusQuanta Ranger",
+                "link": null
+            },
+            {
+                "name": "CorpusRanger",
+                "link": null
+            },
+            {
+                "name": "GrineerDreg",
+                "link": null
+            },
+            {
+                "name": "GrineerOgma",
+                "link": null
+            },
+            {
+                "name": "InfestedAttack Mutalist",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Lightning Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Toxic Carrier",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000

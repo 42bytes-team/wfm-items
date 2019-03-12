@@ -74,6 +74,37 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "리치",
+        "description": "<p>Reach increases the range of a melee weapon's attacks, except Glaive (Prime), Kestrel, and Halikar's thrown-distance (they can hit enemies more easily, though, because the projectile can reach a greater swath). Reach also increases the range at which Sentinels can attack enemies if installed on a Sentinel Weapon. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Reach",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "Raptor",
+                "link": null
+            },
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 3,
     "trading_tax": 2000

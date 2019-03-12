@@ -26,8 +26,17 @@
         "item_name": "Изгнание Прайм: Корпус",
         "description": "<p>Изгнание Прайм: Корпус — легендарный мод для вторичного оружия, увеличивающий наносимый урон по противникам фракции Корпус.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%98%D0%B7%D0%B3%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC%3A_%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "프라임드 익스펠 코퍼스",
+        "description": "<p>+55% Damage to Corpus</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Expel_Corpus",
         "drop": [
             {
                 "name": "Baro Ki'Teer",

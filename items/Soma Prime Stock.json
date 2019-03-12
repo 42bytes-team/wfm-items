@@ -32,15 +32,27 @@
                 "name": "Meso S1 Rare",
                 "link": null
             }
-        ],
-        "codex": "Known for taking down whole squads with its single massive clip, few weapons were as feared as the Prime Soma."
+        ]
     },
     "ru": {
         "item_name": "Сома прайм Приклад",
         "description": "<p>Известная своей способностью уложить целый отряд за один магазин, Сома Прайм имела немного столь же устрашающих аналогов.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BE%D0%BC%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Lith S2 Rare",
+                "link": null
+            },
+            {
+                "name": "Meso S1 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "소마 프라임 스톡",
+        "description": "<p>The Soma Prime is the primed version of the Soma assault rifle. It primarily features a greater magazine size, greater ammo reserves, and a slight increase to physical damage and status chance.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Soma_Prime",
         "drop": [
             {
                 "name": "Lith S2 Rare",

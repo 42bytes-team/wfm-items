@@ -82,6 +82,41 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "셸 컴프레션",
+        "description": "<p>The Shell Compression mod increases maximum ammo of a shotgun by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shell_Compression",
+        "drop": [
+            {
+                "name": "Jackal",
+                "link": null
+            },
+            {
+                "name": "Corrupted Warden",
+                "link": null
+            },
+            {
+                "name": "GrineerCommander",
+                "link": null
+            },
+            {
+                "name": "GrineerDesert Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "GrineerHeavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Grineer Warden",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

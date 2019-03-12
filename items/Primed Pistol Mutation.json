@@ -35,6 +35,17 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "프라임드 피스톨 애모 뮤테이션",
+        "description": "<p>Primed Pistol Mutation is the Primed version of the Pistol Ammo Mutation mod for pistols, which converts any unused ammo type into Pistol Ammo, or Sniper Ammo in the case of most explosive sidearms. The affected pistol will only convert ammo while equipped, and will not convert any ammo type used by holstered primary weapons until their own ammo is full.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Pistol_Mutation",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
     "rarity": "legendary",
     "mod_max_rank": 10,
     "trading_tax": 1000000

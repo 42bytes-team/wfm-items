@@ -34,6 +34,17 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "스포일드 스트라이크",
+        "description": "<p>The Spoiled Strike mod increases damage by 25% per rank while reducing attack speed by -5% per rank of melee attacks for a maximum of 100% damage and -20% attack speed at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spoiled_Strike",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 3,
     "trading_tax": 8000

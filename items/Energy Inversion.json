@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "에너지 인버젼",
+        "description": "<p>The Energy Inversion mod increases the Shield Capacity of an Archwing by 30% per rank at a maximum of 120% at rank 3.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Inversion",
+        "drop": [
+            {
+                "name": "GrineerShield Dargyn",
+                "link": null
+            },
+            {
+                "name": "Archwing Interception Reward",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 3,
     "trading_tax": 2000

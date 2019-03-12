@@ -50,6 +50,25 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "클렌즈 인페스티드",
+        "description": "<p>The Cleanse Infested mod increases the base damage of shotguns against Infested by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Cleanse_Infested",
+        "drop": [
+            {
+                "name": "InfestedLeaper",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            },
+            {
+                "name": "Tier 3Survival Reward",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

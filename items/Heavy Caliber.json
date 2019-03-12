@@ -34,6 +34,17 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "헤비 칼리버",
+        "description": "<p>Heavy Caliber increases damage of Primary Weapons (excluding Shotguns) at the cost of reduced accuracy by 15% and -5% per rank, at a maximum of 165% and -55% at rank 10, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Caliber",
+        "drop": [
+            {
+                "name": "Orokin Vault",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 10,
     "trading_tax": 8000

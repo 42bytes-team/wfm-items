@@ -29,8 +29,21 @@
         "item_name": "Неустанная Комбинация",
         "description": "<p>+100% шанса увеличения комбо, когда Статус Разреза наносит урон.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/Неустанная_Комбинация",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Ancient Disruptor",
+                "link": null
+            },
+            {
+                "name": "Tar-Mutalist MOA",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "릴렌트리스 컴비네이션",
+        "description": "<p>Relentless Combination grants a chance to deal Combo Counter hits when a target is dealt damage from a Slash b Slash proc caused by the player.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination",
         "drop": [
             {
                 "name": "Ancient Disruptor",

@@ -35,15 +35,31 @@
                 "name": "Axi N4 Rare",
                 "link": null
             }
-        ],
-        "codex": "An ancient blade predating the fall of the Orokin Empire. Forged using techniques lost over centuries, the edge remains sharper than that of modern Nikana."
+        ]
     },
     "ru": {
         "item_name": "Никана Прайм Рукоять",
         "description": "<p>Древний клинок, предшествующий закату Империи Орокин. Используя техники ковки, утерянные на протяжении веков, лезвие удалось сделать острее, чем у любой современной никаны.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9D%D0%B8%D0%BA%D0%B0%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Neo N6 Rare",
+                "link": null
+            },
+            {
+                "name": "Axi N2 Rare",
+                "link": null
+            },
+            {
+                "name": "Axi N4 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "니카나 프라임 힐트",
+        "description": "<p>The Nikana Prime is the primed version of the Nikana, added in Hotfix 18.4.12.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Nikana_Prime",
         "drop": [
             {
                 "name": "Neo N6 Rare",

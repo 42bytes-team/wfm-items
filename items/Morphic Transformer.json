@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "모르픽 트랜스포머",
+        "description": "<p>The Morphic Transformer mod increases the Power Strength of Archwing abilities by 5% per rank for a maximum of 20% at rank 3. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Morphic_Transformer",
+        "drop": [
+            {
+                "name": "GrineerTemporal Dreg",
+                "link": null
+            },
+            {
+                "name": "Corpus Archwing Exterminate Reward",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 3,
     "trading_tax": 8000

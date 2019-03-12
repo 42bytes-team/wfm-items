@@ -66,6 +66,33 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "스페어 파츠",
+        "description": "<p>Spare Parts gives the Sentinel a chance to drop rare items on death.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spare_Parts",
+        "drop": [
+            {
+                "name": "Lephantis",
+                "link": null
+            },
+            {
+                "name": "Corrupted Bombard",
+                "link": null
+            },
+            {
+                "name": "Corrupted Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Corrupted Nullifier",
+                "link": null
+            },
+            {
+                "name": "Tier 2Survival Reward",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "링크 아머",
+        "description": "<p>Link Armor is a Companion mod that allows the owner to share their armor as an addition to the Companion's armor.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Link_Armor",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 10,
     "trading_tax": 4000

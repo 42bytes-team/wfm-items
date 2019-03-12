@@ -58,6 +58,29 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "리젠",
+        "description": "<p>Regen allows a Sentinel to regenerate once per mission if killed. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Regen",
+        "drop": [
+            {
+                "name": "InfestedCharger",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut",
+                "link": null
+            },
+            {
+                "name": "InfestedJuggernaut Behemoth",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000

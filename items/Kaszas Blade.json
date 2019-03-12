@@ -30,15 +30,27 @@
                 "name": "Offering",
                 "link": null
             }
-        ],
-        "codex": "Become an angel of death, with this Archwing scythe."
+        ]
     },
     "ru": {
         "item_name": "Косаш Клинок",
         "description": "<p>Станьте ангелом смерти с этой косой для Арчвингов</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%88",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Red Veil",
+                "link": null
+            },
+            {
+                "name": "Offering",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "카스자스 블레이드",
+        "description": "<p>The Kaszas is an Archwing scythe released in Update 17.5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Kaszas",
         "drop": [
             {
                 "name": "Red Veil",

@@ -50,6 +50,25 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "가디언",
+        "description": "<p>Guardian grants a Sentinel the ability to replenish its owner's shield when depleted.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Guardian",
+        "drop": [
+            {
+                "name": "Orokin Drone",
+                "link": null
+            },
+            {
+                "name": "Orokin Spectator",
+                "link": null
+            },
+            {
+                "name": "Orokin Storage Containers",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000

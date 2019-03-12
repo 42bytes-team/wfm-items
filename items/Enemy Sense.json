@@ -50,6 +50,25 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "에너미 센스",
+        "description": "<p>Enemy Sense displays all enemies within its radius with red markers on the mini-map. This includes Latchers thrown by Grineer Seekers and Maggots spawned by Brood Mothers, but does not include cameras and turrets present in Corpus missions.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Enemy_Sense",
+        "drop": [
+            {
+                "name": "GrineerFlameblade",
+                "link": null
+            },
+            {
+                "name": "Guardsman Eximus",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 5,
     "trading_tax": 8000

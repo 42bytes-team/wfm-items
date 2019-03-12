@@ -33,6 +33,17 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "프라임드 리젠",
+        "description": "<p>Primed Regen allows a Sentinel to regenerate some or all of its health up to three times per mission if killed. The Sentinel will also gain invulnerability for 1 + mod rank seconds after regenerating.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Regen",
+        "drop": [
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
     "rarity": "legendary",
     "mod_max_rank": 10,
     "trading_tax": 1000000

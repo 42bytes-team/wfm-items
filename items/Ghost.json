@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "고스트",
+        "description": "<p>Ghost allows the Shade sentinel to cloak itself and the user when hostile entities are within range, rendering themselves invisible to enemies.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ghost",
+        "drop": [
+            {
+                "name": "InfestedVolatile Runner",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000

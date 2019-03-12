@@ -50,6 +50,25 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "인트루더",
+        "description": "<p>Intruder is a mod that decreases the difficulty of Hacking consoles. Depending on the console involved, it will either increase the time limit for Corpus consoles or decrease the speed of the needle in Grineer consoles.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Intruder",
+        "drop": [
+            {
+                "name": "Corrupted Bombard",
+                "link": null
+            },
+            {
+                "name": "Corrupted Heavy Gunner",
+                "link": null
+            },
+            {
+                "name": "Corrupted Nullifier",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000

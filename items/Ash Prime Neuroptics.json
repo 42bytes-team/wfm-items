@@ -37,15 +37,31 @@
                 "name": "Axi N2 Uncommon",
                 "link": null
             }
-        ],
-        "codex": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization."
+        ]
     },
     "ru": {
         "item_name": "Эш Прайм Нейроптика",
         "description": "<p>Отвлекающие маневры и смертельные уловки стали смертоносным оружием для Эша прайм. Содержит измененные полярности для лучшей конфигурации.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D1%88/Прайм",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Meso N2 Uncommon",
+                "link": null
+            },
+            {
+                "name": "Neo N3 Uncommon",
+                "link": null
+            },
+            {
+                "name": "Axi N2 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "애쉬 프라임 뉴로옵틱스",
+        "description": "<p>Release Date: July 7, 2015</p><p>Ash Prime is the primed variant of the Ash Warframe featuring more powerful stats, possessing a higher shield capacity, armor and sprint speed, as well as an additional  polarity.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ash/Prime",
         "drop": [
             {
                 "name": "Meso N2 Uncommon",

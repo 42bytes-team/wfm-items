@@ -82,6 +82,41 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "에너지 채널",
+        "description": "<p>The Energy Channel mod converts 50% of energy used to bonus damage on next melee attack and stores up to +50 bonus damage per rank, for a maximum of 200% and +200 at rank 3, respectively.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Channel",
+        "drop": [
+            {
+                "name": "Councilor Vay Hek",
+                "link": null
+            },
+            {
+                "name": "Lieutenant Lech Kril",
+                "link": null
+            },
+            {
+                "name": "Phorid",
+                "link": null
+            },
+            {
+                "name": "Stalker",
+                "link": null
+            },
+            {
+                "name": "CorpusMOA",
+                "link": null
+            },
+            {
+                "name": "GrineerSeeker",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 3,
     "trading_tax": 8000

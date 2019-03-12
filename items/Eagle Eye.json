@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "이글 아이",
+        "description": "<p>The Eagle Eye mod increases the zoom of a rifle by 10% per rank up to a maximum of 40% at rank 3. Beginning with Update 12.6, Eagle Eye also increases the range at which Sentinels can shoot enemies if installed on a Sentinel Weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Eagle_Eye",
+        "drop": [
+            {
+                "name": "InfestedCrawler",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 3,
     "trading_tax": 4000

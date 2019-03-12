@@ -12,16 +12,7 @@
         "item_name": "Hypothermic Shell",
         "description": "<p>Hypothermic Shell is a mod that increases Cold damage and status chance of Arch-guns by 15% per rank for a maximum of 60% at rank 3.</p>",
         "wiki_link": "https://warframe.fandom.com/wiki/Hypothermic_Shell",
-        "drop": [
-            {
-                "name": "Fomorian Sabotage (5%)",
-                "link": null
-            },
-            {
-                "name": "Profit-Taker Orb (2.56%)",
-                "link": null
-            }
-        ]
+        "drop": []
     },
     "ru": {
         "item_name": "Гипотермические Снаряды",
@@ -29,16 +20,13 @@
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
         "icon": "icons/ru/Hypothermic_Shell.56a6ff8812b6c1ef7025b74f4b1f08d2.png",
         "thumb": "icons/ru/thumbs/Hypothermic_Shell.56a6ff8812b6c1ef7025b74f4b1f08d2.128x128.png",
-        "drop": [
-            {
-                "name": "Фоморианская Угроза (5%)",
-                "link": null
-            },
-            {
-                "name": "Сфера Извлечения Прибыли (2.56%)",
-                "link": null
-            }
-        ]
+        "drop": []
+    },
+    "ko": {
+        "item_name": "하이포서믹 셸",
+        "description": "<p>Hypothermic Shell is a mod that increases Cold damage and status chance of Arch-guns by 15% per rank for a maximum of 60% at rank 3.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Hypothermic_Shell",
+        "drop": []
     },
     "rarity": "rare",
     "mod_max_rank": 3,

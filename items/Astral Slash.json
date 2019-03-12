@@ -50,6 +50,25 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "아스트랄 슬래쉬",
+        "description": "<p>The Astral Slash mod increases melee Slash damage of an Archwing melee weapon by 15% per rank for a maximum of 90% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Astral_Slash",
+        "drop": [
+            {
+                "name": "Archwing Sabotage Reward",
+                "link": null
+            },
+            {
+                "name": "KeplerPhobos Rush Reward",
+                "link": null
+            },
+            {
+                "name": "Archwing Mobile Defense Reward",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 5,
     "trading_tax": 8000

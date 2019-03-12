@@ -34,6 +34,17 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "엔트로피 스파이크",
+        "description": "<p>The Entropy Spike mod is a Weapon Augment Mod that adds an explosion chance and Entropy specifically for the Bolto. It increases the explosion chance by 0.05 and Entropy by 0.25 per rank, at a maximum of 0.2 and 1 at rank 3, respectively. Explosions deal 250  Blast damage to the target, as well as to nearby enemies within 10 meters of the blast (scaled by distance).</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Entropy_Spike",
+        "drop": [
+            {
+                "name": "Cephalon Suda Offering",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 3,
     "trading_tax": 8000

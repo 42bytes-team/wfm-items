@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "애모 스톡",
+        "description": "<p>The Ammo Stock mod increases shotgun magazine capacity by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Stock",
+        "drop": [
+            {
+                "name": "GrineerNapalm",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

@@ -130,6 +130,65 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "퓨리",
+        "description": "<p>The Fury mod increases the attack speed of a melee weapon by 5% per rank for a maximum of 30% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fury",
+        "drop": [
+            {
+                "name": "CorpusCrewman",
+                "link": null
+            },
+            {
+                "name": "CorpusDrone",
+                "link": null
+            },
+            {
+                "name": "CorpusElite Crewman",
+                "link": null
+            },
+            {
+                "name": "CorpusNemes",
+                "link": null
+            },
+            {
+                "name": "CorpusOxium Osprey",
+                "link": null
+            },
+            {
+                "name": "CorpusPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerCarabus",
+                "link": null
+            },
+            {
+                "name": "GrineerFrontier Regulator",
+                "link": null
+            },
+            {
+                "name": "GrineerRegulator",
+                "link": null
+            },
+            {
+                "name": "GrineerPower Carrier",
+                "link": null
+            },
+            {
+                "name": "GrineerHellion Power Carrier",
+                "link": null
+            },
+            {
+                "name": "InfestedMutalist Osprey Carrier",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

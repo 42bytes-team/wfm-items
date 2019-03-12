@@ -27,15 +27,23 @@
                 "name": "Lith A1 Uncommon",
                 "link": null
             }
-        ],
-        "codex": "Once thought destroyed, the newly uncovered Vectis Prime revives Tenno martial traditions."
+        ]
     },
     "ru": {
         "item_name": "Вектис прайм Чертеж",
         "description": "<p>Однажды считавшаяся утерянной, винтовка Вектис Прайм возрождает боевые традиции Тэнно.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%B8%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC/Прайм",
-        "icon": null,
-        "thumb": null,
+        "drop": [
+            {
+                "name": "Lith A1 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "벡티스 프라임 설계도",
+        "description": "<p>The Vectis Prime is the prime version of the Vectis sniper rifle. Featuring higher base damage and a doubled magazine, the Vectis Prime retains the standard version's 4x zoom setting, but swaps the Vectis' 3x zoom for a much higher 10x zoom, allowing for both medium and long range combat.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vectis_Prime",
         "drop": [
             {
                 "name": "Lith A1 Uncommon",

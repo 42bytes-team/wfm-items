@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "시킹 포스",
+        "description": "<p>The Seeking Force mod increases Punch Through of a shotgun starting at 0.4 meters, with a maximum of 2.1 meters at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Seeking_Force",
+        "drop": [
+            {
+                "name": "GrineerPowerfist",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 5,
     "trading_tax": 8000

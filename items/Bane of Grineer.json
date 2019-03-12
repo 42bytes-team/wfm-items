@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "베인 오브 그리니어",
+        "description": "<p>Bane of Grineer increases the damage of rifles against Grineer. The mod increases both the base damage and elemental damage of a weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Bane_of_Grineer",
+        "drop": [
+            {
+                "name": "GrineerScorch",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Container",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

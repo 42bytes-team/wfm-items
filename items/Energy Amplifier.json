@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "에너지 앰플리파이어",
+        "description": "<p>The Energy Amplifier mod increases the Power Range of an Archwing by 10% per rank for a maximum of 60% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Amplifier",
+        "drop": [
+            {
+                "name": "GrineerLancer Dreg",
+                "link": null
+            },
+            {
+                "name": "GrineerShield-Hellion Dargyn",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "인설레이션",
+        "description": "<p>Insulation increases the Cold damage resistance of a Warframe's health and shields. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Insulation",
+        "drop": [
+            {
+                "name": "GrineerNapalm",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000

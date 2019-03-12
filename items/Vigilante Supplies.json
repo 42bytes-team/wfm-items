@@ -41,6 +41,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "비질란티 서플라이즈",
+        "description": "<p>Vigilante Supplies is a set mod that converts any unused ammo type into Rifle Ammo. The affected rifle will only convert ammo while equipped, and will not convert any ammo type used by holstered secondary weapons until their own ammo is full.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Supplies",
+        "drop": [
+            {
+                "name": "Bounty (20-40 )",
+                "link": null
+            },
+            {
+                "name": "Plains Commander (0.02%)",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 5,
     "trading_tax": 8000

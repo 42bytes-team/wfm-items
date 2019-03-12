@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "크래쉬 코스",
+        "description": "<p>The Crash Course mod increases  Impact damage of rifles by 20% per rank for a maximum of 120% at rank 5.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Crash_Course",
+        "drop": [
+            {
+                "name": "Operation False Profit reward",
+                "link": null
+            },
+            {
+                "name": "Baro Ki'Teer",
+                "link": null
+            }
+        ]
+    },
     "rarity": "rare",
     "mod_max_rank": 5,
     "trading_tax": 8000

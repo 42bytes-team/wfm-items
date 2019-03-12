@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "모디파이드 뮤니션즈",
+        "description": "<p>The Modified Munitions mod increases the status effect chance of Archwing guns by 10% per rank at a maximum of 60% at rank 5.  </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Modified_Munitions",
+        "drop": [
+            {
+                "name": "GrineerDargyn",
+                "link": null
+            },
+            {
+                "name": "GrineerZeplen",
+                "link": null
+            }
+        ]
+    },
     "rarity": "uncommon",
     "mod_max_rank": 5,
     "trading_tax": 4000

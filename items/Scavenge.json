@@ -42,6 +42,21 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "스캐빈지",
+        "description": "<p>Scavenge mod gives Kubrows and Kavats a chance to unlock lockers.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Scavenge",
+        "drop": [
+            {
+                "name": "Drahk",
+                "link": null
+            },
+            {
+                "name": "Kubrow (Feral)",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000

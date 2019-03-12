@@ -66,6 +66,33 @@
             }
         ]
     },
+    "ko": {
+        "item_name": "시브즈 위트",
+        "description": "<p>Thief's Wit is a Warframe mod which adds a loot radar to the minimap. The loot radar will display resources, lootable canisters, chests, crates, and lootable corpses (which only appear during the self-destruction environmental hazard) on the mini-map. It will also locate Medallions in Syndicate Alert Missions and Resource Caches in Sabotage missions. Thief's Wit will not display lockers or dropped blueprints.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Thief's_Wit",
+        "drop": [
+            {
+                "name": "The Sergeant",
+                "link": null
+            },
+            {
+                "name": "CorpusAnti MOA",
+                "link": null
+            },
+            {
+                "name": "CorpusFusion MOA",
+                "link": null
+            },
+            {
+                "name": "GrineerShield Lancer",
+                "link": null
+            },
+            {
+                "name": "Orokin Void Containers",
+                "link": null
+            }
+        ]
+    },
     "rarity": "common",
     "mod_max_rank": 5,
     "trading_tax": 2000
