@@ -1,0 +1,30 @@
+{
+    "_id": "5ce7fd85d23a3b00908c4205",
+    "tags": [
+        "mod",
+        "common"
+    ],
+    "icon": "icons/en/Anti-Grav_Grenade.08aa82d4bc0f4921a12b4e0b8e8979f6.png",
+    "thumb": "icons/en/thumbs/Anti-Grav_Grenade.08aa82d4bc0f4921a12b4e0b8e8979f6.128x128.png",
+    "icon_format": "port",
+    "url_name": "anti_grav_grenade",
+    "tradable": true,
+    "en": {
+        "item_name": "Anti-Grav Grenade",
+        "description": "<p>A grenade that reverses gravity in a 1m radius, inflicting 20 <DT_IMPACT>Impact Damage. Target sustains additional damage based on the amount sustained while airborne.</p>",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Anti-Grav Grenade",
+        "description": "<p>A grenade that reverses gravity in a 1m radius, inflicting 20 <DT_IMPACT>Impact Damage. Target sustains additional damage based on the amount sustained while airborne.</p>",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "Anti-Grav Grenade",
+        "description": "<p>A grenade that reverses gravity in a 1m radius, inflicting 20 <DT_IMPACT>Impact Damage. Target sustains additional damage based on the amount sustained while airborne.</p>",
+        "drop": []
+    },
+    "rarity": "common",
+    "mod_max_rank": 3,
+    "trading_tax": 2000
+}
