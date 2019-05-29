@@ -108,15 +108,4 @@ Currently i can support only `en` and `ru` localizations.
 
 It's preferable to contribute translation for all items at once.
 
-Use one of [this](https://www.w3schools.com/tags/ref_language_codes.asp) lang codes, to add a new translation.- [README](#readme)
-  - [Directories](#directories)
-  - [How to contribute](#how-to-contribute)
-  - [Contribution Workflow](#contribution-workflow)
-  - [File structure](#file-structure)
-    - [Common fields](#common-fields)
-      - [Mod exclusive fields](#mod-exclusive-fields)
-      - [Weapon, parts fields](#weapon-parts-fields)
-      - [Contributing an Icon](#contributing-an-icon)
-      - [Sets](#sets)
-    - [Tags](#tags)
-    - [Contribute a new Language](#contribute-a-new-language)
+Use one of [this](https://www.w3schools.com/tags/ref_language_codes.asp) lang codes, to add a new translation.
