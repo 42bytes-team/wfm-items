@@ -5,6 +5,12 @@
     "prefix": "Ampi",
     "suffix": "Bin",
     "positive_is_negative": false,
+    "exclusive_to": [
+        "shotgun",
+        "rifle",
+        "pistol",
+        "kitgun"
+    ],
     "en": {
         "effect": "Ammo Maximum"
     },

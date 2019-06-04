@@ -5,6 +5,12 @@
     "prefix": "Hera",
     "suffix": "Lis",
     "positive_is_negative": false,
+    "exclusive_to": [
+        "shotgun",
+        "rifle",
+        "pistol",
+        "kitgun"
+    ],
     "en": {
         "effect": "Zoom"
     },

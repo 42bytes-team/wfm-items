@@ -5,7 +5,7 @@
     "prefix": "Zeti",
     "suffix": "Mag",
     "positive_is_negative": true,
-    "exclusive_to": null,
+    "exclusive_to": ["shotgun", "rifle", "pistol", "kitgun"],
     "en": {
         "effect": "Recoil"
     },

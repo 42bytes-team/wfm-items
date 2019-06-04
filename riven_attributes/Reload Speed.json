@@ -5,6 +5,12 @@
     "prefix": "Feva",
     "suffix": "Tak",
     "positive_is_negative": false,
+    "exclusive_to": [
+        "shotgun",
+        "rifle",
+        "pistol",
+        "kitgun"
+    ],
     "en": {
         "effect": "Reload Speed"
     },
