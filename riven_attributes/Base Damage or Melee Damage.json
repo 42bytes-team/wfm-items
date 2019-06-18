@@ -5,13 +5,14 @@
     "prefix": "Visi",
     "suffix": "Ata",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Base Damage / Melee Damage"
     },
     "ru": {
-        "effect": "Base Damage / Melee Damage"
+        "effect": "Урон"
     },
     "ko": {
-        "effect": "Base Damage / Melee Damage"
+        "effect": "피해 또는 근접 피해"
     }
 }

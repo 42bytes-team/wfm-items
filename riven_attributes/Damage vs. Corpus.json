@@ -5,13 +5,14 @@
     "prefix": "Manti",
     "suffix": "Tron",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Damage vs. Corpus"
     },
     "ru": {
-        "effect": "Damage vs. Corpus"
+        "effect": "Урон Корпусу"
     },
     "ko": {
-        "effect": "Damage vs. Corpus"
+        "effect": "코퍼스에 대한 피해"
     }
 }

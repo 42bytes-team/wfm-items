@@ -5,13 +5,14 @@
     "prefix": "Acri",
     "suffix": "Tis",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Critical Damage"
     },
     "ru": {
-        "effect": "Critical Damage"
+        "effect": "Критический урон"
     },
     "ko": {
-        "effect": "Critical Damage"
+        "effect": "치명타 피해"
     }
 }

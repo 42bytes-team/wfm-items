@@ -5,13 +5,14 @@
     "prefix": "Arma",
     "suffix": "Tin",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Magazine Capacity"
     },
     "ru": {
-        "effect": "Magazine Capacity"
+        "effect": "Размер магазина"
     },
     "ko": {
-        "effect": "Magazine Capacity"
+        "effect": "탄창 용량"
     }
 }

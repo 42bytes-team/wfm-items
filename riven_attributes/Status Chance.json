@@ -5,13 +5,14 @@
     "prefix": "Hexa",
     "suffix": "Dex",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Status Chance"
     },
     "ru": {
-        "effect": "Status Chance"
+        "effect": "Шанс статуса"
     },
     "ko": {
-        "effect": "Status Chance"
+        "effect": "상태이상 확률"
     }
 }

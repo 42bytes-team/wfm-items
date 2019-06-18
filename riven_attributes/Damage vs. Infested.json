@@ -5,13 +5,14 @@
     "prefix": "Pura",
     "suffix": "Ada",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Damage vs. Infested"
     },
     "ru": {
-        "effect": "Damage vs. Infested"
+        "effect": "Урон Заражённым"
     },
     "ko": {
-        "effect": "Damage vs. Infested"
+        "effect": "인페스티드에 대한 피해"
     }
 }

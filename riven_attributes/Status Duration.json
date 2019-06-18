@@ -5,13 +5,14 @@
     "prefix": "Deci",
     "suffix": "Des",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Status Duration"
     },
     "ru": {
-        "effect": "Status Duration"
+        "effect": "Длительность статуса"
     },
     "ko": {
-        "effect": "Status Duration"
+        "effect": "상태이상 지속 시간"
     }
 }

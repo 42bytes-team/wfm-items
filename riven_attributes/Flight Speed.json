@@ -5,13 +5,14 @@
     "prefix": "Conci",
     "suffix": "Nak",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Flight Speed"
     },
     "ru": {
-        "effect": "Flight Speed"
+        "effect": "Скорость полёта"
     },
     "ko": {
-        "effect": "Flight Speed"
+        "effect": "발사체 속도"
     }
 }

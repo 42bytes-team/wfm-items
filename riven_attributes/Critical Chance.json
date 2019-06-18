@@ -5,13 +5,14 @@
     "prefix": "Crita",
     "suffix": "Cron",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Critical Chance"
     },
     "ru": {
-        "effect": "Critical Chance"
+        "effect": "Шанс критического урона"
     },
     "ko": {
-        "effect": "Critical Chance"
+        "effect": "치명타 확률"
     }
 }

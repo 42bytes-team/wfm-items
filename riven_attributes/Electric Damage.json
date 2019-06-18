@@ -6,13 +6,14 @@
     "suffix": "Tio",
     "icon": "static/assets/icons/Electricity_b.c639501dc5b22023fd3d1408745bd86d.png",
     "positive_is_negative": false,
+    "exclusive_to": null,
     "en": {
         "effect": "Electric Damage"
     },
     "ru": {
-        "effect": "Electric Damage"
+        "effect": "Электрический урон"
     },
     "ko": {
-        "effect": "Electric Damage"
+        "effect": "전기 피해"
     }
 }
