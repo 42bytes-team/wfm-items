@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "blueprint",
+        "crossbow",
+        "prime"
+    ],
+    "icon": "local://item_operations/UnknownItem.png",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "tradable": true,
+    "set_root": false,
+    "en": {
+        "item_name": "Zhuge Prime Blueprint",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Lith L1 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Чжугэ прайм Чертеж",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Лит L1 (Необычная)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Zhuge Prime Blueprint",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Lith L1 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000,
+    "ready": true
+}

@@ -1,0 +1,45 @@
+{
+    "tags": [
+        "blueprint",
+        "prime"
+    ],
+    "icon": "local://item_operations/UnknownItem.png",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "tradable": true,
+    "set_root": false,
+    "en": {
+        "item_name": "Ninkondi Prime Blueprint",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Neo R2 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нинконди прайм Чертеж",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Нео R2 (Обычная)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Ninkondi Prime Blueprint",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Neo R2 Common",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000,
+    "ready": true
+}

@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "parts",
+        "crossbow",
+        "barrel",
+        "prime"
+    ],
+    "icon": "local://item_operations/UnknownItem.png",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "tradable": true,
+    "set_root": false,
+    "en": {
+        "item_name": "Zhuge Prime Barrel",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Neo Z3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Чжугэ прайм Ствол",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Нео Z3 (Редкая)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Zhuge Prime Barrel",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Neo Z3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000,
+    "ready": true
+}

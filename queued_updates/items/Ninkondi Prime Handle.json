@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "parts",
+        "prime",
+        "handle"
+    ],
+    "icon": "local://item_operations/UnknownItem.png",
+    "sub_icon": "sub_icons/handle_128x128.png",
+    "tradable": true,
+    "set_root": false,
+    "en": {
+        "item_name": "Ninkondi Prime Handle",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Meso N7 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нинконди прайм Рукоять",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Мезо N7 (Редкая)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Ninkondi Prime Handle",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Meso N7 Rare",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000,
+    "ready": true
+}

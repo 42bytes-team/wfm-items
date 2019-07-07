@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "parts",
+        "prime",
+        "chain"
+    ],
+    "icon": "local://item_operations/UnknownItem.png",
+    "sub_icon": "sub_icons/chain_128x128.png",
+    "tradable": true,
+    "set_root": false,
+    "en": {
+        "item_name": "Ninkondi Prime Chain",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Axi P1 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нинконди прайм Цепь",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Акси P1 (Необычная)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Ninkondi Prime Chain",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Axi P1 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000,
+    "ready": true
+}
