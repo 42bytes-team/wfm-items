@@ -6,8 +6,8 @@
         "neuroptics",
         "warframe"
     ],
-    "icon": "icons/en/Ember_Prime_Set.971255acc3f1ad8a374d236c6af1c816.png",
-    "thumb": "icons/en/thumbs/Ember_Prime_Set.971255acc3f1ad8a374d236c6af1c816.128x128.png",
+    "icon": "icons/en/ember_prime_neuroptics.971255acc3f1ad8a374d236c6af1c816.png",
+    "thumb": "icons/en/thumbs/ember_prime_neuroptics.971255acc3f1ad8a374d236c6af1c816.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/neuroptics_128x128.png",
     "url_name": "ember_prime_neuroptics",
@@ -26,11 +26,11 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ember/Prime",
         "drop": [
             {
-                "name": "Meso F3 Uncommon",
+                "name": "Meso F3 Common",
                 "link": null
             },
             {
-                "name": "Neo S5 Uncommon",
+                "name": "Neo S5 Common",
                 "link": null
             }
         ]
@@ -41,11 +41,11 @@
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%AD%D0%BC%D0%B1%D0%B5%D1%80/Прайм",
         "drop": [
             {
-                "name": "Мезо F3 (Необычная)",
+                "name": "Мезо F3 (Обычная)",
                 "link": null
             },
             {
-                "name": "Нео S5 (Необычная)",
+                "name": "Нео S5 (Обычная)",
                 "link": null
             }
         ]
@@ -56,15 +56,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Ember/Prime",
         "drop": [
             {
-                "name": "메소 F3 Uncommon",
+                "name": "메소 F3 Common",
                 "link": null
             },
             {
-                "name": "네오 S5 Uncommon",
+                "name": "네오 S5 Common",
                 "link": null
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 15,
     "trading_tax": 4000
 }

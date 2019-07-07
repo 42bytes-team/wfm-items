@@ -4,8 +4,8 @@
         "blueprint",
         "warframe"
     ],
-    "icon": "icons/en/Banshee_Prime_Set.a0956816beb733841bce57e69a568cd6.png",
-    "thumb": "icons/en/thumbs/Banshee_Prime_Set.a0956816beb733841bce57e69a568cd6.128x128.png",
+    "icon": "icons/en/banshee_prime_neuroptics.a0956816beb733841bce57e69a568cd6.png",
+    "thumb": "icons/en/thumbs/banshee_prime_neuroptics.a0956816beb733841bce57e69a568cd6.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/neuroptics_128x128.png",
     "url_name": "banshee_prime_neuroptics",
@@ -24,23 +24,23 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Banshee/Prime",
         "drop": [
             {
-                "name": "Lith B5 Uncommon",
+                "name": "Lith B5 Common",
                 "link": null
             },
             {
-                "name": "Lith V5 Uncommon",
+                "name": "Lith V5 Common",
                 "link": null
             },
             {
-                "name": "Meso S4 Uncommon",
+                "name": "Meso S4 Common",
                 "link": null
             },
             {
-                "name": "Neo K2 Uncommon",
+                "name": "Neo K2 Common",
                 "link": null
             },
             {
-                "name": "Neo S7 Uncommon",
+                "name": "Neo S7 Common",
                 "link": null
             }
         ]
@@ -51,23 +51,23 @@
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%91%D0%B0%D0%BD%D1%88%D0%B8/%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
         "drop": [
             {
-                "name": "Лит B5 (Необычная)",
+                "name": "Лит B5 (Обычная)",
                 "link": null
             },
             {
-                "name": "Лит V5 (Необычная)",
+                "name": "Лит V5 (Обычная)",
                 "link": null
             },
             {
-                "name": "Мезо S4 (Необычная)",
+                "name": "Мезо S4 (Обычная)",
                 "link": null
             },
             {
-                "name": "Нео K2 (Необычная)",
+                "name": "Нео K2 (Обычная)",
                 "link": null
             },
             {
-                "name": "Нео S7 (Необычная)",
+                "name": "Нео S7 (Обычная)",
                 "link": null
             }
         ]
@@ -78,27 +78,28 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Banshee/Prime",
         "drop": [
             {
-                "name": "리스 B5 Uncommon",
+                "name": "리스 B5 Common",
                 "link": null
             },
             {
-                "name": "리스 V5 Uncommon",
+                "name": "리스 V5 Common",
                 "link": null
             },
             {
-                "name": "메소 S4 Uncommon",
+                "name": "메소 S4 Common",
                 "link": null
             },
             {
-                "name": "네오 K2 Uncommon",
+                "name": "네오 K2 Common",
                 "link": null
             },
             {
-                "name": "네오 S7 Uncommon",
+                "name": "네오 S7 Common",
                 "link": null
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 15,
     "trading_tax": 4000
 }

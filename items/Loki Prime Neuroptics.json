@@ -6,8 +6,8 @@
         "neuroptics",
         "warframe"
     ],
-    "icon": "icons/en/Loki_Prime_Set.abc05c280f92196bcb688643873fbf95.png",
-    "thumb": "icons/en/thumbs/Loki_Prime_Set.abc05c280f92196bcb688643873fbf95.128x128.png",
+    "icon": "icons/en/loki_prime_neuroptics.abc05c280f92196bcb688643873fbf95.png",
+    "thumb": "icons/en/thumbs/loki_prime_neuroptics.abc05c280f92196bcb688643873fbf95.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/neuroptics_128x128.png",
     "url_name": "loki_prime_neuroptics",
@@ -26,11 +26,11 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Loki/Prime",
         "drop": [
             {
-                "name": "Meso O3 Uncommon",
+                "name": "Meso O3 Common",
                 "link": null
             },
             {
-                "name": "Neo E1 Uncommon",
+                "name": "Neo E1 Common",
                 "link": null
             }
         ]
@@ -41,11 +41,11 @@
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9B%D0%BE%D0%BA%D0%B8/Прайм",
         "drop": [
             {
-                "name": "Мезо O3 (Необычная)",
+                "name": "Мезо O3 (Обычная)",
                 "link": null
             },
             {
-                "name": "Нео E1 (Необычная)",
+                "name": "Нео E1 (Обычная)",
                 "link": null
             }
         ]
@@ -56,15 +56,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Loki/Prime",
         "drop": [
             {
-                "name": "메소 O3 Uncommon",
+                "name": "메소 O3 Common",
                 "link": null
             },
             {
-                "name": "네오 E1 Uncommon",
+                "name": "네오 E1 Common",
                 "link": null
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 15,
     "trading_tax": 4000
 }

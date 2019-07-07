@@ -6,8 +6,8 @@
         "neuroptics",
         "warframe"
     ],
-    "icon": "icons/en/Mag_Prime_Set.2afb45373319b966737bd91cf05a813c.png",
-    "thumb": "icons/en/thumbs/Mag_Prime_Set.2afb45373319b966737bd91cf05a813c.128x128.png",
+    "icon": "icons/en/mag_prime_neuroptics.2afb45373319b966737bd91cf05a813c.png",
+    "thumb": "icons/en/thumbs/mag_prime_neuroptics.2afb45373319b966737bd91cf05a813c.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/neuroptics_128x128.png",
     "url_name": "mag_prime_neuroptics",
@@ -26,15 +26,15 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Mag/Prime",
         "drop": [
             {
-                "name": "Axi V2 Uncommon",
+                "name": "Axi V2 Common",
                 "link": null
             },
             {
-                "name": "Lith B1 Uncommon",
+                "name": "Lith B1 Common",
                 "link": null
             },
             {
-                "name": "Neo N9 Uncommon",
+                "name": "Neo N9 Common",
                 "link": null
             }
         ]
@@ -45,15 +45,15 @@
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D1%8D%D0%B3/Прайм",
         "drop": [
             {
-                "name": "Акси V2 (Необычная)",
+                "name": "Акси V2 (Обычная)",
                 "link": null
             },
             {
-                "name": "Лит B1 (Необычная)",
+                "name": "Лит B1 (Обычная)",
                 "link": null
             },
             {
-                "name": "Нео N9 (Необычная)",
+                "name": "Нео N9 (Обычная)",
                 "link": null
             }
         ]
@@ -64,19 +64,20 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Mag/Prime",
         "drop": [
             {
-                "name": "액시 V2 Uncommon",
+                "name": "액시 V2 Common",
                 "link": null
             },
             {
-                "name": "리스 B1 Uncommon",
+                "name": "리스 B1 Common",
                 "link": null
             },
             {
-                "name": "네오 N9 Uncommon",
+                "name": "네오 N9 Common",
                 "link": null
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 15,
     "trading_tax": 4000
 }

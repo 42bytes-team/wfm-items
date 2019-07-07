@@ -5,8 +5,8 @@
         "prime",
         "warframe"
     ],
-    "icon": "icons/en/Valkyr_Prime_Set.a5c906d66a11ff70158f0ffad0c628e8.png",
-    "thumb": "icons/en/thumbs/Valkyr_Prime_Set.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+    "icon": "icons/en/valkyr_prime_chassis.a5c906d66a11ff70158f0ffad0c628e8.png",
+    "thumb": "icons/en/thumbs/valkyr_prime_chassis.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/chassis_128x128.png",
     "url_name": "valkyr_prime_chassis",
@@ -76,6 +76,7 @@
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 100,
     "trading_tax": 4000
 }

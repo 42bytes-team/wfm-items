@@ -6,8 +6,8 @@
         "prime",
         "neuroptics"
     ],
-    "icon": "icons/en/Trinity_Prime_Set.4115dba418ab8ee70197a7fdaee8da76.png",
-    "thumb": "icons/en/thumbs/Trinity_Prime_Set.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
+    "icon": "icons/en/trinity_prime_neuroptics.4115dba418ab8ee70197a7fdaee8da76.png",
+    "thumb": "icons/en/thumbs/trinity_prime_neuroptics.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/neuroptics_128x128.png",
     "url_name": "trinity_prime_neuroptics",
@@ -26,11 +26,11 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Trinity/Prime",
         "drop": [
             {
-                "name": "Axi C1 Uncommon",
+                "name": "Axi C1 Common",
                 "link": null
             },
             {
-                "name": "Axi V3 Uncommon",
+                "name": "Axi V3 Common",
                 "link": null
             },
             {
@@ -38,11 +38,11 @@
                 "link": null
             },
             {
-                "name": "Neo N7 Uncommon",
+                "name": "Neo N7 Common",
                 "link": null
             },
             {
-                "name": "Neo S6 Uncommon",
+                "name": "Neo S6 Common",
                 "link": null
             }
         ]
@@ -53,11 +53,11 @@
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8/Прайм",
         "drop": [
             {
-                "name": "Акси C1 (Необычная)",
+                "name": "Акси C1 (Обычная)",
                 "link": null
             },
             {
-                "name": "Акси V3 (Необычная)",
+                "name": "Акси V3 (Обычная)",
                 "link": null
             },
             {
@@ -65,11 +65,11 @@
                 "link": null
             },
             {
-                "name": "Нео N7 (Необычная)",
+                "name": "Нео N7 (Обычная)",
                 "link": null
             },
             {
-                "name": "Нео S6 (Необычная)",
+                "name": "Нео S6 (Обычная)",
                 "link": null
             }
         ]
@@ -80,11 +80,11 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Trinity/Prime",
         "drop": [
             {
-                "name": "액시 C1 Uncommon",
+                "name": "액시 C1 Common",
                 "link": null
             },
             {
-                "name": "액시 V3 Uncommon",
+                "name": "액시 V3 Common",
                 "link": null
             },
             {
@@ -92,15 +92,16 @@
                 "link": null
             },
             {
-                "name": "네오 N7 Uncommon",
+                "name": "네오 N7 Common",
                 "link": null
             },
             {
-                "name": "네오 S6 Uncommon",
+                "name": "네오 S6 Common",
                 "link": null
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 25,
     "trading_tax": 4000
 }
