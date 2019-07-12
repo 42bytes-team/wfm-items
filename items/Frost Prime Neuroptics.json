@@ -6,8 +6,8 @@
         "neuroptics",
         "warframe"
     ],
-    "icon": "icons/en/Frost_Prime_Set.4f8ff8605be1afaab9a0e5cc3c67cb21.png",
-    "thumb": "icons/en/thumbs/Frost_Prime_Set.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
+    "icon": "icons/en/frost_prime_neuroptics.4f8ff8605be1afaab9a0e5cc3c67cb21.png",
+    "thumb": "icons/en/thumbs/frost_prime_neuroptics.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/neuroptics_128x128.png",
     "url_name": "frost_prime_neuroptics",
@@ -26,11 +26,11 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Frost/Prime",
         "drop": [
             {
-                "name": "Axi E1 Uncommon",
+                "name": "Axi E1 Common",
                 "link": null
             },
             {
-                "name": "Neo E1 Uncommon",
+                "name": "Neo E1 Common",
                 "link": null
             }
         ]
@@ -41,11 +41,11 @@
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D1%80%D0%BE%D1%81%D1%82/Прайм",
         "drop": [
             {
-                "name": "Акси E1 (Необычная)",
+                "name": "Акси E1 (Обычная)",
                 "link": null
             },
             {
-                "name": "Нео E1 (Необычная)",
+                "name": "Нео E1 (Обычная)",
                 "link": null
             }
         ]
@@ -56,15 +56,16 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Frost/Prime",
         "drop": [
             {
-                "name": "액시 E1 Uncommon",
+                "name": "액시 E1 Common",
                 "link": null
             },
             {
-                "name": "네오 E1 Uncommon",
+                "name": "네오 E1 Common",
                 "link": null
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 15,
     "trading_tax": 4000
 }

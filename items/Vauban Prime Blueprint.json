@@ -5,8 +5,8 @@
         "prime",
         "warframe"
     ],
-    "icon": "icons/en/Vauban_Prime_Set.9c15bb47d3ed4ed8e960c2502fac82f2.png",
-    "thumb": "icons/en/thumbs/Vauban_Prime_Set.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
+    "icon": "icons/en/vauban_prime_blueprint.9c15bb47d3ed4ed8e960c2502fac82f2.png",
+    "thumb": "icons/en/thumbs/vauban_prime_blueprint.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "vauban_prime_blueprint",
@@ -35,7 +35,7 @@
         ]
     },
     "ru": {
-        "item_name": "Вобан Чертеж",
+        "item_name": "Вобан Прайм Чертеж",
         "description": "<p>Мастер тактики Вобан может создавать ловушки, которые наносят урон электричеством, обездвиживают и пространственно сминают врагов.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%BE%D0%B1%D0%B0%D0%BD",
         "drop": [
@@ -64,6 +64,7 @@
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 100,
     "trading_tax": 4000
 }

@@ -1,0 +1,58 @@
+{
+    "_id": "5d21ce43f4604c012d1e0c0e",
+    "tags": [
+        "parts",
+        "crossbow",
+        "grip",
+        "prime"
+    ],
+    "icon": "icons/en/zhuge_prime_set.ff5f23593d0850514dd7b63c3a16d8c9.png",
+    "thumb": "icons/en/thumbs/zhuge_prime_set.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/grip_128x128.png",
+    "url_name": "zhuge_prime_grip",
+    "tradable": true,
+    "part_of_set": [
+        "5d21ce49f4604c012d1e0c19",
+        "5d21ce43f4604c012d1e0c0d",
+        "5d21ce43f4604c012d1e0c0e",
+        "5d21ce47f4604c012d1e0c14",
+        "5d21ce47f4604c012d1e0c15",
+        "5d21ce48f4604c012d1e0c17"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Zhuge Prime Grip",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Meso A2 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Чжугэ прайм Рукоять",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Мезо A2 (Обычная)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Zhuge Prime Grip",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Meso A2 Common",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

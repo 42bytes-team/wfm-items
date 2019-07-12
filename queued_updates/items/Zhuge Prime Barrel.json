@@ -1,0 +1,58 @@
+{
+    "_id": "5d21ce43f4604c012d1e0c0d",
+    "tags": [
+        "parts",
+        "crossbow",
+        "barrel",
+        "prime"
+    ],
+    "icon": "icons/en/zhuge_prime_set.ff5f23593d0850514dd7b63c3a16d8c9.png",
+    "thumb": "icons/en/thumbs/zhuge_prime_set.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "zhuge_prime_barrel",
+    "tradable": true,
+    "part_of_set": [
+        "5d21ce49f4604c012d1e0c19",
+        "5d21ce43f4604c012d1e0c0d",
+        "5d21ce43f4604c012d1e0c0e",
+        "5d21ce47f4604c012d1e0c14",
+        "5d21ce47f4604c012d1e0c15",
+        "5d21ce48f4604c012d1e0c17"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Zhuge Prime Barrel",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Neo Z3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Чжугэ прайм Ствол",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Нео Z3 (Редкая)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Zhuge Prime Barrel",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge. </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Neo Z3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "trading_tax": 2000
+}

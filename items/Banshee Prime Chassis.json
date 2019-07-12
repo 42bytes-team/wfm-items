@@ -4,8 +4,8 @@
         "blueprint",
         "warframe"
     ],
-    "icon": "icons/en/Banshee_Prime_Set.a0956816beb733841bce57e69a568cd6.png",
-    "thumb": "icons/en/thumbs/Banshee_Prime_Set.a0956816beb733841bce57e69a568cd6.128x128.png",
+    "icon": "icons/en/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.png",
+    "thumb": "icons/en/thumbs/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/chassis_128x128.png",
     "url_name": "banshee_prime_chassis",
@@ -75,6 +75,7 @@
             }
         ]
     },
+    "mastery_level": 0,
     "ducats": 100,
     "trading_tax": 4000
 }
