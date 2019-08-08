@@ -5,8 +5,8 @@
         "prime",
         "warframe"
     ],
-    "icon": "icons/en/wukong_prime_set.b0b6927dec891d3517640a1361f4da88.png",
-    "thumb": "icons/en/thumbs/wukong_prime_set.b0b6927dec891d3517640a1361f4da88.128x128.png",
+    "icon": "icons/en/wukong_prime_set.8209cb7ead50a44f29237f8a5143724e.png",
+    "thumb": "icons/en/thumbs/wukong_prime_set.8209cb7ead50a44f29237f8a5143724e.128x128.png",
     "icon_format": "land",
     "url_name": "wukong_prime_set",
     "tradable": true,
@@ -31,10 +31,12 @@
         "drop": []
     },
     "ko": {
-        "item_name": "Wukong Prime Set",
+        "item_name": "오공 프라임 세트",
         "description": "<p>Release Date: Jul 7th, 2019</p><p>Wukong Prime is the Primed variant of Wukong, possessing increased armor and energy capacity over the regular counterpart.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Wukong/Prime",
         "drop": []
     },
+    "mastery_level": 5,
+    "ducats": 205,
     "trading_tax": 20000
 }
