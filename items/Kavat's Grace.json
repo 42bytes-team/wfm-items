@@ -4,8 +4,8 @@
         "mod",
         "rare"
     ],
-    "icon": "icons/en/Kavat's_Grace.fd671126fd4051e8e3addc13ae56d1f0.png",
-    "thumb": "icons/en/thumbs/Kavat's_Grace.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon": "icons/en/kavats_grace.dbadaff449bcd76524e6350fd4fc7a6a.png",
+    "thumb": "icons/en/thumbs/kavats_grace.dbadaff449bcd76524e6350fd4fc7a6a.128x128.png",
     "icon_format": "port",
     "url_name": "kavats_grace",
     "tradable": true,
@@ -16,8 +16,10 @@
         "drop": []
     },
     "ru": {
-        "item_name": "Грация кават",
-        "description": "<p>Resist Hard Landings from falling at speeds of up to 25m/s.</p>",
+        "item_name": "Грация Кавата",
+        "description": "<p>Грация Кавата — редкий мод для Варфрейма, который позволяет избежать жесткого приземления, при скорости падения не более 25 / 30 / 35 / 40 метров в секунду.</p>",
+        "icon": "icons/ru/kavats_grace.fd4bc7af5bf00c0f50c37df1d53dd54b.png",
+        "thumb": "icons/ru/thumbs/kavats_grace.fd4bc7af5bf00c0f50c37df1d53dd54b.128x128.png",
         "drop": []
     },
     "ko": {
