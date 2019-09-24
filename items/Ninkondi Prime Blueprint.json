@@ -4,9 +4,9 @@
         "blueprint",
         "prime"
     ],
-    "icon": "icons/en/ninkondi_prime_set.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "icons/en/thumbs/ninkondi_prime_set.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
-    "icon_format": "port",
+    "icon": "icons/en/ninkondi_prime_blueprint.d8516fa5fc9fe9518b6b9ec8fa59cb28.png",
+    "thumb": "icons/en/thumbs/ninkondi_prime_blueprint.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
+    "icon_format": "land",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "ninkondi_prime_blueprint",
     "tradable": true,
@@ -40,7 +40,7 @@
         ]
     },
     "ko": {
-        "item_name": "Ninkondi Prime Blueprint",
+        "item_name": "닌콘디 프라임 설계도",
         "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
         "drop": [
@@ -50,5 +50,7 @@
             }
         ]
     },
+    "mastery_level": 10,
+    "ducats": 15,
     "trading_tax": 2000
 }

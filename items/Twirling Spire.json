@@ -4,8 +4,8 @@
         "mod",
         "polearms"
     ],
-    "icon": "icons/en/Twirling_Spire.67fe342c880bda80d815f6eae1eec325.png",
-    "thumb": "icons/en/thumbs/Twirling_Spire.67fe342c880bda80d815f6eae1eec325.128x128.png",
+    "icon": "icons/en/twirling_spire.67fe342c880bda80d815f6eae1eec325.png",
+    "thumb": "icons/en/thumbs/twirling_spire.67fe342c880bda80d815f6eae1eec325.128x128.png",
     "icon_format": "port",
     "url_name": "twirling_spire",
     "tradable": true,
@@ -28,8 +28,8 @@
         "item_name": "Витой Шпиль",
         "description": "<p>Витой Шпиль — это редкая стойка, предназначенная для оружия ближнего боя класса Копья. Увеличение ранга открывает новые комбинации.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B8%D1%82%D0%BE%D0%B9_%D0%A8%D0%BF%D0%B8%D0%BB%D1%8C",
-        "icon": "icons/ru/Twirling_Spire.99d5124c5b0ef2f0010d2094fd628e34.png",
-        "thumb": "icons/ru/thumbs/Twirling_Spire.99d5124c5b0ef2f0010d2094fd628e34.128x128.png",
+        "icon": "icons/ru/twirling_spire.99d5124c5b0ef2f0010d2094fd628e34.png",
+        "thumb": "icons/ru/thumbs/twirling_spire.99d5124c5b0ef2f0010d2094fd628e34.128x128.png",
         "drop": [
             {
                 "name": "Bounty (40-60)",
@@ -57,5 +57,6 @@
         ]
     },
     "rarity": "rare",
+    "mod_max_rank": 3,
     "trading_tax": 8000
 }
