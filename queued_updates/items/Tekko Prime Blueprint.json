@@ -1,0 +1,45 @@
+{
+  "tags": [
+    "blueprint",
+    "prime"
+  ],
+  "icon": "local://item_operations/UnknownItem.png",
+  "sub_icon": "sub_icons/blueprint_128x128.png",
+  "tradable": true,
+  "set_root": false,
+  "en": {
+    "item_name": "Tekko Prime Blueprint",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Lith L2 (Uncommon)",
+        "link": null
+      }
+    ]
+  },
+  "ru": {
+    "item_name": "Тэкко прайм Чертеж",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Лит L2 (Uncommon)",
+        "link": null
+      }
+    ]
+  },
+  "ko": {
+    "item_name": "Tekko Prime Blueprint",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Lith L2 (Uncommon)",
+        "link": null
+      }
+    ]
+  },
+  "trading_tax": 2000,
+  "ready": true
+}
