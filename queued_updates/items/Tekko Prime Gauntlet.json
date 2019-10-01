@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "blueprint",
+    "prime",
+    "gauntlet"
+  ],
+  "icon": "local://item_operations/UnknownItem.png",
+  "sub_icon": "sub_icons/gauntlet_128x128.png",
+  "tradable": true,
+  "set_root": false,
+  "en": {
+    "item_name": "Tekko Prime Gauntlet",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Meso W1 ()",
+        "link": null
+      }
+    ]
+  },
+  "ru": {
+    "item_name": "Тэкко прайм Перчатка",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Мезо W1 ()",
+        "link": null
+      }
+    ]
+  },
+  "ko": {
+    "item_name": "Tekko Prime Gauntlet",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Meso W1 ()",
+        "link": null
+      }
+    ]
+  },
+  "trading_tax": 2000,
+  "ready": true
+}

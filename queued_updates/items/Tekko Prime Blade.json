@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "blueprint",
+    "prime",
+    "blade"
+  ],
+  "icon": "local://item_operations/UnknownItem.png",
+  "sub_icon": "sub_icons/blade_128x128.png",
+  "tradable": true,
+  "set_root": false,
+  "en": {
+    "item_name": "Tekko Prime Blade",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Neo T2 (Rare)",
+        "link": null
+      }
+    ]
+  },
+  "ru": {
+    "item_name": "Тэкко прайм Клинок",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Нео T2 (Редкая)",
+        "link": null
+      }
+    ]
+  },
+  "ko": {
+    "item_name": "Tekko Prime Blade",
+    "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
+    "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+    "drop": [
+      {
+        "name": "Neo T2 (Rare)",
+        "link": null
+      }
+    ]
+  },
+  "trading_tax": 4000,
+  "ready": true
+}
