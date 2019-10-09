@@ -1,0 +1,93 @@
+{
+    "_id": "5c196fad96037800ddadac14",
+    "tags": [
+        "parts",
+        "prime",
+        "blade"
+    ],
+    "icon": "icons/en/redeemer_prime_blade.92fcede37c1ab66d22a2287dc2334731.png",
+    "thumb": "icons/en/thumbs/redeemer_prime_blade.92fcede37c1ab66d22a2287dc2334731.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "redeemer_prime_blade",
+    "tradable": true,
+    "part_of_set": [
+        "5c196faf96037800ddadac17",
+        "5c196fad96037800ddadac14",
+        "5c196fae96037800ddadac16",
+        "5c196fb096037800ddadac19"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Redeemer Prime Blade",
+        "description": "<p>Redeemer Prime is the Primed variant of the Redeemer.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Redeemer_Prime",
+        "drop": [
+            {
+                "name": "Lith L2 Common",
+                "link": null
+            },
+            {
+                "name": "Meso Z2 Common",
+                "link": null
+            },
+            {
+                "name": "Neo N10 Common",
+                "link": null
+            },
+            {
+                "name": "Neo S12 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Избавитель Прайм Клинок",
+        "description": "<p>Наносящий удары массивными парными клинками, Избавитель также использует встроенный дробовик.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/Избавитель_Прайм",
+        "drop": [
+            {
+                "name": "Лит L2 (Обычная)",
+                "link": null
+            },
+            {
+                "name": "Мезо Z2 (Обычная)",
+                "link": null
+            },
+            {
+                "name": "Нео N10 (Обычная)",
+                "link": null
+            },
+            {
+                "name": "Нео S12 (Обычная)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "리디머 프라임 블레이드",
+        "description": "<p>Redeemer Prime is the Primed variant of the Redeemer.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Redeemer_Prime",
+        "drop": [
+            {
+                "name": "리스 L2 Common",
+                "link": null
+            },
+            {
+                "name": "메소 Z2 Common",
+                "link": null
+            },
+            {
+                "name": "네오 N10 Common",
+                "link": null
+            },
+            {
+                "name": "네오 S12 Common",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 15,
+    "trading_tax": 2000
+}

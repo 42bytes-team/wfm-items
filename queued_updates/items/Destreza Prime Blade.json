@@ -1,0 +1,82 @@
+{
+    "_id": "5b2985e0eb069f04ea65b0d8",
+    "tags": [
+        "parts",
+        "melee",
+        "prime",
+        "blade"
+    ],
+    "icon": "icons/en/Destreza_Prime_Set.b1a1cc461a2cfcf9998f0588c8e932a4.png",
+    "thumb": "icons/en/thumbs/Destreza_Prime_Set.b1a1cc461a2cfcf9998f0588c8e932a4.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "destreza_prime_blade",
+    "tradable": true,
+    "part_of_set": [
+        "5b2985e2eb069f04ea65b0f6",
+        "5b2985e0eb069f04ea65b0d8",
+        "5b2985e3eb069f04ea65b0fb",
+        "5b2985e3eb069f04ea65b0fd"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Destreza Prime Blade",
+        "description": "<p>Release Date: June 19, 2018</p><p>Destreza Prime is a Primed variant of the Tenno rapier Destreza.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "Axi D1 Rare",
+                "link": null
+            },
+            {
+                "name": "Meso D2 Rare",
+                "link": null
+            },
+            {
+                "name": "Meso D3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Дестреза Прайм Клинок",
+        "description": "<p>Release Date: June 19, 2018</p><p>Destreza Prime is a Primed variant of the Tenno rapier Destreza.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "Акси D1 (Редкая)",
+                "link": null
+            },
+            {
+                "name": "Мезо D2 (Редкая)",
+                "link": null
+            },
+            {
+                "name": "Мезо D3 (Редкая)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "데스트레자 프라임 블레이드",
+        "description": "<p>Release Date: June 19, 2018</p><p>Destreza Prime is a Primed variant of the Tenno rapier Destreza.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "액시 D1 Rare",
+                "link": null
+            },
+            {
+                "name": "메소 D2 Rare",
+                "link": null
+            },
+            {
+                "name": "메소 D3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 100,
+    "trading_tax": 2000
+}

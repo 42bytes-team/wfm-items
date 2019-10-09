@@ -1,0 +1,72 @@
+{
+    "_id": "5d21ce43f4604c012d1e0c0e",
+    "tags": [
+        "parts",
+        "crossbow",
+        "grip",
+        "prime"
+    ],
+    "icon": "icons/en/zhuge_prime_grip.38e0e6189f1a333b382507a117b194a9.png",
+    "thumb": "icons/en/thumbs/zhuge_prime_grip.38e0e6189f1a333b382507a117b194a9.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/grip_128x128.png",
+    "url_name": "zhuge_prime_grip",
+    "tradable": true,
+    "part_of_set": [
+        "5d21ce49f4604c012d1e0c19",
+        "5d21ce43f4604c012d1e0c0d",
+        "5d21ce43f4604c012d1e0c0e",
+        "5d21ce47f4604c012d1e0c14",
+        "5d21ce47f4604c012d1e0c15",
+        "5d21ce48f4604c012d1e0c17"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Zhuge Prime Grip",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Meso A2 Common",
+                "link": null
+            },
+            {
+                "name": "Neo A3 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Чжугэ прайм Рукоять",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Мезо A2 (Обычная)",
+                "link": null
+            },
+            {
+                "name": "Нео A3 (Обычная)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "제갈 프라임 그립",
+        "description": "<p>The Zhuge Prime is the primed variant of the Zhuge.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "메소 A2 Common",
+                "link": null
+            },
+            {
+                "name": "네오 A3 Common",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

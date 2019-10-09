@@ -1,0 +1,83 @@
+{
+    "_id": "5c196fac96037800ddadac12",
+    "tags": [
+        "parts",
+        "pistol",
+        "barrel",
+        "prime"
+    ],
+    "icon": "icons/en/Akjagara_Prime_Set.d3227deeb0bd5a52de99a4534a54b2b5.png",
+    "thumb": "icons/en/thumbs/Akjagara_Prime_Set.d3227deeb0bd5a52de99a4534a54b2b5.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "akjagara_prime_barrel",
+    "tradable": true,
+    "part_of_set": [
+        "5c196fae96037800ddadac15",
+        "5c196fac96037800ddadac12",
+        "5c196fad96037800ddadac13",
+        "5c196fb096037800ddadac18",
+        "5c196fb496037800ddadac1a"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Akjagara Prime Barrel",
+        "description": "<p>Akjagara Prime is the Primed variant of the Akjagara, a pair of burst-fire bladed double-barreled pistols. It was released alongside Mesa Prime and Redeemer Prime.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Lith A3 Rare",
+                "link": null
+            },
+            {
+                "name": "Meso A1 Rare",
+                "link": null
+            },
+            {
+                "name": "Neo A3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Акджагара прайм Ствол",
+        "description": "<p>Дизайн этих мощных парных пистолетов являет собой смесь органики и, острых как бритва, металлических элементов.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%B4%D0%B6%D0%B0%D0%B3%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Лит A3 (Редкая)",
+                "link": null
+            },
+            {
+                "name": "Мезо A1 (Редкая)",
+                "link": null
+            },
+            {
+                "name": "Нео A3 (Редкая)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "아크자가라 프라임 배럴",
+        "description": "<p>Akjagara Prime is the Primed variant of the Akjagara, a pair of burst-fire bladed double-barreled pistols. It was released alongside Mesa Prime and Redeemer Prime.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "리스 A3 Rare",
+                "link": null
+            },
+            {
+                "name": "메소 A1 Rare",
+                "link": null
+            },
+            {
+                "name": "네오 A3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 100,
+    "trading_tax": 2000
+}

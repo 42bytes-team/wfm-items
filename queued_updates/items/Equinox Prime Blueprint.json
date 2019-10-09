@@ -1,0 +1,82 @@
+{
+    "_id": "5ca28670fc2db2035eae05a6",
+    "tags": [
+        "blueprint",
+        "prime",
+        "warframe"
+    ],
+    "icon": "icons/en/Equinox_Prime_Set.1163c3dad7a8ffce02af7d475fc0ccd4.png",
+    "thumb": "icons/en/thumbs/Equinox_Prime_Set.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "equinox_prime_blueprint",
+    "tradable": true,
+    "part_of_set": [
+        "5ca28670fc2db2035eae059e",
+        "5ca28670fc2db2035eae05a0",
+        "5ca28670fc2db2035eae05a1",
+        "5ca28670fc2db2035eae05a5",
+        "5ca28670fc2db2035eae05a6"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Equinox Prime Blueprint",
+        "description": "<p>Release Date: April 2, 2019</p><p>Equinox Prime is the Primed variant of Equinox, possessing increased armor, health, and energy capacity over the regular counterpart.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox/Prime",
+        "drop": [
+            {
+                "name": "Axi K5 Uncommon",
+                "link": null
+            },
+            {
+                "name": "Axi T3 Uncommon",
+                "link": null
+            },
+            {
+                "name": "Meso A2 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Эквинокс Прайм Чертеж",
+        "description": "<p>Release Date: April 2, 2019</p><p>Equinox Prime is the Primed variant of Equinox, possessing increased armor, health, and energy capacity over the regular counterpart.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox/Prime",
+        "drop": [
+            {
+                "name": "Акси K5 (Необычная)",
+                "link": null
+            },
+            {
+                "name": "Акси T3 (Необычная)",
+                "link": null
+            },
+            {
+                "name": "Мезо A2 (Необычная)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "이쿼녹스 프라임 설계도",
+        "description": "<p>Release Date: April 2, 2019</p><p>Equinox Prime is the Primed variant of Equinox, possessing increased armor, health, and energy capacity over the regular counterpart.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox/Prime",
+        "drop": [
+            {
+                "name": "액시 K5 Uncommon",
+                "link": null
+            },
+            {
+                "name": "액시 T3 Uncommon",
+                "link": null
+            },
+            {
+                "name": "메소 A2 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 5,
+    "ducats": 45,
+    "trading_tax": 4000
+}
