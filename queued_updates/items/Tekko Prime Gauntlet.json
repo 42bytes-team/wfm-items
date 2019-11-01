@@ -1,12 +1,21 @@
 {
+  "_id": "5d93ca117ea27b0a87566f65",
   "tags": [
     "blueprint",
     "prime",
     "gauntlet"
   ],
-  "icon": "local://item_operations/UnknownItem.png",
+  "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/d/da/TekkoPrime.png/revision/latest/scale-to-width-down/220?cb=20191002055417",
+  "icon_format": "port",
   "sub_icon": "sub_icons/gauntlet_128x128.png",
+  "url_name": "tekko_prime_gauntlet",
   "tradable": true,
+  "part_of_set": [
+    "5d93ca127ea27b0a87566f7b",
+    "5d93ca117ea27b0a87566f65",
+    "5d93ca117ea27b0a87566f79",
+    "5d93ca127ea27b0a87566f7c"
+  ],
   "set_root": false,
   "en": {
     "item_name": "Tekko Prime Gauntlet",

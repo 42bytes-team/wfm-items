@@ -1,10 +1,19 @@
 {
+  "_id": "5d93ca127ea27b0a87566f7b",
   "tags": [
     "set",
     "prime"
   ],
-  "icon": "local://item_operations/UnknownItem.png",
+  "icon": "remote://https://vignette.wikia.nocookie.net/warframe/images/d/da/TekkoPrime.png/revision/latest/scale-to-width-down/220?cb=20191002055417",
+  "icon_format": "port",
+  "url_name": "tekko_prime_set",
   "tradable": true,
+  "part_of_set": [
+    "5d93ca127ea27b0a87566f7b",
+    "5d93ca117ea27b0a87566f65",
+    "5d93ca117ea27b0a87566f79",
+    "5d93ca127ea27b0a87566f7c"
+  ],
   "set_root": true,
   "en": {
     "item_name": "Tekko Prime Set",
