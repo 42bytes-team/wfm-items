@@ -1,0 +1,49 @@
+{
+    "_id": "5d8765dd7ea27b08950c13b6",
+    "tags": [
+        "mod",
+        "rare",
+        "aura"
+    ],
+    "icon": "icons/en/shepherd.f34b2a53b877927bfc4356ebe15ea9f7.png",
+    "thumb": "icons/en/thumbs/shepherd.f34b2a53b877927bfc4356ebe15ea9f7.128x128.png",
+    "icon_format": "port",
+    "url_name": "shepherd",
+    "tradable": true,
+    "en": {
+        "item_name": "Shepherd",
+        "description": "<p>Shepherd is an aura mod that increases Companion's health and armor.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shepherd",
+        "drop": [
+            {
+                "name": "Arbitrations",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пастырь",
+        "description": "<p>Пастырь — редкая аура, которая улучшает здоровье и броню компаньонов.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C",
+        "drop": [
+            {
+                "name": "Награда за Арбитраж",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "셰퍼드",
+        "description": "<p>Shepherd is an aura mod that increases Companion's health and armor.</p>",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shepherd",
+        "drop": [
+            {
+                "name": "Arbitrations",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}
