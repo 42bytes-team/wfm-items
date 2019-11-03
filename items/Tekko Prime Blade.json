@@ -5,8 +5,8 @@
         "prime",
         "blade"
     ],
-    "icon": "icons/en/tekko_prime_set.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "icons/en/thumbs/tekko_prime_set.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
+    "icon": "icons/en/tekko_prime_blade.ace5f3ef4976ceae04ed01d8fcc695c7.png",
+    "thumb": "icons/en/thumbs/tekko_prime_blade.ace5f3ef4976ceae04ed01d8fcc695c7.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/blade_128x128.png",
     "url_name": "tekko_prime_blade",
@@ -41,7 +41,7 @@
         ]
     },
     "ko": {
-        "item_name": "Tekko Prime Blade",
+        "item_name": "텟코 프라임 블레이드",
         "description": "<p>The Tekko Prime are the Prime variant of the Tekko.</p>",
         "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
         "drop": [
@@ -51,5 +51,7 @@
             }
         ]
     },
+    "mastery_level": 12,
+    "ducats": 100,
     "trading_tax": 4000
 }

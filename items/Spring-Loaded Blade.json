@@ -4,8 +4,8 @@
         "mod",
         "melee"
     ],
-    "icon": "icons/en/Spring-Loaded_Blade.da5dd58b47d86b2eebf3f8102124c024.png",
-    "thumb": "icons/en/thumbs/Spring-Loaded_Blade.da5dd58b47d86b2eebf3f8102124c024.128x128.png",
+    "icon": "icons/en/spring_loaded_blade.da5dd58b47d86b2eebf3f8102124c024.png",
+    "thumb": "icons/en/thumbs/spring_loaded_blade.da5dd58b47d86b2eebf3f8102124c024.128x128.png",
     "icon_format": "port",
     "url_name": "spring_loaded_blade",
     "tradable": true,
@@ -15,7 +15,11 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade",
         "drop": [
             {
-                "name": "Incursions 1.01% (Rot B)",
+                "name": "Plains Commander 0.5%",
+                "link": null
+            },
+            {
+                "name": "Tusk Thumper Doma 1.88%",
                 "link": null
             }
         ]
@@ -24,11 +28,15 @@
         "item_name": "Пружинное Лезвие",
         "description": "<p>Пружинное Лезвие - редкий мод для оружия ближнего боя, который увеличивает радиус атаки оружия ближнего боя при срабатывании статуса.</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%9B%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5",
-        "icon": "icons/ru/Spring-Loaded_Blade.8d625609f0b628d31fb3cf1777bb22fd.png",
-        "thumb": "icons/ru/thumbs/Spring-Loaded_Blade.8d625609f0b628d31fb3cf1777bb22fd.128x128.png",
+        "icon": "icons/ru/spring_loaded_blade.8d625609f0b628d31fb3cf1777bb22fd.png",
+        "thumb": "icons/ru/thumbs/spring_loaded_blade.8d625609f0b628d31fb3cf1777bb22fd.128x128.png",
         "drop": [
             {
-                "name": "Налет 1.01% (Ротация B)",
+                "name": "Plains Commander 0.5%",
+                "link": null
+            },
+            {
+                "name": "Tusk Thumper Doma 1.88%",
                 "link": null
             }
         ]
@@ -39,7 +47,11 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade",
         "drop": [
             {
-                "name": "Incursions 1.01% (Rot B)",
+                "name": "Plains Commander 0.5%",
+                "link": null
+            },
+            {
+                "name": "Tusk Thumper Doma 1.88%",
                 "link": null
             }
         ]
