@@ -1,0 +1,21 @@
+{
+    "_id": "5dd00081e824a50035e4b8fa",
+    "url_name": "chance_to_gain_extra_combo_count",
+    "group": "melee",
+    "prefix": "Laci",
+    "suffix": "Nus",
+    "positive_is_negative": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "en": {
+        "effect": "Chance to gain extra Combo Count"
+    },
+    "ru": {
+        "effect": "Шанс получить дополнительный счетчик комбо"
+    },
+    "ko": {
+        "effect": "Chance to gain extra Combo Count"
+    }
+}

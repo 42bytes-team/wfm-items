@@ -75,7 +75,7 @@ From the remote source:
 `"icon": "remote://<direct_link_to_image>"`
 
 From icon folder:  
-`"icon": "local://item_operations/icons/<icon_file>"`
+`"icon": "local://items/icons/<icon_file>"`
 
 ### Sets
 

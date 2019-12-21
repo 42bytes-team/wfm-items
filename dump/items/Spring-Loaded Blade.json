@@ -1,0 +1,62 @@
+{
+    "_id": "59f38f558c202c007335ba66",
+    "tags": [
+        "mod",
+        "melee"
+    ],
+    "icon": "icons/en/spring_loaded_blade.fd154881f2430c34f92827e152c64b29.png",
+    "thumb": "icons/en/thumbs/spring_loaded_blade.fd154881f2430c34f92827e152c64b29.128x128.png",
+    "icon_format": "port",
+    "url_name": "spring_loaded_blade",
+    "tradable": true,
+    "en": {
+        "item_name": "Spring-Loaded Blade",
+        "description": "<p>Spring-Loaded Blade is a mod that temporarily increases the range of a melee weapon's attacks after inflicting a Status Effect with that weapon.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade",
+        "drop": [
+            {
+                "name": "Plains Commander 0.5%",
+                "link": null
+            },
+            {
+                "name": "Tusk Thumper Doma 1.88%",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пружинное Лезвие",
+        "description": "<p>Пружинное Лезвие - редкий мод для оружия ближнего боя, который увеличивает радиус атаки оружия ближнего боя при срабатывании статуса.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%9B%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5",
+        "icon": "icons/ru/spring_loaded_blade.8d625609f0b628d31fb3cf1777bb22fd.png",
+        "thumb": "icons/ru/thumbs/spring_loaded_blade.8d625609f0b628d31fb3cf1777bb22fd.128x128.png",
+        "drop": [
+            {
+                "name": "Plains Commander 0.5%",
+                "link": null
+            },
+            {
+                "name": "Tusk Thumper Doma 1.88%",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "스프링-로디드 블레이드",
+        "description": "<p>Spring-Loaded Blade is a melee mod that increases Melee Range by 30% for +24 secs on proccing a Status Effect.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Spring-Loaded_Blade",
+        "drop": [
+            {
+                "name": "Plains Commander 0.5%",
+                "link": null
+            },
+            {
+                "name": "Tusk Thumper Doma 1.88%",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

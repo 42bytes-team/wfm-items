@@ -1,0 +1,68 @@
+{
+    "_id": "5d21ce42f4604c012d1e0c0c",
+    "tags": [
+        "blueprint",
+        "prime"
+    ],
+    "icon": "icons/en/ninkondi_prime_blueprint.d8516fa5fc9fe9518b6b9ec8fa59cb28.png",
+    "thumb": "icons/en/thumbs/ninkondi_prime_blueprint.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "ninkondi_prime_blueprint",
+    "tradable": true,
+    "part_of_set": [
+        "5d21ce45f4604c012d1e0c11",
+        "5d21ce42f4604c012d1e0c0c",
+        "5d21ce45f4604c012d1e0c10",
+        "5d21ce48f4604c012d1e0c16"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Ninkondi Prime Blueprint",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Axi G3 Common",
+                "link": null
+            },
+            {
+                "name": "Neo R2 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нинконди прайм Чертеж",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Акси G3 (Обычная)",
+                "link": null
+            },
+            {
+                "name": "Нео R2 (Обычная)",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "닌콘디 프라임 설계도",
+        "description": "<p>The Ninkondi Prime is the primed variant of the Ninkondi.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "액시 G3 Common",
+                "link": null
+            },
+            {
+                "name": "네오 R2 Common",
+                "link": null
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}
