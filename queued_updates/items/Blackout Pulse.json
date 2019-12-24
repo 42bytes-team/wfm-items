@@ -1,25 +1,40 @@
 {
-    "_id": "",
     "tags": [
         "avionic"
     ],
-    "icon": null,
-    "sub_icon": null,
     "tradable": true,
     "en": {
         "item_name": "Blackout Pulse",
-        "description": "A Battle Avionics that deploys an electro-magnetic pulse that deals damage to enemies and disables them temporarily. manual detonation increases the blast radius. drops from gyre taktis (saturn.)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
+        "description": "A Battle Avionics that deploys an electro-magnetic pulse that deals damage to enemies and disables them temporarily. Manual detonation increases the blast radius",
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse",
+        "drop": [
+            {
+                "name": "Gyre Taktis",
+                "link": null
+            }
+        ]
     },
     "ru": {
         "item_name": "Blackout Pulse",
-        "description": "A Battle Avionics that deploys an electro-magnetic pulse that deals damage to enemies and disables them temporarily. manual detonation increases the blast radius. drops from gyre taktis (saturn.)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
+        "description": "A Battle Avionics that deploys an electro-magnetic pulse that deals damage to enemies and disables them temporarily. Manual detonation increases the blast radius",
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse",
+        "drop": [
+            {
+                "name": "Gyre Taktis",
+                "link": null
+            }
+        ]
     },
     "ko": {
         "item_name": "Blackout Pulse",
-        "description": "A Battle Avionics that deploys an electro-magnetic pulse that deals damage to enemies and disables them temporarily. manual detonation increases the blast radius. drops from gyre taktis (saturn.)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
+        "description": "A Battle Avionics that deploys an electro-magnetic pulse that deals damage to enemies and disables them temporarily. Manual detonation increases the blast radius",
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse",
+        "drop": [
+            {
+                "name": "Gyre Taktis",
+                "link": null
+            }
+        ]
     },
     "mod_max_rank": 4
 }

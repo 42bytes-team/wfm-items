@@ -1,25 +1,40 @@
 {
-    "_id": "",
     "tags": [
         "avionic"
     ],
-    "icon": null,
-    "sub_icon": null,
     "tradable": true,
     "en": {
         "item_name": "Death Blossom",
-        "description": "A Tactical Avionics that turret cooldowns removed for a temporary duration. cooldown of 300s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Death_Blossom"
+        "description": "A Tactical Avionics that removes turret cooldowns for a temporary duration. Cooldown of 300s.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Death_Blossom",
+        "drop": [
+            {
+                "name": "Exo Taktis",
+                "link": null
+            }
+        ]
     },
     "ru": {
         "item_name": "Death Blossom",
-        "description": "A Tactical Avionics that turret cooldowns removed for a temporary duration. cooldown of 300s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Death_Blossom"
+        "description": "A Tactical Avionics that removes turret cooldowns for a temporary duration. Cooldown of 300s.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Death_Blossom",
+        "drop": [
+            {
+                "name": "Exo Taktis",
+                "link": null
+            }
+        ]
     },
     "ko": {
         "item_name": "Death Blossom",
-        "description": "A Tactical Avionics that turret cooldowns removed for a temporary duration. cooldown of 300s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Death_Blossom"
+        "description": "A Tactical Avionics that removes turret cooldowns for a temporary duration. Cooldown of 300s.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Death_Blossom",
+        "drop": [
+            {
+                "name": "Exo Taktis",
+                "link": null
+            }
+        ]
     },
     "mod_max_rank": 4
 }
