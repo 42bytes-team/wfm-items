@@ -10,21 +10,36 @@
     "tradable": true,
     "en": {
         "item_name": "Void Hole",
-        "description": "A Battle Avionics that creates a large black hole that sucks in enemies and deals continous damage every second to all enemies inside. drops from exo outrider (veil.)",
+        "description": "A Battle Avionics that creates a large black hole that sucks in enemies and deals continous damage every second to all enemies inside",
         "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Void_Hole",
-        "drop": []
+        "drop": [
+            {
+                "name": "Exo Outrider",
+                "link": null
+            }
+        ]
     },
     "ru": {
         "item_name": "Void Hole",
-        "description": "A Battle Avionics that creates a large black hole that sucks in enemies and deals continous damage every second to all enemies inside. drops from exo outrider (veil.)",
+        "description": "A Battle Avionics that creates a large black hole that sucks in enemies and deals continous damage every second to all enemies inside",
         "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Void_Hole",
-        "drop": []
+        "drop": [
+            {
+                "name": "Exo Outrider",
+                "link": null
+            }
+        ]
     },
     "ko": {
         "item_name": "Void Hole",
-        "description": "A Battle Avionics that creates a large black hole that sucks in enemies and deals continous damage every second to all enemies inside. drops from exo outrider (veil.)",
+        "description": "A Battle Avionics that creates a large black hole that sucks in enemies and deals continous damage every second to all enemies inside",
         "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Void_Hole",
-        "drop": []
+        "drop": [
+            {
+                "name": "Exo Outrider",
+                "link": null
+            }
+        ]
     },
     "mod_max_rank": 4
 }

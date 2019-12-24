@@ -10,21 +10,60 @@
     "tradable": true,
     "en": {
         "item_name": "Warhead (Vidar)",
-        "description": "A Integrated Avionics that increases ordnance damage.",
+        "description": "A Integrated Avionics that increases Ordnance damage.  Drops from Kosma Flak (1.106%) and Gyre Outrider (2.211% + 0.101%).  This avionic is listed twice under the Gyre Outrider's drop table.",
         "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead",
-        "drop": []
+        "drop": [
+            {
+                "name": "Kosma Flak",
+                "link": null
+            },
+            {
+                "name": "Gyre Outrider",
+                "link": null
+            },
+            {
+                "name": "Gyre Outrider",
+                "link": null
+            }
+        ]
     },
     "ru": {
         "item_name": "Warhead (Vidar)",
-        "description": "A Integrated Avionics that increases ordnance damage.",
+        "description": "A Integrated Avionics that increases Ordnance damage.  Drops from Kosma Flak (1.106%) and Gyre Outrider (2.211% + 0.101%).  This avionic is listed twice under the Gyre Outrider's drop table.",
         "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead",
-        "drop": []
+        "drop": [
+            {
+                "name": "Kosma Flak",
+                "link": null
+            },
+            {
+                "name": "Gyre Outrider",
+                "link": null
+            },
+            {
+                "name": "Gyre Outrider",
+                "link": null
+            }
+        ]
     },
     "ko": {
         "item_name": "Warhead (Vidar)",
-        "description": "A Integrated Avionics that increases ordnance damage.",
+        "description": "A Integrated Avionics that increases Ordnance damage.  Drops from Kosma Flak (1.106%) and Gyre Outrider (2.211% + 0.101%).  This avionic is listed twice under the Gyre Outrider's drop table.",
         "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead",
-        "drop": []
+        "drop": [
+            {
+                "name": "Kosma Flak",
+                "link": null
+            },
+            {
+                "name": "Gyre Outrider",
+                "link": null
+            },
+            {
+                "name": "Gyre Outrider",
+                "link": null
+            }
+        ]
     },
     "mod_max_rank": 7
 }
