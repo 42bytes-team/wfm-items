@@ -2,34 +2,48 @@
     "_id": "5be5f59f3ffcc7038857f100",
     "tags": [
         "mod",
-        "warframe",
-        "conclave",
-        "pvp"
+        "pvp",
+        "uncommon"
     ],
-    "icon": "icons/en/No_Current_Leap.976d54d945fc0eede87574d91695ea92.png",
-    "thumb": "icons/en/thumbs/No_Current_Leap.976d54d945fc0eede87574d91695ea92.128x128.png",
+    "icon": "icons/en/no_current_leap.976d54d945fc0eede87574d91695ea92.png",
+    "thumb": "icons/en/thumbs/no_current_leap.976d54d945fc0eede87574d91695ea92.128x128.png",
     "icon_format": "port",
     "url_name": "no_current_leap",
     "tradable": true,
     "en": {
         "item_name": "No Current Leap",
-        "description": "<p>No Current Leap is a Warframe mod in PvP that increases Mobility, but completely disables Energy Regen.</p>",
+        "description": "<p>No Current Leap is a Warframe mod in Conclave that increases Mobility, but completely disables Energy Regen.</p>",
         "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap",
-        "drop": []
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
     },
     "ru": {
-        "item_name": "Потоковый Прыжок",
-        "description": "<p>Потоковый Прыжок — необычный эксилус мод для Варфреймов в режиме конклава, который увеличивает мобильность Варфрейма, лишая его восстановления энергии.</p>",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%9F%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
-        "icon": "icons/ru/No_Current_Leap.0e0c9df5f7db43724c240028ecce4261.png",
-        "thumb": "icons/ru/thumbs/No_Current_Leap.0e0c9df5f7db43724c240028ecce4261.128x128.png",
-        "drop": []
+        "item_name": "Слаботочный скачок",
+        "description": "<p>Слаботочный скачок — необычный эксилус мод для варфреймов в режиме конклава, который увеличивает мобильность варфрейма, задерживая время перед началом восстановления щита.</p>",
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A1%D0%BB%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%BA%D0%B0%D1%87%D0%BE%D0%BA",
+        "icon": "icons/ru/no_current_leap.5538d53c1b29c83c3a9866479a63fba8.png",
+        "thumb": "icons/ru/thumbs/no_current_leap.5538d53c1b29c83c3a9866479a63fba8.128x128.png",
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
     },
     "ko": {
         "item_name": "노 커런트 립",
-        "description": "<p>No Current Leap is a Warframe mod in PvP that increases Mobility, but completely disables Energy Regen.</p>",
+        "description": "<p>Low Current Leap is a Warframe mod in PvP that increases Mobility for a decrease of Power Max.  </p>",
         "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap",
-        "drop": []
+        "drop": [
+            {
+                "name": "Conclave Offering",
+                "link": null
+            }
+        ]
     },
     "rarity": "uncommon",
     "mod_max_rank": 3,

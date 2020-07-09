@@ -1,0 +1,57 @@
+{
+    "_id": "5e839493267539077b0dd69a",
+    "tags": [
+        "parts",
+        "prime",
+        "stock"
+    ],
+    "icon": "icons/en/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.png",
+    "thumb": "icons/en/thumbs/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "corinth_prime_stock",
+    "tradable": true,
+    "part_of_set": [
+        "5e839493267539077b0dd6a5",
+        "5e839493267539077b0dd69a",
+        "5e839493267539077b0dd69e",
+        "5e839494267539077b0dd6b4",
+        "5e839494267539077b0dd6b5"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Corinth Prime Stock",
+        "description": "<p>Prime version of Corinth</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "Lith C6 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Коринф Прайм Приклад",
+        "description": "<p>Prime version of Corinth</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "Лит C6 Редкая",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Corinth Prime Stock",
+        "description": "<p>Prime version of Corinth</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "Lith C6 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 100,
+    "trading_tax": 2000
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "5eadc6c604d55c027d23a6e2",
+    "tags": [
+        "mod",
+        "rare",
+        "archgun"
+    ],
+    "icon": "icons/en/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.png",
+    "thumb": "icons/en/thumbs/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.128x128.png",
+    "icon_format": "port",
+    "url_name": "ballista_measure",
+    "tradable": true,
+    "en": {
+        "item_name": "Ballista Measure",
+        "description": "+20% range",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
+        "drop": [
+            {
+                "name": "Gyre",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Баллистическая Мера",
+        "description": "+20% range",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
+        "drop": [
+            {
+                "name": "Gyre",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "발리스타 메져",
+        "description": "+20% range",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
+        "drop": [
+            {
+                "name": "Gyre",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

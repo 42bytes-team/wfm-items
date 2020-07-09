@@ -1,0 +1,57 @@
+{
+    "_id": "5e839493267539077b0dd6a4",
+    "tags": [
+        "parts",
+        "melee",
+        "prime",
+        "handle"
+    ],
+    "icon": "icons/en/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.png",
+    "thumb": "icons/en/thumbs/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/handle_128x128.png",
+    "url_name": "pangolin_prime_handle",
+    "tradable": true,
+    "part_of_set": [
+        "5e839495267539077b0dd6c9",
+        "5e839493267539077b0dd6a4",
+        "5e839494267539077b0dd6a9",
+        "5e839494267539077b0dd6ba"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Pangolin Prime Handle",
+        "description": "<p>Prime version of Pangolin</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pangolin_Prime",
+        "drop": [
+            {
+                "name": "Meso R3 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Панголин Прайм Рукоять",
+        "description": "<p>Prime version of Pangolin</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pangolin_Prime",
+        "drop": [
+            {
+                "name": "Мезо R3 Обычная",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Pangolin Prime Handle",
+        "description": "<p>Prime version of Pangolin</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Pangolin_Prime",
+        "drop": [
+            {
+                "name": "Meso R3 Common",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 15,
+    "trading_tax": 2000
+}

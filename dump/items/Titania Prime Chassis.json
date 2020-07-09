@@ -1,0 +1,58 @@
+{
+    "_id": "5e839493267539077b0dd698",
+    "tags": [
+        "parts",
+        "prime",
+        "chassis",
+        "warframe"
+    ],
+    "icon": "icons/en/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.png",
+    "thumb": "icons/en/thumbs/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "titania_prime_chassis",
+    "tradable": true,
+    "part_of_set": [
+        "5e839496267539077b0dd6d3",
+        "5e839493267539077b0dd698",
+        "5e839494267539077b0dd6b0",
+        "5e839494267539077b0dd6b8",
+        "5e839495267539077b0dd6cc"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Titania Prime Chassis",
+        "description": "<p>Prime version of Titania warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Titania/Prime",
+        "drop": [
+            {
+                "name": "Neo M3 Common",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Титания Прайм Каркас",
+        "description": "<p>Prime version of Titania warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Titania/Prime",
+        "drop": [
+            {
+                "name": "Нео M3 Обычная",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "Titania Prime Chassis",
+        "description": "<p>Prime version of Titania warframe.</p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Titania/Prime",
+        "drop": [
+            {
+                "name": "Neo M3 Common",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 15,
+    "trading_tax": 4000
+}
