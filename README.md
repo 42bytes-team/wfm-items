@@ -8,9 +8,9 @@
     - [Common fields](#common-fields)
     - [Mod exclusive fields](#mod-exclusive-fields)
     - [Weapons and parts fields](#weapons-and-parts-fields)
-    - [Contributing an Icon](#contributing-an-icon)
-    - [How to create Sets](#how-to-create-sets)
-    - [How to define Tags](#how-to-define-tags)
+  - [Contributing an Icon](#contributing-an-icon)
+  - [How to create Sets](#how-to-create-sets)
+  - [How to define Tags](#how-to-define-tags)
   - [Contribute a new Language](#contribute-a-new-language)
 
 ## Directories
@@ -73,7 +73,7 @@ By issuing Pull requests, "rebase" workflow.
 1. `mastery_level` - mastery requirenment.
 2. `ducats` - Costs in ducats.
 
-### Contributing an Icon
+## Contributing an Icon
 
 From a remote source:  
 `"icon": "https://vignette.wikia.nocookie.net/warframe/images/6/6d/Hind.png"`
@@ -81,7 +81,7 @@ From a remote source:
 From the icon folder:  
 `"icon": "icons/<icon_file>"`
 
-### How to create Sets
+## How to create Sets
 
 If you want to add a set, just create a set of files, and put a flag `"part_of_set" : true` inside a main file. (`Some Prime Set.json`)  
 Our script will do the rest (crosslinks DB-documents with each other)
@@ -93,7 +93,7 @@ You just need to create:
 2. `Aklex Prime Link.json`
 3. `Aklex Prime Set.json`
 
-### How to define Tags
+## How to define Tags
 
 There is no strict convention, but you can use this logic:
 
