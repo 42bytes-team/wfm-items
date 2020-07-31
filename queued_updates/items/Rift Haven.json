@@ -1,0 +1,60 @@
+{
+    "_id": "5ce7fd87d23a3b00908c420e",
+    "tags": [
+        "mod",
+        "rare"
+    ],
+    "icon": "icons/en/Rift_Haven.84eb7632d0bd0b93a7a7173ea774f2b1.png",
+    "thumb": "icons/en/thumbs/Rift_Haven.84eb7632d0bd0b93a7a7173ea774f2b1.128x128.png",
+    "icon_format": "port",
+    "url_name": "rift_haven",
+    "tradable": true,
+    "en": {
+        "item_name": "Rift Haven",
+        "description": "<p>Banish Augment: Allies banished to the rift will have 10% of their Maximum Health restored.</p>",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Укрытие Бездной",
+        "description": "<p>Banish Augment: Allies banished to the rift will have 10% of their Maximum Health restored.</p>",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5_%D0%91%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9",
+        "icon": "icons/ru/Rift_Haven.a7c87a233b9132c26a83ec3e5e812f26.png",
+        "thumb": "icons/ru/thumbs/Rift_Haven.a7c87a233b9132c26a83ec3e5e812f26.128x128.png",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "리프트 헤이븐",
+        "description": "<p>Banish Augment: Allies banished to the rift will have 10% of their Maximum Health restored.</p>",
+        "drop": [
+            {
+                "name": "Arbiters of Hexis",
+                "link": null
+            },
+            {
+                "name": "Cephalon Suda",
+                "link": null
+            }
+        ]
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}
