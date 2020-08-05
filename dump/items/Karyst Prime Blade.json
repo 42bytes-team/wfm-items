@@ -1,0 +1,57 @@
+{
+    "_id": "5f0e0fde9f527b0285718f1f",
+    "tags": [
+        "parts",
+        "melee",
+        "blade",
+        "prime"
+    ],
+    "icon": "icons/en/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.png",
+    "thumb": "icons/en/thumbs/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "karyst_prime_blade",
+    "tradable": true,
+    "part_of_set": [
+        "5f0e0fdc9f527b0285718f19",
+        "5f0e0fdc9f527b0285718f18",
+        "5f0e0fde9f527b0285718f1e",
+        "5f0e0fde9f527b0285718f1f"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Karyst Prime Blade",
+        "description": "<p></p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Meso K3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Карист прайм Клинок",
+        "description": "<p></p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Meso K3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "캐리스트 프라임 블레이드",
+        "description": "<p></p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Meso K3 Rare",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 100,
+    "trading_tax": 2000
+}

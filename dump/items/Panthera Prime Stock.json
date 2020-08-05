@@ -1,0 +1,57 @@
+{
+    "_id": "5f0e0fdc9f527b0285718f17",
+    "tags": [
+        "parts",
+        "prime",
+        "stock"
+    ],
+    "icon": "icons/en/panthera_prime_set.980cf8bd4a4edde8d3af901ef3fad4cf.png",
+    "thumb": "icons/en/thumbs/panthera_prime_set.980cf8bd4a4edde8d3af901ef3fad4cf.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "panthera_prime_stock",
+    "tradable": true,
+    "part_of_set": [
+        "5f0e0fdc9f527b0285718f1a",
+        "5f0e0fdc9f527b0285718f17",
+        "5f0e0fdd9f527b0285718f1b",
+        "5f0e0fdd9f527b0285718f1c",
+        "5f0e0fdd9f527b0285718f1d"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Panthera Prime Stock",
+        "description": "<p></p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Panthera_Prime",
+        "drop": [
+            {
+                "name": "Meso N10 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пантера прайм Приклад",
+        "description": "<p></p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Panthera_Prime",
+        "drop": [
+            {
+                "name": "Meso N10 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "팬서라 프라임 스톡",
+        "description": "<p></p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Panthera_Prime",
+        "drop": [
+            {
+                "name": "Meso N10 Uncommon",
+                "link": null
+            }
+        ]
+    },
+    "ducats": 45,
+    "trading_tax": 2000
+}
