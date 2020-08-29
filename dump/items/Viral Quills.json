@@ -1,0 +1,34 @@
+{
+    "_id": "5f498a259426ed00443bd0c9",
+    "tags": [
+        "mod",
+        "rare",
+        "kavat"
+    ],
+    "icon": "icons/en/viral_quills.7c3d803df0d4955872187242adbfda57.png",
+    "thumb": "icons/en/thumbs/viral_quills.7c3d803df0d4955872187242adbfda57.128x128.png",
+    "icon_format": "port",
+    "url_name": "viral_quills",
+    "tradable": true,
+    "en": {
+        "item_name": "Viral Quills",
+        "description": "Launches 6 quills at enemies within 20m from an organ under its chin, dealing 60 <DT_VIRAL>Viral Damage each and a 40% chance to proc the Viral status effect. If the target is affected by a Viral Proc, it also adds a Spore. 4s cooldown.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Вирусные Иглы",
+        "description": "Выпускает 6 игл во врагов в пределах 20м из специального органа под подбородком, нанося по 60 <DT_VIRAL>Вирусного урона каждый, с 40%-м шансом наложения эффекта статуса вируса. Если на цель действует вирусный эффект, также добавляется спора. Восстановление: 4с.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "바이럴 퀼스",
+        "description": "20m 내의 적들을 향해 턱 아래 기관에서 6개의 깃털을 발사하여, 각각의 적들에게 60의 <DT_VIRAL>바이러스 피해를 입히며 40%의 확률로 바이러스 상태 이상을 부여합니다. 목표물이 이미 바이러스 상태 이상에 걸려 있을 경우, 스포어 하나를 부여합니다. 재사용 대기 시간 4초",
+        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills",
+        "drop": []
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}

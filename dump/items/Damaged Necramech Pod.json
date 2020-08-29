@@ -1,0 +1,41 @@
+{
+    "_id": "5f498a259426ed00443bd0cd",
+    "tags": [
+        "necramech",
+        "pod",
+        "parts",
+        "mech"
+    ],
+    "icon": "icons/en/damaged_necramech_pod.09d9da6db09801ac4413810d0524625b.png",
+    "thumb": "icons/en/thumbs/damaged_necramech_pod.09d9da6db09801ac4413810d0524625b.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/damaged_mech_part_systems_128x128.png",
+    "url_name": "damaged_necramech_pod",
+    "tradable": true,
+    "part_of_set": [
+        "5f498a1f9426ed00443bd0a0",
+        "5f498a209426ed00443bd0a4",
+        "5f498a259426ed00443bd0cd",
+        "5f498a269426ed00443bd0d3",
+        "5f498a259426ed00443bd0c6"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Damaged Necramech Pod",
+        "description": "A modular component for a Necramech. It’s damaged and in need of repair.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Поврежденная Капсула Некрамеха",
+        "description": "Модульный компонент Некрамеха. Поврежденный и требующий ремонта.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "손상된 네크라메크 포드",
+        "description": "네크라메크의 모듈형 부품입니다. 손상되어 수리가 필요합니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    }
+}

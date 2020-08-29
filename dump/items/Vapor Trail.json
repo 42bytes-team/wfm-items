@@ -1,0 +1,34 @@
+{
+    "_id": "5f498a239426ed00443bd0bc",
+    "tags": [
+        "mod",
+        "common",
+        "---"
+    ],
+    "icon": "icons/en/vapor_trail.ebe940eeaf0b853890baa1a7b981d72c.png",
+    "thumb": "icons/en/thumbs/vapor_trail.ebe940eeaf0b853890baa1a7b981d72c.128x128.png",
+    "icon_format": "port",
+    "url_name": "vapor_trail",
+    "tradable": true,
+    "en": {
+        "item_name": "Vapor Trail",
+        "description": "Add 10 Boost Speed. Consumes 10 Energy/s",
+        "wiki_link": "https://warframe.fandom.com/wiki/Vapor_Trail",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Быстрее пули",
+        "description": "Добавьте 10 к Мощности Ускорения. Потребляет 10 единиц Энергии/с",
+        "wiki_link": "https://warframe.fandom.com/wiki/Vapor_Trail",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "베이퍼 트레일",
+        "description": "부스트 속도를 10 추가합니다. 초당 10 에너지를 소모합니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Vapor_Trail",
+        "drop": []
+    },
+    "rarity": "common",
+    "mod_max_rank": 10,
+    "trading_tax": 2000
+}

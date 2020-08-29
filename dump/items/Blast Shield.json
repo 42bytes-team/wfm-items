@@ -1,0 +1,34 @@
+{
+    "_id": "5f498a279426ed00443bd0de",
+    "tags": [
+        "mod",
+        "common",
+        "sentinel"
+    ],
+    "icon": "icons/en/blast_shield.f177c2539f771f2c9c14f602c23b1828.png",
+    "thumb": "icons/en/thumbs/blast_shield.f177c2539f771f2c9c14f602c23b1828.128x128.png",
+    "icon_format": "port",
+    "url_name": "blast_shield",
+    "tradable": true,
+    "en": {
+        "item_name": "Blast Shield",
+        "description": "Overshields increased by +3000. Leap at an enemy within 10m dealing 30  Damage and knocking down other enemies within 5m and resets Overshields.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Blast_Shield",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Взрывной Щит",
+        "description": "Увеличивает Сверхщиты на +3000. Прыгает на врага, находящегося в радиусе до 10 м, нанося 30  урона, опрокидывает остальных врагов в радиусе до 5 м и сбрасывает Сверхщиты.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Blast_Shield",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "블래스트 실드",
+        "description": "오버실드가 +3000 증가합니다. 10m 내의 적에게 도약하여 30의 충격 피해를 입히고 5m 내의 다른 적들을 밀쳐내며 오버실드를 초기화시킵니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Blast_Shield",
+        "drop": []
+    },
+    "rarity": "common",
+    "mod_max_rank": 5,
+    "trading_tax": 2000
+}

@@ -1,0 +1,34 @@
+{
+    "_id": "5f498a239426ed00443bd0ba",
+    "tags": [
+        "mod",
+        "rare",
+        "sentinel"
+    ],
+    "icon": "icons/en/hard_engage.d7fe88b2f84043d5c691b9d6531c4087.png",
+    "thumb": "icons/en/thumbs/hard_engage.d7fe88b2f84043d5c691b9d6531c4087.128x128.png",
+    "icon_format": "port",
+    "url_name": "hard_engage",
+    "tradable": true,
+    "en": {
+        "item_name": "Hard Engage",
+        "description": "Engages enemies within 10m with melee attacks, dealing 90  Impact Damage. Melee attacks are enhanced by Mods equipped in the Moa's weapon.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Грубое Вмешательство",
+        "description": "Атакует врага на расстоянии до 10 м оружием ближнего боя, нанося 90  ударного урона. Атаки ближнего боя усиливаются модами, экипированными на оружие Моа. ",
+        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "하드 인게이지",
+        "description": "무기를 비활성화시킨 후 무기에 장착된 모드를 발차기에 적용시켜 10m 내의 적을 공격하여 90의 충격 피해를 입힙니다. 비활성화된 무기는 12.5m 내에 더 이상 목표가 존재하지 않을 시 다시 작동합니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage",
+        "drop": []
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}
