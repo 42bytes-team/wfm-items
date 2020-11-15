@@ -1,6 +1,11 @@
 {
-    "icon": "https://vignette.wikia.nocookie.net/warframe/images/0/0c/VengefulFlameEphemera.png",
-    "animation": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/16._Vengeful_Flame.gif",
+    "_id": "5e98546d3d9f64004f9136ba",
+    "url_name": "vengeful_flame",
+    "icon": "icons/en/vengeful_flame.1c2faa83c219e6d6699524495b578d7f.png",
+    "thumb": "icons/en/thumbs/vengeful_flame.1c2faa83c219e6d6699524495b578d7f.128x128.png",
+    "icon_format": "port",
+    "animation": "animations/vengeful_flame.9d819d5e4f54c25551b3e8cfa9f9a002.gif",
+    "animation_format": "land",
     "element": "heat",
     "en": {
         "item_name": "Vengeful Flame",
@@ -13,5 +18,13 @@
     "ko": {
         "item_name": "Vengeful Flame",
         "wiki_link": "https://warframe.fandom.com/wiki/Kuva_Lich#Ephemera"
+    },
+    "zh-hant": {
+        "item_name": "復仇火焰",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kuva_Lich#Ephemera"
+    },
+    "zh-hans": {
+        "item_name": "复仇火焰",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kuva_Lich#Ephemera"
     }
 }

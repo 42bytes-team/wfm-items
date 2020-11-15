@@ -1,5 +1,7 @@
 {
-    "url_name": "",
+    "_id": "5e9855a53d9f6400697e896f",
+    "url_name": "hatred_of_corpus",
+    "group": "default",
     "en": {
         "item_name": "Hatred of Corpus",
         "description": "Talks about hating Corpus when spawned on Corpus tilesets"
@@ -11,5 +13,13 @@
     "ko": {
         "item_name": "Hatred of Corpus",
         "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    }
+    },
+	"zh-hant": {
+		"item_name": "痛恨Corpus",
+		"description": "在Corpus的地圖版塊出現時，會發出憎恨Corpus的話語"
+	},
+	"zh-hans": {
+		"item_name": "痛恨Corpus",
+		"description": "在Corpus的地图版块出现时，会发出憎恨Corpus的话语"
+	}
 }

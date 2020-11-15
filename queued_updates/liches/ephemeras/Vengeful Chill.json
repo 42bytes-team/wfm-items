@@ -1,6 +1,11 @@
 {
-    "icon": "https://vignette.wikia.nocookie.net/warframe/images/e/ed/VengefulChillEphemera.png",
-    "animation": "https://vignette.wikia.nocookie.net/warframe/images/6/6e/21._Vengeful_Chill.gif",
+    "_id": "5e9854a23d9f64004f9136bc",
+    "url_name": "vengeful_chill",
+    "icon": "icons/en/vengeful_chill.357327ef4c8de2efee1873926aeb47aa.png",
+    "thumb": "icons/en/thumbs/vengeful_chill.357327ef4c8de2efee1873926aeb47aa.128x128.png",
+    "icon_format": "land",
+    "animation": "animations/vengeful_chill.01a762baf827ac54059c00b3665a549f.gif",
+    "animation_format": "land",
     "element": "cold",
     "en": {
         "item_name": "Vengeful Chill",
@@ -13,5 +18,13 @@
     "ko": {
         "item_name": "Vengeful Chill",
         "wiki_link": "https://warframe.fandom.com/wiki/Kuva_Lich#Ephemera"
+    },
+    "zh-hant": {
+        "item_name": "復仇寒冰",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kuva_Lich#Ephemera"
+    },
+    "zh-hans": {
+        "item_name": "复仇冰冻",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kuva_Lich#Ephemera"
     }
 }

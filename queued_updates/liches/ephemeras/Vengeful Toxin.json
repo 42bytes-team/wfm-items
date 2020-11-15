@@ -1,6 +1,11 @@
 {
-    "icon": "https://vignette.wikia.nocookie.net/warframe/images/4/4a/VengefulToxinEphemera.png",
-    "animation": "https://vignette.wikia.nocookie.net/warframe/images/b/bf/18._Vengeful_Toxin.gif",
+    "_id": "5e9854ce3d9f64004f9136be",
+    "url_name": "vengeful_toxin",
+    "icon": "icons/en/vengeful_toxin.4b0f7027e99675f64183a0abadf28c5e.png",
+    "thumb": "icons/en/thumbs/vengeful_toxin.4b0f7027e99675f64183a0abadf28c5e.128x128.png",
+    "icon_format": "land",
+    "animation": "animations/vengeful_toxin.55b4aee60b0279acefb82f92d7ddc5df.gif",
+    "animation_format": "land",
     "element": "toxin",
     "en": {
         "item_name": "Vengeful Toxin",
@@ -13,5 +18,13 @@
     "ko": {
         "item_name": "Vengeful Toxin",
         "wiki_link": "https://warframe.fandom.com/wiki/Kuva_Lich#Ephemera"
+    },
+    "zh-hant": {
+        "item_name": "復仇毒素",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kuva_Lich#Ephemera"
+    },
+    "zh-hans": {
+        "item_name": "复仇毒素",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kuva_Lich#Ephemera"
     }
 }

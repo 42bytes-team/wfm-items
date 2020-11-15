@@ -1,5 +1,7 @@
 {
-    "url_name": "",
+    "_id": "5e9855a43d9f6400697e8966",
+    "url_name": "prone_to_vertigo",
+    "group": "default",
     "en": {
         "item_name": "Prone to Vertigo",
         "description": "Stays on the ground level of the map. Avoids going up stairs and catwalks"
@@ -11,5 +13,13 @@
     "ko": {
         "item_name": "Prone to Vertigo",
         "description": "Stays on the ground level of the map. Avoids going up stairs and catwalks"
-    }
+    },
+	"zh-hant": {
+		"item_name": "容易眩暈",
+		"description": "總是待在地圖底層，避開樓梯和邊緣過道"
+	},
+	"zh-hans": {
+		"item_name": "容易头晕",
+		"description": "总是待在地图底层，避开楼梯和边缘过道"
+	}
 }

@@ -1,5 +1,7 @@
 {
-    "url_name": "",
+    "_id": "5e9855a53d9f6400697e896d",
+    "url_name": "coward",
+    "group": "default",
     "en": {
         "item_name": "Coward",
         "description": "Can leave the mission at low health"
@@ -11,5 +13,13 @@
     "ko": {
         "item_name": "Coward",
         "description": "Can leave the mission at low health"
-    }
+    },
+	"zh-hant": {
+		"item_name": "懦弱的",
+		"description": "低生命值時會離開任務"
+	},
+	"zh-hans": {
+		"item_name": "懦夫",
+		"description": "低生命值时会离开任务"
+	}
 }
