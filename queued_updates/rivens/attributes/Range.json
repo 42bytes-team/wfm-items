@@ -1,0 +1,27 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe7b",
+    "url_name": "range",
+    "group": "melee",
+    "prefix": "Locti",
+    "suffix": "Tor",
+    "positive_is_negative": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "en": {
+        "effect": "Range"
+    },
+    "ru": {
+        "effect": "Радиус"
+    },
+    "ko": {
+        "effect": "사거리"
+    },
+	"zh-hant":{
+		"effect": "攻擊範圍"
+	},
+	"zh-hans":{
+		"effect": "攻击范围"
+	}
+}

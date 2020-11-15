@@ -1,0 +1,29 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe7f",
+    "url_name": "recoil",
+    "group": "default",
+    "prefix": "Zeti",
+    "suffix": "Mag",
+    "positive_is_negative": true,
+    "exclusive_to": [
+        "shotgun",
+        "rifle",
+        "pistol",
+        "kitgun"
+    ],
+    "en": {
+        "effect": "Recoil"
+    },
+    "ru": {
+        "effect": "Отдача"
+    },
+    "ko": {
+        "effect": "반동"
+    },
+	"zh-hant":{
+		"effect": "後坐力"
+	},
+	"zh-hans":{
+		"effect": "后坐力"
+	}
+}
