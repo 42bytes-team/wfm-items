@@ -5,8 +5,8 @@
         "archwing",
         "set"
     ],
-    "icon": "icons/en/Centaur_Set.7365135b7b3831714b657721d6b1df22.png",
-    "thumb": "icons/en/thumbs/Centaur_Set.7365135b7b3831714b657721d6b1df22.128x128.png",
+    "icon": "icons/en/centaur_set.7365135b7b3831714b657721d6b1df22.png",
+    "thumb": "icons/en/thumbs/centaur_set.7365135b7b3831714b657721d6b1df22.128x128.png",
     "icon_format": "land",
     "url_name": "centaur_set",
     "tradable": true,
@@ -21,46 +21,19 @@
         "item_name": "Centaur Set",
         "description": "<p>The Centaur is an Archwing based melee that also acts as a shield, which shares its own basic six-hit combo with Rathbone, but also possesses its own six-hit combo when used in quick melee (primary weapon equipped).</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Centaur",
-        "drop": [
-            {
-                "name": "The Perrin Sequence",
-                "link": null
-            },
-            {
-                "name": "Offering",
-                "link": null
-            }
-        ]
+        "drop": []
     },
     "ru": {
         "item_name": "Кентавр Комплект",
         "description": "<p>Частично меч, частично щит, Кентавр отлично показывает себя в безбашенных атаках под вражеским огнем</p>",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D0%B0%D0%B2%D1%80",
-        "drop": [
-            {
-                "name": "The Perrin Sequence",
-                "link": null
-            },
-            {
-                "name": "Offering",
-                "link": null
-            }
-        ]
+        "drop": []
     },
     "ko": {
         "item_name": "센타우르 세트",
         "description": "<p>The Centaur is an Archwing based melee that also acts as a shield, which shares its own basic six-hit combo with Rathbone, but also possesses its own six-hit combo when used in quick melee (primary weapon equipped).</p>",
         "wiki_link": "http://warframe.wikia.com/wiki/Centaur",
-        "drop": [
-            {
-                "name": "The Perrin Sequence",
-                "link": null
-            },
-            {
-                "name": "Offering",
-                "link": null
-            }
-        ]
+        "drop": []
     },
     "trading_tax": 2000
 }

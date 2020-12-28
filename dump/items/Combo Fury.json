@@ -1,0 +1,34 @@
+{
+    "_id": "5f808268824fa302f3685c1f",
+    "tags": [
+        "mod",
+        "rare",
+        "melee"
+    ],
+    "icon": "icons/en/combo_fury.f2cf6bf112c9d43e181f1c321649a8fd.png",
+    "thumb": "icons/en/thumbs/combo_fury.f2cf6bf112c9d43e181f1c321649a8fd.128x128.png",
+    "icon_format": "port",
+    "url_name": "combo_fury",
+    "tradable": true,
+    "en": {
+        "item_name": "Combo Fury",
+        "description": "On Melee Kill:<br>+100% Reload Speed<br>+100% Magazine Capacity for 12s on Secondary Weapon",
+        "wiki_link": "https://warframe.fandom.com/wiki/Combo_Fury",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Комбо Ярость",
+        "description": "При убийстве в ближнем бою:<br>+100% к скорости перезарядки<br>+100% к вместимости магазина в течение 12с для вторичного оружия",
+        "wiki_link": "https://warframe.fandom.com/wiki/Combo_Fury",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "콤보 퓨리",
+        "description": "근접 처치 시:<br>12초 동안 보조 무기에 +100% 재장전 속도<br>+100% 탄창 용량",
+        "wiki_link": "https://warframe.fandom.com/wiki/Combo_Fury",
+        "drop": []
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 8000
+}

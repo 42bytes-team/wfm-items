@@ -6,8 +6,8 @@
         "pve",
         "pvp"
     ],
-    "icon": "icons/en/Mesa’s_Waltz.d6c93034e5a61cb41cf18a64466e3eec.png",
-    "thumb": "icons/en/thumbs/Mesa’s_Waltz.d6c93034e5a61cb41cf18a64466e3eec.128x128.png",
+    "icon": "icons/en/mesa’s_waltz.d6c93034e5a61cb41cf18a64466e3eec.png",
+    "thumb": "icons/en/thumbs/mesa’s_waltz.d6c93034e5a61cb41cf18a64466e3eec.128x128.png",
     "icon_format": "port",
     "url_name": "mesa’s_waltz",
     "tradable": true,
@@ -23,6 +23,10 @@
             {
                 "name": "Red Veil",
                 "link": null
+            },
+            {
+                "name": "Conclave Offering",
+                "link": null
             }
         ]
     },
@@ -32,11 +36,15 @@
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D1%81_%D0%9C%D0%B8%D1%81%D1%8B",
         "drop": [
             {
-                "name": "Стальной Меридиан",
+                "name": "Steel Meridian",
                 "link": null
             },
             {
-                "name": "Красная Вуаль",
+                "name": "Red Veil",
+                "link": null
+            },
+            {
+                "name": "Conclave Offering",
                 "link": null
             }
         ]
@@ -52,6 +60,10 @@
             },
             {
                 "name": "Red Veil",
+                "link": null
+            },
+            {
+                "name": "Conclave Offering",
                 "link": null
             }
         ]

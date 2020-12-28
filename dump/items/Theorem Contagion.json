@@ -1,0 +1,32 @@
+{
+    "_id": "5fb84769c34da3004797d554",
+    "tags": [
+        "arcane enhancements"
+    ],
+    "icon": "icons/en/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.png",
+    "thumb": "icons/en/thumbs/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.128x128.png",
+    "icon_format": "land",
+    "url_name": "theorem_contagion",
+    "tradable": true,
+    "en": {
+        "item_name": "Theorem Contagion",
+        "description": "Standing in a zone created by a Residual Arcane creates a globe that orbits the player every 2s. The globes will strike the nearest enemy within 15m dealing 150 damage increasing their vulnerability to the globe's damage type by 200% for 6s. Globes will persist for 30s upon leaving the zone.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Theorem_Contagion",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Теорема Контагиозности",
+        "description": "Нахождение в пределах зоны, созданной одним из остаточных мистификаторов, создаёт шар, который вращается вокруг игрока с периодом 2 сек. Шар поражает врагов в пределах 15м, нанося 150 урона, усиливая их уязвимость урону, наносимым шаром на 200% в течение 6 с. Шар существует в течение 30 сек. после выхода из зоны.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Theorem_Contagion",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "시오럼 컨테이젼",
+        "description": "레지듀얼 류 아케인을 통해 생성된 구역 내에 서 있을 시 2초마다 플레이어의 주변을 도는 구체를 생성합니다. 이 구체는 15m 범위 내의 가장 가까운 적을 공격하여 150의 피해를 입히고 6초 동안 구체의 피해 종류에 대한 취약성을 200%만큼 증가시킵니다. 구체는 구역을 떠난 순간부터 30초 동안 지속됩니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Theorem_Contagion",
+        "drop": []
+    },
+    "rarity": "rare",
+    "mod_max_rank": 5,
+    "trading_tax": 4000
+}

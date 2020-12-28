@@ -1,0 +1,34 @@
+{
+    "_id": "5fb84768c34da3004797d551",
+    "tags": [
+        "mod",
+        "rare",
+        "melee"
+    ],
+    "icon": "icons/en/volatile_rebound.fd671126fd4051e8e3addc13ae56d1f0.png",
+    "thumb": "icons/en/thumbs/volatile_rebound.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon_format": "port",
+    "url_name": "volatile_rebound",
+    "tradable": true,
+    "en": {
+        "item_name": "Volatile Rebound",
+        "description": "+100% Chance to explode on Bounce (Disables Punch Through)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Нестабильный Рикошет",
+        "description": "+100% к шансу взорваться при отскоке (пронзание навылет отсутствует)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "볼래틸 리바운드",
+        "description": "+100% 튕길 시 폭발 확률 (두께 꿰뚫기 비활성화)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound",
+        "drop": []
+    },
+    "rarity": "rare",
+    "mod_max_rank": 3,
+    "trading_tax": 8000
+}
