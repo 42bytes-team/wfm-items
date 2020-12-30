@@ -1,0 +1,27 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe6a",
+    "url_name": "combo_duration",
+    "group": "melee",
+    "prefix": "Tempi",
+    "suffix": "Nem",
+    "positive_is_negative": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "en": {
+        "effect": "Combo Duration"
+    },
+    "ru": {
+        "effect": "Длительность Комбо"
+    },
+    "ko": {
+        "effect": "연속기 지속 시간"
+    },
+	"zh-hant":{
+		"effect": "連擊持續時間"
+	},
+	"zh-hans":{
+		"effect": "连击持续时间"
+	}
+}
