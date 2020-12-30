@@ -1,0 +1,29 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe7a",
+    "url_name": "reload_speed",
+    "group": "default",
+    "prefix": "Feva",
+    "suffix": "Tak",
+    "positive_is_negative": false,
+    "exclusive_to": [
+        "shotgun",
+        "rifle",
+        "pistol",
+        "kitgun"
+    ],
+    "en": {
+        "effect": "Reload Speed"
+    },
+    "ru": {
+        "effect": "Скорость перезарядки"
+    },
+    "ko": {
+        "effect": "재장전 속도"
+    },
+	"zh-hant":{
+		"effect": "裝填速度"
+	},
+	"zh-hans":{
+		"effect": "装填速度"
+	}
+}
