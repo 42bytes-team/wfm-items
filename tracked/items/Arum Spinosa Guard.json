@@ -1,0 +1,94 @@
+{
+    "_id": "5fb84767c34da3004797d544",
+    "tags": [
+        "weapon",
+        "guard",
+        "melee",
+        "component"
+    ],
+    "icon": "icons/en/arum_spinosa_set.a676e9febc397c744ba0f3d4f13b891f.png",
+    "thumb": "icons/en/thumbs/arum_spinosa_set.a676e9febc397c744ba0f3d4f13b891f.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/generic_guard_128x128.png",
+    "url_name": "arum_spinosa_guard",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfWarFanGuard"
+    },
+    "part_of_set": [
+        "arum_spinosa_blueprint",
+        "arum_spinosa_guard",
+        "arum_spinosa_rivet",
+        "arum_spinosa_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Arum Spinosa Guard",
+        "description": "A weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Арум Спиноза: Гарда",
+        "description": "Компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%80%D1%83%D0%BC_%D0%A1%D0%BF%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "아룸 스피노사 가드",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Arum Spinosa: Stichblatt",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Arum Spinosa - Garde",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Arum Spinosa: Guarda",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "疆南星刺 护手",
+        "description": "一个武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "蘭膜星護套",
+        "description": "製作武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Protector De Arum Spinosa",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Protezione Arum Spinosa",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Arum Spinosa: Garda",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arum_Spinosa",
+        "drop": []
+    },
+    "mastery_level": 11,
+    "trading_tax": 2000
+}

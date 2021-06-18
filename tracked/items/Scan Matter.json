@@ -1,0 +1,87 @@
+{
+    "_id": "5be701103ffcc703e462c701",
+    "tags": [
+        "mod",
+        "common",
+        "sentinel"
+    ],
+    "icon": "icons/en/Scan_Matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
+    "thumb": "icons/en/thumbs/Scan_Matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png",
+    "icon_format": "port",
+    "url_name": "scan_matter",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Sentinels/SentinelPrecepts/LocateResources"
+    },
+    "en": {
+        "item_name": "Scan Matter",
+        "description": "Resource containers within 60m are revealed on the Minimap for 8s every 30s.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Сканирование Материи",
+        "description": "Каждые 30с в радиусе 60м в течение 8с на карте будут отмечаться контейнеры с ресурсами.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B8",
+        "icon": "icons/ru/Scan_Matter.5568aa84f744bfb389424fba6e9ec26f.png",
+        "thumb": "icons/ru/thumbs/Scan_Matter.5568aa84f744bfb389424fba6e9ec26f.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "스캔 매터",
+        "description": "30초마다 60m 내에 있는 자원 저장고가 8초 동안 미니맵에 표시됩니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Materie Scannen",
+        "description": "Ressourcen Container innerhalb von 60 m werden alle 30 s für 8 s auf der Minikarte angezeigt.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Détecteur De Matière",
+        "description": "Les conteneurs de Ressources à moins de 60m sont affichés sur la mini-carte pour 8s toutes les 30s.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9tecteur_de_Mati%C3%A8re",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Scan Matter",
+        "description": "Contêineres de recursos dentro de 60m são revelados no Minimapa durante 8s a cada 30s.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "扫描物质",
+        "description": "每 30 秒，小地图上会持续 8 秒显示半径 60 米内的资源箱。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scan_Matter",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "掃描物質",
+        "description": "每 30 秒，小地圖上會持續 8 秒顯示半徑 60 公尺內的資源箱。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scan_Matter",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Escanear Materia",
+        "description": "Los contenedores de recursos dentro de 60m son revelados en el minimapa por 8s cada 30s.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Escanear_Materia",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Scan Matter",
+        "description": "Le casse di Risorse entro 60m vengono mostrate sulla Mappa per 8s ad intervalli di 30s.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Skanuj Materię",
+        "description": "Co 30s wyświetla zbiorniki z surowcami na minimapie przez 8s w zasięgu 60m.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+        "drop": []
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

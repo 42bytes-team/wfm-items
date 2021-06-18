@@ -1,0 +1,51 @@
+{
+    "_id": "5dd001d3ff08fd0214d29be2",
+    "url_name": "chance_to_gain_extra_combo_count",
+    "group": "melee",
+    "prefix": "Laci",
+    "suffix": "Nus",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponMeleeComboBonusOnHitMod"
+    },
+    "en": {
+        "effect": "Additional Combo Count Chance"
+    },
+    "ru": {
+        "effect": "Шанс получить дополнительный счетчик комбо"
+    },
+    "ko": {
+        "effect": "추가 콤보 횟수 확률"
+    },
+    "de": {
+        "effect": "Zusätzliche Kombo-Zähler Chance"
+    },
+    "fr": {
+        "effect": "Chance de Points de Combo Additionnels"
+    },
+    "pt": {
+        "effect": "Additional Combo Count Chance"
+    },
+    "zh-hans": {
+        "effect": "额外连击数获取"
+    },
+    "zh-hant": {
+        "effect": "機率獲得連擊數"
+    },
+    "es": {
+        "effect": "Probabilidad de contador de combo adicional"
+    },
+    "it": {
+        "effect": "Additional Combo Count Chance"
+    },
+    "pl": {
+        "effect": "Dodatkowy punkt Licznika Kombo"
+    }
+}

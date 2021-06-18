@@ -1,0 +1,283 @@
+{
+    "_id": "58b57068eb26db5c3119210c",
+    "tags": [
+        "warframe",
+        "component",
+        "blueprint",
+        "prime"
+    ],
+    "icon": "icons/en/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.png",
+    "thumb": "icons/en/thumbs/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "banshee_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "banshee_prime_set",
+        "banshee_prime_blueprint",
+        "banshee_prime_chassis",
+        "banshee_prime_neuroptics",
+        "banshee_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Banshee Prime Chassis",
+        "description": "Chassis component of the Banshee Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "Neo B2 Relic (Rare)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Neo B1 Relic (Rare)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Neo B6 Relic (Rare)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "Meso B2 Relic (Rare)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Банши Прайм: Каркас",
+        "description": "Компонент варфрейма Банши Прайм: Каркас.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BD%D1%88%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео B2 (Редкий)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Реликвия Нео B1 (Редкий)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Реликвия Нео B6 (Редкий)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "Реликвия Мезо B2 (Редкий)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "밴쉬 프라임 섀시",
+        "description": "밴쉬 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "네오 B2 성유물 (레어)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "네오 B1 성유물 (레어)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "네오 B6 성유물 (레어)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "메소 B2 성유물 (레어)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Banshee Prime: Chassis",
+        "description": "Chassis-Komponente für den Banshee Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: B2 (Selten)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Neo-relikt: B1 (Selten)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Neo-relikt: B6 (Selten)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "Meso-relikt: B2 (Selten)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Banshee Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Banshee Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo B2 (Rare)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Relique Neo B1 (Rare)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Relique Neo B6 (Rare)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "Relique Meso B2 (Rare)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Banshee Prime: Chassi",
+        "description": "Chassi componente do Warframe Banshee Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo B2 (Raro)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Relíquia Neo B1 (Raro)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Relíquia Neo B6 (Raro)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "Relíquia Meso B2 (Raro)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Banshee Prime 机体",
+        "description": "Banshee Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "中纪 B2 遗物 (稀有)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "中纪 B1 遗物 (稀有)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "中纪 B6 遗物 (稀有)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "前纪 B2 遗物 (稀有)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Banshee Prime 機體",
+        "description": "Banshee Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "中紀 B2 遺物 (稀有)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "中紀 B1 遺物 (稀有)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "中紀 B6 遺物 (稀有)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "前紀 B2 遺物 (稀有)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Banshee Prime",
+        "description": "Componente del chasis del warframe Banshee Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo B2 (Raro)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Reliquia Neo B1 (Raro)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Reliquia Neo B6 (Raro)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "Reliquia Meso B2 (Raro)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Banshee Prime - Chassis",
+        "description": "Il componente Chassis per il Warframe Banshee Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo B2 (Rare)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Reliquia Neo B1 (Rare)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Reliquia Neo B6 (Rare)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "Reliquia Meso B2 (Rare)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Banshee Prime: Powłoka",
+        "description": "Powłoka dla Warframe Banshee Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Banshee_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo B2 (Rzadki)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Relikt Neo B1 (Rzadki)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Relikt Neo B6 (Rzadki)",
+                "link": "neo_b6_relic"
+            },
+            {
+                "name": "Relikt Meso B2 (Rzadki)",
+                "link": "meso_b2_relic"
+            }
+        ]
+    },
+    "mastery_level": 8,
+    "ducats": 100,
+    "trading_tax": 2000
+}

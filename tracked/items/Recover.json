@@ -1,0 +1,88 @@
+{
+    "_id": "567af35fcbfa8f05d076a4e9",
+    "tags": [
+        "mod",
+        "rare",
+        "pvp",
+        "primary"
+    ],
+    "icon": "icons/en/Recover.e69c0a870f45b50e769fc05455a43a3f.png",
+    "thumb": "icons/en/thumbs/Recover.e69c0a870f45b50e769fc05455a43a3f.128x128.png",
+    "icon_format": "port",
+    "url_name": "recover",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RestoreHealthOnKillMod"
+    },
+    "en": {
+        "item_name": "Recover",
+        "description": "On Kill:\r+15 Heal Rate for 10s\n-25% from Health Orbs",
+        "wiki_link": "https://warframe.fandom.com/wiki/Recover",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Исцеление",
+        "description": "При убийстве:\r+15 к скорости лечения в течение 10с\n-25% от сфер здоровья",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Recover.2ebdf233711957c85a6d9a13da32cff4.png",
+        "thumb": "icons/ru/thumbs/Recover.2ebdf233711957c85a6d9a13da32cff4.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "리커버",
+        "description": "처치 시:\r10초 동안 +15 체력 재생률\n체력 오브로부터 -25%",
+        "wiki_link": "https://warframe.fandom.com/wiki/Recover",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Zurückgewinnen",
+        "description": "Bei Kill:\r+15 Heilungsrate für 10s\n-25 % von Gesundheitskugeln",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zur%C3%BCckgewinnen",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Repos",
+        "description": "Sur Élimination:\rPendant 10s, +15 Taux de Soin\n-25% des Orbes de Santé",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Repousse",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Recover",
+        "description": "Ao Matar:\r+15 Regeneração de Vida por 10s\n-25% de Orbes de Vida",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Recover",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "痊愈",
+        "description": "击杀后：\r+15 治愈率，持续 10 秒\n从生命球获得 -25%",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Recover",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "痊癒",
+        "description": "擊殺時：\r+15 治癒率，持續 10 秒\n從生命球獲得 -25%",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Recover",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Recobrarse",
+        "description": "Al matar:\r+15 de ritmo de curación por 10s.\n-25% de los orbes de salud",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Recobrarse",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Recover",
+        "description": "Dopo un'Uccisione:\r+15 Tasso di Guarigione per 10s\n-25% dalle Sfere di Salute",
+        "wiki_link": "http://warframe.wikia.com/wiki/Recover",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Ozdrowienie",
+        "description": "Po zabiciu:\r+15 Tempo Regeneracji przez 10s\n-25% z Kul Życia",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ozdrowienie",
+        "drop": []
+    },
+    "rarity": "rare",
+    "max_rank": 3,
+    "trading_tax": 8000
+}

@@ -1,0 +1,414 @@
+{
+    "_id": "561536d5b66f836f889b79bb",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/dual_kamas_prime_blueprint.7d95cad6d71a59fa98902cc8bfe87da2.png",
+    "thumb": "icons/en/thumbs/dual_kamas_prime_blueprint.7d95cad6d71a59fa98902cc8bfe87da2.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "dual_kamas_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/PrimeDualKamasBlueprint"
+    },
+    "part_of_set": [
+        "dual_kamas_prime_set",
+        "dual_kamas_prime_blade",
+        "dual_kamas_prime_blueprint",
+        "dual_kamas_prime_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Dual Kamas Prime Blueprint",
+        "description": "The sensual lines of these golden Kamas have long been celebrated as a masterwork of Tenno weapon smithing.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Dual_Kamas_Prime",
+        "drop": [
+            {
+                "name": "Axi V5 Relic (Common)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Axi N3 Relic (Common)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "Axi V1 Relic (Common)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "Neo T1 Relic (Common)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "Neo V1 Relic (Common)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Lith S6 Relic (Common)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Lith K4 Relic (Common)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Парные Камы Прайм: Чертеж",
+        "description": "Чувственные изгибы этих золотых Кам долгое время преподносились как шедевр кузнечного ремесла Тэнно.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B0%D0%BC%D1%8B_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси V5 (Обычный)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Реликвия Акси N3 (Обычный)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "Реликвия Акси V1 (Обычный)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "Реликвия Нео T1 (Обычный)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "Реликвия Нео V1 (Обычный)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Реликвия Лит S6 (Обычный)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Реликвия Лит K4 (Обычный)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "듀얼 카마스 프라임 설계도",
+        "description": "이 두 금빛 카마의 관능적인 선은 오랫동안 텐노 무기 제조술의 극치라 칭송받아 왔습니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Dual_Kamas_Prime",
+        "drop": [
+            {
+                "name": "액시 V5 성유물 (커먼)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "액시 N3 성유물 (커먼)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "액시 V1 성유물 (커먼)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "네오 T1 성유물 (커먼)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "네오 V1 성유물 (커먼)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "리스 S6 성유물 (커먼)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "리스 K4 성유물 (커먼)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Dual-kamas Prime: Blaupause",
+        "description": "Die sinnlichen Linien dieser goldenen Kamas wurden für lange Zeit als das Meisterstück der Waffenschmiedekunst der Tenno angesehen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Dual_Kamas_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: V5 (Gewöhnlich)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Axi-relikt: N3 (Gewöhnlich)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "Axi-relikt: V1 (Gewöhnlich)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "Neo-relikt: T1 (Gewöhnlich)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "Neo-relikt: V1 (Gewöhnlich)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Lith-relikt: S6 (Gewöhnlich)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Lith-relikt: K4 (Gewöhnlich)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Doubles Kamas Prime - Schéma",
+        "description": "Les courbures sensuelles de ces Kamas dorés ont longtemps été célébrées comme étant un chef-d'œuvre de la métallurgie Tenno.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Doubles_Kamas_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi V5 (Commun)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Relique Axi N3 (Commun)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "Relique Axi V1 (Commun)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "Relique Neo T1 (Commun)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "Relique Neo V1 (Commun)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Relique Lith S6 (Commun)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Relique Lith K4 (Commun)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Dual Kamas Prime: Diagram",
+        "description": "As linhas sensuais destas Kamas douradas sempre foram celebradas como um trabalho de mestre da forja de armas Tenno.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Dual_Kamas_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi V5 (Comum)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Relíquia Axi N3 (Comum)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "Relíquia Axi V1 (Comum)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "Relíquia Neo T1 (Comum)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "Relíquia Neo V1 (Comum)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Relíquia Lith S6 (Comum)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Relíquia Lith K4 (Comum)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "双短柄战镰 Prime 蓝图",
+        "description": "（英文：DUAL KAMAS PRIME）这对拥有迷人线条的金色短柄战镰，长久以来一直被奉为 Tenno 武器锻造的杰作。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dual_Kamas_Prime",
+        "drop": [
+            {
+                "name": "后纪 V5 遗物 (常见)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "后纪 N3 遗物 (常见)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "后纪 V1 遗物 (常见)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "中纪 T1 遗物 (常见)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "中纪 V1 遗物 (常见)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "古纪 S6 遗物 (常见)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "古纪 K4 遗物 (常见)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "雙短柄戰鐮 Prime 藍圖",
+        "description": "（英文：DUAL KAMAS PRIME）這對擁有迷人線條的金色短柄戰鐮，長久以來一直被奉為 Tenno 武器鍛造的傑作。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dual_Kamas_Prime",
+        "drop": [
+            {
+                "name": "後紀 V5 遺物 (常見)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "後紀 N3 遺物 (常見)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "後紀 V1 遺物 (常見)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "中紀 T1 遺物 (常見)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "中紀 V1 遺物 (常見)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "古紀 S6 遺物 (常見)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "古紀 K4 遺物 (常見)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Kamas Dobles Prime",
+        "description": "Las sensuales líneas de estas Kamas doradas durante mucho tiempo han sido admiradas como una obra maestra de la armería Tenno.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Kamas_dobles_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V5 (Común)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Reliquia Axi N3 (Común)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "Reliquia Axi V1 (Común)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "Reliquia Neo T1 (Común)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "Reliquia Neo V1 (Común)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Reliquia Lith S6 (Común)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Reliquia Lith K4 (Común)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Dual Kamas Prime Blueprint",
+        "description": "Le sensuali linee di queste Kama dorate sono da sempre celebrate come capolavori degli armaioli Tenno.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Dual_Kamas_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V5 (Common)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Reliquia Axi N3 (Common)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "Reliquia Axi V1 (Common)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "Reliquia Neo T1 (Common)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "Reliquia Neo V1 (Common)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Reliquia Lith S6 (Common)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Reliquia Lith K4 (Common)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Kama Podwójna Prime: Schemat",
+        "description": "Zmysłowe linie tych złotych Kam od dawna są uznawane za dzieło sztuki rzemiosła tworzenia broni Tenno.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kama_Podw%C3%B3jna_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi V5 (Powszechny)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Relikt Axi N3 (Powszechny)",
+                "link": "axi_n3_relic"
+            },
+            {
+                "name": "Relikt Axi V1 (Powszechny)",
+                "link": "axi_v1_relic"
+            },
+            {
+                "name": "Relikt Neo T1 (Powszechny)",
+                "link": "neo_t1_relic"
+            },
+            {
+                "name": "Relikt Neo V1 (Powszechny)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Relikt Lith S6 (Powszechny)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Relikt Lith K4 (Powszechny)",
+                "link": "lith_k4_relic"
+            }
+        ]
+    },
+    "mastery_level": 8,
+    "ducats": 15,
+    "trading_tax": 2000
+}

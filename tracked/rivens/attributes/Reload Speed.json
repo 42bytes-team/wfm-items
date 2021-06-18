@@ -1,0 +1,53 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe7a",
+    "url_name": "reload_speed",
+    "group": "default",
+    "prefix": "Feva",
+    "suffix": "Tak",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": [
+        "shotgun",
+        "rifle",
+        "pistol",
+        "kitgun"
+    ],
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponReloadSpeedMod"
+    },
+    "en": {
+        "effect": "Reload Speed"
+    },
+    "ru": {
+        "effect": "Скорость перезарядки"
+    },
+    "ko": {
+        "effect": "재장전 속도"
+    },
+    "de": {
+        "effect": "Nachladegeschwindigkeit"
+    },
+    "fr": {
+        "effect": "Vitesse de Rechargement"
+    },
+    "pt": {
+        "effect": "Reload Speed"
+    },
+    "zh-hans": {
+        "effect": "装填速度"
+    },
+    "zh-hant": {
+        "effect": "裝填速度"
+    },
+    "es": {
+        "effect": "Velocidad de recarga"
+    },
+    "it": {
+        "effect": "Reload Speed"
+    },
+    "pl": {
+        "effect": "Prędkość Przeładowania"
+    }
+}

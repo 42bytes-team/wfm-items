@@ -1,0 +1,95 @@
+{
+    "_id": "5ee76f4b04d55c0a81972434",
+    "tags": [
+        "weapon",
+        "primary",
+        "component",
+        "barrel",
+        "weapons"
+    ],
+    "icon": "icons/en/stahlta_set.30d7537c3158976f86998e5b9fa05f96.png",
+    "thumb": "icons/en/thumbs/stahlta_set.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/generic_barrel_128x128.png",
+    "url_name": "stahlta_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/CrpRubanRifleBarrel"
+    },
+    "part_of_set": [
+        "stahlta_set",
+        "stahlta_barrel",
+        "stahlta_receiver",
+        "stahlta_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Stahlta Barrel",
+        "description": "A weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Стальта: Ствол",
+        "description": "Компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D1%82%D0%B0",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "스탈타 배럴",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Stahlta: Lauf",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Stahlta - Canon",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stahlta",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Stahlta: Cano",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "钢刃步枪 枪管",
+        "description": "一个武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stahlta",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "鋼砲步槍 槍管",
+        "description": "製作武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stahlta",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Cañón De Stahlta",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Stahlta",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Stahlta - Canna",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Stahlta: Lufa",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Stahlta",
+        "drop": []
+    },
+    "mastery_level": 10,
+    "trading_tax": 2000
+}

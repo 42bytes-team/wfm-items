@@ -1,0 +1,330 @@
+{
+    "_id": "59a5cd4d5cd9938cfede7046",
+    "tags": [
+        "weapon",
+        "crossbow",
+        "prime",
+        "component",
+        "secondary",
+        "blueprint"
+    ],
+    "icon": "icons/en/Ballistica_Prime_Set.4ed33348008ace40406d0383f692ecac.png",
+    "thumb": "icons/en/thumbs/Ballistica_Prime_Set.4ed33348008ace40406d0383f692ecac.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/receiver_128x128.png",
+    "url_name": "ballistica_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver"
+    },
+    "part_of_set": [
+        "ballistica_prime_set",
+        "ballistica_prime_blueprint",
+        "ballistica_prime_lower_limb",
+        "ballistica_prime_receiver",
+        "ballistica_prime_string",
+        "ballistica_prime_upper_limb"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ballistica Prime Receiver",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Neo L1 Relic (Uncommon)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "Neo S7 Relic (Uncommon)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "Neo H2 Relic (Uncommon)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "Meso P1 Relic (Uncommon)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Lith P2 Relic (Uncommon)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Баллистика Прайм: Приёмник",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео L1 (Необычный)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "Реликвия Нео S7 (Необычный)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "Реликвия Нео H2 (Необычный)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "Реликвия Мезо P1 (Необычный)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Реликвия Лит P2 (Необычный)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "발리스티카 프라임 리시버",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "네오 L1 성유물 (언커먼)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "네오 S7 성유물 (언커먼)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "네오 H2 성유물 (언커먼)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "메소 P1 성유물 (언커먼)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "리스 P2 성유물 (언커먼)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Ballistica Prime: Gehäuse",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: L1 (Ungewöhnlich)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "Neo-relikt: S7 (Ungewöhnlich)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "Neo-relikt: H2 (Ungewöhnlich)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "Meso-relikt: P1 (Ungewöhnlich)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Lith-relikt: P2 (Ungewöhnlich)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Ballistica Prime - Culasse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo L1 (Inhabituel)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "Relique Neo S7 (Inhabituel)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "Relique Neo H2 (Inhabituel)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "Relique Meso P1 (Inhabituel)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relique Lith P2 (Inhabituel)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Ballistica Prime: Receptor",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo L1 (Incomum)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "Relíquia Neo S7 (Incomum)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "Relíquia Neo H2 (Incomum)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "Relíquia Meso P1 (Incomum)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relíquia Lith P2 (Incomum)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "布里斯提卡 Prime 枪机",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "中纪 L1 遗物 (罕见)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "中纪 S7 遗物 (罕见)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "中纪 H2 遗物 (罕见)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "前纪 P1 遗物 (罕见)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "古纪 P2 遗物 (罕见)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "布里斯提卡 Prime 槍機",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "中紀 L1 遺物 (罕見)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "中紀 S7 遺物 (罕見)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "中紀 H2 遺物 (罕見)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "前紀 P1 遺物 (罕見)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "古紀 P2 遺物 (罕見)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Receptor De Ballistica Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo L1 (Poco Común)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "Reliquia Neo S7 (Poco Común)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "Reliquia Neo H2 (Poco Común)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "Reliquia Meso P1 (Poco Común)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Reliquia Lith P2 (Poco Común)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Ballistica Prime - Castello",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Ballistica",
+        "drop": [
+            {
+                "name": "Reliquia Neo L1 (Uncommon)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "Reliquia Neo S7 (Uncommon)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "Reliquia Neo H2 (Uncommon)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "Reliquia Meso P1 (Uncommon)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Reliquia Lith P2 (Uncommon)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Ballistica Prime: Korpus",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo L1 (Nieprzeciętny)",
+                "link": "neo_l1_relic"
+            },
+            {
+                "name": "Relikt Neo S7 (Nieprzeciętny)",
+                "link": "neo_s7_relic"
+            },
+            {
+                "name": "Relikt Neo H2 (Nieprzeciętny)",
+                "link": "neo_h2_relic"
+            },
+            {
+                "name": "Relikt Meso P1 (Nieprzeciętny)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relikt Lith P2 (Nieprzeciętny)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

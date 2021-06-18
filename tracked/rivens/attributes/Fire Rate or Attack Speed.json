@@ -1,0 +1,48 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe72",
+    "url_name": "fire_rate_/_attack_speed",
+    "group": "default",
+    "prefix": "Croni",
+    "suffix": "Dra",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponFireRateMod"
+    },
+    "en": {
+        "effect": "Fire Rate / Attack Speed"
+    },
+    "ru": {
+        "effect": "Скорострельность"
+    },
+    "ko": {
+        "effect": "연사력 또는 공격 속도"
+    },
+    "de": {
+        "effect": "Schussrate / Angriffsgeschwindigkeit"
+    },
+    "fr": {
+        "effect": "Cadence de Tir / Vitesse d’attaque"
+    },
+    "pt": {
+        "effect": "Fire Rate / Attack Speed"
+    },
+    "zh-hans": {
+        "effect": "射速/攻击速度"
+    },
+    "zh-hant": {
+        "effect": "射速/攻擊速度"
+    },
+    "es": {
+        "effect": "Cadencia de fuego / Velocidad de ataque"
+    },
+    "it": {
+        "effect": "Fire Rate / Attack Speed"
+    },
+    "pl": {
+        "effect": "Szybkostrzelność / Szybkość Ataku"
+    }
+}

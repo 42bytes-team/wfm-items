@@ -1,0 +1,96 @@
+{
+    "_id": "5dfea1421456970294aff37f",
+    "tags": [
+        "weapon",
+        "receiver",
+        "component",
+        "part",
+        "primary"
+    ],
+    "icon": "icons/en/shedu_set.765c016812e915e1e06ceb5e3820ae48.png",
+    "thumb": "icons/en/thumbs/shedu_set.765c016812e915e1e06ceb5e3820ae48.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/generic_receiver_128x128.png",
+    "url_name": "shedu_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/SheduHeavyWeaponReceiver"
+    },
+    "part_of_set": [
+        "shedu_set",
+        "shedu_handle",
+        "shedu_barrel",
+        "shedu_receiver",
+        "shedu_chassis"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Shedu Receiver",
+        "description": "The receiver component of the Shedu.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shedu",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Шиду: Приёмник",
+        "description": "Компонент Шиду: Приёмник.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D0%B8%D0%B4%D1%83",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "세두 리시버",
+        "description": "세두의 리시버 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shedu",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Shedu: Gehäuse",
+        "description": "Gehäuse-Komponente der Shedu.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shedu",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Shedu - Culasse",
+        "description": "Le composant Culasse du Shedu.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Shedu",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Shedu: Receptor",
+        "description": "O receptor componente da Shedu.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shred",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "舍杜 枪机",
+        "description": "舍杜的枪机部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shedu",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "舍杜 槍機",
+        "description": "舍杜的槍機部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shedu",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Receptor De Shedu",
+        "description": "El componente receptor del Shedu.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Shedu",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Shedu - Castello",
+        "description": "Il componente castello dell'arma Shedu.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Shred",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Shedu: Korpus",
+        "description": "Część będąca korpusem Shedu.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Shedu",
+        "drop": []
+    },
+    "mastery_level": 13,
+    "trading_tax": 2000
+}

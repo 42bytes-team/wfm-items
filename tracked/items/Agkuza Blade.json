@@ -1,0 +1,95 @@
+{
+    "_id": "5783bf59d9b6753790c89e98",
+    "tags": [
+        "component",
+        "weapon",
+        "blade",
+        "melee",
+        "archwing"
+    ],
+    "icon": "icons/en/agkuza_blade.037f45c1777df3ce5657b0c40aac04b1.png",
+    "thumb": "icons/en/thumbs/agkuza_blade.037f45c1777df3ce5657b0c40aac04b1.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "agkuza_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHookSwordBlade"
+    },
+    "part_of_set": [
+        "agkuza_set",
+        "agkuza_blade",
+        "agkuza_guard",
+        "agkuza_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Agkuza Blade",
+        "description": "An Archwing weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Agkuza",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Агкуза: Лезвие",
+        "description": "Компонент оружия арчвинга.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B3%D0%BA%D1%83%D0%B7%D0%B0",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "악쿠자 블레이드",
+        "description": "아크윙 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Agkuza",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Agkuza: Klinge",
+        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Agkuza",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Agkuza - Lame",
+        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Agkuza",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Agkuza: Lâmina",
+        "description": "Um componente de fabricação de armas Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Agkuza",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "驯象钩刃 刀刃",
+        "description": "一个 Archwing 武器制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Agkuza",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "馴象鉤刃 刀刃",
+        "description": "製作 Archwing 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Agkuza",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Hoja De Agkuza",
+        "description": "Un componente de fabricación de arma de archwing.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Agkuza",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Agkuza - Lama",
+        "description": "Un componente per la costruzione di un'arma Archwing.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Agkuza",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Agkuza: Ostrze",
+        "description": "Element wytwarzania broni Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Agkuza",
+        "drop": []
+    },
+    "mastery_level": 3,
+    "trading_tax": 2000
+}

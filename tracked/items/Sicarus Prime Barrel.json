@@ -1,0 +1,195 @@
+{
+    "_id": "54a73e65e779893a797fff5e",
+    "tags": [
+        "prime",
+        "component",
+        "secondary",
+        "barrel",
+        "weapon"
+    ],
+    "icon": "icons/en/sicarus_prime_barrel.e7c07172e6d63d49ae349d508c56fc85.png",
+    "thumb": "icons/en/thumbs/sicarus_prime_barrel.e7c07172e6d63d49ae349d508c56fc85.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "sicarus_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/SicarusPrimeBarrel"
+    },
+    "part_of_set": [
+        "sicarus_prime_set",
+        "sicarus_prime_barrel",
+        "sicarus_prime_blueprint",
+        "sicarus_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Sicarus Prime Barrel",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Neo F1 Relic (Common)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "Meso F2 Relic (Common)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сикарус Прайм: Ствол",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BA%D0%B0%D1%80%D1%83%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео F1 (Обычный)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "Реликвия Мезо F2 (Обычный)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "시카루스 프라임 배럴",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "네오 F1 성유물 (커먼)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "메소 F2 성유물 (커먼)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Sicarus Prime: Lauf",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: F1 (Gewöhnlich)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "Meso-relikt: F2 (Gewöhnlich)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Sicarus Prime - Canon",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo F1 (Commun)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "Relique Meso F2 (Commun)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Sicarus Prime: Cano",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo F1 (Comum)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "Relíquia Meso F2 (Comum)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "暗杀者 Prime 枪管",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "中纪 F1 遗物 (常见)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "前纪 F2 遗物 (常见)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "暗殺者 Prime 槍管",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "中紀 F1 遺物 (常見)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "前紀 F2 遺物 (常見)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cañón De Sicarus Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo F1 (Común)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "Reliquia Meso F2 (Común)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Sicarus Prime - Canna",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo F1 (Common)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "Reliquia Meso F2 (Common)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Sicarus Prime: Lufa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo F1 (Powszechny)",
+                "link": "neo_f1_relic"
+            },
+            {
+                "name": "Relikt Meso F2 (Powszechny)",
+                "link": "meso_f2_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

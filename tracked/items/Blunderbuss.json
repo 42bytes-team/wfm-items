@@ -1,0 +1,88 @@
+{
+    "_id": "54a74454e779892d5e515686",
+    "tags": [
+        "common",
+        "shotgun",
+        "mod",
+        "primary"
+    ],
+    "icon": "icons/en/Blunderbuss.f8df9459d8032ae3006453260a938a77.png",
+    "thumb": "icons/en/thumbs/Blunderbuss.f8df9459d8032ae3006453260a938a77.128x128.png",
+    "icon_format": "port",
+    "url_name": "blunderbuss",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritChanceMod"
+    },
+    "en": {
+        "item_name": "Blunderbuss",
+        "description": "+90% Critical Chance",
+        "wiki_link": "https://warframe.fandom.com/wiki/Blunderbuss",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Мушкетон",
+        "description": "+90% шанс крит. урона",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D1%83%D1%88%D0%BA%D0%B5%D1%82%D0%BE%D0%BD",
+        "icon": "icons/ru/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.png",
+        "thumb": "icons/ru/thumbs/Blunderbuss.6a1ee0d5d5b26b3c13a0469c98ddb4dc.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "블런더버스",
+        "description": "+90% 치명타 확률",
+        "wiki_link": "https://warframe.fandom.com/wiki/Blunderbuss",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Donnerbüchse",
+        "description": "+90 % Krit. Chance",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Donnerb%C3%BCchse",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Tromblon",
+        "description": "+90% de Chance de Critique",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tromblon",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Blunderbuss",
+        "description": "+90% de Chance Crítica",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Blunderbuss",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "雷筒",
+        "description": "+90% 暴击几率",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blunderbuss",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "雷筒",
+        "description": "+90% 暴擊率",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blunderbuss",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Trabuco",
+        "description": "+90% de probabilidad crítica",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Trabuco",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Blunderbuss",
+        "description": "+90% Probabilità Critico",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Blunderbuss",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Garłacz",
+        "description": "+90% Szansy Obrażeń Krytycznych",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gar%C5%82acz",
+        "drop": []
+    },
+    "rarity": "common",
+    "max_rank": 5,
+    "trading_tax": 2000
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe64",
+    "url_name": "damage_vs_corpus",
+    "group": "default",
+    "prefix": "Manti",
+    "suffix": "Tron",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponFactionDamageCorpus"
+    },
+    "en": {
+        "effect": "Damage to Corpus"
+    },
+    "ru": {
+        "effect": "Урон Корпусу"
+    },
+    "ko": {
+        "effect": "코퍼스에 대한 피해"
+    },
+    "de": {
+        "effect": "Schaden gegen Corpus"
+    },
+    "fr": {
+        "effect": "Dégâts aux Corpus"
+    },
+    "pt": {
+        "effect": "Damage vs. Corpus"
+    },
+    "zh-hans": {
+        "effect": "对Corpus伤害"
+    },
+    "zh-hant": {
+        "effect": "對Corpus傷害"
+    },
+    "es": {
+        "effect": "Daño contra Corpus"
+    },
+    "it": {
+        "effect": "Damage to Corpus"
+    },
+    "pl": {
+        "effect": "Obrażeń Zadawanych Corpus"
+    }
+}

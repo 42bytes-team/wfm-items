@@ -1,0 +1,414 @@
+{
+    "_id": "5d21ce42f4604c012d1e0c0c",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/ninkondi_prime_blueprint.d8516fa5fc9fe9518b6b9ec8fa59cb28.png",
+    "thumb": "icons/en/thumbs/ninkondi_prime_blueprint.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "ninkondi_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/NinkondiPrimeBlueprint"
+    },
+    "part_of_set": [
+        "ninkondi_prime_set",
+        "ninkondi_prime_blueprint",
+        "ninkondi_prime_handle",
+        "ninkondi_prime_chain"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ninkondi Prime Blueprint",
+        "description": "An ancient weapon imbued with a new truth.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Axi G3 Relic (Common)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Neo R2 Relic (Common)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "Neo P1 Relic (Common)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Neo S14 Relic (Common)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Meso T4 Relic (Common)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "Meso L1 Relic (Common)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Meso K3 Relic (Common)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нинконди Прайм: Чертеж",
+        "description": "Древнее оружие, пропитанное новой истиной.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B8%D0%BD%D0%BA%D0%BE%D0%BD%D0%B4%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси G3 (Обычный)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Реликвия Нео R2 (Обычный)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "Реликвия Нео P1 (Обычный)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Реликвия Нео S14 (Обычный)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Реликвия Мезо T4 (Обычный)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "Реликвия Мезо L1 (Обычный)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Реликвия Мезо K3 (Обычный)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "닌콘디 프라임 설계도",
+        "description": "새로운 진실이 깃든 고대의 무기입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "액시 G3 성유물 (커먼)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "네오 R2 성유물 (커먼)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "네오 P1 성유물 (커먼)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "네오 S14 성유물 (커먼)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "메소 T4 성유물 (커먼)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "메소 L1 성유물 (커먼)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "메소 K3 성유물 (커먼)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Ninkondi Prime: Blaupause",
+        "description": "Eine uralte Waffe erfüllt mit einer neuen Wahrheit.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: G3 (Gewöhnlich)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Neo-relikt: R2 (Gewöhnlich)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "Neo-relikt: P1 (Gewöhnlich)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Neo-relikt: S14 (Gewöhnlich)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Meso-relikt: T4 (Gewöhnlich)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "Meso-relikt: L1 (Gewöhnlich)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Meso-relikt: K3 (Gewöhnlich)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Ninkondi Prime - Schéma",
+        "description": "Une arme ancienne imprégnée d'une vérité nouvelle.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi G3 (Commun)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Relique Neo R2 (Commun)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "Relique Neo P1 (Commun)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relique Neo S14 (Commun)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relique Meso T4 (Commun)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "Relique Meso L1 (Commun)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Relique Meso K3 (Commun)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Ninkondi Prime: Diagram",
+        "description": "Uma arma ancestral imbuída com uma nova verdade.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi G3 (Comum)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Relíquia Neo R2 (Comum)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "Relíquia Neo P1 (Comum)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relíquia Neo S14 (Comum)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relíquia Meso T4 (Comum)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "Relíquia Meso L1 (Comum)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Relíquia Meso K3 (Comum)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "降灵追猎者 Prime 蓝图",
+        "description": "（英文：NINKONDI PRIME）一把注入了新真理的古老武器。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "后纪 G3 遗物 (常见)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "中纪 R2 遗物 (常见)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "中纪 P1 遗物 (常见)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "中纪 S14 遗物 (常见)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "前纪 T4 遗物 (常见)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "前纪 L1 遗物 (常见)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "前纪 K3 遗物 (常见)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "降靈追獵者 Prime 藍圖",
+        "description": "（英文：NINKONDI PRIME）一把注入了新真理的古老武器。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "後紀 G3 遺物 (常見)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "中紀 R2 遺物 (常見)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "中紀 P1 遺物 (常見)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "中紀 S14 遺物 (常見)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "前紀 T4 遺物 (常見)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "前紀 L1 遺物 (常見)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "前紀 K3 遺物 (常見)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Ninkondi Prime",
+        "description": "Un arma ancestral imbuida con una nueva verdad.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi G3 (Común)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Reliquia Neo R2 (Común)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "Reliquia Neo P1 (Común)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Reliquia Neo S14 (Común)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Reliquia Meso T4 (Común)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "Reliquia Meso L1 (Común)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Reliquia Meso K3 (Común)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Ninkondi Prime Blueprint",
+        "description": "Un'antica arma intrisa di una nuova verità.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nikana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi G3 (Common)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Reliquia Neo R2 (Common)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "Reliquia Neo P1 (Common)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Reliquia Neo S14 (Common)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Reliquia Meso T4 (Common)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "Reliquia Meso L1 (Common)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Reliquia Meso K3 (Common)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Ninkondi Prime: Schemat",
+        "description": "Starożytna broń nasycona nową prawdą.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi G3 (Powszechny)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Relikt Neo R2 (Powszechny)",
+                "link": "neo_r2_relic"
+            },
+            {
+                "name": "Relikt Neo P1 (Powszechny)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relikt Neo S14 (Powszechny)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relikt Meso T4 (Powszechny)",
+                "link": "meso_t4_relic"
+            },
+            {
+                "name": "Relikt Meso L1 (Powszechny)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Relikt Meso K3 (Powszechny)",
+                "link": "meso_k3_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

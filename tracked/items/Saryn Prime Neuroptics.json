@@ -1,0 +1,372 @@
+{
+    "_id": "56c3bbdb5d2f0202da32e93c",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "neuroptics",
+        "warframe"
+    ],
+    "icon": "icons/en/saryn_prime_neuroptics.394094bef0383f954bd38d622bb075e5.png",
+    "thumb": "icons/en/thumbs/saryn_prime_neuroptics.394094bef0383f954bd38d622bb075e5.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/neuroptics_128x128.png",
+    "url_name": "saryn_prime_neuroptics",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeHelmetBlueprint"
+    },
+    "part_of_set": [
+        "saryn_prime_set",
+        "saryn_prime_blueprint",
+        "saryn_prime_chassis",
+        "saryn_prime_neuroptics",
+        "saryn_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Saryn Prime Neuroptics",
+        "description": "Neuroptics component of the Saryn Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "Axi V9 Relic (Common)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "Neo V4 Relic (Uncommon)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Meso S5 Relic (Uncommon)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "Meso S9 Relic (Uncommon)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "Lith C5 Relic (Common)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Lith A1 Relic (Uncommon)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сарина Прайм: Нейрооптика",
+        "description": "Компонент варфрейма Сарина Прайм: нейрооптика.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси V9 (Обычный)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "Реликвия Нео V4 (Необычный)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Реликвия Мезо S5 (Необычный)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "Реликвия Мезо S9 (Необычный)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "Реликвия Лит C5 (Обычный)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Реликвия Лит A1 (Необычный)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "새린 프라임 뉴로옵틱스",
+        "description": "새린 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "액시 V9 성유물 (커먼)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "네오 V4 성유물 (언커먼)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "메소 S5 성유물 (언커먼)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "메소 S9 성유물 (언커먼)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "리스 C5 성유물 (커먼)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "리스 A1 성유물 (언커먼)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Saryn Prime: Neuroptik",
+        "description": "Neuroptik-Komponente für den Saryn Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: V9 (Gewöhnlich)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "Neo-relikt: V4 (Ungewöhnlich)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Meso-relikt: S5 (Ungewöhnlich)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "Meso-relikt: S9 (Ungewöhnlich)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "Lith-relikt: C5 (Gewöhnlich)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Lith-relikt: A1 (Ungewöhnlich)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Saryn Prime - Neuroptiques",
+        "description": "Le composant Neuroptiques de la Warframe Saryn Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi V9 (Commun)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "Relique Neo V4 (Inhabituel)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Relique Meso S5 (Inhabituel)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "Relique Meso S9 (Inhabituel)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "Relique Lith C5 (Commun)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Relique Lith A1 (Inhabituel)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Saryn Prime: Neurovisor",
+        "description": "Neurovisor componente do Warframe Saryn Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi V9 (Comum)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "Relíquia Neo V4 (Incomum)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Relíquia Meso S5 (Incomum)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "Relíquia Meso S9 (Incomum)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "Relíquia Lith C5 (Comum)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Relíquia Lith A1 (Incomum)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Saryn Prime 头部神经光元",
+        "description": "Saryn Prime 战甲的头部神经光元组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "后纪 V9 遗物 (常见)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "中纪 V4 遗物 (罕见)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "前纪 S5 遗物 (罕见)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "前纪 S9 遗物 (罕见)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "古纪 C5 遗物 (常见)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "古纪 A1 遗物 (罕见)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Saryn Prime 頭部神經光元",
+        "description": "Saryn Prime Warframe 的頭部神經光元組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "後紀 V9 遺物 (常見)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "中紀 V4 遺物 (罕見)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "前紀 S5 遺物 (罕見)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "前紀 S9 遺物 (罕見)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "古紀 C5 遺物 (常見)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "古紀 A1 遺物 (罕見)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Neurópticas De Saryn Prime",
+        "description": "Componente de las neurópticas del warframe Saryn Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V9 (Común)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "Reliquia Neo V4 (Poco Común)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Reliquia Meso S5 (Poco Común)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "Reliquia Meso S9 (Poco Común)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "Reliquia Lith C5 (Común)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Reliquia Lith A1 (Poco Común)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Saryn Prime - Neurottiche",
+        "description": "Il componente Neurottiche per il Warframe Saryn Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V9 (Common)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "Reliquia Neo V4 (Uncommon)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Reliquia Meso S5 (Uncommon)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "Reliquia Meso S9 (Uncommon)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "Reliquia Lith C5 (Common)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Reliquia Lith A1 (Uncommon)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Saryn Prime: Neurooptyka",
+        "description": "Neurooptyka dla Warframe Saryn Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Saryn_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi V9 (Powszechny)",
+                "link": "axi_v9_relic"
+            },
+            {
+                "name": "Relikt Neo V4 (Nieprzeciętny)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Relikt Meso S5 (Nieprzeciętny)",
+                "link": "meso_s5_relic"
+            },
+            {
+                "name": "Relikt Meso S9 (Nieprzeciętny)",
+                "link": "meso_s9_relic"
+            },
+            {
+                "name": "Relikt Lith C5 (Powszechny)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Relikt Lith A1 (Nieprzeciętny)",
+                "link": "lith_a1_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

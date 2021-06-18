@@ -1,0 +1,414 @@
+{
+    "_id": "5ca28670fc2db2035eae059f",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/tipedo_prime_blueprint.fd4fdcee6ab035eddce9a802ff091cfd.png",
+    "thumb": "icons/en/thumbs/tipedo_prime_blueprint.fd4fdcee6ab035eddce9a802ff091cfd.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "tipedo_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/TipedoPrimeBlueprint"
+    },
+    "part_of_set": [
+        "tipedo_prime_set",
+        "tipedo_prime_handle",
+        "tipedo_prime_ornament",
+        "tipedo_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Tipedo Prime Blueprint",
+        "description": "With their final breath they look to the moon, and are gone.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "Meso A2 Relic (Common)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "Meso C5 Relic (Common)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "Meso L1 Relic (Common)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Meso N10 Relic (Common)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "Meso W1 Relic (Common)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Lith B7 Relic (Common)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "Lith P2 Relic (Common)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Типедо Прайм: Чертеж",
+        "description": "Во время последнего вздоха они смотрели на Луну и пропали.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%BF%D0%B5%D0%B4%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Мезо A2 (Обычный)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "Реликвия Мезо C5 (Обычный)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "Реликвия Мезо L1 (Обычный)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Реликвия Мезо N10 (Обычный)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "Реликвия Мезо W1 (Обычный)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Реликвия Лит B7 (Обычный)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "Реликвия Лит P2 (Обычный)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "티페도 프라임 설계도",
+        "description": "그들은 마지막 숨을 들이마시며 달을 바라보고, 사라집니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "메소 A2 성유물 (커먼)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "메소 C5 성유물 (커먼)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "메소 L1 성유물 (커먼)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "메소 N10 성유물 (커먼)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "메소 W1 성유물 (커먼)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "리스 B7 성유물 (커먼)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "리스 P2 성유물 (커먼)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Tipedo Prime: Blaupause",
+        "description": "Mit ihrem letzten Atemzug blicken sie auf zum Mond und sind fort.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "Meso-relikt: A2 (Gewöhnlich)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "Meso-relikt: C5 (Gewöhnlich)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "Meso-relikt: L1 (Gewöhnlich)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Meso-relikt: N10 (Gewöhnlich)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "Meso-relikt: W1 (Gewöhnlich)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Lith-relikt: B7 (Gewöhnlich)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "Lith-relikt: P2 (Gewöhnlich)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Tipedo Prime - Schéma",
+        "description": "Dans un dernier soupir ils lèvent les yeux au ciel, et disparaissent.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "Relique Meso A2 (Commun)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "Relique Meso C5 (Commun)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "Relique Meso L1 (Commun)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Relique Meso N10 (Commun)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "Relique Meso W1 (Commun)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Relique Lith B7 (Commun)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "Relique Lith P2 (Commun)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Tipedo Prime: Diagram",
+        "description": "Mediante seus últimos suspiros eles olham para a lua, e depois desaparecem.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Meso A2 (Comum)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "Relíquia Meso C5 (Comum)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "Relíquia Meso L1 (Comum)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Relíquia Meso N10 (Comum)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "Relíquia Meso W1 (Comum)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Relíquia Lith B7 (Comum)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "Relíquia Lith P2 (Comum)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "提佩多 Prime 蓝图",
+        "description": "（英文：TIPEDO PRIME）随着凝望月亮时呼出的最后一口气，就这样永久的消散了。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "前纪 A2 遗物 (常见)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "前纪 C5 遗物 (常见)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "前纪 L1 遗物 (常见)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "前纪 N10 遗物 (常见)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "前纪 W1 遗物 (常见)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "古纪 B7 遗物 (常见)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "古纪 P2 遗物 (常见)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "提佩多 Prime 藍圖",
+        "description": "（英文：TIPEDO PRIME）隨著望月之時呼出的最後一口氣，就這樣永久消散了。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "前紀 A2 遺物 (常見)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "前紀 C5 遺物 (常見)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "前紀 L1 遺物 (常見)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "前紀 N10 遺物 (常見)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "前紀 W1 遺物 (常見)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "古紀 B7 遺物 (常見)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "古紀 P2 遺物 (常見)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Tipedo Prime",
+        "description": "Con su último suspiro miraron a la luna, y desaparecieron.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso A2 (Común)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "Reliquia Meso C5 (Común)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "Reliquia Meso L1 (Común)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Reliquia Meso N10 (Común)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "Reliquia Meso W1 (Común)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Reliquia Lith B7 (Común)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "Reliquia Lith P2 (Común)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Tipedo Prime Blueprint",
+        "description": "Con il loro ultimo respiro guardano la luna, e periscono.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Scindo_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso A2 (Common)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "Reliquia Meso C5 (Common)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "Reliquia Meso L1 (Common)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Reliquia Meso N10 (Common)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "Reliquia Meso W1 (Common)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Reliquia Lith B7 (Common)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "Reliquia Lith P2 (Common)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Tipedo Prime: Schemat",
+        "description": "W swym ostatnim tchnieniu patrzą na księżyc i znikają.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "Relikt Meso A2 (Powszechny)",
+                "link": "meso_a2_relic"
+            },
+            {
+                "name": "Relikt Meso C5 (Powszechny)",
+                "link": "meso_c5_relic"
+            },
+            {
+                "name": "Relikt Meso L1 (Powszechny)",
+                "link": "meso_l1_relic"
+            },
+            {
+                "name": "Relikt Meso N10 (Powszechny)",
+                "link": "meso_n10_relic"
+            },
+            {
+                "name": "Relikt Meso W1 (Powszechny)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Relikt Lith B7 (Powszechny)",
+                "link": "lith_b7_relic"
+            },
+            {
+                "name": "Relikt Lith P2 (Powszechny)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 15,
+    "trading_tax": 2000
+}

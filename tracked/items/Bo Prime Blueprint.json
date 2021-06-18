@@ -1,0 +1,194 @@
+{
+    "_id": "54a73e65e779893a797fff27",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/bo_prime_blueprint.fad65cfb95d62a4275be60be30375846.png",
+    "thumb": "icons/en/thumbs/bo_prime_blueprint.fad65cfb95d62a4275be60be30375846.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "bo_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/PrimeBoBlueprint"
+    },
+    "part_of_set": [
+        "bo_prime_set",
+        "bo_prime_blueprint",
+        "bo_prime_handle",
+        "bo_prime_ornament"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Bo Prime Blueprint",
+        "description": "A classic Orokin weapon, Bo Prime creates elegant fury on the battlefield.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "Lith O2 Relic (Common)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "Lith G2 Relic (Common)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Бо Прайм: Чертеж",
+        "description": "Классическое оружие Орокин, Бо Прайм выплескивает свою прекрасную ярость на поле боя.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Лит O2 (Обычный)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "Реликвия Лит G2 (Обычный)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "보 프라임 설계도",
+        "description": "고전적인 오로킨의 무기인 보 프라임은 온 전장에 우아한 분노를 펼쳐냅니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "리스 O2 성유물 (커먼)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "리스 G2 성유물 (커먼)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Bo Prime: Blaupause",
+        "description": "Eine klassische Waffe der Orokin, Bo Prime kreiert eine elegante Raserei auf dem Schlachtfeld.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "Lith-relikt: O2 (Gewöhnlich)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "Lith-relikt: G2 (Gewöhnlich)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Bo Prime - Schéma",
+        "description": "Une arme Orokin classique, le Bo Prime crée une élégante fureur sur le champ de bataille.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "Relique Lith O2 (Commun)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "Relique Lith G2 (Commun)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Bo Prime: Diagram",
+        "description": "Uma arma Orokin clássica, a Bo Prime leva uma fúria elegante ao campo de batalha.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Lith O2 (Comum)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "Relíquia Lith G2 (Comum)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "玻之武杖 Prime 蓝图",
+        "description": "（英文：BO PRIME）一把经典 Orokin 兵器，使用它以优雅的战姿横扫战场。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "古纪 O2 遗物 (常见)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "古纪 G2 遗物 (常见)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "玻之武杖 Prime 藍圖",
+        "description": "（英文：BO PRIME）一把經典 Orokin 兵器，使用它以優雅的戰姿橫掃戰場。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "古紀 O2 遺物 (常見)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "古紀 G2 遺物 (常見)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Bo Prime",
+        "description": "Una clásica arma orokin, el Bo Prime descarga furia de manera elegante en el campo de batalla.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith O2 (Común)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "Reliquia Lith G2 (Común)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Bo Prime Blueprint",
+        "description": "Una classica arma Orokin, il Bo Prime crea furia elegante sul campo di battaglia.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith O2 (Common)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "Reliquia Lith G2 (Common)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Bo Prime: Schemat",
+        "description": "Klasyczna broń Orokin, Bo Prime, to furia i elegancja na polu bitwy.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Bo_Prime",
+        "drop": [
+            {
+                "name": "Relikt Lith O2 (Powszechny)",
+                "link": "lith_o2_relic"
+            },
+            {
+                "name": "Relikt Lith G2 (Powszechny)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "mastery_level": 5,
+    "ducats": 15,
+    "trading_tax": 2000
+}

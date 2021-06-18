@@ -1,0 +1,94 @@
+{
+    "_id": "6054dda05221e30057500f9b",
+    "tags": [
+        "relic",
+        "neo"
+    ],
+    "icon": "icons/en/neo_v6_relic.404dc9ef087cc16ca255f5b5fd17fff0.png",
+    "thumb": "icons/en/thumbs/neo_v6_relic.404dc9ef087cc16ca255f5b5fd17fff0.128x128.png",
+    "icon_format": "port",
+    "url_name": "neo_v6_relic",
+    "redirect_from": [
+        "neo_v6_exceptional",
+        "neo_v6_radiant",
+        "neo_v6_intact",
+        "neo_v6_flawless"
+    ],
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Game/Projections/T3VoidProjectionMiragePrimeB"
+    },
+    "en": {
+        "item_name": "Neo V6 Relic",
+        "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Реликвия Нео V6",
+        "description": "Артефакт, таящий секреты Орокин. Может быть открыт только с помощью энергии Бездны.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ko": {
+        "item_name": "네오 V6 성유물",
+        "description": "오로킨의 비밀을 가지고 있는 유물. 보이드의 힘으로만 열릴 수 있습니다.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "de": {
+        "item_name": "Neo-relikt: V6",
+        "description": "Ein Artefakt, das Orokin Geheimnisse birgt. Es kann nur durch die Macht des Void geöffnet werden.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Relique Neo V6",
+        "description": "Un artefact contenant des secrets Orokins. Il ne peut être ouvert qu'avec la puissance du Néant.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Relíquia Neo V6",
+        "description": "Um artefato que contém segredos dos Orokins. Ele só pode ser aberto pelo poder do Void.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "中纪 V6 遗物",
+        "description": "一个包含着 Orokin 秘密的神器。它只能通过虚空之力来打开。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "中紀 V6 遺物",
+        "description": "一個包含著 Orokin 秘密的神器。它只能透過虛空之力來開啟。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "es": {
+        "item_name": "Reliquia Neo V6",
+        "description": "Un artefacto que contiene secretos orokin. Solo puede ser abierto a través del poder del Vacío.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "it": {
+        "item_name": "Reliquia Neo V6",
+        "description": "Un artefatto contenente segreti Orokin. Può essere aperto solamente tramite l'energia del Void.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Relikt Neo V6",
+        "description": "Artefakt zawierający sekrety Orokin. Tylko wykorzystując energię Pustki, można go otworzyć.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+    ],
+    "trading_tax": 2000
+}

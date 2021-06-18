@@ -1,0 +1,284 @@
+{
+    "_id": "5ca28670fc2db2035eae05a5",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "neuroptics",
+        "warframe"
+    ],
+    "icon": "icons/en/Equinox_Prime_Set.1163c3dad7a8ffce02af7d475fc0ccd4.png",
+    "thumb": "icons/en/thumbs/Equinox_Prime_Set.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/neuroptics_128x128.png",
+    "url_name": "equinox_prime_neuroptics",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeHelmetBlueprint"
+    },
+    "part_of_set": [
+        "equinox_prime_set",
+        "equinox_prime_systems",
+        "equinox_prime_chassis",
+        "equinox_prime_neuroptics",
+        "equinox_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Equinox Prime Neuroptics",
+        "description": "Neuroptics component of the Equinox Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Neo D2 Relic (Uncommon)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Neo A3 Relic (Uncommon)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Meso M3 Relic (Uncommon)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Lith L1 Relic (Uncommon)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Эквинокс Прайм: Нейрооптика",
+        "description": "Компонент варфрейма Эквинокс Прайм: нейрооптика.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%BD%D0%BE%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео D2 (Необычный)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Реликвия Нео A3 (Необычный)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Реликвия Мезо M3 (Необычный)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Реликвия Лит L1 (Необычный)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "이쿼녹스 프라임 뉴로옵틱스",
+        "description": "이쿼녹스 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "네오 D2 성유물 (언커먼)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "네오 A3 성유물 (언커먼)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "메소 M3 성유물 (언커먼)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "리스 L1 성유물 (언커먼)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Equinox Prime: Neuroptik",
+        "description": "Neuroptik-Komponente für den Equinox Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Equinox/Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: D2 (Ungewöhnlich)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Neo-relikt: A3 (Ungewöhnlich)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Meso-relikt: M3 (Ungewöhnlich)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Lith-relikt: L1 (Ungewöhnlich)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Equinox Prime - Neuroptiques",
+        "description": "Le composant Neuroptiques de la Warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo D2 (Inhabituel)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Relique Neo A3 (Inhabituel)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relique Meso M3 (Inhabituel)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relique Lith L1 (Inhabituel)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Equinox Prime: Neurovisor",
+        "description": "Neurovisor componente do Warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo D2 (Incomum)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Relíquia Neo A3 (Incomum)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relíquia Meso M3 (Incomum)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relíquia Lith L1 (Incomum)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Equinox Prime 头部神经光元",
+        "description": "Equinox Prime 战甲的头部神经光元组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "中纪 D2 遗物 (罕见)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "中纪 A3 遗物 (罕见)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "前纪 M3 遗物 (罕见)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "古纪 L1 遗物 (罕见)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Equinox Prime 頭部神經光元",
+        "description": "Equinox Prime Warframe 的頭部神經光元組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "中紀 D2 遺物 (罕見)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "中紀 A3 遺物 (罕見)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "前紀 M3 遺物 (罕見)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "古紀 L1 遺物 (罕見)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Neurópticas De Equinox Prime",
+        "description": "Componente de neurópticas del warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo D2 (Poco Común)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Reliquia Neo A3 (Poco Común)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Reliquia Meso M3 (Poco Común)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Reliquia Lith L1 (Poco Común)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Equinox Prime - Neurottiche",
+        "description": "Il componente Neurottiche per il Warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo D2 (Uncommon)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Reliquia Neo A3 (Uncommon)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Reliquia Meso M3 (Uncommon)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Reliquia Lith L1 (Uncommon)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Equinox Prime: Neurooptyka",
+        "description": "Neurooptyka dla Warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo D2 (Nieprzeciętny)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Relikt Neo A3 (Nieprzeciętny)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relikt Meso M3 (Nieprzeciętny)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relikt Lith L1 (Nieprzeciętny)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "mastery_level": 5,
+    "ducats": 45,
+    "trading_tax": 2000
+}

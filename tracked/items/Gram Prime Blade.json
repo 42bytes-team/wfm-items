@@ -1,0 +1,415 @@
+{
+    "_id": "5baa8bbf4567de01ac283496",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "blade",
+        "melee"
+    ],
+    "icon": "icons/en/gram_prime_blade.678c245a88b54368ae895b73b6987231.png",
+    "thumb": "icons/en/thumbs/gram_prime_blade.678c245a88b54368ae895b73b6987231.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "gram_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/GramPrimeBlade"
+    },
+    "part_of_set": [
+        "gram_prime_set",
+        "gram_prime_handle",
+        "gram_prime_blueprint",
+        "gram_prime_blade"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Gram Prime Blade",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Axi A9 Relic (Common)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Meso M3 Relic (Common)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Meso R4 Relic (Common)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "Meso S8 Relic (Common)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "Lith W1 Relic (Common)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Lith N4 Relic (Common)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "Lith S8 Relic (Common)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Грэм Прайм: Клинок",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D1%8D%D0%BC_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси A9 (Обычный)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Реликвия Мезо M3 (Обычный)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Реликвия Мезо R4 (Обычный)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "Реликвия Мезо S8 (Обычный)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "Реликвия Лит W1 (Обычный)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Реликвия Лит N4 (Обычный)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "Реликвия Лит S8 (Обычный)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "그람 프라임 블레이드",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "액시 A9 성유물 (커먼)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "메소 M3 성유물 (커먼)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "메소 R4 성유물 (커먼)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "메소 S8 성유물 (커먼)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "리스 W1 성유물 (커먼)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "리스 N4 성유물 (커먼)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "리스 S8 성유물 (커먼)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Gram Prime: Klinge",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: A9 (Gewöhnlich)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Meso-relikt: M3 (Gewöhnlich)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Meso-relikt: R4 (Gewöhnlich)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "Meso-relikt: S8 (Gewöhnlich)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "Lith-relikt: W1 (Gewöhnlich)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Lith-relikt: N4 (Gewöhnlich)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "Lith-relikt: S8 (Gewöhnlich)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Gram Prime - Lame",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi A9 (Commun)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Relique Meso M3 (Commun)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relique Meso R4 (Commun)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "Relique Meso S8 (Commun)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "Relique Lith W1 (Commun)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Relique Lith N4 (Commun)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "Relique Lith S8 (Commun)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Gram Prime: Lâmina",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi A9 (Comum)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Relíquia Meso M3 (Comum)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relíquia Meso R4 (Comum)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "Relíquia Meso S8 (Comum)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "Relíquia Lith W1 (Comum)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Relíquia Lith N4 (Comum)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "Relíquia Lith S8 (Comum)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "格拉姆 Prime 刀刃",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "后纪 A9 遗物 (常见)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "前纪 M3 遗物 (常见)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "前纪 R4 遗物 (常见)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "前纪 S8 遗物 (常见)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "古纪 W1 遗物 (常见)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "古纪 N4 遗物 (常见)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "古纪 S8 遗物 (常见)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "格拉姆 Prime 刀刃",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "後紀 A9 遺物 (常見)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "前紀 M3 遺物 (常見)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "前紀 R4 遺物 (常見)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "前紀 S8 遺物 (常見)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "古紀 W1 遺物 (常見)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "古紀 N4 遺物 (常見)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "古紀 S8 遺物 (常見)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Hoja De Gram Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A9 (Común)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Reliquia Meso M3 (Común)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Reliquia Meso R4 (Común)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "Reliquia Meso S8 (Común)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "Reliquia Lith W1 (Común)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Reliquia Lith N4 (Común)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "Reliquia Lith S8 (Común)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Gram Prime - Lama",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Wyrm_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A9 (Common)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Reliquia Meso M3 (Common)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Reliquia Meso R4 (Common)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "Reliquia Meso S8 (Common)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "Reliquia Lith W1 (Common)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Reliquia Lith N4 (Common)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "Reliquia Lith S8 (Common)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Gram Prime: Ostrze",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi A9 (Powszechny)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Relikt Meso M3 (Powszechny)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relikt Meso R4 (Powszechny)",
+                "link": "meso_r4_relic"
+            },
+            {
+                "name": "Relikt Meso S8 (Powszechny)",
+                "link": "meso_s8_relic"
+            },
+            {
+                "name": "Relikt Lith W1 (Powszechny)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Relikt Lith N4 (Powszechny)",
+                "link": "lith_n4_relic"
+            },
+            {
+                "name": "Relikt Lith S8 (Powszechny)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

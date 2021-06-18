@@ -1,0 +1,51 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe6c",
+    "url_name": "critical_chance_on_slide_attack",
+    "group": "melee",
+    "prefix": "Pleci",
+    "suffix": "Nent",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "SlideAttackCritChanceMod"
+    },
+    "en": {
+        "effect": "Critical Chance for Slide Attack"
+    },
+    "ru": {
+        "effect": "Шанс критического урона в подкате"
+    },
+    "ko": {
+        "effect": "슬라이드 공격에 치명타 확률"
+    },
+    "de": {
+        "effect": "Krit. Chance bei Rutschangriff"
+    },
+    "fr": {
+        "effect": "Chance de critique sur attaque glissée"
+    },
+    "pt": {
+        "effect": "Critical Chance on Slide Attack"
+    },
+    "zh-hans": {
+        "effect": "滑行攻击暴击率"
+    },
+    "zh-hant": {
+        "effect": "滑行攻擊暴擊機率"
+    },
+    "es": {
+        "effect": "Probabilidad crítica en ataque deslizante"
+    },
+    "it": {
+        "effect": "Critical Chance for Slide Attack"
+    },
+    "pl": {
+        "effect": "Szansa Obrażeń Krytycznych Podczas Ataku w Ślizgu"
+    }
+}

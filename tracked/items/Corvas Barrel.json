@@ -1,0 +1,95 @@
+{
+    "_id": "578d33bf34003bbbb9e20921",
+    "tags": [
+        "primary",
+        "component",
+        "barrel",
+        "weapon",
+        "archwing"
+    ],
+    "icon": "icons/en/corvas_barrel.0248b2ad006d7ad6a460cc03eac4baa7.png",
+    "thumb": "icons/en/thumbs/corvas_barrel.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "corvas_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonBarrel"
+    },
+    "part_of_set": [
+        "corvas_set",
+        "corvas_barrel",
+        "corvas_receiver",
+        "corvas_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Corvas Barrel",
+        "description": "An Archwing weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Корвас: Ствол",
+        "description": "Компонент оружия арчвинга.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%B2%D0%B0%D1%81",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "코르바스 배럴",
+        "description": "아크윙 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Corvas: Lauf",
+        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Corvas",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Corvas - Canon",
+        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Corvas",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Corvas: Cano",
+        "description": "Um componente de fabricação de armas Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Corvas",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "黑鸦 枪管",
+        "description": "一个 Archwing 武器制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corvas",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "黑鴉 槍管",
+        "description": "製作 Archwing 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corvas",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Cañón De Corvas",
+        "description": "Un componente de fabricación de arma de archwing.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Corvas",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Corvas - Canna",
+        "description": "Un componente per la costruzione di un'arma Archwing.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Corvas",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Corvas: Lufa",
+        "description": "Element wytwarzania broni Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Corvas",
+        "drop": []
+    },
+    "mastery_level": 1,
+    "trading_tax": 2000
+}

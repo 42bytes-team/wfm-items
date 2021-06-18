@@ -1,0 +1,326 @@
+{
+    "_id": "59a5c2565cd9938cfede703f",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/nami_skyla_prime_blueprint.d83bcdd72463d5dd1f78faea07ff02a4.png",
+    "thumb": "icons/en/thumbs/nami_skyla_prime_blueprint.d83bcdd72463d5dd1f78faea07ff02a4.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "nami_skyla_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint"
+    },
+    "part_of_set": [
+        "nami_skyla_prime_set",
+        "nami_skyla_prime_blade",
+        "nami_skyla_prime_blueprint",
+        "nami_skyla_prime_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nami Skyla Prime Blueprint",
+        "description": "Forged by a forgotten master, these exquisite blades are bounty from a golden-age long gone.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nami_Skyla_Prime",
+        "drop": [
+            {
+                "name": "Axi V7 Relic (Common)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Axi L3 Relic (Common)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Axi L2 Relic (Common)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Meso C3 Relic (Common)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "Lith Z2 Relic (Common)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нами Скила Прайм: Чертеж",
+        "description": "Выкованные забытым мастером, эти клинки - дар давно минувших золотых времен.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B0%D0%BC%D0%B8_%D0%A1%D0%BA%D0%B8%D0%BB%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси V7 (Обычный)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Реликвия Акси L3 (Обычный)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Реликвия Акси L2 (Обычный)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Реликвия Мезо C3 (Обычный)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "Реликвия Лит Z2 (Обычный)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "나미 스카일라 프라임 설계도",
+        "description": "잊혀진 장인의 손으로 벼려진 이 정교한 검은 이제는 사라져버린 황금 시대의 하사품이었습니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nami_Skyla_Prime",
+        "drop": [
+            {
+                "name": "액시 V7 성유물 (커먼)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "액시 L3 성유물 (커먼)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "액시 L2 성유물 (커먼)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "메소 C3 성유물 (커먼)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "리스 Z2 성유물 (커먼)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Nami Skyla Prime: Blaupause",
+        "description": "Von einem vergessenen Meisterschmied erschaffen, stellen diese exquisiten Klingen ein Geschenk aus einem längst vergangenen, goldenen Zeitalter dar.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nami_Skyla_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: V7 (Gewöhnlich)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Axi-relikt: L3 (Gewöhnlich)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Axi-relikt: L2 (Gewöhnlich)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Meso-relikt: C3 (Gewöhnlich)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "Lith-relikt: Z2 (Gewöhnlich)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Nami Skyla Prime - Schéma",
+        "description": "Forgées par un maître-artisan d'antan, ces lames magnifiques sont un trésor issu d'un âge d'or ayant pris fin il y a bien longtemps.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Nami_Skyla_prime",
+        "drop": [
+            {
+                "name": "Relique Axi V7 (Commun)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Relique Axi L3 (Commun)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relique Axi L2 (Commun)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Relique Meso C3 (Commun)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "Relique Lith Z2 (Commun)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Nami Skyla Prime: Diagram",
+        "description": "Forjada por um mestre esquecido, estas lâminas requintadas são recompensas de uma época dourada muito distante.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nami_Skyla_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi V7 (Comum)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Relíquia Axi L3 (Comum)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relíquia Axi L2 (Comum)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Relíquia Meso C3 (Comum)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "Relíquia Lith Z2 (Comum)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "海波斯库拉对剑 Prime 蓝图",
+        "description": "（英文：NAMI SKYLA PRIME）由一位被遗忘的大师所锻造，这对精致的刀刃是来自那早已消失的黄金时代的财宝。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nami_Skyla_Prime",
+        "drop": [
+            {
+                "name": "后纪 V7 遗物 (常见)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "后纪 L3 遗物 (常见)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "后纪 L2 遗物 (常见)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "前纪 C3 遗物 (常见)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "古纪 Z2 遗物 (常见)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "海波斯庫拉對劍 Prime 藍圖",
+        "description": "（英文：NAMI SKYLA PRIME）由一位被遺忘的大師所鍛造，這對精緻的刀刃是來自那早已消失的黃金時代的財寶。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nami_Skyla_Prime",
+        "drop": [
+            {
+                "name": "後紀 V7 遺物 (常見)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "後紀 L3 遺物 (常見)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "後紀 L2 遺物 (常見)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "前紀 C3 遺物 (常見)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "古紀 Z2 遺物 (常見)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Nami Skyla Prime",
+        "description": "Forjada por un maestro olvidado, estas exquisitas hojas son el regalo de una edad dorada que ha desaparecido.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Nami_Skyla_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V7 (Común)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Reliquia Axi L3 (Común)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Reliquia Axi L2 (Común)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Reliquia Meso C3 (Común)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "Reliquia Lith Z2 (Común)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Nami Skyla Prime Blueprint",
+        "description": "Forgiate da un maestro dimenticato, queste lame ricercate sono il dono di un periodo d'oro passato.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nami_Skyla",
+        "drop": [
+            {
+                "name": "Reliquia Axi V7 (Common)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Reliquia Axi L3 (Common)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Reliquia Axi L2 (Common)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Reliquia Meso C3 (Common)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "Reliquia Lith Z2 (Common)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Nami Skyla Prime: Schemat",
+        "description": "Wykute przez zapomnianego mistrza, te wyrafinowane ostrza są łupem z dawno minionej, złotej epoki.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nami_Skyla_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi V7 (Powszechny)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Relikt Axi L3 (Powszechny)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relikt Axi L2 (Powszechny)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Relikt Meso C3 (Powszechny)",
+                "link": "meso_c3_relic"
+            },
+            {
+                "name": "Relikt Lith Z2 (Powszechny)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "mastery_level": 11,
+    "ducats": 15,
+    "trading_tax": 2000
+}

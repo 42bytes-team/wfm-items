@@ -1,0 +1,195 @@
+{
+    "_id": "54a73e65e779893a797fff4a",
+    "tags": [
+        "weapon",
+        "prime",
+        "primary",
+        "blueprint"
+    ],
+    "icon": "icons/en/latron_prime_blueprint.5c8b8009acbdb97fd49177ba155ecfbe.png",
+    "thumb": "icons/en/thumbs/latron_prime_blueprint.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "latron_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/LatronPrimeBlueprint"
+    },
+    "part_of_set": [
+        "latron_prime_set",
+        "latron_prime_barrel",
+        "latron_prime_blueprint",
+        "latron_prime_receiver",
+        "latron_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Latron Prime Blueprint",
+        "description": "The ornamental Latron Prime exploits ancient Orokin technology to get a slight damage increase over the standard Latron.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "Axi L1 Relic (Common)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "Lith G1 Relic (Common)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Латрон Прайм: Чертеж",
+        "description": "Искусно украшенный Латрон Прайм использует древнюю технологию Орокин для небольшого повышения наносимого урона, по сравнению со стандартным Латроном.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D1%82%D1%80%D0%BE%D0%BD_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси L1 (Обычный)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "Реликвия Лит G1 (Обычный)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "래트론 프라임 설계도",
+        "description": "의장용으로 제작된 래트론 프라임은 고대 오로킨 기술이 적용되어 기존 모델에 비해 향상된 화력과 독특한 발사음을 가지고 있습니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "액시 L1 성유물 (커먼)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "리스 G1 성유물 (커먼)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Latron Prime: Blaupause",
+        "description": "Die verzierte Latron Prime nutzt uralte Orokin Technologie, um etwas mehr Schaden als die Standard-Latron auszuteilen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: L1 (Gewöhnlich)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "Lith-relikt: G1 (Gewöhnlich)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Latron Prime - Schéma",
+        "description": "Le très ornementé Latron Prime exploite une antique technologie Orokin afin d'augmenter ses dégâts par rapport au Latron standard.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi L1 (Commun)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "Relique Lith G1 (Commun)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Latron Prime: Diagram",
+        "description": "A ornamental Latron Prime explora tecnologia antiga Orokin para obter um ligeiro aumento em relação ao dano da Latron padrão.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi L1 (Comum)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "Relíquia Lith G1 (Comum)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "拉特昂 Prime 蓝图",
+        "description": "（英文：LATRON PRIME）这把经过装饰的拉特昂 Prime 利用了远古的 Orokin 技术，拥有比标准版拉特昂还高的伤害。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "后纪 L1 遗物 (常见)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "古纪 G1 遗物 (常见)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "拉特昂 Prime 藍圖",
+        "description": "（英文：LATRON PRIME）這把經過裝飾的拉特昂 Prime 利用了遠古的 Orokin 技術，擁有比標準版拉特昂還高的傷害。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "後紀 L1 遺物 (常見)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "古紀 G1 遺物 (常見)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Latron Prime",
+        "description": "El ornamental Latron Prime usa la antigua tecnología orokin para obtener un ligero incremento de daño en comparación con el Latron estándar.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi L1 (Común)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "Reliquia Lith G1 (Común)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Latron Prime Blueprint",
+        "description": "Il fucile ornamentale Latron Prime sfrutta antiche tecnologie Orokin per ottenere un leggero incremento del danno rispetto al Latron standard.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi L1 (Common)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "Reliquia Lith G1 (Common)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Latron Prime: Schemat",
+        "description": "Zdobiony Latron Prime wykorzystuje starożytną technologię Orokin, co pozwoliło uzyskać w nim niewielkie zwiększenie zadawanych obrażeń w porównaniu do standardowej wersji karabinu Latron.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Latron_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi L1 (Powszechny)",
+                "link": "axi_l1_relic"
+            },
+            {
+                "name": "Relikt Lith G1 (Powszechny)",
+                "link": "lith_g1_relic"
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 15,
+    "trading_tax": 2000
+}

@@ -1,0 +1,370 @@
+{
+    "_id": "5baa8bbf4567de01ac283495",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/Gram_Prime_Set.678c245a88b54368ae895b73b6987231.png",
+    "thumb": "icons/en/thumbs/Gram_Prime_Set.678c245a88b54368ae895b73b6987231.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "gram_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/GramPrimeBlueprint"
+    },
+    "part_of_set": [
+        "gram_prime_set",
+        "gram_prime_handle",
+        "gram_prime_blueprint",
+        "gram_prime_blade"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Gram Prime Blueprint",
+        "description": "Born anew, the father of swords returns.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Axi T5 Relic (Uncommon)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Axi A8 Relic (Uncommon)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Axi O4 Relic (Uncommon)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Neo Z8 Relic (Uncommon)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "Meso N7 Relic (Uncommon)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "Lith P2 Relic (Uncommon)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Грэм Прайм: Чертеж",
+        "description": "Рожденный вновь, отец всех мечей вернулся.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D1%8D%D0%BC_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси T5 (Необычный)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Реликвия Акси A8 (Необычный)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Реликвия Акси O4 (Необычный)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Реликвия Нео Z8 (Необычный)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "Реликвия Мезо N7 (Необычный)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "Реликвия Лит P2 (Необычный)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "그람 프라임 설계도",
+        "description": "새로 태어난, 도검류의 조상이 귀환했습니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "액시 T5 성유물 (언커먼)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "액시 A8 성유물 (언커먼)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "액시 O4 성유물 (언커먼)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "네오 Z8 성유물 (언커먼)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "메소 N7 성유물 (언커먼)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "리스 P2 성유물 (언커먼)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Gram Prime: Blaupause",
+        "description": "Neu geboren, so kehrt der Vater der Schwerter zurück!",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: T5 (Ungewöhnlich)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Axi-relikt: A8 (Ungewöhnlich)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Axi-relikt: O4 (Ungewöhnlich)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Neo-relikt: Z8 (Ungewöhnlich)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "Meso-relikt: N7 (Ungewöhnlich)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "Lith-relikt: P2 (Ungewöhnlich)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Gram Prime - Schéma",
+        "description": "Renaissant une fois de plus, la lame originelle fait son retour.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi T5 (Inhabituel)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Relique Axi A8 (Inhabituel)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Relique Axi O4 (Inhabituel)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Relique Neo Z8 (Inhabituel)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "Relique Meso N7 (Inhabituel)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "Relique Lith P2 (Inhabituel)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Gram Prime: Diagram",
+        "description": "Renascida, a espada mestra faz seu retorno.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi T5 (Incomum)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Relíquia Axi A8 (Incomum)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Relíquia Axi O4 (Incomum)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Relíquia Neo Z8 (Incomum)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "Relíquia Meso N7 (Incomum)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "Relíquia Lith P2 (Incomum)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "格拉姆 Prime 蓝图",
+        "description": "（英文：GRAM PRIME）全然新生，诸剑之祖已经回归。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "后纪 T5 遗物 (罕见)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "后纪 A8 遗物 (罕见)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "后纪 O4 遗物 (罕见)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "中纪 Z8 遗物 (罕见)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "前纪 N7 遗物 (罕见)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "古纪 P2 遗物 (罕见)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "格拉姆 Prime 藍圖",
+        "description": "（英文：GRAM PRIME）全然新生，諸劍之祖已經回歸。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "後紀 T5 遺物 (罕見)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "後紀 A8 遺物 (罕見)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "後紀 O4 遺物 (罕見)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "中紀 Z8 遺物 (罕見)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "前紀 N7 遺物 (罕見)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "古紀 P2 遺物 (罕見)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Gram Prime",
+        "description": "Renacido, el padre de las espadas regresa.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi T5 (Poco Común)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Reliquia Axi A8 (Poco Común)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Reliquia Axi O4 (Poco Común)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Reliquia Neo Z8 (Poco Común)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "Reliquia Meso N7 (Poco Común)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "Reliquia Lith P2 (Poco Común)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Gram Prime Blueprint",
+        "description": "Rinato, il padre di tutte le spade ritorna.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Wyrm_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi T5 (Uncommon)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Reliquia Axi A8 (Uncommon)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Reliquia Axi O4 (Uncommon)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Reliquia Neo Z8 (Uncommon)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "Reliquia Meso N7 (Uncommon)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "Reliquia Lith P2 (Uncommon)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Gram Prime: Schemat",
+        "description": "Oto zstąpił Mesjasz mieczy... klękajcie.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi T5 (Nieprzeciętny)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Relikt Axi A8 (Nieprzeciętny)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Relikt Axi O4 (Nieprzeciętny)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Relikt Neo Z8 (Nieprzeciętny)",
+                "link": "neo_z8_relic"
+            },
+            {
+                "name": "Relikt Meso N7 (Nieprzeciętny)",
+                "link": "meso_n7_relic"
+            },
+            {
+                "name": "Relikt Lith P2 (Nieprzeciętny)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

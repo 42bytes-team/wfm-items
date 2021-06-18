@@ -1,0 +1,93 @@
+{
+    "_id": "6056348090a69e004e862874",
+    "tags": [
+        "sentinel",
+        "weapon",
+        "component"
+    ],
+    "icon": "icons/en/nautilus_set.4d2546740e4772a35db251115721c6b7.png",
+    "thumb": "icons/en/thumbs/nautilus_set.4d2546740e4772a35db251115721c6b7.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/weapon/generic_cerebrum_128x128.png",
+    "url_name": "nautilus_cerebrum",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/EmpyreanSentinelCerebrum"
+    },
+    "part_of_set": [
+        "nautilus_cerebrum",
+        "nautilus_blueprint",
+        "nautilus_carapace",
+        "nautilus_systems",
+        "nautilus_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nautilus Cerebrum",
+        "description": "A sentinel-crafting component.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Наутилус: Мозг",
+        "description": "Компонент стража.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ko": {
+        "item_name": "노틸러스 세레브럼",
+        "description": "센티넬 제작 부품입니다.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "de": {
+        "item_name": "Nautilus: Cerebrum",
+        "description": "Eine Komponente für die Herstellung von Wächtern.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Nautilus - Cerveau",
+        "description": "Un composant servant à la fabrication de sentinelles.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Nautilus: Cérebro",
+        "description": "Um componente de fabricação de sentinelas.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "鹦鹉螺 头部",
+        "description": "一个守护的制作部件。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "鸚鵡螺 頭部",
+        "description": "製作守護的部件。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "es": {
+        "item_name": "Nautilus: Cerebro",
+        "description": "Un componente de fabricación de centinela.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "it": {
+        "item_name": "Nautilus - Cervello",
+        "description": "Un componente per la costruzione di una sentinella.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Nautilus: Mózg",
+        "description": "Element wytwarzania Strażników.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "trading_tax": 2000
+}

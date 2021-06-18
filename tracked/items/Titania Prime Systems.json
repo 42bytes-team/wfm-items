@@ -1,0 +1,240 @@
+{
+    "_id": "5e839494267539077b0dd6b0",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "systems",
+        "warframe"
+    ],
+    "icon": "icons/en/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.png",
+    "thumb": "icons/en/thumbs/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/systems_128x128.png",
+    "url_name": "titania_prime_systems",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeSystemsBlueprint"
+    },
+    "part_of_set": [
+        "titania_prime_set",
+        "titania_prime_chassis",
+        "titania_prime_systems",
+        "titania_prime_neuroptics",
+        "titania_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Titania Prime Systems",
+        "description": "Systems component of the Titania Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "Axi T5 Relic (Rare)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Neo T3 Relic (Rare)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "Lith T4 Relic (Rare)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Титания Прайм: Система",
+        "description": "Компонент варфрейма Титания Прайм: Система.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси T5 (Редкий)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Реликвия Нео T3 (Редкий)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "Реликвия Лит T4 (Редкий)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "티타니아 프라임 시스템",
+        "description": "티타니아 프라임 워프레임의 시스템 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "액시 T5 성유물 (레어)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "네오 T3 성유물 (레어)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "리스 T4 성유물 (레어)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Titania Prime: Systeme",
+        "description": "Systeme-Komponente für den Titania Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nikana_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: T5 (Selten)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Neo-relikt: T3 (Selten)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "Lith-relikt: T4 (Selten)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Titania Prime - Systèmes",
+        "description": "Le composant Systèmes de la Warframe Titania Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi T5 (Rare)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Relique Neo T3 (Rare)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "Relique Lith T4 (Rare)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Titania Prime: Sistemas",
+        "description": "Sistemas componentes do Warframe Titania Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nikana_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi T5 (Raro)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Relíquia Neo T3 (Raro)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "Relíquia Lith T4 (Raro)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Titania Prime 系统",
+        "description": "Titania Prime 战甲的系统组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "后纪 T5 遗物 (稀有)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "中纪 T3 遗物 (稀有)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "古纪 T4 遗物 (稀有)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Titania Prime 系統",
+        "description": "Titania Prime Warframe 的系統組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "後紀 T5 遺物 (稀有)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "中紀 T3 遺物 (稀有)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "古紀 T4 遺物 (稀有)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Sistemas De Titania Prime",
+        "description": "Componente de los sistemas del warframe Titania Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi T5 (Raro)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Reliquia Neo T3 (Raro)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "Reliquia Lith T4 (Raro)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Titania Prime - Sistemi",
+        "description": "Il componente Sistemi per il Warframe Titania Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nikana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi T5 (Rare)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Reliquia Neo T3 (Rare)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "Reliquia Lith T4 (Rare)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Titania Prime: Systemy",
+        "description": "Systemy dla Warframe Titania Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi T5 (Rzadki)",
+                "link": "axi_t5_relic"
+            },
+            {
+                "name": "Relikt Neo T3 (Rzadki)",
+                "link": "neo_t3_relic"
+            },
+            {
+                "name": "Relikt Lith T4 (Rzadki)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "mastery_level": 2,
+    "ducats": 100,
+    "trading_tax": 2000
+}

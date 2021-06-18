@@ -1,0 +1,238 @@
+{
+    "_id": "5e839495267539077b0dd6cc",
+    "tags": [
+        "blueprint",
+        "prime",
+        "warframe"
+    ],
+    "icon": "icons/en/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.png",
+    "thumb": "icons/en/thumbs/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "titania_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeBlueprint"
+    },
+    "part_of_set": [
+        "titania_prime_set",
+        "titania_prime_chassis",
+        "titania_prime_systems",
+        "titania_prime_neuroptics",
+        "titania_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Titania Prime Blueprint",
+        "description": "Tempting and terrifying, this is Titania in her ultimate form.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "Neo P2 Relic (Uncommon)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Neo D2 Relic (Uncommon)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Lith M5 Relic (Uncommon)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Титания Прайм: Чертеж",
+        "description": "Царственна и наводящая ужас - Титания в форме совершенства.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео P2 (Необычный)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Реликвия Нео D2 (Необычный)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Реликвия Лит M5 (Необычный)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "티타니아 프라임 설계도",
+        "description": "매혹적이면서도 공포스러운, 티타니아의 궁극적인 모습입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "네오 P2 성유물 (언커먼)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "네오 D2 성유물 (언커먼)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "리스 M5 성유물 (언커먼)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Titania Prime: Blaupause",
+        "description": "Versuchend und erschreckend, dies ist Titania in ihrer ultimativen Form.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nikana_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: P2 (Ungewöhnlich)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Neo-relikt: D2 (Ungewöhnlich)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Lith-relikt: M5 (Ungewöhnlich)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Titania Prime - Schéma",
+        "description": "Envoûtante et terrifiante, voici Titania dans sa forme ultime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo P2 (Inhabituel)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Relique Neo D2 (Inhabituel)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Relique Lith M5 (Inhabituel)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Titania Prime: Diagram",
+        "description": "Encantadora e aterrorizante, esta é a Titania em sua forma final.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nikana_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo P2 (Incomum)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Relíquia Neo D2 (Incomum)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Relíquia Lith M5 (Incomum)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Titania Prime 蓝图",
+        "description": "诱人而又令人恐惧，这就是 Titania 的终极形态。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "中纪 P2 遗物 (罕见)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "中纪 D2 遗物 (罕见)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "古纪 M5 遗物 (罕见)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Titania Prime 藍圖",
+        "description": "誘人且駭人，這是 Titania 的最終形態。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "中紀 P2 遺物 (罕見)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "中紀 D2 遺物 (罕見)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "古紀 M5 遺物 (罕見)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Titania Prime",
+        "description": "Tentadora y aterradora, esta es Titania en su forma definitiva.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo P2 (Poco Común)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Reliquia Neo D2 (Poco Común)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Reliquia Lith M5 (Poco Común)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Titania Prime Blueprint",
+        "description": "Allettante e terrificante, questa è Titania nella sua forma definitiva.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nikana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo P2 (Uncommon)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Reliquia Neo D2 (Uncommon)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Reliquia Lith M5 (Uncommon)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Titania Prime: Schemat",
+        "description": "Kusząca i przerażająca jest Titania w swojej ostatecznej formie.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Titania_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo P2 (Nieprzeciętny)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Relikt Neo D2 (Nieprzeciętny)",
+                "link": "neo_d2_relic"
+            },
+            {
+                "name": "Relikt Lith M5 (Nieprzeciętny)",
+                "link": "lith_m5_relic"
+            }
+        ]
+    },
+    "mastery_level": 2,
+    "ducats": 45,
+    "trading_tax": 2000
+}

@@ -1,0 +1,85 @@
+{
+    "_id": "6056348190a69e004e862877",
+    "tags": [
+        "mod",
+        "rare",
+        "railjack"
+    ],
+    "icon": "icons/en/crimson_fugue.54c9d8f1ffb1e92ac7f11aa81e1fcd60.png",
+    "thumb": "icons/en/thumbs/crimson_fugue.54c9d8f1ffb1e92ac7f11aa81e1fcd60.128x128.png",
+    "icon_format": "port",
+    "url_name": "crimson_fugue",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanDamageOnKill"
+    },
+    "en": {
+        "item_name": "Crimson Fugue",
+        "description": "+35% Turret Damage per enemy destroyed, for 8s (Maximum 5 stacks)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Кровавое Помрачение",
+        "description": "+35% к урону турели за каждого убитого врага на 8с (складывается до 5 раз)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ko": {
+        "item_name": "크림슨 푸가",
+        "description": "8초 동안 처치한 적 당 +35% 포탑 피해 증가 (최대 5회 중첩)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "de": {
+        "item_name": "Purpurne Flut",
+        "description": "+35 % Geschützschaden pro zerstörtem Gegner für 8 s (max. 5 Stapel)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Passe Pourpre",
+        "description": "+35% de Dégâts de Tourelles par ennemi éliminé pendant 8s (se cumule jusqu'à 5x)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Chacina Carmesim",
+        "description": "+35% de Dano das Torres durante 8s para cada inimigo destruído (Limite de 5 Acúmulos)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "猩红逐击",
+        "description": "每击落一个敌方单位，炮台伤害增加 35%，持续 8 秒（最多叠加 5 次）",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "赤紅賦格",
+        "description": "每擊殺一名敵人，增加砲塔傷害 35%，持續 8 秒（最多疊加 5 次）",
+        "wiki_link": null,
+        "drop": []
+    },
+    "es": {
+        "item_name": "Fuga Carmesí",
+        "description": "+35 % a daño de torreta por enemigo asesinado durante 8 s (se acumula un máximo de 5)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "it": {
+        "item_name": "Crimson Fugue",
+        "description": "+35% Danno Torrette per ogni nemico distrutto per 8s (si accumula fino a 5 volte)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Karmazynowa Fatyga",
+        "description": "+35% Obrażeń Wieżyczek za każdego zabitego wroga na 8s (kumuluje się do 5 razy)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "rarity": "rare",
+    "max_rank": 10,
+    "trading_tax": 8000
+}

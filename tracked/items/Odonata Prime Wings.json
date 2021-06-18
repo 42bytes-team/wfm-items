@@ -1,0 +1,284 @@
+{
+    "_id": "5527a280e779892059574ca9",
+    "tags": [
+        "archwing",
+        "component",
+        "wings",
+        "blueprint",
+        "prime"
+    ],
+    "icon": "icons/en/odonata_prime_wings.9087f5267b49dee37c38d36f57387753.png",
+    "thumb": "icons/en/thumbs/odonata_prime_wings.9087f5267b49dee37c38d36f57387753.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/wings_128x128.png",
+    "url_name": "odonata_prime_wings",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingWingsBlueprint"
+    },
+    "part_of_set": [
+        "odonata_prime_set",
+        "odonata_prime_blueprint",
+        "odonata_prime_harness",
+        "odonata_prime_systems",
+        "odonata_prime_wings"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Odonata Prime Wings",
+        "description": "Wings component of the Odonata Prime Archwing.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "Axi N1 Relic (Uncommon)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "Neo O1 Relic (Rare)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "Meso O3 Relic (Rare)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Lith O2 Relic (Rare)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Одоната Прайм: Крылья",
+        "description": "Компонент: Крылья Одонаты Прайм.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B4%D0%BE%D0%BD%D0%B0%D1%82%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси N1 (Необычный)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "Реликвия Нео O1 (Редкий)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "Реликвия Мезо O3 (Редкий)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Реликвия Лит O2 (Редкий)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "오도나타 프라임 윙즈",
+        "description": "아크윙 오도나타 프라임의 날개 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "액시 N1 성유물 (언커먼)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "네오 O1 성유물 (레어)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "메소 O3 성유물 (레어)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "리스 O2 성유물 (레어)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Odonata Prime: Flügel",
+        "description": "Flügel-Komponente für den Odonata Prime Archwing.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: N1 (Ungewöhnlich)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "Neo-relikt: O1 (Selten)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "Meso-relikt: O3 (Selten)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Lith-relikt: O2 (Selten)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Odonata Prime - Ailes",
+        "description": "Le composant Ailes de l'Archwing Odonata Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi N1 (Inhabituel)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "Relique Neo O1 (Rare)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "Relique Meso O3 (Rare)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Relique Lith O2 (Rare)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Odonata Prime: Asas",
+        "description": "Asas componentes da Odonata Prime Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi N1 (Incomum)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "Relíquia Neo O1 (Raro)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "Relíquia Meso O3 (Raro)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Relíquia Lith O2 (Raro)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Odonata Prime 机翼",
+        "description": "Odonata Prime Archwing 的机翼组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "后纪 N1 遗物 (罕见)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "中纪 O1 遗物 (稀有)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "前纪 O3 遗物 (稀有)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "古纪 O2 遗物 (稀有)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Odonata Prime 機翼",
+        "description": "Odonata Prime Archwing 的機翼組件",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "後紀 N1 遺物 (罕見)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "中紀 O1 遺物 (稀有)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "前紀 O3 遺物 (稀有)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "古紀 O2 遺物 (稀有)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Alas Odonata Prime",
+        "description": "Componente de las alas del archwing Odonata Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi N1 (Poco Común)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "Reliquia Neo O1 (Raro)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "Reliquia Meso O3 (Raro)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Reliquia Lith O2 (Raro)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Odonata Prime - Ali",
+        "description": "Il componente Ali per l'Archwing Odonata Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Oberon_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi N1 (Uncommon)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "Reliquia Neo O1 (Rare)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "Reliquia Meso O3 (Rare)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Reliquia Lith O2 (Rare)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Odonata Prime: Skrzydła",
+        "description": "Skrzydła dla Archwing Odonata Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Odonata_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi N1 (Nieprzeciętny)",
+                "link": "axi_n1_relic"
+            },
+            {
+                "name": "Relikt Neo O1 (Rzadki)",
+                "link": "neo_o1_relic"
+            },
+            {
+                "name": "Relikt Meso O3 (Rzadki)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Relikt Lith O2 (Rzadki)",
+                "link": "lith_o2_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 65,
+    "trading_tax": 2000
+}

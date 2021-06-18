@@ -1,0 +1,91 @@
+{
+    "_id": "5719559c4445c3e28b80fc7c",
+    "tags": [
+        "blueprint",
+        "landing craft",
+        "fuselage"
+    ],
+    "icon": "icons/en/Mantis_Set.ad4af600ad045a7f871b5c9287267114.png",
+    "thumb": "icons/en/thumbs/Mantis_Set.ad4af600ad045a7f871b5c9287267114.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/fuselage_128x128.png",
+    "url_name": "mantis_fuselage",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/Mantys/MantysExoskeletonBlueprint"
+    },
+    "part_of_set": [
+        "mantis_set",
+        "mantis_avionics",
+        "mantis_engines",
+        "mantis_fuselage"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Mantis Fuselage",
+        "description": "Fuselage component of the Mantis landing craft.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Mantis",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Мантис: Фюзеляж",
+        "description": "Компонент корабля 'Мантис': Фюзеляж.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B8%D1%81",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "맨티스 동체",
+        "description": "맨티스 착륙정의 동체 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Mantis",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Mantis: Rumpf",
+        "description": "Die Rumpf-Komponente für das Mantis Landungsschiff.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Mantis",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Mantis - Fuselage",
+        "description": "Le composant Fuselage du Mantis.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mantis",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Mantis: Fuselagem",
+        "description": "Fuselagem componente da Nave de Pouso Mantis.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Manic",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "Mantis 机身",
+        "description": "Mantis 登陆艇的机身部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "Mantis 機身",
+        "description": "Mantis 登陸艇的機身部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Fuselaje De Mantis",
+        "description": "Componente de fuselaje de la nave de desembarco Mantis.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mantis",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Mantis - Fusoliera",
+        "description": "Componente Fusoliera della navicella Mantis.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Manic",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Mantis: Kadłub",
+        "description": "Kadłub statku desantowego Mantis.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mantis",
+        "drop": []
+    },
+    "trading_tax": 2000
+}

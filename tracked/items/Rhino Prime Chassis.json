@@ -1,0 +1,196 @@
+{
+    "_id": "54a73e65e779893a797fff78",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "chassis",
+        "warframe"
+    ],
+    "icon": "icons/en/rhino_prime_chassis.22301207f9463fe9ab215e40eb23a326.png",
+    "thumb": "icons/en/thumbs/rhino_prime_chassis.22301207f9463fe9ab215e40eb23a326.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "rhino_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "rhino_prime_set",
+        "rhino_prime_blueprint",
+        "rhino_prime_chassis",
+        "rhino_prime_neuroptics",
+        "rhino_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Rhino Prime Chassis",
+        "description": "Chassis component of the Rhino Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Meso M1 Relic (Uncommon)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Meso N6 Relic (Uncommon)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Рино Прайм: Каркас",
+        "description": "Компонент варфрейма Рино Прайм: Каркас.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B8%D0%BD%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Мезо M1 (Необычный)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Реликвия Мезо N6 (Необычный)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "라이노 프라임 섀시",
+        "description": "라이노 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "메소 M1 성유물 (언커먼)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "메소 N6 성유물 (언커먼)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Rhino Prime: Chassis",
+        "description": "Chassis-Komponente für den Rhino Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Meso-relikt: M1 (Ungewöhnlich)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Meso-relikt: N6 (Ungewöhnlich)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Rhino Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Rhino Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rhino_prime",
+        "drop": [
+            {
+                "name": "Relique Meso M1 (Inhabituel)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Relique Meso N6 (Inhabituel)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Rhino Prime: Chassi",
+        "description": "Chassi componente do Warframe Rhino Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Meso M1 (Incomum)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Relíquia Meso N6 (Incomum)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Rhino Prime 机体",
+        "description": "Rhino Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "前纪 M1 遗物 (罕见)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "前纪 N6 遗物 (罕见)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Rhino Prime 機體",
+        "description": "Rhino Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "前紀 M1 遺物 (罕見)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "前紀 N6 遺物 (罕見)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Rhino Prime",
+        "description": "Componente del chasis del warframe Rhino Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso M1 (Poco Común)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Reliquia Meso N6 (Poco Común)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Rhino Prime - Chassis",
+        "description": "Il componente Chassis per il Warframe Rhino.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso M1 (Uncommon)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Reliquia Meso N6 (Uncommon)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Rhino Prime: Powłoka",
+        "description": "Powłoka dla Warframe'a Rhino Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Relikt Meso M1 (Nieprzeciętny)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Relikt Meso N6 (Nieprzeciętny)",
+                "link": "meso_n6_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 65,
+    "trading_tax": 2000
+}

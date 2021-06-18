@@ -1,0 +1,503 @@
+{
+    "_id": "58358a062c2ada0047b386f7",
+    "tags": [
+        "warframe",
+        "component",
+        "blueprint",
+        "prime"
+    ],
+    "icon": "icons/en/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.png",
+    "thumb": "icons/en/thumbs/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/neuroptics_128x128.png",
+    "url_name": "valkyr_prime_neuroptics",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeHelmetBlueprint"
+    },
+    "part_of_set": [
+        "valkyr_prime_set",
+        "valkyr_prime_blueprint",
+        "valkyr_prime_chassis",
+        "valkyr_prime_neuroptics",
+        "valkyr_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Valkyr Prime Neuroptics",
+        "description": "Neuroptics component of the Valkyr Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "Neo N7 Relic (Uncommon)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Meso V4 Relic (Uncommon)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "Meso N8 Relic (Uncommon)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "Meso N11 Relic (Uncommon)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "Meso C2 Relic (Uncommon)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Meso D2 Relic (Uncommon)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "Lith S6 Relic (Uncommon)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Lith C5 Relic (Uncommon)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Lith T1 Relic (Uncommon)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Валькирия Прайм: Нейрооптика",
+        "description": "Компонент варфрейма Валькирия Прайм: нейрооптика.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D0%BA%D0%B8%D1%80%D0%B8%D1%8F_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео N7 (Необычный)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Реликвия Мезо V4 (Необычный)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "Реликвия Мезо N8 (Необычный)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "Реликвия Мезо N11 (Необычный)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "Реликвия Мезо C2 (Необычный)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Реликвия Мезо D2 (Необычный)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "Реликвия Лит S6 (Необычный)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Реликвия Лит C5 (Необычный)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Реликвия Лит T1 (Необычный)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "발키르 프라임 뉴로옵틱스",
+        "description": "발키르 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "네오 N7 성유물 (언커먼)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "메소 V4 성유물 (언커먼)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "메소 N8 성유물 (언커먼)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "메소 N11 성유물 (언커먼)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "메소 C2 성유물 (언커먼)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "메소 D2 성유물 (언커먼)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "리스 S6 성유물 (언커먼)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "리스 C5 성유물 (언커먼)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "리스 T1 성유물 (언커먼)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Valkyr Prime: Neuroptik",
+        "description": "Neuroptik-Komponente für den Valkyr Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: N7 (Ungewöhnlich)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Meso-relikt: V4 (Ungewöhnlich)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "Meso-relikt: N8 (Ungewöhnlich)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "Meso-relikt: N11 (Ungewöhnlich)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "Meso-relikt: C2 (Ungewöhnlich)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Meso-relikt: D2 (Ungewöhnlich)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "Lith-relikt: S6 (Ungewöhnlich)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Lith-relikt: C5 (Ungewöhnlich)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Lith-relikt: T1 (Ungewöhnlich)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Valkyr Prime - Neuroptiques",
+        "description": "Le composant Neuroptiques de la Warframe Valkyr Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo N7 (Inhabituel)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Relique Meso V4 (Inhabituel)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "Relique Meso N8 (Inhabituel)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "Relique Meso N11 (Inhabituel)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "Relique Meso C2 (Inhabituel)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Relique Meso D2 (Inhabituel)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "Relique Lith S6 (Inhabituel)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Relique Lith C5 (Inhabituel)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Relique Lith T1 (Inhabituel)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Valkyr Prime: Neurovisor",
+        "description": "Neurovisor componente do Warframe Valkyr Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo N7 (Incomum)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Relíquia Meso V4 (Incomum)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "Relíquia Meso N8 (Incomum)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "Relíquia Meso N11 (Incomum)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "Relíquia Meso C2 (Incomum)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Relíquia Meso D2 (Incomum)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "Relíquia Lith S6 (Incomum)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Relíquia Lith C5 (Incomum)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Relíquia Lith T1 (Incomum)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Valkyr Prime 头部神经光元",
+        "description": "Valkyr Prime 战甲的头部神经光元组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "中纪 N7 遗物 (罕见)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "前纪 V4 遗物 (罕见)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "前纪 N8 遗物 (罕见)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "前纪 N11 遗物 (罕见)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "前纪 C2 遗物 (罕见)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "前纪 D2 遗物 (罕见)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "古纪 S6 遗物 (罕见)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "古纪 C5 遗物 (罕见)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "古纪 T1 遗物 (罕见)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Valkyr Prime 頭部神經光元",
+        "description": "Valkyr Prime Warframe 的頭部神經光元組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "中紀 N7 遺物 (罕見)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "前紀 V4 遺物 (罕見)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "前紀 N8 遺物 (罕見)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "前紀 N11 遺物 (罕見)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "前紀 C2 遺物 (罕見)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "前紀 D2 遺物 (罕見)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "古紀 S6 遺物 (罕見)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "古紀 C5 遺物 (罕見)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "古紀 T1 遺物 (罕見)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Neurópticas De Valkyr Prime",
+        "description": "Componente de las neurópticas del warframe Valkyr Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo N7 (Poco Común)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Reliquia Meso V4 (Poco Común)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "Reliquia Meso N8 (Poco Común)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "Reliquia Meso N11 (Poco Común)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "Reliquia Meso C2 (Poco Común)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Reliquia Meso D2 (Poco Común)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "Reliquia Lith S6 (Poco Común)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Reliquia Lith C5 (Poco Común)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Reliquia Lith T1 (Poco Común)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Valkyr Prime - Neurottiche",
+        "description": "Il componente Neurottiche per il Warframe Valkyr Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo N7 (Uncommon)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Reliquia Meso V4 (Uncommon)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "Reliquia Meso N8 (Uncommon)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "Reliquia Meso N11 (Uncommon)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "Reliquia Meso C2 (Uncommon)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Reliquia Meso D2 (Uncommon)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "Reliquia Lith S6 (Uncommon)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Reliquia Lith C5 (Uncommon)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Reliquia Lith T1 (Uncommon)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Valkyr Prime: Neurooptyka",
+        "description": "Neurooptyka dla Warframe Valkyr Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Valkyr_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo N7 (Nieprzeciętny)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Relikt Meso V4 (Nieprzeciętny)",
+                "link": "meso_v4_relic"
+            },
+            {
+                "name": "Relikt Meso N8 (Nieprzeciętny)",
+                "link": "meso_n8_relic"
+            },
+            {
+                "name": "Relikt Meso N11 (Nieprzeciętny)",
+                "link": "meso_n11_relic"
+            },
+            {
+                "name": "Relikt Meso C2 (Nieprzeciętny)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Relikt Meso D2 (Nieprzeciętny)",
+                "link": "meso_d2_relic"
+            },
+            {
+                "name": "Relikt Lith S6 (Nieprzeciętny)",
+                "link": "lith_s6_relic"
+            },
+            {
+                "name": "Relikt Lith C5 (Nieprzeciętny)",
+                "link": "lith_c5_relic"
+            },
+            {
+                "name": "Relikt Lith T1 (Nieprzeciętny)",
+                "link": "lith_t1_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

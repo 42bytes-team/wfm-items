@@ -1,0 +1,326 @@
+{
+    "_id": "5ab1570db2b6a8044d5137c2",
+    "tags": [
+        "warframe",
+        "blueprint",
+        "prime"
+    ],
+    "icon": "icons/en/Zephyr_Prime_Set.4ffc19dd100b3c182beef5f1ef3d337e.png",
+    "thumb": "icons/en/thumbs/Zephyr_Prime_Set.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "zephyr_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeBlueprint"
+    },
+    "part_of_set": [
+        "zephyr_prime_set",
+        "zephyr_prime_neuroptics",
+        "zephyr_prime_blueprint",
+        "zephyr_prime_chassis",
+        "zephyr_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Zephyr Prime Blueprint",
+        "description": "Take to the skies with this golden bird of destruction.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "Axi G5 Relic (Uncommon)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Neo Z1 Relic (Rare)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Neo Z2 Relic (Rare)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Neo Z4 Relic (Rare)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "Meso Z1 Relic (Rare)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Зефир Прайм: Чертеж",
+        "description": "Воспарите в небеса вместе с этой золотой птицей разрушения.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B5%D1%84%D0%B8%D1%80_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси G5 (Необычный)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Реликвия Нео Z1 (Редкий)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Реликвия Нео Z2 (Редкий)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Реликвия Нео Z4 (Редкий)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "Реликвия Мезо Z1 (Редкий)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "제피르 프라임 설계도",
+        "description": "이 황금빛 파멸의 새와 함께 하늘로 날아오르세요.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "액시 G5 성유물 (언커먼)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "네오 Z1 성유물 (레어)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "네오 Z2 성유물 (레어)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "네오 Z4 성유물 (레어)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "메소 Z1 성유물 (레어)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Zephyr Prime: Blaupause",
+        "description": "Erhebe dich in den Himmel mit diesem golden Vogel der Zerstörung.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: G5 (Ungewöhnlich)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Neo-relikt: Z1 (Selten)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Neo-relikt: Z2 (Selten)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Neo-relikt: Z4 (Selten)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "Meso-relikt: Z1 (Selten)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Zephyr Prime - Schéma",
+        "description": "Envolez-vous dans les cieux avec cet oiseau doré et destructeur.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi G5 (Inhabituel)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Relique Neo Z1 (Rare)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Relique Neo Z2 (Rare)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Relique Neo Z4 (Rare)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "Relique Meso Z1 (Rare)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Zephyr Prime: Diagram",
+        "description": "Vá aos céus com este pássaro dourado da destruição.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi G5 (Incomum)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Relíquia Neo Z1 (Raro)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Relíquia Neo Z2 (Raro)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Relíquia Neo Z4 (Raro)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "Relíquia Meso Z1 (Raro)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Zephyr Prime 蓝图",
+        "description": "用这只富有破坏力的金色小鸟飞向天空。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "后纪 G5 遗物 (罕见)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "中纪 Z1 遗物 (稀有)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "中纪 Z2 遗物 (稀有)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "中纪 Z4 遗物 (稀有)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "前纪 Z1 遗物 (稀有)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Zephyr Prime 藍圖",
+        "description": "用這隻富有破壞力的金色小鳥飛向天空。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "後紀 G5 遺物 (罕見)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "中紀 Z1 遺物 (稀有)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "中紀 Z2 遺物 (稀有)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "中紀 Z4 遺物 (稀有)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "前紀 Z1 遺物 (稀有)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Zephyr Prime",
+        "description": "Llega a los cielos con esta dorada ave de destrucción.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi G5 (Poco Común)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Reliquia Neo Z1 (Raro)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Reliquia Neo Z2 (Raro)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Reliquia Neo Z4 (Raro)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "Reliquia Meso Z1 (Raro)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Zephyr Prime Blueprint",
+        "description": "Prendi il volo con questo uccello dorato di distruzione.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Reaper_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi G5 (Uncommon)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Reliquia Neo Z1 (Rare)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Reliquia Neo Z2 (Rare)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Reliquia Neo Z4 (Rare)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "Reliquia Meso Z1 (Rare)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Zephyr Prime: Schemat",
+        "description": "Wzbij się w przestworza tym złotym ptakiem zniszczenia.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zephyr_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi G5 (Nieprzeciętny)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Relikt Neo Z1 (Rzadki)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Relikt Neo Z2 (Rzadki)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Relikt Neo Z4 (Rzadki)",
+                "link": "neo_z4_relic"
+            },
+            {
+                "name": "Relikt Meso Z1 (Rzadki)",
+                "link": "meso_z1_relic"
+            }
+        ]
+    },
+    "mastery_level": 6,
+    "ducats": 65,
+    "trading_tax": 2000
+}

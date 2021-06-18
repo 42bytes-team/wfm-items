@@ -1,0 +1,48 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe65",
+    "url_name": "damage_vs_grineer",
+    "group": "default",
+    "prefix": "Argi",
+    "suffix": "Con",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponFactionDamageGrineer"
+    },
+    "en": {
+        "effect": "Damage to Grineer"
+    },
+    "ru": {
+        "effect": "Урон Гринир"
+    },
+    "ko": {
+        "effect": "그리니어에 대한 피해"
+    },
+    "de": {
+        "effect": "Schaden gegen Grineer"
+    },
+    "fr": {
+        "effect": "Dégâts aux Grineer"
+    },
+    "pt": {
+        "effect": "Damage vs. Grineer"
+    },
+    "zh-hans": {
+        "effect": "对Grineer伤害"
+    },
+    "zh-hant": {
+        "effect": "對Grineer傷害"
+    },
+    "es": {
+        "effect": "Daño contra Grineer"
+    },
+    "it": {
+        "effect": "Damage to Grineer"
+    },
+    "pl": {
+        "effect": "Obrażeń Zadawanych Grineer"
+    }
+}

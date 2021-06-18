@@ -1,0 +1,87 @@
+{
+    "_id": "5dbe9b0b7ea27b0ffe3ca270",
+    "tags": [
+        "mod",
+        "warframe",
+        "rare",
+        "parazon"
+    ],
+    "icon": "icons/en/failsafe.5c98665cb1898a1d4c2529c7b38cbccb.png",
+    "thumb": "icons/en/thumbs/failsafe.5c98665cb1898a1d4c2529c7b38cbccb.128x128.png",
+    "icon_format": "port",
+    "url_name": "failsafe",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnFailHackResetMod"
+    },
+    "en": {
+        "item_name": "Failsafe",
+        "description": "+50% to retry on Hacking failure",
+        "wiki_link": "https://warframe.fandom.com/wiki/Failsafe",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Отказоустойчивость",
+        "description": "+50% шанс дополнительной попытки взлома в случае неудачи",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C",
+        "icon": "icons/ru/failsafe.14f957497dbf1aac3bdfa072452333fe.png",
+        "thumb": "icons/ru/thumbs/failsafe.14f957497dbf1aac3bdfa072452333fe.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "페일세이프",
+        "description": "해킹 실패 시 +50% 확률로 재시도",
+        "wiki_link": "https://warframe.fandom.com/wiki/Failsafe",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Absicherung",
+        "description": "+50 % Chance Hacken bei Fehlschlag zu wiederholen",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicherung",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Sécurité Intégrée",
+        "description": "+50% de chances réinitialiser le Piratage après un échec",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/S%C3%A9curit%C3%A9_Int%C3%A9gr%C3%A9e",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Failsafe",
+        "description": "+50% de chance de nova tentativa em caso de falha de Invasão",
+        "wiki_link": "https://warframe.fandom.com/wiki/Failsafe",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "失效保险",
+        "description": "入侵失败后有 +50% 的几率重新尝试",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Failsafe",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "萬無一失",
+        "description": "入侵失敗後有 +50% 機率重新入侵",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Failsafe",
+        "drop": []
+    },
+    "es": {
+        "item_name": "A Prueba De Fallos",
+        "description": "+50% de probabilidad de volver a intentar un hackeo fallido",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/A_prueba_de_fallos",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Failsafe",
+        "description": "+50% di riprovare in caso di fallimento dell'Hacking",
+        "wiki_link": "https://warframe.fandom.com/wiki/Failsafe",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Tryb Awaryjny",
+        "description": "+50% szans na kolejne podejście do Hakowania w przypadku porażki",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tryb_Awaryjny",
+        "drop": []
+    },
+    "rarity": "rare",
+    "trading_tax": 8000
+}

@@ -3,77 +3,53 @@
 - [README](#readme)
   - [Directories](#directories)
   - [How to contribute](#how-to-contribute)
-  - [Contribution Workflow](#contribution-workflow)
+    - [Contribution Workflow](#contribution-workflow)
+    - [Contributing an Icon](#contributing-an-icon)
   - [File structure](#file-structure)
-    - [Common fields](#common-fields)
-    - [Mod exclusive fields](#mod-exclusive-fields)
-    - [Weapons and parts fields](#weapons-and-parts-fields)
-  - [Contributing an Icon](#contributing-an-icon)
+    - [Common item fields](#common-item-fields)
+      - [Mod exclusive fields](#mod-exclusive-fields)
+      - [Weapons and parts fields](#weapons-and-parts-fields)
+      - [Fish and relics](#fish-and-relics)
+      - [Sculptures](#sculptures)
+  - [Riven items](#riven-items)
+  - [Riven attributes](#riven-attributes)
+  - [Lich weapons](#lich-weapons)
+  - [Lich quirks](#lich-quirks)
+  - [Lich ephemeras](#lich-ephemeras)
   - [How to create Sets](#how-to-create-sets)
   - [How to define Tags](#how-to-define-tags)
-  - [Contribute a new Language](#contribute-a-new-language)
+
+> :warning: Riven attributes, despite being in `tracked` folder should be translated manually, because their names isn't translated inside the DE api.  
+> You can edit their "effect" names inside `tracked` folder.
 
 ## Directories
 
-1. `dump` - Database dump in json format.
-   1. `items` - common items, mods, warframes, scenes, etc. (non auctions)
-   2. `liches` - auctions, lich related entities. (used in auctions)
-   3. `rivens` - riven related entities. (used in auctions)
-2. `icons` - If it is not possible to provide an icon by url, you can copy icon here, in binary format. (`png`/`jpg`)
-3. `queued_updates` - Here are the files to be added to the database at the next upload.
-   1. `items` - common items (see dump).
-   2. `rivens` - riven related entities.
-   3. `liches` - lich related entities.
-4. `untranslated` - List of untranslated items.
+1. `tracked` - All these items are managed automatically and should stay in sync with DE api.
+2. `untracked` - These items require manual intervention to stay up to date
+3. `missing` - If item is missing from WFM, you can add it here.
+4. `icons` - If it is not possible to provide an icon by url, you can copy icon here, in binary format. (`png`/`jpg`)
+
+Subdirectories:  
+
+1. `items` - common items, mods, warframes, scenes, etc.
+2. `rivens` - riven related entities. (used in auctions)
+3. `liches` - lich related entities. (used in auctions)
 
 ## How to contribute
 
 By issuing Pull requests, "rebase" workflow.
 
-## Contribution Workflow
+### Contribution Workflow
 
-1. Add a new item or copy an old one into `queued_updates` folder in `%item_name%.json` format.
-2. Apply desired changes to these files.
+1. If item is exist on the site find it inside `tracked`\\`untracked` folder.
+   If item is missing from the site, create a new file inside `missing` folder (`%item_name%.json` format).
+2. Apply desired changes to the file(s).
 3. Commit with short description of your changes.
 4. Send a pull request.
 5. I'll review these changes and if everything is ok, i'll accept your pull request.
 6. All changes will be merged into WFM database in a few days.
-7. New `dump` will be created along with a new commit.
 
-## File structure
-
-### Common fields
-
-1. `_id` - id of an item, do not modify it, and do not create it (in case of adding a new item)
-2. `tags` - not used right now in any way, but it still prefarable to add them.
-3. `icon` - local or remore path to the icon, check [This section](####Contributing-an-Icon)
-4. `thumb` - Will be generated automatically.
-5. `icon_format` - Will b generated automatically.
-6. `sub_icon` - sub icon of an item, represent part of the set, like `handle` or `grip`, check [This section](####Sets)
-7. `url_name` - Will be generated automatically.
-8. `tradable` - This item is tradable. (`true`/`false`)
-9. `part_of_set` - This item is part of a set. (`true`/`false`)
-10. `set_root` - This item is set itself, like `Some Prime Set`, it's parrent of other parts.
-11. `en` \ `ru` \ `ko` - lang specific subdocument.
-    1. `item_name` - Name of an item.
-    2. `description` - Item descriptrion.
-    3. `wiki_link` - Link to the wiki.
-    4. `drop` - Drop locations.
-       1. `name` - Name of the location.
-       2. `link` - link to the resource (wiki or wfm).
-12. `trading_tax` - Tax
-
-### Mod exclusive fields
-
-1. `rarity` - Mod rarity.
-2. `mod_max_rank` - Maximum possible mod\\arcane rank.
-
-### Weapons and parts fields
-
-1. `mastery_level` - mastery requirenment.
-2. `ducats` - Costs in ducats.
-
-## Contributing an Icon
+### Contributing an Icon
 
 From a remote source:  
 `"icon": "https://vignette.wikia.nocookie.net/warframe/images/6/6d/Hind.png"`
@@ -81,19 +57,97 @@ From a remote source:
 From the icon folder:  
 `"icon": "icons/<icon_file>"`
 
+## File structure
+
+### Common item fields
+
+1. `_id` - id of an item, do not modify it, and do not create it (in case of adding a new item)
+2. `tags` - not used right now in any way, but it still prefarable to add them.
+3. `icon` - local or remore path to the icon, check [This section](####Contributing-an-Icon)
+4. `thumb` - ~~autogenerated~~
+5. `icon_format` - ~~autogenerated~~
+6. `sub_icon` - sub icon of an item, represent part of the set, like `handle`/`grip`/`...`, could be path to local file or remote address.
+7. `url_name` - Will be generated automatically.
+8. `tradable` - This item is tradable. (`true`/`false`)
+9. `game_ref.uniq_name` - reference to the game uniq name.
+10. `part_of_set` - List of items in the set, url_name (`["zakti_prime_blueprint","zakti_prime_barrel", ...]`)
+11. `set_root` - This item is set itself, like `Some Prime Set`, it's parrent of other parts.
+12. `quantity_for_set` - How many parts is in the set.
+13. `en` \ `ru` \ `ko` \ `...` - lang specific subdocument.
+    1. `item_name` - Name of an item.
+    2. `description` - Item descriptrion.
+    3. `wiki_link` - Link to the wiki.
+    4. `icon` - lang specific icon.
+    5. `icon_format` - ~~autogenerated~~
+    6. `thumb` - ~~autogenerated~~
+    7. `drop` - Drop locations.
+       1. `name` - Name of the location.
+       2. `link` - link to the resource (wiki or wfm).
+14. `trading_tax` - Tax
+
+#### Mod exclusive fields
+
+1. `rarity` - Mod rarity.
+2. `max_rank` - Maximum possible Mod\\Arcane rank.
+
+#### Weapons and parts fields
+
+1. `mastery_level` - mastery requirenment.
+2. `ducats` - Costs in ducats.
+
+#### Fish and relics
+
+1. `subtypes` - fish or relic subtype, like `["intact",exceptional","flawless","radiant"]`.
+
+#### Sculptures
+
+Not implemented yet, but planned for one of the next updates
+
+1. `amber_stars` - max amount of amber stars
+2. `cyan_stars` - max amount of cyan stars
+
+## Riven items
+
+...
+
+## Riven attributes
+
+...
+
+## Lich weapons
+
+...
+
+## Lich quirks
+
+...
+
+## Lich ephemeras
+
+...
+
 ## How to create Sets
 
-If you want to add a set, just create a set of files, and put a flag `"part_of_set" : true` inside a main file. (`Some Prime Set.json`)  
-Our script will do the rest (crosslinks DB-documents with each other)
+If you want to add a set, just create a set of files, and put a flag `"set_root" : true` inside the set root file. (e.g. `Some Prime Set.json`)  
+Then link every part with eachother by defining `part_of_set` inside every file, in this way (Soma Prime as example):
 
-**For Example, Aklex**  
-You just need to create:
+```json
+"part_of_set": [
+   "soma_prime_set",
+   "soma_prime_barrel",
+   "soma_prime_blueprint",
+   "soma_prime_receiver",
+   "soma_prime_stock"
+],
+```
 
-1. `Aklex Prime Blueprint.json`
-2. `Aklex Prime Link.json`
-3. `Aklex Prime Set.json`
+↑ array of `url_name`
+
+**For an example**: check Soma Prime Set and its parts inside `tracked/items/` folder
 
 ## How to define Tags
+
+> For missing or untracked items only
 
 There is no strict convention, but you can use this logic:
 
@@ -102,14 +156,3 @@ There is no strict convention, but you can use this logic:
 3. Add additional definition, like `Prime` | `Corrupted` | `Huras`, `Rare`, etc.
 
 For example Rare Rifle Mod should have `[Mod, Rifle, Rare]` tags.
-
-## Contribute a new Language
-
-Currently i can only ~reliably support only `en` and `ru` localizations.
-
-> If you want to add another language, be sure that you will be able to finish your work.  
-> There is 2600+ items in WFM database, this could be a tough task.
-
-It's preferable to contribute translations for all items at once.
-
-Use one of [this](https://www.w3schools.com/tags/ref_language_codes.asp) lang codes, to add a new translation.

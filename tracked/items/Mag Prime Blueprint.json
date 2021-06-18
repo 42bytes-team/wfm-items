@@ -1,0 +1,238 @@
+{
+    "_id": "54a73e65e779893a797fff82",
+    "tags": [
+        "blueprint",
+        "prime",
+        "warframe"
+    ],
+    "icon": "icons/en/mag_prime_blueprint.2afb45373319b966737bd91cf05a813c.png",
+    "thumb": "icons/en/thumbs/mag_prime_blueprint.2afb45373319b966737bd91cf05a813c.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "mag_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/MagPrimeBlueprint"
+    },
+    "part_of_set": [
+        "mag_prime_set",
+        "mag_prime_blueprint",
+        "mag_prime_chassis",
+        "mag_prime_neuroptics",
+        "mag_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Mag Prime Blueprint",
+        "description": "The exquisite Mag Prime offers the same abilities as Mag but with unique mod polarities for greater customization.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Meso M1 Relic (Rare)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Lith M2 Relic (Rare)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "Lith M1 Relic (Rare)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Мэг Прайм: Чертеж",
+        "description": "Изящная Мэг Прайм имеет те же способности, что и Мэг, но имеет уникальные слоты полярности, позволяющие производить расширенную настройку модификаций.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D1%8D%D0%B3_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Мезо M1 (Редкий)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Реликвия Лит M2 (Редкий)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "Реликвия Лит M1 (Редкий)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "매그 프라임 설계도",
+        "description": "정교한 아름다움을 가진 매그 프라임은 매그와 동일한 능력을 제공하지만 특별한 추가 극성 슬롯을 가짐으로서 차별화 되었습니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "메소 M1 성유물 (레어)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "리스 M2 성유물 (레어)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "리스 M1 성유물 (레어)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Mag Prime: Blaupause",
+        "description": "Die ausgezeichnete Mag Prime bietet die gleichen Fähigkeiten wie Mag aber mit einzigartigen Mod-Polaritäten für größere Anpassungsfähigkeit.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Meso-relikt: M1 (Selten)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Lith-relikt: M2 (Selten)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "Lith-relikt: M1 (Selten)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Mag Prime - Schéma",
+        "description": "L'exquise Mag Prime offre les mêmes Pouvoirs que Mag mais avec des polarités de Mods uniques pour une plus grande personnalisation.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Relique Meso M1 (Rare)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Relique Lith M2 (Rare)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "Relique Lith M1 (Rare)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Mag Prime: Diagram",
+        "description": "A extraordinária Mag Prime oferece as mesmas habilidades da Mag, mas inclui polaridades de Mod alteradas para maior personalização.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Meso M1 (Raro)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Relíquia Lith M2 (Raro)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "Relíquia Lith M1 (Raro)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Mag Prime 蓝图",
+        "description": "精巧的 Mag Prime 与 Mag 拥有相同的技能，但其特有的 MOD 极性，容许了更多的自定义空间。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "前纪 M1 遗物 (稀有)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "古纪 M2 遗物 (稀有)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "古纪 M1 遗物 (稀有)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Mag Prime 藍圖",
+        "description": "精巧的 Mag Prime 與 Mag 擁有相同的技能，但其特有的 MOD 極性，容許了更多的自訂空間。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "前紀 M1 遺物 (稀有)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "古紀 M2 遺物 (稀有)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "古紀 M1 遺物 (稀有)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Mag Prime",
+        "description": "La exquisita Mag Prime ofrece las mismas habilidades que Mag pero con polaridades de mod únicas para una mayor personalización.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso M1 (Raro)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Reliquia Lith M2 (Raro)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "Reliquia Lith M1 (Raro)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Mag Prime Blueprint",
+        "description": "La raffinata Mag Prime offre le stesse abilità di Mag, ma con polarità uniche per una maggiore personalizzazione.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso M1 (Rare)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Reliquia Lith M2 (Rare)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "Reliquia Lith M1 (Rare)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Mag Prime: Schemat",
+        "description": "Wyrafinowana Mag Prime oferuje te same umiejętności co Mag, ale posiada unikatowe polaryzacje gniazd modów co pozwala na lepsze dopasowanie do stylu gry.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Relikt Meso M1 (Rzadki)",
+                "link": "meso_m1_relic"
+            },
+            {
+                "name": "Relikt Lith M2 (Rzadki)",
+                "link": "lith_m2_relic"
+            },
+            {
+                "name": "Relikt Lith M1 (Rzadki)",
+                "link": "lith_m1_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 100,
+    "trading_tax": 2000
+}

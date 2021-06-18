@@ -1,0 +1,282 @@
+{
+    "_id": "54a73e65e779893a797fff72",
+    "tags": [
+        "blueprint",
+        "prime",
+        "warframe"
+    ],
+    "icon": "icons/en/nyx_prime_blueprint.fd41c04c9e9bcc7e0e6963914f68f880.png",
+    "thumb": "icons/en/thumbs/nyx_prime_blueprint.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "nyx_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeBlueprint"
+    },
+    "part_of_set": [
+        "nyx_prime_set",
+        "nyx_prime_blueprint",
+        "nyx_prime_chassis",
+        "nyx_prime_neuroptics",
+        "nyx_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nyx Prime Blueprint",
+        "description": "Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Neo V9 Relic (Common)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Neo V1 Relic (Common)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Lith B4 Relic (Common)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "Lith S2 Relic (Common)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Никс Прайм: Чертеж",
+        "description": "Атакуйте разум ваших противников с Никс Прайм. Обладает дополнительными полярностями слотов для более тонкой настройки.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B8%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео V9 (Обычный)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Реликвия Нео V1 (Обычный)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Реликвия Лит B4 (Обычный)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "Реликвия Лит S2 (Обычный)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "닉스 프라임 설계도",
+        "description": "닉스 프라임과 함께 적의 정신에 침투해보세요. 더욱 다채로운 특성화를 위한 추가적인 모드 극성이 포함되어 있습니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "네오 V9 성유물 (커먼)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "네오 V1 성유물 (커먼)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "리스 B4 성유물 (커먼)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "리스 S2 성유물 (커먼)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Nyx Prime: Blaupause",
+        "description": "Dringe mit Nyx Prime in die Gedanken deiner Feinde ein. Mit veränderten Mod-Polaritäten für noch mehr Anpassungsmöglichkeiten.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: V9 (Gewöhnlich)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Neo-relikt: V1 (Gewöhnlich)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Lith-relikt: B4 (Gewöhnlich)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "Lith-relikt: S2 (Gewöhnlich)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Nyx Prime - Schéma",
+        "description": "Infiltrez-vous dans les pensées de vos ennemis avec Nyx Prime. Comporte d'ailleurs des polarités de mod modifiées pour permettre plus de personnalisation.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo V9 (Commun)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Relique Neo V1 (Commun)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Relique Lith B4 (Commun)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "Relique Lith S2 (Commun)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Nyx Prime: Diagram",
+        "description": "Infiltre-se na mente do inimigo com a Nyx Prime. Inclusas polaridades alteradas de mods para uma maior personalização.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo V9 (Comum)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Relíquia Neo V1 (Comum)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Relíquia Lith B4 (Comum)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "Relíquia Lith S2 (Comum)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Nyx Prime 蓝图",
+        "description": "通过 Nyx Prime 来渗透进敌人的精神中。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "中纪 V9 遗物 (常见)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "中纪 V1 遗物 (常见)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "古纪 B4 遗物 (常见)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "古纪 S2 遗物 (常见)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Nyx Prime 藍圖",
+        "description": "通過 Nyx Prime 來滲透進敵人的精神中。擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "中紀 V9 遺物 (常見)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "中紀 V1 遺物 (常見)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "古紀 B4 遺物 (常見)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "古紀 S2 遺物 (常見)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Nyx Prime",
+        "description": "Infíltrate en la mente de tus enemigos con Nyx Prime. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo V9 (Común)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Reliquia Neo V1 (Común)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Reliquia Lith B4 (Común)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "Reliquia Lith S2 (Común)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Nyx Prime Blueprint",
+        "description": "Penetra nella mente dei tuoi nemici con Nyx Prime. Presenta polarità mod alterate per una maggiore personalizzazione.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo V9 (Common)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Reliquia Neo V1 (Common)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Reliquia Lith B4 (Common)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "Reliquia Lith S2 (Common)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Nyx Prime: Schemat",
+        "description": "Przeniknij do umysłów swoich wrogów przy pomocy Nyx Prime. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo V9 (Powszechny)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Relikt Neo V1 (Powszechny)",
+                "link": "neo_v1_relic"
+            },
+            {
+                "name": "Relikt Lith B4 (Powszechny)",
+                "link": "lith_b4_relic"
+            },
+            {
+                "name": "Relikt Lith S2 (Powszechny)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 15,
+    "trading_tax": 2000
+}

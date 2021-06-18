@@ -1,0 +1,415 @@
+{
+    "_id": "5a311f84c2c9e90dfff475e4",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "melee",
+        "boot"
+    ],
+    "icon": "icons/en/kogake_prime_boot.456b865463108d6f6ff51da978f839cd.png",
+    "thumb": "icons/en/thumbs/kogake_prime_boot.456b865463108d6f6ff51da978f839cd.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/boot_128x128.png",
+    "url_name": "kogake_prime_boot",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/KogakePrimeBoot"
+    },
+    "part_of_set": [
+        "kogake_prime_set",
+        "kogake_prime_boot",
+        "kogake_prime_blueprint",
+        "kogake_prime_gauntlet"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Kogake Prime Boot",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "Axi A3 Relic (Common)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "Axi T2 Relic (Common)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "Axi A12 Relic (Common)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "Neo G1 Relic (Common)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "Meso M2 Relic (Common)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "Lith L1 Relic (Common)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Lith M7 Relic (Common)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Когаке Прайм: Ступня",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%B3%D0%B0%D0%BA%D0%B5_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси A3 (Обычный)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "Реликвия Акси T2 (Обычный)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "Реликвия Акси A12 (Обычный)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "Реликвия Нео G1 (Обычный)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "Реликвия Мезо M2 (Обычный)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "Реликвия Лит L1 (Обычный)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Реликвия Лит M7 (Обычный)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "코가케 프라임 부츠",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "액시 A3 성유물 (커먼)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "액시 T2 성유물 (커먼)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "액시 A12 성유물 (커먼)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "네오 G1 성유물 (커먼)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "메소 M2 성유물 (커먼)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "리스 L1 성유물 (커먼)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "리스 M7 성유물 (커먼)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Kogake Prime: Stiefel",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: A3 (Gewöhnlich)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "Axi-relikt: T2 (Gewöhnlich)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "Axi-relikt: A12 (Gewöhnlich)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "Neo-relikt: G1 (Gewöhnlich)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "Meso-relikt: M2 (Gewöhnlich)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "Lith-relikt: L1 (Gewöhnlich)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Lith-relikt: M7 (Gewöhnlich)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Kogake Prime - Botte",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi A3 (Commun)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "Relique Axi T2 (Commun)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "Relique Axi A12 (Commun)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "Relique Neo G1 (Commun)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "Relique Meso M2 (Commun)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "Relique Lith L1 (Commun)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Relique Lith M7 (Commun)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Kogake Prime: Chuteira",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi A3 (Comum)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "Relíquia Axi T2 (Comum)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "Relíquia Axi A12 (Comum)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "Relíquia Neo G1 (Comum)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "Relíquia Meso M2 (Comum)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "Relíquia Lith L1 (Comum)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Relíquia Lith M7 (Comum)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "科加基 Prime 靴子",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "后纪 A3 遗物 (常见)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "后纪 T2 遗物 (常见)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "后纪 A12 遗物 (常见)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "中纪 G1 遗物 (常见)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "前纪 M2 遗物 (常见)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "古纪 L1 遗物 (常见)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "古纪 M7 遗物 (常见)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "科加基 Prime 靴子",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "後紀 A3 遺物 (常見)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "後紀 T2 遺物 (常見)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "後紀 A12 遺物 (常見)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "中紀 G1 遺物 (常見)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "前紀 M2 遺物 (常見)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "古紀 L1 遺物 (常見)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "古紀 M7 遺物 (常見)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Bota De Kogake Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A3 (Común)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "Reliquia Axi T2 (Común)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "Reliquia Axi A12 (Común)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "Reliquia Neo G1 (Común)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "Reliquia Meso M2 (Común)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "Reliquia Lith L1 (Común)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Reliquia Lith M7 (Común)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Kogake Prime - Stivale",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A3 (Common)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "Reliquia Axi T2 (Common)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "Reliquia Axi A12 (Common)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "Reliquia Neo G1 (Common)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "Reliquia Meso M2 (Common)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "Reliquia Lith L1 (Common)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Reliquia Lith M7 (Common)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Kogake Prime: But",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kogake_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi A3 (Powszechny)",
+                "link": "axi_a3_relic"
+            },
+            {
+                "name": "Relikt Axi T2 (Powszechny)",
+                "link": "axi_t2_relic"
+            },
+            {
+                "name": "Relikt Axi A12 (Powszechny)",
+                "link": "axi_a12_relic"
+            },
+            {
+                "name": "Relikt Neo G1 (Powszechny)",
+                "link": "neo_g1_relic"
+            },
+            {
+                "name": "Relikt Meso M2 (Powszechny)",
+                "link": "meso_m2_relic"
+            },
+            {
+                "name": "Relikt Lith L1 (Powszechny)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Relikt Lith M7 (Powszechny)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 15,
+    "trading_tax": 2000
+}

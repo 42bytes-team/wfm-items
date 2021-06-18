@@ -1,0 +1,327 @@
+{
+    "_id": "5ca28670fc2db2035eae05a7",
+    "tags": [
+        "weapon",
+        "prime",
+        "primary",
+        "blueprint"
+    ],
+    "icon": "icons/en/stradavar_prime_blueprint.57c042a30996514288dfd70f2ce267ca.png",
+    "thumb": "icons/en/thumbs/stradavar_prime_blueprint.57c042a30996514288dfd70f2ce267ca.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "stradavar_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/StradavarPrimeBlueprint"
+    },
+    "part_of_set": [
+        "stradavar_prime_set",
+        "stradavar_prime_barrel",
+        "stradavar_prime_receiver",
+        "stradavar_prime_stock",
+        "stradavar_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Stradavar Prime Blueprint",
+        "description": "Between measured staccato and staggering crescendo, Stradavar Prime never fails to call down a devastating finale.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "Neo S12 Relic (Rare)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "Neo S14 Relic (Rare)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Neo S11 Relic (Rare)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "Lith S10 Relic (Rare)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "Lith S8 Relic (Rare)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Страдавар Прайм: Чертеж",
+        "description": "Размеренное стаккато или же ошеломляющее крещендо - Страдавар в любом случае завершит все разрушительным финалом.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D1%80_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео S12 (Редкий)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "Реликвия Нео S14 (Редкий)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Реликвия Нео S11 (Редкий)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "Реликвия Лит S10 (Редкий)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "Реликвия Лит S8 (Редкий)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "스트라다바 프라임 설계도",
+        "description": "스트라다바 프라임은 신중한 스타카토와 아찔한 크레센도 사이에서 항상 치명적인 피날레를 선사합니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "네오 S12 성유물 (레어)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "네오 S14 성유물 (레어)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "네오 S11 성유물 (레어)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "리스 S10 성유물 (레어)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "리스 S8 성유물 (레어)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Stradavar Prime: Blaupause",
+        "description": "Zwischen gemessenem Staccato und überwältigendem Crescendo, verpasst Stradavar Prime es nie, ein grandioses Finale hinzulegen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: S12 (Selten)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "Neo-relikt: S14 (Selten)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Neo-relikt: S11 (Selten)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "Lith-relikt: S10 (Selten)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "Lith-relikt: S8 (Selten)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Stradavar Prime - Schéma",
+        "description": "Entre les staccatos mesurés et les crescendos superposés, le Stradavar Prime mène toujours à un final dévastateur.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo S12 (Rare)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "Relique Neo S14 (Rare)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relique Neo S11 (Rare)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "Relique Lith S10 (Rare)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "Relique Lith S8 (Rare)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Stradavar Prime: Diagram",
+        "description": "Entre uma Staccato aferida e uma articulação ascendente, a Stradavar Prime nunca falha quando o tom final da nota significa devastação.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo S12 (Raro)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "Relíquia Neo S14 (Raro)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relíquia Neo S11 (Raro)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "Relíquia Lith S10 (Raro)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "Relíquia Lith S8 (Raro)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "斯特拉迪瓦 Prime 蓝图",
+        "description": "（英文：STRADAVAR PRIME）可在整齐的断奏和摇摆的渐强音之间自由切换，让斯特拉迪瓦 Prime 绝不错失任何一个给予毁灭终章的机会。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "中纪 S12 遗物 (稀有)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "中纪 S14 遗物 (稀有)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "中纪 S11 遗物 (稀有)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "古纪 S10 遗物 (稀有)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "古纪 S8 遗物 (稀有)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "斯特拉迪瓦 Prime 藍圖",
+        "description": "（英文：STRADAVAR PRIME）可在整齊的斷奏和搖擺的漸強音之間自由切換，讓斯特拉迪瓦 Prime 絕不錯失任何一個給予毀滅終章的機會。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "中紀 S12 遺物 (稀有)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "中紀 S14 遺物 (稀有)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "中紀 S11 遺物 (稀有)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "古紀 S10 遺物 (稀有)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "古紀 S8 遺物 (稀有)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Stradavar Prime",
+        "description": "Entre un staccato medido y un asombroso crescendo, la Stradavar Prime nunca falla en invocar un devastador final.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo S12 (Raro)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "Reliquia Neo S14 (Raro)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Reliquia Neo S11 (Raro)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "Reliquia Lith S10 (Raro)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "Reliquia Lith S8 (Raro)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Stradavar Prime Blueprint",
+        "description": "Tra un ritmico staccato e uno sbalorditivo crescendo, lo Stradavar Prime non fallisce mai nell'invocare un devastante finale.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Stradavar",
+        "drop": [
+            {
+                "name": "Reliquia Neo S12 (Rare)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "Reliquia Neo S14 (Rare)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Reliquia Neo S11 (Rare)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "Reliquia Lith S10 (Rare)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "Reliquia Lith S8 (Rare)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Stradavar Prime: Schemat",
+        "description": "Pomiędzy mierzonym staccato, a oszałamiającym crescendo, Stradavar Prime nigdy nie zawodzi niszczycielskim finałem.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Stradavar_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo S12 (Rzadki)",
+                "link": "neo_s12_relic"
+            },
+            {
+                "name": "Relikt Neo S14 (Rzadki)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relikt Neo S11 (Rzadki)",
+                "link": "neo_s11_relic"
+            },
+            {
+                "name": "Relikt Lith S10 (Rzadki)",
+                "link": "lith_s10_relic"
+            },
+            {
+                "name": "Relikt Lith S8 (Rzadki)",
+                "link": "lith_s8_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 100,
+    "trading_tax": 2000
+}

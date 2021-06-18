@@ -1,0 +1,242 @@
+{
+    "_id": "59a5cd4d5cd9938cfede7045",
+    "tags": [
+        "weapon",
+        "crossbow",
+        "prime",
+        "component",
+        "secondary",
+        "blueprint"
+    ],
+    "icon": "icons/en/Ballistica_Prime_Set.4ed33348008ace40406d0383f692ecac.png",
+    "thumb": "icons/en/thumbs/Ballistica_Prime_Set.4ed33348008ace40406d0383f692ecac.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/string_128x128.png",
+    "url_name": "ballistica_prime_string",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString"
+    },
+    "part_of_set": [
+        "ballistica_prime_set",
+        "ballistica_prime_blueprint",
+        "ballistica_prime_lower_limb",
+        "ballistica_prime_receiver",
+        "ballistica_prime_string",
+        "ballistica_prime_upper_limb"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ballistica Prime String",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Axi A4 Relic (Uncommon)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Meso G1 Relic (Uncommon)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Meso R1 Relic (Uncommon)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Баллистика Прайм: Тетива",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси A4 (Необычный)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Реликвия Мезо G1 (Необычный)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Реликвия Мезо R1 (Необычный)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "발리스티카 프라임 스트링",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "액시 A4 성유물 (언커먼)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "메소 G1 성유물 (언커먼)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "메소 R1 성유물 (언커먼)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Ballistica Prime: Sehne",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: A4 (Ungewöhnlich)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Meso-relikt: G1 (Ungewöhnlich)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Meso-relikt: R1 (Ungewöhnlich)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Ballistica Prime - Corde",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi A4 (Inhabituel)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Relique Meso G1 (Inhabituel)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Relique Meso R1 (Inhabituel)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Ballistica Prime: Cordão",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi A4 (Incomum)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Relíquia Meso G1 (Incomum)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Relíquia Meso R1 (Incomum)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "布里斯提卡 Prime 弓弦",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "后纪 A4 遗物 (罕见)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "前纪 G1 遗物 (罕见)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "前纪 R1 遗物 (罕见)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "布里斯提卡 Prime 弓弦",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "後紀 A4 遺物 (罕見)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "前紀 G1 遺物 (罕見)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "前紀 R1 遺物 (罕見)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cuerda De Ballistica Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A4 (Poco Común)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Reliquia Meso G1 (Poco Común)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Reliquia Meso R1 (Poco Común)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Ballistica Prime - Corda",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Ballistica",
+        "drop": [
+            {
+                "name": "Reliquia Axi A4 (Uncommon)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Reliquia Meso G1 (Uncommon)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Reliquia Meso R1 (Uncommon)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Ballistica Prime: Cięciwa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi A4 (Nieprzeciętny)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Relikt Meso G1 (Nieprzeciętny)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Relikt Meso R1 (Nieprzeciętny)",
+                "link": "meso_r1_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe67",
+    "url_name": "cold_damage",
+    "group": "default",
+    "prefix": "Geli",
+    "suffix": "Do",
+    "icon": "static/assets/icons/Cold_b.7f281e2e388b22e87b68e544c3389df0.png",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponFreezeDamageMod"
+    },
+    "en": {
+        "effect": "Cold"
+    },
+    "ru": {
+        "effect": "Ледяной урон"
+    },
+    "ko": {
+        "effect": "냉기 피해"
+    },
+    "de": {
+        "effect": "Kälteschaden"
+    },
+    "fr": {
+        "effect": "Dégâts de Glace"
+    },
+    "pt": {
+        "effect": "Cold Damage"
+    },
+    "zh-hans": {
+        "effect": "冰冻伤害"
+    },
+    "zh-hant": {
+        "effect": "冰凍傷害"
+    },
+    "es": {
+        "effect": "Frío"
+    },
+    "it": {
+        "effect": "Cold"
+    },
+    "pl": {
+        "effect": "Obrażeń Zimna"
+    }
+}

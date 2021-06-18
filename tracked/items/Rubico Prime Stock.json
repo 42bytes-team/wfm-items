@@ -1,0 +1,504 @@
+{
+    "_id": "5baa8bbf4567de01ac283498",
+    "tags": [
+        "prime",
+        "stock",
+        "primary",
+        "component",
+        "weapon"
+    ],
+    "icon": "icons/en/Rubico_Prime_Set.2071211bc2436d4e768dbb61f98f6efd.png",
+    "thumb": "icons/en/thumbs/Rubico_Prime_Set.2071211bc2436d4e768dbb61f98f6efd.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "rubico_prime_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/RubicoPrimeStock"
+    },
+    "part_of_set": [
+        "rubico_prime_set",
+        "rubico_prime_barrel",
+        "rubico_prime_receiver",
+        "rubico_prime_stock",
+        "rubico_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Rubico Prime Stock",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "Axi L5 Relic (Common)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "Axi A9 Relic (Common)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Axi D2 Relic (Uncommon)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Axi P2 Relic (Uncommon)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Neo P1 Relic (Uncommon)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Meso E2 Relic (Uncommon)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Lith M3 Relic (Uncommon)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "Lith C8 Relic (Uncommon)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "Lith B5 Relic (Uncommon)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Рубико Прайм: Приклад",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D1%83%D0%B1%D0%B8%D0%BA%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси L5 (Обычный)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "Реликвия Акси A9 (Обычный)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Реликвия Акси D2 (Необычный)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Реликвия Акси P2 (Необычный)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Реликвия Нео P1 (Необычный)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Реликвия Мезо E2 (Необычный)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Реликвия Лит M3 (Необычный)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "Реликвия Лит C8 (Необычный)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "Реликвия Лит B5 (Необычный)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "루비코 프라임 스톡",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "액시 L5 성유물 (커먼)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "액시 A9 성유물 (커먼)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "액시 D2 성유물 (언커먼)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "액시 P2 성유물 (언커먼)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "네오 P1 성유물 (언커먼)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "메소 E2 성유물 (언커먼)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "리스 M3 성유물 (언커먼)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "리스 C8 성유물 (언커먼)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "리스 B5 성유물 (언커먼)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Rubico Prime: Schaft",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: L5 (Gewöhnlich)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "Axi-relikt: A9 (Gewöhnlich)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Axi-relikt: D2 (Ungewöhnlich)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Axi-relikt: P2 (Ungewöhnlich)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Neo-relikt: P1 (Ungewöhnlich)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Meso-relikt: E2 (Ungewöhnlich)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Lith-relikt: M3 (Ungewöhnlich)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "Lith-relikt: C8 (Ungewöhnlich)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "Lith-relikt: B5 (Ungewöhnlich)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Rubico Prime - Crosse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi L5 (Commun)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "Relique Axi A9 (Commun)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Relique Axi D2 (Inhabituel)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Relique Axi P2 (Inhabituel)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Relique Neo P1 (Inhabituel)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relique Meso E2 (Inhabituel)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Relique Lith M3 (Inhabituel)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "Relique Lith C8 (Inhabituel)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "Relique Lith B5 (Inhabituel)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Rubico Prime: Coronha",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi L5 (Comum)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "Relíquia Axi A9 (Comum)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Relíquia Axi D2 (Incomum)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Relíquia Axi P2 (Incomum)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Relíquia Neo P1 (Incomum)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relíquia Meso E2 (Incomum)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Relíquia Lith M3 (Incomum)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "Relíquia Lith C8 (Incomum)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "Relíquia Lith B5 (Incomum)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "绝路 Prime 枪托",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "后纪 L5 遗物 (常见)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "后纪 A9 遗物 (常见)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "后纪 D2 遗物 (罕见)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "后纪 P2 遗物 (罕见)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "中纪 P1 遗物 (罕见)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "前纪 E2 遗物 (罕见)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "古纪 M3 遗物 (罕见)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "古纪 C8 遗物 (罕见)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "古纪 B5 遗物 (罕见)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "絕路 Prime 槍托",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "後紀 L5 遺物 (常見)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "後紀 A9 遺物 (常見)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "後紀 D2 遺物 (罕見)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "後紀 P2 遺物 (罕見)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "中紀 P1 遺物 (罕見)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "前紀 E2 遺物 (罕見)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "古紀 M3 遺物 (罕見)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "古紀 C8 遺物 (罕見)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "古紀 B5 遺物 (罕見)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Culata De Rubico Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi L5 (Común)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "Reliquia Axi A9 (Común)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Reliquia Axi D2 (Poco Común)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Reliquia Axi P2 (Poco Común)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Reliquia Neo P1 (Poco Común)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Reliquia Meso E2 (Poco Común)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Reliquia Lith M3 (Poco Común)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "Reliquia Lith C8 (Poco Común)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "Reliquia Lith B5 (Poco Común)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Rubico Prime - Calcio",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi L5 (Common)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "Reliquia Axi A9 (Common)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Reliquia Axi D2 (Uncommon)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Reliquia Axi P2 (Uncommon)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Reliquia Neo P1 (Uncommon)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Reliquia Meso E2 (Uncommon)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Reliquia Lith M3 (Uncommon)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "Reliquia Lith C8 (Uncommon)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "Reliquia Lith B5 (Uncommon)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Rubico Prime: Kolba",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rubico_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi L5 (Powszechny)",
+                "link": "axi_l5_relic"
+            },
+            {
+                "name": "Relikt Axi A9 (Powszechny)",
+                "link": "axi_a9_relic"
+            },
+            {
+                "name": "Relikt Axi D2 (Nieprzeciętny)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Relikt Axi P2 (Nieprzeciętny)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Relikt Neo P1 (Nieprzeciętny)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relikt Meso E2 (Nieprzeciętny)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Relikt Lith M3 (Nieprzeciętny)",
+                "link": "lith_m3_relic"
+            },
+            {
+                "name": "Relikt Lith C8 (Nieprzeciętny)",
+                "link": "lith_c8_relic"
+            },
+            {
+                "name": "Relikt Lith B5 (Nieprzeciętny)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}

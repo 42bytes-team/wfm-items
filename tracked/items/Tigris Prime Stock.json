@@ -1,0 +1,329 @@
+{
+    "_id": "57bc9c84e506eb45ea251456",
+    "tags": [
+        "weapon",
+        "shotgun",
+        "prime",
+        "stock",
+        "primary",
+        "component"
+    ],
+    "icon": "icons/en/tigris_prime_stock.5f82721ea78697c95208b9bceb72c4a4.png",
+    "thumb": "icons/en/thumbs/tigris_prime_stock.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "tigris_prime_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeTigrisStock"
+    },
+    "part_of_set": [
+        "tigris_prime_set",
+        "tigris_prime_barrel",
+        "tigris_prime_blueprint",
+        "tigris_prime_receiver",
+        "tigris_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Tigris Prime Stock",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "Neo B2 Relic (Common)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Neo N11 Relic (Common)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "Neo V4 Relic (Common)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Meso S1 Relic (Common)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Lith B2 Relic (Common)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тигрис Прайм: Приклад",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%B3%D1%80%D0%B8%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео B2 (Обычный)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Реликвия Нео N11 (Обычный)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "Реликвия Нео V4 (Обычный)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Реликвия Мезо S1 (Обычный)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Реликвия Лит B2 (Обычный)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "티그리스 프라임 스톡",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "네오 B2 성유물 (커먼)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "네오 N11 성유물 (커먼)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "네오 V4 성유물 (커먼)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "메소 S1 성유물 (커먼)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "리스 B2 성유물 (커먼)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Tigris Prime: Schaft",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: B2 (Gewöhnlich)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Neo-relikt: N11 (Gewöhnlich)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "Neo-relikt: V4 (Gewöhnlich)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Meso-relikt: S1 (Gewöhnlich)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Lith-relikt: B2 (Gewöhnlich)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Tigris Prime - Crosse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo B2 (Commun)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Relique Neo N11 (Commun)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "Relique Neo V4 (Commun)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Relique Meso S1 (Commun)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Relique Lith B2 (Commun)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Tigris Prime: Coronha",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo B2 (Comum)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Relíquia Neo N11 (Comum)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "Relíquia Neo V4 (Comum)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Relíquia Meso S1 (Comum)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Relíquia Lith B2 (Comum)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "猛虎 Prime 枪托",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "中纪 B2 遗物 (常见)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "中纪 N11 遗物 (常见)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "中纪 V4 遗物 (常见)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "前纪 S1 遗物 (常见)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "古纪 B2 遗物 (常见)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "猛虎 Prime 槍托",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "中紀 B2 遺物 (常見)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "中紀 N11 遺物 (常見)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "中紀 V4 遺物 (常見)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "前紀 S1 遺物 (常見)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "古紀 B2 遺物 (常見)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Culata De Tigris Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo B2 (Común)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Reliquia Neo N11 (Común)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "Reliquia Neo V4 (Común)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Reliquia Meso S1 (Común)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Reliquia Lith B2 (Común)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Tigris Prime - Calcio",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo B2 (Common)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Reliquia Neo N11 (Common)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "Reliquia Neo V4 (Common)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Reliquia Meso S1 (Common)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Reliquia Lith B2 (Common)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Tigris Prime: Kolba",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tigris_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo B2 (Powszechny)",
+                "link": "neo_b2_relic"
+            },
+            {
+                "name": "Relikt Neo N11 (Powszechny)",
+                "link": "neo_n11_relic"
+            },
+            {
+                "name": "Relikt Neo V4 (Powszechny)",
+                "link": "neo_v4_relic"
+            },
+            {
+                "name": "Relikt Meso S1 (Powszechny)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Relikt Lith B2 (Powszechny)",
+                "link": "lith_b2_relic"
+            }
+        ]
+    },
+    "mastery_level": 13,
+    "ducats": 15,
+    "trading_tax": 2000
+}

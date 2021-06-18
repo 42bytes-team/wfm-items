@@ -1,0 +1,416 @@
+{
+    "_id": "5ca28670fc2db2035eae05a1",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "chassis",
+        "warframe"
+    ],
+    "icon": "icons/en/equinox_prime_chassis.1163c3dad7a8ffce02af7d475fc0ccd4.png",
+    "thumb": "icons/en/thumbs/equinox_prime_chassis.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "equinox_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "equinox_prime_set",
+        "equinox_prime_systems",
+        "equinox_prime_chassis",
+        "equinox_prime_neuroptics",
+        "equinox_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Equinox Prime Chassis",
+        "description": "Chassis component of the Equinox Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Axi P1 Relic (Common)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Axi A8 Relic (Common)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Meso G2 Relic (Common)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Lith C6 Relic (Common)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "Lith D2 Relic (Common)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Lith M4 Relic (Common)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "Lith L2 Relic (Common)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Эквинокс Прайм: Каркас",
+        "description": "Компонент варфрейма Эквинокс Прайм: Каркас.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%BD%D0%BE%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси P1 (Обычный)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Реликвия Акси A8 (Обычный)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Реликвия Мезо G2 (Обычный)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Реликвия Лит C6 (Обычный)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "Реликвия Лит D2 (Обычный)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Реликвия Лит M4 (Обычный)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "Реликвия Лит L2 (Обычный)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "이쿼녹스 프라임 섀시",
+        "description": "이쿼녹스 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "액시 P1 성유물 (커먼)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "액시 A8 성유물 (커먼)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "메소 G2 성유물 (커먼)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "리스 C6 성유물 (커먼)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "리스 D2 성유물 (커먼)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "리스 M4 성유물 (커먼)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "리스 L2 성유물 (커먼)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Equinox Prime: Chassis",
+        "description": "Chassis-Komponente für den Equinox Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Equinox/Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: P1 (Gewöhnlich)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Axi-relikt: A8 (Gewöhnlich)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Meso-relikt: G2 (Gewöhnlich)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Lith-relikt: C6 (Gewöhnlich)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "Lith-relikt: D2 (Gewöhnlich)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Lith-relikt: M4 (Gewöhnlich)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "Lith-relikt: L2 (Gewöhnlich)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Equinox Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi P1 (Commun)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relique Axi A8 (Commun)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Relique Meso G2 (Commun)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relique Lith C6 (Commun)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "Relique Lith D2 (Commun)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Relique Lith M4 (Commun)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "Relique Lith L2 (Commun)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Equinox Prime: Chassi",
+        "description": "Chassi componente do Warframe Equinox Prime",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi P1 (Comum)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relíquia Axi A8 (Comum)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Relíquia Meso G2 (Comum)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relíquia Lith C6 (Comum)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "Relíquia Lith D2 (Comum)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Relíquia Lith M4 (Comum)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "Relíquia Lith L2 (Comum)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Equinox Prime 机体",
+        "description": "Equinox Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "后纪 P1 遗物 (常见)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "后纪 A8 遗物 (常见)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "前纪 G2 遗物 (常见)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "古纪 C6 遗物 (常见)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "古纪 D2 遗物 (常见)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "古纪 M4 遗物 (常见)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "古纪 L2 遗物 (常见)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Equinox Prime 機體",
+        "description": "Equinox Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "後紀 P1 遺物 (常見)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "後紀 A8 遺物 (常見)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "前紀 G2 遺物 (常見)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "古紀 C6 遺物 (常見)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "古紀 D2 遺物 (常見)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "古紀 M4 遺物 (常見)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "古紀 L2 遺物 (常見)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Equinox Prime",
+        "description": "Componente de chasis del warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi P1 (Común)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Reliquia Axi A8 (Común)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Reliquia Meso G2 (Común)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Reliquia Lith C6 (Común)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "Reliquia Lith D2 (Común)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Reliquia Lith M4 (Común)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "Reliquia Lith L2 (Común)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Equinox Prime - Chassis",
+        "description": "Il componente Chassis per il Warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi P1 (Common)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Reliquia Axi A8 (Common)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Reliquia Meso G2 (Common)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Reliquia Lith C6 (Common)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "Reliquia Lith D2 (Common)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Reliquia Lith M4 (Common)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "Reliquia Lith L2 (Common)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Equinox Prime: Powłoka",
+        "description": "Powłoka dla Warframe Equinox Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Equinox_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi P1 (Powszechny)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relikt Axi A8 (Powszechny)",
+                "link": "axi_a8_relic"
+            },
+            {
+                "name": "Relikt Meso G2 (Powszechny)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relikt Lith C6 (Powszechny)",
+                "link": "lith_c6_relic"
+            },
+            {
+                "name": "Relikt Lith D2 (Powszechny)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Relikt Lith M4 (Powszechny)",
+                "link": "lith_m4_relic"
+            },
+            {
+                "name": "Relikt Lith L2 (Powszechny)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "mastery_level": 5,
+    "ducats": 15,
+    "trading_tax": 2000
+}

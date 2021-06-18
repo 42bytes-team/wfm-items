@@ -1,0 +1,87 @@
+{
+    "_id": "56dac8d25cc639de0a45c52d",
+    "tags": [
+        "mod",
+        "rare",
+        "warframe"
+    ],
+    "icon": "icons/en/Health_Conversion.9d00e60accdfe2bf5185ed7669a92a88.png",
+    "thumb": "icons/en/thumbs/Health_Conversion.9d00e60accdfe2bf5185ed7669a92a88.128x128.png",
+    "icon_format": "port",
+    "url_name": "health_conversion",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Warframe/HealthPickupGivesArmourMod"
+    },
+    "en": {
+        "item_name": "Health Conversion",
+        "description": "Health Orbs grant 450 Armor, stacking up to 3x. Taking damage will consume a stack after 3s.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Health_Conversion",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Преобразование Здоровья",
+        "description": "Сферы здоровья прибавляют 450 брони, заряд складывается до 3 раз. Получение урона будет расходовать заряд после 3с.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F",
+        "icon": "icons/ru/Health_Conversion.2d477f792cab68700d4d1778a8429295.png",
+        "thumb": "icons/ru/thumbs/Health_Conversion.2d477f792cab68700d4d1778a8429295.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "헬스 컨버전",
+        "description": "체력 오브 획득 시 방어력이 450씩 상승하여 최대 3회까지 중첩됩니다. 중첩된 방어력은 3초 후 한 번 피해를 입을 때마다 1중첩 줄어듭니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Health_Conversion",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Gesundheits-umwandlung",
+        "description": "Gesundheitskugeln bieten 450 Rüstung und können bis zu 3 Mal gestapelt werden. Bei eingehendem Schaden wird ein Stapel nach 3 s verbraucht.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gesundheits-Umwandlung",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Conversion De Santé",
+        "description": "Les Orbes de Santé donnent 450 d'Armure, qui se cumuleront jusqu'à 3 fois. Subir des dégâts consommera un cumul après 3s.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Conversion_de_Sant%C3%A9",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Health Conversion",
+        "description": "Orbes de Vida concedem 450 Armadura, podendo acumular até 3x. Levar Dano consumirá um dos acúmulos depois de 3s.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Health_Conversion",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "生命转换",
+        "description": "捡取生命球可获得 450 护甲，最多累计 3 次；受到伤害将会在 3 秒后失去一层累计效果。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Health_Conversion",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "生命轉換",
+        "description": "撿取生命球可獲得 450 護甲，最多累計 3 次；受到傷害將會在 3 秒後失去一層累計效果。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Health_Conversion",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Conversión De Salud",
+        "description": "Orbes de salud otorgan 450 de armadura, acumulándose hasta 3 veces. Recibir daño consumirá una carga después de 3s.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Conversi%C3%B3n_de_salud",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Health Conversion",
+        "description": "Le Sfere di Salute aumentano di 450 l'Armatura, fino a 3 cariche. Ricevere danno consumerà una carica dopo 3s.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Health_Conversion",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Konwersja Życia",
+        "description": "Kule życia dają 450 dodatkowego pancerza nakładającego się do 3 warstw. Obrażenia spowodują utratę warstwy po 3s",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Konwersja_%C5%BBycia",
+        "drop": []
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

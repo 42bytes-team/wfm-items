@@ -1,0 +1,371 @@
+{
+    "_id": "5baa8bbf4567de01ac283492",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "melee",
+        "handle"
+    ],
+    "icon": "icons/en/Gram_Prime_Set.678c245a88b54368ae895b73b6987231.png",
+    "thumb": "icons/en/thumbs/Gram_Prime_Set.678c245a88b54368ae895b73b6987231.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/handle_128x128.png",
+    "url_name": "gram_prime_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/GramPrimeHandle"
+    },
+    "part_of_set": [
+        "gram_prime_set",
+        "gram_prime_handle",
+        "gram_prime_blueprint",
+        "gram_prime_blade"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Gram Prime Handle",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Axi G2 Relic (Rare)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Axi G4 Relic (Rare)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "Axi G5 Relic (Rare)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Axi G3 Relic (Rare)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Neo G2 Relic (Rare)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Neo G1 Relic (Rare)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Грэм Прайм: Рукоять",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D1%8D%D0%BC_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси G2 (Редкий)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Реликвия Акси G4 (Редкий)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "Реликвия Акси G5 (Редкий)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Реликвия Акси G3 (Редкий)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Реликвия Нео G2 (Редкий)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Реликвия Нео G1 (Редкий)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "그람 프라임 핸들",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "액시 G2 성유물 (레어)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "액시 G4 성유물 (레어)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "액시 G5 성유물 (레어)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "액시 G3 성유물 (레어)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "네오 G2 성유물 (레어)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "네오 G1 성유물 (레어)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Gram Prime: Griff",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: G2 (Selten)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Axi-relikt: G4 (Selten)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "Axi-relikt: G5 (Selten)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Axi-relikt: G3 (Selten)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Neo-relikt: G2 (Selten)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Neo-relikt: G1 (Selten)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Gram Prime - Poignée",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi G2 (Rare)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Relique Axi G4 (Rare)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "Relique Axi G5 (Rare)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Relique Axi G3 (Rare)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Relique Neo G2 (Rare)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relique Neo G1 (Rare)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Gram Prime: Cabo",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi G2 (Raro)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Relíquia Axi G4 (Raro)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "Relíquia Axi G5 (Raro)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Relíquia Axi G3 (Raro)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Relíquia Neo G2 (Raro)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relíquia Neo G1 (Raro)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "格拉姆 Prime 握柄",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "后纪 G2 遗物 (稀有)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "后纪 G4 遗物 (稀有)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "后纪 G5 遗物 (稀有)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "后纪 G3 遗物 (稀有)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "中纪 G2 遗物 (稀有)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "中纪 G1 遗物 (稀有)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "格拉姆 Prime 握柄",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "後紀 G2 遺物 (稀有)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "後紀 G4 遺物 (稀有)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "後紀 G5 遺物 (稀有)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "後紀 G3 遺物 (稀有)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "中紀 G2 遺物 (稀有)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "中紀 G1 遺物 (稀有)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Empuñadura De Gram Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi G2 (Raro)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Reliquia Axi G4 (Raro)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "Reliquia Axi G5 (Raro)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Reliquia Axi G3 (Raro)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Reliquia Neo G2 (Raro)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Reliquia Neo G1 (Raro)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Gram Prime - Elsa",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Wyrm_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi G2 (Rare)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Reliquia Axi G4 (Rare)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "Reliquia Axi G5 (Rare)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Reliquia Axi G3 (Rare)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Reliquia Neo G2 (Rare)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Reliquia Neo G1 (Rare)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Gram Prime: Rękojeść",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gram_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi G2 (Rzadki)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Relikt Axi G4 (Rzadki)",
+                "link": "axi_g4_relic"
+            },
+            {
+                "name": "Relikt Axi G5 (Rzadki)",
+                "link": "axi_g5_relic"
+            },
+            {
+                "name": "Relikt Axi G3 (Rzadki)",
+                "link": "axi_g3_relic"
+            },
+            {
+                "name": "Relikt Neo G2 (Rzadki)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relikt Neo G1 (Rzadki)",
+                "link": "neo_g1_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 100,
+    "trading_tax": 2000
+}

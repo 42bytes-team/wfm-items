@@ -1,0 +1,416 @@
+{
+    "_id": "5d21ce4af4604c012d1e0c1a",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "neuroptics",
+        "warframe"
+    ],
+    "icon": "icons/en/wukong_prime_neuroptics.6fa7196ae48a7a3901c35834476f3891.png",
+    "thumb": "icons/en/thumbs/wukong_prime_neuroptics.6fa7196ae48a7a3901c35834476f3891.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/neuroptics_128x128.png",
+    "url_name": "wukong_prime_neuroptics",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeHelmetBlueprint"
+    },
+    "part_of_set": [
+        "wukong_prime_set",
+        "wukong_prime_chassis",
+        "wukong_prime_blueprint",
+        "wukong_prime_systems",
+        "wukong_prime_neuroptics"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Wukong Prime Neuroptics",
+        "description": "Neuroptics component of the Wukong Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Wukong_Prime",
+        "drop": [
+            {
+                "name": "Axi G2 Relic (Common)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Axi T4 Relic (Common)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Axi Z1 Relic (Common)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Neo Z7 Relic (Common)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Neo I1 Relic (Common)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Neo T2 Relic (Common)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "Lith D2 Relic (Common)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вуконг Прайм: Нейрооптика",
+        "description": "Компонент варфрейма Вуконг Прайм: нейрооптика.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%83%D0%BA%D0%BE%D0%BD%D0%B3_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси G2 (Обычный)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Реликвия Акси T4 (Обычный)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Реликвия Акси Z1 (Обычный)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Реликвия Нео Z7 (Обычный)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Реликвия Нео I1 (Обычный)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Реликвия Нео T2 (Обычный)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "Реликвия Лит D2 (Обычный)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "오공 프라임 뉴로옵틱스",
+        "description": "오공 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Wukong_Prime",
+        "drop": [
+            {
+                "name": "액시 G2 성유물 (커먼)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "액시 T4 성유물 (커먼)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "액시 Z1 성유물 (커먼)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "네오 Z7 성유물 (커먼)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "네오 I1 성유물 (커먼)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "네오 T2 성유물 (커먼)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "리스 D2 성유물 (커먼)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Wukong Prime: Neuroptiks",
+        "description": "Neuroptik-Komponente für den Wukong Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Wukong/Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: G2 (Gewöhnlich)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Axi-relikt: T4 (Gewöhnlich)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Axi-relikt: Z1 (Gewöhnlich)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Neo-relikt: Z7 (Gewöhnlich)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Neo-relikt: I1 (Gewöhnlich)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Neo-relikt: T2 (Gewöhnlich)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "Lith-relikt: D2 (Gewöhnlich)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Wukong Prime - Neuroptiques",
+        "description": "Le composant Neuroptiques de la Warframe Wukong Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Wukong_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi G2 (Commun)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Relique Axi T4 (Commun)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Relique Axi Z1 (Commun)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Relique Neo Z7 (Commun)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Relique Neo I1 (Commun)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Relique Neo T2 (Commun)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "Relique Lith D2 (Commun)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Wukong Prime: Neurovisor",
+        "description": "Neurovisor componente do Warframe Wukong Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Wukong_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi G2 (Comum)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Relíquia Axi T4 (Comum)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Relíquia Axi Z1 (Comum)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Relíquia Neo Z7 (Comum)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Relíquia Neo I1 (Comum)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Relíquia Neo T2 (Comum)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "Relíquia Lith D2 (Comum)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Wukong Prime 头部神经光元",
+        "description": "Wukong Prime 战甲的头部神经光元组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Wukong_Prime",
+        "drop": [
+            {
+                "name": "后纪 G2 遗物 (常见)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "后纪 T4 遗物 (常见)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "后纪 Z1 遗物 (常见)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "中纪 Z7 遗物 (常见)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "中纪 I1 遗物 (常见)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "中纪 T2 遗物 (常见)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "古纪 D2 遗物 (常见)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Wukong Prime 頭部神經光元",
+        "description": "Wukong Prime Warframe 的頭部神經光元組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Wukong_Prime",
+        "drop": [
+            {
+                "name": "後紀 G2 遺物 (常見)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "後紀 T4 遺物 (常見)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "後紀 Z1 遺物 (常見)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "中紀 Z7 遺物 (常見)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "中紀 I1 遺物 (常見)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "中紀 T2 遺物 (常見)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "古紀 D2 遺物 (常見)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Neurópticas De Wukong Prime",
+        "description": "Componente de neurópticas del warframe Wukong Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Wukong_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi G2 (Común)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Reliquia Axi T4 (Común)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Reliquia Axi Z1 (Común)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Reliquia Neo Z7 (Común)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Reliquia Neo I1 (Común)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Reliquia Neo T2 (Común)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "Reliquia Lith D2 (Común)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Wukong Prime - Neurottiche",
+        "description": "Il componente Neurottiche per il Warframe Wukong Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi G2 (Common)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Reliquia Axi T4 (Common)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Reliquia Axi Z1 (Common)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Reliquia Neo Z7 (Common)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Reliquia Neo I1 (Common)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Reliquia Neo T2 (Common)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "Reliquia Lith D2 (Common)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Wukong Prime: Neurooptyka",
+        "description": "Neurooptyka dla Warframe'a Wukong Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wukong_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi G2 (Powszechny)",
+                "link": "axi_g2_relic"
+            },
+            {
+                "name": "Relikt Axi T4 (Powszechny)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Relikt Axi Z1 (Powszechny)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Relikt Neo Z7 (Powszechny)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Relikt Neo I1 (Powszechny)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Relikt Neo T2 (Powszechny)",
+                "link": "neo_t2_relic"
+            },
+            {
+                "name": "Relikt Lith D2 (Powszechny)",
+                "link": "lith_d2_relic"
+            }
+        ]
+    },
+    "mastery_level": 5,
+    "ducats": 15,
+    "trading_tax": 2000
+}

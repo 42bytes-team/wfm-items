@@ -1,0 +1,85 @@
+{
+    "_id": "6055de865221e30083f6f10c",
+    "tags": [
+        "mod",
+        "rare",
+        "primary"
+    ],
+    "icon": "icons/en/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.png",
+    "thumb": "icons/en/thumbs/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.128x128.png",
+    "icon_format": "port",
+    "url_name": "internal_bleeding",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponBleedOnImpactProcRifleMod"
+    },
+    "en": {
+        "item_name": "Internal Bleeding",
+        "description": "Impact Status Effects have 35% chance to apply a Slash Status Effect (x2 when Fire Rate is below 2.5)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Внутреннее Кровотечение",
+        "description": "Эффект статуса удара имеет 35% шанс наложить эффект статуса разреза (x2 при скорострельности ниже 2.5)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ko": {
+        "item_name": "인터널 블리딩",
+        "description": "충격 상태 이상 효과를 가할 시 35% 확률로 베기 상태 이상 적용 (연사력이 2.5 미만일 시 2배)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "de": {
+        "item_name": "Innere Blutung",
+        "description": "Einschlag Statuseffekte haben eine 35 % Chance den Schnitt-Statuseffekt zu verursachen (x2 wenn die Feuerrate unter 2.5 liegt)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Hémorragie Interne",
+        "description": "Les Effets de Statut d'Impact ont 35% de chances d'appliquer un Effet de Statut Tranchant (x2 lorsque la cadence de tir est inférieure à 2.5)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Internal Bleeding",
+        "description": "Efeitos de Status Colisivo terão 35% de chance de aplicar um Efeito de Status Cortante (x2 quando a Cadência de Tiro estiver abaixo de 2.5)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "内部出血",
+        "description": "冲击异常状态有 35% 的几率施加一个切割异常状态（射速低于 2.5 时 x2）。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "內部出血",
+        "description": "衝擊狀態效果有 35% 的機率施加一個 切割傷害效果（射速低於 2.5 時為雙倍）",
+        "wiki_link": null,
+        "drop": []
+    },
+    "es": {
+        "item_name": "Hemorragia Interna",
+        "description": "Los efectos de estado de impacto tienen un 35 % de probabilidad de aplicar un efecto de estado cortante (x2 cuando la tasa de disparo es inferior a 2.5)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "it": {
+        "item_name": "Internal Bleeding",
+        "description": "Gli Effetti Impatto hanno il 35% di probabilità di applicare un Effetto Taglio (x2 quando la Cadenza di Tiro è inferiore a 2.5)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Krwotok Wewnętrzny",
+        "description": "Efekt Statusu Miażdżącego ma 35% szansy na nałożenie Efektu Statusu Tnącego (x2 gdy Szybkostrzelność jest poniżej 2.5)",
+        "wiki_link": null,
+        "drop": []
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

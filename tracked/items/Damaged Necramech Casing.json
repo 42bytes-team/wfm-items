@@ -1,0 +1,92 @@
+{
+    "_id": "5f498a269426ed00443bd0d3",
+    "tags": [
+        "necramech",
+        "casing",
+        "mech"
+    ],
+    "icon": "icons/en/damaged_necramech_casing.09d9da6db09801ac4413810d0524625b.png",
+    "thumb": "icons/en/thumbs/damaged_necramech_casing.09d9da6db09801ac4413810d0524625b.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/damaged_mech_part_chassis_128x128.png",
+    "url_name": "damaged_necramech_casing",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem"
+    },
+    "part_of_set": [
+        "damaged_necramech_weapon_pod",
+        "damaged_necramech_engine",
+        "damaged_necramech_pod",
+        "damaged_necramech_casing",
+        "damaged_necramech_set"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Damaged Necramech Casing",
+        "description": "The damaged remains of a Necramech supporting frame.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Поврежденный Каркас Некрамеха",
+        "description": "Поврежденные остатки несущего каркаса Некрамеха.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "손상된 네크라메크 케이싱",
+        "description": "네크라메크 지지틀의 손상된 잔해입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Necramech: Beschädigte Karkasse",
+        "description": "Der beschädigte Überreste eines Necramech-Tragrahmens.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Châssis De Necramech Endommagé",
+        "description": "Les restes endommagés d'un cadre de support de Necramech.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Necramech",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Necramech: Revestimento Danificado",
+        "description": "Os restos danificados de uma estrutura de suporte de um Necramech.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "损坏的殁世机甲 外壳",
+        "description": "殁世机甲支撑框架的残骸，处于损坏状态。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "損毀的亡骸機甲外殼",
+        "description": "損毀的亡骸機甲支撐架構殘骸。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Cubierta De Necramech Dañada",
+        "description": "Los restos dañados de una estructura de soporte de Necramech.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Necramech",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Telaio Necramech Danneggiato",
+        "description": "I resti danneggiati di un telaio portante di un Necramech.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Uszkodzone Okrycie Nekramecha",
+        "description": "Uszkodzone pozostałości po ramie nośnej Nekramecha.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "trading_tax": 2000
+}

@@ -1,0 +1,194 @@
+{
+    "_id": "6036214f0a372600fd5614d1",
+    "tags": [
+        "weapon",
+        "prime",
+        "primary",
+        "component"
+    ],
+    "icon": "icons/en/tenora_prime_set.193d6f74a7daf0e8184e145e275a34fc.png",
+    "thumb": "icons/en/thumbs/tenora_prime_set.193d6f74a7daf0e8184e145e275a34fc.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/receiver_128x128.png",
+    "url_name": "tenora_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TenoraPrimeReceiver"
+    },
+    "part_of_set": [
+        "tenora_prime_blueprint",
+        "tenora_prime_receiver",
+        "tenora_prime_stock",
+        "tenora_prime_barrel",
+        "tenora_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Tenora Prime Receiver",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Neo T4 Relic (Rare)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "Meso T4 Relic (Rare)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тенора Прайм: Приёмник",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B5%D0%BD%D0%BE%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео T4 (Редкий)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "Реликвия Мезо T4 (Редкий)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "테노라 프라임 리시버",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "네오 T4 성유물 (레어)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "메소 T4 성유물 (레어)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Tenora Prime: Gehäuse",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: T4 (Selten)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "Meso-relikt: T4 (Selten)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Tenora Prime - Culasse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo T4 (Rare)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "Relique Meso T4 (Rare)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Tenora Prime: Receptor",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo T4 (Raro)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "Relíquia Meso T4 (Raro)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "双簧管 Prime 枪机",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "中纪 T4 遗物 (稀有)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "前纪 T4 遗物 (稀有)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "雙簧管 Prime 槍機",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "中紀 T4 遺物 (稀有)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "前紀 T4 遺物 (稀有)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Receptor De Tenora Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo T4 (Raro)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "Reliquia Meso T4 (Raro)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Tenora Prime - Castello",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo T4 (Rare)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "Reliquia Meso T4 (Rare)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Tenora Prime: Korpus",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo T4 (Rzadki)",
+                "link": "neo_t4_relic"
+            },
+            {
+                "name": "Relikt Meso T4 (Rzadki)",
+                "link": "meso_t4_relic"
+            }
+        ]
+    },
+    "ducats": 100,
+    "trading_tax": 2000
+}

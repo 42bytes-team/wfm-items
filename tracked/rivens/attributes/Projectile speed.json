@@ -1,0 +1,48 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe73",
+    "url_name": "projectile_speed",
+    "group": "default",
+    "prefix": "Conci",
+    "suffix": "Nak",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponProjectileSpeedMod"
+    },
+    "en": {
+        "effect": "Projectile speed"
+    },
+    "ru": {
+        "effect": "Скорость полёта"
+    },
+    "ko": {
+        "effect": "발사체 속도"
+    },
+    "de": {
+        "effect": "Projektilgeschwindigkeit"
+    },
+    "fr": {
+        "effect": "Vitesse des Projectiles"
+    },
+    "pt": {
+        "effect": "Projectile speed"
+    },
+    "zh-hans": {
+        "effect": "投射物飞行速度"
+    },
+    "zh-hant": {
+        "effect": "投射物速度"
+    },
+    "es": {
+        "effect": "Velocidad de proyectil"
+    },
+    "it": {
+        "effect": "Projectile speed"
+    },
+    "pl": {
+        "effect": "Prędkość Pocisku"
+    }
+}

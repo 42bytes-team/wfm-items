@@ -1,0 +1,95 @@
+{
+    "_id": "5703ed10a064f4ab755dc139",
+    "tags": [
+        "weapon",
+        "primary",
+        "component",
+        "barrel"
+    ],
+    "icon": "icons/en/snipetron_vandal_barrel.d820059db951ba5a4ac7c1d7ec8515f1.png",
+    "thumb": "icons/en/thumbs/snipetron_vandal_barrel.d820059db951ba5a4ac7c1d7ec8515f1.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "snipetron_vandal_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/SnipetronVandalBarrel"
+    },
+    "part_of_set": [
+        "snipetron_vandal_set",
+        "snipetron_vandal_barrel",
+        "snipetron_vandal_blueprint",
+        "snipetron_vandal_receiver",
+        "snipetron_vandal_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Snipetron Vandal Barrel",
+        "description": "A weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Снайптрон Вандал: Ствол",
+        "description": "Компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BD%D0%B0%D0%B9%D0%BF%D1%82%D1%80%D0%BE%D0%BD_%D0%B2%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "스나이프트론 반달 배럴",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Snipetron Vandal: Lauf",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Snipetron Vandal - Canon",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Snipetron Vandal: Cano",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "狙击特昂 破坏者 枪管",
+        "description": "一个武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "狙擊特昂 破壞者 槍管",
+        "description": "製作武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Cañón De Snipetron Vándalo",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Snipetron_V%C3%A1ndalo",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Snipetron Vandal - Canna",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Snipetron Vandal: Lufa",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Snipetron_Vandal",
+        "drop": []
+    },
+    "mastery_level": 5,
+    "trading_tax": 2000
+}

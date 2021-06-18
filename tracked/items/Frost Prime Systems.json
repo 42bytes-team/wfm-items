@@ -1,0 +1,196 @@
+{
+    "_id": "54a73e65e779893a797fff79",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "systems",
+        "warframe"
+    ],
+    "icon": "icons/en/frost_prime_systems.4f8ff8605be1afaab9a0e5cc3c67cb21.png",
+    "thumb": "icons/en/thumbs/frost_prime_systems.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/systems_128x128.png",
+    "url_name": "frost_prime_systems",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/FrostPrimeSystemsBlueprint"
+    },
+    "part_of_set": [
+        "frost_prime_set",
+        "frost_prime_blueprint",
+        "frost_prime_chassis",
+        "frost_prime_neuroptics",
+        "frost_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Frost Prime Systems",
+        "description": "Systems component of the Frost Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "Neo S5 Relic (Uncommon)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "Lith G2 Relic (Uncommon)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Фрост Прайм: Система",
+        "description": "Компонент варфрейма Фрост Прайм: Система.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A4%D1%80%D0%BE%D1%81%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео S5 (Необычный)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "Реликвия Лит G2 (Необычный)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "프로스트 프라임 시스템",
+        "description": "프로스트 프라임 워프레임의 시스템 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "네오 S5 성유물 (언커먼)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "리스 G2 성유물 (언커먼)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Frost Prime: Systeme",
+        "description": "Systeme-Komponente für den Frost Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: S5 (Ungewöhnlich)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "Lith-relikt: G2 (Ungewöhnlich)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Frost Prime - Systèmes",
+        "description": "Le composant Systèmes de la Warframe Frost Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo S5 (Inhabituel)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "Relique Lith G2 (Inhabituel)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Frost Prime: Sistemas",
+        "description": "Sistemas componentes do Warframe Frost Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo S5 (Incomum)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "Relíquia Lith G2 (Incomum)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Frost Prime 系统",
+        "description": "Frost Prime 战甲的系统组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "中纪 S5 遗物 (罕见)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "古纪 G2 遗物 (罕见)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Frost Prime 系統",
+        "description": "Frost Prime Warframe 的系統組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "中紀 S5 遺物 (罕見)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "古紀 G2 遺物 (罕見)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Sistemas De Frost Prime",
+        "description": "Componente de los sistemas del warframe Frost Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo S5 (Poco Común)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "Reliquia Lith G2 (Poco Común)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Frost Prime - Sistemi",
+        "description": "Il componente Sistemi per il Warframe Frost Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo S5 (Uncommon)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "Reliquia Lith G2 (Uncommon)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Frost Prime: Systemy",
+        "description": "Systemy dla Warframe'a Frost Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Frost_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo S5 (Nieprzeciętny)",
+                "link": "neo_s5_relic"
+            },
+            {
+                "name": "Relikt Lith G2 (Nieprzeciętny)",
+                "link": "lith_g2_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

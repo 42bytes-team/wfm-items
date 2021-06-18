@@ -1,0 +1,242 @@
+{
+    "_id": "5d21ce48f4604c012d1e0c17",
+    "tags": [
+        "weapon",
+        "crossbow",
+        "prime",
+        "receiver",
+        "component",
+        "primary"
+    ],
+    "icon": "icons/en/zhuge_prime_receiver.38e0e6189f1a333b382507a117b194a9.png",
+    "thumb": "icons/en/thumbs/zhuge_prime_receiver.38e0e6189f1a333b382507a117b194a9.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/receiver_128x128.png",
+    "url_name": "zhuge_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZhugePrimeReceiver"
+    },
+    "part_of_set": [
+        "zhuge_prime_set",
+        "zhuge_prime_barrel",
+        "zhuge_prime_grip",
+        "zhuge_prime_string",
+        "zhuge_prime_blueprint",
+        "zhuge_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Zhuge Prime Receiver",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Axi D1 Relic (Uncommon)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "Axi B3 Relic (Uncommon)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "Neo N14 Relic (Uncommon)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Чжугэ Прайм: Приемник",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A7%D0%B6%D1%83%D0%B3%D1%8D_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси D1 (Необычный)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "Реликвия Акси B3 (Необычный)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "Реликвия Нео N14 (Необычный)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "제갈 프라임 리시버",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "액시 D1 성유물 (언커먼)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "액시 B3 성유물 (언커먼)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "네오 N14 성유물 (언커먼)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Zhuge Prime: Gehäuse",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: D1 (Ungewöhnlich)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "Axi-relikt: B3 (Ungewöhnlich)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "Neo-relikt: N14 (Ungewöhnlich)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Zhuge Prime - Culasse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi D1 (Inhabituel)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "Relique Axi B3 (Inhabituel)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "Relique Neo N14 (Inhabituel)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Zhuge Prime: Receptor",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi D1 (Incomum)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "Relíquia Axi B3 (Incomum)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "Relíquia Neo N14 (Incomum)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "诸葛连弩 Prime 枪机",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "后纪 D1 遗物 (罕见)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "后纪 B3 遗物 (罕见)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "中纪 N14 遗物 (罕见)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "諸葛連弩 Prime 槍機",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "後紀 D1 遺物 (罕見)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "後紀 B3 遺物 (罕見)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "中紀 N14 遺物 (罕見)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Receptor De Zhuge Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi D1 (Poco Común)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "Reliquia Axi B3 (Poco Común)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "Reliquia Neo N14 (Poco Común)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Zhuge Prime - Castello",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi D1 (Uncommon)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "Reliquia Axi B3 (Uncommon)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "Reliquia Neo N14 (Uncommon)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Zhuge Prime: Korpus",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi D1 (Nieprzeciętny)",
+                "link": "axi_d1_relic"
+            },
+            {
+                "name": "Relikt Axi B3 (Nieprzeciętny)",
+                "link": "axi_b3_relic"
+            },
+            {
+                "name": "Relikt Neo N14 (Nieprzeciętny)",
+                "link": "neo_n14_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}
