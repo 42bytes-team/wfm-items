@@ -76,25 +76,65 @@
         ]
     },
     "zh-hans": {
-        "item_name": "Form Up",
-        "description": "A Tactical Avionics that recalls all Crew Members to the Railjack and heal them. Cooldown of 240s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Form_Up",
+        "item_name": "列阵归队",
+        "description": "列阵归队是一种战术型航道星舰Mod，它可以召回所有Tenno到航道星舰并治疗他们。使用后冷却240秒，之后可重新激活该Mod。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E5%88%97%E9%98%B5%E5%BD%92%E9%98%9F",
         "drop": [
             {
-                "name": "Elite Gyre Cutter",
-                "link": null
-            }
+                "name": "沃拉神锋战机",
+                "link": "https://warframe.huijiwiki.com/wiki/Vorac_Gox"
+            },
+			{
+				"name":	"奥穆神锋战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Orm_Gox"
+			},
+			{
+				"name":	"回旋先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Gyre_Outrider"
+			},
+			{
+				"name":	"邃域先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Exo_Outrider"
+			},
+			{
+				"name":	"艾汐神锋战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Axio_Gox"
+			},
+			{
+				"name":	"深空先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Kosma_Outrider"
+			}
         ]
     },
     "zh-hant": {
-        "item_name": "Form Up",
-        "description": "A Tactical Avionics that recalls all Crew Members to the Railjack and heal them. Cooldown of 240s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Form_Up",
+        "item_name": "聚結編隊",
+        "description": "聚結編隊是一種戰術型銳捷號Mod，它可以召回所有Tenno到銳捷號並治療他們。使用後冷卻240秒，之後可重新激活該Mod。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E5%88%97%E9%98%B5%E5%BD%92%E9%98%9F",
         "drop": [
             {
-                "name": "Elite Gyre Cutter",
-                "link": null
-            }
+                "name": "沃瓦高克司號",
+                "link": "https://warframe.huijiwiki.com/wiki/Vorac_Gox"
+            },
+			{
+				"name":	"奧姆高克司號",
+				"link":	"https://warframe.huijiwiki.com/wiki/Orm_Gox"
+			},
+			{
+				"name":	"鎮星先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Gyre_Outrider"
+			},
+			{
+				"name":	"深空先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Exo_Outrider"
+			},
+			{
+				"name":	"砹矽高克司號",
+				"link":	"https://warframe.huijiwiki.com/wiki/Axio_Gox"
+			},
+			{
+				"name":	"寰宇先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Kosma_Outrider"
+			}
         ]
     },
     "es": {

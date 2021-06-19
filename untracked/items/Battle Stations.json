@@ -76,25 +76,65 @@
         ]
     },
     "zh-hans": {
-        "item_name": "Battle Stations",
-        "description": "A Tactical Avionics that boosts turret damage for a temporary duration. Cooldown of 240s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations",
+        "item_name": "战位",
+        "description": "战位是一种战术型航道星舰Mod，它可以在一段时间内提升炮塔伤害。使用后冷却240秒，之后可重新激活该Mod。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E4%BD%8D",
         "drop": [
             {
-                "name": "Elite Kosma Taktis",
-                "link": null
-            }
+                "name": "沃拉神锋战机",
+                "link": "https://warframe.huijiwiki.com/wiki/Vorac_Gox"
+            },
+			{
+				"name":	"奥穆神锋战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Orm_Gox"
+			},
+			{
+				"name":	"回旋先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Gyre_Outrider"
+			},
+			{
+				"name":	"邃域先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Exo_Outrider"
+			},
+			{
+				"name":	"艾汐神锋战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Axio_Gox"
+			},
+			{
+				"name":	"深空先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Kosma_Outrider"
+			}
         ]
     },
     "zh-hant": {
-        "item_name": "Battle Stations",
-        "description": "A Tactical Avionics that boosts turret damage for a temporary duration. Cooldown of 240s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations",
+        "item_name": "戰鬥崗位",
+        "description": 戰鬥崗位是一種戰術型銳捷號Mod，它可以在一段時間內提升砲塔傷害。使用後冷卻240秒，之後可重新激活該Mod。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E4%BD%8D",
         "drop": [
             {
-                "name": "Elite Kosma Taktis",
-                "link": null
-            }
+                "name": "沃瓦高克司號",
+                "link": "https://warframe.huijiwiki.com/wiki/Vorac_Gox"
+            },
+			{
+				"name":	"奧姆高克司號",
+				"link":	"https://warframe.huijiwiki.com/wiki/Orm_Gox"
+			},
+			{
+				"name":	"鎮星先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Gyre_Outrider"
+			},
+			{
+				"name":	"深空先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Exo_Outrider"
+			},
+			{
+				"name":	"砹矽高克司號",
+				"link":	"https://warframe.huijiwiki.com/wiki/Axio_Gox"
+			},
+			{
+				"name":	"寰宇先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Kosma_Outrider"
+			}
         ]
     },
     "es": {

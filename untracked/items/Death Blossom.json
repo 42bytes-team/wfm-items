@@ -76,25 +76,33 @@
         ]
     },
     "zh-hans": {
-        "item_name": "Death Blossom",
-        "description": "A Tactical Avionics that removes turret cooldowns for a temporary duration. Cooldown of 300s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Death_Blossom",
+        "item_name": "死亡绽放",
+        "description": "死亡绽放是一种战术型航道星舰Mod，它可以在一段时间内取消炮台冷却。使用后冷却300秒，之后可重新激活该Mod。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%AD%BB%E4%BA%A1%E7%BB%BD%E6%94%BE",
         "drop": [
             {
-                "name": "Exo Taktis",
-                "link": null
-            }
+                "name": "邃域战术战机",
+                "link": "https://warframe.huijiwiki.com/wiki/Exo_Taktis"
+            },
+			{
+				"name":	"精英邃域战术战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Elite_Exo_Taktis"
+			}
         ]
     },
     "zh-hant": {
-        "item_name": "Death Blossom",
-        "description": "A Tactical Avionics that removes turret cooldowns for a temporary duration. Cooldown of 300s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Death_Blossom",
+        "item_name": "死亡綻放",
+        "description": "死亡綻放是一種戰術型銳捷號Mod，它可以在一段時間內移除砲台的冷卻。使用後冷卻300秒，之後可以重新激活該Mod。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%AD%BB%E4%BA%A1%E7%BB%BD%E6%94%BE",
         "drop": [
             {
-                "name": "Exo Taktis",
-                "link": null
-            }
+                "name": "深空戰略機",
+                "link": "https://warframe.huijiwiki.com/wiki/Exo_Taktis"
+            },
+			{
+				"name":	"精英深空戰略機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Elite_Exo_Taktis"
+			}
         ]
     },
     "es": {

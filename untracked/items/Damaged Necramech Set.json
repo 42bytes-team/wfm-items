@@ -58,16 +58,26 @@
         "drop": []
     },
     "zh-hans": {
-        "item_name": "Damaged Necramech Set",
-        "description": "It’s damaged and in need of repair.",
+        "item_name": "损坏的殁世机甲 一套",
+        "description": "受到损坏并需要修复。",
         "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
-        "drop": []
+        "drop": [
+			{
+				"name":	"敌对的殁世机甲",
+				"link":	"https://warframe.huijiwiki.com/wiki/%E6%AE%81%E4%B8%96%E6%9C%BA%E7%94%B2/%E6%95%8C%E6%96%B9"
+			}
+		]
     },
     "zh-hant": {
-        "item_name": "Damaged Necramech Set",
-        "description": "It’s damaged and in need of repair.",
+        "item_name": "損毀的亡骸機甲 一套",
+        "description": "受到損毀並需要修復。",
         "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
-        "drop": []
+        "drop": [
+			{
+				"name":	"敵對的亡骸機甲",
+				"link":	"https://warframe.huijiwiki.com/wiki/%E6%AE%81%E4%B8%96%E6%9C%BA%E7%94%B2/%E6%95%8C%E6%96%B9"
+			}
+		]
     },
     "es": {
         "item_name": "Damaged Necramech Set",
