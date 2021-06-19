@@ -76,25 +76,65 @@
         ]
     },
     "zh-hans": {
-        "item_name": "Battle Forge",
-        "description": "A Tactical Avionics that reduces Forge Cooldown. Cooldown of 480s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
+        "item_name": "战斗锻造",
+        "description": "战斗锻造是一种战术型航道星舰Mod，它可以减少精炼厂的冷却时间。使用后冷却480秒，之后可重新激活该Mod。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E6%96%97%E9%94%BB%E9%80%A0",
         "drop": [
             {
-                "name": "Kosma Cutter",
-                "link": null
-            }
+                "name": "沃拉神锋战机",
+                "link": "https://warframe.huijiwiki.com/wiki/Vorac_Gox"
+            },
+			{
+				"name":	"奥穆神锋战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Orm_Gox"
+			},
+			{
+				"name":	"回旋先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Gyre_Outrider"
+			},
+			{
+				"name":	"邃域先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Exo_Outrider"
+			},
+			{
+				"name":	"艾汐神锋战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Axio_Gox"
+			},
+			{
+				"name":	"深空先驱战机",
+				"link":	"https://warframe.huijiwiki.com/wiki/Kosma_Outrider"
+			}
         ]
     },
     "zh-hant": {
-        "item_name": "Battle Forge",
-        "description": "A Tactical Avionics that reduces Forge Cooldown. Cooldown of 480s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
+        "item_name": "戰鬥鍛造",
+        "description": "戰鬥鍛造是一種戰術型銳捷號Mod，它可以減少鍛造廠的冷卻時間。使用後冷卻480秒，之後可以重新激活該Mod。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E6%96%97%E9%94%BB%E9%80%A0",
         "drop": [
             {
-                "name": "Kosma Cutter",
-                "link": null
-            }
+                "name": "沃瓦高克司號",
+                "link": "https://warframe.huijiwiki.com/wiki/Vorac_Gox"
+            },
+			{
+				"name":	"奧姆高克司號",
+				"link":	"https://warframe.huijiwiki.com/wiki/Orm_Gox"
+			},
+			{
+				"name":	"鎮星先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Gyre_Outrider"
+			},
+			{
+				"name":	"深空先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Exo_Outrider"
+			},
+			{
+				"name":	"砹矽高克司號",
+				"link":	"https://warframe.huijiwiki.com/wiki/Axio_Gox"
+			},
+			{
+				"name":	"寰宇先驅偵察機",
+				"link":	"https://warframe.huijiwiki.com/wiki/Kosma_Outrider"
+			}
         ]
     },
     "es": {
