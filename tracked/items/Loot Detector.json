@@ -1,0 +1,87 @@
+{
+    "_id": "54a74454e779892d5e5155f7",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Loot_Detector.6aa5548d69fc0e07a731d65c9845c6f9.png",
+    "thumb": "icons/en/thumbs/Loot_Detector.6aa5548d69fc0e07a731d65c9845c6f9.128x128.png",
+    "icon_format": "port",
+    "url_name": "loot_detector",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Aura/PlayerLootRadarAuraMod"
+    },
+    "en": {
+        "item_name": "Loot Detector",
+        "description": "Minimap shows loot crates. +30 Loot Radar",
+        "wiki_link": "https://warframe.fandom.com/wiki/Loot_Detector",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Детектор Добычи",
+        "description": "Контейнеры отмечаются на мини-карте. Обнаружение добычи в радиусе +30м.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8",
+        "icon": "icons/ru/Loot_Detector.318d2c808ec6b39f806b3f72370ace51.png",
+        "thumb": "icons/ru/thumbs/Loot_Detector.318d2c808ec6b39f806b3f72370ace51.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "루트 디텍터",
+        "description": "미니맵에 아이템 상자들의 위치를 표시합니다. +30 아이템 감지",
+        "wiki_link": "https://warframe.fandom.com/wiki/Loot_Detector",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Beutedetektor",
+        "description": "Beutekisten werden auf der Minikarte angezeigt. +30 Beuteradar",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Beutedetektor",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Détecteur De Butin",
+        "description": "La mini-carte affiche les caisses de butin. +30 Radar Butin",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9tecteur_de_butin",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Loot Detector",
+        "description": "O Minimapa mostra contêineres de recursos. +30 Radar de Itens",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Loot_Detector",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "战利品探测器",
+        "description": "在小地图上显示战利品储存箱 +30 寻物雷达",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loot_Detector",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "戰利品探測器",
+        "description": "在小地圖上顯示戰利品 +30 尋物雷達",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loot_Detector",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Detector De Saqueo",
+        "description": "El minimapa muestra cajas para saquear. +30 de radar de saqueo",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Detector_de_saqueo",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Loot Detector",
+        "description": "Mostra le risorse nella Minimappa. +30 Radar Risorse",
+        "wiki_link": "http://warframe.wikia.com/wiki/Loot_Detector",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Detektor Łupu",
+        "description": "Minimapa pokazuje skrzynki z łupem. +30 Wykrywacz Łupu",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Detektor_%C5%81upu",
+        "drop": []
+    },
+    "rarity": "uncommon",
+    "max_rank": 5,
+    "trading_tax": 4000
+}

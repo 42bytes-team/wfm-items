@@ -1,0 +1,241 @@
+{
+    "_id": "5df955141456970150510f2a",
+    "tags": [
+        "weapon",
+        "prime",
+        "pistol",
+        "component",
+        "secondary",
+        "barrel"
+    ],
+    "icon": "icons/en/aksomati_prime_barrel.617fca3e38e6696ec87a6c28bd6bbebf.png",
+    "thumb": "icons/en/thumbs/aksomati_prime_barrel.617fca3e38e6696ec87a6c28bd6bbebf.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "aksomati_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AksomatiPrimeBarrel"
+    },
+    "part_of_set": [
+        "aksomati_prime_set",
+        "aksomati_prime_link",
+        "aksomati_prime_receiver",
+        "aksomati_prime_blueprint",
+        "aksomati_prime_barrel"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Aksomati Prime Barrel",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "Neo Z5 Relic (Uncommon)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "Meso D6 Relic (Uncommon)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "Lith B7 Relic (Uncommon)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Аксомати Прайм: Ствол",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D1%81%D0%BE%D0%BC%D0%B0%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео Z5 (Необычный)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "Реликвия Мезо D6 (Необычный)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "Реликвия Лит B7 (Необычный)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "아크소마티 프라임 배럴",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "네오 Z5 성유물 (언커먼)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "메소 D6 성유물 (언커먼)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "리스 B7 성유물 (언커먼)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Aksomati Prime: Lauf",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: Z5 (Ungewöhnlich)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "Meso-relikt: D6 (Ungewöhnlich)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "Lith-relikt: B7 (Ungewöhnlich)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Aksomati Prime - Canon",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo Z5 (Inhabituel)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "Relique Meso D6 (Inhabituel)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "Relique Lith B7 (Inhabituel)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Aksomati Prime: Cano",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo Z5 (Incomum)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "Relíquia Meso D6 (Incomum)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "Relíquia Lith B7 (Incomum)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "轻灵月神双枪 Prime 枪管",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "中纪 Z5 遗物 (罕见)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "前纪 D6 遗物 (罕见)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "古纪 B7 遗物 (罕见)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "輕靈月神雙槍 Prime 槍管",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "中紀 Z5 遺物 (罕見)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "前紀 D6 遺物 (罕見)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "古紀 B7 遺物 (罕見)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cañón De Aksomati Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo Z5 (Poco Común)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "Reliquia Meso D6 (Poco Común)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "Reliquia Lith B7 (Poco Común)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Aksomati Prime - Canna",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo Z5 (Uncommon)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "Reliquia Meso D6 (Uncommon)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "Reliquia Lith B7 (Uncommon)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Aksomati Prime: Lufa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo Z5 (Nieprzeciętny)",
+                "link": "neo_z5_relic"
+            },
+            {
+                "name": "Relikt Meso D6 (Nieprzeciętny)",
+                "link": "meso_d6_relic"
+            },
+            {
+                "name": "Relikt Lith B7 (Nieprzeciętny)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}

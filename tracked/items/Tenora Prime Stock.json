@@ -1,0 +1,194 @@
+{
+    "_id": "6036214f0a372600fd5614d3",
+    "tags": [
+        "weapon",
+        "prime",
+        "primary",
+        "component"
+    ],
+    "icon": "icons/en/tenora_prime_set.193d6f74a7daf0e8184e145e275a34fc.png",
+    "thumb": "icons/en/thumbs/tenora_prime_set.193d6f74a7daf0e8184e145e275a34fc.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "tenora_prime_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TenoraPrimeStock"
+    },
+    "part_of_set": [
+        "tenora_prime_blueprint",
+        "tenora_prime_receiver",
+        "tenora_prime_stock",
+        "tenora_prime_barrel",
+        "tenora_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Tenora Prime Stock",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Axi T6 Relic (Uncommon)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "Meso Z4 Relic (Uncommon)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тенора Прайм: Приклад",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B5%D0%BD%D0%BE%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси T6 (Необычный)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "Реликвия Мезо Z4 (Необычный)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "테노라 프라임 스톡",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "액시 T6 성유물 (언커먼)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "메소 Z4 성유물 (언커먼)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Tenora Prime: Schaft",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: T6 (Ungewöhnlich)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "Meso-relikt: Z4 (Ungewöhnlich)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Tenora Prime - Crosse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi T6 (Inhabituel)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "Relique Meso Z4 (Inhabituel)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Tenora Prime: Coronha",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi T6 (Incomum)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "Relíquia Meso Z4 (Incomum)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "双簧管 Prime 枪托",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "后纪 T6 遗物 (罕见)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "前纪 Z4 遗物 (罕见)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "雙簧管 Prime 槍托",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "後紀 T6 遺物 (罕見)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "前紀 Z4 遺物 (罕見)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Culata De Tenora Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi T6 (Poco Común)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "Reliquia Meso Z4 (Poco Común)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Tenora Prime - Calcio",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi T6 (Uncommon)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "Reliquia Meso Z4 (Uncommon)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Tenora Prime: Kolba",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tenora_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi T6 (Nieprzeciętny)",
+                "link": "axi_t6_relic"
+            },
+            {
+                "name": "Relikt Meso Z4 (Nieprzeciętny)",
+                "link": "meso_z4_relic"
+            }
+        ]
+    },
+    "ducats": 45,
+    "trading_tax": 2000
+}

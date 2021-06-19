@@ -1,0 +1,240 @@
+{
+    "_id": "54a73e65e779893a797fff73",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "chassis",
+        "warframe"
+    ],
+    "icon": "icons/en/nyx_prime_chassis.fd41c04c9e9bcc7e0e6963914f68f880.png",
+    "thumb": "icons/en/thumbs/nyx_prime_chassis.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "nyx_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "nyx_prime_set",
+        "nyx_prime_blueprint",
+        "nyx_prime_chassis",
+        "nyx_prime_neuroptics",
+        "nyx_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nyx Prime Chassis",
+        "description": "Chassis component of the Nyx Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Axi S8 Relic (Uncommon)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "Neo R1 Relic (Uncommon)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "Neo N1 Relic (Rare)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Никс Прайм: Каркас",
+        "description": "Компонент варфрейма Никс Прайм: Каркас.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B8%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси S8 (Необычный)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "Реликвия Нео R1 (Необычный)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "Реликвия Нео N1 (Редкий)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "닉스 프라임 섀시",
+        "description": "닉스 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "액시 S8 성유물 (언커먼)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "네오 R1 성유물 (언커먼)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "네오 N1 성유물 (레어)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Nyx Prime: Chassis",
+        "description": "Chassis-Komponente für den Nyx Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: S8 (Ungewöhnlich)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "Neo-relikt: R1 (Ungewöhnlich)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "Neo-relikt: N1 (Selten)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Nyx Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi S8 (Inhabituel)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "Relique Neo R1 (Inhabituel)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "Relique Neo N1 (Rare)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Nyx Prime: Chassi",
+        "description": "Chassi componente do Warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi S8 (Incomum)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "Relíquia Neo R1 (Incomum)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "Relíquia Neo N1 (Raro)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Nyx Prime 机体",
+        "description": "Nyx Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "后纪 S8 遗物 (罕见)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "中纪 R1 遗物 (罕见)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "中纪 N1 遗物 (稀有)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Nyx Prime 機體",
+        "description": "Nyx Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "後紀 S8 遺物 (罕見)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "中紀 R1 遺物 (罕見)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "中紀 N1 遺物 (稀有)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Nyx Prime",
+        "description": "Componente del chasis del warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S8 (Poco Común)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "Reliquia Neo R1 (Poco Común)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "Reliquia Neo N1 (Raro)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Nyx Prime - Chassis",
+        "description": "Il componente Chassis per il Warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S8 (Uncommon)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "Reliquia Neo R1 (Uncommon)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "Reliquia Neo N1 (Rare)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Nyx Prime: Powłoka",
+        "description": "Powłoka dla Warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi S8 (Nieprzeciętny)",
+                "link": "axi_s8_relic"
+            },
+            {
+                "name": "Relikt Neo R1 (Nieprzeciętny)",
+                "link": "neo_r1_relic"
+            },
+            {
+                "name": "Relikt Neo N1 (Rzadki)",
+                "link": "neo_n1_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 65,
+    "trading_tax": 2000
+}

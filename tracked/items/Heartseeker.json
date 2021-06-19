@@ -1,0 +1,88 @@
+{
+    "_id": "567af35fcbfa8f05d076a4d9",
+    "tags": [
+        "mod",
+        "rare",
+        "pvp",
+        "melee"
+    ],
+    "icon": "icons/en/Heartseeker.463698c22aba220200956023b53177a1.png",
+    "thumb": "icons/en/thumbs/Heartseeker.463698c22aba220200956023b53177a1.128x128.png",
+    "icon_format": "port",
+    "url_name": "heartseeker",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Melee/DaggerMeleeAutoTargetBonus"
+    },
+    "en": {
+        "item_name": "Heartseeker",
+        "description": "Lock onto targets within 1m, but reduces blocking effectiveness.\n-50% Damage Block",
+        "wiki_link": "https://warframe.fandom.com/wiki/Heartseeker",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Искатель Сердец",
+        "description": "Позволяет фиксироваться на целях в пределах 1м, но снижает эффективность блока.\n-50% блокирование урона",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%A1%D0%B5%D1%80%D0%B4%D0%B5%D1%86",
+        "icon": "icons/ru/Heartseeker.bc387a5d97b12cbec856ee1f98c2ed42.png",
+        "thumb": "icons/ru/thumbs/Heartseeker.bc387a5d97b12cbec856ee1f98c2ed42.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "하트시커",
+        "description": "1m 안의 대상을 자동으로 조준하나, 막기 효율을 감소시킵니다.\n-50% 피해 방어량",
+        "wiki_link": "https://warframe.fandom.com/wiki/Heartseeker",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Herzsucher",
+        "description": "Reduziert Effektivität des Blockens, schaltet aber automatisch auf Ziele innerhalb eines 1 m Umkreises auf.\n-50 % Schaden blockieren",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Herzsucher",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Droit Au Cœur",
+        "description": "Verrouille les cibles à moins de 1m, mais réduit l'efficacité des parades.\n-50% de Dégâts Parés",
+        "wiki_link": "http://warframe.wikia.com/wiki/Heartseeker",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Heartseeker",
+        "description": "Trava a mira em alvos dentro de 1m, mas reduz Efetividade do Bloqueio.\n-50% de Bloqueio de Dano",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Berserker",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "觅心猎手",
+        "description": "-50% 伤害格挡",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heartseeker",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "覓心獵手",
+        "description": "鎖定 1公尺內的目標，但減少格擋效率。\n-50% 格擋傷害",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heartseeker",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Buscacorazones",
+        "description": "Fijas a objetivos en un rango de 1m, pero reduce la efectividad de bloquear.\n-50% de bloqueo de daño",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Buscacorazones",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Heartseeker",
+        "description": "Aggancia i bersagli entro un raggio di 1m, ma riduce l'efficacia della parata.\n-50% Blocco Danno",
+        "wiki_link": "http://warframe.wikia.com/wiki/Heartseeker",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Nacelowanie",
+        "description": "Automatyczne nacelowanie w zasięgu 1m; zmniejsza efektywność osłony.\n-50% Blokowanie Obrażeń",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Hakowanie",
+        "drop": []
+    },
+    "rarity": "rare",
+    "max_rank": 3,
+    "trading_tax": 8000
+}

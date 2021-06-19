@@ -1,0 +1,48 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe66",
+    "url_name": "damage_vs_infested",
+    "group": "default",
+    "prefix": "Pura",
+    "suffix": "Ada",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponFactionDamageInfested"
+    },
+    "en": {
+        "effect": "Damage to Infested"
+    },
+    "ru": {
+        "effect": "Урон Заражённым"
+    },
+    "ko": {
+        "effect": "인페스티드에 대한 피해"
+    },
+    "de": {
+        "effect": "Schaden gegen Befallene"
+    },
+    "fr": {
+        "effect": "Dégâts aux Infestés"
+    },
+    "pt": {
+        "effect": "Damage vs. Infested"
+    },
+    "zh-hans": {
+        "effect": "对Infested伤害"
+    },
+    "zh-hant": {
+        "effect": "對Infested傷害"
+    },
+    "es": {
+        "effect": "Daño contra Infestados"
+    },
+    "it": {
+        "effect": "Damage to Infested"
+    },
+    "pl": {
+        "effect": "Obrażeń Zadawanych Pladze"
+    }
+}

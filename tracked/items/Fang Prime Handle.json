@@ -1,0 +1,899 @@
+{
+    "_id": "54a73e65e779893a797fff42",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "melee",
+        "handle"
+    ],
+    "icon": "icons/en/fang_prime_handle.13b0c690a76382d0fbdebe84e4c509db.png",
+    "thumb": "icons/en/thumbs/fang_prime_handle.13b0c690a76382d0fbdebe84e4c509db.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/handle_128x128.png",
+    "url_name": "fang_prime_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeFangHandle"
+    },
+    "part_of_set": [
+        "fang_prime_set",
+        "fang_prime_blade",
+        "fang_prime_blueprint",
+        "fang_prime_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Fang Prime Handle",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "Axi H2 Relic (Common)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Axi O5 Relic (Uncommon)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "Axi L3 Relic (Common)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Axi A4 Relic (Uncommon)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Axi V6 Relic (Uncommon)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Neo S14 Relic (Uncommon)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Neo V2 Relic (Common)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "Neo N3 Relic (Uncommon)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "Meso S4 Relic (Uncommon)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "Meso N2 Relic (Common)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "Meso D3 Relic (Common)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "Meso N1 Relic (Common)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "Meso W1 Relic (Uncommon)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Lith Z1 Relic (Common)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "Lith W1 Relic (Uncommon)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Lith W2 Relic (Uncommon)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "Lith D2 Relic (Uncommon)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Lith F2 Relic (Uncommon)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Клыки Прайм: Рукоять",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BB%D1%8B%D0%BA%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси H2 (Обычный)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Реликвия Акси O5 (Необычный)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "Реликвия Акси L3 (Обычный)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Реликвия Акси A4 (Необычный)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Реликвия Акси V6 (Необычный)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Реликвия Нео S14 (Необычный)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Реликвия Нео V2 (Обычный)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "Реликвия Нео N3 (Необычный)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "Реликвия Мезо S4 (Необычный)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "Реликвия Мезо N2 (Обычный)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "Реликвия Мезо D3 (Обычный)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "Реликвия Мезо N1 (Обычный)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "Реликвия Мезо W1 (Необычный)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Реликвия Лит Z1 (Обычный)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "Реликвия Лит W1 (Необычный)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Реликвия Лит W2 (Необычный)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "Реликвия Лит D2 (Необычный)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Реликвия Лит F2 (Необычный)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "팽 프라임 핸들",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "액시 H2 성유물 (커먼)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "액시 O5 성유물 (언커먼)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "액시 L3 성유물 (커먼)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "액시 A4 성유물 (언커먼)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "액시 V6 성유물 (언커먼)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "네오 S14 성유물 (언커먼)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "네오 V2 성유물 (커먼)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "네오 N3 성유물 (언커먼)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "메소 S4 성유물 (언커먼)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "메소 N2 성유물 (커먼)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "메소 D3 성유물 (커먼)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "메소 N1 성유물 (커먼)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "메소 W1 성유물 (언커먼)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "리스 Z1 성유물 (커먼)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "리스 W1 성유물 (언커먼)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "리스 W2 성유물 (언커먼)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "리스 D2 성유물 (언커먼)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "리스 F2 성유물 (언커먼)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Fang Prime: Griff",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: H2 (Gewöhnlich)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Axi-relikt: O5 (Ungewöhnlich)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "Axi-relikt: L3 (Gewöhnlich)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Axi-relikt: A4 (Ungewöhnlich)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Axi-relikt: V6 (Ungewöhnlich)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Neo-relikt: S14 (Ungewöhnlich)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Neo-relikt: V2 (Gewöhnlich)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "Neo-relikt: N3 (Ungewöhnlich)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "Meso-relikt: S4 (Ungewöhnlich)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "Meso-relikt: N2 (Gewöhnlich)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "Meso-relikt: D3 (Gewöhnlich)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "Meso-relikt: N1 (Gewöhnlich)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "Meso-relikt: W1 (Ungewöhnlich)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Lith-relikt: Z1 (Gewöhnlich)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "Lith-relikt: W1 (Ungewöhnlich)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Lith-relikt: W2 (Ungewöhnlich)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "Lith-relikt: D2 (Ungewöhnlich)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Lith-relikt: F2 (Ungewöhnlich)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Fang Prime - Poignée",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi H2 (Commun)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relique Axi O5 (Inhabituel)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "Relique Axi L3 (Commun)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relique Axi A4 (Inhabituel)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Relique Axi V6 (Inhabituel)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Relique Neo S14 (Inhabituel)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relique Neo V2 (Commun)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "Relique Neo N3 (Inhabituel)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "Relique Meso S4 (Inhabituel)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "Relique Meso N2 (Commun)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "Relique Meso D3 (Commun)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "Relique Meso N1 (Commun)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "Relique Meso W1 (Inhabituel)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Relique Lith Z1 (Commun)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "Relique Lith W1 (Inhabituel)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Relique Lith W2 (Inhabituel)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "Relique Lith D2 (Inhabituel)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Relique Lith F2 (Inhabituel)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Fang Prime: Cabo",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi H2 (Comum)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relíquia Axi O5 (Incomum)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "Relíquia Axi L3 (Comum)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relíquia Axi A4 (Incomum)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Relíquia Axi V6 (Incomum)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Relíquia Neo S14 (Incomum)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relíquia Neo V2 (Comum)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "Relíquia Neo N3 (Incomum)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "Relíquia Meso S4 (Incomum)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "Relíquia Meso N2 (Comum)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "Relíquia Meso D3 (Comum)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "Relíquia Meso N1 (Comum)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "Relíquia Meso W1 (Incomum)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Relíquia Lith Z1 (Comum)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "Relíquia Lith W1 (Incomum)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Relíquia Lith W2 (Incomum)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "Relíquia Lith D2 (Incomum)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Relíquia Lith F2 (Incomum)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "狼牙 Prime 握柄",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "后纪 H2 遗物 (常见)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "后纪 O5 遗物 (罕见)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "后纪 L3 遗物 (常见)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "后纪 A4 遗物 (罕见)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "后纪 V6 遗物 (罕见)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "中纪 S14 遗物 (罕见)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "中纪 V2 遗物 (常见)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "中纪 N3 遗物 (罕见)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "前纪 S4 遗物 (罕见)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "前纪 N2 遗物 (常见)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "前纪 D3 遗物 (常见)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "前纪 N1 遗物 (常见)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "前纪 W1 遗物 (罕见)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "古纪 Z1 遗物 (常见)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "古纪 W1 遗物 (罕见)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "古纪 W2 遗物 (罕见)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "古纪 D2 遗物 (罕见)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "古纪 F2 遗物 (罕见)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "狼牙 Prime 握柄",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "後紀 H2 遺物 (常見)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "後紀 O5 遺物 (罕見)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "後紀 L3 遺物 (常見)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "後紀 A4 遺物 (罕見)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "後紀 V6 遺物 (罕見)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "中紀 S14 遺物 (罕見)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "中紀 V2 遺物 (常見)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "中紀 N3 遺物 (罕見)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "前紀 S4 遺物 (罕見)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "前紀 N2 遺物 (常見)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "前紀 D3 遺物 (常見)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "前紀 N1 遺物 (常見)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "前紀 W1 遺物 (罕見)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "古紀 Z1 遺物 (常見)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "古紀 W1 遺物 (罕見)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "古紀 W2 遺物 (罕見)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "古紀 D2 遺物 (罕見)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "古紀 F2 遺物 (罕見)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Empuñadura De Fang Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi H2 (Común)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Reliquia Axi O5 (Poco Común)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "Reliquia Axi L3 (Común)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Reliquia Axi A4 (Poco Común)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Reliquia Axi V6 (Poco Común)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Reliquia Neo S14 (Poco Común)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Reliquia Neo V2 (Común)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "Reliquia Neo N3 (Poco Común)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "Reliquia Meso S4 (Poco Común)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "Reliquia Meso N2 (Común)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "Reliquia Meso D3 (Común)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "Reliquia Meso N1 (Común)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "Reliquia Meso W1 (Poco Común)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Reliquia Lith Z1 (Común)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "Reliquia Lith W1 (Poco Común)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Reliquia Lith W2 (Poco Común)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "Reliquia Lith D2 (Poco Común)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Reliquia Lith F2 (Poco Común)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Fang Prime - Elsa",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi H2 (Common)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Reliquia Axi O5 (Uncommon)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "Reliquia Axi L3 (Common)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Reliquia Axi A4 (Uncommon)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Reliquia Axi V6 (Uncommon)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Reliquia Neo S14 (Uncommon)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Reliquia Neo V2 (Common)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "Reliquia Neo N3 (Uncommon)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "Reliquia Meso S4 (Uncommon)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "Reliquia Meso N2 (Common)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "Reliquia Meso D3 (Common)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "Reliquia Meso N1 (Common)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "Reliquia Meso W1 (Uncommon)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Reliquia Lith Z1 (Common)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "Reliquia Lith W1 (Uncommon)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Reliquia Lith W2 (Uncommon)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "Reliquia Lith D2 (Uncommon)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Reliquia Lith F2 (Uncommon)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Fang Prime: Rękojeść",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Fang_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi H2 (Powszechny)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relikt Axi O5 (Nieprzeciętny)",
+                "link": "axi_o5_relic"
+            },
+            {
+                "name": "Relikt Axi L3 (Powszechny)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relikt Axi A4 (Nieprzeciętny)",
+                "link": "axi_a4_relic"
+            },
+            {
+                "name": "Relikt Axi V6 (Nieprzeciętny)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Relikt Neo S14 (Nieprzeciętny)",
+                "link": "neo_s14_relic"
+            },
+            {
+                "name": "Relikt Neo V2 (Powszechny)",
+                "link": "neo_v2_relic"
+            },
+            {
+                "name": "Relikt Neo N3 (Nieprzeciętny)",
+                "link": "neo_n3_relic"
+            },
+            {
+                "name": "Relikt Meso S4 (Nieprzeciętny)",
+                "link": "meso_s4_relic"
+            },
+            {
+                "name": "Relikt Meso N2 (Powszechny)",
+                "link": "meso_n2_relic"
+            },
+            {
+                "name": "Relikt Meso D3 (Powszechny)",
+                "link": "meso_d3_relic"
+            },
+            {
+                "name": "Relikt Meso N1 (Powszechny)",
+                "link": "meso_n1_relic"
+            },
+            {
+                "name": "Relikt Meso W1 (Nieprzeciętny)",
+                "link": "meso_w1_relic"
+            },
+            {
+                "name": "Relikt Lith Z1 (Powszechny)",
+                "link": "lith_z1_relic"
+            },
+            {
+                "name": "Relikt Lith W1 (Nieprzeciętny)",
+                "link": "lith_w1_relic"
+            },
+            {
+                "name": "Relikt Lith W2 (Nieprzeciętny)",
+                "link": "lith_w2_relic"
+            },
+            {
+                "name": "Relikt Lith D2 (Nieprzeciętny)",
+                "link": "lith_d2_relic"
+            },
+            {
+                "name": "Relikt Lith F2 (Nieprzeciętny)",
+                "link": "lith_f2_relic"
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 25,
+    "trading_tax": 2000
+}

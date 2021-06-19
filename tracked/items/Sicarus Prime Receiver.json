@@ -1,0 +1,195 @@
+{
+    "_id": "54a73e65e779893a797fff60",
+    "tags": [
+        "prime",
+        "receiver",
+        "component",
+        "secondary",
+        "weapon"
+    ],
+    "icon": "icons/en/Sicarus_Prime_Set.e7c07172e6d63d49ae349d508c56fc85.png",
+    "thumb": "icons/en/thumbs/Sicarus_Prime_Set.e7c07172e6d63d49ae349d508c56fc85.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/receiver_128x128.png",
+    "url_name": "sicarus_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/SicarusPrimeReceiver"
+    },
+    "part_of_set": [
+        "sicarus_prime_set",
+        "sicarus_prime_barrel",
+        "sicarus_prime_blueprint",
+        "sicarus_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Sicarus Prime Receiver",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Axi S2 Relic (Rare)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "Neo S5 Relic (Rare)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сикарус Прайм: Приёмник",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BA%D0%B0%D1%80%D1%83%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси S2 (Редкий)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "Реликвия Нео S5 (Редкий)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "시카루스 프라임 리시버",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "액시 S2 성유물 (레어)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "네오 S5 성유물 (레어)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Sicarus Prime: Gehäuse",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: S2 (Selten)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "Neo-relikt: S5 (Selten)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Sicarus Prime - Culasse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi S2 (Rare)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "Relique Neo S5 (Rare)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Sicarus Prime: Receptor",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi S2 (Raro)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "Relíquia Neo S5 (Raro)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "暗杀者 Prime 枪机",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "后纪 S2 遗物 (稀有)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "中纪 S5 遗物 (稀有)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "暗殺者 Prime 槍機",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "後紀 S2 遺物 (稀有)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "中紀 S5 遺物 (稀有)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Receptor De Sicarus Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S2 (Raro)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "Reliquia Neo S5 (Raro)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Sicarus Prime - Castello",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S2 (Rare)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "Reliquia Neo S5 (Rare)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Sicarus Prime: Korpus",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sicarus_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi S2 (Rzadki)",
+                "link": "axi_s2_relic"
+            },
+            {
+                "name": "Relikt Neo S5 (Rzadki)",
+                "link": "neo_s5_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 100,
+    "trading_tax": 2000
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe77",
+    "url_name": "toxin_damage",
+    "group": "default",
+    "prefix": "Toxi",
+    "suffix": "Tox",
+    "icon": "static/assets/icons/Toxin_b.b15316d0714cca469359b63b46dedc60.png",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponToxinDamageMod"
+    },
+    "en": {
+        "effect": "Toxin"
+    },
+    "ru": {
+        "effect": "Токсичный урон"
+    },
+    "ko": {
+        "effect": "독성 피해"
+    },
+    "de": {
+        "effect": "Giftschaden"
+    },
+    "fr": {
+        "effect": "Dégâts de Poison"
+    },
+    "pt": {
+        "effect": "Toxin Damage"
+    },
+    "zh-hans": {
+        "effect": "毒素伤害"
+    },
+    "zh-hant": {
+        "effect": "毒素傷害"
+    },
+    "es": {
+        "effect": "Toxina"
+    },
+    "it": {
+        "effect": "Toxin"
+    },
+    "pl": {
+        "effect": "Obrażenia Toksyczne"
+    }
+}

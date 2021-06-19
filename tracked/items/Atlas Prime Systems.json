@@ -1,0 +1,372 @@
+{
+    "_id": "5d9385b17ea27b0a28fd75ba",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "systems",
+        "warframe"
+    ],
+    "icon": "icons/en/atlas_prime_systems.91fb26397de19c27bfece550a8315a14.png",
+    "thumb": "icons/en/thumbs/atlas_prime_systems.91fb26397de19c27bfece550a8315a14.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/systems_128x128.png",
+    "url_name": "atlas_prime_systems",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/AtlasPrimeSystemsBlueprint"
+    },
+    "part_of_set": [
+        "atlas_prime_set",
+        "atlas_prime_chassis",
+        "atlas_prime_systems",
+        "atlas_prime_neuroptics",
+        "atlas_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Atlas Prime Systems",
+        "description": "Systems component of the Atlas Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime",
+        "drop": [
+            {
+                "name": "Neo N15 Relic (Uncommon)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "Neo A3 Relic (Uncommon)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Meso G2 Relic (Uncommon)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Meso C4 Relic (Uncommon)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "Meso I1 Relic (Uncommon)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "Lith N4 Relic (Uncommon)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Атлас Прайм: Система",
+        "description": "Компонент варфрейма Атлас Прайм: Система.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео N15 (Необычный)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "Реликвия Нео A3 (Необычный)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Реликвия Мезо G2 (Необычный)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Реликвия Мезо C4 (Необычный)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "Реликвия Мезо I1 (Необычный)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "Реликвия Лит N4 (Необычный)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "아틀라스 프라임 시스템",
+        "description": "아틀라스 프라임 워프레임의 시스템 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Atlas_Prime",
+        "drop": [
+            {
+                "name": "네오 N15 성유물 (언커먼)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "네오 A3 성유물 (언커먼)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "메소 G2 성유물 (언커먼)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "메소 C4 성유물 (언커먼)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "메소 I1 성유물 (언커먼)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "리스 N4 성유물 (언커먼)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Atlas Prime: Systeme",
+        "description": "Systeme-Komponente für den Atlas Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ash_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: N15 (Ungewöhnlich)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "Neo-relikt: A3 (Ungewöhnlich)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Meso-relikt: G2 (Ungewöhnlich)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Meso-relikt: C4 (Ungewöhnlich)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "Meso-relikt: I1 (Ungewöhnlich)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "Lith-relikt: N4 (Ungewöhnlich)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Atlas Prime - Systèmes",
+        "description": "Le composant Systèmes de la Warframe Atlas Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Atlas_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo N15 (Inhabituel)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "Relique Neo A3 (Inhabituel)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relique Meso G2 (Inhabituel)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relique Meso C4 (Inhabituel)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "Relique Meso I1 (Inhabituel)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "Relique Lith N4 (Inhabituel)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Atlas Prime: Sistemas",
+        "description": "Sistemas componentes do Warframe Atlas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Atlas/Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo N15 (Incomum)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "Relíquia Neo A3 (Incomum)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relíquia Meso G2 (Incomum)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relíquia Meso C4 (Incomum)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "Relíquia Meso I1 (Incomum)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "Relíquia Lith N4 (Incomum)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Atlas Prime 系统",
+        "description": "Atlas Prime 战甲的系统组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime",
+        "drop": [
+            {
+                "name": "中纪 N15 遗物 (罕见)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "中纪 A3 遗物 (罕见)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "前纪 G2 遗物 (罕见)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "前纪 C4 遗物 (罕见)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "前纪 I1 遗物 (罕见)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "古纪 N4 遗物 (罕见)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Atlas Prime 系統",
+        "description": "Atlas Prime Warframe 的系統組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Atlas_Prime",
+        "drop": [
+            {
+                "name": "中紀 N15 遺物 (罕見)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "中紀 A3 遺物 (罕見)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "前紀 G2 遺物 (罕見)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "前紀 C4 遺物 (罕見)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "前紀 I1 遺物 (罕見)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "古紀 N4 遺物 (罕見)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Sistemas De Atlas Prime",
+        "description": "Componente de los sistemas del warframe Atlas Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Atlas_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo N15 (Poco Común)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "Reliquia Neo A3 (Poco Común)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Reliquia Meso G2 (Poco Común)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Reliquia Meso C4 (Poco Común)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "Reliquia Meso I1 (Poco Común)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "Reliquia Lith N4 (Poco Común)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Atlas Prime - Sistemi",
+        "description": "Il componente Sistemi del Warframe Atlas Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Ash_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo N15 (Uncommon)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "Reliquia Neo A3 (Uncommon)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Reliquia Meso G2 (Uncommon)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Reliquia Meso C4 (Uncommon)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "Reliquia Meso I1 (Uncommon)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "Reliquia Lith N4 (Uncommon)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Atlas Prime: Systemy",
+        "description": "Systemy dla Warframe'a Atlas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Atlas_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo N15 (Nieprzeciętny)",
+                "link": "neo_n15_relic"
+            },
+            {
+                "name": "Relikt Neo A3 (Nieprzeciętny)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relikt Meso G2 (Nieprzeciętny)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relikt Meso C4 (Nieprzeciętny)",
+                "link": "meso_c4_relic"
+            },
+            {
+                "name": "Relikt Meso I1 (Nieprzeciętny)",
+                "link": "meso_i1_relic"
+            },
+            {
+                "name": "Relikt Lith N4 (Nieprzeciętny)",
+                "link": "lith_n4_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

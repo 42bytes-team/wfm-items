@@ -1,0 +1,195 @@
+{
+    "_id": "5f0e0fde9f527b0285718f1f",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "blade",
+        "melee"
+    ],
+    "icon": "icons/en/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.png",
+    "thumb": "icons/en/thumbs/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "karyst_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/KarystPrimeBlade"
+    },
+    "part_of_set": [
+        "karyst_prime_set",
+        "karyst_prime_handle",
+        "karyst_prime_blueprint",
+        "karyst_prime_blade"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Karyst Prime Blade",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Meso K3 Relic (Rare)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Lith K6 Relic (Rare)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Карист Прайм: Лезвие",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D1%81%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Мезо K3 (Редкий)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Реликвия Лит K6 (Редкий)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "캐리스트 프라임 블레이드",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "메소 K3 성유물 (레어)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "리스 K6 성유물 (레어)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Karyst Prime: Klinge",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Vasto_Prime",
+        "drop": [
+            {
+                "name": "Meso-relikt: K3 (Selten)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Lith-relikt: K6 (Selten)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Karyst Prime - Lame",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Relique Meso K3 (Rare)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Relique Lith K6 (Rare)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Karyst Prime: Lâmina",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vasto_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Meso K3 (Raro)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Relíquia Lith K6 (Raro)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "凯洛斯特 Prime 刀刃",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "前纪 K3 遗物 (稀有)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "古纪 K6 遗物 (稀有)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "凱洛斯特 Prime 刀刃",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "前紀 K3 遺物 (稀有)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "古紀 K6 遺物 (稀有)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Hoja De Karyst Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso K3 (Raro)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Reliquia Lith K6 (Raro)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Karyst Prime - Lama",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Vasto_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso K3 (Rare)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Reliquia Lith K6 (Rare)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Karyst Prime: Ostrze",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Relikt Meso K3 (Rzadki)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Relikt Lith K6 (Rzadki)",
+                "link": "lith_k6_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 100,
+    "trading_tax": 2000
+}

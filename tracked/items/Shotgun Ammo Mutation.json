@@ -1,0 +1,88 @@
+{
+    "_id": "54a74455e779892d5e5156e9",
+    "tags": [
+        "shotgun",
+        "mod",
+        "rare",
+        "primary"
+    ],
+    "icon": "icons/en/Shotgun_Ammo_Mutation.2a2c46f64e6533beab652081bde6b5b4.png",
+    "thumb": "icons/en/thumbs/Shotgun_Ammo_Mutation.2a2c46f64e6533beab652081bde6b5b4.128x128.png",
+    "icon_format": "port",
+    "url_name": "shotgun_ammo_mutation",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunConvertAmmoMod"
+    },
+    "en": {
+        "item_name": "Shotgun Ammo Mutation",
+        "description": "Converts unused ammo pickups into Shotgun ammo. Pistol/Rifle <AMMO_MUTATION> 8 and Sniper <AMMO_MUTATION> 15.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shotgun_Ammo_Mutation",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Мутатор: Дробовик",
+        "description": "Преобразует неиспользуемые боеприпасы в патроны для дробовика. Пистолет/Дробовик <AMMO_MUTATION> 8 и Снайпер. <AMMO_MUTATION> 15.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80_%D0%94%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B8%D0%BA",
+        "icon": "icons/ru/Shotgun_Ammo_Mutation.740028de03a0c1b66fdf5906077e09ae.png",
+        "thumb": "icons/ru/thumbs/Shotgun_Ammo_Mutation.740028de03a0c1b66fdf5906077e09ae.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "샷건 애모 뮤테이션",
+        "description": "사용되지 않는 탄약 드롭 아이템을 산탄총 탄약으로 변환합니다. 권총/소총 탄약 변환량: <AMMO_MUTATION>8, 저격총 탄약 변환량: <AMMO_MUTATION>15.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shotgun_Ammo_Mutation",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Munition-wandler: Schrot",
+        "description": "Ungenutzte Munition wird in Schrotmunition umgewandelt. Pistolen/Gewehr <AMMO_MUTATION> 8 und Scharfschützen <AMMO_MUTATION> 15.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Munitionswandler_Schrot",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Mutation De Fusil À Pompe",
+        "description": "Convertit les munitions ramassées inutilisées en munitions de Fusil à Pompe; <AMMO_MUTATION> 8 Pistolet/Fusil et <AMMO_MUTATION> 15 Fusil de Sniper.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mutation_de_Fusil_%C3%A0_Pompe_Accrue",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Shotgun Ammo Mutation",
+        "description": "Converte coletáveis de munição em munição de Escopeta. Pistola/Rifle <AMMO_MUTATION> 8 e Rifle de Precisão <AMMO_MUTATION> 15.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shotgun_Ammo_Mutation",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "霰弹枪弹药转换",
+        "description": "将未使用的弹药拾取转换成霰弹枪弹药。手枪/步枪<AMMO_MUTATION> 8 和狙击枪<AMMO_MUTATION> 15。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shotgun_Ammo_Mutation",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "霰彈槍彈藥轉換",
+        "description": "將未使用的彈藥轉換成霰彈槍彈藥。手槍/步槍 <AMMO_MUTATION> 8 及狙擊槍 <AMMO_MUTATION> 15。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shotgun_Ammo_Mutation",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Mutación De Munición De Escopeta",
+        "description": "Convierte la munición recogida no utilizada en munición de escopeta. Pistola/rifle <AMMO_MUTATION> 8 y francotirador <AMMO_MUTATION> 15.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mutaci%C3%B3n_de_munici%C3%B3n_de_escopeta",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Shotgun Ammo Mutation",
+        "description": "Converte le munizioni inutilizzate raccolte in Munizioni Fucile a Pompa. Pistola/Fucile <AMMO_MUTATION> 8 e Fucile da Cecchino <AMMO_MUTATION> 15.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Shotgun_Ammo_Mutation",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Mutator Strzelbowy",
+        "description": "Przekształca nieużywaną podniesioną amunicję w Amunicję do Strzelb. Pistoletowa/Karabinowa daje <AMMO_MUTATION> 8, a Snajperska daje <AMMO_MUTATION> 15.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Shotgun_Ammo_Mutation",
+        "drop": []
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

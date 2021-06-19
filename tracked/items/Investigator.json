@@ -1,0 +1,87 @@
+{
+    "_id": "54a74455e779892d5e515691",
+    "tags": [
+        "mod",
+        "sentinel",
+        "common"
+    ],
+    "icon": "icons/en/Investigator.e357cf9924c5d27bf15b557d60f50ae6.png",
+    "thumb": "icons/en/thumbs/Investigator.e357cf9924c5d27bf15b557d60f50ae6.128x128.png",
+    "icon_format": "port",
+    "url_name": "investigator",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Sentinels/SentinelPrecepts/CodexScannerPrecept"
+    },
+    "en": {
+        "item_name": "Investigator",
+        "description": "Helios Sentinel will scan objects and enemies within 50m over 2s. This consumes codex scanner charges.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Investigator",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Исследователь",
+        "description": "Позволяет Стражу Гелиос сканировать объекты и врагов в радиусе 50м с задержкой в 2с. При этом расходуются заряды Сканера Кодекса.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Investigator.c52a001ff0ad8a561b8f2fe0ad4bdbe2.png",
+        "thumb": "icons/ru/thumbs/Investigator.c52a001ff0ad8a561b8f2fe0ad4bdbe2.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "인베스티게이터",
+        "description": "헬리오스 센티넬이 2초 동안 50m 내에 있는 적 또는 물체를 스캔합니다. 소모품에 장착된 코덱스 스캐너 또는 신디시스 스캐너를 소모합니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Investigator",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Aufspürer",
+        "description": "Helios scannt Gegenstände und Gegner in 50 m über 2 s. Dabei werden Codex-Scanner Aufladungen verbraucht",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Aufsp%C3%BCrer",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Inspecteur",
+        "description": "La Sentinelle Helios va scanner pendant 2s les objets et les ennemis dans un rayon de 50m. Cela utilise des Scanneur du Codex.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Inspecteur",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Investigator",
+        "description": "A Sentinela Helios escaneia objetos e inimigos dentro de 50m por 2s. Esta ação consome cargas do Escâner do Codex.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Investigator",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "侦察",
+        "description": "赫利俄斯守护会消耗资料库扫描器来扫描 50 米范围内的物件及敌人，耗时 2 秒。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Investigator",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "偵查",
+        "description": "赫利俄斯守護會消耗資料庫掃描器來掃描 50 公尺範圍內的物件及敵人，耗時 2 秒。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Investigator",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Investigador",
+        "description": "Helios escaneará objetos y enemigos en un radio de 50m durante 2s. Al hacerlo consumirá cargas del escáner del códice.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Investigador",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Investigator",
+        "description": "Helios scannerizzerà oggetti e nemici entro 50m in 2s. Questo consumerà cariche codex scanner.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Investigator",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Badacz",
+        "description": "Strażnik Helios zeskanuje obiekty i przeciwników w zasięgu 50m w ciągu 2s. Konsumuje to ładunki skanera.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Badacz",
+        "drop": []
+    },
+    "rarity": "common",
+    "max_rank": 5,
+    "trading_tax": 2000
+}

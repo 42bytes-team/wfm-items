@@ -1,0 +1,415 @@
+{
+    "_id": "5b2985e3eb069f04ea65b0fd",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "melee",
+        "handle"
+    ],
+    "icon": "icons/en/destreza_prime_handle.b1a1cc461a2cfcf9998f0588c8e932a4.png",
+    "thumb": "icons/en/thumbs/destreza_prime_handle.b1a1cc461a2cfcf9998f0588c8e932a4.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/handle_128x128.png",
+    "url_name": "destreza_prime_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/DestrezaPrimeHandle"
+    },
+    "part_of_set": [
+        "destreza_prime_set",
+        "destreza_prime_blade",
+        "destreza_prime_blueprint",
+        "destreza_prime_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Destreza Prime Handle",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "Axi R2 Relic (Common)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "Axi O3 Relic (Common)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "Axi D2 Relic (Common)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Axi O4 Relic (Common)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Meso E2 Relic (Common)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Meso E3 Relic (Common)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "Lith L1 Relic (Common)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Дестреза Прайм: Рукоять",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%B5%D1%81%D1%82%D1%80%D0%B5%D0%B7%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси R2 (Обычный)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "Реликвия Акси O3 (Обычный)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "Реликвия Акси D2 (Обычный)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Реликвия Акси O4 (Обычный)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Реликвия Мезо E2 (Обычный)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Реликвия Мезо E3 (Обычный)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "Реликвия Лит L1 (Обычный)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "데스트레자 프라임 핸들",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "액시 R2 성유물 (커먼)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "액시 O3 성유물 (커먼)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "액시 D2 성유물 (커먼)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "액시 O4 성유물 (커먼)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "메소 E2 성유물 (커먼)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "메소 E3 성유물 (커먼)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "리스 L1 성유물 (커먼)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Destreza Prime: Griff",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: R2 (Gewöhnlich)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "Axi-relikt: O3 (Gewöhnlich)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "Axi-relikt: D2 (Gewöhnlich)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Axi-relikt: O4 (Gewöhnlich)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Meso-relikt: E2 (Gewöhnlich)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Meso-relikt: E3 (Gewöhnlich)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "Lith-relikt: L1 (Gewöhnlich)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Destreza Prime - Poignée",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi R2 (Commun)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "Relique Axi O3 (Commun)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "Relique Axi D2 (Commun)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Relique Axi O4 (Commun)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Relique Meso E2 (Commun)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Relique Meso E3 (Commun)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "Relique Lith L1 (Commun)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Destreza Prime: Cabo",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi R2 (Comum)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "Relíquia Axi O3 (Comum)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "Relíquia Axi D2 (Comum)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Relíquia Axi O4 (Comum)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Relíquia Meso E2 (Comum)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Relíquia Meso E3 (Comum)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "Relíquia Lith L1 (Comum)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "技巧之剑 Prime 握柄",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "后纪 R2 遗物 (常见)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "后纪 O3 遗物 (常见)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "后纪 D2 遗物 (常见)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "后纪 O4 遗物 (常见)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "前纪 E2 遗物 (常见)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "前纪 E3 遗物 (常见)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "古纪 L1 遗物 (常见)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "技巧之劍 Prime 握柄",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "後紀 R2 遺物 (常見)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "後紀 O3 遺物 (常見)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "後紀 D2 遺物 (常見)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "後紀 O4 遺物 (常見)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "前紀 E2 遺物 (常見)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "前紀 E3 遺物 (常見)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "古紀 L1 遺物 (常見)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Empuñadura De Destreza Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi R2 (Común)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "Reliquia Axi O3 (Común)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "Reliquia Axi D2 (Común)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Reliquia Axi O4 (Común)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Reliquia Meso E2 (Común)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Reliquia Meso E3 (Común)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "Reliquia Lith L1 (Común)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Destreza Prime - Elsa",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Destreza",
+        "drop": [
+            {
+                "name": "Reliquia Axi R2 (Common)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "Reliquia Axi O3 (Common)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "Reliquia Axi D2 (Common)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Reliquia Axi O4 (Common)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Reliquia Meso E2 (Common)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Reliquia Meso E3 (Common)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "Reliquia Lith L1 (Common)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Destreza Prime: Rękojeść",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Destreza_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi R2 (Powszechny)",
+                "link": "axi_r2_relic"
+            },
+            {
+                "name": "Relikt Axi O3 (Powszechny)",
+                "link": "axi_o3_relic"
+            },
+            {
+                "name": "Relikt Axi D2 (Powszechny)",
+                "link": "axi_d2_relic"
+            },
+            {
+                "name": "Relikt Axi O4 (Powszechny)",
+                "link": "axi_o4_relic"
+            },
+            {
+                "name": "Relikt Meso E2 (Powszechny)",
+                "link": "meso_e2_relic"
+            },
+            {
+                "name": "Relikt Meso E3 (Powszechny)",
+                "link": "meso_e3_relic"
+            },
+            {
+                "name": "Relikt Lith L1 (Powszechny)",
+                "link": "lith_l1_relic"
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 15,
+    "trading_tax": 2000
+}

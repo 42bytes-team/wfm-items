@@ -1,0 +1,91 @@
+{
+    "_id": "5fde10c46db57b0185b3907b",
+    "tags": [
+        "necramech",
+        "component"
+    ],
+    "icon": "icons/en/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.png",
+    "thumb": "icons/en/thumbs/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "icons/en/sub_morgha_barrel.9e9aaaa8d48f03c0b04388a80ba1d5af.png",
+    "url_name": "morgha_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem"
+    },
+    "part_of_set": [
+        "morgha_stock",
+        "morgha_receiver",
+        "morgha_barrel",
+        "morgha_set"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Morgha Barrel",
+        "description": "A Necramech weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Morgha",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Морга: Ствол",
+        "description": "Компонент оружия Некрамеха.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%BE%D1%80%D0%B3%D0%B0",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "모르가 배럴",
+        "description": "네크라메크 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Morgha",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Morgha: Lauf",
+        "description": "Eine Komponente für die Herstellung von Necramech-Waffen.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Morgha",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Morgha - Canon",
+        "description": "Un composant d'arme pour Necramech.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Morgha",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Morgha: Cano",
+        "description": "Um componente de fabricação de Armas do Necramech.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Morgha",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "置灵者 枪管",
+        "description": "一个殁世机甲武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Morgha",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "葬棺者 槍管",
+        "description": "製作亡骸機甲武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Morgha",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Cañón De Morgha",
+        "description": "Un componente de fabricación de arma de Necramech.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Morgha",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Morgha - Canna",
+        "description": "Un componente Necramech per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Morgha",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Morgha: Lufa",
+        "description": "Element tworzący broń Nekramecha.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Morgha",
+        "drop": []
+    },
+    "mastery_level": 15,
+    "trading_tax": 2000
+}

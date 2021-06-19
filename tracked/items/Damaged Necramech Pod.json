@@ -1,0 +1,92 @@
+{
+    "_id": "5f498a259426ed00443bd0cd",
+    "tags": [
+        "necramech",
+        "pod",
+        "mech"
+    ],
+    "icon": "icons/en/damaged_necramech_pod.09d9da6db09801ac4413810d0524625b.png",
+    "thumb": "icons/en/thumbs/damaged_necramech_pod.09d9da6db09801ac4413810d0524625b.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/damaged_mech_part_systems_128x128.png",
+    "url_name": "damaged_necramech_pod",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem"
+    },
+    "part_of_set": [
+        "damaged_necramech_weapon_pod",
+        "damaged_necramech_engine",
+        "damaged_necramech_pod",
+        "damaged_necramech_casing",
+        "damaged_necramech_set"
+    ],
+    "set_root": false,
+    "en": {
+        "item_name": "Damaged Necramech Pod",
+        "description": "A modular component for a Necramech. It’s damaged and in need of repair.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Поврежденная Капсула Некрамеха",
+        "description": "Модульный компонент Некрамеха. Поврежденный и требующий ремонта.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "손상된 네크라메크 포드",
+        "description": "네크라메크의 모듈형 부품입니다. 손상되어 수리가 필요합니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Necramech: Beschädigte Hülse",
+        "description": "Eine modulare Komponente für einen Necramech. Beschädigt und bedarf einer Reparatur.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Nacelle De Necramech Endommagée",
+        "description": "Un composant modulaire pour Necramech. Il est endommagé et il a besoin de réparation.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Necramech",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Necramech: Câmara Danificada",
+        "description": "Um componente modular para um Necramech. Está danificado e precisa de conserto.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "损坏的殁世机甲 机舱",
+        "description": "殁世机甲的模块组件。它处于损坏状态，需要修复。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "損毀的亡骸機甲 機艙",
+        "description": "亡骸機甲的模組部件。已損毀並須要維修。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Cápsula De Necramech Dañada",
+        "description": "Un componente modular del Necramech. Está dañado y necesita reparación.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Necramech",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Capsula Necramech Danneggiata",
+        "description": "Un componente modulare per un Necramech. È danneggiato e necessita di riparazioni.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Uszkodzona Kapsuła Nekramecha",
+        "description": "Modularny komponent Nekramecha. Jest uszkodzony i wymaga naprawy.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "trading_tax": 2000
+}

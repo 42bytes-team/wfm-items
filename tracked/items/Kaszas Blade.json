@@ -1,0 +1,94 @@
+{
+    "_id": "5783bee2d9b6753790c89e87",
+    "tags": [
+        "component",
+        "weapon",
+        "blade",
+        "melee",
+        "archwing"
+    ],
+    "icon": "icons/en/kaszas_blade.11baea8229af2d3500c79b829f9dfcee.png",
+    "thumb": "icons/en/thumbs/kaszas_blade.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "kaszas_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchScytheBlade"
+    },
+    "part_of_set": [
+        "kaszas_set",
+        "kaszas_blade",
+        "kaszas_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Kaszas Blade",
+        "description": "An Archwing weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kaszas",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Косаш: Лезвие",
+        "description": "Компонент оружия арчвинга.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%88",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "카스자스 블레이드",
+        "description": "아크윙 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kaszas",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Kaszas: Klinge",
+        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Kaszas",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Kaszas - Lame",
+        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kaszas",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Kaszas: Lâmina",
+        "description": "Um componente de fabricação de armas Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Kaszas",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "死亡使徒 刀刃",
+        "description": "一个 Archwing 武器制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kaszas",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "死亡使徒 刀刃",
+        "description": "製作 Archwing 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kaszas",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Hoja De Kaszas",
+        "description": "Un componente de fabricación de arma de archwing.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Kaszas",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Kaszas - Lama",
+        "description": "Un componente per la costruzione di un'arma Archwing.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Kaszas",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Kaszas: Ostrze",
+        "description": "Element wytwarzania broni Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kaszas",
+        "drop": []
+    },
+    "mastery_level": 4,
+    "trading_tax": 2000
+}

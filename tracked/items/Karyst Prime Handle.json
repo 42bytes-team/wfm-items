@@ -1,0 +1,283 @@
+{
+    "_id": "5f0e0fdc9f527b0285718f18",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "melee",
+        "handle"
+    ],
+    "icon": "icons/en/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.png",
+    "thumb": "icons/en/thumbs/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/handle_128x128.png",
+    "url_name": "karyst_prime_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/KarystPrimeHandle"
+    },
+    "part_of_set": [
+        "karyst_prime_set",
+        "karyst_prime_handle",
+        "karyst_prime_blueprint",
+        "karyst_prime_blade"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Karyst Prime Handle",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Axi B4 Relic (Uncommon)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Neo A5 Relic (Uncommon)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "Lith I1 Relic (Uncommon)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "Lith T4 Relic (Uncommon)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Карист Прайм: Рукоять",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D1%81%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси B4 (Необычный)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Реликвия Нео A5 (Необычный)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "Реликвия Лит I1 (Необычный)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "Реликвия Лит T4 (Необычный)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "캐리스트 프라임 핸들",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "액시 B4 성유물 (언커먼)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "네오 A5 성유물 (언커먼)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "리스 I1 성유물 (언커먼)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "리스 T4 성유물 (언커먼)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Karyst Prime: Griff",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Vasto_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: B4 (Ungewöhnlich)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Neo-relikt: A5 (Ungewöhnlich)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "Lith-relikt: I1 (Ungewöhnlich)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "Lith-relikt: T4 (Ungewöhnlich)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Karyst Prime - Poignée",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi B4 (Inhabituel)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Relique Neo A5 (Inhabituel)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "Relique Lith I1 (Inhabituel)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "Relique Lith T4 (Inhabituel)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Karyst Prime: Cabo",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vasto_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi B4 (Incomum)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Relíquia Neo A5 (Incomum)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "Relíquia Lith I1 (Incomum)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "Relíquia Lith T4 (Incomum)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "凯洛斯特 Prime 握柄",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "后纪 B4 遗物 (罕见)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "中纪 A5 遗物 (罕见)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "古纪 I1 遗物 (罕见)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "古纪 T4 遗物 (罕见)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "凱洛斯特 Prime 握柄",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "後紀 B4 遺物 (罕見)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "中紀 A5 遺物 (罕見)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "古紀 I1 遺物 (罕見)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "古紀 T4 遺物 (罕見)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Empuñadura De Karyst Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi B4 (Poco Común)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Reliquia Neo A5 (Poco Común)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "Reliquia Lith I1 (Poco Común)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "Reliquia Lith T4 (Poco Común)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Karyst Prime - Elsa",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Vasto_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi B4 (Uncommon)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Reliquia Neo A5 (Uncommon)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "Reliquia Lith I1 (Uncommon)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "Reliquia Lith T4 (Uncommon)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Karyst Prime: Rękojeść",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Karyst_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi B4 (Nieprzeciętny)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Relikt Neo A5 (Nieprzeciętny)",
+                "link": "neo_a5_relic"
+            },
+            {
+                "name": "Relikt Lith I1 (Nieprzeciętny)",
+                "link": "lith_i1_relic"
+            },
+            {
+                "name": "Relikt Lith T4 (Nieprzeciętny)",
+                "link": "lith_t4_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}

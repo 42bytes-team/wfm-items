@@ -1,0 +1,371 @@
+{
+    "_id": "5d21ce48f4604c012d1e0c16",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "melee",
+        "chain"
+    ],
+    "icon": "icons/en/ninkondi_prime_chain.d8516fa5fc9fe9518b6b9ec8fa59cb28.png",
+    "thumb": "icons/en/thumbs/ninkondi_prime_chain.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/chain_128x128.png",
+    "url_name": "ninkondi_prime_chain",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/NinkondiPrimeChain"
+    },
+    "part_of_set": [
+        "ninkondi_prime_set",
+        "ninkondi_prime_blueprint",
+        "ninkondi_prime_handle",
+        "ninkondi_prime_chain"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ninkondi Prime Chain",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Axi P1 Relic (Uncommon)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Neo R4 Relic (Uncommon)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "Neo R3 Relic (Uncommon)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "Lith D4 Relic (Uncommon)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Lith D3 Relic (Uncommon)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "Lith D1 Relic (Uncommon)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нинконди Прайм: Цепь",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B8%D0%BD%D0%BA%D0%BE%D0%BD%D0%B4%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси P1 (Необычный)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Реликвия Нео R4 (Необычный)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "Реликвия Нео R3 (Необычный)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "Реликвия Лит D4 (Необычный)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Реликвия Лит D3 (Необычный)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "Реликвия Лит D1 (Необычный)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "닌콘디 프라임 체인",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "액시 P1 성유물 (언커먼)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "네오 R4 성유물 (언커먼)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "네오 R3 성유물 (언커먼)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "리스 D4 성유물 (언커먼)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "리스 D3 성유물 (언커먼)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "리스 D1 성유물 (언커먼)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Ninkondi Prime: Kette",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: P1 (Ungewöhnlich)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Neo-relikt: R4 (Ungewöhnlich)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "Neo-relikt: R3 (Ungewöhnlich)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "Lith-relikt: D4 (Ungewöhnlich)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Lith-relikt: D3 (Ungewöhnlich)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "Lith-relikt: D1 (Ungewöhnlich)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Ninkondi Prime - Chaîne",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi P1 (Inhabituel)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relique Neo R4 (Inhabituel)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "Relique Neo R3 (Inhabituel)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "Relique Lith D4 (Inhabituel)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Relique Lith D3 (Inhabituel)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "Relique Lith D1 (Inhabituel)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Ninkondi Prime: Corrente",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi P1 (Incomum)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relíquia Neo R4 (Incomum)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "Relíquia Neo R3 (Incomum)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "Relíquia Lith D4 (Incomum)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Relíquia Lith D3 (Incomum)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "Relíquia Lith D1 (Incomum)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "降灵追猎者 Prime 链条",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "后纪 P1 遗物 (罕见)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "中纪 R4 遗物 (罕见)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "中纪 R3 遗物 (罕见)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "古纪 D4 遗物 (罕见)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "古纪 D3 遗物 (罕见)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "古纪 D1 遗物 (罕见)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "降靈追獵者 Prime 鏈條",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "後紀 P1 遺物 (罕見)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "中紀 R4 遺物 (罕見)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "中紀 R3 遺物 (罕見)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "古紀 D4 遺物 (罕見)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "古紀 D3 遺物 (罕見)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "古紀 D1 遺物 (罕見)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cadena De Ninkondi Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi P1 (Poco Común)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Reliquia Neo R4 (Poco Común)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "Reliquia Neo R3 (Poco Común)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "Reliquia Lith D4 (Poco Común)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Reliquia Lith D3 (Poco Común)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "Reliquia Lith D1 (Poco Común)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Ninkondi Prime - Catena",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nikana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi P1 (Uncommon)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Reliquia Neo R4 (Uncommon)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "Reliquia Neo R3 (Uncommon)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "Reliquia Lith D4 (Uncommon)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Reliquia Lith D3 (Uncommon)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "Reliquia Lith D1 (Uncommon)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Ninkondi Prime: Łańcuch",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ninkondi_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi P1 (Nieprzeciętny)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relikt Neo R4 (Nieprzeciętny)",
+                "link": "neo_r4_relic"
+            },
+            {
+                "name": "Relikt Neo R3 (Nieprzeciętny)",
+                "link": "neo_r3_relic"
+            },
+            {
+                "name": "Relikt Lith D4 (Nieprzeciętny)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Relikt Lith D3 (Nieprzeciętny)",
+                "link": "lith_d3_relic"
+            },
+            {
+                "name": "Relikt Lith D1 (Nieprzeciętny)",
+                "link": "lith_d1_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

@@ -1,0 +1,374 @@
+{
+    "_id": "59a5cd4d5cd9938cfede7044",
+    "tags": [
+        "weapon",
+        "crossbow",
+        "prime",
+        "component",
+        "secondary",
+        "blueprint"
+    ],
+    "icon": "icons/en/ballistica_prime_lower_limb.4ed33348008ace40406d0383f692ecac.png",
+    "thumb": "icons/en/thumbs/ballistica_prime_lower_limb.4ed33348008ace40406d0383f692ecac.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/lower_limb_128x128.png",
+    "url_name": "ballistica_prime_lower_limb",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb"
+    },
+    "part_of_set": [
+        "ballistica_prime_set",
+        "ballistica_prime_blueprint",
+        "ballistica_prime_lower_limb",
+        "ballistica_prime_receiver",
+        "ballistica_prime_string",
+        "ballistica_prime_upper_limb"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ballistica Prime Lower Limb",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Axi V6 Relic (Common)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Axi K5 Relic (Common)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Neo B5 Relic (Common)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "Meso A1 Relic (Common)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Meso M3 Relic (Common)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Lith O1 Relic (Common)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Баллистика Прайм: Нижнее Плечо",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси V6 (Обычный)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Реликвия Акси K5 (Обычный)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Реликвия Нео B5 (Обычный)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "Реликвия Мезо A1 (Обычный)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Реликвия Мезо M3 (Обычный)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Реликвия Лит O1 (Обычный)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "발리스티카 프라임 로워 림",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "액시 V6 성유물 (커먼)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "액시 K5 성유물 (커먼)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "네오 B5 성유물 (커먼)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "메소 A1 성유물 (커먼)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "메소 M3 성유물 (커먼)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "리스 O1 성유물 (커먼)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Ballistica Prime: Unterteil",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: V6 (Gewöhnlich)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Axi-relikt: K5 (Gewöhnlich)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Neo-relikt: B5 (Gewöhnlich)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "Meso-relikt: A1 (Gewöhnlich)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Meso-relikt: M3 (Gewöhnlich)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Lith-relikt: O1 (Gewöhnlich)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Ballistica Prime - Partie Inférieure",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi V6 (Commun)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Relique Axi K5 (Commun)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Relique Neo B5 (Commun)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "Relique Meso A1 (Commun)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relique Meso M3 (Commun)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relique Lith O1 (Commun)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Ballistica Prime: Membro Inferior",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi V6 (Comum)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Relíquia Axi K5 (Comum)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Relíquia Neo B5 (Comum)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "Relíquia Meso A1 (Comum)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relíquia Meso M3 (Comum)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relíquia Lith O1 (Comum)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "布里斯提卡 Prime 下弓臂",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "后纪 V6 遗物 (常见)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "后纪 K5 遗物 (常见)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "中纪 B5 遗物 (常见)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "前纪 A1 遗物 (常见)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "前纪 M3 遗物 (常见)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "古纪 O1 遗物 (常见)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "布里斯提卡 Prime 下弓臂",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "後紀 V6 遺物 (常見)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "後紀 K5 遺物 (常見)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "中紀 B5 遺物 (常見)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "前紀 A1 遺物 (常見)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "前紀 M3 遺物 (常見)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "古紀 O1 遺物 (常見)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Pala Inferior De Ballistica Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V6 (Común)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Reliquia Axi K5 (Común)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Reliquia Neo B5 (Común)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "Reliquia Meso A1 (Común)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Reliquia Meso M3 (Común)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Reliquia Lith O1 (Común)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Ballistica Prime - Flettente Inferiore",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Ballistica",
+        "drop": [
+            {
+                "name": "Reliquia Axi V6 (Common)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Reliquia Axi K5 (Common)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Reliquia Neo B5 (Common)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "Reliquia Meso A1 (Common)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Reliquia Meso M3 (Common)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Reliquia Lith O1 (Common)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Ballistica Prime: Dolne Ramię",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi V6 (Powszechny)",
+                "link": "axi_v6_relic"
+            },
+            {
+                "name": "Relikt Axi K5 (Powszechny)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Relikt Neo B5 (Powszechny)",
+                "link": "neo_b5_relic"
+            },
+            {
+                "name": "Relikt Meso A1 (Powszechny)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relikt Meso M3 (Powszechny)",
+                "link": "meso_m3_relic"
+            },
+            {
+                "name": "Relikt Lith O1 (Powszechny)",
+                "link": "lith_o1_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

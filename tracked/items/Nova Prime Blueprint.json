@@ -1,0 +1,238 @@
+{
+    "_id": "54a73e65e779893a797fff6b",
+    "tags": [
+        "blueprint",
+        "prime",
+        "warframe"
+    ],
+    "icon": "icons/en/nova_prime_blueprint.639a9222e1cb351cd6dd09ef28155ef0.png",
+    "thumb": "icons/en/thumbs/nova_prime_blueprint.639a9222e1cb351cd6dd09ef28155ef0.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "nova_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NovaPrimeBlueprint"
+    },
+    "part_of_set": [
+        "nova_prime_set",
+        "nova_prime_blueprint",
+        "nova_prime_chassis",
+        "nova_prime_neuroptics",
+        "nova_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nova Prime Blueprint",
+        "description": "Nova Prime wreaks devastation on her enemies using volatile antimatter. Featuring altered mod polarities for greater customization.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "Axi S4 Relic (Uncommon)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Neo N2 Relic (Uncommon)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "Meso D5 Relic (Uncommon)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нова Прайм: Чертеж",
+        "description": "Управляя нестабильной анти-материей, Нова Прайм обрушивает разрушение на врагов. Обладает дополнительными полярностями слотов для более тонкой настройки. ",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%BE%D0%B2%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси S4 (Необычный)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Реликвия Нео N2 (Необычный)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "Реликвия Мезо D5 (Необычный)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "노바 프라임 설계도",
+        "description": "노바 프라임은 불안정한 반물질을 이용해 그녀의 적들에게 파괴적인 피해를 가합니다. 더욱 다채로운 특성화를 위한 추가 모드 극성이 포함됩니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "액시 S4 성유물 (언커먼)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "네오 N2 성유물 (언커먼)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "메소 D5 성유물 (언커먼)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Nova Prime: Blaupause",
+        "description": "Nova Prime bringt mit flüchtiger Antimaterie Verwüstung über ihre Gegner. Mit veränderten Mod-Polaritäten für eine bessere Anpassung.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: S4 (Ungewöhnlich)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Neo-relikt: N2 (Ungewöhnlich)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "Meso-relikt: D5 (Ungewöhnlich)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Nova Prime - Schéma",
+        "description": "Nova Prime sème la dévastation sur ses ennemis à l'aide de l'antimatière volatile. Elle possède des polarités modifiées pour plus de personnalisation.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi S4 (Inhabituel)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relique Neo N2 (Inhabituel)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "Relique Meso D5 (Inhabituel)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Nova Prime: Diagram",
+        "description": "A Nova Prime devasta seus inimigos com antimatéria volátil. Inclusas polaridades alteradas de mods para uma maior personalização.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi S4 (Incomum)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relíquia Neo N2 (Incomum)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "Relíquia Meso D5 (Incomum)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Nova Prime 蓝图",
+        "description": "Nova Prime 以她的反物质能量波来对敌人造成破坏。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "后纪 S4 遗物 (罕见)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "中纪 N2 遗物 (罕见)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "前纪 D5 遗物 (罕见)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Nova Prime 藍圖",
+        "description": "Nova Prime 以她的反物質能量波來對敵人造成破壞。擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "後紀 S4 遺物 (罕見)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "中紀 N2 遺物 (罕見)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "前紀 D5 遺物 (罕見)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Nova Prime",
+        "description": "Nova Prime desata la devastación sobre sus enemigos usando antimateria volátil. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S4 (Poco Común)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Reliquia Neo N2 (Poco Común)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "Reliquia Meso D5 (Poco Común)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Nova Prime Blueprint",
+        "description": "Nova Prime porta devastazione sui suoi nemici usando antimateria volatile. Presenta polarità mod alterate per una maggiore personalizzazione.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S4 (Uncommon)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Reliquia Neo N2 (Uncommon)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "Reliquia Meso D5 (Uncommon)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Nova Prime: Schemat",
+        "description": "Nova Prime sieje zniszczenie na polu bitwy używając wybuchowej antymaterii. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nova_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi S4 (Nieprzeciętny)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relikt Neo N2 (Nieprzeciętny)",
+                "link": "neo_n2_relic"
+            },
+            {
+                "name": "Relikt Meso D5 (Nieprzeciętny)",
+                "link": "meso_d5_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

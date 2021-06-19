@@ -1,0 +1,87 @@
+{
+    "_id": "54a74455e779892d5e5156df",
+    "tags": [
+        "mod",
+        "melee",
+        "rare"
+    ],
+    "icon": "icons/en/Quickening.9e97bf104d79d8311bd058bd79b120c0.png",
+    "thumb": "icons/en/thumbs/Quickening.9e97bf104d79d8311bd058bd79b120c0.128x128.png",
+    "icon_format": "port",
+    "url_name": "quickening",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelFireRateMod"
+    },
+    "en": {
+        "item_name": "Quickening",
+        "description": "+40% Attack Speed\n+20% Combo Count Chance",
+        "wiki_link": "https://warframe.fandom.com/wiki/Quickening",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Ускоряющий",
+        "description": "+40% к скорости атаки\n+20% к шансу увеличить счётчик комбо",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D0%B9",
+        "icon": "icons/ru/Quickening.e5c0f247575db10bc09a5eebfefc1e02.png",
+        "thumb": "icons/ru/thumbs/Quickening.e5c0f247575db10bc09a5eebfefc1e02.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "퀴크닝",
+        "description": "+40% 공격 속도\n+20% 연속기 카운트 확률",
+        "wiki_link": "https://warframe.fandom.com/wiki/Quickening",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Beschleunigung",
+        "description": "+40 % Angriffsgeschwindigkeit\n+20 % Kombo-Zähler Chance",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Beschleunigung",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Accélération",
+        "description": "+40% de Vitesse d'Attaque\n+20% de Chance de Points de Combo",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Acc%C3%A9l%C3%A9ration",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Quickening",
+        "description": "+40% de Velocidade de Ataque\n+20% de Chance de Incrementar o Combo",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Quick_Thinking",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "加速",
+        "description": "+40% 攻击速度\n+20% 连击数几率",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Quickening",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "加速",
+        "description": "+40% 攻擊速度\n+20% 連擊數機率",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Quickening",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Aceleración",
+        "description": "+40% de velocidad de ataque\n+20% de probabilidad de contador de combo",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aceleraci%C3%B3n",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Quickening",
+        "description": "+40% Velocità d'Attacco\n+20% Probabilità Contatore Combo",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Quick_Thinking",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Ożywienie",
+        "description": "+40% Prędkość Ataku\n+20% Szansa na punkt licznika Kombo",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%BBywienie",
+        "drop": []
+    },
+    "rarity": "rare",
+    "max_rank": 3,
+    "trading_tax": 8000
+}

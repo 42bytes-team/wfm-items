@@ -1,0 +1,51 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe68",
+    "url_name": "channeling_damage",
+    "group": "melee",
+    "prefix": "Para",
+    "suffix": "Um",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "units": null,
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponMeleeComboInitialBonusMod"
+    },
+    "en": {
+        "effect": "Initial combo"
+    },
+    "ru": {
+        "effect": "Начальное комбо"
+    },
+    "ko": {
+        "effect": "기본 연속기"
+    },
+    "de": {
+        "effect": "Anfängliche Kombo"
+    },
+    "fr": {
+        "effect": "Combo initial"
+    },
+    "pt": {
+        "effect": "Initial combo"
+    },
+    "zh-hans": {
+        "effect": "初始连击数"
+    },
+    "zh-hant": {
+        "effect": "初始連擊數"
+    },
+    "es": {
+        "effect": "Combo inicial"
+    },
+    "it": {
+        "effect": "Initial combo"
+    },
+    "pl": {
+        "effect": "Początkowa Wartość Kombo"
+    }
+}

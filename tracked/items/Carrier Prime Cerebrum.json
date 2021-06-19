@@ -1,0 +1,328 @@
+{
+    "_id": "559daacae779897b47b74c13",
+    "tags": [
+        "sentinel",
+        "prime",
+        "cerebrum",
+        "component",
+        "weapon"
+    ],
+    "icon": "icons/en/carrier_prime_cerebrum.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+    "thumb": "icons/en/thumbs/carrier_prime_cerebrum.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/cerebrum_128x128.png",
+    "url_name": "carrier_prime_cerebrum",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCerebrum"
+    },
+    "part_of_set": [
+        "carrier_prime_set",
+        "carrier_prime_blueprint",
+        "carrier_prime_carapace",
+        "carrier_prime_cerebrum",
+        "carrier_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Carrier Prime Cerebrum",
+        "description": "A prime sentinel-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Meso N3 Relic (Uncommon)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Meso C2 Relic (Rare)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Meso C1 Relic (Rare)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "Meso V6 Relic (Uncommon)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Lith C1 Relic (Rare)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Носитель Прайм: Мозг",
+        "description": "Прайм-компонент стража.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Мезо N3 (Необычный)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Реликвия Мезо C2 (Редкий)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Реликвия Мезо C1 (Редкий)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "Реликвия Мезо V6 (Необычный)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Реликвия Лит C1 (Редкий)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "캐리어 프라임 세레브럼",
+        "description": "프라임 센티넬 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "메소 N3 성유물 (언커먼)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "메소 C2 성유물 (레어)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "메소 C1 성유물 (레어)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "메소 V6 성유물 (언커먼)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "리스 C1 성유물 (레어)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Carrier Prime: Cerebrum",
+        "description": "Eine Komponente für die Herstellung von Prime Wächtern.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Meso-relikt: N3 (Ungewöhnlich)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Meso-relikt: C2 (Selten)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Meso-relikt: C1 (Selten)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "Meso-relikt: V6 (Ungewöhnlich)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Lith-relikt: C1 (Selten)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Carrier Prime - Cerveau",
+        "description": "Un composant servant à la fabrication de sentinelles Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Relique Meso N3 (Inhabituel)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Relique Meso C2 (Rare)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Relique Meso C1 (Rare)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "Relique Meso V6 (Inhabituel)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Relique Lith C1 (Rare)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Carrier Prime: Cérebro",
+        "description": "Um componente de fabricação de sentinelas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Meso N3 (Incomum)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Relíquia Meso C2 (Raro)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Relíquia Meso C1 (Raro)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "Relíquia Meso V6 (Incomum)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Relíquia Lith C1 (Raro)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "搬运者 Prime 头部",
+        "description": "一个 Prime 守护的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "前纪 N3 遗物 (罕见)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "前纪 C2 遗物 (稀有)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "前纪 C1 遗物 (稀有)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "前纪 V6 遗物 (罕见)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "古纪 C1 遗物 (稀有)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "搬運者 Prime 頭部",
+        "description": "製作 Prime 守護的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "前紀 N3 遺物 (罕見)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "前紀 C2 遺物 (稀有)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "前紀 C1 遺物 (稀有)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "前紀 V6 遺物 (罕見)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "古紀 C1 遺物 (稀有)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cerebro De Carrier Prime",
+        "description": "Un componente de fabricación de centinela prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso N3 (Poco Común)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Reliquia Meso C2 (Raro)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Reliquia Meso C1 (Raro)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "Reliquia Meso V6 (Poco Común)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Reliquia Lith C1 (Raro)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Carrier Prime - Cervello",
+        "description": "Un componente Prime per la costruzione di una sentinella.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Paris_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso N3 (Uncommon)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Reliquia Meso C2 (Rare)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Reliquia Meso C1 (Rare)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "Reliquia Meso V6 (Uncommon)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Reliquia Lith C1 (Rare)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Carrier Prime: Mózg",
+        "description": "Element wytwarzania Strażników Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Relikt Meso N3 (Nieprzeciętny)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Relikt Meso C2 (Rzadki)",
+                "link": "meso_c2_relic"
+            },
+            {
+                "name": "Relikt Meso C1 (Rzadki)",
+                "link": "meso_c1_relic"
+            },
+            {
+                "name": "Relikt Meso V6 (Nieprzeciętny)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Relikt Lith C1 (Rzadki)",
+                "link": "lith_c1_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 65,
+    "trading_tax": 2000
+}

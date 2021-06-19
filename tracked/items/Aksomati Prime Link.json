@@ -1,0 +1,241 @@
+{
+    "_id": "5df955131456970150510f24",
+    "tags": [
+        "weapon",
+        "prime",
+        "pistol",
+        "link",
+        "secondary",
+        "component"
+    ],
+    "icon": "icons/en/aksomati_prime_link.617fca3e38e6696ec87a6c28bd6bbebf.png",
+    "thumb": "icons/en/thumbs/aksomati_prime_link.617fca3e38e6696ec87a6c28bd6bbebf.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/link_128x128.png",
+    "url_name": "aksomati_prime_link",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AksomatiPrimeLink"
+    },
+    "part_of_set": [
+        "aksomati_prime_set",
+        "aksomati_prime_link",
+        "aksomati_prime_receiver",
+        "aksomati_prime_blueprint",
+        "aksomati_prime_barrel"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Aksomati Prime Link",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "Axi A10 Relic (Rare)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "Axi A13 Relic (Rare)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "Axi A8 Relic (Rare)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Аксомати Прайм: Связь",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D1%81%D0%BE%D0%BC%D0%B0%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси A10 (Редкий)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "Реликвия Акси A13 (Редкий)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "Реликвия Акси A8 (Редкий)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "아크소마티 프라임 링크",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "액시 A10 성유물 (레어)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "액시 A13 성유물 (레어)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "액시 A8 성유물 (레어)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Aksomati Prime: Verbindung",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: A10 (Selten)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "Axi-relikt: A13 (Selten)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "Axi-relikt: A8 (Selten)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Aksomati Prime - Lien",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi A10 (Rare)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "Relique Axi A13 (Rare)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "Relique Axi A8 (Rare)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Aksomati Prime: Conexão",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi A10 (Raro)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "Relíquia Axi A13 (Raro)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "Relíquia Axi A8 (Raro)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "轻灵月神双枪 Prime 连接器",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "后纪 A10 遗物 (稀有)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "后纪 A13 遗物 (稀有)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "后纪 A8 遗物 (稀有)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "輕靈月神雙槍 Prime 連接器",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "後紀 A10 遺物 (稀有)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "後紀 A13 遺物 (稀有)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "後紀 A8 遺物 (稀有)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Enlace De Aksomati Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A10 (Raro)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "Reliquia Axi A13 (Raro)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "Reliquia Axi A8 (Raro)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Aksomati Prime - Collegamento",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A10 (Rare)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "Reliquia Axi A13 (Rare)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "Reliquia Axi A8 (Rare)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Aksomati Prime: Połączenie",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Aksomati_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi A10 (Rzadki)",
+                "link": "axi_a10_relic"
+            },
+            {
+                "name": "Relikt Axi A13 (Rzadki)",
+                "link": "axi_a13_relic"
+            },
+            {
+                "name": "Relikt Axi A8 (Rzadki)",
+                "link": "axi_a8_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 100,
+    "trading_tax": 2000
+}

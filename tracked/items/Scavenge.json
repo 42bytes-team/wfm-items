@@ -1,0 +1,88 @@
+{
+    "_id": "54a74454e779892d5e5155b0",
+    "tags": [
+        "common",
+        "mod",
+        "kubrow",
+        "sentinel"
+    ],
+    "icon": "icons/en/Scavenge.e597b9b2f1fbef58407446ed6b39c68a.png",
+    "thumb": "icons/en/thumbs/Scavenge.e597b9b2f1fbef58407446ed6b39c68a.128x128.png",
+    "icon_format": "port",
+    "url_name": "scavenge",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowThiefPrecept"
+    },
+    "en": {
+        "item_name": "Scavenge",
+        "description": "+90% chance for the pet to pry open a locked locker.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scavenge",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Собиратель",
+        "description": "+90% шанс, что ваш питомец откроет запертый ящик.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
+        "icon": "icons/ru/Scavenge.696ffc70e2fb4c08e094b679b10312d8.png",
+        "thumb": "icons/ru/thumbs/Scavenge.696ffc70e2fb4c08e094b679b10312d8.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "스캐빈지",
+        "description": "펫이 +90%의 확률로 잠긴 보관함을 엽니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scavenge",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Plündern",
+        "description": "+90 % Chance, dass dein Haustier einen verschlossenen Spind aufbricht.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Pl%C3%BCndern",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Recherche",
+        "description": "+90% de chance que votre animal puisse forcer un casier verrouillé.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Recherche",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Scavenge",
+        "description": "+90% de chance do mascote abrir um armário trancado.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Scavenge",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "搜集",
+        "description": "宠物有 +90% 的机会打开锁住的储物柜。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scavenge",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "蒐集",
+        "description": "寵物有+90% 的機會打開鎖上的置物櫃。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scavenge",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Husmear",
+        "description": "Probabilidad del +90% de que tu mascota fuerce un armario cerrado.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Husmear",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Scavenge",
+        "description": "+90% di possibilità che l'animale domestico forzi un armadietto chiuso.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Scavenge",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Zbieracz",
+        "description": "+90% szansy że towarzysz wskaże możliwą do otworzenia szafkę.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zbieracz",
+        "drop": []
+    },
+    "rarity": "common",
+    "max_rank": 5,
+    "trading_tax": 2000
+}

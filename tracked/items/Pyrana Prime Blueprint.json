@@ -1,0 +1,371 @@
+{
+    "_id": "5b2985e1eb069f04ea65b0ea",
+    "tags": [
+        "shotgun",
+        "prime",
+        "secondary",
+        "weapon",
+        "blueprint"
+    ],
+    "icon": "icons/en/Pyrana_Prime_Set.006fc1f35a3662cb6d84ce6a7f63cd9e.png",
+    "thumb": "icons/en/thumbs/Pyrana_Prime_Set.006fc1f35a3662cb6d84ce6a7f63cd9e.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "pyrana_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/PyranaPrimeBlueprint"
+    },
+    "part_of_set": [
+        "pyrana_prime_set",
+        "pyrana_prime_blueprint",
+        "pyrana_prime_receiver",
+        "pyrana_prime_barrel"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Pyrana Prime Blueprint",
+        "description": "Three kills in rapid succession to summon a second ethereal Pyrana for twice the deadly punch.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Axi P1 Relic (Rare)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Axi P3 Relic (Rare)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "Axi P2 Relic (Rare)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Meso P1 Relic (Rare)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Lith P1 Relic (Rare)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "Lith P2 Relic (Rare)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пирана Прайм: Чертеж",
+        "description": "Три быстрых убийства подряд призовут вторую, призрачную Пирану для удвоения смертоносной силы.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси P1 (Редкий)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Реликвия Акси P3 (Редкий)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "Реликвия Акси P2 (Редкий)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Реликвия Мезо P1 (Редкий)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Реликвия Лит P1 (Редкий)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "Реликвия Лит P2 (Редкий)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "파이라나 프라임 설계도",
+        "description": "연속으로 적을 세 명 처치하면 소환되는 또 하나의 무형 파이라나로 적들에게 두 배의 치명적인 타격을 안겨주세요.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "액시 P1 성유물 (레어)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "액시 P3 성유물 (레어)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "액시 P2 성유물 (레어)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "메소 P1 성유물 (레어)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "리스 P1 성유물 (레어)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "리스 P2 성유물 (레어)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Pyrana Prime: Blaupause",
+        "description": "3 Kills kurz hintereinander beschwören ein zweites, ätherisches Pyrana herbei, für den doppelten, tödlichen Effekt",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: P1 (Selten)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Axi-relikt: P3 (Selten)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "Axi-relikt: P2 (Selten)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Meso-relikt: P1 (Selten)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Lith-relikt: P1 (Selten)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "Lith-relikt: P2 (Selten)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Pyrana Prime - Schéma",
+        "description": "Trois éliminations rapides en série pour faire apparaître un second Pyrana Éther pour des tirs doublement mortels.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi P1 (Rare)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relique Axi P3 (Rare)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "Relique Axi P2 (Rare)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Relique Meso P1 (Rare)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relique Lith P1 (Rare)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "Relique Lith P2 (Rare)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Pyrana Prime: Diagram",
+        "description": "Realize três abates em sucessão rápida para invocar uma segunda Pyrana etérea e adquirir o dobro de seu golpe mortal",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi P1 (Raro)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relíquia Axi P3 (Raro)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "Relíquia Axi P2 (Raro)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Relíquia Meso P1 (Raro)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relíquia Lith P1 (Raro)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "Relíquia Lith P2 (Raro)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "食人鱼 Prime 蓝图",
+        "description": "（英文：PYRANA PRIME）快速地连续 3 次击杀将召唤一把食人鱼的幻影，造成双倍的致命杀伤。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "后纪 P1 遗物 (稀有)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "后纪 P3 遗物 (稀有)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "后纪 P2 遗物 (稀有)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "前纪 P1 遗物 (稀有)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "古纪 P1 遗物 (稀有)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "古纪 P2 遗物 (稀有)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "食人魚 Prime 藍圖",
+        "description": "（英文：PYRANA PRIME）三次快速的連續擊殺將召喚一把食人魚的幻影，造成雙倍的致命殺傷。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "後紀 P1 遺物 (稀有)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "後紀 P3 遺物 (稀有)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "後紀 P2 遺物 (稀有)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "前紀 P1 遺物 (稀有)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "古紀 P1 遺物 (稀有)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "古紀 P2 遺物 (稀有)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Pyrana Prime",
+        "description": "Tres muertes en rápida sucesión invocan una segunda Pyrana etérea para el doble de golpe mortal.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi P1 (Raro)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Reliquia Axi P3 (Raro)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "Reliquia Axi P2 (Raro)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Reliquia Meso P1 (Raro)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Reliquia Lith P1 (Raro)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "Reliquia Lith P2 (Raro)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Pyrana Prime Blueprint",
+        "description": "Tre uccisioni in rapida successione evocano una seconda Pyrana eterea che raddoppia il potenziale distruttivo.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Skana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi P1 (Rare)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Reliquia Axi P3 (Rare)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "Reliquia Axi P2 (Rare)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Reliquia Meso P1 (Rare)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Reliquia Lith P1 (Rare)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "Reliquia Lith P2 (Rare)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Pyrana Prime: Schemat",
+        "description": "Trzy zabójstwa, następujące szybko po sobie, powodują przywołanie drugiej eterycznej Pyrany, aby dwukrotnie zwiększyć śmiertelne uderzenia.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi P1 (Rzadki)",
+                "link": "axi_p1_relic"
+            },
+            {
+                "name": "Relikt Axi P3 (Rzadki)",
+                "link": "axi_p3_relic"
+            },
+            {
+                "name": "Relikt Axi P2 (Rzadki)",
+                "link": "axi_p2_relic"
+            },
+            {
+                "name": "Relikt Meso P1 (Rzadki)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relikt Lith P1 (Rzadki)",
+                "link": "lith_p1_relic"
+            },
+            {
+                "name": "Relikt Lith P2 (Rzadki)",
+                "link": "lith_p2_relic"
+            }
+        ]
+    },
+    "mastery_level": 13,
+    "ducats": 100,
+    "trading_tax": 2000
+}

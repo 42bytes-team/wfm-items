@@ -1,0 +1,284 @@
+{
+    "_id": "5df955121456970150510f21",
+    "tags": [
+        "prime",
+        "primary",
+        "weapon",
+        "blueprint",
+        "weapons"
+    ],
+    "icon": "icons/en/baza_prime_blueprint.a5f9c94cee410a5af7726ee6b2fca2b5.png",
+    "thumb": "icons/en/thumbs/baza_prime_blueprint.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "baza_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/BazaPrimeBlueprint"
+    },
+    "part_of_set": [
+        "baza_prime_set",
+        "baza_prime_blueprint",
+        "baza_prime_stock",
+        "baza_prime_barrel",
+        "baza_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Baza Prime Blueprint",
+        "description": "This rapid-fire classic is the Orokin-engineered definition of silent, pinpoint lethality.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Baza_Prime",
+        "drop": [
+            {
+                "name": "Axi B4 Relic (Rare)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Meso B4 Relic (Rare)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "Lith B8 Relic (Rare)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "Lith B7 Relic (Rare)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "База Прайм: Чертеж",
+        "description": "Эта скорострельная классика, разработанная по технологиям Орокин - воплощение тихой и точной смерти.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси B4 (Редкий)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Реликвия Мезо B4 (Редкий)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "Реликвия Лит B8 (Редкий)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "Реликвия Лит B7 (Редкий)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "바자 프라임 설계도",
+        "description": "빠른 연사력을 자랑하는 이 명작은 오로킨 기술이 정의해낸 고요하고도 정확한 살상력, 바로 그 자체입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Baza_Prime",
+        "drop": [
+            {
+                "name": "액시 B4 성유물 (레어)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "메소 B4 성유물 (레어)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "리스 B8 성유물 (레어)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "리스 B7 성유물 (레어)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Baza Prime: Blaupause",
+        "description": "Dieser schnellfeuernde Klassiker ist die von den Orokin entwickelte Definition von stiller, zielgenauer Tödlichkeit.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Boar_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: B4 (Selten)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Meso-relikt: B4 (Selten)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "Lith-relikt: B8 (Selten)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "Lith-relikt: B7 (Selten)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Baza Prime - Schéma",
+        "description": "La version Orokin de cette arme classique incarne une mortalité des plus silencieuse.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Baza_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi B4 (Rare)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Relique Meso B4 (Rare)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "Relique Lith B8 (Rare)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "Relique Lith B7 (Rare)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Baza Prime: Diagram",
+        "description": "Esta arma clássica de tiro rápido projetada pelos Orokin é a definição de letalidade silenciosa.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Boar_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi B4 (Raro)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Relíquia Meso B4 (Raro)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "Relíquia Lith B8 (Raro)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "Relíquia Lith B7 (Raro)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "苍鹰 Prime 蓝图",
+        "description": "（英文：BAZA PRIME）这把经典的高射速冲锋枪体现了 Orokin 工艺对于无声和精确杀伤的定义。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Baza_Prime",
+        "drop": [
+            {
+                "name": "后纪 B4 遗物 (稀有)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "前纪 B4 遗物 (稀有)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "古纪 B8 遗物 (稀有)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "古纪 B7 遗物 (稀有)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "蒼鷹 Prime 藍圖",
+        "description": "（英文：BAZA PRIME）這把經典的速射衝鋒槍突顯了 Orokin 工程對於無聲以及致命的定義。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Baza_Prime",
+        "drop": [
+            {
+                "name": "後紀 B4 遺物 (稀有)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "前紀 B4 遺物 (稀有)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "古紀 B8 遺物 (稀有)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "古紀 B7 遺物 (稀有)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Baza Prime",
+        "description": "Este clásico del disparo rápido es la definición de la letalidad precisa y silenciosa de la ingeniería Orokin.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Baza_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi B4 (Raro)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Reliquia Meso B4 (Raro)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "Reliquia Lith B8 (Raro)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "Reliquia Lith B7 (Raro)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Baza Prime Blueprint",
+        "description": "Questo classico a fuoco rapido è la definizione progettistica Orokin di letalità silenziosa e precisa.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Boar_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi B4 (Rare)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Reliquia Meso B4 (Rare)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "Reliquia Lith B8 (Rare)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "Reliquia Lith B7 (Rare)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Baza Prime: Schemat",
+        "description": "Ten szybkostrzelający klasyk inżynierii Orokin jest definicją cichego i skupionego zabójstwa.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Baza_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi B4 (Rzadki)",
+                "link": "axi_b4_relic"
+            },
+            {
+                "name": "Relikt Meso B4 (Rzadki)",
+                "link": "meso_b4_relic"
+            },
+            {
+                "name": "Relikt Lith B8 (Rzadki)",
+                "link": "lith_b8_relic"
+            },
+            {
+                "name": "Relikt Lith B7 (Rzadki)",
+                "link": "lith_b7_relic"
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 100,
+    "trading_tax": 2000
+}

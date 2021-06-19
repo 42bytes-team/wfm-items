@@ -1,0 +1,49 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe7c",
+    "url_name": "slash_damage",
+    "group": "default",
+    "prefix": "Sci",
+    "suffix": "Sus",
+    "icon": "static/assets/icons/Slash_b.7f498707339a19472934afec8a0b8b78.svg",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponSlashDamageMod"
+    },
+    "en": {
+        "effect": "Slash"
+    },
+    "ru": {
+        "effect": "Режущий урон"
+    },
+    "ko": {
+        "effect": "베기 피해"
+    },
+    "de": {
+        "effect": "Schnittschaden"
+    },
+    "fr": {
+        "effect": "Dégâts Tranchant"
+    },
+    "pt": {
+        "effect": "Slash Damage"
+    },
+    "zh-hans": {
+        "effect": "切割伤害"
+    },
+    "zh-hant": {
+        "effect": "切割傷害"
+    },
+    "es": {
+        "effect": "Cortante"
+    },
+    "it": {
+        "effect": "Slash"
+    },
+    "pl": {
+        "effect": "Obrażenia Tnące"
+    }
+}

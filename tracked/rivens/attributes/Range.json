@@ -1,0 +1,51 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe7b",
+    "url_name": "range",
+    "group": "melee",
+    "prefix": "Locti",
+    "suffix": "Tor",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "units": null,
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponMeleeRangeIncMod"
+    },
+    "en": {
+        "effect": "Range"
+    },
+    "ru": {
+        "effect": "Радиус"
+    },
+    "ko": {
+        "effect": "사거리"
+    },
+    "de": {
+        "effect": "Reichweite"
+    },
+    "fr": {
+        "effect": "Portée"
+    },
+    "pt": {
+        "effect": "Range"
+    },
+    "zh-hans": {
+        "effect": "攻击范围"
+    },
+    "zh-hant": {
+        "effect": "攻擊範圍"
+    },
+    "es": {
+        "effect": "Rango"
+    },
+    "it": {
+        "effect": "Range"
+    },
+    "pl": {
+        "effect": "Zasięg"
+    }
+}

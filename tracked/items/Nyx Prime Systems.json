@@ -1,0 +1,240 @@
+{
+    "_id": "54a73e65e779893a797fff76",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "systems",
+        "warframe"
+    ],
+    "icon": "icons/en/nyx_prime_systems.fd41c04c9e9bcc7e0e6963914f68f880.png",
+    "thumb": "icons/en/thumbs/nyx_prime_systems.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/systems_128x128.png",
+    "url_name": "nyx_prime_systems",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeSystemsBlueprint"
+    },
+    "part_of_set": [
+        "nyx_prime_set",
+        "nyx_prime_blueprint",
+        "nyx_prime_chassis",
+        "nyx_prime_neuroptics",
+        "nyx_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nyx Prime Systems",
+        "description": "Systems component of the Nyx Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Axi S3 Relic (Uncommon)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "Neo S2 Relic (Uncommon)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "Lith C7 Relic (Uncommon)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Никс Прайм: Система",
+        "description": "Компонент варфрейма Никс Прайм: Система.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B8%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси S3 (Необычный)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "Реликвия Нео S2 (Необычный)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "Реликвия Лит C7 (Необычный)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "닉스 프라임 시스템",
+        "description": "닉스 프라임 워프레임의 시스템 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "액시 S3 성유물 (언커먼)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "네오 S2 성유물 (언커먼)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "리스 C7 성유물 (언커먼)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Nyx Prime: Systeme",
+        "description": "Systeme-Komponente für den Nyx Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: S3 (Ungewöhnlich)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "Neo-relikt: S2 (Ungewöhnlich)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "Lith-relikt: C7 (Ungewöhnlich)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Nyx Prime - Systèmes",
+        "description": "Le composant Systèmes de la Warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi S3 (Inhabituel)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "Relique Neo S2 (Inhabituel)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "Relique Lith C7 (Inhabituel)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Nyx Prime: Sistemas",
+        "description": "Sistemas componentes do Warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi S3 (Incomum)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "Relíquia Neo S2 (Incomum)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "Relíquia Lith C7 (Incomum)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Nyx Prime 系统",
+        "description": "Nyx Prime 战甲的系统组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "后纪 S3 遗物 (罕见)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "中纪 S2 遗物 (罕见)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "古纪 C7 遗物 (罕见)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Nyx Prime 系統",
+        "description": "Nyx Prime Warframe 的系統組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "後紀 S3 遺物 (罕見)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "中紀 S2 遺物 (罕見)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "古紀 C7 遺物 (罕見)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Sistemas De Nyx Prime",
+        "description": "Componente de los sistemas del warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S3 (Poco Común)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "Reliquia Neo S2 (Poco Común)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "Reliquia Lith C7 (Poco Común)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Nyx Prime - Sistemi",
+        "description": "Il componente Sistemi per il Warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S3 (Uncommon)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "Reliquia Neo S2 (Uncommon)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "Reliquia Lith C7 (Uncommon)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Nyx Prime: Systemy",
+        "description": "Systemy dla Warframe Nyx Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nyx_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi S3 (Nieprzeciętny)",
+                "link": "axi_s3_relic"
+            },
+            {
+                "name": "Relikt Neo S2 (Nieprzeciętny)",
+                "link": "neo_s2_relic"
+            },
+            {
+                "name": "Relikt Lith C7 (Nieprzeciętny)",
+                "link": "lith_c7_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

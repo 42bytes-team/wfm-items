@@ -1,0 +1,284 @@
+{
+    "_id": "54a73e65e779893a797fff64",
+    "tags": [
+        "prime",
+        "stock",
+        "primary",
+        "component",
+        "weapon"
+    ],
+    "icon": "icons/en/Soma_Prime_Set.1bf4937a6c2106c373cffeb93b1c87e0.png",
+    "thumb": "icons/en/thumbs/Soma_Prime_Set.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "soma_prime_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/SomaPrimeStock"
+    },
+    "part_of_set": [
+        "soma_prime_set",
+        "soma_prime_barrel",
+        "soma_prime_blueprint",
+        "soma_prime_receiver",
+        "soma_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Soma Prime Stock",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Axi S7 Relic (Rare)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Axi S4 Relic (Rare)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Meso S1 Relic (Rare)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Lith S2 Relic (Rare)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сома Прайм: Приклад",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BE%D0%BC%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси S7 (Редкий)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Реликвия Акси S4 (Редкий)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Реликвия Мезо S1 (Редкий)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Реликвия Лит S2 (Редкий)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "소마 프라임 스톡",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "액시 S7 성유물 (레어)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "액시 S4 성유물 (레어)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "메소 S1 성유물 (레어)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "리스 S2 성유물 (레어)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Soma Prime: Schaft",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: S7 (Selten)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Axi-relikt: S4 (Selten)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Meso-relikt: S1 (Selten)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Lith-relikt: S2 (Selten)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Soma Prime - Crosse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi S7 (Rare)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Relique Axi S4 (Rare)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relique Meso S1 (Rare)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Relique Lith S2 (Rare)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Soma Prime: Coronha",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi S7 (Raro)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Relíquia Axi S4 (Raro)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relíquia Meso S1 (Raro)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Relíquia Lith S2 (Raro)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "月神 Prime 枪托",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "后纪 S7 遗物 (稀有)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "后纪 S4 遗物 (稀有)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "前纪 S1 遗物 (稀有)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "古纪 S2 遗物 (稀有)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "月神 Prime 槍托",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "後紀 S7 遺物 (稀有)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "後紀 S4 遺物 (稀有)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "前紀 S1 遺物 (稀有)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "古紀 S2 遺物 (稀有)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Culata De Soma Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S7 (Raro)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Reliquia Axi S4 (Raro)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Reliquia Meso S1 (Raro)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Reliquia Lith S2 (Raro)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Soma Prime - Calcio",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S7 (Rare)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Reliquia Axi S4 (Rare)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Reliquia Meso S1 (Rare)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Reliquia Lith S2 (Rare)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Soma Prime: Kolba",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Soma_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi S7 (Rzadki)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Relikt Axi S4 (Rzadki)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relikt Meso S1 (Rzadki)",
+                "link": "meso_s1_relic"
+            },
+            {
+                "name": "Relikt Lith S2 (Rzadki)",
+                "link": "lith_s2_relic"
+            }
+        ]
+    },
+    "mastery_level": 7,
+    "ducats": 100,
+    "trading_tax": 2000
+}

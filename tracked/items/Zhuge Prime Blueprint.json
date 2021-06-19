@@ -1,0 +1,417 @@
+{
+    "_id": "5d21ce47f4604c012d1e0c15",
+    "tags": [
+        "prime",
+        "primary",
+        "weapon",
+        "crossbow",
+        "blueprint"
+    ],
+    "icon": "icons/en/zhuge_prime_blueprint.38e0e6189f1a333b382507a117b194a9.png",
+    "thumb": "icons/en/thumbs/zhuge_prime_blueprint.38e0e6189f1a333b382507a117b194a9.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "zhuge_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/ZhugePrimeBlueprint"
+    },
+    "part_of_set": [
+        "zhuge_prime_set",
+        "zhuge_prime_barrel",
+        "zhuge_prime_grip",
+        "zhuge_prime_string",
+        "zhuge_prime_blueprint",
+        "zhuge_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Zhuge Prime Blueprint",
+        "description": "Tenno artistry. Ancient craft. A weapon of surgical precision and devastating effect. Each bolt fired by Zhuge Prime explodes shortly after embedding.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Axi T4 Relic (Uncommon)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Axi Z1 Relic (Uncommon)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Axi A6 Relic (Uncommon)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Neo G2 Relic (Uncommon)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Meso P2 Relic (Uncommon)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "Lith L1 Relic (Uncommon)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Lith T5 Relic (Uncommon)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Чжугэ Прайм: Чертеж",
+        "description": "Искусность Тэнно. Древнее ремесло. Оружие высочайшей точности и разрушительной мощи. Каждый болт Чжугэ Прайм взрывается спустя некоторое время после попадания.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A7%D0%B6%D1%83%D0%B3%D1%8D_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси T4 (Необычный)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Реликвия Акси Z1 (Необычный)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Реликвия Акси A6 (Необычный)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Реликвия Нео G2 (Необычный)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Реликвия Мезо P2 (Необычный)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "Реликвия Лит L1 (Необычный)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Реликвия Лит T5 (Необычный)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "제갈 프라임 설계도",
+        "description": "텐노의 예술적 기교로 만들어진 고대 공예품입니다. 외과적 정밀함과 파괴적인 영향력을 지닌 무기입니다. 제갈 프라임에서 발사된 볼트는 목표에 박힌 후 폭발합니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "액시 T4 성유물 (언커먼)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "액시 Z1 성유물 (언커먼)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "액시 A6 성유물 (언커먼)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "네오 G2 성유물 (언커먼)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "메소 P2 성유물 (언커먼)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "리스 L1 성유물 (언커먼)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "리스 T5 성유물 (언커먼)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Zhuge Prime: Blaupause",
+        "description": "Tenno Kunstfertigkeit. Uraltes Handwerk. Eine Waffe mit chirurgischer Präzision und entsetzlicher Wirkung. Jeder Pfeil von Zhuge Prime explodiert kurz nach einem Treffer.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: T4 (Ungewöhnlich)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Axi-relikt: Z1 (Ungewöhnlich)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Axi-relikt: A6 (Ungewöhnlich)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Neo-relikt: G2 (Ungewöhnlich)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Meso-relikt: P2 (Ungewöhnlich)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "Lith-relikt: L1 (Ungewöhnlich)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Lith-relikt: T5 (Ungewöhnlich)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Zhuge Prime - Schéma",
+        "description": "Art Tenno authentique, et ancien. Une arme de précision chirurgicale aux effets dévastateurs. Chaque carreau tiré par le Zhuge Prime explose peu après s'être encastré.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi T4 (Inhabituel)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Relique Axi Z1 (Inhabituel)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Relique Axi A6 (Inhabituel)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Relique Neo G2 (Inhabituel)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relique Meso P2 (Inhabituel)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "Relique Lith L1 (Inhabituel)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Relique Lith T5 (Inhabituel)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Zhuge Prime: Diagram",
+        "description": "Artesanato Tenno. Fabricação ancestral. Uma arma com precisão cirúrgica e efeito devastador. Cada flecha da Zhuge Prime explode após um curto período depois de atingir seu alvo.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi T4 (Incomum)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Relíquia Axi Z1 (Incomum)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Relíquia Axi A6 (Incomum)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Relíquia Neo G2 (Incomum)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relíquia Meso P2 (Incomum)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "Relíquia Lith L1 (Incomum)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Relíquia Lith T5 (Incomum)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "诸葛连弩 Prime 蓝图",
+        "description": "（英文：ZHUGE PRIME）Tenno 技艺。古老工艺。一把极为精确且富有破坏力的武器。诸葛连弩 Prime 的每支箭会在击中嵌入的瞬间爆炸。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "后纪 T4 遗物 (罕见)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "后纪 Z1 遗物 (罕见)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "后纪 A6 遗物 (罕见)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "中纪 G2 遗物 (罕见)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "前纪 P2 遗物 (罕见)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "古纪 L1 遗物 (罕见)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "古纪 T5 遗物 (罕见)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "諸葛連弩 Prime 藍圖",
+        "description": "（英文：ZHUGE PRIME）Tenno 的技藝、古代工藝、極為精確和富有破壞力的兵器。諸葛連弩 Prime 發射的每支箭在擊中嵌入後隨即爆炸。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "後紀 T4 遺物 (罕見)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "後紀 Z1 遺物 (罕見)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "後紀 A6 遺物 (罕見)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "中紀 G2 遺物 (罕見)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "前紀 P2 遺物 (罕見)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "古紀 L1 遺物 (罕見)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "古紀 T5 遺物 (罕見)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Zhuge Prime",
+        "description": "Arte tenno. Artesanía ancestral. Un arma de precisión quirúrgica y efecto devastador. Cada virote disparado por Zhuge Prime explota luego de incrustarse.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi T4 (Poco Común)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Reliquia Axi Z1 (Poco Común)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Reliquia Axi A6 (Poco Común)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Reliquia Neo G2 (Poco Común)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Reliquia Meso P2 (Poco Común)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "Reliquia Lith L1 (Poco Común)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Reliquia Lith T5 (Poco Común)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Zhuge Prime Blueprint",
+        "description": "Talento Tenno. Un'antica arte. Un'arma dalla precisione chirurgica ed effetto devastante. Ogni freccia sparata da Zhuge Prime esplode poco dopo essersi conficcata.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Mag_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi T4 (Uncommon)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Reliquia Axi Z1 (Uncommon)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Reliquia Axi A6 (Uncommon)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Reliquia Neo G2 (Uncommon)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Reliquia Meso P2 (Uncommon)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "Reliquia Lith L1 (Uncommon)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Reliquia Lith T5 (Uncommon)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Zhuge Prime: Schemat",
+        "description": "Kunszt Tenno. Starożytne rzemiosło. Broń o chirurgicznej precyzji i dewastujących efektach. Każda strzała z Zhuge Prime wybucha chwilę po trafieniu. ",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zhuge_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi T4 (Nieprzeciętny)",
+                "link": "axi_t4_relic"
+            },
+            {
+                "name": "Relikt Axi Z1 (Nieprzeciętny)",
+                "link": "axi_z1_relic"
+            },
+            {
+                "name": "Relikt Axi A6 (Nieprzeciętny)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Relikt Neo G2 (Nieprzeciętny)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relikt Meso P2 (Nieprzeciętny)",
+                "link": "meso_p2_relic"
+            },
+            {
+                "name": "Relikt Lith L1 (Nieprzeciętny)",
+                "link": "lith_l1_relic"
+            },
+            {
+                "name": "Relikt Lith T5 (Nieprzeciętny)",
+                "link": "lith_t5_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

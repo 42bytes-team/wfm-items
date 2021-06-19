@@ -1,0 +1,49 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe6f",
+    "url_name": "electric_damage",
+    "group": "default",
+    "prefix": "Vexi",
+    "suffix": "Tio",
+    "icon": "static/assets/icons/Electricity_b.c639501dc5b22023fd3d1408745bd86d.png",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": null,
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponElectricityDamageMod"
+    },
+    "en": {
+        "effect": "Electricity"
+    },
+    "ru": {
+        "effect": "Электрический урон"
+    },
+    "ko": {
+        "effect": "전기 피해"
+    },
+    "de": {
+        "effect": "Elektroschaden"
+    },
+    "fr": {
+        "effect": "Dégâts Électrique"
+    },
+    "pt": {
+        "effect": "Electric Damage"
+    },
+    "zh-hans": {
+        "effect": "电击伤害"
+    },
+    "zh-hant": {
+        "effect": "電擊傷害"
+    },
+    "es": {
+        "effect": "Eléctrico"
+    },
+    "it": {
+        "effect": "Electricity"
+    },
+    "pl": {
+        "effect": "Obrażenia Elektryczne"
+    }
+}

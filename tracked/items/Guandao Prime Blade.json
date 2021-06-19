@@ -1,0 +1,239 @@
+{
+    "_id": "5f986cf99dbdce024971b0b8",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "blade",
+        "melee"
+    ],
+    "icon": "icons/en/guandao_prime_blade.864d2ba63998e916e4f22245dd4b6c03.png",
+    "thumb": "icons/en/thumbs/guandao_prime_blade.864d2ba63998e916e4f22245dd4b6c03.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "guandao_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/GuandaoPrimeBlade"
+    },
+    "part_of_set": [
+        "guandao_prime_blade",
+        "guandao_prime_blueprint",
+        "guandao_prime_handle",
+        "guandao_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Guandao Prime Blade",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Guandao_Prime",
+        "drop": [
+            {
+                "name": "Neo P2 Relic (Common)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Neo Z6 Relic (Common)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "Neo V10 Relic (Common)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Гуаньдао Прайм: Клинок",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%83%D0%B0%D0%BD%D1%8C%D0%B4%D0%B0%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео P2 (Обычный)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Реликвия Нео Z6 (Обычный)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "Реликвия Нео V10 (Обычный)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "관도 프라임 블레이드",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Guandao_Prime",
+        "drop": [
+            {
+                "name": "네오 P2 성유물 (커먼)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "네오 Z6 성유물 (커먼)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "네오 V10 성유물 (커먼)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Guandao Prime: Klinge",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Skana_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: P2 (Gewöhnlich)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Neo-relikt: Z6 (Gewöhnlich)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "Neo-relikt: V10 (Gewöhnlich)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Guandao Prime - Lame",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Guandao_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo P2 (Commun)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Relique Neo Z6 (Commun)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "Relique Neo V10 (Commun)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Guandao Prime: Lâmina",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Skana_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo P2 (Comum)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Relíquia Neo Z6 (Comum)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "Relíquia Neo V10 (Comum)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "关刀 Prime 刀刃",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Guandao_prime",
+        "drop": [
+            {
+                "name": "中纪 P2 遗物 (常见)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "中纪 Z6 遗物 (常见)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "中纪 V10 遗物 (常见)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "關刀 Prime 刀刃",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Guandao_prime",
+        "drop": [
+            {
+                "name": "中紀 P2 遺物 (常見)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "中紀 Z6 遺物 (常見)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "中紀 V10 遺物 (常見)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Hoja De Guandao Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Guandao_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo P2 (Común)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Reliquia Neo Z6 (Común)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "Reliquia Neo V10 (Común)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Guandao Prime - Lama",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Skana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo P2 (Common)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Reliquia Neo Z6 (Common)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "Reliquia Neo V10 (Common)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Guandao Prime: Ostrze",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Skana_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo P2 (Powszechny)",
+                "link": "neo_p2_relic"
+            },
+            {
+                "name": "Relikt Neo Z6 (Powszechny)",
+                "link": "neo_z6_relic"
+            },
+            {
+                "name": "Relikt Neo V10 (Powszechny)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 15,
+    "trading_tax": 2000
+}

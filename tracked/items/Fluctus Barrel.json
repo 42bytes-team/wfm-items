@@ -1,0 +1,95 @@
+{
+    "_id": "5783bf15d9b6753790c89e8b",
+    "tags": [
+        "primary",
+        "component",
+        "barrel",
+        "weapon",
+        "archwing"
+    ],
+    "icon": "icons/en/fluctus_barrel.764b2148dde0c8969f748d6e0b80f957.png",
+    "thumb": "icons/en/thumbs/fluctus_barrel.764b2148dde0c8969f748d6e0b80f957.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "fluctus_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRocketCrossbowBarrel"
+    },
+    "part_of_set": [
+        "fluctus_set",
+        "fluctus_barrel",
+        "fluctus_limbs",
+        "fluctus_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Fluctus Barrel",
+        "description": "An Archwing weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Fluctus",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Флактус: Ствол",
+        "description": "Компонент оружия арчвинга.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A4%D0%BB%D0%B0%D0%BA%D1%82%D1%83%D1%81",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "플럭투스 배럴",
+        "description": "아크윙 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Fluctus",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Fluctus: Lauf",
+        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Fluctus",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Fluctus - Canon",
+        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fluctus",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Fluctus: Cano",
+        "description": "Um componente de fabricação de armas Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fluctus",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "巨浪 枪管",
+        "description": "一个 Archwing 武器制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fluctus",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "巨浪 槍管",
+        "description": "製作 Archwing 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fluctus",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Cañón De Fluctus",
+        "description": "Un componente de fabricación de arma de archwing.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Fluctus",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Fluctus - Canna",
+        "description": "Un componente per la costruzione di un'arma Archwing.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Fluctus",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Fluctus: Lufa",
+        "description": "Element wytwarzania broni Archwing.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Fluctus",
+        "drop": []
+    },
+    "mastery_level": 2,
+    "trading_tax": 2000
+}

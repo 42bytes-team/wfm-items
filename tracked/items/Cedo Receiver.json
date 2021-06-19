@@ -1,0 +1,94 @@
+{
+    "_id": "5fe0ea836db57b0225115017",
+    "tags": [
+        "weapon",
+        "shotgun",
+        "primary",
+        "component"
+    ],
+    "icon": "icons/en/cedo_set.beb0319f93c38fe11119204a3ed47614.png",
+    "thumb": "icons/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png",
+    "sub_icon": "sub_icons/generic_receiver_128x128.png",
+    "url_name": "cedo_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnAlchemistShotgunReceiver"
+    },
+    "part_of_set": [
+        "cedo_blueprint",
+        "cedo_stock",
+        "cedo_barrel",
+        "cedo_receiver",
+        "cedo_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Cedo Receiver",
+        "description": "A weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Седо: Приёмник",
+        "description": "Компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B4%D0%BE",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "세도 리시버",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Cedo: Gehäuse",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Cedo - Culasse",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cedo",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Cedo: Receptor",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "塞多 枪机",
+        "description": "一个武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cedo",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "席多 槍機",
+        "description": "製作武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cedo",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Receptor De Cedo",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Cedo - Castello",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Cedo: Korpus",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
+        "drop": []
+    },
+    "mastery_level": 8,
+    "trading_tax": 2000
+}

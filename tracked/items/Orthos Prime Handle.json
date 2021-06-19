@@ -1,0 +1,855 @@
+{
+    "_id": "54a73e65e779893a797fff52",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "melee",
+        "handle"
+    ],
+    "icon": "icons/en/orthos_prime_handle.049c8584708b849d1eff500b182825f2.png",
+    "thumb": "icons/en/thumbs/orthos_prime_handle.049c8584708b849d1eff500b182825f2.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/handle_128x128.png",
+    "url_name": "orthos_prime_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimePolearmHandle"
+    },
+    "part_of_set": [
+        "orthos_prime_set",
+        "orthos_prime_blade",
+        "orthos_prime_blueprint",
+        "orthos_prime_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Orthos Prime Handle",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "Axi K2 Relic (Common)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Axi L2 Relic (Common)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Axi A6 Relic (Common)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Neo Z1 Relic (Common)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Neo H1 Relic (Common)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "Meso K2 Relic (Common)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Meso N4 Relic (Common)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "Meso G2 Relic (Common)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Meso K1 Relic (Common)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Meso A1 Relic (Common)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Meso K3 Relic (Common)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Meso P5 Relic (Common)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "Meso B1 Relic (Common)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "Meso D4 Relic (Common)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "Meso D1 Relic (Common)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "Lith D4 Relic (Common)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Lith A3 Relic (Common)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Ортос Прайм: Рукоять",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%80%D1%82%D0%BE%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси K2 (Обычный)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Реликвия Акси L2 (Обычный)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Реликвия Акси A6 (Обычный)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Реликвия Нео Z1 (Обычный)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Реликвия Нео H1 (Обычный)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "Реликвия Мезо K2 (Обычный)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Реликвия Мезо N4 (Обычный)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "Реликвия Мезо G2 (Обычный)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Реликвия Мезо K1 (Обычный)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Реликвия Мезо A1 (Обычный)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Реликвия Мезо K3 (Обычный)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Реликвия Мезо P5 (Обычный)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "Реликвия Мезо B1 (Обычный)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "Реликвия Мезо D4 (Обычный)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "Реликвия Мезо D1 (Обычный)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "Реликвия Лит D4 (Обычный)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Реликвия Лит A3 (Обычный)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "오르도스 프라임 핸들",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "액시 K2 성유물 (커먼)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "액시 L2 성유물 (커먼)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "액시 A6 성유물 (커먼)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "네오 Z1 성유물 (커먼)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "네오 H1 성유물 (커먼)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "메소 K2 성유물 (커먼)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "메소 N4 성유물 (커먼)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "메소 G2 성유물 (커먼)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "메소 K1 성유물 (커먼)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "메소 A1 성유물 (커먼)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "메소 K3 성유물 (커먼)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "메소 P5 성유물 (커먼)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "메소 B1 성유물 (커먼)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "메소 D4 성유물 (커먼)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "메소 D1 성유물 (커먼)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "리스 D4 성유물 (커먼)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "리스 A3 성유물 (커먼)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Orthos Prime: Griff",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: K2 (Gewöhnlich)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Axi-relikt: L2 (Gewöhnlich)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Axi-relikt: A6 (Gewöhnlich)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Neo-relikt: Z1 (Gewöhnlich)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Neo-relikt: H1 (Gewöhnlich)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "Meso-relikt: K2 (Gewöhnlich)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Meso-relikt: N4 (Gewöhnlich)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "Meso-relikt: G2 (Gewöhnlich)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Meso-relikt: K1 (Gewöhnlich)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Meso-relikt: A1 (Gewöhnlich)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Meso-relikt: K3 (Gewöhnlich)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Meso-relikt: P5 (Gewöhnlich)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "Meso-relikt: B1 (Gewöhnlich)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "Meso-relikt: D4 (Gewöhnlich)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "Meso-relikt: D1 (Gewöhnlich)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "Lith-relikt: D4 (Gewöhnlich)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Lith-relikt: A3 (Gewöhnlich)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Orthos Prime - Poignée",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi K2 (Commun)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Relique Axi L2 (Commun)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Relique Axi A6 (Commun)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Relique Neo Z1 (Commun)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Relique Neo H1 (Commun)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "Relique Meso K2 (Commun)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Relique Meso N4 (Commun)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "Relique Meso G2 (Commun)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relique Meso K1 (Commun)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Relique Meso A1 (Commun)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relique Meso K3 (Commun)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Relique Meso P5 (Commun)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "Relique Meso B1 (Commun)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "Relique Meso D4 (Commun)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "Relique Meso D1 (Commun)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "Relique Lith D4 (Commun)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Relique Lith A3 (Commun)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Orthos Prime: Cabo",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi K2 (Comum)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Relíquia Axi L2 (Comum)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Relíquia Axi A6 (Comum)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Relíquia Neo Z1 (Comum)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Relíquia Neo H1 (Comum)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "Relíquia Meso K2 (Comum)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Relíquia Meso N4 (Comum)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "Relíquia Meso G2 (Comum)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relíquia Meso K1 (Comum)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Relíquia Meso A1 (Comum)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relíquia Meso K3 (Comum)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Relíquia Meso P5 (Comum)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "Relíquia Meso B1 (Comum)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "Relíquia Meso D4 (Comum)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "Relíquia Meso D1 (Comum)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "Relíquia Lith D4 (Comum)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Relíquia Lith A3 (Comum)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "欧特鲁斯 Prime 握柄",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "后纪 K2 遗物 (常见)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "后纪 L2 遗物 (常见)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "后纪 A6 遗物 (常见)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "中纪 Z1 遗物 (常见)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "中纪 H1 遗物 (常见)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "前纪 K2 遗物 (常见)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "前纪 N4 遗物 (常见)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "前纪 G2 遗物 (常见)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "前纪 K1 遗物 (常见)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "前纪 A1 遗物 (常见)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "前纪 K3 遗物 (常见)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "前纪 P5 遗物 (常见)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "前纪 B1 遗物 (常见)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "前纪 D4 遗物 (常见)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "前纪 D1 遗物 (常见)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "古纪 D4 遗物 (常见)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "古纪 A3 遗物 (常见)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "歐特魯斯 Prime 握柄",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "後紀 K2 遺物 (常見)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "後紀 L2 遺物 (常見)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "後紀 A6 遺物 (常見)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "中紀 Z1 遺物 (常見)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "中紀 H1 遺物 (常見)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "前紀 K2 遺物 (常見)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "前紀 N4 遺物 (常見)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "前紀 G2 遺物 (常見)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "前紀 K1 遺物 (常見)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "前紀 A1 遺物 (常見)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "前紀 K3 遺物 (常見)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "前紀 P5 遺物 (常見)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "前紀 B1 遺物 (常見)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "前紀 D4 遺物 (常見)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "前紀 D1 遺物 (常見)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "古紀 D4 遺物 (常見)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "古紀 A3 遺物 (常見)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Empuñadura De Orthos Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi K2 (Común)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Reliquia Axi L2 (Común)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Reliquia Axi A6 (Común)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Reliquia Neo Z1 (Común)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Reliquia Neo H1 (Común)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "Reliquia Meso K2 (Común)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Reliquia Meso N4 (Común)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "Reliquia Meso G2 (Común)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Reliquia Meso K1 (Común)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Reliquia Meso A1 (Común)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Reliquia Meso K3 (Común)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Reliquia Meso P5 (Común)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "Reliquia Meso B1 (Común)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "Reliquia Meso D4 (Común)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "Reliquia Meso D1 (Común)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "Reliquia Lith D4 (Común)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Reliquia Lith A3 (Común)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Orthos Prime - Manico",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi K2 (Common)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Reliquia Axi L2 (Common)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Reliquia Axi A6 (Common)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Reliquia Neo Z1 (Common)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Reliquia Neo H1 (Common)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "Reliquia Meso K2 (Common)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Reliquia Meso N4 (Common)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "Reliquia Meso G2 (Common)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Reliquia Meso K1 (Common)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Reliquia Meso A1 (Common)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Reliquia Meso K3 (Common)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Reliquia Meso P5 (Common)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "Reliquia Meso B1 (Common)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "Reliquia Meso D4 (Common)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "Reliquia Meso D1 (Common)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "Reliquia Lith D4 (Common)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Reliquia Lith A3 (Common)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Orthos Prime: Drzewce",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi K2 (Powszechny)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Relikt Axi L2 (Powszechny)",
+                "link": "axi_l2_relic"
+            },
+            {
+                "name": "Relikt Axi A6 (Powszechny)",
+                "link": "axi_a6_relic"
+            },
+            {
+                "name": "Relikt Neo Z1 (Powszechny)",
+                "link": "neo_z1_relic"
+            },
+            {
+                "name": "Relikt Neo H1 (Powszechny)",
+                "link": "neo_h1_relic"
+            },
+            {
+                "name": "Relikt Meso K2 (Powszechny)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Relikt Meso N4 (Powszechny)",
+                "link": "meso_n4_relic"
+            },
+            {
+                "name": "Relikt Meso G2 (Powszechny)",
+                "link": "meso_g2_relic"
+            },
+            {
+                "name": "Relikt Meso K1 (Powszechny)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Relikt Meso A1 (Powszechny)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relikt Meso K3 (Powszechny)",
+                "link": "meso_k3_relic"
+            },
+            {
+                "name": "Relikt Meso P5 (Powszechny)",
+                "link": "meso_p5_relic"
+            },
+            {
+                "name": "Relikt Meso B1 (Powszechny)",
+                "link": "meso_b1_relic"
+            },
+            {
+                "name": "Relikt Meso D4 (Powszechny)",
+                "link": "meso_d4_relic"
+            },
+            {
+                "name": "Relikt Meso D1 (Powszechny)",
+                "link": "meso_d1_relic"
+            },
+            {
+                "name": "Relikt Lith D4 (Powszechny)",
+                "link": "lith_d4_relic"
+            },
+            {
+                "name": "Relikt Lith A3 (Powszechny)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 15,
+    "trading_tax": 2000
+}

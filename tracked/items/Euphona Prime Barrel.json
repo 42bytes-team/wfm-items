@@ -1,0 +1,283 @@
+{
+    "_id": "58b57068eb26db5c3119210f",
+    "tags": [
+        "weapon",
+        "shotgun",
+        "component",
+        "secondary",
+        "blueprint"
+    ],
+    "icon": "icons/en/Euphona_Prime_Set.6a18cc50c57ac13c3203e872baf85a8d.png",
+    "thumb": "icons/en/thumbs/Euphona_Prime_Set.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "euphona_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/Prime1HShotgunBarrel"
+    },
+    "part_of_set": [
+        "euphona_prime_set",
+        "euphona_prime_barrel",
+        "euphona_prime_blueprint",
+        "euphona_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Euphona Prime Barrel",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "Neo M1 Relic (Uncommon)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "Meso V5 Relic (Uncommon)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Meso N3 Relic (Uncommon)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Lith M7 Relic (Uncommon)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Юфона Прайм: Ствол",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AE%D1%84%D0%BE%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео M1 (Необычный)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "Реликвия Мезо V5 (Необычный)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Реликвия Мезо N3 (Необычный)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Реликвия Лит M7 (Необычный)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "유포나 프라임 배럴",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "네오 M1 성유물 (언커먼)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "메소 V5 성유물 (언커먼)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "메소 N3 성유물 (언커먼)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "리스 M7 성유물 (언커먼)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Euphona Prime: Lauf",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: M1 (Ungewöhnlich)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "Meso-relikt: V5 (Ungewöhnlich)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Meso-relikt: N3 (Ungewöhnlich)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Lith-relikt: M7 (Ungewöhnlich)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Euphona Prime - Canon",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo M1 (Inhabituel)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "Relique Meso V5 (Inhabituel)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Relique Meso N3 (Inhabituel)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Relique Lith M7 (Inhabituel)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Euphona Prime: Cano",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo M1 (Incomum)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "Relíquia Meso V5 (Incomum)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Relíquia Meso N3 (Incomum)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Relíquia Lith M7 (Incomum)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "悦音 Prime 枪管",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "中纪 M1 遗物 (罕见)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "前纪 V5 遗物 (罕见)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "前纪 N3 遗物 (罕见)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "古纪 M7 遗物 (罕见)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "悅音 Prime 槍管",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "中紀 M1 遺物 (罕見)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "前紀 V5 遺物 (罕見)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "前紀 N3 遺物 (罕見)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "古紀 M7 遺物 (罕見)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cañón De Euphona Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo M1 (Poco Común)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "Reliquia Meso V5 (Poco Común)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Reliquia Meso N3 (Poco Común)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Reliquia Lith M7 (Poco Común)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Euphona Prime - Canna",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo M1 (Uncommon)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "Reliquia Meso V5 (Uncommon)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Reliquia Meso N3 (Uncommon)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Reliquia Lith M7 (Uncommon)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Euphona Prime: Lufa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Euphona_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo M1 (Nieprzeciętny)",
+                "link": "neo_m1_relic"
+            },
+            {
+                "name": "Relikt Meso V5 (Nieprzeciętny)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Relikt Meso N3 (Nieprzeciętny)",
+                "link": "meso_n3_relic"
+            },
+            {
+                "name": "Relikt Lith M7 (Nieprzeciętny)",
+                "link": "lith_m7_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

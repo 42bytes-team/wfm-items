@@ -1,0 +1,326 @@
+{
+    "_id": "573b801c0ec44a47787a6911",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/fragor_prime_blueprint.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+    "thumb": "icons/en/thumbs/fragor_prime_blueprint.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "fragor_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/FragorPrimeBlueprint"
+    },
+    "part_of_set": [
+        "fragor_prime_set",
+        "fragor_prime_blueprint",
+        "fragor_prime_handle",
+        "fragor_prime_head"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Fragor Prime Blueprint",
+        "description": "A beautifully forged instrument of devastation.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "Axi A7 Relic (Uncommon)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "Neo S8 Relic (Uncommon)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "Meso H1 Relic (Uncommon)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "Meso F1 Relic (Rare)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "Lith F1 Relic (Rare)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Фрагор Прайм: Чертеж",
+        "description": "Изумительно выкованный инструмент разрушения.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A4%D1%80%D0%B0%D0%B3%D0%BE%D1%80_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси A7 (Необычный)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "Реликвия Нео S8 (Необычный)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "Реликвия Мезо H1 (Необычный)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "Реликвия Мезо F1 (Редкий)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "Реликвия Лит F1 (Редкий)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "프레거 프라임 설계도",
+        "description": "아름다운 모습으로 빚어진 파괴의 도구입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "액시 A7 성유물 (언커먼)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "네오 S8 성유물 (언커먼)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "메소 H1 성유물 (언커먼)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "메소 F1 성유물 (레어)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "리스 F1 성유물 (레어)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Fragor Prime: Blaupause",
+        "description": "Ein wunderschön geschmiedetes Instrument der Zerstörung.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: A7 (Ungewöhnlich)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "Neo-relikt: S8 (Ungewöhnlich)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "Meso-relikt: H1 (Ungewöhnlich)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "Meso-relikt: F1 (Selten)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "Lith-relikt: F1 (Selten)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Fragor Prime - Schéma",
+        "description": "Un instrument de dévastation merveilleusement forgé.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi A7 (Inhabituel)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "Relique Neo S8 (Inhabituel)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "Relique Meso H1 (Inhabituel)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "Relique Meso F1 (Rare)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "Relique Lith F1 (Rare)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Fragor Prime: Diagram",
+        "description": "Um instrumento de devastação forjado com perfeição.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi A7 (Incomum)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "Relíquia Neo S8 (Incomum)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "Relíquia Meso H1 (Incomum)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "Relíquia Meso F1 (Raro)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "Relíquia Lith F1 (Raro)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "重击巨锤 Prime 蓝图",
+        "description": "（英文：FRAGOR PRIME）一把为了摧毁一切而锻造的终极兵器。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "后纪 A7 遗物 (罕见)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "中纪 S8 遗物 (罕见)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "前纪 H1 遗物 (罕见)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "前纪 F1 遗物 (稀有)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "古纪 F1 遗物 (稀有)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "重擊巨鎚 Prime 藍圖",
+        "description": "（英文：FRAGOR PRIME）一把為了摧毀一切而鍛造的終極兵器。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "後紀 A7 遺物 (罕見)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "中紀 S8 遺物 (罕見)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "前紀 H1 遺物 (罕見)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "前紀 F1 遺物 (稀有)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "古紀 F1 遺物 (稀有)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Fragor Prime",
+        "description": "Un instrumento hermoso forjado de devastación.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A7 (Poco Común)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "Reliquia Neo S8 (Poco Común)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "Reliquia Meso H1 (Poco Común)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "Reliquia Meso F1 (Raro)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "Reliquia Lith F1 (Raro)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Fragor Prime Blueprint",
+        "description": "Un meraviglioso strumento forgiato per la devastazione.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi A7 (Uncommon)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "Reliquia Neo S8 (Uncommon)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "Reliquia Meso H1 (Uncommon)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "Reliquia Meso F1 (Rare)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "Reliquia Lith F1 (Rare)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Fragor Prime: Schemat",
+        "description": "Pięknie wykuty instrument zniszczenia.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Fragor_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi A7 (Nieprzeciętny)",
+                "link": "axi_a7_relic"
+            },
+            {
+                "name": "Relikt Neo S8 (Nieprzeciętny)",
+                "link": "neo_s8_relic"
+            },
+            {
+                "name": "Relikt Meso H1 (Nieprzeciętny)",
+                "link": "meso_h1_relic"
+            },
+            {
+                "name": "Relikt Meso F1 (Rzadki)",
+                "link": "meso_f1_relic"
+            },
+            {
+                "name": "Relikt Lith F1 (Rzadki)",
+                "link": "lith_f1_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 65,
+    "trading_tax": 2000
+}

@@ -1,0 +1,51 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe69",
+    "url_name": "channeling_efficiency",
+    "group": "melee",
+    "prefix": "Forti",
+    "suffix": "Us",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponMeleeComboEfficiencyMod"
+    },
+    "en": {
+        "effect": "Heavy Attack Efficiency"
+    },
+    "ru": {
+        "effect": "Heavy Attack Efficiency"
+    },
+    "ko": {
+        "effect": "Heavy Attack Efficiency"
+    },
+    "de": {
+        "effect": "Heavy Attack Efficiency"
+    },
+    "fr": {
+        "effect": "Efficacité des Attaques Lourdes"
+    },
+    "pt": {
+        "effect": "Heavy Attack Efficiency"
+    },
+    "zh-hans": {
+        "effect": "重击效率"
+    },
+    "zh-hant": {
+        "effect": "重擊效率"
+    },
+    "es": {
+        "effect": "Eficiencia de ataque pesado"
+    },
+    "it": {
+        "effect": "Heavy Attack Efficiency"
+    },
+    "pl": {
+        "effect": "Heavy Attack Efficiency"
+    }
+}

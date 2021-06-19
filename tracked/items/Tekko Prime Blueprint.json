@@ -1,0 +1,282 @@
+{
+    "_id": "5d93ca127ea27b0a87566f7c",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/tekko_prime_blueprint.ace5f3ef4976ceae04ed01d8fcc695c7.png",
+    "thumb": "icons/en/thumbs/tekko_prime_blueprint.ace5f3ef4976ceae04ed01d8fcc695c7.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "tekko_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/TekkoPrimeBlueprint"
+    },
+    "part_of_set": [
+        "tekko_prime_set",
+        "tekko_prime_gauntlet",
+        "tekko_prime_blade",
+        "tekko_prime_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Tekko Prime Blueprint",
+        "description": "As merciless and indestructible as Atlas Prime himself, Tekko Prime crush and split with tectonic force.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+        "drop": [
+            {
+                "name": "Neo B7 Relic (Uncommon)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "Meso E4 Relic (Uncommon)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "Lith P5 Relic (Uncommon)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "Lith L2 Relic (Uncommon)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тэкко Прайм: Чертеж",
+        "description": "Беспощадное и нерушимое, как сам Атлас Прайм, Тэкко Прайм сокрушает и расщепляет с тектонической силой.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%8D%D0%BA%D0%BA%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео B7 (Необычный)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "Реликвия Мезо E4 (Необычный)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "Реликвия Лит P5 (Необычный)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "Реликвия Лит L2 (Необычный)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "텟코 프라임 설계도",
+        "description": "아틀라스 프라임 자신만큼이나 무자비하고 강건한 텟코 프라임은 땅의 힘으로 상대를 산산히 부수고 으스러뜨립니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime",
+        "drop": [
+            {
+                "name": "네오 B7 성유물 (언커먼)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "메소 E4 성유물 (언커먼)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "리스 P5 성유물 (언커먼)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "리스 L2 성유물 (언커먼)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Tekko Prime: Blaupause",
+        "description": "So gnadenlos und unzerstörbar wie Atlas Prime selbst, zerschlagen und zerbrechen die Tekko Prime Gegner mit tektonischer Kraft.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Tipedo_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: B7 (Ungewöhnlich)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "Meso-relikt: E4 (Ungewöhnlich)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "Lith-relikt: P5 (Ungewöhnlich)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "Lith-relikt: L2 (Ungewöhnlich)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Tekko Prime - Schéma",
+        "description": "Aussi impitoyable et indestructible qu'Atlas Prime lui-même, le Tekko Prime écrase et déchire avec une force tectonique.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tekko_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo B7 (Inhabituel)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "Relique Meso E4 (Inhabituel)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "Relique Lith P5 (Inhabituel)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "Relique Lith L2 (Inhabituel)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Tekko Prime: Diagram",
+        "description": "Tão impiedosa e indestrutível quanto o próprio Atlas Prime, a Tekko Prime esmaga e destrói com sua força tectônica.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tekko_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo B7 (Incomum)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "Relíquia Meso E4 (Incomum)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "Relíquia Lith P5 (Incomum)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "Relíquia Lith L2 (Incomum)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "铁钩手甲 Prime 蓝图",
+        "description": "（英文：TEKKO PRIME）如 Atlas Prime 自身一样无情且坚不可摧，铁钩手甲 Prime 通过地动之力粉碎并撕裂敌人。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tekko_Prime",
+        "drop": [
+            {
+                "name": "中纪 B7 遗物 (罕见)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "前纪 E4 遗物 (罕见)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "古纪 P5 遗物 (罕见)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "古纪 L2 遗物 (罕见)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "鐵鉤手甲 Prime 藍圖",
+        "description": "（英文：TEKKO PRIME）如同 Atlas Prime 一樣無情且堅不可摧，鐵鉤手甲 Prime 能以大地之力壓碎並劈開敵人。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tekko_Prime",
+        "drop": [
+            {
+                "name": "中紀 B7 遺物 (罕見)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "前紀 E4 遺物 (罕見)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "古紀 P5 遺物 (罕見)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "古紀 L2 遺物 (罕見)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Tekko Prime",
+        "description": "Tan cruel e indestructible como el mismo Atlas Prime, la Tekko Prime estalla y divide con fuerza tectónica.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Tekko_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo B7 (Poco Común)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "Reliquia Meso E4 (Poco Común)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "Reliquia Lith P5 (Poco Común)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "Reliquia Lith L2 (Poco Común)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Tekko Prime Blueprint",
+        "description": "Spietato ed indistruttibile come Atlas prime, il Tekko Prime distrugge e divide con forza tettonica.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Nekros_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo B7 (Uncommon)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "Reliquia Meso E4 (Uncommon)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "Reliquia Lith P5 (Uncommon)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "Reliquia Lith L2 (Uncommon)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Tekko Prime: Schemat",
+        "description": "Bezlitosny i niezniszczalny jak sam Atlas Prime, Tekko Prime miażdży i rozdziela siłą tektoniczną.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tekko_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo B7 (Nieprzeciętny)",
+                "link": "neo_b7_relic"
+            },
+            {
+                "name": "Relikt Meso E4 (Nieprzeciętny)",
+                "link": "meso_e4_relic"
+            },
+            {
+                "name": "Relikt Lith P5 (Nieprzeciętny)",
+                "link": "lith_p5_relic"
+            },
+            {
+                "name": "Relikt Lith L2 (Nieprzeciętny)",
+                "link": "lith_l2_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}

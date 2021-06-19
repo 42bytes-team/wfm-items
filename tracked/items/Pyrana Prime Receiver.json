@@ -1,0 +1,328 @@
+{
+    "_id": "5b2985e1eb069f04ea65b0ee",
+    "tags": [
+        "weapon",
+        "shotgun",
+        "prime",
+        "receiver",
+        "component",
+        "secondary"
+    ],
+    "icon": "icons/en/Pyrana_Prime_Set.006fc1f35a3662cb6d84ce6a7f63cd9e.png",
+    "thumb": "icons/en/thumbs/Pyrana_Prime_Set.006fc1f35a3662cb6d84ce6a7f63cd9e.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/receiver_128x128.png",
+    "url_name": "pyrana_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PyranaPrimeReceiver"
+    },
+    "part_of_set": [
+        "pyrana_prime_set",
+        "pyrana_prime_blueprint",
+        "pyrana_prime_receiver",
+        "pyrana_prime_barrel"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Pyrana Prime Receiver",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Axi K3 Relic (Uncommon)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Axi C3 Relic (Uncommon)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "Neo Z2 Relic (Uncommon)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Neo G2 Relic (Uncommon)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Neo C1 Relic (Uncommon)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Пирана Прайм: Приёмник",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси K3 (Необычный)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Реликвия Акси C3 (Необычный)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "Реликвия Нео Z2 (Необычный)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Реликвия Нео G2 (Необычный)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Реликвия Нео C1 (Необычный)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "파이라나 프라임 리시버",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "액시 K3 성유물 (언커먼)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "액시 C3 성유물 (언커먼)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "네오 Z2 성유물 (언커먼)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "네오 G2 성유물 (언커먼)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "네오 C1 성유물 (언커먼)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Pyrana Prime: Gehäuse",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: K3 (Ungewöhnlich)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Axi-relikt: C3 (Ungewöhnlich)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "Neo-relikt: Z2 (Ungewöhnlich)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Neo-relikt: G2 (Ungewöhnlich)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Neo-relikt: C1 (Ungewöhnlich)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Pyrana Prime - Culasse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi K3 (Inhabituel)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Relique Axi C3 (Inhabituel)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "Relique Neo Z2 (Inhabituel)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Relique Neo G2 (Inhabituel)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relique Neo C1 (Inhabituel)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Pyrana Prime: Receptor",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi K3 (Incomum)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Relíquia Axi C3 (Incomum)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "Relíquia Neo Z2 (Incomum)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Relíquia Neo G2 (Incomum)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relíquia Neo C1 (Incomum)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "食人鱼 Prime 枪机",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "后纪 K3 遗物 (罕见)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "后纪 C3 遗物 (罕见)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "中纪 Z2 遗物 (罕见)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "中纪 G2 遗物 (罕见)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "中纪 C1 遗物 (罕见)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "食人魚 Prime 槍機",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "後紀 K3 遺物 (罕見)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "後紀 C3 遺物 (罕見)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "中紀 Z2 遺物 (罕見)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "中紀 G2 遺物 (罕見)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "中紀 C1 遺物 (罕見)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Receptor De Pyrana Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi K3 (Poco Común)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Reliquia Axi C3 (Poco Común)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "Reliquia Neo Z2 (Poco Común)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Reliquia Neo G2 (Poco Común)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Reliquia Neo C1 (Poco Común)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Pyrana Prime - Castello",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Skana_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi K3 (Uncommon)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Reliquia Axi C3 (Uncommon)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "Reliquia Neo Z2 (Uncommon)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Reliquia Neo G2 (Uncommon)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Reliquia Neo C1 (Uncommon)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Pyrana Prime: Korpus",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pyrana_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi K3 (Nieprzeciętny)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Relikt Axi C3 (Nieprzeciętny)",
+                "link": "axi_c3_relic"
+            },
+            {
+                "name": "Relikt Neo Z2 (Nieprzeciętny)",
+                "link": "neo_z2_relic"
+            },
+            {
+                "name": "Relikt Neo G2 (Nieprzeciętny)",
+                "link": "neo_g2_relic"
+            },
+            {
+                "name": "Relikt Neo C1 (Nieprzeciętny)",
+                "link": "neo_c1_relic"
+            }
+        ]
+    },
+    "mastery_level": 13,
+    "ducats": 45,
+    "trading_tax": 2000
+}

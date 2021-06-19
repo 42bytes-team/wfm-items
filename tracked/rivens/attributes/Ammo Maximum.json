@@ -1,0 +1,53 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe63",
+    "url_name": "ammo_maximum",
+    "group": "default",
+    "prefix": "Ampi",
+    "suffix": "Bin",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": [
+        "shotgun",
+        "rifle",
+        "pistol",
+        "kitgun"
+    ],
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponAmmoMaxMod"
+    },
+    "en": {
+        "effect": "Ammo Maximum"
+    },
+    "ru": {
+        "effect": "Максимум патронов"
+    },
+    "ko": {
+        "effect": "탄약 최대량"
+    },
+    "de": {
+        "effect": "Maximale Munition"
+    },
+    "fr": {
+        "effect": "Chargeur maximum"
+    },
+    "pt": {
+        "effect": "Ammo Maximum"
+    },
+    "zh-hans": {
+        "effect": "弹药上限"
+    },
+    "zh-hant": {
+        "effect": "彈藥最大值"
+    },
+    "es": {
+        "effect": "Munición máxima"
+    },
+    "it": {
+        "effect": "Ammo Maximum"
+    },
+    "pl": {
+        "effect": "Maksymalna Amunicja"
+    }
+}

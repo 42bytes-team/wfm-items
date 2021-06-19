@@ -1,0 +1,415 @@
+{
+    "_id": "5ab167b9b2b6a80475780fd1",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "blade",
+        "melee"
+    ],
+    "icon": "icons/en/kronen_prime_blade.09023145e06199878b94a9c664e95ce7.png",
+    "thumb": "icons/en/thumbs/kronen_prime_blade.09023145e06199878b94a9c664e95ce7.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "kronen_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/KronenPrimeBlade"
+    },
+    "part_of_set": [
+        "kronen_prime_set",
+        "kronen_prime_blueprint",
+        "kronen_prime_handle",
+        "kronen_prime_blade"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Kronen Prime Blade",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "Axi K2 Relic (Rare)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Axi K3 Relic (Rare)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Axi K5 Relic (Rare)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Axi K4 Relic (Rare)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "Neo K3 Relic (Rare)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "Meso K2 Relic (Rare)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Lith K3 Relic (Rare)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кронен Прайм: Клинок",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%BE%D0%BD%D0%B5%D0%BD_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси K2 (Редкий)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Реликвия Акси K3 (Редкий)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Реликвия Акси K5 (Редкий)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Реликвия Акси K4 (Редкий)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "Реликвия Нео K3 (Редкий)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "Реликвия Мезо K2 (Редкий)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Реликвия Лит K3 (Редкий)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "크로넨 프라임 블레이드",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "액시 K2 성유물 (레어)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "액시 K3 성유물 (레어)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "액시 K5 성유물 (레어)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "액시 K4 성유물 (레어)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "네오 K3 성유물 (레어)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "메소 K2 성유물 (레어)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "리스 K3 성유물 (레어)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Kronen Prime: Klinge",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: K2 (Selten)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Axi-relikt: K3 (Selten)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Axi-relikt: K5 (Selten)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Axi-relikt: K4 (Selten)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "Neo-relikt: K3 (Selten)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "Meso-relikt: K2 (Selten)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Lith-relikt: K3 (Selten)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Kronen Prime - Lame",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi K2 (Rare)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Relique Axi K3 (Rare)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Relique Axi K5 (Rare)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Relique Axi K4 (Rare)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "Relique Neo K3 (Rare)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "Relique Meso K2 (Rare)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Relique Lith K3 (Rare)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Kronen Prime: Lâmina",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi K2 (Raro)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Relíquia Axi K3 (Raro)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Relíquia Axi K5 (Raro)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Relíquia Axi K4 (Raro)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "Relíquia Neo K3 (Raro)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "Relíquia Meso K2 (Raro)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Relíquia Lith K3 (Raro)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "皇家拐刃 Prime 刀刃",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "后纪 K2 遗物 (稀有)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "后纪 K3 遗物 (稀有)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "后纪 K5 遗物 (稀有)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "后纪 K4 遗物 (稀有)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "中纪 K3 遗物 (稀有)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "前纪 K2 遗物 (稀有)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "古纪 K3 遗物 (稀有)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "皇家拐刃 Prime 刀刃",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "後紀 K2 遺物 (稀有)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "後紀 K3 遺物 (稀有)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "後紀 K5 遺物 (稀有)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "後紀 K4 遺物 (稀有)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "中紀 K3 遺物 (稀有)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "前紀 K2 遺物 (稀有)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "古紀 K3 遺物 (稀有)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Hoja De Kronen Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi K2 (Raro)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Reliquia Axi K3 (Raro)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Reliquia Axi K5 (Raro)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Reliquia Axi K4 (Raro)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "Reliquia Neo K3 (Raro)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "Reliquia Meso K2 (Raro)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Reliquia Lith K3 (Raro)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Kronen Prime - Lama",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Oberon_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi K2 (Rare)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Reliquia Axi K3 (Rare)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Reliquia Axi K5 (Rare)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Reliquia Axi K4 (Rare)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "Reliquia Neo K3 (Rare)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "Reliquia Meso K2 (Rare)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Reliquia Lith K3 (Rare)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Kronen Prime: Ostrze",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kronen_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi K2 (Rzadki)",
+                "link": "axi_k2_relic"
+            },
+            {
+                "name": "Relikt Axi K3 (Rzadki)",
+                "link": "axi_k3_relic"
+            },
+            {
+                "name": "Relikt Axi K5 (Rzadki)",
+                "link": "axi_k5_relic"
+            },
+            {
+                "name": "Relikt Axi K4 (Rzadki)",
+                "link": "axi_k4_relic"
+            },
+            {
+                "name": "Relikt Neo K3 (Rzadki)",
+                "link": "neo_k3_relic"
+            },
+            {
+                "name": "Relikt Meso K2 (Rzadki)",
+                "link": "meso_k2_relic"
+            },
+            {
+                "name": "Relikt Lith K3 (Rzadki)",
+                "link": "lith_k3_relic"
+            }
+        ]
+    },
+    "mastery_level": 13,
+    "ducats": 100,
+    "trading_tax": 2000
+}

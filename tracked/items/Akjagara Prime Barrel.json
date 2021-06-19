@@ -1,0 +1,239 @@
+{
+    "_id": "5c196fac96037800ddadac12",
+    "tags": [
+        "component",
+        "weapon",
+        "prime",
+        "secondary"
+    ],
+    "icon": "icons/en/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.png",
+    "thumb": "icons/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+    "url_name": "akjagara_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkjagaraPrimeBarrel"
+    },
+    "part_of_set": [
+        "akjagara_prime_barrel",
+        "akjagara_prime_blueprint",
+        "akjagara_prime_link",
+        "akjagara_prime_receiver",
+        "akjagara_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Akjagara Prime Barrel",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Neo A3 Relic (Rare)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Meso A1 Relic (Rare)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Lith A3 Relic (Rare)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Акджагара Прайм: Ствол",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%B4%D0%B6%D0%B0%D0%B3%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео A3 (Редкий)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Реликвия Мезо A1 (Редкий)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Реликвия Лит A3 (Редкий)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "아크자가라 프라임 배럴",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "네오 A3 성유물 (레어)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "메소 A1 성유물 (레어)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "리스 A3 성유물 (레어)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Akjagara Prime: Lauf",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: A3 (Selten)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Meso-relikt: A1 (Selten)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Lith-relikt: A3 (Selten)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Akjagara Prime - Canon",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo A3 (Rare)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relique Meso A1 (Rare)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relique Lith A3 (Rare)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Akjagara Prime: Cano",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo A3 (Raro)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relíquia Meso A1 (Raro)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relíquia Lith A3 (Raro)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "觉醒双枪 Prime 枪管",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "中纪 A3 遗物 (稀有)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "前纪 A1 遗物 (稀有)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "古纪 A3 遗物 (稀有)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "覺醒雙槍 Prime 槍管",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "中紀 A3 遺物 (稀有)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "前紀 A1 遺物 (稀有)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "古紀 A3 遺物 (稀有)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cañón De Akjagara Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo A3 (Raro)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Reliquia Meso A1 (Raro)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Reliquia Lith A3 (Raro)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Akjagara Prime - Canna",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo A3 (Rare)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Reliquia Meso A1 (Rare)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Reliquia Lith A3 (Rare)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Akjagara Prime: Lufa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo A3 (Rzadki)",
+                "link": "neo_a3_relic"
+            },
+            {
+                "name": "Relikt Meso A1 (Rzadki)",
+                "link": "meso_a1_relic"
+            },
+            {
+                "name": "Relikt Lith A3 (Rzadki)",
+                "link": "lith_a3_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 100,
+    "trading_tax": 2000
+}

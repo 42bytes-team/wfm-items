@@ -1,0 +1,329 @@
+{
+    "_id": "573b804a0ec44a47787a6916",
+    "tags": [
+        "weapon",
+        "prime",
+        "pistol",
+        "component",
+        "secondary",
+        "barrel"
+    ],
+    "icon": "icons/en/Akstiletto_Prime_Set.a88c0a1e43ba462af7cc44efd01a7044.png",
+    "thumb": "icons/en/thumbs/Akstiletto_Prime_Set.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/barrel_128x128.png",
+    "url_name": "akstiletto_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkstilettoPrimeBarrel"
+    },
+    "part_of_set": [
+        "akstiletto_prime_set",
+        "akstiletto_prime_barrel",
+        "akstiletto_prime_blueprint",
+        "akstiletto_prime_link",
+        "akstiletto_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Akstiletto Prime Barrel",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "Axi H2 Relic (Uncommon)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Axi A1 Relic (Uncommon)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Meso K1 Relic (Uncommon)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Meso V6 Relic (Common)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Lith H1 Relic (Uncommon)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Акстилетто Прайм: Ствол",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D1%82%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси H2 (Необычный)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Реликвия Акси A1 (Необычный)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Реликвия Мезо K1 (Необычный)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Реликвия Мезо V6 (Обычный)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Реликвия Лит H1 (Необычный)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "아크스틸레토 프라임 배럴",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "액시 H2 성유물 (언커먼)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "액시 A1 성유물 (언커먼)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "메소 K1 성유물 (언커먼)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "메소 V6 성유물 (커먼)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "리스 H1 성유물 (언커먼)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Akstiletto Prime: Lauf",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: H2 (Ungewöhnlich)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Axi-relikt: A1 (Ungewöhnlich)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Meso-relikt: K1 (Ungewöhnlich)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Meso-relikt: V6 (Gewöhnlich)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Lith-relikt: H1 (Ungewöhnlich)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Akstiletto Prime - Canon",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi H2 (Inhabituel)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relique Axi A1 (Inhabituel)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Relique Meso K1 (Inhabituel)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Relique Meso V6 (Commun)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Relique Lith H1 (Inhabituel)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Akstiletto Prime: Cano",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi H2 (Incomum)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relíquia Axi A1 (Incomum)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Relíquia Meso K1 (Incomum)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Relíquia Meso V6 (Comum)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Relíquia Lith H1 (Incomum)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "史提托双枪 Prime 枪管",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "后纪 H2 遗物 (罕见)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "后纪 A1 遗物 (罕见)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "前纪 K1 遗物 (罕见)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "前纪 V6 遗物 (常见)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "古纪 H1 遗物 (罕见)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "史提托雙槍 Prime 槍管",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "後紀 H2 遺物 (罕見)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "後紀 A1 遺物 (罕見)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "前紀 K1 遺物 (罕見)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "前紀 V6 遺物 (常見)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "古紀 H1 遺物 (罕見)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cañón De Akstiletto Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi H2 (Poco Común)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Reliquia Axi A1 (Poco Común)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Reliquia Meso K1 (Poco Común)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Reliquia Meso V6 (Común)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Reliquia Lith H1 (Poco Común)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Akstiletto Prime - Canna",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi H2 (Uncommon)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Reliquia Axi A1 (Uncommon)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Reliquia Meso K1 (Uncommon)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Reliquia Meso V6 (Common)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Reliquia Lith H1 (Uncommon)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Akstiletto Prime: Lufa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akstiletto_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi H2 (Nieprzeciętny)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relikt Axi A1 (Nieprzeciętny)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Relikt Meso K1 (Nieprzeciętny)",
+                "link": "meso_k1_relic"
+            },
+            {
+                "name": "Relikt Meso V6 (Powszechny)",
+                "link": "meso_v6_relic"
+            },
+            {
+                "name": "Relikt Lith H1 (Nieprzeciętny)",
+                "link": "lith_h1_relic"
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 25,
+    "trading_tax": 2000
+}

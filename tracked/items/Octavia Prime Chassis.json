@@ -1,0 +1,194 @@
+{
+    "_id": "603621500a372600fd5614d7",
+    "tags": [
+        "blueprint",
+        "warframe",
+        "prime",
+        "component"
+    ],
+    "icon": "icons/en/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.png",
+    "thumb": "icons/en/thumbs/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "octavia_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "octavia_prime_blueprint",
+        "octavia_prime_chassis",
+        "octavia_prime_neuroptics",
+        "octavia_prime_systems",
+        "octavia_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Octavia Prime Chassis",
+        "description": "Chassis component of the Octavia Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "Neo Z7 Relic (Uncommon)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Neo A5 Relic (Uncommon)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Октавия Прайм: Каркас",
+        "description": "Компонент варфрейма Октавия Прайм: Каркас.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%BA%D1%82%D0%B0%D0%B2%D0%B8%D1%8F_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео Z7 (Необычный)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Реликвия Нео A5 (Необычный)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "옥타비아 프라임 섀시",
+        "description": "옥타비아 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "네오 Z7 성유물 (언커먼)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "네오 A5 성유물 (언커먼)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Octavia Prime: Chassis",
+        "description": "Chassis-Komponente für den Octavia Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: Z7 (Ungewöhnlich)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Neo-relikt: A5 (Ungewöhnlich)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Octavia Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Octavia Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo Z7 (Inhabituel)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Relique Neo A5 (Inhabituel)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Octavia Prime: Chassi",
+        "description": "Chassi componente do Warframe Octavia Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo Z7 (Incomum)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Relíquia Neo A5 (Incomum)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Octavia Prime 机体",
+        "description": "Octavia Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "中纪 Z7 遗物 (罕见)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "中纪 A5 遗物 (罕见)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Octavia Prime 機體",
+        "description": "Octavia Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "中紀 Z7 遺物 (罕見)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "中紀 A5 遺物 (罕見)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Octavia Prime",
+        "description": "Componente del chasis del warframe Octavia Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo Z7 (Poco Común)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Reliquia Neo A5 (Poco Común)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Octavia Prime - Chassis",
+        "description": "Il componente Chassis per il Warframe Octavia Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo Z7 (Uncommon)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Reliquia Neo A5 (Uncommon)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Octavia Prime: Powłoka",
+        "description": "Powłoka dla Warframe Octavia Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Octavia_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo Z7 (Nieprzeciętny)",
+                "link": "neo_z7_relic"
+            },
+            {
+                "name": "Relikt Neo A5 (Nieprzeciętny)",
+                "link": "neo_a5_relic"
+            }
+        ]
+    },
+    "ducats": 45,
+    "trading_tax": 2000
+}

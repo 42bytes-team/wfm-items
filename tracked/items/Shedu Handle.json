@@ -1,0 +1,96 @@
+{
+    "_id": "5dfea030145697027e409302",
+    "tags": [
+        "weapon",
+        "primary",
+        "component",
+        "handle",
+        "part"
+    ],
+    "icon": "icons/en/shedu_set.765c016812e915e1e06ceb5e3820ae48.png",
+    "thumb": "icons/en/thumbs/shedu_set.765c016812e915e1e06ceb5e3820ae48.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/generic_handle_128x128.png",
+    "url_name": "shedu_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/SheduHeavyWeaponHandle"
+    },
+    "part_of_set": [
+        "shedu_set",
+        "shedu_handle",
+        "shedu_barrel",
+        "shedu_receiver",
+        "shedu_chassis"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Shedu Handle",
+        "description": "The handle component of the Shedu.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shedu",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Шиду: Рукоять",
+        "description": "Компонент Шиду: Рукоять.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D0%B8%D0%B4%D1%83",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "세두 핸들",
+        "description": "세두의 핸들 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shedu",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Shedu: Griff",
+        "description": "Griff-Komponente der Shedu.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Shedu",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Shedu - Poignée",
+        "description": "Le composant poignée du Shedu.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Shedu",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Shedu: Cabo",
+        "description": "O cabo componente da Shedu.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shred",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "舍杜 握柄",
+        "description": "舍杜的握柄部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shedu",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "舍杜 槍把",
+        "description": "舍杜的槍把部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shedu",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Empuñadura De Shedu",
+        "description": "El componente empuñadura del Shedu.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Shedu",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Shedu - Manico",
+        "description": "Il componente manico dell'arma Shedu.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Shred",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Shedu: Chwyt",
+        "description": "Część będąca chwytem Shedu.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Shedu",
+        "drop": []
+    },
+    "mastery_level": 13,
+    "trading_tax": 2000
+}

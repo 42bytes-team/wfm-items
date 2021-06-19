@@ -1,0 +1,327 @@
+{
+    "_id": "5c196fb096037800ddadac18",
+    "tags": [
+        "component",
+        "weapon",
+        "prime",
+        "secondary"
+    ],
+    "icon": "icons/en/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.png",
+    "thumb": "icons/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+    "url_name": "akjagara_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkjagaraPrimeReceiver"
+    },
+    "part_of_set": [
+        "akjagara_prime_barrel",
+        "akjagara_prime_blueprint",
+        "akjagara_prime_link",
+        "akjagara_prime_receiver",
+        "akjagara_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Akjagara Prime Receiver",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Axi L3 Relic (Uncommon)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Neo Z3 Relic (Uncommon)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "Neo P1 Relic (Uncommon)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Neo I1 Relic (Uncommon)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Lith M6 Relic (Uncommon)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Акджагара Прайм: Приёмник",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%B4%D0%B6%D0%B0%D0%B3%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси L3 (Необычный)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Реликвия Нео Z3 (Необычный)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "Реликвия Нео P1 (Необычный)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Реликвия Нео I1 (Необычный)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Реликвия Лит M6 (Необычный)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "아크자가라 프라임 리시버",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "액시 L3 성유물 (언커먼)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "네오 Z3 성유물 (언커먼)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "네오 P1 성유물 (언커먼)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "네오 I1 성유물 (언커먼)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "리스 M6 성유물 (언커먼)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Akjagara Prime: Gehäuse",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: L3 (Ungewöhnlich)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Neo-relikt: Z3 (Ungewöhnlich)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "Neo-relikt: P1 (Ungewöhnlich)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Neo-relikt: I1 (Ungewöhnlich)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Lith-relikt: M6 (Ungewöhnlich)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Akjagara Prime - Culasse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi L3 (Inhabituel)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relique Neo Z3 (Inhabituel)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "Relique Neo P1 (Inhabituel)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relique Neo I1 (Inhabituel)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Relique Lith M6 (Inhabituel)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Akjagara Prime: Receptor",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi L3 (Incomum)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relíquia Neo Z3 (Incomum)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "Relíquia Neo P1 (Incomum)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relíquia Neo I1 (Incomum)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Relíquia Lith M6 (Incomum)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "觉醒双枪 Prime 枪机",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "后纪 L3 遗物 (罕见)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "中纪 Z3 遗物 (罕见)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "中纪 P1 遗物 (罕见)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "中纪 I1 遗物 (罕见)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "古纪 M6 遗物 (罕见)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "覺醒雙槍 Prime 槍機",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "後紀 L3 遺物 (罕見)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "中紀 Z3 遺物 (罕見)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "中紀 P1 遺物 (罕見)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "中紀 I1 遺物 (罕見)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "古紀 M6 遺物 (罕見)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Receptor De Akjagara Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi L3 (Poco Común)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Reliquia Neo Z3 (Poco Común)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "Reliquia Neo P1 (Poco Común)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Reliquia Neo I1 (Poco Común)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Reliquia Lith M6 (Poco Común)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Akjagara Prime - Castello",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi L3 (Uncommon)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Reliquia Neo Z3 (Uncommon)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "Reliquia Neo P1 (Uncommon)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Reliquia Neo I1 (Uncommon)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Reliquia Lith M6 (Uncommon)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Akjagara Prime: Korpus",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akjagara_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi L3 (Nieprzeciętny)",
+                "link": "axi_l3_relic"
+            },
+            {
+                "name": "Relikt Neo Z3 (Nieprzeciętny)",
+                "link": "neo_z3_relic"
+            },
+            {
+                "name": "Relikt Neo P1 (Nieprzeciętny)",
+                "link": "neo_p1_relic"
+            },
+            {
+                "name": "Relikt Neo I1 (Nieprzeciętny)",
+                "link": "neo_i1_relic"
+            },
+            {
+                "name": "Relikt Lith M6 (Nieprzeciętny)",
+                "link": "lith_m6_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}

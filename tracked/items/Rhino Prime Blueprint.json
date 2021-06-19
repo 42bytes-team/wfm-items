@@ -1,0 +1,194 @@
+{
+    "_id": "54a73e65e779893a797fff77",
+    "tags": [
+        "blueprint",
+        "prime",
+        "warframe"
+    ],
+    "icon": "icons/en/rhino_prime_blueprint.22301207f9463fe9ab215e40eb23a326.png",
+    "thumb": "icons/en/thumbs/rhino_prime_blueprint.22301207f9463fe9ab215e40eb23a326.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "rhino_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeBlueprint"
+    },
+    "part_of_set": [
+        "rhino_prime_set",
+        "rhino_prime_blueprint",
+        "rhino_prime_chassis",
+        "rhino_prime_neuroptics",
+        "rhino_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Rhino Prime Blueprint",
+        "description": "Takes Rhino's ground-shaking abilities to the next level with altered mod polarities that offer greater customization.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Axi R1 Relic (Rare)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "Neo R1 Relic (Rare)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Рино Прайм: Чертеж",
+        "description": "Выводит способности Рино на совершенно новый уровень благодаря измененным полярностям слотов, которые открывают более глубокие возможности конфигурации.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B8%D0%BD%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси R1 (Редкий)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "Реликвия Нео R1 (Редкий)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "라이노 프라임 설계도",
+        "description": "변형된 추가 극성 슬롯을 통해 라이노의 능력을 특성화하고, 그의 파괴적인 힘을 한 단계 발전시킵니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "액시 R1 성유물 (레어)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "네오 R1 성유물 (레어)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Rhino Prime: Blaupause",
+        "description": "Verbessert Rhinos Boden erschütternde Fähigkeiten; mit alternativen Mod-Polaritäten für bessere Anpassbarkeit.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: R1 (Selten)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "Neo-relikt: R1 (Selten)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Rhino Prime - Schéma",
+        "description": "Propulsez les anciens pouvoirs percutants de Rhino au niveau supérieur avec des polarités de mod altérées pour un contrôle encore plus aisé dans le feu de l'action.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rhino_prime",
+        "drop": [
+            {
+                "name": "Relique Axi R1 (Rare)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "Relique Neo R1 (Rare)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Rhino Prime: Diagram",
+        "description": "Aproveite ainda mais as habilidades do Rhino com polaridades de Mod alteradas para maior personalização.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi R1 (Raro)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "Relíquia Neo R1 (Raro)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Rhino Prime 蓝图",
+        "description": "通过将极性插槽改为更适合自定的配置，使 RHINO 地面震动能力发挥到更高水平。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "后纪 R1 遗物 (稀有)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "中纪 R1 遗物 (稀有)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Rhino Prime 藍圖",
+        "description": "通過將極性欄位改為更適合自訂的配置，使 RHINO 的震地能力發揮到更高的水準。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "後紀 R1 遺物 (稀有)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "中紀 R1 遺物 (稀有)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Rhino Prime",
+        "description": "Lleva las habilidades sísmicas de Rhino al siguiente nivel con polaridades de mod alteradas que ofrecen una mayor personalización.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi R1 (Raro)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "Reliquia Neo R1 (Raro)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Rhino Prime Blueprint",
+        "description": "Rhino Prime porta le dirompenti potenzialità di Rhino a un livello superiore grazie a polarità mod alterate, per una maggiore personalizzazione.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi R1 (Rare)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "Reliquia Neo R1 (Rare)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Rhino Prime: Schemat",
+        "description": "Wynieś wstrząsające zdolności Rhino na kolejny poziom ze zmienionymi polaryzacjami modów, które oferują lepszą personalizację.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rhino_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi R1 (Rzadki)",
+                "link": "axi_r1_relic"
+            },
+            {
+                "name": "Relikt Neo R1 (Rzadki)",
+                "link": "neo_r1_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 100,
+    "trading_tax": 2000
+}

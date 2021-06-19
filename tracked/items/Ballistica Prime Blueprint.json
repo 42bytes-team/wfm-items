@@ -1,0 +1,285 @@
+{
+    "_id": "59a5c2565cd9938cfede703d",
+    "tags": [
+        "prime",
+        "secondary",
+        "weapon",
+        "crossbow",
+        "blueprint"
+    ],
+    "icon": "icons/en/Ballistica_Prime_Set.4ed33348008ace40406d0383f692ecac.png",
+    "thumb": "icons/en/thumbs/Ballistica_Prime_Set.4ed33348008ace40406d0383f692ecac.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "ballistica_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/PrimeBallisticaBlueprint"
+    },
+    "part_of_set": [
+        "ballistica_prime_set",
+        "ballistica_prime_blueprint",
+        "ballistica_prime_lower_limb",
+        "ballistica_prime_receiver",
+        "ballistica_prime_string",
+        "ballistica_prime_upper_limb"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ballistica Prime Blueprint",
+        "description": "The beauty of this luxuriously gilded crossbow cannot obscure its lethal purpose.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Lith B6 Relic (Rare)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "Lith B3 Relic (Rare)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "Lith B2 Relic (Rare)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "Lith B5 Relic (Rare)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Баллистика Прайм: Чертеж",
+        "description": "Красота этого роскошного позолоченного арбалета не может затмить его смертоносное призвание.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Лит B6 (Редкий)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "Реликвия Лит B3 (Редкий)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "Реликвия Лит B2 (Редкий)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "Реликвия Лит B5 (Редкий)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "발리스티카 프라임 설계도",
+        "description": "사치스러운 금박 장식을 두른 이 석궁의 아름다운 모습조차도 그 이면에 감춰진 강력함과 치명성을 가리지는 못했습니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "리스 B6 성유물 (레어)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "리스 B3 성유물 (레어)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "리스 B2 성유물 (레어)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "리스 B5 성유물 (레어)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Ballistica Prime: Blaupause",
+        "description": "Die Schönheit dieser luxuriös vergoldeten Armbrust kann ihre Tödlichkeit nicht verbergen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Lith-relikt: B6 (Selten)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "Lith-relikt: B3 (Selten)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "Lith-relikt: B2 (Selten)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "Lith-relikt: B5 (Selten)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Ballistica Prime - Schéma",
+        "description": "La beauté de cette luxueuse Arbalète dorée n'entrave aucunement son efficacité mortelle.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relique Lith B6 (Rare)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "Relique Lith B3 (Rare)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "Relique Lith B2 (Rare)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "Relique Lith B5 (Rare)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Ballistica Prime: Diagram",
+        "description": "Este encanto de besta, luxuosamente dourada, não pode obscurecer o seu propósito letal.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Lith B6 (Raro)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "Relíquia Lith B3 (Raro)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "Relíquia Lith B2 (Raro)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "Relíquia Lith B5 (Raro)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "布里斯提卡 Prime 蓝图",
+        "description": "（英文：BALLISTICA PRIME）这款豪华镀金连弩的精美无法遮掩它致命的目的。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "古纪 B6 遗物 (稀有)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "古纪 B3 遗物 (稀有)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "古纪 B2 遗物 (稀有)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "古纪 B5 遗物 (稀有)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "布里斯提卡 Prime 藍圖",
+        "description": "（英文：BALLISTICA PRIME）這款豪華鍍金連弩的精美無法遮掩它致命的目的。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "古紀 B6 遺物 (稀有)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "古紀 B3 遺物 (稀有)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "古紀 B2 遺物 (稀有)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "古紀 B5 遺物 (稀有)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Ballistica Prime",
+        "description": "La belleza de esta lujosa ballesta dorada no puede ocultar su propósito letal.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith B6 (Raro)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "Reliquia Lith B3 (Raro)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "Reliquia Lith B2 (Raro)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "Reliquia Lith B5 (Raro)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Ballistica Prime Blueprint",
+        "description": "La bellezza di questa balestra lussuosamente dorata non può oscurare il suo scopo letale.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Ballistica",
+        "drop": [
+            {
+                "name": "Reliquia Lith B6 (Rare)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "Reliquia Lith B3 (Rare)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "Reliquia Lith B2 (Rare)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "Reliquia Lith B5 (Rare)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Ballistica Prime: Schemat",
+        "description": "Piękno tej luksusowej, pozłacanej kuszy, nie jest w stanie przysłonić jej śmiertelnego zastosowania.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ballistica_Prime",
+        "drop": [
+            {
+                "name": "Relikt Lith B6 (Rzadki)",
+                "link": "lith_b6_relic"
+            },
+            {
+                "name": "Relikt Lith B3 (Rzadki)",
+                "link": "lith_b3_relic"
+            },
+            {
+                "name": "Relikt Lith B2 (Rzadki)",
+                "link": "lith_b2_relic"
+            },
+            {
+                "name": "Relikt Lith B5 (Rzadki)",
+                "link": "lith_b5_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 100,
+    "trading_tax": 2000
+}

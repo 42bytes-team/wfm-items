@@ -1,0 +1,239 @@
+{
+    "_id": "54a73e65e779893a797fff3d",
+    "tags": [
+        "prime",
+        "component",
+        "weapon",
+        "blade",
+        "melee"
+    ],
+    "icon": "icons/en/dakra_prime_blade.785a613039ec892abc579c176f0b33da.png",
+    "thumb": "icons/en/thumbs/dakra_prime_blade.785a613039ec892abc579c176f0b33da.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "dakra_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordBlade"
+    },
+    "part_of_set": [
+        "dakra_prime_set",
+        "dakra_prime_blade",
+        "dakra_prime_blueprint",
+        "dakra_prime_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Dakra Prime Blade",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "Axi S4 Relic (Uncommon)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Neo B3 Relic (Uncommon)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "Neo D1 Relic (Rare)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Дакра Прайм: Клинок",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%B0%D0%BA%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси S4 (Необычный)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Реликвия Нео B3 (Необычный)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "Реликвия Нео D1 (Редкий)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "다크라 프라임 블레이드",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "액시 S4 성유물 (언커먼)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "네오 B3 성유물 (언커먼)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "네오 D1 성유물 (레어)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Dakra Prime: Klinge",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: S4 (Ungewöhnlich)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Neo-relikt: B3 (Ungewöhnlich)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "Neo-relikt: D1 (Selten)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Dakra Prime - Lame",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi S4 (Inhabituel)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relique Neo B3 (Inhabituel)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "Relique Neo D1 (Rare)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Dakra Prime: Lâmina",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi S4 (Incomum)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relíquia Neo B3 (Incomum)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "Relíquia Neo D1 (Raro)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "达克拉 Prime 刀刃",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "后纪 S4 遗物 (罕见)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "中纪 B3 遗物 (罕见)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "中纪 D1 遗物 (稀有)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "達克拉 Prime 刀刃",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "後紀 S4 遺物 (罕見)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "中紀 B3 遺物 (罕見)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "中紀 D1 遺物 (稀有)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Hoja De Dakra Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S4 (Poco Común)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Reliquia Neo B3 (Poco Común)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "Reliquia Neo D1 (Raro)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Dakra Prime - Lama",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S4 (Uncommon)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Reliquia Neo B3 (Uncommon)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "Reliquia Neo D1 (Rare)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Dakra Prime: Ostrze",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dakra_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi S4 (Nieprzeciętny)",
+                "link": "axi_s4_relic"
+            },
+            {
+                "name": "Relikt Neo B3 (Nieprzeciętny)",
+                "link": "neo_b3_relic"
+            },
+            {
+                "name": "Relikt Neo D1 (Rzadki)",
+                "link": "neo_d1_relic"
+            }
+        ]
+    },
+    "mastery_level": 10,
+    "ducats": 65,
+    "trading_tax": 2000
+}

@@ -1,0 +1,51 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe71",
+    "url_name": "finisher_damage",
+    "group": "melee",
+    "prefix": "Exi",
+    "suffix": "Cta",
+    "positive_is_negative": false,
+    "negative_only": false,
+    "exclusive_to": [
+        "melee",
+        "zaw"
+    ],
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponMeleeFinisherDamageMod"
+    },
+    "en": {
+        "effect": "Finisher Damage"
+    },
+    "ru": {
+        "effect": "Урон Добивания"
+    },
+    "ko": {
+        "effect": "마무리 일격 피해"
+    },
+    "de": {
+        "effect": "Todesstoß-Schaden"
+    },
+    "fr": {
+        "effect": "Dégâts de Coup de Grâce"
+    },
+    "pt": {
+        "effect": "Finisher Damage"
+    },
+    "zh-hans": {
+        "effect": "处决伤害"
+    },
+    "zh-hant": {
+        "effect": "處決傷害"
+    },
+    "es": {
+        "effect": "Daño al rematar"
+    },
+    "it": {
+        "effect": "Finisher Damage"
+    },
+    "pl": {
+        "effect": "Obrażenia Dobicia"
+    }
+}

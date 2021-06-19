@@ -1,0 +1,416 @@
+{
+    "_id": "561536a1b66f836f854b966a",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "systems",
+        "warframe"
+    ],
+    "icon": "icons/en/trinity_prime_systems.4115dba418ab8ee70197a7fdaee8da76.png",
+    "thumb": "icons/en/thumbs/trinity_prime_systems.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/systems_128x128.png",
+    "url_name": "trinity_prime_systems",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeSystemsBlueprint"
+    },
+    "part_of_set": [
+        "trinity_prime_set",
+        "trinity_prime_blueprint",
+        "trinity_prime_chassis",
+        "trinity_prime_neuroptics",
+        "trinity_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Trinity Prime Systems",
+        "description": "Systems component of the Trinity Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Axi C2 Relic (Common)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "Axi V4 Relic (Common)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "Axi V3 Relic (Common)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "Axi V2 Relic (Common)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "Axi A1 Relic (Common)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Neo B1 Relic (Common)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Neo N12 Relic (Common)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тринити Прайм: Система",
+        "description": "Компонент варфрейма Тринити Прайм: Система.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси C2 (Обычный)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "Реликвия Акси V4 (Обычный)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "Реликвия Акси V3 (Обычный)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "Реликвия Акси V2 (Обычный)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "Реликвия Акси A1 (Обычный)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Реликвия Нео B1 (Обычный)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Реликвия Нео N12 (Обычный)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "트리니티 프라임 시스템",
+        "description": "트리니티 프라임 워프레임의 시스템 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "액시 C2 성유물 (커먼)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "액시 V4 성유물 (커먼)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "액시 V3 성유물 (커먼)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "액시 V2 성유물 (커먼)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "액시 A1 성유물 (커먼)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "네오 B1 성유물 (커먼)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "네오 N12 성유물 (커먼)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Trinity Prime: Systeme",
+        "description": "Systeme-Komponente für den Trinity Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: C2 (Gewöhnlich)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "Axi-relikt: V4 (Gewöhnlich)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "Axi-relikt: V3 (Gewöhnlich)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "Axi-relikt: V2 (Gewöhnlich)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "Axi-relikt: A1 (Gewöhnlich)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Neo-relikt: B1 (Gewöhnlich)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Neo-relikt: N12 (Gewöhnlich)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Trinity Prime - Systèmes",
+        "description": "Le composant Systèmes de la Warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi C2 (Commun)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "Relique Axi V4 (Commun)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "Relique Axi V3 (Commun)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "Relique Axi V2 (Commun)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "Relique Axi A1 (Commun)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Relique Neo B1 (Commun)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Relique Neo N12 (Commun)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Trinity Prime: Sistemas",
+        "description": "Sistemas componentes do Warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi C2 (Comum)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "Relíquia Axi V4 (Comum)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "Relíquia Axi V3 (Comum)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "Relíquia Axi V2 (Comum)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "Relíquia Axi A1 (Comum)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Relíquia Neo B1 (Comum)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Relíquia Neo N12 (Comum)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Trinity Prime 系统",
+        "description": "Trinity Prime 战甲的系统组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "后纪 C2 遗物 (常见)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "后纪 V4 遗物 (常见)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "后纪 V3 遗物 (常见)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "后纪 V2 遗物 (常见)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "后纪 A1 遗物 (常见)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "中纪 B1 遗物 (常见)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "中纪 N12 遗物 (常见)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Trinity Prime 系統",
+        "description": "Trinity Prime Warframe 的系統組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "後紀 C2 遺物 (常見)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "後紀 V4 遺物 (常見)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "後紀 V3 遺物 (常見)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "後紀 V2 遺物 (常見)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "後紀 A1 遺物 (常見)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "中紀 B1 遺物 (常見)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "中紀 N12 遺物 (常見)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Sistemas De Trinity Prime",
+        "description": "Componente de los sistemas del warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi C2 (Común)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "Reliquia Axi V4 (Común)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "Reliquia Axi V3 (Común)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "Reliquia Axi V2 (Común)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "Reliquia Axi A1 (Común)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Reliquia Neo B1 (Común)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Reliquia Neo N12 (Común)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Trinity Prime - Sistemi",
+        "description": "Il componente Sistemi per il Warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Trinity/Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi C2 (Common)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "Reliquia Axi V4 (Common)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "Reliquia Axi V3 (Common)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "Reliquia Axi V2 (Common)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "Reliquia Axi A1 (Common)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Reliquia Neo B1 (Common)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Reliquia Neo N12 (Common)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Trinity Prime: Systemy",
+        "description": "Systemy dla Warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi C2 (Powszechny)",
+                "link": "axi_c2_relic"
+            },
+            {
+                "name": "Relikt Axi V4 (Powszechny)",
+                "link": "axi_v4_relic"
+            },
+            {
+                "name": "Relikt Axi V3 (Powszechny)",
+                "link": "axi_v3_relic"
+            },
+            {
+                "name": "Relikt Axi V2 (Powszechny)",
+                "link": "axi_v2_relic"
+            },
+            {
+                "name": "Relikt Axi A1 (Powszechny)",
+                "link": "axi_a1_relic"
+            },
+            {
+                "name": "Relikt Neo B1 (Powszechny)",
+                "link": "neo_b1_relic"
+            },
+            {
+                "name": "Relikt Neo N12 (Powszechny)",
+                "link": "neo_n12_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 15,
+    "trading_tax": 2000
+}

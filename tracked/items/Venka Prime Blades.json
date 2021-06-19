@@ -1,0 +1,504 @@
+{
+    "_id": "58358e1c2c2ada00655a4ef6",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "Melee",
+        "component",
+        "blueprint"
+    ],
+    "icon": "icons/en/venka_prime_blades.123cb62ab1e8a4edd78997a256cf1e7f.png",
+    "thumb": "icons/en/thumbs/venka_prime_blades.123cb62ab1e8a4edd78997a256cf1e7f.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blade_128x128.png",
+    "url_name": "venka_prime_blades",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeVenkaClawsBlade"
+    },
+    "part_of_set": [
+        "venka_prime_set",
+        "venka_prime_blades",
+        "venka_prime_blueprint",
+        "venka_prime_gauntlet"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "en": {
+        "item_name": "Venka Prime Blades",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "Axi S5 Relic (Common)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "Axi V5 Relic (Common)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Neo N7 Relic (Common)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Neo V9 Relic (Common)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Meso S7 Relic (Common)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "Meso G1 Relic (Common)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Lith V4 Relic (Common)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "Lith V6 Relic (Common)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "Lith C2 Relic (Common)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Венка Прайм: Лезвия",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D0%BD%D0%BA%D0%B0_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси S5 (Обычный)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "Реликвия Акси V5 (Обычный)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Реликвия Нео N7 (Обычный)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Реликвия Нео V9 (Обычный)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Реликвия Мезо S7 (Обычный)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "Реликвия Мезо G1 (Обычный)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Реликвия Лит V4 (Обычный)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "Реликвия Лит V6 (Обычный)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "Реликвия Лит C2 (Обычный)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "벤카 프라임 블레이드",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "액시 S5 성유물 (커먼)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "액시 V5 성유물 (커먼)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "네오 N7 성유물 (커먼)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "네오 V9 성유물 (커먼)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "메소 S7 성유물 (커먼)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "메소 G1 성유물 (커먼)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "리스 V4 성유물 (커먼)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "리스 V6 성유물 (커먼)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "리스 C2 성유물 (커먼)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Venka Prime: Klingen",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: S5 (Gewöhnlich)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "Axi-relikt: V5 (Gewöhnlich)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Neo-relikt: N7 (Gewöhnlich)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Neo-relikt: V9 (Gewöhnlich)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Meso-relikt: S7 (Gewöhnlich)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "Meso-relikt: G1 (Gewöhnlich)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Lith-relikt: V4 (Gewöhnlich)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "Lith-relikt: V6 (Gewöhnlich)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "Lith-relikt: C2 (Gewöhnlich)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Venka Prime - Lames",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi S5 (Commun)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "Relique Axi V5 (Commun)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Relique Neo N7 (Commun)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Relique Neo V9 (Commun)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Relique Meso S7 (Commun)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "Relique Meso G1 (Commun)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Relique Lith V4 (Commun)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "Relique Lith V6 (Commun)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "Relique Lith C2 (Commun)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Venka Prime: Lâminas",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi S5 (Comum)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "Relíquia Axi V5 (Comum)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Relíquia Neo N7 (Comum)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Relíquia Neo V9 (Comum)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Relíquia Meso S7 (Comum)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "Relíquia Meso G1 (Comum)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Relíquia Lith V4 (Comum)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "Relíquia Lith V6 (Comum)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "Relíquia Lith C2 (Comum)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "凯旋之爪 Prime 爪刃",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "后纪 S5 遗物 (常见)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "后纪 V5 遗物 (常见)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "中纪 N7 遗物 (常见)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "中纪 V9 遗物 (常见)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "前纪 S7 遗物 (常见)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "前纪 G1 遗物 (常见)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "古纪 V4 遗物 (常见)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "古纪 V6 遗物 (常见)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "古纪 C2 遗物 (常见)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "凱旋之爪 Prime 爪刃",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "後紀 S5 遺物 (常見)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "後紀 V5 遺物 (常見)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "中紀 N7 遺物 (常見)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "中紀 V9 遺物 (常見)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "前紀 S7 遺物 (常見)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "前紀 G1 遺物 (常見)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "古紀 V4 遺物 (常見)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "古紀 V6 遺物 (常見)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "古紀 C2 遺物 (常見)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Hoja De Venka Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S5 (Común)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "Reliquia Axi V5 (Común)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Reliquia Neo N7 (Común)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Reliquia Neo V9 (Común)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Reliquia Meso S7 (Común)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "Reliquia Meso G1 (Común)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Reliquia Lith V4 (Común)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "Reliquia Lith V6 (Común)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "Reliquia Lith C2 (Común)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Venka Prime - Lame",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S5 (Common)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "Reliquia Axi V5 (Common)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Reliquia Neo N7 (Common)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Reliquia Neo V9 (Common)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Reliquia Meso S7 (Common)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "Reliquia Meso G1 (Common)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Reliquia Lith V4 (Common)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "Reliquia Lith V6 (Common)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "Reliquia Lith C2 (Common)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Venka Prime: Ostrza",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Venka_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi S5 (Powszechny)",
+                "link": "axi_s5_relic"
+            },
+            {
+                "name": "Relikt Axi V5 (Powszechny)",
+                "link": "axi_v5_relic"
+            },
+            {
+                "name": "Relikt Neo N7 (Powszechny)",
+                "link": "neo_n7_relic"
+            },
+            {
+                "name": "Relikt Neo V9 (Powszechny)",
+                "link": "neo_v9_relic"
+            },
+            {
+                "name": "Relikt Meso S7 (Powszechny)",
+                "link": "meso_s7_relic"
+            },
+            {
+                "name": "Relikt Meso G1 (Powszechny)",
+                "link": "meso_g1_relic"
+            },
+            {
+                "name": "Relikt Lith V4 (Powszechny)",
+                "link": "lith_v4_relic"
+            },
+            {
+                "name": "Relikt Lith V6 (Powszechny)",
+                "link": "lith_v6_relic"
+            },
+            {
+                "name": "Relikt Lith C2 (Powszechny)",
+                "link": "lith_c2_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

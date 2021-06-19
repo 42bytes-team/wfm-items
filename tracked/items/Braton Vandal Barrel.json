@@ -1,0 +1,97 @@
+{
+    "_id": "5adf8729931bcf00574adc0e",
+    "tags": [
+        "vandal",
+        "weapon",
+        "primary",
+        "component",
+        "barrel",
+        "weapons"
+    ],
+    "icon": "icons/en/Braton_Vandal_Set.91c532bcac702702bf7d259bd5d4d553.png",
+    "thumb": "icons/en/thumbs/Braton_Vandal_Set.91c532bcac702702bf7d259bd5d4d553.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/generic_barrel_128x128.png",
+    "url_name": "braton_vandal_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/BratonVandalBarrel"
+    },
+    "part_of_set": [
+        "braton_vandal_set",
+        "braton_vandal_barrel",
+        "braton_vandal_receiver",
+        "braton_vandal_stock",
+        "braton_vandal_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Braton Vandal Barrel",
+        "description": "A weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Брэйтон Вандал: Ствол",
+        "description": "Компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D1%80%D1%8D%D0%B9%D1%82%D0%BE%D0%BD_%D0%B2%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "브래튼 반달 배럴",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Braton Vandal: Lauf",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Braton Vandal - Canon",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Braton Vandal: Cano",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "布莱顿 破坏者 枪管",
+        "description": "一个武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "布萊頓 破壞者 槍管",
+        "description": "製作武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Cañón De Braton Vándalo",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Braton_V%C3%A1ndalo",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Braton Vandal - Canna",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Braton Vandal: Lufa",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Braton_Vandal",
+        "drop": []
+    },
+    "mastery_level": 4,
+    "trading_tax": 2000
+}

@@ -1,0 +1,284 @@
+{
+    "_id": "559daad1e779897b4be73862",
+    "tags": [
+        "sentinel",
+        "prime",
+        "component",
+        "carapace",
+        "weapon"
+    ],
+    "icon": "icons/en/carrier_prime_carapace.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+    "thumb": "icons/en/thumbs/carrier_prime_carapace.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/carapace_128x128.png",
+    "url_name": "carrier_prime_carapace",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCarapace"
+    },
+    "part_of_set": [
+        "carrier_prime_set",
+        "carrier_prime_blueprint",
+        "carrier_prime_carapace",
+        "carrier_prime_cerebrum",
+        "carrier_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Carrier Prime Carapace",
+        "description": "A prime sentinel-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Axi N2 Relic (Common)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "Neo A4 Relic (Common)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "Neo S1 Relic (Common)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Lith S5 Relic (Common)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Носитель Прайм: Панцирь",
+        "description": "Прайм-компонент стража.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси N2 (Обычный)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "Реликвия Нео A4 (Обычный)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "Реликвия Нео S1 (Обычный)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Реликвия Лит S5 (Обычный)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "캐리어 프라임 카라페이스",
+        "description": "프라임 센티넬 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "액시 N2 성유물 (커먼)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "네오 A4 성유물 (커먼)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "네오 S1 성유물 (커먼)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "리스 S5 성유물 (커먼)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Carrier Prime: Panzer",
+        "description": "Eine Komponente für die Herstellung von Prime Wächtern.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: N2 (Gewöhnlich)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "Neo-relikt: A4 (Gewöhnlich)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "Neo-relikt: S1 (Gewöhnlich)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Lith-relikt: S5 (Gewöhnlich)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Carrier Prime - Carapace",
+        "description": "Un composant servant à la fabrication de sentinelles Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi N2 (Commun)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "Relique Neo A4 (Commun)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "Relique Neo S1 (Commun)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Relique Lith S5 (Commun)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Carrier Prime: Carapaça",
+        "description": "Um componente de fabricação de sentinelas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi N2 (Comum)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "Relíquia Neo A4 (Comum)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "Relíquia Neo S1 (Comum)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Relíquia Lith S5 (Comum)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "搬运者 Prime 外壳",
+        "description": "一个 Prime 守护的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "后纪 N2 遗物 (常见)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "中纪 A4 遗物 (常见)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "中纪 S1 遗物 (常见)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "古纪 S5 遗物 (常见)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "搬運者 Prime 外殼",
+        "description": "製作 Prime 守護的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "後紀 N2 遺物 (常見)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "中紀 A4 遺物 (常見)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "中紀 S1 遺物 (常見)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "古紀 S5 遺物 (常見)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Caparazón De Carrier Prime",
+        "description": "Un componente de fabricación de centinela prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi N2 (Común)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "Reliquia Neo A4 (Común)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "Reliquia Neo S1 (Común)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Reliquia Lith S5 (Común)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Carrier Prime - Carapace",
+        "description": "Un componente Prime per la costruzione di una sentinella.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Paris_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi N2 (Common)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "Reliquia Neo A4 (Common)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "Reliquia Neo S1 (Common)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Reliquia Lith S5 (Common)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Carrier Prime: Karapaks",
+        "description": "Element wytwarzania Strażników Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Carrier_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi N2 (Powszechny)",
+                "link": "axi_n2_relic"
+            },
+            {
+                "name": "Relikt Neo A4 (Powszechny)",
+                "link": "neo_a4_relic"
+            },
+            {
+                "name": "Relikt Neo S1 (Powszechny)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Relikt Lith S5 (Powszechny)",
+                "link": "lith_s5_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 15,
+    "trading_tax": 2000
+}

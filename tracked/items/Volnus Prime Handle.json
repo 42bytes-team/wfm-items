@@ -1,0 +1,150 @@
+{
+    "_id": "60ad4a1bf1904300d012c6f9",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "component"
+    ],
+    "icon": "icons/en/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+    "thumb": "icons/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
+    "url_name": "volnus_prime_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/VolnusPrimeHandle"
+    },
+    "part_of_set": [
+        "volnus_prime_handle",
+        "volnus_prime_head",
+        "volnus_prime_blueprint",
+        "volnus_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Volnus Prime Handle",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Neo V10 Relic (Rare)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вольнус Прайм: Рукоять",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Реликвия Нео V10 (Редкий)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "볼누스 프라임 핸들",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "네오 V10 성유물 (레어)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Volnus Prime: Griff",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Neo-relikt: V10 (Selten)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Volnus Prime - Poignée",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relique Neo V10 (Rare)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Volnus Prime: Cabo",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relíquia Neo V10 (Raro)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "创伤 Prime 握柄",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "中纪 V10 遗物 (稀有)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "創傷 Prime 握柄",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "中紀 V10 遺物 (稀有)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Empuñadura De Volnus Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Neo V10 (Raro)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Volnus Prime - Impugnatura",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Neo V10 (Rare)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Volnus Prime: Rękojeść",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relikt Neo V10 (Rzadki)",
+                "link": "neo_v10_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 100,
+    "trading_tax": 2000
+}

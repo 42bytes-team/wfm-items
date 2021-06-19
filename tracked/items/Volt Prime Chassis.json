@@ -1,0 +1,284 @@
+{
+    "_id": "55158cd9e7798915ee6bd13f",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "chassis",
+        "warframe"
+    ],
+    "icon": "icons/en/volt_prime_chassis.9481daa3eb02aaec1108cdbeeaeea159.png",
+    "thumb": "icons/en/thumbs/volt_prime_chassis.9481daa3eb02aaec1108cdbeeaeea159.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "volt_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/VoltPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "volt_prime_set",
+        "volt_prime_blueprint",
+        "volt_prime_chassis",
+        "volt_prime_neuroptics",
+        "volt_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Volt Prime Chassis",
+        "description": "Chassis component of the Volt Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "Axi V8 Relic (Uncommon)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "Meso V3 Relic (Uncommon)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "Meso O3 Relic (Uncommon)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Meso V2 Relic (Uncommon)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Вольт Прайм: Каркас",
+        "description": "Компонент варфрейма Вольт Прайм: Каркас.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси V8 (Необычный)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "Реликвия Мезо V3 (Необычный)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "Реликвия Мезо O3 (Необычный)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Реликвия Мезо V2 (Необычный)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "볼트 프라임 섀시",
+        "description": "볼트 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "액시 V8 성유물 (언커먼)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "메소 V3 성유물 (언커먼)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "메소 O3 성유물 (언커먼)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "메소 V2 성유물 (언커먼)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Volt Prime: Chassis",
+        "description": "Chassis-Komponente für den Volt Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: V8 (Ungewöhnlich)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "Meso-relikt: V3 (Ungewöhnlich)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "Meso-relikt: O3 (Ungewöhnlich)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Meso-relikt: V2 (Ungewöhnlich)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Volt Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Volt Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi V8 (Inhabituel)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "Relique Meso V3 (Inhabituel)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "Relique Meso O3 (Inhabituel)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Relique Meso V2 (Inhabituel)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Volt Prime: Chassi",
+        "description": "Chassi componente do Warframe Volt Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi V8 (Incomum)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "Relíquia Meso V3 (Incomum)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "Relíquia Meso O3 (Incomum)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Relíquia Meso V2 (Incomum)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Volt Prime 机体",
+        "description": "Volt Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "后纪 V8 遗物 (罕见)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "前纪 V3 遗物 (罕见)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "前纪 O3 遗物 (罕见)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "前纪 V2 遗物 (罕见)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Volt Prime 機體",
+        "description": "Volt Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "後紀 V8 遺物 (罕見)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "前紀 V3 遺物 (罕見)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "前紀 O3 遺物 (罕見)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "前紀 V2 遺物 (罕見)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Volt Prime",
+        "description": "Componente del chasis del warframe Volt Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V8 (Poco Común)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "Reliquia Meso V3 (Poco Común)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "Reliquia Meso O3 (Poco Común)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Reliquia Meso V2 (Poco Común)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Volt Prime - Chassis",
+        "description": "Il componente Chassis del Warframe Volt Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V8 (Uncommon)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "Reliquia Meso V3 (Uncommon)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "Reliquia Meso O3 (Uncommon)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Reliquia Meso V2 (Uncommon)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Volt Prime: Powłoka",
+        "description": "Powłoka dla Warframe'a Volt Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Volt_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi V8 (Nieprzeciętny)",
+                "link": "axi_v8_relic"
+            },
+            {
+                "name": "Relikt Meso V3 (Nieprzeciętny)",
+                "link": "meso_v3_relic"
+            },
+            {
+                "name": "Relikt Meso O3 (Nieprzeciętny)",
+                "link": "meso_o3_relic"
+            },
+            {
+                "name": "Relikt Meso V2 (Nieprzeciętny)",
+                "link": "meso_v2_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

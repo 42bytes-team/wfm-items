@@ -1,0 +1,87 @@
+{
+    "_id": "54a74454e779892d5e515678",
+    "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+    ],
+    "icon": "icons/en/Rejuvenation.8679cf8d206d54986ff11d22983cd191.png",
+    "thumb": "icons/en/thumbs/Rejuvenation.8679cf8d206d54986ff11d22983cd191.128x128.png",
+    "icon_format": "port",
+    "url_name": "rejuvenation",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Aura/PlayerHealthRegenAuraMod"
+    },
+    "en": {
+        "item_name": "Rejuvenation",
+        "description": "Team Health regenerates. +3 Heal Rate/s",
+        "wiki_link": "https://warframe.fandom.com/wiki/Rejuvenation",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Омоложение",
+        "description": "Здоровье команды регенерируется. +3 здоровья/с",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%BC%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+        "icon": "icons/ru/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.png",
+        "thumb": "icons/ru/thumbs/Rejuvenation.910e962ce7e2fa125fdd360f798fa019.128x128.png",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "리쥬버네이션",
+        "description": "팀원 전체의 체력이 재생됩니다. +3 초당 체력 재생률",
+        "wiki_link": "https://warframe.fandom.com/wiki/Rejuvenation",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Erholung",
+        "description": "Warframe-Gesundheit wird wiederhergestellt. +3 Gesundheit/ s erholen",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Erholung",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Rajeunissement",
+        "description": "Régénération de Santé pour l'équipe. +3 de Régénération de Santé/s",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rajeunissement",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Rejuvenation",
+        "description": "A Vida do Esquadrão regenera. +3 Regeneração de Vida/s",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rejuvenation",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "返老还童",
+        "description": "持续恢复团队生命 每秒生命恢复 +3",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rejuvenation",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "返老還童",
+        "description": "團隊生命持續恢復 每秒生命恢復 +3",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rejuvenation",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Rejuvenecimiento",
+        "description": "La salud del equipo se regenera. Recupera +3 de salud/s",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Rejuvenecimiento",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Rejuvenation",
+        "description": "Rigenera la Salute della Squadra. +3/s Rigenerazione Salute",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rejuvenation",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Odnowa",
+        "description": "Regeneruje życie drużyny. Odnowa Życia +3/s",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Odnowa",
+        "drop": []
+    },
+    "rarity": "uncommon",
+    "max_rank": 5,
+    "trading_tax": 4000
+}

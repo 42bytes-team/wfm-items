@@ -1,0 +1,196 @@
+{
+    "_id": "5e839493267539077b0dd69a",
+    "tags": [
+        "prime",
+        "stock",
+        "primary",
+        "component",
+        "weapon"
+    ],
+    "icon": "icons/en/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.png",
+    "thumb": "icons/en/thumbs/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/stock_128x128.png",
+    "url_name": "corinth_prime_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorinthPrimeStock"
+    },
+    "part_of_set": [
+        "corinth_prime_set",
+        "corinth_prime_stock",
+        "corinth_prime_blueprint",
+        "corinth_prime_barrel",
+        "corinth_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Corinth Prime Stock",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "Meso C6 Relic (Rare)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "Lith C6 Relic (Rare)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Коринф Прайм: Приклад",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%84_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Мезо C6 (Редкий)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "Реликвия Лит C6 (Редкий)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "코린트 프라임 스톡",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "메소 C6 성유물 (레어)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "리스 C6 성유물 (레어)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Corinth Prime: Schaft",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Meso-relikt: C6 (Selten)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "Lith-relikt: C6 (Selten)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Corinth Prime - Crosse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "Relique Meso C6 (Rare)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "Relique Lith C6 (Rare)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Corinth Prime: Coronha",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Meso C6 (Raro)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "Relíquia Lith C6 (Raro)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "科林斯 Prime 枪托",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "前纪 C6 遗物 (稀有)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "古纪 C6 遗物 (稀有)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "科林斯 Prime 槍托",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "前紀 C6 遺物 (稀有)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "古紀 C6 遺物 (稀有)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Culata De Corinth Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso C6 (Raro)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "Reliquia Lith C6 (Raro)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Corinth Prime - Calcio",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Orthos_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Meso C6 (Rare)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "Reliquia Lith C6 (Rare)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Corinth Prime: Kolba",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Corinth_Prime",
+        "drop": [
+            {
+                "name": "Relikt Meso C6 (Rzadki)",
+                "link": "meso_c6_relic"
+            },
+            {
+                "name": "Relikt Lith C6 (Rzadki)",
+                "link": "lith_c6_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 100,
+    "trading_tax": 2000
+}

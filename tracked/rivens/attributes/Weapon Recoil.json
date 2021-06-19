@@ -1,0 +1,53 @@
+{
+    "_id": "5c5ca81a96e8d2003834fe7f",
+    "url_name": "recoil",
+    "group": "default",
+    "prefix": "Zeti",
+    "suffix": "Mag",
+    "positive_is_negative": true,
+    "negative_only": false,
+    "exclusive_to": [
+        "shotgun",
+        "rifle",
+        "pistol",
+        "kitgun"
+    ],
+    "units": "percent",
+    "search_only": false,
+    "game_ref": {
+        "uniq_name": "WeaponRecoilReductionMod"
+    },
+    "en": {
+        "effect": "Weapon Recoil"
+    },
+    "ru": {
+        "effect": "Отдача"
+    },
+    "ko": {
+        "effect": "반동"
+    },
+    "de": {
+        "effect": "Waffenrückstoß"
+    },
+    "fr": {
+        "effect": "Recul"
+    },
+    "pt": {
+        "effect": "WeaponRecoilReductionMod"
+    },
+    "zh-hans": {
+        "effect": "后坐力"
+    },
+    "zh-hant": {
+        "effect": "後坐力"
+    },
+    "es": {
+        "effect": "Retroceso"
+    },
+    "it": {
+        "effect": "Weapon Recoil"
+    },
+    "pl": {
+        "effect": "Odrzut Broni"
+    }
+}

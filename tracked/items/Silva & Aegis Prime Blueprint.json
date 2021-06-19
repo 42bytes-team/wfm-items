@@ -1,0 +1,371 @@
+{
+    "_id": "592dd262011e88f094afec87",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "icons/en/Silva_&_Aegis_Prime_Set.d226bbe86d3eccd8c751958dba46a4f6.png",
+    "thumb": "icons/en/thumbs/Silva_&_Aegis_Prime_Set.d226bbe86d3eccd8c751958dba46a4f6.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "silva_and_aegis_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/SilvaAegisPrimeBlueprint"
+    },
+    "part_of_set": [
+        "silva_and_aegis_prime_set",
+        "silva_and_aegis_prime_blade",
+        "silva_and_aegis_prime_blueprint",
+        "silva_and_aegis_prime_guard",
+        "silva_and_aegis_prime_hilt"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Silva & Aegis Prime Blueprint",
+        "description": "A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "Axi V7 Relic (Uncommon)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Neo G3 Relic (Uncommon)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "Meso V5 Relic (Uncommon)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Meso P1 Relic (Uncommon)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Lith T2 Relic (Uncommon)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "Lith Z2 Relic (Uncommon)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Сильва И Эгида Прайм: Чертеж",
+        "description": "Превосходно подобранная пара, эта комбинация булавы и щита была создана для демонстраций, но сбалансирована для поля боя.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0_%D0%B8_%D0%AD%D0%B3%D0%B8%D0%B4%D0%B0/%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси V7 (Необычный)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Реликвия Нео G3 (Необычный)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "Реликвия Мезо V5 (Необычный)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Реликвия Мезо P1 (Необычный)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Реликвия Лит T2 (Необычный)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "Реликвия Лит Z2 (Необычный)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "실바 & 이지스 프라임 설계도",
+        "description": "완벽한 한 쌍으로써 만들어진 이 메이스와 실드는 본래 전시용으로 빚어졌지만, 전장에서의 활약을 위해 조정되었습니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "액시 V7 성유물 (언커먼)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "네오 G3 성유물 (언커먼)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "메소 V5 성유물 (언커먼)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "메소 P1 성유물 (언커먼)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "리스 T2 성유물 (언커먼)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "리스 Z2 성유물 (언커먼)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Silva & Ägis Prime: Blaupause",
+        "description": "Als perfekt abgestimmtes Paar ist diese Kombination aus Streitkolben und Schild zur Ausstellung geschaffen, aber balanciert für den Einsatz auf dem Schlachtfeld.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: V7 (Ungewöhnlich)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Neo-relikt: G3 (Ungewöhnlich)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "Meso-relikt: V5 (Ungewöhnlich)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Meso-relikt: P1 (Ungewöhnlich)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Lith-relikt: T2 (Ungewöhnlich)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "Lith-relikt: Z2 (Ungewöhnlich)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Silva & Aegis Prime - Schéma",
+        "description": "Un couplage parfaitement conçu, cette combinaison de masse et de bouclier est sculptée pour être exposée, mais est équilibrée pour le champ de bataille.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi V7 (Inhabituel)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Relique Neo G3 (Inhabituel)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "Relique Meso V5 (Inhabituel)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Relique Meso P1 (Inhabituel)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relique Lith T2 (Inhabituel)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "Relique Lith Z2 (Inhabituel)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Silva & Aegis Prime: Diagram",
+        "description": "Uma união perfeitamente construída, esta combinação de espada e escudo foi esculpida para exibição, mas balanceada para o campo de batalha.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi V7 (Incomum)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Relíquia Neo G3 (Incomum)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "Relíquia Meso V5 (Incomum)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Relíquia Meso P1 (Incomum)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relíquia Lith T2 (Incomum)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "Relíquia Lith Z2 (Incomum)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "席瓦 & 神盾 Prime 蓝图",
+        "description": "（英文：SILVA & AEGIS PRIME）完美打造的一对，权杖与盾的组合不仅是为了展示而雕凿，也权衡了战场的用途。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "后纪 V7 遗物 (罕见)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "中纪 G3 遗物 (罕见)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "前纪 V5 遗物 (罕见)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "前纪 P1 遗物 (罕见)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "古纪 T2 遗物 (罕见)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "古纪 Z2 遗物 (罕见)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "席瓦 & 神盾 Prime 藍圖",
+        "description": "（英文：SILVA & AEGIS PRIME）完美打造的一對，權杖與盾的組合不僅是為了展示而雕鑿，也權衡了戰場的用途。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "後紀 V7 遺物 (罕見)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "中紀 G3 遺物 (罕見)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "前紀 V5 遺物 (罕見)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "前紀 P1 遺物 (罕見)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "古紀 T2 遺物 (罕見)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "古紀 Z2 遺物 (罕見)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Silva & Aegis Prime",
+        "description": "Un par perfectamente creado, esta combinación de maza y escudo están esculpidos para exhibición pero balanceados para el campo de batalla.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V7 (Poco Común)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Reliquia Neo G3 (Poco Común)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "Reliquia Meso V5 (Poco Común)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Reliquia Meso P1 (Poco Común)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Reliquia Lith T2 (Poco Común)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "Reliquia Lith Z2 (Poco Común)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Silva & Aegis Prime Blueprint",
+        "description": "Un coppia perfettamente realizzata, questa combinazione di spada e mazza è scolpita per l'esibizione ma bilanciata per il campo di battaglia.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Silva_%26_Aegis_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi V7 (Uncommon)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Reliquia Neo G3 (Uncommon)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "Reliquia Meso V5 (Uncommon)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Reliquia Meso P1 (Uncommon)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Reliquia Lith T2 (Uncommon)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "Reliquia Lith Z2 (Uncommon)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Silva I Aegis Prime: Schemat",
+        "description": "Doskonale dobrana para, ta kombinacja berła i tarczy została zaprojektowana, by cieszyć oko, ale wyważona z myślą o polu bitwy.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Silva_i_Aegis_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi V7 (Nieprzeciętny)",
+                "link": "axi_v7_relic"
+            },
+            {
+                "name": "Relikt Neo G3 (Nieprzeciętny)",
+                "link": "neo_g3_relic"
+            },
+            {
+                "name": "Relikt Meso V5 (Nieprzeciętny)",
+                "link": "meso_v5_relic"
+            },
+            {
+                "name": "Relikt Meso P1 (Nieprzeciętny)",
+                "link": "meso_p1_relic"
+            },
+            {
+                "name": "Relikt Lith T2 (Nieprzeciętny)",
+                "link": "lith_t2_relic"
+            },
+            {
+                "name": "Relikt Lith Z2 (Nieprzeciętny)",
+                "link": "lith_z2_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}

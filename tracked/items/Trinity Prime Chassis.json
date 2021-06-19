@@ -1,0 +1,328 @@
+{
+    "_id": "5615369ab66f836f805c5a8b",
+    "tags": [
+        "component",
+        "blueprint",
+        "prime",
+        "chassis",
+        "warframe"
+    ],
+    "icon": "icons/en/trinity_prime_chassis.4115dba418ab8ee70197a7fdaee8da76.png",
+    "thumb": "icons/en/thumbs/trinity_prime_chassis.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/chassis_128x128.png",
+    "url_name": "trinity_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "trinity_prime_set",
+        "trinity_prime_blueprint",
+        "trinity_prime_chassis",
+        "trinity_prime_neuroptics",
+        "trinity_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Trinity Prime Chassis",
+        "description": "Chassis component of the Trinity Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Axi H2 Relic (Uncommon)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Axi H1 Relic (Uncommon)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "Axi S7 Relic (Uncommon)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Neo S1 Relic (Uncommon)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Lith S4 Relic (Uncommon)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Тринити Прайм: Каркас",
+        "description": "Компонент варфрейма Тринити Прайм: Каркас.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Акси H2 (Необычный)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Реликвия Акси H1 (Необычный)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "Реликвия Акси S7 (Необычный)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Реликвия Нео S1 (Необычный)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Реликвия Лит S4 (Необычный)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "트리니티 프라임 섀시",
+        "description": "트리니티 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "액시 H2 성유물 (언커먼)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "액시 H1 성유물 (언커먼)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "액시 S7 성유물 (언커먼)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "네오 S1 성유물 (언커먼)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "리스 S4 성유물 (언커먼)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Trinity Prime: Chassis",
+        "description": "Chassis-Komponente für den Trinity Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: H2 (Ungewöhnlich)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Axi-relikt: H1 (Ungewöhnlich)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "Axi-relikt: S7 (Ungewöhnlich)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Neo-relikt: S1 (Ungewöhnlich)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Lith-relikt: S4 (Ungewöhnlich)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Trinity Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi H2 (Inhabituel)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relique Axi H1 (Inhabituel)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "Relique Axi S7 (Inhabituel)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Relique Neo S1 (Inhabituel)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Relique Lith S4 (Inhabituel)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Trinity Prime: Chassi",
+        "description": "Chassi componente do Warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi H2 (Incomum)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relíquia Axi H1 (Incomum)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "Relíquia Axi S7 (Incomum)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Relíquia Neo S1 (Incomum)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Relíquia Lith S4 (Incomum)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Trinity Prime 机体",
+        "description": "Trinity Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "后纪 H2 遗物 (罕见)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "后纪 H1 遗物 (罕见)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "后纪 S7 遗物 (罕见)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "中纪 S1 遗物 (罕见)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "古纪 S4 遗物 (罕见)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Trinity Prime 機體",
+        "description": "Trinity Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "後紀 H2 遺物 (罕見)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "後紀 H1 遺物 (罕見)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "後紀 S7 遺物 (罕見)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "中紀 S1 遺物 (罕見)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "古紀 S4 遺物 (罕見)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Trinity Prime",
+        "description": "Componente del chasis del warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi H2 (Poco Común)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Reliquia Axi H1 (Poco Común)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "Reliquia Axi S7 (Poco Común)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Reliquia Neo S1 (Poco Común)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Reliquia Lith S4 (Poco Común)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Trinity Prime - Chassis",
+        "description": "Il componente Chassis per il Warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Trinity/Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi H2 (Uncommon)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Reliquia Axi H1 (Uncommon)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "Reliquia Axi S7 (Uncommon)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Reliquia Neo S1 (Uncommon)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Reliquia Lith S4 (Uncommon)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Trinity Prime: Powłoka",
+        "description": "Powłoka dla Warframe Trinity Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Trinity_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi H2 (Nieprzeciętny)",
+                "link": "axi_h2_relic"
+            },
+            {
+                "name": "Relikt Axi H1 (Nieprzeciętny)",
+                "link": "axi_h1_relic"
+            },
+            {
+                "name": "Relikt Axi S7 (Nieprzeciętny)",
+                "link": "axi_s7_relic"
+            },
+            {
+                "name": "Relikt Neo S1 (Nieprzeciętny)",
+                "link": "neo_s1_relic"
+            },
+            {
+                "name": "Relikt Lith S4 (Nieprzeciętny)",
+                "link": "lith_s4_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}
