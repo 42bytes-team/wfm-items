@@ -6,7 +6,7 @@
         "warframe",
         "blueprint"
     ],
-    "icon": "items/icons/GaraPrime.png",
+    "icon": "icons/en/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.png",
     "thumb": "icons/en/thumbs/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
@@ -17,10 +17,10 @@
     },
     "part_of_set": [
         "gara_prime_blueprint",
+        "gara_prime_chassis",
         "gara_prime_neuroptics",
-		"gara_prime_chassis",
-        "gara_prime_systems",
-        "gara_prime_set"
+        "gara_prime_set",
+        "gara_prime_systems"
     ],
     "set_root": false,
     "quantity_for_set": 1,

@@ -6,8 +6,8 @@
         "pvp",
         "primary"
     ],
-    "icon": "https://static.wikia.nocookie.net/warframe/images/4/47/Triple_Tap.png",
-    "thumb": "icons/en/thumbs/Triple_Tap.14b8847d5ad2021abe36193085a5b8b6.128x128.png",
+    "icon": "icons/en/triple_tap.76f19f65c3581449abc56f3d8d743b6e.png",
+    "thumb": "icons/en/thumbs/triple_tap.76f19f65c3581449abc56f3d8d743b6e.128x128.png",
     "icon_format": "port",
     "url_name": "triple_tap",
     "tradable": true,
@@ -24,8 +24,9 @@
         "item_name": "Тройное Касание",
         "description": "При 2 попаданиях в течение 0.02с:\r+40% урона в течение 0.2с",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BA%D0%B0%D1%81%D0%B0%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Triple_Tap.8051f59b39c0b93ee3fa85396d48ffa6.png",
-        "thumb": "icons/ru/thumbs/Triple_Tap.8051f59b39c0b93ee3fa85396d48ffa6.128x128.png",
+        "icon": "icons/ru/triple_tap.8051f59b39c0b93ee3fa85396d48ffa6.png",
+        "icon_format": "land",
+        "thumb": "icons/ru/thumbs/triple_tap.8051f59b39c0b93ee3fa85396d48ffa6.128x128.png",
         "drop": []
     },
     "ko": {
@@ -54,7 +55,7 @@
     },
     "zh-hans": {
         "item_name": "三重连击",
-        "description": "0.02 秒内命中 2 发：\r+40% 伤害，持续 0 秒",
+        "description": "0.02 秒内命中 2 发：\r+40% 伤害，持续 0.2 秒",
         "wiki_link": "https://warframe.huijiwiki.com/wiki/Triple_Tap",
         "drop": []
     },

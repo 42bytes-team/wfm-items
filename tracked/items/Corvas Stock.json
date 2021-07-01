@@ -7,8 +7,8 @@
         "weapon",
         "archwing"
     ],
-    "icon": "icons/en/corvas_stock.0248b2ad006d7ad6a460cc03eac4baa7.png",
-    "thumb": "icons/en/thumbs/corvas_stock.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png",
+    "icon": "icons/en/corvas_set.0248b2ad006d7ad6a460cc03eac4baa7.png",
+    "thumb": "icons/en/thumbs/corvas_set.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/generic_stock_128x128.png",
     "url_name": "corvas_stock",
@@ -17,9 +17,9 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonStock"
     },
     "part_of_set": [
-        "corvas_set",
         "corvas_barrel",
         "corvas_receiver",
+        "corvas_set",
         "corvas_stock"
     ],
     "set_root": false,
