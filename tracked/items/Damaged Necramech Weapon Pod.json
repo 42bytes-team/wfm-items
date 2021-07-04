@@ -5,8 +5,8 @@
         "weapon_pod",
         "mech"
     ],
-    "icon": "icons/en/damaged_necramech_weapon_pod.09d9da6db09801ac4413810d0524625b.png",
-    "thumb": "icons/en/thumbs/damaged_necramech_weapon_pod.09d9da6db09801ac4413810d0524625b.128x128.png",
+    "icon": "icons/en/damaged_necramech_set.119a9503b2541565cf715cc74cc0d98b.png",
+    "thumb": "icons/en/thumbs/damaged_necramech_set.119a9503b2541565cf715cc74cc0d98b.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/damaged_mech_part_weapon_pod_128x128.png",
     "url_name": "damaged_necramech_weapon_pod",
@@ -15,11 +15,11 @@
         "uniq_name": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem"
     },
     "part_of_set": [
-        "damaged_necramech_weapon_pod",
+        "damaged_necramech_casing",
         "damaged_necramech_engine",
         "damaged_necramech_pod",
-        "damaged_necramech_casing",
-        "damaged_necramech_set"
+        "damaged_necramech_set",
+        "damaged_necramech_weapon_pod"
     ],
     "set_root": false,
     "en": {
