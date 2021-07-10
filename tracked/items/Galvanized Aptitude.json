@@ -1,0 +1,85 @@
+{
+    "_id": "60e5b8fd4794450053e99944",
+    "tags": [
+        "mod",
+        "rare",
+        "primary"
+    ],
+    "icon": "icons/en/galvanized_aptitude.4efa17fe5ff1b28b63d47f786a4680ef.png",
+    "thumb": "icons/en/thumbs/galvanized_aptitude.4efa17fe5ff1b28b63d47f786a4680ef.128x128.png",
+    "icon_format": "port",
+    "url_name": "galvanized_aptitude",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponStatusChanceSPMod"
+    },
+    "en": {
+        "item_name": "Galvanized Aptitude",
+        "description": "+80% Status Chance\nOn Kill:\r+40% Damage per Status Type affecting the target for 20s. Stacks up to 2x.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Активированная Боеспособность",
+        "description": "+80% к шансу статуса\nПри убийстве:\r+40% к урону за каждый действующий на цель эффект статуса на 20с. Складывается до 2 раз.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ko": {
+        "item_name": "갈바나이즈드 앱티튜드",
+        "description": "+80% 상태 이상 확률\n처치 시:\n20초 동안 목표물에게 걸린 각 상태 이상마다 +40% 피해, 최대 2회 중첩",
+        "wiki_link": null,
+        "drop": []
+    },
+    "de": {
+        "item_name": "Galvanisierte Begabung",
+        "description": "+80 % Statuschance\nBei Kill:\r+40 % Schaden für jeden wirkenden Statuseffekt auf dem Gegner für 20 s. Bis zu 2x stapelbar.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Aptitude Galvanisée",
+        "description": "+80% de Chance de Statut\nSur Élimination:\r+40% de Dégâts pour chaque Type de Statut affectant la cible pendant 20s. Cumulable jusqu'à 2x.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Galvanized Aptitude",
+        "description": "+80% de Chance de Status\nAo Matar:\r+40% de Dano para cada Tipo de Status afetando o alvo durante 20s. Acumula até 2 vezes.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "镀层 步枪才能",
+        "description": "+80% 触发几率\n击杀后：\n目标身上的每种异常状态可增加 +40% 伤害，持续 20 秒。最多叠加到 2x。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "激昂才能",
+        "description": "+80% 觸發機率\n擊殺時：\n每種影響目標的異常狀態類型將造成 +40% 的傷害 持續 20 秒。最多可疊加 2 次。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "es": {
+        "item_name": "Aptitud Galvanizada",
+        "description": "+80% de probabilidad de estado\nAl matar:\r+40 % de daño por cada tipo de estado aplicado al objetivo por 20 s. Se acumula hasta 2 veces.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "it": {
+        "item_name": "Galvanized Aptitude",
+        "description": "+80% Probabilità Effetto\nDopo un'Uccisione:\r+40% Danno ogni Tipo di Effetto sul bersaglio per 20s. Si accumula fino a 2x.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Galwanizowany Instynkt",
+        "description": "+80% Szansa Statusu\nPo zabiciu:\r+40% Obrażeń za każdy typ efektu Status nałożony na cel przez 20s. Kumuluje się do 2 razy.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "rarity": "rare",
+    "max_rank": 10,
+    "trading_tax": 8000
+}
