@@ -1,0 +1,33 @@
+{
+    "_id": " ",
+    "tags": [
+        "weapon",
+        "component",
+        "primary"
+    ],
+    "icon": "https://static.wikia.nocookie.net/warframe/images/5/51/Ambassador.png",
+    "thumb": " ",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+    "url_name": "ambassador_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": " "
+    },
+    "part_of_set": [
+        "ambassador_receiver",
+        "ambassador_receiver",
+        "ambassador_blueprint",
+        "ambassador_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ambassador Receiver",
+        "description": "A weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador",
+        "drop": []
+    },
+    "mastery_level": 10,
+    "trading_tax": 2000
+}
