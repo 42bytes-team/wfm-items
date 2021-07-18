@@ -32,7 +32,7 @@
         ]
     },
     "ko": {
-        "item_name": "Intruder Stasis",
+        "item_name": "인트루더 스테이시스",
         "description": "A Tactical Avionics that temporarily freezes all Enemy Boarding Parties. Cooldown of 300s.",
         "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Intruder_Stasis",
         "drop": [
@@ -138,12 +138,20 @@
         ]
     },
     "es": {
-        "item_name": "Intruder Stasis",
-        "description": "A Tactical Avionics that temporarily freezes all Enemy Boarding Parties. Cooldown of 300s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Intruder_Stasis",
+        "item_name": "Éstasis de intruso",
+        "description": "Es una aviónica táctica que congela temporalmente a todos los grupos de abordaje enemigos. Deberá de enfriarse durante 240 segundos antes de poderla reutilizar.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Éstasis_de_intruso",
         "drop": [
             {
-                "name": "Elite Gyre Flak",
+                "name": "Escolta Exo",
+                "link": null
+            },
+			{
+                "name": "Escolta Gyre",
+                "link": null
+            },
+			{
+                "name": "Escolta Kosma",
                 "link": null
             }
         ]
