@@ -1,0 +1,32 @@
+{
+    "tags": [
+        "weapon",
+        "melee",
+		"assault saw",
+		"component",
+		"chassis"
+    ],
+    "icon": "https://static.wikia.nocookie.net/warframe/images/c/c0/Ghoulsaw.png",
+    "url_name": "ghoulsaw_chassis",
+    "tradable": true,
+    
+    "part_of_set": [
+        "me_link",
+        "ghoulsaw_set",
+        "ghoulsaw_blueprint",
+		"ghoulsaw_blade",
+		"ghoulsaw_chassis",
+		"ghoulsaw_engine",
+		"ghoulsaw_grip"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ghoulsaw Chassis",
+        "description": "The Ghoulsaw is a heavy saw melee weapon used by Ghoul Rictus. It is swung around as the sawblade shreds enemies apart, and can be uniquely ridden on.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "mastery_level": 7,
+    "trading_tax": 2000
+}
