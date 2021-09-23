@@ -1,0 +1,151 @@
+{
+    "_id": "6139101a30dd5b004b7f90a9",
+    "tags": [
+        "primary",
+        "weapon",
+        "component",
+        "prime"
+    ],
+    "icon": "icons/en/strun_prime_set.8e671acd6f2903fd8c744bc6041140b6.png",
+    "thumb": "icons/en/thumbs/strun_prime_set.8e671acd6f2903fd8c744bc6041140b6.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
+    "url_name": "strun_prime_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/StrunPrimeStock"
+    },
+    "part_of_set": [
+        "strun_prime_barrel",
+        "strun_prime_blueprint",
+        "strun_prime_receiver",
+        "strun_prime_set",
+        "strun_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Strun Prime Stock",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "Neo N17 Relic (Uncommon)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Стран Прайм: Приклад",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "Реликвия Нео N17 (Необычный)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "스트런 프라임 스톡",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "네오 N17 성유물 (언커먼)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Strun Prime: Schaft",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "Neo-relikt: N17 (Ungewöhnlich)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Strun Prime - Crosse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "Relique Neo N17 (Inhabituel)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Strun Prime: Coronha",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Neo N17 (Incomum)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "斯特朗 Prime 枪托",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "中纪 N17 遗物 (罕见)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "斯特朗 Prime 槍托",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "中紀 N17 遺物 (罕見)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Culata De Strun Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo N17 (Poco Común)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Strun Prime - Calcio",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Neo N17 (Uncommon)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Strun Prime: Kolba",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
+        "drop": [
+            {
+                "name": "Relikt Neo N17 (Nieprzeciętny)",
+                "link": "neo_n17_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

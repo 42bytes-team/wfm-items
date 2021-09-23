@@ -1,0 +1,150 @@
+{
+    "_id": "6139101b30dd5b004b7f90af",
+    "tags": [
+        "weapon",
+        "secondary",
+        "component",
+        "prime"
+    ],
+    "icon": "icons/en/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.png",
+    "thumb": "icons/en/thumbs/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+    "url_name": "magnus_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/MagnusPrimeBarrel"
+    },
+    "part_of_set": [
+        "magnus_prime_barrel",
+        "magnus_prime_blueprint",
+        "magnus_prime_receiver",
+        "magnus_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Magnus Prime Barrel",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "Axi M2 Relic (Rare)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Магнус Прайм: Ствол",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "Реликвия Акси M2 (Редкий)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "매그너스 프라임 배럴",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "액시 M2 성유물 (레어)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Magnus Prime: Lauf",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: M2 (Selten)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Magnus Prime - Canon",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi M2 (Rare)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Magnus Prime: Cano",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi M2 (Raro)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "麦格努斯 Prime 枪管",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "后纪 M2 遗物 (稀有)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "麥格努斯 Prime 槍管",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "後紀 M2 遺物 (稀有)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cañón De Magnus Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi M2 (Raro)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Magnus Prime - Canna",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi M2 (Rare)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Magnus Prime: Lufa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnus_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi M2 (Rzadki)",
+                "link": "axi_m2_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 100,
+    "trading_tax": 2000
+}

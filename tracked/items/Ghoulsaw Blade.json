@@ -1,0 +1,95 @@
+{
+    "_id": "61460dcce330e600455dcea0",
+    "tags": [
+        "weapon",
+        "component",
+        "blueprint"
+    ],
+    "icon": "icons/en/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.png",
+    "thumb": "icons/en/thumbs/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/generic_blade_128x128.png",
+    "url_name": "ghoulsaw_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnGhoulSawBladeBlueprint"
+    },
+    "part_of_set": [
+        "ghoulsaw_blade",
+        "ghoulsaw_blueprint",
+        "ghoulsaw_chassis",
+        "ghoulsaw_engine",
+        "ghoulsaw_grip",
+        "ghoulsaw_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Ghoulsaw Blade",
+        "description": "A weapon-crafting component. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Пила Упыря: Лезвие",
+        "description": "Компонент оружия. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "ko": {
+        "item_name": "구울소우 블레이드",
+        "description": "무기 제작 부품입니다. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "de": {
+        "item_name": "Ghulsäge: Klinge",
+        "description": "Eine Komponente für die Herstellung von Waffen. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Scie De Goule - Lame",
+        "description": "Un composant servant à la fabrication d'armes. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Serra Carniçal: Disco",
+        "description": "Um componente de fabricação de armas. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "尸鬼电锯 锯片",
+        "description": "一个武器的制作部件。 (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "屍鬼輪鋸刃片",
+        "description": "製作武器的部件  (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "es": {
+        "item_name": "Hoja De Ghoulsaw",
+        "description": "Un componente de fabricación de arma. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "it": {
+        "item_name": "Ghoulsaw - Lama",
+        "description": "Un componente per la costruzione di un'arma. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Piła Ghula: Ostrze",
+        "description": "Element wytwarzania Broni. (Blueprint)",
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+        "drop": []
+    },
+    "mastery_level": 7,
+    "trading_tax": 2000
+}

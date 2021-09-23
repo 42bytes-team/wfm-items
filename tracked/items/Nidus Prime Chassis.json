@@ -1,0 +1,151 @@
+{
+    "_id": "6139101a30dd5b004b7f90ad",
+    "tags": [
+        "blueprint",
+        "component",
+        "warframe",
+        "prime"
+    ],
+    "icon": "icons/en/nidus_prime_set.bebecd6152a465b9e3bbef66dd8f30f5.png",
+    "thumb": "icons/en/thumbs/nidus_prime_set.bebecd6152a465b9e3bbef66dd8f30f5.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+    "url_name": "nidus_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "nidus_prime_blueprint",
+        "nidus_prime_chassis",
+        "nidus_prime_neuroptics",
+        "nidus_prime_set",
+        "nidus_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nidus Prime Chassis",
+        "description": "Chassis component of the Nidus Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "Lith N7 Relic (Rare)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нидус Прайм: Каркас",
+        "description": "Компонент варфрейма Нидус Прайм: каркас.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "Реликвия Лит N7 (Редкий)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "나이더스 프라임 섀시",
+        "description": "나이더스 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "리스 N7 성유물 (레어)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Nidus Prime: Chassis",
+        "description": "Chassis-Komponente für den Nidus Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "Lith-relikt: N7 (Selten)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Nidus Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Nidus Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "Relique Lith N7 (Rare)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Nidus Prime: Chassi",
+        "description": "Chassi componente do Warframe Nidus Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Lith N7 (Raro)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Nidus Prime 机体",
+        "description": "Nidus Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nidus/Prime",
+        "drop": [
+            {
+                "name": "古纪 N7 遗物 (稀有)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Nidus Prime 機體",
+        "description": "Nidus Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nidus/Prime",
+        "drop": [
+            {
+                "name": "古紀 N7 遺物 (稀有)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Nidus Prime",
+        "description": "Componente del chasis del warframe Nidus Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith N7 (Raro)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Nidus Prime - Chassis",
+        "description": "Il componente Chassis per il Warframe Nidus Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith N7 (Rare)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Nidus Prime: Powłoka",
+        "description": "Powłoka dla Warframe'a Nidus Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+        "drop": [
+            {
+                "name": "Relikt Lith N7 (Rzadki)",
+                "link": "lith_n7_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 100,
+    "trading_tax": 2000
+}
