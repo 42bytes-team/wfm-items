@@ -2,8 +2,9 @@
     "_id": "60f3feb1b64404003f0bf5fc",
     "tags": [
         "primary",
-        "weapon",
-        "component"
+        "component",
+        "blueprint",
+        "weapon"
     ],
     "icon": "icons/en/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
     "thumb": "icons/en/thumbs/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
@@ -12,7 +13,7 @@
     "url_name": "ambassador_receiver",
     "tradable": true,
     "game_ref": {
-        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/CrpArSniperReceiver"
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AmbassadorReceiverBlueprint"
     },
     "part_of_set": [
         "ambassador_barrel",
