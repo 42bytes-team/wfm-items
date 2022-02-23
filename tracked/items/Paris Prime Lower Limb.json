@@ -10,7 +10,7 @@
     "icon": "icons/en/paris_prime_lower_limb.971f957f8304ce10617836343d47b238.png",
     "thumb": "icons/en/thumbs/paris_prime_lower_limb.971f957f8304ce10617836343d47b238.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/lower_limb_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_limb_128x128.png",
     "url_name": "paris_prime_lower_limb",
     "tradable": true,
     "game_ref": {
@@ -38,6 +38,10 @@
             {
                 "name": "Axi B4 Relic (Common)",
                 "link": "axi_b4_relic"
+            },
+            {
+                "name": "Axi T8 Relic (Common)",
+                "link": "axi_t8_relic"
             },
             {
                 "name": "Axi T3 Relic (Common)",
@@ -127,6 +131,10 @@
                 "link": "axi_b4_relic"
             },
             {
+                "name": "Реликвия Акси T8 (Обычный)",
+                "link": "axi_t8_relic"
+            },
+            {
                 "name": "Реликвия Акси T3 (Обычный)",
                 "link": "axi_t3_relic"
             },
@@ -212,6 +220,10 @@
             {
                 "name": "액시 B4 성유물 (커먼)",
                 "link": "axi_b4_relic"
+            },
+            {
+                "name": "액시 T8 성유물 (커먼)",
+                "link": "axi_t8_relic"
             },
             {
                 "name": "액시 T3 성유물 (커먼)",
@@ -301,6 +313,10 @@
                 "link": "axi_b4_relic"
             },
             {
+                "name": "Axi-relikt: T8 (Gewöhnlich)",
+                "link": "axi_t8_relic"
+            },
+            {
                 "name": "Axi-relikt: T3 (Gewöhnlich)",
                 "link": "axi_t3_relic"
             },
@@ -386,6 +402,10 @@
             {
                 "name": "Relique Axi B4 (Commun)",
                 "link": "axi_b4_relic"
+            },
+            {
+                "name": "Relique Axi T8 (Commun)",
+                "link": "axi_t8_relic"
             },
             {
                 "name": "Relique Axi T3 (Commun)",
@@ -475,6 +495,10 @@
                 "link": "axi_b4_relic"
             },
             {
+                "name": "Relíquia Axi T8 (Comum)",
+                "link": "axi_t8_relic"
+            },
+            {
                 "name": "Relíquia Axi T3 (Comum)",
                 "link": "axi_t3_relic"
             },
@@ -560,6 +584,10 @@
             {
                 "name": "后纪 B4 遗物 (常见)",
                 "link": "axi_b4_relic"
+            },
+            {
+                "name": "后纪 T8 遗物 (常见)",
+                "link": "axi_t8_relic"
             },
             {
                 "name": "后纪 T3 遗物 (常见)",
@@ -649,6 +677,10 @@
                 "link": "axi_b4_relic"
             },
             {
+                "name": "後紀 T8 遺物 (常見)",
+                "link": "axi_t8_relic"
+            },
+            {
                 "name": "後紀 T3 遺物 (常見)",
                 "link": "axi_t3_relic"
             },
@@ -734,6 +766,10 @@
             {
                 "name": "Reliquia Axi B4 (Común)",
                 "link": "axi_b4_relic"
+            },
+            {
+                "name": "Reliquia Axi T8 (Común)",
+                "link": "axi_t8_relic"
             },
             {
                 "name": "Reliquia Axi T3 (Común)",
@@ -823,6 +859,10 @@
                 "link": "axi_b4_relic"
             },
             {
+                "name": "Reliquia Axi T8 (Common)",
+                "link": "axi_t8_relic"
+            },
+            {
                 "name": "Reliquia Axi T3 (Common)",
                 "link": "axi_t3_relic"
             },
@@ -908,6 +948,10 @@
             {
                 "name": "Relikt Axi B4 (Powszechny)",
                 "link": "axi_b4_relic"
+            },
+            {
+                "name": "Relikt Axi T8 (Powszechny)",
+                "link": "axi_t8_relic"
             },
             {
                 "name": "Relikt Axi T3 (Powszechny)",

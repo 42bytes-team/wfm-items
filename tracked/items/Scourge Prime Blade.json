@@ -1,0 +1,151 @@
+{
+    "_id": "61bb64fb3132ff00482b5fb8",
+    "tags": [
+        "component",
+        "primary",
+        "weapon",
+        "prime"
+    ],
+    "icon": "icons/en/scourge_prime_set.1bcc3aeb8372c8e04e9b4f348673ab98.png",
+    "thumb": "icons/en/thumbs/scourge_prime_set.1bcc3aeb8372c8e04e9b4f348673ab98.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
+    "url_name": "scourge_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScourgePrimeBlade"
+    },
+    "part_of_set": [
+        "scourge_prime_barrel",
+        "scourge_prime_blade",
+        "scourge_prime_blueprint",
+        "scourge_prime_handle",
+        "scourge_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Scourge Prime Blade",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Neo N18 Relic (Common)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Кара Прайм: Лезвие",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+        "drop": [
+            {
+                "name": "Реликвия Нео N18 (Обычный)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "스커지 프라임 블레이드",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "네오 N18 성유물 (커먼)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Scourge Prime: Klinge",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Neo-relikt: N18 (Gewöhnlich)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Scourge Prime - Lame",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relique Neo N18 (Commun)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Scourge Prime: Lâmina",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relíquia Neo N18 (Comum)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "祸根 Prime 刀刃",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "中纪 N18 遗物 (常见)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "禍根 Prime 刀刃",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "中紀 N18 遺物 (常見)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Hoja De Scourge Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Neo N18 (Común)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Scourge Prime - Lama",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Neo N18 (Common)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Scourge Prime: Ostrze",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relikt Neo N18 (Powszechny)",
+                "link": "neo_n18_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

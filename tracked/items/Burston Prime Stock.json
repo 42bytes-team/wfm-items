@@ -10,7 +10,7 @@
     "icon": "icons/en/burston_prime_stock.9fc6c6a6dca24113027828df669cd89e.png",
     "thumb": "icons/en/thumbs/burston_prime_stock.9fc6c6a6dca24113027828df669cd89e.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/stock_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
     "url_name": "burston_prime_stock",
     "tradable": true,
     "game_ref": {
@@ -81,6 +81,10 @@
             {
                 "name": "Meso C3 Relic (Common)",
                 "link": "meso_c3_relic"
+            },
+            {
+                "name": "Meso A3 Relic (Common)",
+                "link": "meso_a3_relic"
             },
             {
                 "name": "Lith M5 Relic (Common)",
@@ -170,6 +174,10 @@
                 "link": "meso_c3_relic"
             },
             {
+                "name": "Реликвия Мезо A3 (Обычный)",
+                "link": "meso_a3_relic"
+            },
+            {
                 "name": "Реликвия Лит M5 (Обычный)",
                 "link": "lith_m5_relic"
             },
@@ -255,6 +263,10 @@
             {
                 "name": "메소 C3 성유물 (커먼)",
                 "link": "meso_c3_relic"
+            },
+            {
+                "name": "메소 A3 성유물 (커먼)",
+                "link": "meso_a3_relic"
             },
             {
                 "name": "리스 M5 성유물 (커먼)",
@@ -344,6 +356,10 @@
                 "link": "meso_c3_relic"
             },
             {
+                "name": "Meso-relikt: A3 (Gewöhnlich)",
+                "link": "meso_a3_relic"
+            },
+            {
                 "name": "Lith-relikt: M5 (Gewöhnlich)",
                 "link": "lith_m5_relic"
             },
@@ -429,6 +445,10 @@
             {
                 "name": "Relique Meso C3 (Commun)",
                 "link": "meso_c3_relic"
+            },
+            {
+                "name": "Relique Meso A3 (Commun)",
+                "link": "meso_a3_relic"
             },
             {
                 "name": "Relique Lith M5 (Commun)",
@@ -518,6 +538,10 @@
                 "link": "meso_c3_relic"
             },
             {
+                "name": "Relíquia Meso A3 (Comum)",
+                "link": "meso_a3_relic"
+            },
+            {
                 "name": "Relíquia Lith M5 (Comum)",
                 "link": "lith_m5_relic"
             },
@@ -603,6 +627,10 @@
             {
                 "name": "前纪 C3 遗物 (常见)",
                 "link": "meso_c3_relic"
+            },
+            {
+                "name": "前纪 A3 遗物 (常见)",
+                "link": "meso_a3_relic"
             },
             {
                 "name": "古纪 M5 遗物 (常见)",
@@ -692,6 +720,10 @@
                 "link": "meso_c3_relic"
             },
             {
+                "name": "前紀 A3 遺物 (常見)",
+                "link": "meso_a3_relic"
+            },
+            {
                 "name": "古紀 M5 遺物 (常見)",
                 "link": "lith_m5_relic"
             },
@@ -777,6 +809,10 @@
             {
                 "name": "Reliquia Meso C3 (Común)",
                 "link": "meso_c3_relic"
+            },
+            {
+                "name": "Reliquia Meso A3 (Común)",
+                "link": "meso_a3_relic"
             },
             {
                 "name": "Reliquia Lith M5 (Común)",
@@ -866,6 +902,10 @@
                 "link": "meso_c3_relic"
             },
             {
+                "name": "Reliquia Meso A3 (Common)",
+                "link": "meso_a3_relic"
+            },
+            {
                 "name": "Reliquia Lith M5 (Common)",
                 "link": "lith_m5_relic"
             },
@@ -951,6 +991,10 @@
             {
                 "name": "Relikt Meso C3 (Powszechny)",
                 "link": "meso_c3_relic"
+            },
+            {
+                "name": "Relikt Meso A3 (Powszechny)",
+                "link": "meso_a3_relic"
             },
             {
                 "name": "Relikt Lith M5 (Powszechny)",

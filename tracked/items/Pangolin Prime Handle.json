@@ -10,7 +10,7 @@
     "icon": "icons/en/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.png",
     "thumb": "icons/en/thumbs/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/handle_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
     "url_name": "pangolin_prime_handle",
     "tradable": true,
     "game_ref": {
@@ -52,6 +52,10 @@
             {
                 "name": "Meso N10 Relic (Common)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "Meso S11 Relic (Common)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -83,6 +87,10 @@
             {
                 "name": "Реликвия Мезо N10 (Обычный)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "Реликвия Мезо S11 (Обычный)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -114,6 +122,10 @@
             {
                 "name": "메소 N10 성유물 (커먼)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "메소 S11 성유물 (커먼)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -145,11 +157,15 @@
             {
                 "name": "Meso-relikt: N10 (Gewöhnlich)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "Meso-relikt: S11 (Gewöhnlich)",
+                "link": "meso_s11_relic"
             }
         ]
     },
     "fr": {
-        "item_name": "Pangolin Prime - Poignée",
+        "item_name": "Pangolin Prime - Garde",
         "description": "Un composant servant à la fabrication d'armes Prime.",
         "wiki_link": "https://warframe.fandom.com/fr/wiki/Pangolin_Prime",
         "drop": [
@@ -176,6 +192,10 @@
             {
                 "name": "Relique Meso N10 (Commun)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "Relique Meso S11 (Commun)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -207,6 +227,10 @@
             {
                 "name": "Relíquia Meso N10 (Comum)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "Relíquia Meso S11 (Comum)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -238,6 +262,10 @@
             {
                 "name": "前纪 N10 遗物 (常见)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "前纪 S11 遗物 (常见)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -269,6 +297,10 @@
             {
                 "name": "前紀 N10 遺物 (常見)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "前紀 S11 遺物 (常見)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -300,6 +332,10 @@
             {
                 "name": "Reliquia Meso N10 (Común)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "Reliquia Meso S11 (Común)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -331,6 +367,10 @@
             {
                 "name": "Reliquia Meso N10 (Common)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "Reliquia Meso S11 (Common)",
+                "link": "meso_s11_relic"
             }
         ]
     },
@@ -362,6 +402,10 @@
             {
                 "name": "Relikt Meso N10 (Powszechny)",
                 "link": "meso_n10_relic"
+            },
+            {
+                "name": "Relikt Meso S11 (Powszechny)",
+                "link": "meso_s11_relic"
             }
         ]
     },

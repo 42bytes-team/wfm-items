@@ -10,7 +10,7 @@
     "icon": "icons/en/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.png",
     "thumb": "icons/en/thumbs/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/blade_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
     "url_name": "karyst_prime_blade",
     "tradable": true,
     "game_ref": {
@@ -29,6 +29,10 @@
         "description": "A prime weapon-crafting component.",
         "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime",
         "drop": [
+            {
+                "name": "Axi K6 Relic (Rare)",
+                "link": "axi_k6_relic"
+            },
             {
                 "name": "Meso K3 Relic (Rare)",
                 "link": "meso_k3_relic"
@@ -49,6 +53,10 @@
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D1%81%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
         "drop": [
             {
+                "name": "Реликвия Акси K6 (Редкий)",
+                "link": "axi_k6_relic"
+            },
+            {
                 "name": "Реликвия Мезо K3 (Редкий)",
                 "link": "meso_k3_relic"
             },
@@ -67,6 +75,10 @@
         "description": "프라임 무기 제작 부품입니다.",
         "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime",
         "drop": [
+            {
+                "name": "액시 K6 성유물 (레어)",
+                "link": "axi_k6_relic"
+            },
             {
                 "name": "메소 K3 성유물 (레어)",
                 "link": "meso_k3_relic"
@@ -87,6 +99,10 @@
         "wiki_link": "https://warframe.fandom.com/de/wiki/Vasto_Prime",
         "drop": [
             {
+                "name": "Axi-relikt: K6 (Selten)",
+                "link": "axi_k6_relic"
+            },
+            {
                 "name": "Meso-relikt: K3 (Selten)",
                 "link": "meso_k3_relic"
             },
@@ -105,6 +121,10 @@
         "description": "Un composant servant à la fabrication d'armes Prime.",
         "wiki_link": "https://warframe.fandom.com/fr/wiki/Karyst_Prime",
         "drop": [
+            {
+                "name": "Relique Axi K6 (Rare)",
+                "link": "axi_k6_relic"
+            },
             {
                 "name": "Relique Meso K3 (Rare)",
                 "link": "meso_k3_relic"
@@ -125,6 +145,10 @@
         "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vasto_Prime",
         "drop": [
             {
+                "name": "Relíquia Axi K6 (Raro)",
+                "link": "axi_k6_relic"
+            },
+            {
                 "name": "Relíquia Meso K3 (Raro)",
                 "link": "meso_k3_relic"
             },
@@ -143,6 +167,10 @@
         "description": "一个 Prime 武器的制作部件。",
         "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime",
         "drop": [
+            {
+                "name": "后纪 K6 遗物 (稀有)",
+                "link": "axi_k6_relic"
+            },
             {
                 "name": "前纪 K3 遗物 (稀有)",
                 "link": "meso_k3_relic"
@@ -163,6 +191,10 @@
         "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime",
         "drop": [
             {
+                "name": "後紀 K6 遺物 (稀有)",
+                "link": "axi_k6_relic"
+            },
+            {
                 "name": "前紀 K3 遺物 (稀有)",
                 "link": "meso_k3_relic"
             },
@@ -181,6 +213,10 @@
         "description": "Un componente de fabricación de arma prime.",
         "wiki_link": "https://warframe.fandom.com/es/wiki/Karyst_Prime",
         "drop": [
+            {
+                "name": "Reliquia Axi K6 (Raro)",
+                "link": "axi_k6_relic"
+            },
             {
                 "name": "Reliquia Meso K3 (Raro)",
                 "link": "meso_k3_relic"
@@ -201,6 +237,10 @@
         "wiki_link": "https://warframe.fandom.com/it/wiki/Vasto_Prime",
         "drop": [
             {
+                "name": "Reliquia Axi K6 (Rare)",
+                "link": "axi_k6_relic"
+            },
+            {
                 "name": "Reliquia Meso K3 (Rare)",
                 "link": "meso_k3_relic"
             },
@@ -219,6 +259,10 @@
         "description": "Element wytwarzania broni Prime.",
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Karyst_Prime",
         "drop": [
+            {
+                "name": "Relikt Axi K6 (Rzadki)",
+                "link": "axi_k6_relic"
+            },
             {
                 "name": "Relikt Meso K3 (Rzadki)",
                 "link": "meso_k3_relic"

@@ -4,10 +4,9 @@
         "necramech",
         "component"
     ],
-    "icon": "icons/en/bonewidow_set.7858543d86d523cc11593591599b92a2.png",
-    "thumb": "icons/en/thumbs/bonewidow_set.7858543d86d523cc11593591599b92a2.128x128.png",
-    "icon_format": "port",
-    "sub_icon": "icons/en/sub_bonewidow_engine.8ba0d9175793c1b6afa44a8665fe1f01.png",
+    "icon": "icons/en/bonewidow_engine.8644e648e796b8b8db590ee5de986cca.png",
+    "thumb": "icons/en/thumbs/bonewidow_engine.8644e648e796b8b8db590ee5de986cca.128x128.png",
+    "icon_format": "land",
     "url_name": "bonewidow_engine",
     "tradable": true,
     "game_ref": {
@@ -82,7 +81,7 @@
         "drop": []
     },
     "pl": {
-        "item_name": "Silnik Bonewidow",
+        "item_name": "Bonewidow: Silnik",
         "description": "Komponent silnika Nekramecha BONEWIDOW.",
         "wiki_link": "https://warframe.fandom.com/wiki/Bonewidow",
         "drop": []

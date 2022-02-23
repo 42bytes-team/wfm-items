@@ -10,7 +10,7 @@
     "icon": "icons/en/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.png",
     "thumb": "icons/en/thumbs/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/handle_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
     "url_name": "karyst_prime_handle",
     "tradable": true,
     "game_ref": {
@@ -42,6 +42,10 @@
                 "link": "neo_a5_relic"
             },
             {
+                "name": "Meso G3 Relic (Uncommon)",
+                "link": "meso_g3_relic"
+            },
+            {
                 "name": "Lith I1 Relic (Uncommon)",
                 "link": "lith_i1_relic"
             },
@@ -67,6 +71,10 @@
             {
                 "name": "Реликвия Нео A5 (Необычный)",
                 "link": "neo_a5_relic"
+            },
+            {
+                "name": "Реликвия Мезо G3 (Необычный)",
+                "link": "meso_g3_relic"
             },
             {
                 "name": "Реликвия Лит I1 (Необычный)",
@@ -96,6 +104,10 @@
                 "link": "neo_a5_relic"
             },
             {
+                "name": "메소 G3 성유물 (언커먼)",
+                "link": "meso_g3_relic"
+            },
+            {
                 "name": "리스 I1 성유물 (언커먼)",
                 "link": "lith_i1_relic"
             },
@@ -123,6 +135,10 @@
                 "link": "neo_a5_relic"
             },
             {
+                "name": "Meso-relikt: G3 (Ungewöhnlich)",
+                "link": "meso_g3_relic"
+            },
+            {
                 "name": "Lith-relikt: I1 (Ungewöhnlich)",
                 "link": "lith_i1_relic"
             },
@@ -133,7 +149,7 @@
         ]
     },
     "fr": {
-        "item_name": "Karyst Prime - Poignée",
+        "item_name": "Karyst Prime - Garde",
         "description": "Un composant servant à la fabrication d'armes Prime.",
         "wiki_link": "https://warframe.fandom.com/fr/wiki/Karyst_Prime",
         "drop": [
@@ -148,6 +164,10 @@
             {
                 "name": "Relique Neo A5 (Inhabituel)",
                 "link": "neo_a5_relic"
+            },
+            {
+                "name": "Relique Meso G3 (Inhabituel)",
+                "link": "meso_g3_relic"
             },
             {
                 "name": "Relique Lith I1 (Inhabituel)",
@@ -177,6 +197,10 @@
                 "link": "neo_a5_relic"
             },
             {
+                "name": "Relíquia Meso G3 (Incomum)",
+                "link": "meso_g3_relic"
+            },
+            {
                 "name": "Relíquia Lith I1 (Incomum)",
                 "link": "lith_i1_relic"
             },
@@ -202,6 +226,10 @@
             {
                 "name": "中纪 A5 遗物 (罕见)",
                 "link": "neo_a5_relic"
+            },
+            {
+                "name": "前纪 G3 遗物 (罕见)",
+                "link": "meso_g3_relic"
             },
             {
                 "name": "古纪 I1 遗物 (罕见)",
@@ -231,6 +259,10 @@
                 "link": "neo_a5_relic"
             },
             {
+                "name": "前紀 G3 遺物 (罕見)",
+                "link": "meso_g3_relic"
+            },
+            {
                 "name": "古紀 I1 遺物 (罕見)",
                 "link": "lith_i1_relic"
             },
@@ -256,6 +288,10 @@
             {
                 "name": "Reliquia Neo A5 (Poco Común)",
                 "link": "neo_a5_relic"
+            },
+            {
+                "name": "Reliquia Meso G3 (Poco Común)",
+                "link": "meso_g3_relic"
             },
             {
                 "name": "Reliquia Lith I1 (Poco Común)",
@@ -285,6 +321,10 @@
                 "link": "neo_a5_relic"
             },
             {
+                "name": "Reliquia Meso G3 (Uncommon)",
+                "link": "meso_g3_relic"
+            },
+            {
                 "name": "Reliquia Lith I1 (Uncommon)",
                 "link": "lith_i1_relic"
             },
@@ -310,6 +350,10 @@
             {
                 "name": "Relikt Neo A5 (Nieprzeciętny)",
                 "link": "neo_a5_relic"
+            },
+            {
+                "name": "Relikt Meso G3 (Nieprzeciętny)",
+                "link": "meso_g3_relic"
             },
             {
                 "name": "Relikt Lith I1 (Nieprzeciętny)",

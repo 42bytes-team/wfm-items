@@ -10,7 +10,7 @@
     "icon": "icons/en/orthos_prime_handle.049c8584708b849d1eff500b182825f2.png",
     "thumb": "icons/en/thumbs/orthos_prime_handle.049c8584708b849d1eff500b182825f2.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/handle_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
     "url_name": "orthos_prime_handle",
     "tradable": true,
     "game_ref": {
@@ -98,6 +98,10 @@
                 "link": "lith_d4_relic"
             },
             {
+                "name": "Lith N10 Relic (Common)",
+                "link": "lith_n10_relic"
+            },
+            {
                 "name": "Lith A3 Relic (Common)",
                 "link": "lith_a3_relic"
             }
@@ -175,6 +179,10 @@
             {
                 "name": "Реликвия Лит D4 (Обычный)",
                 "link": "lith_d4_relic"
+            },
+            {
+                "name": "Реликвия Лит N10 (Обычный)",
+                "link": "lith_n10_relic"
             },
             {
                 "name": "Реликвия Лит A3 (Обычный)",
@@ -256,6 +264,10 @@
                 "link": "lith_d4_relic"
             },
             {
+                "name": "리스 N10 성유물 (커먼)",
+                "link": "lith_n10_relic"
+            },
+            {
                 "name": "리스 A3 성유물 (커먼)",
                 "link": "lith_a3_relic"
             }
@@ -335,13 +347,17 @@
                 "link": "lith_d4_relic"
             },
             {
+                "name": "Lith-relikt: N10 (Gewöhnlich)",
+                "link": "lith_n10_relic"
+            },
+            {
                 "name": "Lith-relikt: A3 (Gewöhnlich)",
                 "link": "lith_a3_relic"
             }
         ]
     },
     "fr": {
-        "item_name": "Orthos Prime - Poignée",
+        "item_name": "Orthos Prime - Manche",
         "description": "Un composant servant à la fabrication d'armes Prime.",
         "wiki_link": "https://warframe.fandom.com/fr/wiki/Orthos_Prime",
         "drop": [
@@ -412,6 +428,10 @@
             {
                 "name": "Relique Lith D4 (Commun)",
                 "link": "lith_d4_relic"
+            },
+            {
+                "name": "Relique Lith N10 (Commun)",
+                "link": "lith_n10_relic"
             },
             {
                 "name": "Relique Lith A3 (Commun)",
@@ -493,6 +513,10 @@
                 "link": "lith_d4_relic"
             },
             {
+                "name": "Relíquia Lith N10 (Comum)",
+                "link": "lith_n10_relic"
+            },
+            {
                 "name": "Relíquia Lith A3 (Comum)",
                 "link": "lith_a3_relic"
             }
@@ -570,6 +594,10 @@
             {
                 "name": "古纪 D4 遗物 (常见)",
                 "link": "lith_d4_relic"
+            },
+            {
+                "name": "古纪 N10 遗物 (常见)",
+                "link": "lith_n10_relic"
             },
             {
                 "name": "古纪 A3 遗物 (常见)",
@@ -651,6 +679,10 @@
                 "link": "lith_d4_relic"
             },
             {
+                "name": "古紀 N10 遺物 (常見)",
+                "link": "lith_n10_relic"
+            },
+            {
                 "name": "古紀 A3 遺物 (常見)",
                 "link": "lith_a3_relic"
             }
@@ -728,6 +760,10 @@
             {
                 "name": "Reliquia Lith D4 (Común)",
                 "link": "lith_d4_relic"
+            },
+            {
+                "name": "Reliquia Lith N10 (Común)",
+                "link": "lith_n10_relic"
             },
             {
                 "name": "Reliquia Lith A3 (Común)",
@@ -809,6 +845,10 @@
                 "link": "lith_d4_relic"
             },
             {
+                "name": "Reliquia Lith N10 (Common)",
+                "link": "lith_n10_relic"
+            },
+            {
                 "name": "Reliquia Lith A3 (Common)",
                 "link": "lith_a3_relic"
             }
@@ -886,6 +926,10 @@
             {
                 "name": "Relikt Lith D4 (Powszechny)",
                 "link": "lith_d4_relic"
+            },
+            {
+                "name": "Relikt Lith N10 (Powszechny)",
+                "link": "lith_n10_relic"
             },
             {
                 "name": "Relikt Lith A3 (Powszechny)",

@@ -1,0 +1,151 @@
+{
+    "_id": "61bb64fe3132ff00482b5fce",
+    "tags": [
+        "warframe",
+        "component",
+        "blueprint",
+        "prime"
+    ],
+    "icon": "icons/en/harrow_prime_set.58e3852c1e6974710dc7cd72cc76e95a.png",
+    "thumb": "icons/en/thumbs/harrow_prime_set.58e3852c1e6974710dc7cd72cc76e95a.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+    "url_name": "harrow_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "harrow_prime_blueprint",
+        "harrow_prime_chassis",
+        "harrow_prime_neuroptics",
+        "harrow_prime_set",
+        "harrow_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Harrow Prime Chassis",
+        "description": "Chassis component of the Harrow Prime Warframe.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Meso G3 Relic (Common)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Харроу Прайм: Каркас",
+        "description": "Компонент варфрейма Харроу Прайм: Каркас.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Реликвия Мезо G3 (Обычный)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "해로우 프라임 섀시",
+        "description": "해로우 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "메소 G3 성유물 (커먼)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Harrow Prime: Chassis",
+        "description": "Chassis-Komponente für den Harrow Prime Warframe.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Meso-relikt: G3 (Gewöhnlich)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Harrow Prime - Châssis",
+        "description": "Le composant Châssis de la Warframe Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relique Meso G3 (Commun)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Harrow Prime: Chassi",
+        "description": "Chassi componente do Warframe Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relíquia Meso G3 (Comum)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Harrow Prime 机体",
+        "description": "Harrow Prime 战甲的机体组件。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "前纪 G3 遗物 (常见)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Harrow Prime 機體",
+        "description": "Harrow Prime Warframe 的機體組件。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "前紀 G3 遺物 (常見)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Chasis De Harrow Prime",
+        "description": "Componente del chasis del warframe Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Meso G3 (Común)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Harrow Prime - Chassis",
+        "description": "Il componente Chassis per il Warframe Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Meso G3 (Common)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Harrow Prime: Powłoka",
+        "description": "Powłoka dla Warframe'a Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relikt Meso G3 (Powszechny)",
+                "link": "meso_g3_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 15,
+    "trading_tax": 2000
+}

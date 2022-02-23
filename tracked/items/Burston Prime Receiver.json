@@ -10,7 +10,7 @@
     "icon": "icons/en/burston_prime_receiver.9fc6c6a6dca24113027828df669cd89e.png",
     "thumb": "icons/en/thumbs/burston_prime_receiver.9fc6c6a6dca24113027828df669cd89e.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/receiver_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
     "url_name": "burston_prime_receiver",
     "tradable": true,
     "game_ref": {
@@ -93,6 +93,10 @@
             {
                 "name": "Lith C4 Relic (Common)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Lith T9 Relic (Common)",
+                "link": "lith_t9_relic"
             },
             {
                 "name": "Lith A4 Relic (Common)",
@@ -178,6 +182,10 @@
                 "link": "lith_c4_relic"
             },
             {
+                "name": "Реликвия Лит T9 (Обычный)",
+                "link": "lith_t9_relic"
+            },
+            {
                 "name": "Реликвия Лит A4 (Обычный)",
                 "link": "lith_a4_relic"
             },
@@ -259,6 +267,10 @@
             {
                 "name": "리스 C4 성유물 (커먼)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "리스 T9 성유물 (커먼)",
+                "link": "lith_t9_relic"
             },
             {
                 "name": "리스 A4 성유물 (커먼)",
@@ -344,6 +356,10 @@
                 "link": "lith_c4_relic"
             },
             {
+                "name": "Lith-relikt: T9 (Gewöhnlich)",
+                "link": "lith_t9_relic"
+            },
+            {
                 "name": "Lith-relikt: A4 (Gewöhnlich)",
                 "link": "lith_a4_relic"
             },
@@ -425,6 +441,10 @@
             {
                 "name": "Relique Lith C4 (Commun)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Relique Lith T9 (Commun)",
+                "link": "lith_t9_relic"
             },
             {
                 "name": "Relique Lith A4 (Commun)",
@@ -510,6 +530,10 @@
                 "link": "lith_c4_relic"
             },
             {
+                "name": "Relíquia Lith T9 (Comum)",
+                "link": "lith_t9_relic"
+            },
+            {
                 "name": "Relíquia Lith A4 (Comum)",
                 "link": "lith_a4_relic"
             },
@@ -591,6 +615,10 @@
             {
                 "name": "古纪 C4 遗物 (常见)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "古纪 T9 遗物 (常见)",
+                "link": "lith_t9_relic"
             },
             {
                 "name": "古纪 A4 遗物 (常见)",
@@ -676,6 +704,10 @@
                 "link": "lith_c4_relic"
             },
             {
+                "name": "古紀 T9 遺物 (常見)",
+                "link": "lith_t9_relic"
+            },
+            {
                 "name": "古紀 A4 遺物 (常見)",
                 "link": "lith_a4_relic"
             },
@@ -757,6 +789,10 @@
             {
                 "name": "Reliquia Lith C4 (Común)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Reliquia Lith T9 (Común)",
+                "link": "lith_t9_relic"
             },
             {
                 "name": "Reliquia Lith A4 (Común)",
@@ -842,6 +878,10 @@
                 "link": "lith_c4_relic"
             },
             {
+                "name": "Reliquia Lith T9 (Common)",
+                "link": "lith_t9_relic"
+            },
+            {
                 "name": "Reliquia Lith A4 (Common)",
                 "link": "lith_a4_relic"
             },
@@ -923,6 +963,10 @@
             {
                 "name": "Relikt Lith C4 (Powszechny)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Relikt Lith T9 (Powszechny)",
+                "link": "lith_t9_relic"
             },
             {
                 "name": "Relikt Lith A4 (Powszechny)",

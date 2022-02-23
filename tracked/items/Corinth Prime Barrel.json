@@ -10,7 +10,7 @@
     "icon": "icons/en/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.png",
     "thumb": "icons/en/thumbs/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/barrel_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
     "url_name": "corinth_prime_barrel",
     "tradable": true,
     "game_ref": {
@@ -39,6 +39,10 @@
                 "link": "axi_c5_relic"
             },
             {
+                "name": "Axi C7 Relic (Rare)",
+                "link": "axi_c7_relic"
+            },
+            {
                 "name": "Meso C5 Relic (Rare)",
                 "link": "meso_c5_relic"
             }
@@ -56,6 +60,10 @@
             {
                 "name": "Реликвия Акси C5 (Редкий)",
                 "link": "axi_c5_relic"
+            },
+            {
+                "name": "Реликвия Акси C7 (Редкий)",
+                "link": "axi_c7_relic"
             },
             {
                 "name": "Реликвия Мезо C5 (Редкий)",
@@ -77,6 +85,10 @@
                 "link": "axi_c5_relic"
             },
             {
+                "name": "액시 C7 성유물 (레어)",
+                "link": "axi_c7_relic"
+            },
+            {
                 "name": "메소 C5 성유물 (레어)",
                 "link": "meso_c5_relic"
             }
@@ -94,6 +106,10 @@
             {
                 "name": "Axi-relikt: C5 (Selten)",
                 "link": "axi_c5_relic"
+            },
+            {
+                "name": "Axi-relikt: C7 (Selten)",
+                "link": "axi_c7_relic"
             },
             {
                 "name": "Meso-relikt: C5 (Selten)",
@@ -115,6 +131,10 @@
                 "link": "axi_c5_relic"
             },
             {
+                "name": "Relique Axi C7 (Rare)",
+                "link": "axi_c7_relic"
+            },
+            {
                 "name": "Relique Meso C5 (Rare)",
                 "link": "meso_c5_relic"
             }
@@ -132,6 +152,10 @@
             {
                 "name": "Relíquia Axi C5 (Raro)",
                 "link": "axi_c5_relic"
+            },
+            {
+                "name": "Relíquia Axi C7 (Raro)",
+                "link": "axi_c7_relic"
             },
             {
                 "name": "Relíquia Meso C5 (Raro)",
@@ -153,6 +177,10 @@
                 "link": "axi_c5_relic"
             },
             {
+                "name": "后纪 C7 遗物 (稀有)",
+                "link": "axi_c7_relic"
+            },
+            {
                 "name": "前纪 C5 遗物 (稀有)",
                 "link": "meso_c5_relic"
             }
@@ -170,6 +198,10 @@
             {
                 "name": "後紀 C5 遺物 (稀有)",
                 "link": "axi_c5_relic"
+            },
+            {
+                "name": "後紀 C7 遺物 (稀有)",
+                "link": "axi_c7_relic"
             },
             {
                 "name": "前紀 C5 遺物 (稀有)",
@@ -191,6 +223,10 @@
                 "link": "axi_c5_relic"
             },
             {
+                "name": "Reliquia Axi C7 (Raro)",
+                "link": "axi_c7_relic"
+            },
+            {
                 "name": "Reliquia Meso C5 (Raro)",
                 "link": "meso_c5_relic"
             }
@@ -210,6 +246,10 @@
                 "link": "axi_c5_relic"
             },
             {
+                "name": "Reliquia Axi C7 (Rare)",
+                "link": "axi_c7_relic"
+            },
+            {
                 "name": "Reliquia Meso C5 (Rare)",
                 "link": "meso_c5_relic"
             }
@@ -227,6 +267,10 @@
             {
                 "name": "Relikt Axi C5 (Rzadki)",
                 "link": "axi_c5_relic"
+            },
+            {
+                "name": "Relikt Axi C7 (Rzadki)",
+                "link": "axi_c7_relic"
             },
             {
                 "name": "Relikt Meso C5 (Rzadki)",

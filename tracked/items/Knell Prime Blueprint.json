@@ -1,0 +1,150 @@
+{
+    "_id": "61bb64fd3132ff00482b5fc6",
+    "tags": [
+        "secondary",
+        "weapon",
+        "prime",
+        "blueprint"
+    ],
+    "icon": "icons/en/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.png",
+    "thumb": "icons/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "knell_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/KnellPrimeBlueprint"
+    },
+    "part_of_set": [
+        "knell_prime_barrel",
+        "knell_prime_blueprint",
+        "knell_prime_receiver",
+        "knell_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Knell Prime Blueprint",
+        "description": "Ring a funeral toll upon enemy skulls with Harrow Prime's signature pistol.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Axi P4 Relic (Common)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Предвестник Прайм: Чертеж",
+        "description": "Погребальный перезвон вражеских черепов слышится при виде этого особого пистолета Харроу Прайм.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Реликвия Акси P4 (Обычный)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "넬 프라임 설계도",
+        "description": "해로우 프라임의 이 특징적인 권총과 함께 적들의 두개골로 장례의 종소리를 울려 보세요.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "액시 P4 성유물 (커먼)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Knell Prime: Blaupause",
+        "description": "Läute das Begräbnis feindlicher Schädel mit Harrows Primes bevorzugter Pistole ein.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Axi-relikt: P4 (Gewöhnlich)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Knell Prime - Schéma",
+        "description": "Jouez l'absoute sur les crânes des ennemis avec le Pistolet emblématique de Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relique Axi P4 (Commun)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Knell Prime: Diagrama",
+        "description": "Toque os crânios dos inimigos como se fosse um sino fúnebre com a pistola tradicional do Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relíquia Axi P4 (Comum)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "丧钟 Prime 蓝图",
+        "description": "（英文：KNELL PRIME）用 Harrow Prime 的标志性手枪在敌人的头颅上敲响葬礼的钟声。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "后纪 P4 遗物 (常见)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "喪鐘 Prime 藍圖",
+        "description": "（英文：KNELL PRIME）使用 Harrow Prime 的標誌性手槍來在敵人的頭顱上打響葬儀的鳴鐘。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "後紀 P4 遺物 (常見)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Plano de Knell Prime",
+        "description": "Haz sonar la campanada fúnebre sobre los cráneos de los enemigos con la pistola distintiva de Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Axi P4 (Común)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Knell Prime Blueprint",
+        "description": "Suona un tributo funebre sui crani dei nemici con la pistola distintiva di Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Axi P4 (Common)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Knell Prime: Schemat",
+        "description": "Zadzwoń na czaszkach wrogów jak dzwonem pogrzebowym dzięki charakterystycznemu pistoletowi Harrowa Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relikt Axi P4 (Powszechny)",
+                "link": "axi_p4_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

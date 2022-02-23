@@ -10,7 +10,7 @@
     "icon": "icons/en/guandao_prime_blade.864d2ba63998e916e4f22245dd4b6c03.png",
     "thumb": "icons/en/thumbs/guandao_prime_blade.864d2ba63998e916e4f22245dd4b6c03.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/blade_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
     "url_name": "guandao_prime_blade",
     "tradable": true,
     "game_ref": {
@@ -29,6 +29,10 @@
         "description": "A prime weapon-crafting component.",
         "wiki_link": "https://warframe.fandom.com/wiki/Guandao_Prime",
         "drop": [
+            {
+                "name": "Axi S9 Relic (Common)",
+                "link": "axi_s9_relic"
+            },
             {
                 "name": "Neo P2 Relic (Common)",
                 "link": "neo_p2_relic"
@@ -53,6 +57,10 @@
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%83%D0%B0%D0%BD%D1%8C%D0%B4%D0%B0%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
         "drop": [
             {
+                "name": "Реликвия Акси S9 (Обычный)",
+                "link": "axi_s9_relic"
+            },
+            {
                 "name": "Реликвия Нео P2 (Обычный)",
                 "link": "neo_p2_relic"
             },
@@ -75,6 +83,10 @@
         "description": "프라임 무기 제작 부품입니다.",
         "wiki_link": "https://warframe.fandom.com/wiki/Guandao_Prime",
         "drop": [
+            {
+                "name": "액시 S9 성유물 (커먼)",
+                "link": "axi_s9_relic"
+            },
             {
                 "name": "네오 P2 성유물 (커먼)",
                 "link": "neo_p2_relic"
@@ -99,6 +111,10 @@
         "wiki_link": "https://warframe.fandom.com/de/wiki/Skana_Prime",
         "drop": [
             {
+                "name": "Axi-relikt: S9 (Gewöhnlich)",
+                "link": "axi_s9_relic"
+            },
+            {
                 "name": "Neo-relikt: P2 (Gewöhnlich)",
                 "link": "neo_p2_relic"
             },
@@ -121,6 +137,10 @@
         "description": "Un composant servant à la fabrication d'armes Prime.",
         "wiki_link": "https://warframe.fandom.com/fr/wiki/Guandao_Prime",
         "drop": [
+            {
+                "name": "Relique Axi S9 (Commun)",
+                "link": "axi_s9_relic"
+            },
             {
                 "name": "Relique Neo P2 (Commun)",
                 "link": "neo_p2_relic"
@@ -145,6 +165,10 @@
         "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Skana_Prime",
         "drop": [
             {
+                "name": "Relíquia Axi S9 (Comum)",
+                "link": "axi_s9_relic"
+            },
+            {
                 "name": "Relíquia Neo P2 (Comum)",
                 "link": "neo_p2_relic"
             },
@@ -167,6 +191,10 @@
         "description": "一个 Prime 武器的制作部件。",
         "wiki_link": "https://warframe.huijiwiki.com/wiki/Guandao_prime",
         "drop": [
+            {
+                "name": "后纪 S9 遗物 (常见)",
+                "link": "axi_s9_relic"
+            },
             {
                 "name": "中纪 P2 遗物 (常见)",
                 "link": "neo_p2_relic"
@@ -191,6 +219,10 @@
         "wiki_link": "https://warframe.huijiwiki.com/wiki/Guandao_prime",
         "drop": [
             {
+                "name": "後紀 S9 遺物 (常見)",
+                "link": "axi_s9_relic"
+            },
+            {
                 "name": "中紀 P2 遺物 (常見)",
                 "link": "neo_p2_relic"
             },
@@ -213,6 +245,10 @@
         "description": "Un componente de fabricación de arma prime.",
         "wiki_link": "https://warframe.fandom.com/es/wiki/Guandao_Prime",
         "drop": [
+            {
+                "name": "Reliquia Axi S9 (Común)",
+                "link": "axi_s9_relic"
+            },
             {
                 "name": "Reliquia Neo P2 (Común)",
                 "link": "neo_p2_relic"
@@ -237,6 +273,10 @@
         "wiki_link": "https://warframe.fandom.com/it/wiki/Skana_Prime",
         "drop": [
             {
+                "name": "Reliquia Axi S9 (Common)",
+                "link": "axi_s9_relic"
+            },
+            {
                 "name": "Reliquia Neo P2 (Common)",
                 "link": "neo_p2_relic"
             },
@@ -259,6 +299,10 @@
         "description": "Element wytwarzania broni Prime.",
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Skana_Prime",
         "drop": [
+            {
+                "name": "Relikt Axi S9 (Powszechny)",
+                "link": "axi_s9_relic"
+            },
             {
                 "name": "Relikt Neo P2 (Powszechny)",
                 "link": "neo_p2_relic"

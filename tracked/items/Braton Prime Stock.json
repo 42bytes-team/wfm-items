@@ -10,7 +10,7 @@
     "icon": "icons/en/braton_prime_stock.ae229642d6179ebfb1547ed7d976e749.png",
     "thumb": "icons/en/thumbs/braton_prime_stock.ae229642d6179ebfb1547ed7d976e749.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/stock_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
     "url_name": "braton_prime_stock",
     "tradable": true,
     "game_ref": {
@@ -91,6 +91,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "Neo K4 Relic (Uncommon)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "Neo T4 Relic (Common)",
                 "link": "neo_t4_relic"
             },
@@ -133,6 +137,10 @@
             {
                 "name": "Lith C4 Relic (Uncommon)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Lith N10 Relic (Common)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -202,6 +210,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "Реликвия Нео K4 (Необычный)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "Реликвия Нео T4 (Обычный)",
                 "link": "neo_t4_relic"
             },
@@ -244,6 +256,10 @@
             {
                 "name": "Реликвия Лит C4 (Необычный)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Реликвия Лит N10 (Обычный)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -313,6 +329,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "네오 K4 성유물 (언커먼)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "네오 T4 성유물 (커먼)",
                 "link": "neo_t4_relic"
             },
@@ -355,6 +375,10 @@
             {
                 "name": "리스 C4 성유물 (언커먼)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "리스 N10 성유물 (커먼)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -424,6 +448,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "Neo-relikt: K4 (Ungewöhnlich)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "Neo-relikt: T4 (Gewöhnlich)",
                 "link": "neo_t4_relic"
             },
@@ -466,6 +494,10 @@
             {
                 "name": "Lith-relikt: C4 (Ungewöhnlich)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Lith-relikt: N10 (Gewöhnlich)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -535,6 +567,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "Relique Neo K4 (Inhabituel)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "Relique Neo T4 (Commun)",
                 "link": "neo_t4_relic"
             },
@@ -577,6 +613,10 @@
             {
                 "name": "Relique Lith C4 (Inhabituel)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Relique Lith N10 (Commun)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -646,6 +686,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "Relíquia Neo K4 (Incomum)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "Relíquia Neo T4 (Comum)",
                 "link": "neo_t4_relic"
             },
@@ -688,6 +732,10 @@
             {
                 "name": "Relíquia Lith C4 (Incomum)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Relíquia Lith N10 (Comum)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -757,6 +805,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "中纪 K4 遗物 (罕见)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "中纪 T4 遗物 (常见)",
                 "link": "neo_t4_relic"
             },
@@ -799,6 +851,10 @@
             {
                 "name": "古纪 C4 遗物 (罕见)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "古纪 N10 遗物 (常见)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -868,6 +924,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "中紀 K4 遺物 (罕見)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "中紀 T4 遺物 (常見)",
                 "link": "neo_t4_relic"
             },
@@ -910,6 +970,10 @@
             {
                 "name": "古紀 C4 遺物 (罕見)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "古紀 N10 遺物 (常見)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -979,6 +1043,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "Reliquia Neo K4 (Poco Común)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "Reliquia Neo T4 (Común)",
                 "link": "neo_t4_relic"
             },
@@ -1021,6 +1089,10 @@
             {
                 "name": "Reliquia Lith C4 (Poco Común)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Reliquia Lith N10 (Común)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -1090,6 +1162,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "Reliquia Neo K4 (Uncommon)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "Reliquia Neo T4 (Common)",
                 "link": "neo_t4_relic"
             },
@@ -1132,6 +1208,10 @@
             {
                 "name": "Reliquia Lith C4 (Uncommon)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Reliquia Lith N10 (Common)",
+                "link": "lith_n10_relic"
             }
         ]
     },
@@ -1201,6 +1281,10 @@
                 "link": "neo_v2_relic"
             },
             {
+                "name": "Relikt Neo K4 (Nieprzeciętny)",
+                "link": "neo_k4_relic"
+            },
+            {
                 "name": "Relikt Neo T4 (Powszechny)",
                 "link": "neo_t4_relic"
             },
@@ -1243,6 +1327,10 @@
             {
                 "name": "Relikt Lith C4 (Nieprzeciętny)",
                 "link": "lith_c4_relic"
+            },
+            {
+                "name": "Relikt Lith N10 (Powszechny)",
+                "link": "lith_n10_relic"
             }
         ]
     },

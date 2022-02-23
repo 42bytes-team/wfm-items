@@ -1,0 +1,151 @@
+{
+    "_id": "61bb64fd3132ff00482b5fc4",
+    "tags": [
+        "warframe",
+        "component",
+        "blueprint",
+        "prime"
+    ],
+    "icon": "icons/en/harrow_prime_set.58e3852c1e6974710dc7cd72cc76e95a.png",
+    "thumb": "icons/en/thumbs/harrow_prime_set.58e3852c1e6974710dc7cd72cc76e95a.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
+    "url_name": "harrow_prime_neuroptics",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeHelmetBlueprint"
+    },
+    "part_of_set": [
+        "harrow_prime_blueprint",
+        "harrow_prime_chassis",
+        "harrow_prime_neuroptics",
+        "harrow_prime_set",
+        "harrow_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Harrow Prime Neuroptics",
+        "description": "Neuroptics component of the Harrow Prime Warframe.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Axi T8 Relic (Uncommon)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Харроу Прайм: Нейрооптика",
+        "description": "Компонент варфрейма Харроу Прайм: нейрооптика.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Реликвия Акси T8 (Необычный)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "해로우 프라임 뉴로옵틱스",
+        "description": "해로우 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "액시 T8 성유물 (언커먼)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Harrow Prime: Neuroptik",
+        "description": "Neuroptik-Komponente für den Harrow Prime Warframe.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Axi-relikt: T8 (Ungewöhnlich)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Harrow Prime - Neuroptiques",
+        "description": "Le composant Neuroptiques de la Warframe Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relique Axi T8 (Inhabituel)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Harrow Prime: Neurovisor",
+        "description": "Neurovisor componente do Warframe Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relíquia Axi T8 (Incomum)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "Harrow Prime 头部神经光元",
+        "description": "Harrow Prime 战甲的头部神经光元组件。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "后纪 T8 遗物 (罕见)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "Harrow Prime 頭部神經光元",
+        "description": "Harrow Prime Warframe 的頭部神經光元組件。",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "後紀 T8 遺物 (罕見)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Neurópticas De Harrow Prime",
+        "description": "Componente de las neurópticas del warframe Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Axi T8 (Poco Común)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Harrow Prime - Neurottiche",
+        "description": "Il componente Neurottiche per il Warframe Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Reliquia Axi T8 (Uncommon)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Harrow Prime: Neurooptyka",
+        "description": "Neurooptyka dla Warframe'a Harrow Prime.",
+        "wiki_link": null,
+        "drop": [
+            {
+                "name": "Relikt Axi T8 (Nieprzeciętny)",
+                "link": "axi_t8_relic"
+            }
+        ]
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

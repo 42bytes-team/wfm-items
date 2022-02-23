@@ -11,7 +11,7 @@
     "icon": "icons/en/zakti_prime_receiver.42dbab2b3b28d1291c7e803ad83e29fa.png",
     "thumb": "icons/en/thumbs/zakti_prime_receiver.42dbab2b3b28d1291c7e803ad83e29fa.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/receiver_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
     "url_name": "zakti_prime_receiver",
     "tradable": true,
     "game_ref": {
@@ -39,12 +39,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "Neo P4 Relic (Common)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "Meso P5 Relic (Common)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "Lith T4 Relic (Common)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "Lith T8 Relic (Common)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -62,12 +70,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "Реликвия Нео P4 (Обычный)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "Реликвия Мезо P5 (Обычный)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "Реликвия Лит T4 (Обычный)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "Реликвия Лит T8 (Обычный)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -85,12 +101,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "네오 P4 성유물 (커먼)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "메소 P5 성유물 (커먼)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "리스 T4 성유물 (커먼)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "리스 T8 성유물 (커먼)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -108,12 +132,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "Neo-relikt: P4 (Gewöhnlich)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "Meso-relikt: P5 (Gewöhnlich)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "Lith-relikt: T4 (Gewöhnlich)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "Lith-relikt: T8 (Gewöhnlich)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -131,12 +163,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "Relique Neo P4 (Commun)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "Relique Meso P5 (Commun)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "Relique Lith T4 (Commun)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "Relique Lith T8 (Commun)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -154,12 +194,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "Relíquia Neo P4 (Comum)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "Relíquia Meso P5 (Comum)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "Relíquia Lith T4 (Comum)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "Relíquia Lith T8 (Comum)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -177,12 +225,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "中纪 P4 遗物 (常见)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "前纪 P5 遗物 (常见)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "古纪 T4 遗物 (常见)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "古纪 T8 遗物 (常见)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -200,12 +256,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "中紀 P4 遺物 (常見)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "前紀 P5 遺物 (常見)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "古紀 T4 遺物 (常見)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "古紀 T8 遺物 (常見)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -223,12 +287,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "Reliquia Neo P4 (Común)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "Reliquia Meso P5 (Común)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "Reliquia Lith T4 (Común)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "Reliquia Lith T8 (Común)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -246,12 +318,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "Reliquia Neo P4 (Common)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "Reliquia Meso P5 (Common)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "Reliquia Lith T4 (Common)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "Reliquia Lith T8 (Common)",
+                "link": "lith_t8_relic"
             }
         ]
     },
@@ -269,12 +349,20 @@
                 "link": "axi_a14_relic"
             },
             {
+                "name": "Relikt Neo P4 (Powszechny)",
+                "link": "neo_p4_relic"
+            },
+            {
                 "name": "Relikt Meso P5 (Powszechny)",
                 "link": "meso_p5_relic"
             },
             {
                 "name": "Relikt Lith T4 (Powszechny)",
                 "link": "lith_t4_relic"
+            },
+            {
+                "name": "Relikt Lith T8 (Powszechny)",
+                "link": "lith_t8_relic"
             }
         ]
     },

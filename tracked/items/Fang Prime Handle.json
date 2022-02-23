@@ -10,7 +10,7 @@
     "icon": "icons/en/fang_prime_handle.13b0c690a76382d0fbdebe84e4c509db.png",
     "thumb": "icons/en/thumbs/fang_prime_handle.13b0c690a76382d0fbdebe84e4c509db.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/handle_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
     "url_name": "fang_prime_handle",
     "tradable": true,
     "game_ref": {
@@ -48,6 +48,10 @@
             {
                 "name": "Axi V6 Relic (Uncommon)",
                 "link": "axi_v6_relic"
+            },
+            {
+                "name": "Axi P4 Relic (Common)",
+                "link": "axi_p4_relic"
             },
             {
                 "name": "Neo S14 Relic (Uncommon)",
@@ -133,6 +137,10 @@
                 "link": "axi_v6_relic"
             },
             {
+                "name": "Реликвия Акси P4 (Обычный)",
+                "link": "axi_p4_relic"
+            },
+            {
                 "name": "Реликвия Нео S14 (Необычный)",
                 "link": "neo_s14_relic"
             },
@@ -214,6 +222,10 @@
             {
                 "name": "액시 V6 성유물 (언커먼)",
                 "link": "axi_v6_relic"
+            },
+            {
+                "name": "액시 P4 성유물 (커먼)",
+                "link": "axi_p4_relic"
             },
             {
                 "name": "네오 S14 성유물 (언커먼)",
@@ -299,6 +311,10 @@
                 "link": "axi_v6_relic"
             },
             {
+                "name": "Axi-relikt: P4 (Gewöhnlich)",
+                "link": "axi_p4_relic"
+            },
+            {
                 "name": "Neo-relikt: S14 (Ungewöhnlich)",
                 "link": "neo_s14_relic"
             },
@@ -357,7 +373,7 @@
         ]
     },
     "fr": {
-        "item_name": "Fang Prime - Poignée",
+        "item_name": "Fang Prime - Garde",
         "description": "Un composant servant à la fabrication d'armes Prime.",
         "wiki_link": "https://warframe.fandom.com/fr/wiki/Fang_Prime",
         "drop": [
@@ -380,6 +396,10 @@
             {
                 "name": "Relique Axi V6 (Inhabituel)",
                 "link": "axi_v6_relic"
+            },
+            {
+                "name": "Relique Axi P4 (Commun)",
+                "link": "axi_p4_relic"
             },
             {
                 "name": "Relique Neo S14 (Inhabituel)",
@@ -465,6 +485,10 @@
                 "link": "axi_v6_relic"
             },
             {
+                "name": "Relíquia Axi P4 (Comum)",
+                "link": "axi_p4_relic"
+            },
+            {
                 "name": "Relíquia Neo S14 (Incomum)",
                 "link": "neo_s14_relic"
             },
@@ -546,6 +570,10 @@
             {
                 "name": "后纪 V6 遗物 (罕见)",
                 "link": "axi_v6_relic"
+            },
+            {
+                "name": "后纪 P4 遗物 (常见)",
+                "link": "axi_p4_relic"
             },
             {
                 "name": "中纪 S14 遗物 (罕见)",
@@ -631,6 +659,10 @@
                 "link": "axi_v6_relic"
             },
             {
+                "name": "後紀 P4 遺物 (常見)",
+                "link": "axi_p4_relic"
+            },
+            {
                 "name": "中紀 S14 遺物 (罕見)",
                 "link": "neo_s14_relic"
             },
@@ -712,6 +744,10 @@
             {
                 "name": "Reliquia Axi V6 (Poco Común)",
                 "link": "axi_v6_relic"
+            },
+            {
+                "name": "Reliquia Axi P4 (Común)",
+                "link": "axi_p4_relic"
             },
             {
                 "name": "Reliquia Neo S14 (Poco Común)",
@@ -797,6 +833,10 @@
                 "link": "axi_v6_relic"
             },
             {
+                "name": "Reliquia Axi P4 (Common)",
+                "link": "axi_p4_relic"
+            },
+            {
                 "name": "Reliquia Neo S14 (Uncommon)",
                 "link": "neo_s14_relic"
             },
@@ -878,6 +918,10 @@
             {
                 "name": "Relikt Axi V6 (Nieprzeciętny)",
                 "link": "axi_v6_relic"
+            },
+            {
+                "name": "Relikt Axi P4 (Powszechny)",
+                "link": "axi_p4_relic"
             },
             {
                 "name": "Relikt Neo S14 (Nieprzeciętny)",
