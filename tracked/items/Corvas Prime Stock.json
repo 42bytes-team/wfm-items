@@ -1,0 +1,152 @@
+{
+    "_id": "6242037666a58f0108c3d484",
+    "tags": [
+        "component",
+        "prime",
+        "primary",
+        "weapon",
+        "archwing"
+    ],
+    "icon": "icons/en/corvas_prime_stock.f6bd98b0b4a2491580a40775708b21f4.png",
+    "thumb": "icons/en/thumbs/corvas_prime_stock.f6bd98b0b4a2491580a40775708b21f4.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
+    "url_name": "corvas_prime_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeStock"
+    },
+    "part_of_set": [
+        "corvas_prime_barrel",
+        "corvas_prime_blueprint",
+        "corvas_prime_receiver",
+        "corvas_prime_set",
+        "corvas_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Corvas Prime Stock",
+        "description": "An Archwing weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "Lith S12 Relic (Common)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Корвас Прайм: Приклад",
+        "description": "Компонент оружия арчвинга.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "Реликвия Лит S12 (Обычный)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "코르바스 프라임 스톡",
+        "description": "아크윙 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "리스 S12 성유물 (커먼)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Corvas Prime: Schaft",
+        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "Lith-relikt: S12 (Gewöhnlich)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Corvas Prime - Crosse",
+        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "Relique Lith S12 (Commun)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Corvas Prime: Coronha",
+        "description": "Um componente de fabricação de armas Archwing.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Lith S12 (Comum)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "黑鸦 Prime 枪托",
+        "description": "一个 Archwing 武器制作部件。",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "古纪 S12 遗物 (常见)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "黑鴉 Prime 槍托",
+        "description": "製作 Archwing 武器的部件。",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "古紀 S12 遺物 (常見)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Culata De Corvas Prime",
+        "description": "Un componente de fabricación de arma de archwing.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith S12 (Común)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Corvas Prime - Calcio",
+        "description": "Un componente per la costruzione di un'arma Archwing.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith S12 (Common)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Corvas Prime: Kolba",
+        "description": "Element wytwarzania broni Archwing.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Corvas_Prime",
+        "drop": [
+            {
+                "name": "Relikt Lith S12 (Powszechny)",
+                "link": "lith_s12_relic"
+            }
+        ]
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

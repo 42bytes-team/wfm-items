@@ -1,0 +1,151 @@
+{
+    "_id": "6242037766a58f0108c3d48f",
+    "tags": [
+        "component",
+        "prime",
+        "primary",
+        "weapon"
+    ],
+    "icon": "icons/en/nagantaka_prime_barrel.0e3bc35f211fdbd5fe3ddc6d74bf932f.png",
+    "thumb": "icons/en/thumbs/nagantaka_prime_barrel.0e3bc35f211fdbd5fe3ddc6d74bf932f.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+    "url_name": "nagantaka_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/NagantakaPrimeBarrel"
+    },
+    "part_of_set": [
+        "nagantaka_prime_barrel",
+        "nagantaka_prime_blueprint",
+        "nagantaka_prime_receiver",
+        "nagantaka_prime_set",
+        "nagantaka_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nagantaka Prime Barrel",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Axi S10 Relic (Common)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нагантака Прайм: Ствол",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Реликвия Акси S10 (Обычный)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "나간타카 프라임 배럴",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "액시 S10 성유물 (커먼)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Nagantaka Prime: Lauf",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Axi-relikt: S10 (Gewöhnlich)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Nagantaka Prime - Canon",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Relique Axi S10 (Commun)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Nagantaka Prime: Cano",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Axi S10 (Comum)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "噬蛇弩 Prime 枪管",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "后纪 S10 遗物 (常见)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "噬蛇弩 Prime 槍管",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "後紀 S10 遺物 (常見)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Cañón De Nagantaka Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S10 (Común)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Nagantaka Prime - Canna",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Axi S10 (Common)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Nagantaka Prime: Lufa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Relikt Axi S10 (Powszechny)",
+                "link": "axi_s10_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 15,
+    "trading_tax": 2000
+}

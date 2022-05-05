@@ -1,0 +1,92 @@
+{
+    "_id": "626ca573f40db600829c9d10",
+    "tags": [
+        "weapon",
+        "blueprint",
+        "component"
+    ],
+    "icon": "icons/en/hespar_blade.268fbb0047e804439e816cea91dfb08c.png",
+    "thumb": "icons/en/thumbs/hespar_blade.268fbb0047e804439e816cea91dfb08c.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/generic_blade_128x128.png",
+    "url_name": "hespar_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriHeavyScytheBladeBlueprint"
+    },
+    "part_of_set": [
+        "hespar_blade",
+        "hespar_handle",
+        "hespar_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Hespar Blade",
+        "description": "A weapon-crafting component.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ru": {
+        "item_name": "Геспар: Клинок",
+        "description": "Компонент оружия.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "ko": {
+        "item_name": "헤스파르 블레이드",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "de": {
+        "item_name": "Hespar: Klinge",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "fr": {
+        "item_name": "Hespar - Lame",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pt": {
+        "item_name": "Hespar: Lâmina",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "暮斩 刀刃",
+        "description": "一个武器的制作部件。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "zh-hant": {
+        "item_name": "夕憶 刀刃",
+        "description": "製作武器的部件。",
+        "wiki_link": null,
+        "drop": []
+    },
+    "es": {
+        "item_name": "Hoja De Hespar",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "it": {
+        "item_name": "Hespar - Lama",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "pl": {
+        "item_name": "Hespar: Ostrze",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": null,
+        "drop": []
+    },
+    "mastery_level": 12,
+    "trading_tax": 2000
+}

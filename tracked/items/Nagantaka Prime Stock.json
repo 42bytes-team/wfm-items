@@ -1,0 +1,151 @@
+{
+    "_id": "6242037666a58f0108c3d485",
+    "tags": [
+        "component",
+        "prime",
+        "primary",
+        "weapon"
+    ],
+    "icon": "icons/en/nagantaka_prime_stock.0e3bc35f211fdbd5fe3ddc6d74bf932f.png",
+    "thumb": "icons/en/thumbs/nagantaka_prime_stock.0e3bc35f211fdbd5fe3ddc6d74bf932f.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
+    "url_name": "nagantaka_prime_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/NagantakaPrimeStock"
+    },
+    "part_of_set": [
+        "nagantaka_prime_barrel",
+        "nagantaka_prime_blueprint",
+        "nagantaka_prime_receiver",
+        "nagantaka_prime_set",
+        "nagantaka_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Nagantaka Prime Stock",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Lith Z3 Relic (Uncommon)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "ru": {
+        "item_name": "Нагантака Прайм: Приклад",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Реликвия Лит Z3 (Необычный)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "ko": {
+        "item_name": "나간타카 프라임 스톡",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "리스 Z3 성유물 (언커먼)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "de": {
+        "item_name": "Nagantaka Prime: Schaft",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Lith-relikt: Z3 (Ungewöhnlich)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "fr": {
+        "item_name": "Nagantaka Prime - Crosse",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Relique Lith Z3 (Inhabituel)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "pt": {
+        "item_name": "Nagantaka Prime: Coronha",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Relíquia Lith Z3 (Incomum)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "zh-hans": {
+        "item_name": "噬蛇弩 Prime 枪托",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "古纪 Z3 遗物 (罕见)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "zh-hant": {
+        "item_name": "噬蛇弩 Prime 槍托",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "古紀 Z3 遺物 (罕見)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "es": {
+        "item_name": "Culata De Nagantaka Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith Z3 (Poco Común)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "it": {
+        "item_name": "Nagantaka Prime - Calcio",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Reliquia Lith Z3 (Uncommon)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "pl": {
+        "item_name": "Nagantaka Prime: Kolba",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nagantaka_Prime",
+        "drop": [
+            {
+                "name": "Relikt Lith Z3 (Nieprzeciętny)",
+                "link": "lith_z3_relic"
+            }
+        ]
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}
