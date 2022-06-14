@@ -7,20 +7,20 @@
         "secondary",
         "blueprint"
     ],
-    "icon": "icons/en/Euphona_Prime_Set.6a18cc50c57ac13c3203e872baf85a8d.png",
-    "thumb": "icons/en/thumbs/Euphona_Prime_Set.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
+    "icon": "icons/en/euphona_prime_receiver.6a18cc50c57ac13c3203e872baf85a8d.png",
+    "thumb": "icons/en/thumbs/euphona_prime_receiver.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
     "icon_format": "land",
-    "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
     "url_name": "euphona_prime_receiver",
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/Prime1HShotgunReceiver"
     },
     "part_of_set": [
-        "euphona_prime_set",
         "euphona_prime_barrel",
         "euphona_prime_blueprint",
-        "euphona_prime_receiver"
+        "euphona_prime_receiver",
+        "euphona_prime_set"
     ],
     "set_root": false,
     "quantity_for_set": 1,
