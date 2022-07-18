@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e5155a2",
     "tags": [
         "mod",
+        "rare",
         "kubrow",
-        "rare"
+        "sunika_kubrow"
     ],
-    "icon": "icons/en/Savagery.c02dd408812e29360368792883093dba.png",
-    "thumb": "icons/en/thumbs/Savagery.c02dd408812e29360368792883093dba.128x128.png",
+    "icon": "items/images/en/savagery.c02dd408812e29360368792883093dba.png",
+    "thumb": "items/images/en/thumbs/savagery.c02dd408812e29360368792883093dba.128x128.png",
     "icon_format": "port",
     "url_name": "savagery",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Savagery",
         "description": "Allows the Kubrow to use Finisher attacks on an enemy. +120% Finisher Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Savagery",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Savagery"
     },
     "ru": {
         "item_name": "Дикость",
-        "description": "Позволяет Кубрау использовать добивающие приемы на врагах. +120% урона при добивании",
+        "description": "Позволяет кубрау использовать добивающие приемы на врагах. +120% урона при добивании",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%B8%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Savagery.37228f59b30f485bde0addf80f91aed0.png",
-        "thumb": "icons/ru/thumbs/Savagery.37228f59b30f485bde0addf80f91aed0.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/savagery.37228f59b30f485bde0addf80f91aed0.png",
+        "thumb": "items/images/ru/thumbs/savagery.37228f59b30f485bde0addf80f91aed0.128x128.png"
     },
     "ko": {
         "item_name": "새비져리",
         "description": "쿠브로가 적에게 마무리 일격을 가할 수 있게 됩니다. +120% 마무리 일격 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Savagery",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Savagery"
     },
     "de": {
         "item_name": "Wildheit",
         "description": "Erlaubt es dem Kubrow, Todesstöße gegen Gegner auszuführen. +120 % Todesstoß-Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Wildheit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Wildheit"
     },
     "fr": {
         "item_name": "Sauvagerie",
         "description": "Autorise le Kubrow à utiliser un Coup de Grâce sur un ennemi +120% de Dégâts de Coup de Grâce",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sauvagerie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sauvagerie"
     },
     "pt": {
         "item_name": "Savagery",
         "description": "Permite que o Kubrow realize finalizações em um inimigo. +120% de Dano da Finalização",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Savagery",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Savagery"
     },
     "zh-hans": {
         "item_name": "野蛮压制",
         "description": "让库狛能对敌人使出处决攻击。 +120% 处决伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Savagery",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Savagery"
     },
     "zh-hant": {
         "item_name": "野蠻壓制",
         "description": "讓庫狛能對敵人使出終結攻擊。 +120% 處決傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Savagery",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Savagery"
     },
     "es": {
         "item_name": "Salvajismo",
         "description": "Permite al kubrow usar ataques de remate en un enemigo. +120% de daño al rematar",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Salvajismo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Salvajismo"
     },
     "it": {
         "item_name": "Savagery",
         "description": "Permette al Kubrow di effettuare Esecuzioni sui nemici. +120% Danno Esecuzione",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Ravage",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Ravage"
     },
     "pl": {
         "item_name": "Dzikość",
         "description": "Pozwala Kubrowowi na wykonywanie ataków kończących na ofierze. +120% Obrażenia Dobicia",
-        "wiki_link": "http://warframe.wikia.com/wiki/Savagery",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Savagery"
     },
     "rarity": "rare",
     "max_rank": 5,

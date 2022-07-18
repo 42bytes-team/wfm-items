@@ -2,11 +2,12 @@
     "_id": "55c15374e779895d4f633bca",
     "tags": [
         "mod",
+        "uncommon",
         "stance",
-        "uncommon"
+        "sword_and_shield"
     ],
-    "icon": "icons/en/Final_Harbinger.eca5ce98036f65d3581d0b860755db27.png",
-    "thumb": "icons/en/thumbs/Final_Harbinger.eca5ce98036f65d3581d0b860755db27.128x128.png",
+    "icon": "items/images/en/final_harbinger.eca5ce98036f65d3581d0b860755db27.png",
+    "thumb": "items/images/en/thumbs/final_harbinger.eca5ce98036f65d3581d0b860755db27.128x128.png",
     "icon_format": "port",
     "url_name": "final_harbinger",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Final Harbinger",
         "description": "Powerful slashes and shield attacks.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Final_Harbinger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Final_Harbinger"
     },
     "ru": {
         "item_name": "Предвестник Конца",
         "description": "Мощные взмахи и атаки щитом.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%9A%D0%BE%D0%BD%D1%86%D0%B0",
-        "icon": "icons/ru/Final_Harbinger.2cb7d0d5b3c97bfb440fd813c2203d1a.png",
-        "thumb": "icons/ru/thumbs/Final_Harbinger.2cb7d0d5b3c97bfb440fd813c2203d1a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/final_harbinger.2cb7d0d5b3c97bfb440fd813c2203d1a.png",
+        "thumb": "items/images/ru/thumbs/final_harbinger.2cb7d0d5b3c97bfb440fd813c2203d1a.128x128.png"
     },
     "ko": {
         "item_name": "파이널 하빈저",
         "description": "강력한 베기와 방패 공격입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Final_Harbinger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Final_Harbinger"
     },
     "de": {
         "item_name": "Letzter Vorbote",
         "description": "Kraftvolle Schnitt- und Schildattacken.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Letzter_Vorbote",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Letzter_Vorbote"
     },
     "fr": {
         "item_name": "Dernier Présage",
         "description": "Des attaques coupantes, variées d'attaques de bouclier assommantes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dernier_Pr%C3%A9sage",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dernier_Pr%C3%A9sage"
     },
     "pt": {
         "item_name": "Final Harbinger",
         "description": "Cortes poderosos e golpes com escudo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Final_Harbinger",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Final_Harbinger"
     },
     "zh-hans": {
         "item_name": "最终先驱",
         "description": "强力的斩切与盾牌攻击。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Final_Harbinger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Final_Harbinger"
     },
     "zh-hant": {
         "item_name": "最終先驅",
         "description": "強力的斬切與盾牌攻擊。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Final_Harbinger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Final_Harbinger"
     },
     "es": {
         "item_name": "Presagio Definitivo",
         "description": "Poderosos cortes y ataques de escudo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Presagio_definitivo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Presagio_definitivo"
     },
     "it": {
         "item_name": "Final Harbinger",
         "description": "Potenti tagli e colpi di scudo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Final_Harbinger",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Final_Harbinger"
     },
     "pl": {
         "item_name": "Ostateczny Zwiastun",
         "description": "Potężne cięcia i ataki tarczą",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ostateczny_Zwiastun",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ostateczny_Zwiastun"
     },
     "rarity": "uncommon",
     "max_rank": 3,

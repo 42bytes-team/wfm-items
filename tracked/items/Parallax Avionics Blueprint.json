@@ -1,0 +1,80 @@
+{
+    "_id": "62a2baebfbd62c00450b71dd",
+    "tags": [
+        "blueprint"
+    ],
+    "icon": "items/images/en/parallax_avionics.75e7e972c395cb8f385c810b9c73b55c.png",
+    "thumb": "items/images/en/thumbs/parallax_avionics.75e7e972c395cb8f385c810b9c73b55c.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/landingCraft/generic_avionics_128x128.png",
+    "url_name": "parallax_avionics",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/ZarimanShip/ZarimanShipAvionicsBlueprint"
+    },
+    "part_of_set": [
+        "parallax_avionics",
+        "parallax_blueprint",
+        "parallax_engines",
+        "parallax_fuselage",
+        "parallax_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Parallax Avionics Blueprint",
+        "description": "Avionics component of the Parallax landing craft",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Параллакс: Авионика (Чертеж)",
+        "description": "Компонент корабля «Параллакс»: Авионика",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "패럴락스 에이비오닉 설계도",
+        "description": "패럴락스 착륙정의 전자 기기 부분입니다",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Parallax: Avionik Blaupause",
+        "description": "Die Avionik-Komponente für das Parallax Landungsschiff",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Parallax - Avionique (Schéma)",
+        "description": "Le composant Avionique du Parallax",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Parallax: Aviônicos (Diagrama)",
+        "description": "Aviônicos componentes da Nave de Pouso Parallax",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "星察飞航系统 蓝图",
+        "description": "星察登陆艇的飞航系统部件",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "Parallax 飛航系統 藍圖",
+        "description": "Parallax 登陸艇的飛航系統部件",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Plano de Aviónicas De Parallax",
+        "description": "Componente de aviónica de la nave de desembarco Parallax",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Parallax - Avioniche (Schema)",
+        "description": "Componente Avionica della navicella Parallax",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Parallax: Awionika - Schemat",
+        "description": "Awionika statku desantowego Parallax",
+        "wiki_link": null
+    },
+    "trading_tax": 2000
+}

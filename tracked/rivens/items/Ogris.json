@@ -3,9 +3,11 @@
     "url_name": "ogris",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/ogris.9155e81ec783c0afd68646499883b17c.png",
-    "thumb": "icons/en/thumbs/ogris.9155e81ec783c0afd68646499883b17c.128x128.png",
+    "icon": "items/images/en/ogris.9155e81ec783c0afd68646499883b17c.png",
+    "thumb": "items/images/en/thumbs/ogris.9155e81ec783c0afd68646499883b17c.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 9,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/ClanTech/Chemical/RocketLauncher"
     },

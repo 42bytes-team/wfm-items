@@ -1,0 +1,82 @@
+{
+    "_id": "626ca573f40db600829c9d0d",
+    "tags": [
+        "weapon",
+        "blueprint",
+        "component"
+    ],
+    "icon": "items/images/en/aeolak_barrel.6bea718eeee31f702d625029e035b646.png",
+    "thumb": "items/images/en/thumbs/aeolak_barrel.6bea718eeee31f702d625029e035b646.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+    "url_name": "aeolak_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriRifleBarrelBlueprint"
+    },
+    "part_of_set": [
+        "aeolak_barrel",
+        "aeolak_receiver",
+        "aeolak_set",
+        "aeolak_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Aeolak Barrel Blueprint",
+        "description": "A weapon-crafting component.",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Эолак: Ствол (Чертеж)",
+        "description": "Компонент оружия.",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "아이올락 배럴 설계도",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Aeolak: Lauf Blaupause",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Aeolak - Canon (Schéma)",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Aeolak: Cano (Diagrama)",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "风鸣 枪管 蓝图",
+        "description": "一个武器的制作部件。",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "馭風 槍管 藍圖",
+        "description": "製作武器的部件。",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Plano de Cañón De Aeolak",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Aeolak - Canna (Schema)",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Aeolak: Lufa - Schemat",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": null
+    },
+    "mastery_level": 10,
+    "trading_tax": 2000
+}

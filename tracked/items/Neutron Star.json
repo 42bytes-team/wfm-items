@@ -1,13 +1,13 @@
 {
     "_id": "54a74454e779892d5e5155f3",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "nova"
     ],
-    "icon": "icons/en/Neutron_Star.c0e2f67469c1471dded9d0ce48358a27.png",
-    "thumb": "icons/en/thumbs/Neutron_Star.c0e2f67469c1471dded9d0ce48358a27.128x128.png",
+    "icon": "items/images/en/neutron_star.c0e2f67469c1471dded9d0ce48358a27.png",
+    "thumb": "items/images/en/thumbs/neutron_star.c0e2f67469c1471dded9d0ce48358a27.128x128.png",
     "icon_format": "port",
     "url_name": "neutron_star",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Neutron Star",
         "description": "Null Star Augment: On recast, all remaining particles will seek out enemies and deal 120 Blast Damage with guaranteed Status effect in 8m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Neutron_Star",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Neutron_Star"
     },
     "ru": {
         "item_name": "Нейтронная Звезда",
         "description": "Улучшение способности «Звезда пустоты»: при повторном использовании все текущие звёзды начнут искать врагов, нанося 120 взрывного урона с гарантированным шансом эффекта статуса радиусом в 8 м.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%B9%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0",
-        "icon": "icons/ru/Neutron_Star.cadcb6e87a4a9914cfa84206a9518fbe.png",
-        "thumb": "icons/ru/thumbs/Neutron_Star.cadcb6e87a4a9914cfa84206a9518fbe.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/neutron_star.cadcb6e87a4a9914cfa84206a9518fbe.png",
+        "thumb": "items/images/ru/thumbs/neutron_star.cadcb6e87a4a9914cfa84206a9518fbe.128x128.png"
     },
     "ko": {
         "item_name": "뉴트론 스타",
         "description": "널 스타 개조: 널 스타를 재시전할 시 남아 있는 모든 입자들이 적들에게 날아가 8m 내의 적에게 120의 폭발 피해를 입히고 확정적인 상태 이상을 적용시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Neutron_Star",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Neutron_Star"
     },
     "de": {
         "item_name": "Neutronenstern",
         "description": "Nullstern Augment: Bei erneutem Auslösen spüren die verbleibenden Partikel Gegner auf und fügen 120 Explosionsschaden zu, mit garantiertem Statuseffekt im Radius von 8 m zu.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Neutronenstern",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Neutronenstern"
     },
     "fr": {
         "item_name": "Étoile À Neutrons",
         "description": "Augmentation d'Étoile Vide: En relançant le Pouvoir, toutes les particules restantes chercheront les ennemis et infligeront 120 points de Dégâts Explosifs avec déclenchement garanti des Effets de Statut dans un rayon de 8m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89toile_%C3%A0_Neutron",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89toile_%C3%A0_Neutron"
     },
     "pt": {
         "item_name": "Neutron Star",
         "description": "Ampliação Null Star: ao reconjurar, todas as partículas restantes perseguirão inimigos e causarão 120 Dano Explosivo, com 100% de Chance de Status, no raio de 8m.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Neutron_Star",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Neutron_Star"
     },
     "zh-hans": {
         "item_name": "中子星爆",
         "description": "湮灭流星群强化：再次施展技能会让剩余的球体搜寻敌人，然后在 8 米内造成 120 爆炸伤害与异常状态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Neutron_Star",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Neutron_Star"
     },
     "zh-hant": {
         "item_name": "中子星爆",
         "description": "湮滅流星群強化：再次施放技能會讓剩餘的球體搜尋敵人，每個球體造成半徑 8 公尺內 120 的 爆炸傷害與觸發狀態。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Neutron_Star",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Neutron_Star"
     },
     "es": {
         "item_name": "Estrella De Neutrones",
         "description": "Aumento de Estrella nula: al reactivar, todas las partículas restantes buscarán enemigos y causarán 120 de daño de explosión con efecto de estado garantizado en 8m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Estrella_de_neutrones",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Estrella_de_neutrones"
     },
     "it": {
         "item_name": "Neutron Star",
         "description": "Potenziamento Null Star: Riutilizzandola, ogni particella rimanente attaccherà i nemici infliggendo 120 Danno Esplosione con effetto garantito entro 8m.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Neutron_Star",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Neutron_Star"
     },
     "pl": {
         "item_name": "Gwiazda Neutronowa",
         "description": "Modyfikacja Gwiazdy Pustki: Ponowne użycie spowoduje, że pozostałe cząstki polecą na wrogów zadając im 120 Obr. Wybuchowych z gwarantowanym Statusem w promieniu 8m.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gwiazda_Neutronowa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gwiazda_Neutronowa"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -1,13 +1,12 @@
 {
     "_id": "60ad4a1cf1904300d012c70b",
     "tags": [
+        "component",
         "weapon",
-        "prime",
-        "primary",
-        "component"
+        "prime"
     ],
-    "icon": "icons/en/astilla_prime_set.4ae0614ec9d624474bfa16aa30e954c7.png",
-    "thumb": "icons/en/thumbs/astilla_prime_set.4ae0614ec9d624474bfa16aa30e954c7.128x128.png",
+    "icon": "items/images/en/astilla_prime_stock.4ae0614ec9d624474bfa16aa30e954c7.png",
+    "thumb": "items/images/en/thumbs/astilla_prime_stock.4ae0614ec9d624474bfa16aa30e954c7.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
     "url_name": "astilla_prime_stock",
@@ -27,255 +26,57 @@
     "en": {
         "item_name": "Astilla Prime Stock",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Neo P3 Relic (Uncommon)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "Meso T5 Relic (Uncommon)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "Lith T8 Relic (Uncommon)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "Lith N11 Relic (Uncommon)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Астилла Прайм: Приклад",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Реликвия Нео P3 (Необычный)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "Реликвия Мезо T5 (Необычный)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "Реликвия Лит T8 (Необычный)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "Реликвия Лит N11 (Необычный)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ko": {
         "item_name": "아스틸라 프라임 스톡",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "네오 P3 성유물 (언커먼)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "메소 T5 성유물 (언커먼)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "리스 T8 성유물 (언커먼)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "리스 N11 성유물 (언커먼)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "de": {
         "item_name": "Astilla Prime: Schaft",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Neo-relikt: P3 (Ungewöhnlich)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "Meso-relikt: T5 (Ungewöhnlich)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "Lith-relikt: T8 (Ungewöhnlich)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "Lith-relikt: N11 (Ungewöhnlich)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Astilla Prime - Crosse",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relique Neo P3 (Inhabituel)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "Relique Meso T5 (Inhabituel)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "Relique Lith T8 (Inhabituel)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "Relique Lith N11 (Inhabituel)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Astilla Prime: Coronha",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relíquia Neo P3 (Incomum)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "Relíquia Meso T5 (Incomum)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "Relíquia Lith T8 (Incomum)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "Relíquia Lith N11 (Incomum)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "碎裂者 Prime 枪托",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "中纪 P3 遗物 (罕见)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "前纪 T5 遗物 (罕见)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "古纪 T8 遗物 (罕见)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "古纪 N11 遗物 (罕见)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "碎裂者 Prime 槍托",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "中紀 P3 遺物 (罕見)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "前紀 T5 遺物 (罕見)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "古紀 T8 遺物 (罕見)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "古紀 N11 遺物 (罕見)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "es": {
         "item_name": "Culata De Astilla Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Neo P3 (Poco Común)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "Reliquia Meso T5 (Poco Común)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "Reliquia Lith T8 (Poco Común)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "Reliquia Lith N11 (Poco Común)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "it": {
         "item_name": "Astilla Prime - Calcio",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Neo P3 (Uncommon)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "Reliquia Meso T5 (Uncommon)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "Reliquia Lith T8 (Uncommon)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "Reliquia Lith N11 (Uncommon)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Astilla Prime: Kolba",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relikt Neo P3 (Nieprzeciętny)",
-                "link": "neo_p3_relic"
-            },
-            {
-                "name": "Relikt Meso T5 (Nieprzeciętny)",
-                "link": "meso_t5_relic"
-            },
-            {
-                "name": "Relikt Lith T8 (Nieprzeciętny)",
-                "link": "lith_t8_relic"
-            },
-            {
-                "name": "Relikt Lith N11 (Nieprzeciętny)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "mastery_level": 14,
     "ducats": 45,

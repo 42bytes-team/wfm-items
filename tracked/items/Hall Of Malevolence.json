@@ -1,13 +1,13 @@
 {
     "_id": "54a74454e779892d5e5155e4",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "mirage"
     ],
-    "icon": "icons/en/Hall_of_Malevolence.00f7a45b319be600ecc0f40ad7b90a6c.png",
-    "thumb": "icons/en/thumbs/Hall_of_Malevolence.00f7a45b319be600ecc0f40ad7b90a6c.128x128.png",
+    "icon": "items/images/en/hall_of_malevolence.00f7a45b319be600ecc0f40ad7b90a6c.png",
+    "thumb": "items/images/en/thumbs/hall_of_malevolence.00f7a45b319be600ecc0f40ad7b90a6c.128x128.png",
     "icon_format": "port",
     "url_name": "hall_of_malevolence",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Hall Of Malevolence",
         "description": "Hall of Mirrors Augment: The damage of your doppelgangers is increased by 5% every time you kill an enemy.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hall_of_Malevolence",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hall_of_Malevolence"
     },
     "ru": {
         "item_name": "Галерея Злобы",
         "description": "Улучшение способности «Зеркальная галерея»: урон от двойников увеличивается на 5% за каждого убитого врага.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%B7%D0%BB%D0%BE%D0%B1%D1%8B",
-        "icon": "icons/ru/Hall_of_Malevolence.e2b578c86934df8465b54f3105ea0eaa.png",
-        "thumb": "icons/ru/thumbs/Hall_of_Malevolence.e2b578c86934df8465b54f3105ea0eaa.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/hall_of_malevolence.e2b578c86934df8465b54f3105ea0eaa.png",
+        "thumb": "items/images/ru/thumbs/hall_of_malevolence.e2b578c86934df8465b54f3105ea0eaa.128x128.png"
     },
     "ko": {
         "item_name": "홀 오브 멀레벌런스",
         "description": "홀 오브 미러즈 개조: 적 하나를 처치할 때마다 복제들이 주는 피해가 5%씩 상승합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hall_of_Malevolence",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hall_of_Malevolence"
     },
     "de": {
         "item_name": "Horrorkabinett",
         "description": "Spiegelkabinett Augment: Der Schaden deiner Doppelgänger wird jedes mal, wenn du einen Feind tötest, um 5 % erhöht.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Horrorkabinett",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Horrorkabinett"
     },
     "fr": {
         "item_name": "Galerie De La Malveillance",
         "description": "Augmentation de Galerie des Glaces: Les dégâts causés par vos doubles sont augmentés de 5% pour chaque ennemi que vous tuez.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Galerie_de_la_Malveillance",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Galerie_de_la_Malveillance"
     },
     "pt": {
         "item_name": "Hall Of Malevolence",
         "description": "Ampliação Hall of Mirrors: O dano de seus clones é aumentado em 5% toda vez que você mata um inimigo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hall_of_Malevolence",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hall_of_Malevolence"
     },
     "zh-hans": {
         "item_name": "恶怨厅",
         "description": "镜厅强化：每击杀一名敌人，你的分身所造成伤害增加 5%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hall_of_Malevolence",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hall_of_Malevolence"
     },
     "zh-hant": {
         "item_name": "惡怨殿堂",
         "description": "幻境殿堂強化：每擊殺一名敵人，你的分身所造成傷害增加 5%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hall_of_Malevolence",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hall_of_Malevolence"
     },
     "es": {
         "item_name": "Salón De La Malevolencia",
         "description": "Aumento de Salón de espejos: el daño de tus dobles aumenta en 5% cada vez que matas a un enemigo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sal%C3%B3n_de_la_malevolencia",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sal%C3%B3n_de_la_malevolencia"
     },
     "it": {
         "item_name": "Hall Of Malevolence",
         "description": "Potenziamento Hall of Mirrors: Il danno delle copie aumenta del 5% ogni volta che uccidi un nemico.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hall_of_Malevolence",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hall_of_Malevolence"
     },
     "pl": {
         "item_name": "Sala Gniewu",
         "description": "Modyfikacja Sali Zwierciadeł: Obrażenia Twoich klonów zwiększą się o 5% za każdego zabitego przez Ciebie przeciwnika.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sala_Gniewu",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sala_Gniewu"
     },
     "rarity": "rare",
     "max_rank": 3,

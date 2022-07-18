@@ -3,9 +3,11 @@
     "url_name": "staticor",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/staticor.7f88069ac20fd028ff8c5d3bc8cd8057.png",
-    "thumb": "icons/en/thumbs/staticor.7f88069ac20fd028ff8c5d3bc8cd8057.128x128.png",
+    "icon": "items/images/en/staticor.7f88069ac20fd028ff8c5d3bc8cd8057.png",
+    "thumb": "items/images/en/thumbs/staticor.7f88069ac20fd028ff8c5d3bc8cd8057.128x128.png",
     "icon_format": "land",
+    "disposition": 0.8,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag"
     },

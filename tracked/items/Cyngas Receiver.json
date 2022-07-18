@@ -1,14 +1,12 @@
 {
     "_id": "5783bf6dd9b6753790c89e9c",
     "tags": [
-        "receiver",
         "component",
-        "primary",
         "weapon",
         "archwing"
     ],
-    "icon": "icons/en/cyngas_receiver.5b9891a467264b6048cd58b409911767.png",
-    "thumb": "icons/en/thumbs/cyngas_receiver.5b9891a467264b6048cd58b409911767.128x128.png",
+    "icon": "items/images/en/cyngas_receiver.5b9891a467264b6048cd58b409911767.png",
+    "thumb": "items/images/en/thumbs/cyngas_receiver.5b9891a467264b6048cd58b409911767.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
     "url_name": "cyngas_receiver",
@@ -27,68 +25,57 @@
     "en": {
         "item_name": "Cyngas Receiver",
         "description": "An Archwing weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cyngas"
     },
     "ru": {
         "item_name": "Цингас: Приёмник",
         "description": "Компонент оружия арчвинга.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A6%D0%B8%D0%BD%D0%B3%D0%B0%D1%81",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A6%D0%B8%D0%BD%D0%B3%D0%B0%D1%81"
     },
     "ko": {
         "item_name": "싱가스 리시버",
         "description": "아크윙 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cyngas"
     },
     "de": {
         "item_name": "Cyngas: Gehäuse",
         "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Cyngas"
     },
     "fr": {
         "item_name": "Cyngas - Culasse",
         "description": "Un composant servant à la fabrication d'armes d'Archwing.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cyngas"
     },
     "pt": {
         "item_name": "Cyngas: Receptor",
         "description": "Um componente de fabricação de armas Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Cyngas"
     },
     "zh-hans": {
         "item_name": "合成燃气炮 枪机",
         "description": "一个 Archwing 武器制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cyngas"
     },
     "zh-hant": {
         "item_name": "合成燃氣砲 槍機",
         "description": "製作 Archwing 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cyngas"
     },
     "es": {
         "item_name": "Receptor De Cyngas",
         "description": "Un componente de fabricación de arma de archwing.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cyngas"
     },
     "it": {
         "item_name": "Cyngas - Castello",
         "description": "Un componente per la costruzione di un'arma Archwing.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Cyngas"
     },
     "pl": {
         "item_name": "Cyngas: Korpus",
         "description": "Element wytwarzania broni Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Cyngas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Cyngas"
     },
     "mastery_level": 4,
     "trading_tax": 2000

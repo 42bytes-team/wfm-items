@@ -3,9 +3,11 @@
     "url_name": "bubonico",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/bubonico.b930df0a79fb66c92fdf28e76bfa1b2e.png",
-    "thumb": "icons/en/thumbs/bubonico.b930df0a79fb66c92fdf28e76bfa1b2e.128x128.png",
+    "icon": "items/images/en/bubonico.b930df0a79fb66c92fdf28e76bfa1b2e.png",
+    "thumb": "items/images/en/thumbs/bubonico.b930df0a79fb66c92fdf28e76bfa1b2e.128x128.png",
     "icon_format": "land",
+    "disposition": 0.75,
+    "mastery_level": 13,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/LongGuns/InfArmCannon/InfArmCannon"
     },

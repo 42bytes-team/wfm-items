@@ -1,14 +1,13 @@
 {
     "_id": "5eb5e49c04d55c04e80d6a82",
     "tags": [
-        "prime",
         "mod",
-        "shotguns",
         "legendary",
-        "primary"
+        "primary",
+        "shotgun"
     ],
-    "icon": "icons/en/primed_cleanse_corpus.83e84cbd249d46b5950b3389b47d5586.png",
-    "thumb": "icons/en/thumbs/primed_cleanse_corpus.83e84cbd249d46b5950b3389b47d5586.128x128.png",
+    "icon": "items/images/en/primed_cleanse_corpus.83e84cbd249d46b5950b3389b47d5586.png",
+    "thumb": "items/images/en/thumbs/primed_cleanse_corpus.83e84cbd249d46b5950b3389b47d5586.128x128.png",
     "icon_format": "port",
     "url_name": "primed_cleanse_corpus",
     "tradable": true,
@@ -18,68 +17,57 @@
     "en": {
         "item_name": "Primed Cleanse Corpus",
         "description": "+55% Damage to Corpus",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Cleanse_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Cleanse_Corpus"
     },
     "ru": {
         "item_name": "Зачистка Прайм: Корпус",
         "description": "+55% урона Корпусу",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC_%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC_%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81"
     },
     "ko": {
         "item_name": "프라임드 클렌즈 코퍼스",
         "description": "코퍼스에 대한 피해 +55%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Cleanse_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Cleanse_Corpus"
     },
     "de": {
         "item_name": "Primed Corpus Läutern",
         "description": "+55 % Schaden gegen Corpus",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Corpus_L%C3%A4utern",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Corpus_L%C3%A4utern"
     },
     "fr": {
         "item_name": "Purifie-corpus Accru",
         "description": "+55% de Dégâts aux Corpus",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Purifie-Corpus_Accru",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Purifie-Corpus_Accru"
     },
     "pt": {
         "item_name": "Primed Cleanse Corpus",
         "description": "+55% de Dano em Corpus",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Bane_of_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Bane_of_Corpus"
     },
     "zh-hans": {
         "item_name": "净化 Corpus Prime",
         "description": "+55% 对 Corpus 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Cleanse_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Cleanse_Corpus"
     },
     "zh-hant": {
         "item_name": "淨化 Corpus Prime",
         "description": "+55% 對 Corpus 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Cleanse_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Cleanse_Corpus"
     },
     "es": {
         "item_name": "Limpieza De Corpus Prime",
         "description": "+55% de daño a los corpus",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Limpieza_de_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Limpieza_de_Corpus"
     },
     "it": {
         "item_name": "Primed Cleanse Corpus",
         "description": "+55% Danno su Corpus",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Cleanse_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Cleanse_Corpus"
     },
     "pl": {
         "item_name": "Czystka Corpus Prime",
         "description": "+55% Obrażeń zadawanych Corpus",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Corpus_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Corpus_Prime"
     },
     "rarity": "legendary",
     "max_rank": 10,

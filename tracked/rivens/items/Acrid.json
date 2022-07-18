@@ -3,9 +3,11 @@
     "url_name": "acrid",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/acrid.def858b7d99e216a123d8af9a4f3663c.png",
-    "thumb": "icons/en/thumbs/acrid.def858b7d99e216a123d8af9a4f3663c.128x128.png",
+    "icon": "items/images/en/acrid.def858b7d99e216a123d8af9a4f3663c.png",
+    "thumb": "items/images/en/thumbs/acrid.def858b7d99e216a123d8af9a4f3663c.128x128.png",
     "icon_format": "land",
+    "disposition": 1.33,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/ClanTech/Bio/AcidDartPistol"
     },

@@ -5,8 +5,8 @@
         "aura",
         "uncommon"
     ],
-    "icon": "icons/en/Sprint_Boost.8474e070e14952636fcf1a5f8f084bd0.png",
-    "thumb": "icons/en/thumbs/Sprint_Boost.8474e070e14952636fcf1a5f8f084bd0.128x128.png",
+    "icon": "items/images/en/sprint_boost.8474e070e14952636fcf1a5f8f084bd0.png",
+    "thumb": "items/images/en/thumbs/sprint_boost.8474e070e14952636fcf1a5f8f084bd0.128x128.png",
     "icon_format": "port",
     "url_name": "sprint_boost",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Sprint Boost",
         "description": "Sprint speed increased. +15% Sprint Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sprint_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sprint_Boost"
     },
     "ru": {
         "item_name": "Ускоритель",
         "description": "Увеличивает скорость бега. +15% к скорости бега",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
-        "icon": "icons/ru/Sprint_Boost.5557a83e4c37267110123e7ae78c3e8a.png",
-        "thumb": "icons/ru/thumbs/Sprint_Boost.5557a83e4c37267110123e7ae78c3e8a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/sprint_boost.5557a83e4c37267110123e7ae78c3e8a.png",
+        "thumb": "items/images/ru/thumbs/sprint_boost.5557a83e4c37267110123e7ae78c3e8a.128x128.png"
     },
     "ko": {
         "item_name": "스프린트 부스트",
         "description": "질주 속도를 증가시킵니다. +15% 질주 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sprint_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sprint_Boost"
     },
     "de": {
         "item_name": "Sprintverstärker",
         "description": "Sprintgeschwindigkeit wird erhöht. +15 % Sprintgeschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sprintverst%C3%A4rker",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sprintverst%C3%A4rker"
     },
     "fr": {
         "item_name": "Accélération Rapide",
         "description": "Vitesse de sprint augmentée. +15% Vitesse de Course",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Acc%C3%A9l%C3%A9ration_rapide",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Acc%C3%A9l%C3%A9ration_rapide"
     },
     "pt": {
         "item_name": "Sprint Boost",
         "description": "Velocidade da Corrida aumentada. +15% de Velocidade da Corrida",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sprint_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sprint_Boost"
     },
     "zh-hans": {
         "item_name": "冲刺提升",
         "description": "冲刺速度增加 +15% 冲刺速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sprint_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sprint_Boost"
     },
     "zh-hant": {
         "item_name": "衝刺提升",
         "description": "衝刺速度增加 +15% 衝刺速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sprint_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sprint_Boost"
     },
     "es": {
         "item_name": "Potenciador De Carrera",
         "description": "Velocidad al correr aumentada. +15% Velocidad al correr",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Potenciador_de_carrera",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Potenciador_de_carrera"
     },
     "it": {
         "item_name": "Sprint Boost",
         "description": "Velocità di Scatto aumentata. +15% Velocità Scatto",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sprint_Boost",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Sprint_Boost"
     },
     "pl": {
         "item_name": "Wspomagacz Sprintu",
         "description": "Zwiększa prędkość sprintu. +15% Szybkość Sprintu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wspomagacz_Sprintu",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wspomagacz_Sprintu"
     },
     "rarity": "uncommon",
     "max_rank": 5,

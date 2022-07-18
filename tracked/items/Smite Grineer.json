@@ -5,8 +5,8 @@
         "melee",
         "uncommon"
     ],
-    "icon": "icons/en/Smite_Grineer.43bb7e987aa1a2e58acaf75c663ab3ab.png",
-    "thumb": "icons/en/thumbs/Smite_Grineer.43bb7e987aa1a2e58acaf75c663ab3ab.128x128.png",
+    "icon": "items/images/en/smite_grineer.43bb7e987aa1a2e58acaf75c663ab3ab.png",
+    "thumb": "items/images/en/thumbs/smite_grineer.43bb7e987aa1a2e58acaf75c663ab3ab.128x128.png",
     "icon_format": "port",
     "url_name": "smite_grineer",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Smite Grineer",
         "description": "+30% Damage to Grineer",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smite_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Smite_Grineer"
     },
     "ru": {
         "item_name": "Крушитель: Гринир",
         "description": "+30% урона Гринир",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%93%D1%80%D0%B8%D0%BD%D0%B8%D1%80",
-        "icon": "icons/ru/Smite_Grineer.4e1e049810ca5064322b313caa26d639.png",
-        "thumb": "icons/ru/thumbs/Smite_Grineer.4e1e049810ca5064322b313caa26d639.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/smite_grineer.4e1e049810ca5064322b313caa26d639.png",
+        "thumb": "items/images/ru/thumbs/smite_grineer.4e1e049810ca5064322b313caa26d639.128x128.png"
     },
     "ko": {
         "item_name": "스마이트 그리니어",
         "description": "그리니어에 대한 피해 +30%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smite_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Smite_Grineer"
     },
     "de": {
         "item_name": "Grineer Bestrafen",
         "description": "+30 % Schaden gegen Grineer",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Grineer_Bestrafen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Grineer_Bestrafen"
     },
     "fr": {
         "item_name": "Châtie-grineers",
         "description": "+30% de Dégâts aux Grineers",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ch%C3%A2tie-Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ch%C3%A2tie-Grineer"
     },
     "pt": {
         "item_name": "Smite Grineer",
         "description": "+30% de Dano em Grineers",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Grineer"
     },
     "zh-hans": {
         "item_name": "毁灭 Grineer",
         "description": "+30% 对 Grineer 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smite_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smite_Grineer"
     },
     "zh-hant": {
         "item_name": "毀滅 Grineer",
         "description": "+30% 對 Grineer 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smite_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smite_Grineer"
     },
     "es": {
         "item_name": "Castiga Grineer",
         "description": "+30 % de daño a los grineer",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Castiga_grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Castiga_grineer"
     },
     "it": {
         "item_name": "Smite Grineer",
         "description": "+30% Danno Su Grineer",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Grineer"
     },
     "pl": {
         "item_name": "Rozpruwacz Grineer",
         "description": "+30% Obrażeń zadawanych Grineer",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozrywacz_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozrywacz_Prime"
     },
     "rarity": "uncommon",
     "max_rank": 5,

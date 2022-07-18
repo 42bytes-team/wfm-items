@@ -1,14 +1,11 @@
 {
     "_id": "56dac55f5cc639de0a45c519",
     "tags": [
-        "weapon",
-        "melee",
         "component",
-        "hilt",
-        "blueprint"
+        "weapon"
     ],
-    "icon": "icons/en/sheev_hilt.96c63b432f3d71f2bf5918e9f8d721fa.png",
-    "thumb": "icons/en/thumbs/sheev_hilt.96c63b432f3d71f2bf5918e9f8d721fa.128x128.png",
+    "icon": "items/images/en/sheev_hilt.96c63b432f3d71f2bf5918e9f8d721fa.png",
+    "thumb": "items/images/en/thumbs/sheev_hilt.96c63b432f3d71f2bf5918e9f8d721fa.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_hilt_128x128.png",
     "url_name": "sheev_hilt",
@@ -28,68 +25,57 @@
     "en": {
         "item_name": "Sheev Hilt",
         "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sheev"
     },
     "ru": {
         "item_name": "Шиив: Рукоятка",
         "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D0%B8%D0%B8%D0%B2",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D0%B8%D0%B8%D0%B2"
     },
     "ko": {
         "item_name": "쉬브 힐트",
         "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sheev"
     },
     "de": {
         "item_name": "Sheev: Griff",
         "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sheev"
     },
     "fr": {
         "item_name": "Sheev - Garde",
         "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sheev"
     },
     "pt": {
         "item_name": "Sheev: Punho",
         "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sheev"
     },
     "zh-hans": {
         "item_name": "希芙 握柄",
         "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sheev"
     },
     "zh-hant": {
         "item_name": "希芙 握柄",
         "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sheev"
     },
     "es": {
         "item_name": "Empuñadura De Sheev",
         "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sheev"
     },
     "it": {
         "item_name": "Sheev - Elsa",
         "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sheev",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Sheev"
     },
     "pl": {
         "item_name": "Sheev: Rękojeść",
         "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sheev",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sheev"
     },
     "mastery_level": 5,
     "trading_tax": 2000

@@ -3,9 +3,11 @@
     "url_name": "multron",
     "group": "sentinel",
     "riven_type": "rifle",
-    "icon": "icons/en/multron.f4545cda5161c2db5d9168b71ff22114.png",
-    "thumb": "icons/en/thumbs/multron.f4545cda5161c2db5d9168b71ff22114.128x128.png",
+    "icon": "items/images/en/multron.f4545cda5161c2db5d9168b71ff22114.png",
+    "thumb": "items/images/en/thumbs/multron.f4545cda5161c2db5d9168b71ff22114.128x128.png",
     "icon_format": "land",
+    "disposition": 1,
+    "mastery_level": 3,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon"
     },

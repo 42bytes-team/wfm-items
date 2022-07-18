@@ -5,8 +5,8 @@
         "melee",
         "common"
     ],
-    "icon": "icons/en/Reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.png",
-    "thumb": "icons/en/thumbs/Reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.128x128.png",
+    "icon": "items/images/en/reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.png",
+    "thumb": "items/images/en/thumbs/reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.128x128.png",
     "icon_format": "port",
     "url_name": "reach",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Reach",
         "description": "+1.1 Range",
-        "wiki_link": "https://warframe.fandom.com/wiki/Reach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Reach"
     },
     "ru": {
         "item_name": "Размах",
         "description": "+1.1 Дальность поражения",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B0%D1%85",
-        "icon": "icons/ru/Reach.3c3aadf53c5f9e86719bc9a3d59e0209.png",
-        "thumb": "icons/ru/thumbs/Reach.3c3aadf53c5f9e86719bc9a3d59e0209.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/reach.3c3aadf53c5f9e86719bc9a3d59e0209.png",
+        "thumb": "items/images/ru/thumbs/reach.3c3aadf53c5f9e86719bc9a3d59e0209.128x128.png"
     },
     "ko": {
         "item_name": "리치",
         "description": "+1.1 사거리",
-        "wiki_link": "https://warframe.fandom.com/wiki/Reach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Reach"
     },
     "de": {
         "item_name": "Reichweite",
         "description": "+1.1 Reichweite",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Reichweite",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Reichweite"
     },
     "fr": {
         "item_name": "Atteinte",
         "description": "+1.1 Portée",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Atteinte",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Atteinte"
     },
     "pt": {
         "item_name": "Reach",
         "description": "+1.1 Alcance",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Reach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Reach"
     },
     "zh-hans": {
         "item_name": "剑风",
         "description": "+1.1 攻击范围",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reach",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reach"
     },
     "zh-hant": {
         "item_name": "劍風",
         "description": "+1.1 攻擊範圍",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reach",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reach"
     },
     "es": {
         "item_name": "Alcance",
         "description": "+1.1 de alcance",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Alcance",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Alcance"
     },
     "it": {
         "item_name": "Reach",
         "description": "+1.1 Portata",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Reach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Reach"
     },
     "pl": {
         "item_name": "Zasięg",
         "description": "+1.1 Zasięg",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zasi%C4%99g_Mocy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zasi%C4%99g_Mocy"
     },
     "rarity": "common",
     "max_rank": 3,

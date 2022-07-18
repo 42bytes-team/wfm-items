@@ -1,13 +1,14 @@
 {
     "_id": "5800c901c021d9dc0a9f891e",
     "tags": [
-        "mod",
-        "uncommon",
         "pvp",
-        "stance"
+        "uncommon",
+        "stance",
+        "mod",
+        "heavy_blade"
     ],
-    "icon": "icons/en/Noble_Cadence.181a81c57ee312bbd781192b6369efb2.png",
-    "thumb": "icons/en/thumbs/Noble_Cadence.181a81c57ee312bbd781192b6369efb2.128x128.png",
+    "icon": "items/images/en/noble_cadence.181a81c57ee312bbd781192b6369efb2.png",
+    "thumb": "items/images/en/thumbs/noble_cadence.181a81c57ee312bbd781192b6369efb2.128x128.png",
     "icon_format": "port",
     "url_name": "noble_cadence",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Noble Cadence",
         "description": "Fighting form devised for Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Noble_Cadence",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Noble_Cadence"
     },
     "ru": {
         "item_name": "Благородная Каденция",
-        "description": "Форма боя, созданная для Конклава.",
+        "description": "Форма боя, созданная для конклава.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D1%8F",
-        "icon": "icons/ru/Noble_Cadence.073f070ec9a1730f90ac43a0a9448dcf.png",
-        "thumb": "icons/ru/thumbs/Noble_Cadence.073f070ec9a1730f90ac43a0a9448dcf.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/noble_cadence.073f070ec9a1730f90ac43a0a9448dcf.png",
+        "thumb": "items/images/ru/thumbs/noble_cadence.073f070ec9a1730f90ac43a0a9448dcf.128x128.png"
     },
     "ko": {
         "item_name": "노블 케이던스",
         "description": "콘클레이브를 위해 창안된 전투 자세입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Noble_Cadence",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Noble_Cadence"
     },
     "de": {
         "item_name": "Anmutiger Rhythmus",
         "description": "Gefechtsform, entwickelt für die Conclave.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Anmutiger_Rhythmus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Anmutiger_Rhythmus"
     },
     "fr": {
         "item_name": "Cadence Noble",
         "description": "Forme de combat réservée au Conclave.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cadence_Noble",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cadence_Noble"
     },
     "pt": {
         "item_name": "Noble Cadence",
         "description": "Forma de combate elaborada para o Conclave.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Noble_Cadence",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Noble_Cadence"
     },
     "zh-hans": {
         "item_name": "高贵踏频",
         "description": "为武形秘仪设计的战斗形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Noble_Cadence",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Noble_Cadence"
     },
     "zh-hant": {
         "item_name": "高貴踏頻",
         "description": "為武形秘儀設計的戰鬥形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Noble_Cadence",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Noble_Cadence"
     },
     "es": {
         "item_name": "Cadencia Honorable",
         "description": "Una forma de pelea creada para el Cónclave.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cadencia_honorable",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cadencia_honorable"
     },
     "it": {
         "item_name": "Noble Cadence",
         "description": "Stile di combattimento ideato per il Conclave.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Noble_Cadence",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Noble_Cadence"
     },
     "pl": {
         "item_name": "Szlachetna Regularność",
         "description": "Styl walki stworzony na potrzeby Konklawe.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szlachetna_Regularno%C5%9B%C4%87",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szlachetna_Regularno%C5%9B%C4%87"
     },
     "rarity": "uncommon",
     "max_rank": 3,

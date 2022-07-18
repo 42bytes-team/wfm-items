@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "hildryn"
     ],
-    "icon": "icons/en/balefire_surge.494748c2c7a6859593d8438f3522e8b5.png",
-    "thumb": "icons/en/thumbs/balefire_surge.494748c2c7a6859593d8438f3522e8b5.128x128.png",
+    "icon": "items/images/en/balefire_surge.494748c2c7a6859593d8438f3522e8b5.png",
+    "thumb": "items/images/en/thumbs/balefire_surge.494748c2c7a6859593d8438f3522e8b5.128x128.png",
     "icon_format": "port",
     "url_name": "balefire_surge",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Balefire Surge",
         "description": "Balefire Augment: Fully charged direct hits restore 250 Shield to Hildryn. Impact with Nullifier Shields will destroy them and restore 750 Shield.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Balefire_Surge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Balefire_Surge"
     },
     "ru": {
         "item_name": "Погребальная Вспышка",
         "description": "Улучшение способности «Погребальный Огонь»: полностью заряженные прямые попадания восстановят 250 щита Хильдрин. Удар в щиты нуллификатора уничтожат их и восстановят 750 щита.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B3%D1%80%D0%B5%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%92%D1%81%D0%BF%D1%8B%D1%88%D0%BA%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B3%D1%80%D0%B5%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%92%D1%81%D0%BF%D1%8B%D1%88%D0%BA%D0%B0"
     },
     "ko": {
         "item_name": "베일파이어 서지",
         "description": "베일파이어 개조: 완전 충전 발사하여 타격 시 힐드린의 실드를 250만큼 회복합니다. 널리파이어 실드와 충돌할 시 널리파이 실드가 파괴되며 750의 실드를 회복합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Balefire_Surge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Balefire_Surge"
     },
     "de": {
         "item_name": "Freudenfeuerwoge",
         "description": "Freudenfeuer Augment: Voll aufgeladene direkte Treffer stellen bei Hildryn 250 Schilde wieder her. Bei Berührung mit einem Nullfeld, werden die Schilde zerstört und 750 Schilde wiederhergestellt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Freudenfeuer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Freudenfeuer"
     },
     "fr": {
         "item_name": "Surcharge Incandescente",
         "description": "Augmentation d'Incandescence: les coups directs entièrement chargés restaurent 250 de Boucliers à Hildryn. Les impacts avec les Bulles Zéro les détruiront et restaureront 750 de Bouclier.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Surcharge_Incandescente",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Surcharge_Incandescente"
     },
     "pt": {
         "item_name": "Balefire Surge",
         "description": "Ampliação Balefire: disparos diretos completamente carregados restauram 250 Escudos para a Hildryn. Atingir Escudos Nulificadores fará com que eles sejam destruídos e forneçam 750 Escudos.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Balefire_Charger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Balefire_Charger"
     },
     "zh-hans": {
         "item_name": "野火涌流",
         "description": "野火燎原强化：完全蓄力后直接命中目标可为 Hildryn 恢复 250 点护盾。击中虚能船员的护盾将摧毁他们并恢复 750 点护盾。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Balefire_Surge",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Balefire_Surge"
     },
     "zh-hant": {
         "item_name": "野火洶湧",
         "description": "野火燎原強化：完整蓄力後命中敵人可恢復 Hildryn 250 點護盾 。擊中虛能護罩將摧毀他們，並恢復 750 點護盾。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Balefire_Surge",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Balefire_Surge"
     },
     "es": {
         "item_name": "Sobrecarga De Balefire",
         "description": "Aumento de Balefire: los impactos directos de disparos completamente cargados le restauran 250 de escudo a Hildryn. El impacto con escudos de anuladores los destruirá y le restaurará 750 de escudo a Hildryn.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sobrecarga_de_Balefire",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sobrecarga_de_Balefire"
     },
     "it": {
         "item_name": "Balefire Surge",
         "description": "Potenziamento Balefire: I colpi diretti completamente caricati ripristinano 250 Scudo a Hildryn. L'impatto con gli Scudi Nullifier li distruggerà e ripristinerà 750 Scudo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Balefire_Surge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Balefire_Surge"
     },
     "pl": {
         "item_name": "Fala Zniszczenia",
         "description": "Modyfikacja Ognia Zniszczenia: W pełni naładowane strzały, które trafią bezpośrednio w cel przywrócą Hildryn 250 Tarczy. Trafienie w tarczę Niwelującego, zniszczy je i przywróci 750 Tarczy.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Zniszczenia",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Zniszczenia"
     },
     "rarity": "rare",
     "max_rank": 3,

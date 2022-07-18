@@ -5,8 +5,8 @@
         "weapon",
         "melee"
     ],
-    "icon": "icons/en/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.png",
-    "thumb": "icons/en/thumbs/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.128x128.png",
+    "icon": "items/images/en/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.png",
+    "thumb": "items/images/en/thumbs/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.128x128.png",
     "icon_format": "land",
     "url_name": "synoid_heliocor",
     "tradable": true,
@@ -16,68 +16,57 @@
     "en": {
         "item_name": "Synoid Heliocor",
         "description": "This intelligent hammer takes an enemy killed by a Heavy Attack and recomposes them as an ally. Any fatal strike with this weapon also performs a Codex scan.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Synoid_Heliocor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Synoid_Heliocor"
     },
     "ru": {
         "item_name": "Синоидальный Гелиокор",
         "description": "Этот 'умный молот' захватывает врага, убитого Тяжёлой Атакой, и проецирует его в качестве союзника. Любой летальный удар, нанесенный этим молотом, также совершает сканирование для кодекса.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BD%D0%BE%D0%B8%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BB%D0%B8%D0%BE%D0%BA%D0%BE%D1%80",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BD%D0%BE%D0%B8%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BB%D0%B8%D0%BE%D0%BA%D0%BE%D1%80"
     },
     "ko": {
         "item_name": "사이노이드 헬리오코어",
         "description": "이 지능적인 해머는 강 공격으로 처치된 적의 정보를 거두어 아군으로 재구성하며, 이 무기로 가해진 결정타로 적이 사망할 경우 코덱스 스캔을 시도합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Synoid_Heliocor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Synoid_Heliocor"
     },
     "de": {
         "item_name": "Synoid Heliocor",
         "description": "Dieser intelligente Hammer lässt einen Gegner, der mit einem schweren Angriff getötet wurde, als Verbündeten wiederauferstehen. Ebenso führt er bei jedem tödlichen Schlag einen Codex-Scan aus.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Synoid_Heliocor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Synoid_Heliocor"
     },
     "fr": {
         "item_name": "Heliocor Synoid",
         "description": "Ce marteau intelligent prend un ennemi éliminé par une Attaque Lourde et le recompose en tant qu'allié. Chaque coup fatal avec cette arme effectue un scan pour le Codex.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Heliocor_Synoid",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Heliocor_Synoid"
     },
     "pt": {
         "item_name": "Heliocor Synoid",
         "description": "Este martelo inteligente pega um inimigo abatido com um Ataque Pesado e o recompõe como um aliado caso a sua análise esteja completa no Codex. Qualquer acerto fatal com esta arma também realiza um scan para o Codex.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Synoid_Heliocor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Synoid_Heliocor"
     },
     "zh-hans": {
         "item_name": "枢议 赫利俄光锤",
         "description": "（英文：SYNOID HELIOCOR）这柄智能的锤子吸收被重击击杀的敌人，并将他们改组为友军。这把武器造成的任何致死攻击也会进行一次资料库扫描。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Synoid_Heliocor",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Synoid_Heliocor"
     },
     "zh-hant": {
         "item_name": "樞議 赫利俄光鎚",
         "description": "（英文：SYNOID HELIOCOR）這柄擁有智慧的鎚子能汲取被重擊擊殺的敵人，並將他們改組為盟軍。這把武器造成的任何致命攻擊同時也會進行一次資料庫掃描。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Synoid_Heliocor",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Synoid_Heliocor"
     },
     "es": {
         "item_name": "Heliocor Synoid",
         "description": "Este martillo inteligente toma a un enemigo derrotado por un ataque pesado y lo restablece como un aliado. Cualquier golpe fatal con esta arma también efectúa un escaneo del códice.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Heliocor_Synoid",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Heliocor_Synoid"
     },
     "it": {
         "item_name": "Synoid Heliocor",
         "description": "Questo martello intelligente prende un nemico ucciso da un Attacco pesante e lo ricompone come alleato. Ogni colpo fatale di questa arma effettua una scansione Codex.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Synoid_Heliocor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Synoid_Heliocor"
     },
     "pl": {
         "item_name": "Heliocor Synoid",
         "description": "Ten inteligentny młot pobiera, podczas zabójstwa wroga Ciężkim Atakiem, dane o celu i odtwarza go jako sojusznika. Każde wykańczające uderzenie tą bronią dodaje skan do Kodeksu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Heliocor_Synoid",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Heliocor_Synoid"
     },
     "mastery_level": 11,
     "trading_tax": 2000

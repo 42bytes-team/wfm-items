@@ -2,11 +2,12 @@
     "_id": "5729bcfecb59ed5a9b484e8b",
     "tags": [
         "mod",
+        "uncommon",
         "melee",
-        "uncommon"
+        "ripkas"
     ],
-    "icon": "icons/en/Hunter's_Bonesaw.1147f425657d68c8ebf0e0b8a15aaf00.png",
-    "thumb": "icons/en/thumbs/Hunter's_Bonesaw.1147f425657d68c8ebf0e0b8a15aaf00.128x128.png",
+    "icon": "items/images/en/hunters_bonesaw.1147f425657d68c8ebf0e0b8a15aaf00.png",
+    "thumb": "items/images/en/thumbs/hunters_bonesaw.1147f425657d68c8ebf0e0b8a15aaf00.128x128.png",
     "icon_format": "port",
     "url_name": "hunters_bonesaw",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Hunter's Bonesaw",
         "description": "Increase Damage by 90% and Status Chance by 60% when attacking a prone enemy.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hunter%27s_Bonesaw",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hunter%27s_Bonesaw"
     },
     "ru": {
         "item_name": "Косторез Охотника",
         "description": "Увеличивает урон на 90% и шанс статуса на 60% при атаке лежачего врага.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B5%D0%B7_%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
-        "icon": "icons/ru/Hunter's_Bonesaw.c28fe793a946a2986e4d890d3e04c4a2.png",
-        "thumb": "icons/ru/thumbs/Hunter's_Bonesaw.c28fe793a946a2986e4d890d3e04c4a2.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/hunters_bonesaw.c28fe793a946a2986e4d890d3e04c4a2.png",
+        "thumb": "items/images/ru/thumbs/hunters_bonesaw.c28fe793a946a2986e4d890d3e04c4a2.128x128.png"
     },
     "ko": {
         "item_name": "헌터스 본소우",
         "description": "넘어진 적을 공격할 시 피해 90% 및 상태 이상 확률 60%가 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hunter%27s_Bonesaw",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hunter%27s_Bonesaw"
     },
     "de": {
         "item_name": "Jäger-knochensäge",
         "description": "Erhöht Schaden um 90 % und Statuschance um 60 %, wenn niedergeschlagene Gegner angegriffen werden.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/J%C3%A4ger-Knochens%C3%A4ge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/J%C3%A4ger-Knochens%C3%A4ge"
     },
     "fr": {
         "item_name": "Scie À Os",
         "description": "Augmente les Dégâts de 90% et les Chances de Statut de 60% en attaquant un ennemi à terre.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Scie_%C3%A0_Os",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Scie_%C3%A0_Os"
     },
     "pt": {
         "item_name": "Hunter's Bonesaw",
         "description": "Aumenta o Dano em 90% e a Chance de Status em 60% ao atacar um inimigo de bruços.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hunter's_Bonesaw",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter's_Bonesaw"
     },
     "zh-hans": {
         "item_name": "猎人骨锯",
         "description": "对倒地的敌人进行攻击会增加 90% 伤害以及 60% 触发几率。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter%27s_Bonesaw",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter%27s_Bonesaw"
     },
     "zh-hant": {
         "item_name": "獵人骨鋸",
         "description": "對倒地的敵人進行攻擊會增加 90% 傷害以及 60% 觸發機率。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter%27s_Bonesaw",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter%27s_Bonesaw"
     },
     "es": {
         "item_name": "Sierrahueso Del Cazador",
         "description": "Aumenta el daño en un 90% y probabilidad de estado en un 60% cuando ataca a un enemigo vulnerable a remates.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sierrahueso_del_cazador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sierrahueso_del_cazador"
     },
     "it": {
         "item_name": "Hunter's Bonesaw",
         "description": "Aumenta il Danno del 90% e la Probabilità Effetto del 60% quando viene attaccato un nemico prono.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hunter's_Bonesaw",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter's_Bonesaw"
     },
     "pl": {
         "item_name": "Piła Łowczego",
         "description": "Zwiększa Obrażenia o 90% i Szansę Statusu o 60% kiedy atakujesz leżącego przeciwnika.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pi%C5%82a_%C5%81owczego",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pi%C5%82a_%C5%81owczego"
     },
     "rarity": "uncommon",
     "max_rank": 5,

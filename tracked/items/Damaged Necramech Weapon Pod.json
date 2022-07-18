@@ -2,11 +2,11 @@
     "_id": "5f498a1f9426ed00443bd0a0",
     "tags": [
         "necramech",
-        "weapon_pod",
-        "mech"
+        "component",
+        "damaged"
     ],
-    "icon": "icons/en/damaged_necramech_weapon_pod.f756c4db37aa588e9434845d7313c138.png",
-    "thumb": "icons/en/thumbs/damaged_necramech_weapon_pod.f756c4db37aa588e9434845d7313c138.128x128.png",
+    "icon": "items/images/en/damaged_necramech_weapon_pod.f756c4db37aa588e9434845d7313c138.png",
+    "thumb": "items/images/en/thumbs/damaged_necramech_weapon_pod.f756c4db37aa588e9434845d7313c138.128x128.png",
     "icon_format": "land",
     "url_name": "damaged_necramech_weapon_pod",
     "tradable": true,
@@ -24,68 +24,57 @@
     "en": {
         "item_name": "Damaged Necramech Weapon Pod",
         "description": "A broken weapon system intended for a Necramech.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "ru": {
         "item_name": "Поврежденная Турель Оружия Некрамеха",
         "description": "Сломанная система оружия, предназначенная для Некрамеха.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85"
     },
     "ko": {
         "item_name": "손상된 네크라메크 웨펀 포드",
         "description": "네크라메크 무기 시스템의 고장난 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "de": {
         "item_name": "Necramech: Beschädigte Waffenkapsel",
         "description": "Ein beschädigtes Waffensystem für einen Necramech.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "fr": {
         "item_name": "Nacelle D'arme De Necramech Endommagée",
         "description": "Un système d'arme cassé destiné à un Necramech.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Necramech"
     },
     "pt": {
         "item_name": "Necramech: Câmara De Arma Danificada",
         "description": "Um sistema de arma danificado destinado a um Necramech.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "zh-hans": {
         "item_name": "损坏的殁世机甲 武器舱",
         "description": "为殁世机甲设计的武器系统，处于损坏状态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech"
     },
     "zh-hant": {
         "item_name": "損毀的亡骸機甲武器吊艙",
         "description": "破碎的亡骸機甲武器系統。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech"
     },
     "es": {
         "item_name": "Cápsula De Arma De Necramech Dañada",
         "description": "Un sistema de armamento roto destinado para un Necramech.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Necramech"
     },
     "it": {
         "item_name": "Capsula Arma Necramech Danneggiata",
         "description": "Il sistema rotto di un'arma destinata a un Necramech.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "pl": {
         "item_name": "Uszkodzona Kapsuła Broni Nekramecha",
         "description": "Zepsuty podzespół broni przeznaczonej dla Nekramecha.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "trading_tax": 2000
 }

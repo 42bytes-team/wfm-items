@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a4f4",
     "tags": [
-        "mod",
+        "primary",
         "uncommon",
         "pvp",
-        "primary"
+        "shotgun",
+        "mod"
     ],
-    "icon": "icons/en/Shred_Shot.6c54abde2f2a72ce7c5b88ac37500cc3.png",
-    "thumb": "icons/en/thumbs/Shred_Shot.6c54abde2f2a72ce7c5b88ac37500cc3.128x128.png",
+    "icon": "items/images/en/shred_shot.6c54abde2f2a72ce7c5b88ac37500cc3.png",
+    "thumb": "items/images/en/thumbs/shred_shot.6c54abde2f2a72ce7c5b88ac37500cc3.128x128.png",
     "icon_format": "port",
     "url_name": "shred_shot",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Shred Shot",
         "description": "20% of Damage converted into Puncture",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shred_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shred_Shot"
     },
     "ru": {
         "item_name": "Кромсающий Выстрел",
         "description": "Преобразует 20% урона в пронзающий",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "icon": "icons/ru/Shred_Shot.6d3b9403f4f4e4b6d8f4cf29345cf2d2.png",
-        "thumb": "icons/ru/thumbs/Shred_Shot.6d3b9403f4f4e4b6d8f4cf29345cf2d2.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/shred_shot.6d3b9403f4f4e4b6d8f4cf29345cf2d2.png",
+        "thumb": "items/images/ru/thumbs/shred_shot.6d3b9403f4f4e4b6d8f4cf29345cf2d2.128x128.png"
     },
     "ko": {
         "item_name": "슈레드 샷",
         "description": "20%의 피해를 관통으로 전환합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shred_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shred_Shot"
     },
     "de": {
         "item_name": "Schredder-schuss",
         "description": "20 % des Schadens wird in Durchschlagsschaden umgewandelt",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schredder-Schuss",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schredder-Schuss"
     },
     "fr": {
         "item_name": "Tir Déchiquetant",
         "description": "20% des Dégâts convertis en Perforation",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tour_D%C3%A9chirant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tour_D%C3%A9chirant"
     },
     "pt": {
         "item_name": "Shred Shot",
         "description": "20% Dano convertido em Perfurante",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sure_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sure_Shot"
     },
     "zh-hans": {
         "item_name": "撕碎射击",
         "description": "20％的伤害转换为穿刺",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shred_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shred_Shot"
     },
     "zh-hant": {
         "item_name": "撕碎射擊",
         "description": "20% 的傷害轉換為穿刺",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shred_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shred_Shot"
     },
     "es": {
         "item_name": "Disparo Triturador",
         "description": "20% del daño es convertido a perforación",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_triturador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_triturador"
     },
     "it": {
         "item_name": "Shred Shot",
         "description": "20% del Danno convertito in Perforazione",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sure_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Sure_Shot"
     },
     "pl": {
         "item_name": "Strzał Rozrywający",
         "description": "20% Obrażeń jest przeliczone na Obrażenia Przebijające",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shred_Shot",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Shred_Shot"
     },
     "rarity": "uncommon",
     "max_rank": 3,

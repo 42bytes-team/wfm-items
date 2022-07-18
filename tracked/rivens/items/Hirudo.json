@@ -3,9 +3,11 @@
     "url_name": "hirudo",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/hirudo.a056a643f7582517371f13a8cf0243ed.png",
-    "thumb": "icons/en/thumbs/hirudo.a056a643f7582517371f13a8cf0243ed.128x128.png",
+    "icon": "items/images/en/hirudo.a056a643f7582517371f13a8cf0243ed.png",
+    "thumb": "items/images/en/thumbs/hirudo.a056a643f7582517371f13a8cf0243ed.128x128.png",
     "icon_format": "land",
+    "disposition": 1.1,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/Melee/InfWFAccompanyingSparring/InfestedKogake"
     },

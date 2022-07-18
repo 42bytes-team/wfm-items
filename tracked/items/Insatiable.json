@@ -1,13 +1,13 @@
 {
     "_id": "5b50a3ac3a84fd02a782324b",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "nidus"
     ],
-    "icon": "icons/en/Insatiable.8bb5b675d8f3bbae956d3abb47b4a170.png",
-    "thumb": "icons/en/thumbs/Insatiable.8bb5b675d8f3bbae956d3abb47b4a170.128x128.png",
+    "icon": "items/images/en/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.png",
+    "thumb": "items/images/en/thumbs/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.128x128.png",
     "icon_format": "port",
     "url_name": "insatiable",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Insatiable",
         "description": "Ravenous Augment: Nidus has a 60% chance of generating an additional Mutation stack whenever he gains one, while standing in the Ravenous infestation.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Insatiable",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Insatiable"
     },
     "ru": {
         "item_name": "Ненасытность",
         "description": "Улучшение способности «Голод»: с шансом 60% Нидус может получить два заряда мутации вместо одного, если стоит на поле заражения.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BD%D0%B0%D1%81%D1%8B%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Insatiable.b75ac706bcf137c20f818150297c00bb.png",
-        "thumb": "icons/ru/thumbs/Insatiable.b75ac706bcf137c20f818150297c00bb.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/insatiable.b75ac706bcf137c20f818150297c00bb.png",
+        "thumb": "items/images/ru/thumbs/insatiable.b75ac706bcf137c20f818150297c00bb.128x128.png"
     },
     "ko": {
         "item_name": "인새셔블",
         "description": "래비너스 개조: 나이더스가 래비너스 감염체 안에 있을 경우, 변이 스택을 얻을 때마다 60%의 확률로 추가 스택을 얻습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Insatiable",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Insatiable"
     },
     "de": {
         "item_name": "Unstillbar",
         "description": "Ausgehungert Augment: Nidus hat eine 60 % Chance, einen zusätzlichen Mutationsstapel zu generieren, wenn er regulär einen Stapel erhält, solange er im Ausgehungerten Befall steht.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Astilla",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Astilla"
     },
     "fr": {
         "item_name": "Insatiable",
         "description": "Augmentation de Voracité: Chaque fois que Nidus gagne un cumul de Mutation lorsqu’il se trouve dans la zone infestée de Voracité, il a 60% de chance de gagner un cumul additionnel.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vampire_Insatiable",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vampire_Insatiable"
     },
     "pt": {
         "item_name": "Insatiable",
         "description": "Ampliação Ravenous: Enquanto estiver sob a área da habilidade, Nidus tem 60% de chance de gerar um acúmulo de Mutação extra sempre que receber um novo acúmulo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Insatiable",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Insatiable"
     },
     "zh-hans": {
         "item_name": "不竭贪婪",
         "description": "贪婪强化：当 Nidus 站立在贪婪的感染范围内时，在获得一层突变适性时有 60% 的几率额外产生一层突变适性。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Insatiable",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Insatiable"
     },
     "zh-hant": {
         "item_name": "不竭貪婪",
         "description": "貪婪強化：當 Nidus 站立在貪婪的感染範圍內時，在獲得一層突變適性時有 60% 的機率額外產生一層突變適性。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Insatiable",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Insatiable"
     },
     "es": {
         "item_name": "Insaciable",
         "description": "Aumento de Voracidad: Nidus tiene una probabilidad del 60% de generar una acumulación de mutación adicional cuando consigue una mientras esté parado en la infestación de Voracidad.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Insaciable",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Insaciable"
     },
     "it": {
         "item_name": "Insatiable",
         "description": "Potenziamento Ravenous: Nidus ha una probabilità del 60% di ricevere una carica Mutazione aggiuntiva ogni volta che ne guadagna una, mentre si trova nell'infestazione Ravenous.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Insatiable",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Insatiable"
     },
     "pl": {
         "item_name": "Nienasycony",
         "description": "Modyfikacja Wygłodniałego: Nidus ma 60% szansy na wygenerowanie dodatkowego ładunku do licznika Mutacji za każdym razem, gdy zdobędzie go stojąc w pladze Wygłodniałego.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nienasycony",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nienasycony"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -1,14 +1,12 @@
 {
     "_id": "54c6855ee779891362942572",
     "tags": [
-        "void trader",
-        "warframe",
         "mod",
-        "prime",
-        "legendary"
+        "legendary",
+        "warframe"
     ],
-    "icon": "icons/en/Primed_Continuity.240ece0417bbfeff4410681ea2294f13.png",
-    "thumb": "icons/en/thumbs/Primed_Continuity.240ece0417bbfeff4410681ea2294f13.128x128.png",
+    "icon": "items/images/en/primed_continuity.240ece0417bbfeff4410681ea2294f13.png",
+    "thumb": "items/images/en/thumbs/primed_continuity.240ece0417bbfeff4410681ea2294f13.128x128.png",
     "icon_format": "port",
     "url_name": "primed_continuity",
     "tradable": true,
@@ -18,70 +16,59 @@
     "en": {
         "item_name": "Primed Continuity",
         "description": "+55% Ability Duration",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Continuity",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Continuity"
     },
     "ru": {
         "item_name": "Непрерывность Прайм",
         "description": "+55% к длительности",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "icon": "icons/ru/Primed_Continuity.b014c0895d0968e76bc2a65e010f98a5.png",
-        "thumb": "icons/ru/thumbs/Primed_Continuity.b014c0895d0968e76bc2a65e010f98a5.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/primed_continuity.b014c0895d0968e76bc2a65e010f98a5.png",
+        "thumb": "items/images/ru/thumbs/primed_continuity.b014c0895d0968e76bc2a65e010f98a5.128x128.png"
     },
     "ko": {
         "item_name": "프라임드 컨티뉴어티",
         "description": "+55% 어빌리티 지속 시간",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Continuity",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Continuity"
     },
     "de": {
         "item_name": "Primed Kontinuität",
         "description": "+55 % Fähigkeitsdauer",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Kontinuit%C3%A4t",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Kontinuit%C3%A4t"
     },
     "fr": {
         "item_name": "Continuité Accrue",
         "description": "+55% Durée de Pouvoir",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Continuit%C3%A9_Accrue",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Continuit%C3%A9_Accrue"
     },
     "pt": {
         "item_name": "Primed Continuity",
         "description": "+55% de Duração da Habilidade",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Continuity",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Continuity"
     },
     "zh-hans": {
         "item_name": "持久力 Prime",
         "description": "+55% 技能持续时间",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Continuity",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Continuity"
     },
     "zh-hant": {
         "item_name": "持久力 Prime",
         "description": "+55% 技能持續時間",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Continuity",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Continuity"
     },
     "es": {
         "item_name": "Continuidad Prime",
         "description": "+55% Duración de habilidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Continuidad_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Continuidad_Prime"
     },
     "it": {
         "item_name": "Primed Continuity",
         "description": "+55% Durata Abilità",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Continuity",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Continuity"
     },
     "pl": {
         "item_name": "Ciągłość Prime",
         "description": "+55% Czas Trwania Umiejętności",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ci%C4%85g%C5%82o%C5%9B%C4%87_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ci%C4%85g%C5%82o%C5%9B%C4%87_Prime"
     },
     "rarity": "legendary",
     "max_rank": 10,

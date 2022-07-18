@@ -3,9 +3,11 @@
     "url_name": "arca_plasmor",
     "group": "primary",
     "riven_type": "shotgun",
-    "icon": "icons/en/arca_plasmor.d992b822673f559b9b678ba1a7343002.png",
-    "thumb": "icons/en/thumbs/arca_plasmor.d992b822673f559b9b678ba1a7343002.128x128.png",
+    "icon": "items/images/en/arca_plasmor.d992b822673f559b9b678ba1a7343002.png",
+    "thumb": "items/images/en/thumbs/arca_plasmor.d992b822673f559b9b678ba1a7343002.128x128.png",
     "icon_format": "land",
+    "disposition": 0.95,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CrpShotgun/CrpShotgun"
     },

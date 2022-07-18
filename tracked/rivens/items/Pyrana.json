@@ -3,9 +3,11 @@
     "url_name": "pyrana",
     "group": "secondary",
     "riven_type": "shotgun",
-    "icon": "icons/en/pyrana.76c730b1909750965e34b2ca2e12da81.png",
-    "thumb": "icons/en/thumbs/pyrana.76c730b1909750965e34b2ca2e12da81.128x128.png",
+    "icon": "items/images/en/pyrana.76c730b1909750965e34b2ca2e12da81.png",
+    "thumb": "items/images/en/thumbs/pyrana.76c730b1909750965e34b2ca2e12da81.128x128.png",
     "icon_format": "land",
+    "disposition": 0.95,
+    "mastery_level": 12,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun"
     },

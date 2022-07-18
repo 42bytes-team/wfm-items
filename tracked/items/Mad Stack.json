@@ -2,12 +2,11 @@
     "_id": "5c1bda0c14a8e4006b1dad6a",
     "tags": [
         "mod",
-        "k-drive",
-        "---",
-        "uncommon"
+        "uncommon",
+        "k_drive"
     ],
-    "icon": "icons/en/Mad_Stack.b5f5eda7bc2ea84c6ac061e8e75a9d33.png",
-    "thumb": "icons/en/thumbs/Mad_Stack.b5f5eda7bc2ea84c6ac061e8e75a9d33.128x128.png",
+    "icon": "items/images/en/mad_stack.b5f5eda7bc2ea84c6ac061e8e75a9d33.png",
+    "thumb": "items/images/en/thumbs/mad_stack.b5f5eda7bc2ea84c6ac061e8e75a9d33.128x128.png",
     "icon_format": "port",
     "url_name": "mad_stack",
     "tradable": true,
@@ -17,70 +16,59 @@
     "en": {
         "item_name": "Mad Stack",
         "description": "+120% Velocity when falling",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mad_Stack",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mad_Stack"
     },
     "ru": {
         "item_name": "Комплект Безумца",
         "description": "+120% к скорости при падении",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82_%D0%91%D0%B5%D0%B7%D1%83%D0%BC%D1%86%D0%B0",
-        "icon": "icons/ru/Mad_Stack.4833d034d689d547c8650cbac4bbfc47.png",
-        "thumb": "icons/ru/thumbs/Mad_Stack.4833d034d689d547c8650cbac4bbfc47.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/mad_stack.4833d034d689d547c8650cbac4bbfc47.png",
+        "thumb": "items/images/ru/thumbs/mad_stack.4833d034d689d547c8650cbac4bbfc47.128x128.png"
     },
     "ko": {
         "item_name": "매드 스택",
         "description": "낙하 도중 +120% 속도 증가",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mad_Stack",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mad_Stack"
     },
     "de": {
         "item_name": "Irrer Haufen",
         "description": "+120 % Geschwindigkeit beim Fallen",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Irrer_Haufen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Irrer_Haufen"
     },
     "fr": {
         "item_name": "Stack De Malade",
         "description": "+120% de Vélocité en Chute",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stack_de_Malade",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stack_de_Malade"
     },
     "pt": {
         "item_name": "Mad Stack",
         "description": "+120% de Velocidade Durante Queda Livre",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mad_Stack",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mad_Stack"
     },
     "zh-hans": {
         "item_name": "狂堆速",
         "description": "+120% 坠落时速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mad_Stack",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mad_Stack"
     },
     "zh-hant": {
         "item_name": "瘋狂堆疊",
         "description": "+120% 墜落時速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mad_Stack",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mad_Stack"
     },
     "es": {
         "item_name": "Pila Loca",
         "description": "+120 % velocidad al descender",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pila_loca",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pila_loca"
     },
     "it": {
         "item_name": "Mad Stack",
         "description": "+120% Velocità di caduta",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Mod_Pack",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Mod_Pack"
     },
     "pl": {
         "item_name": "Szalony Stos",
         "description": "+120% Prędkości podczas lądowania",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szalony_Stos",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szalony_Stos"
     },
     "rarity": "uncommon",
     "max_rank": 5,

@@ -4,8 +4,8 @@
         "legendary",
         "arcane_enhancement"
     ],
-    "icon": "icons/en/Arcane_Barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.png",
-    "thumb": "icons/en/thumbs/Arcane_Barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.128x128.png",
+    "icon": "items/images/en/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.png",
+    "thumb": "items/images/en/thumbs/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_barrier",
     "tradable": true,
@@ -14,69 +14,58 @@
     },
     "en": {
         "item_name": "Arcane Barrier",
-        "description": "On Shield Damaged:\n6% chance to instantly restore all Shields\n6s cooldown\n+1 Arcane Revive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Barrier",
-        "drop": []
+        "description": "On Shield Damaged:\n6% chance to instantly restore all Shields\n6s cooldown\n+1 Arcane Revive\n+1 Arcane Revive",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Barrier"
     },
     "ru": {
         "item_name": "Мистический Барьер",
-        "description": "При получении щитом урона:\n6% шанса мгновенно восстановить все щиты\nВосстановление: 6с\n+1 Мистическое Воскрешение",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%B0%D1%80%D1%8C%D0%B5%D1%80",
-        "drop": []
+        "description": "При получении щитом урона:\n6% шанса мгновенно восстановить все щиты\nВосстановление: 6с\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%B0%D1%80%D1%8C%D0%B5%D1%80"
     },
     "ko": {
         "item_name": "아케인 배리어",
-        "description": "실드에 피해를 입을 시:\n6% 확률로 전체 실드 즉시 회복\n재사용 대기 시간: 6초\n+1 아케인 부활",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Barrier",
-        "drop": []
+        "description": "실드에 피해를 입을 시:\n6% 확률로 전체 실드 즉시 회복\n재사용 대기 시간: 6초\n+1 아케인 부활\n+1 아케인 부활",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Barrier"
     },
     "de": {
         "item_name": "Arkana: Barriere",
-        "description": "Bei Schaden am Schild:\n6 % Chance, umgehend alle Schilde wiederherzustellen\nAbklingzeit: 6 s\n+1 Arkana Wiederbelebung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana_Barriere",
-        "drop": []
+        "description": "Bei Schaden am Schild:\n6 % Chance, umgehend alle Schilde wiederherzustellen\nAbklingzeit: 6 s\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana_Barriere"
     },
     "fr": {
         "item_name": "Arcane Barrière",
-        "description": "Sur Bouclier Endommagé:\n6% de chance de restaurer instantanément tous les Boucliers\nTemps de recharge: 6s\n+1 Réanimation Arcane",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Barri%C3%A8re",
-        "drop": []
+        "description": "Sur Bouclier Endommagé:\n6% de chances de restaurer instantanément tous les Boucliers\nTemps de recharge: 6s\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Barri%C3%A8re"
     },
     "pt": {
         "item_name": "Arcano: Barreira",
-        "description": "Ao Receber Dano nos Escudos:\n6% de chance de restaurar todos os Escudos instantaneamente\nTempo de Recarga: 6s\n+1 Reanimação Arcana",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Barrier",
-        "drop": []
+        "description": "Ao Receber Dano nos Escudos:\n6% de chance de restaurar todos os Escudos instantaneamente\nTempo de Recarga: 6s\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Barrier"
     },
     "zh-hans": {
         "item_name": "壁垒 赋能",
-        "description": "当护盾受到伤害时：\n6% 几率立刻恢复所有护盾\n冷却时间 6 秒\n赋能复活次数 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Barrier",
-        "drop": []
+        "description": "当护盾受到伤害时：\n6% 几率立刻恢复所有护盾\n冷却时间 6 秒\n赋能复活次数 +1\n赋能复活次数 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Barrier"
     },
     "zh-hant": {
         "item_name": "壁壘賦能",
-        "description": "當護盾承受傷害時：\n6% 機率立刻恢復所有護盾\n冷卻時間：6 秒\n賦能復活次數 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Barrier",
-        "drop": []
+        "description": "當護盾承受傷害時：\n6% 機率立刻恢復所有護盾\n冷卻時間：6 秒\n賦能復活次數 +1\n賦能復活次數 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Barrier"
     },
     "es": {
         "item_name": "Barrera Arcana",
-        "description": "En escudos dañados:\n6 % de probabilidad de restaurar todos los escudos instantáneamente\nTiempo de espera: 6 s\n+1 Revivir Arcano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Barrera_arcana",
-        "drop": []
+        "description": "En escudos dañados:\n6 % de probabilidad de restaurar todos los escudos instantáneamente\nTiempo de espera: 6 s\n+1 Revivir Arcano\n+1 Revivir Arcano",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Barrera_arcana"
     },
     "it": {
         "item_name": "Arcane Barrier",
-        "description": "Dopo aver subito Danni agli Scudi:\n6% probabilità di ricaricare istantaneamente tutti gli Scudi\nTempo di Ricarica: 6s\n+1 Rianimazione Arcane",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Laser_Barrier",
-        "drop": []
+        "description": "Dopo aver subito Danni agli Scudi:\n6% probabilità di ricaricare istantaneamente tutti gli Scudi\nTempo di Ricarica: 6s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Laser_Barrier"
     },
     "pl": {
         "item_name": "Arkanum Bariery",
-        "description": "Przy Uszkodzeniu Tarczy:\n6% szans na natychmiastową regenerację Tarcz\nCzas odnowienia: 6s\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Bariery",
-        "drop": []
+        "description": "Przy Uszkodzeniu Tarczy:\n6% szans na natychmiastową regenerację Tarcz\nCzas odnowienia: 6s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Bariery"
     },
     "rarity": "legendary",
     "max_rank": 5,

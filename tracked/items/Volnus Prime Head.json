@@ -1,13 +1,12 @@
 {
     "_id": "60ad4a1bf1904300d012c6fa",
     "tags": [
+        "component",
         "weapon",
-        "prime",
-        "melee",
-        "component"
+        "prime"
     ],
-    "icon": "icons/en/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
-    "thumb": "icons/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+    "icon": "items/images/en/volnus_prime_head.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+    "thumb": "items/images/en/thumbs/volnus_prime_head.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_head_128x128.png",
     "url_name": "volnus_prime_head",
@@ -26,255 +25,57 @@
     "en": {
         "item_name": "Volnus Prime Head",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi C7 Relic (Uncommon)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "Axi I1 Relic (Uncommon)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "Meso B5 Relic (Uncommon)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Lith Z3 Relic (Uncommon)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Вольнус Прайм: Молот",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Реликвия Акси C7 (Необычный)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "Реликвия Акси I1 (Необычный)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "Реликвия Мезо B5 (Необычный)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Реликвия Лит Z3 (Необычный)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ko": {
         "item_name": "볼누스 프라임 헤드",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "액시 C7 성유물 (언커먼)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "액시 I1 성유물 (언커먼)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "메소 B5 성유물 (언커먼)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "리스 Z3 성유물 (언커먼)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "de": {
         "item_name": "Volnus Prime: Kopf",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi-relikt: C7 (Ungewöhnlich)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "Axi-relikt: I1 (Ungewöhnlich)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "Meso-relikt: B5 (Ungewöhnlich)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Lith-relikt: Z3 (Ungewöhnlich)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Volnus Prime - Tête",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relique Axi C7 (Inhabituel)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "Relique Axi I1 (Inhabituel)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "Relique Meso B5 (Inhabituel)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Relique Lith Z3 (Inhabituel)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Volnus Prime: Extremidade",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relíquia Axi C7 (Incomum)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "Relíquia Axi I1 (Incomum)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "Relíquia Meso B5 (Incomum)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Relíquia Lith Z3 (Incomum)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "创伤 Prime 锤头",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "后纪 C7 遗物 (罕见)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "后纪 I1 遗物 (罕见)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "前纪 B5 遗物 (罕见)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "古纪 Z3 遗物 (罕见)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "創傷 Prime 鎚頭",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "後紀 C7 遺物 (罕見)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "後紀 I1 遺物 (罕見)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "前紀 B5 遺物 (罕見)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "古紀 Z3 遺物 (罕見)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "es": {
         "item_name": "Cabeza De Volnus Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi C7 (Poco Común)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "Reliquia Axi I1 (Poco Común)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "Reliquia Meso B5 (Poco Común)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Reliquia Lith Z3 (Poco Común)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "it": {
         "item_name": "Volnus Prime - Testa",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi C7 (Uncommon)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "Reliquia Axi I1 (Uncommon)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "Reliquia Meso B5 (Uncommon)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Reliquia Lith Z3 (Uncommon)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Volnus Prime: Obuch",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relikt Axi C7 (Nieprzeciętny)",
-                "link": "axi_c7_relic"
-            },
-            {
-                "name": "Relikt Axi I1 (Nieprzeciętny)",
-                "link": "axi_i1_relic"
-            },
-            {
-                "name": "Relikt Meso B5 (Nieprzeciętny)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Relikt Lith Z3 (Nieprzeciętny)",
-                "link": "lith_z3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "mastery_level": 14,
     "ducats": 45,

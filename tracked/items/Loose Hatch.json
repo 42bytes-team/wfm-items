@@ -2,12 +2,13 @@
     "_id": "567af35fcbfa8f05d076a519",
     "tags": [
         "common",
-        "mod",
+        "primary",
         "pvp",
-        "primary"
+        "mod",
+        "assault_rifle"
     ],
-    "icon": "icons/en/Loose_Hatch.f05f812b3c159e455963f9857e4db68d.png",
-    "thumb": "icons/en/thumbs/Loose_Hatch.f05f812b3c159e455963f9857e4db68d.128x128.png",
+    "icon": "items/images/en/loose_hatch.f05f812b3c159e455963f9857e4db68d.png",
+    "thumb": "items/images/en/thumbs/loose_hatch.f05f812b3c159e455963f9857e4db68d.128x128.png",
     "icon_format": "port",
     "url_name": "loose_hatch",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Loose Hatch",
         "description": "+30% Reload Speed\n+50% Weapon Recoil",
-        "wiki_link": "https://warframe.fandom.com/wiki/Loose_Hatch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Loose_Hatch"
     },
     "ru": {
         "item_name": "Скользящий Затвор",
         "description": "+30% к скорости перезарядки\n+50% к отдаче",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%B7%D0%B0%D1%82%D0%B2%D0%BE%D1%80",
-        "icon": "icons/ru/Loose_Hatch.e9079d9d748084d95cc115a9f83b5634.png",
-        "thumb": "icons/ru/thumbs/Loose_Hatch.e9079d9d748084d95cc115a9f83b5634.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/loose_hatch.e9079d9d748084d95cc115a9f83b5634.png",
+        "thumb": "items/images/ru/thumbs/loose_hatch.e9079d9d748084d95cc115a9f83b5634.128x128.png"
     },
     "ko": {
         "item_name": "루즈 해치",
         "description": "+30% 재장전 속도\n+50% 반동",
-        "wiki_link": "https://warframe.fandom.com/wiki/Loose_Hatch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Loose_Hatch"
     },
     "de": {
         "item_name": "Lockerer Verschluss",
         "description": "+30 % Nachladegeschwindigkeit\n+50 % Waffenrückstoss",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Lockerer_Verschluss",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Lockerer_Verschluss"
     },
     "fr": {
         "item_name": "Culasse Bricolée",
         "description": "+30% de Vitesse de Recharge\n+50% de Recul de l'Arme",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chambre_Bricol%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chambre_Bricol%C3%A9e"
     },
     "pt": {
         "item_name": "Loose Hatch",
         "description": "+30% de Velocidade de Recarga\n+50% de Recuo da Arma",
-        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Hatch",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Hatch"
     },
     "zh-hans": {
         "item_name": "松弛枪盖",
         "description": "+30% 装填速度\n+50% 武器后坐力",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loose_Hatch",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loose_Hatch"
     },
     "zh-hant": {
         "item_name": "鬆弛槍蓋",
         "description": "+30% 裝填速度\n+50% 武器後座力",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loose_Hatch",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loose_Hatch"
     },
     "es": {
         "item_name": "Escotilla Suelta",
         "description": "+30% de velocidad de recarga\n+50% retroceso",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Escotilla_suelta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Escotilla_suelta"
     },
     "it": {
         "item_name": "Loose Hatch",
         "description": "+30% Velocità di ricarica\n+50% Rinculo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Hatch",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Hatch"
     },
     "pl": {
         "item_name": "Luźna Pokrywa",
         "description": "+30% Prędkości Przeładowania\n+50% Odrzut Broni",
-        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Hatch",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Hatch"
     },
     "rarity": "common",
     "max_rank": 5,

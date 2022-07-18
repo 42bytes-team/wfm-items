@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e515613",
     "tags": [
         "mod",
+        "uncommon",
         "stance",
-        "uncommon"
+        "daggers"
     ],
-    "icon": "icons/en/Homing_Fang.4a024ae5692abd0ef304003c58a31ef7.png",
-    "thumb": "icons/en/thumbs/Homing_Fang.4a024ae5692abd0ef304003c58a31ef7.128x128.png",
+    "icon": "items/images/en/homing_fang.4a024ae5692abd0ef304003c58a31ef7.png",
+    "thumb": "items/images/en/thumbs/homing_fang.4a024ae5692abd0ef304003c58a31ef7.128x128.png",
     "icon_format": "port",
     "url_name": "homing_fang",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Homing Fang",
         "description": "Fast strikes, many hits.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Homing_Fang",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Homing_Fang"
     },
     "ru": {
         "item_name": "Находящий Клык",
         "description": "Быстрые удары, множество ранений.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D0%B9_%D0%9A%D0%BB%D1%8B%D0%BA",
-        "icon": "icons/ru/Homing_Fang.cfaaccdd41d5af01feb7dbff778ddc1d.png",
-        "thumb": "icons/ru/thumbs/Homing_Fang.cfaaccdd41d5af01feb7dbff778ddc1d.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/homing_fang.cfaaccdd41d5af01feb7dbff778ddc1d.png",
+        "thumb": "items/images/ru/thumbs/homing_fang.cfaaccdd41d5af01feb7dbff778ddc1d.128x128.png"
     },
     "ko": {
         "item_name": "호밍 팽",
         "description": "빠르게, 여러번 공격하는 연속기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Homing_Fang",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Homing_Fang"
     },
     "de": {
         "item_name": "Gezielter Reißzahn",
         "description": "Schnelle Schläge, viele Treffer.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gezielter_Rei%C3%9Fzahn",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gezielter_Rei%C3%9Fzahn"
     },
     "fr": {
         "item_name": "Crocs Autoguidés",
         "description": "Frappes rapides, plusieurs coups.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Crocs_Autoguid%C3%A9s",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Crocs_Autoguid%C3%A9s"
     },
     "pt": {
         "item_name": "Homing Fang",
         "description": "Ataques rápidos, muitos golpes.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Homing_Fang",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Homing_Fang"
     },
     "zh-hans": {
         "item_name": "连牙追袭",
         "description": "命中多次的快速打击。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Homing_Fang",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Homing_Fang"
     },
     "zh-hant": {
         "item_name": "連牙追襲",
         "description": "命中多次的快速打擊。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Homing_Fang",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Homing_Fang"
     },
     "es": {
         "item_name": "Colmillo Preciso",
         "description": "Ataques rápidos, múltiples impactos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Colmillo_preciso",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Colmillo_preciso"
     },
     "it": {
         "item_name": "Homing Fang",
         "description": "Attacchi veloci e molteplici.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Homing_Fang",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Homing_Fang"
     },
     "pl": {
         "item_name": "Naprowadzany Kieł",
         "description": "Szybkie uderzenia, wiele trafień.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Naprowadzany_Kie%C5%82",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Naprowadzany_Kie%C5%82"
     },
     "rarity": "uncommon",
     "max_rank": 3,

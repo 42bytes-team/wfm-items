@@ -3,9 +3,11 @@
     "url_name": "vulklok",
     "group": "sentinel",
     "riven_type": "rifle",
-    "icon": "icons/en/vulklok.afb2dead96611511849d92327fc00996.png",
-    "thumb": "icons/en/thumbs/vulklok.afb2dead96611511849d92327fc00996.128x128.png",
+    "icon": "items/images/en/vulklok.afb2dead96611511849d92327fc00996.png",
+    "thumb": "items/images/en/thumbs/vulklok.afb2dead96611511849d92327fc00996.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun"
     },

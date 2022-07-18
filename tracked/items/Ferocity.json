@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e5155a9",
     "tags": [
         "mod",
+        "rare",
         "kubrow",
-        "rare"
+        "sahasa_kubrow"
     ],
-    "icon": "icons/en/Ferocity.e496448d2a03f2483e844e84edf17d3a.png",
-    "thumb": "icons/en/thumbs/Ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png",
+    "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
+    "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png",
     "icon_format": "port",
     "url_name": "ferocity",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Ferocity",
         "description": "Allows the Kubrow to use Finisher attacks on an enemy. +120% Finisher Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ferocity",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ferocity"
     },
     "ru": {
         "item_name": "Свирепость",
-        "description": "Позволяет Кубрау использовать добивающие приемы на врагах. +120% урона при добивании",
+        "description": "Позволяет кубрау использовать добивающие приемы на врагах. +120% урона при добивании",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B2%D0%B8%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Ferocity.3029361db9c137c94deffa5750c3f5ba.png",
-        "thumb": "icons/ru/thumbs/Ferocity.3029361db9c137c94deffa5750c3f5ba.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/ferocity.3029361db9c137c94deffa5750c3f5ba.png",
+        "thumb": "items/images/ru/thumbs/ferocity.3029361db9c137c94deffa5750c3f5ba.128x128.png"
     },
     "ko": {
         "item_name": "페로시티",
         "description": "쿠브로가 적에게 마무리 일격을 가할 수 있게 됩니다. +120% 마무리 일격 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ferocity",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ferocity"
     },
     "de": {
         "item_name": "Bösartigkeit",
         "description": "Erlaubt es dem Kubrow, Todesstöße gegen Gegner auszuführen. +120 % Todesstoß-Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/B%C3%B6sartigkeit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/B%C3%B6sartigkeit"
     },
     "fr": {
         "item_name": "Férocité",
         "description": "Autorise le Kubrow à utiliser un Coup de Grâce sur un ennemi +120% de Dégâts de Coup de Grâce",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/F%C3%A9rocit%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/F%C3%A9rocit%C3%A9"
     },
     "pt": {
         "item_name": "Ferocity",
         "description": "Permite que o Kubrow realize finalizações em um inimigo. +120% de Dano da Finalização",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ferocity",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ferocity"
     },
     "zh-hans": {
         "item_name": "凶恶终结",
         "description": "让库狛能对敌人使出处决攻击。 +120% 处决伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ferocity",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ferocity"
     },
     "zh-hant": {
         "item_name": "兇惡終結",
         "description": "讓庫狛能對敵人使出終結攻擊。 +120% 處決傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ferocity",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ferocity"
     },
     "es": {
         "item_name": "Ferocidad",
         "description": "Permite al kubrow usar ataques de remate en un enemigo. +120% de daño al rematar",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ferocidad",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ferocidad"
     },
     "it": {
         "item_name": "Ferocity",
         "description": "Permette al Kubrow di effettuare Esecuzioni sui nemici. +120% Danno Esecuzione",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ferocity",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Ferocity"
     },
     "pl": {
         "item_name": "Zajadłość",
         "description": "Pozwala Kubrowowi na wykonywanie ataków kończących na ofierze. +120% Obrażenia Dobicia",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ferocity",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Ferocity"
     },
     "rarity": "rare",
     "max_rank": 5,

@@ -4,8 +4,8 @@
         "rare",
         "arcane_enhancement"
     ],
-    "icon": "icons/en/emergence_dissipate.7ae85a8e386768ed29e03996453285e2.png",
-    "thumb": "icons/en/thumbs/emergence_dissipate.7ae85a8e386768ed29e03996453285e2.128x128.png",
+    "icon": "items/images/en/emergence_dissipate.7ae85a8e386768ed29e03996453285e2.png",
+    "thumb": "items/images/en/thumbs/emergence_dissipate.7ae85a8e386768ed29e03996453285e2.128x128.png",
     "icon_format": "land",
     "url_name": "emergence_dissipate",
     "tradable": true,
@@ -14,69 +14,58 @@
     },
     "en": {
         "item_name": "Emergence Dissipate",
-        "description": "WHILE IN VOID SLING: Press <PRE_ATTACK> to dissipate the endpoint in a 10m radius. Enemies hit have a 100% chance to create a short lived Void Mote that replenishes 10 Energy on pick up.",
-        "wiki_link": null,
-        "drop": []
+        "description": "WHILE IN VOID SLING: Press <PRE_ATTACK> to dissipate the endpoint in a 10m radius. Enemies hit create a short lived Void Mote that replenishes 10 Energy on pick up.",
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Чрезвычайное Рассеяние",
-        "description": "В БРОСКЕ БЕЗДНЫ: нажмите <PRE_ATTACK>, чтобы рассеять конечную точку на расстояние в 10 м. Попадание врагов дает 100% вероятности создания кратковременных частиц Бездны, которые восстанавливают 10 энергии, если их подобрать.",
-        "wiki_link": null,
-        "drop": []
+        "description": "В БРОСКЕ БЕЗДНЫ: нажмите <PRE_ATTACK>, чтобы рассеять конечную точку на расстояние в 10 м. Попадание врагов вызывает появление кратковременных частиц Бездны, которые восстанавливают 10 энергии, если их подобрать.",
+        "wiki_link": null
     },
     "ko": {
         "item_name": "이머전스 디시페이트",
-        "description": "보이드 슬링 사용 시: <PRE_ATTACK>를 눌러 10m 범위 내의 종착점을 취소하고 그 자리에 착지합니다. 슬링에 타격당한 적은 100% 확률로 짧은 시간동안 지속되는 보이드 모트를 생성하며 이를 획득 시 10의 에너지를 회복합니다.",
-        "wiki_link": null,
-        "drop": []
+        "description": "보이드 슬링 사용 시: <PRE_ATTACK>를 눌러 10m 범위 내의 종착점을 취소하고 그 자리에 착지합니다. 슬링에 타격당한 적은 짧은 시간동안 지속되는 보이드 모트를 생성하며 이를 획득 시 10의 에너지를 회복합니다.",
+        "wiki_link": null
     },
     "de": {
         "item_name": "Emergenz: Zerstreuung",
-        "description": "WÄHREND VOID-SCHLEUDER: Drücke <PRE_ATTACK>, um den Endpunkt in einem Radius von 10 m aufzulösen. Getroffene Feinde haben eine 100 % Chance einen kurzlebigen Void-Partikel zu erschaffen, der bei Aufheben 10 Energie wiederherstellt.",
-        "wiki_link": null,
-        "drop": []
+        "description": "WÄHREND VOID-SCHLEUDER: Drücke <PRE_ATTACK>, um den Endpunkt in einem Radius von 10 m aufzulösen. Getroffene Feinde erschaffen einen kurzlebigen Void-Partikel, der bei Aufheben 10 Energie wiederherstellt.",
+        "wiki_link": null
     },
     "fr": {
-        "item_name": "Dissipation Émergence",
-        "description": "PENDANT CATAPULTE DU NÉANT: Appuyez sur <PRE_ATTACK> pour dissiper le point d'arrivée dans un rayon de 10m. Les ennemis touchés ont 100% de chances de créer une Particule du Néant qui régénère 10 points d'Énergie.",
-        "wiki_link": null,
-        "drop": []
+        "item_name": "Dissipation D'émergence",
+        "description": "PENDANT CATAPULTE DU NÉANT: Appuyez sur <PRE_ATTACK> pour dissiper le point d'arrivée dans un rayon de 10m. Les ennemis touchés créent une Particule du Néant qui régénère 10 points d'Énergie.",
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Emersão: Dissipação",
-        "description": "DURANTE A VOID SLING: pressione <PRE_ATTACK> para dissipar o ponto final em um raio de 10m. Inimigos atingidos terão 100% de chance de criar uma Partícula do Void de baixa duração, que reabastecerá 10 de Energia.",
-        "wiki_link": null,
-        "drop": []
+        "description": "DURANTE A VOID SLING: pressione <PRE_ATTACK> para dissipar o ponto final em um raio de 10m. Inimigos atingidos criarão uma Partícula do Void de baixa duração, que reabastecerá 10 de Energia.",
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "始现 消散",
-        "description": "虚空弹射时：按下 <PRE_ATTACK> 来以端点 10 米范围内散开。被击中的敌人有 100% 的几率生成一个短暂的虚空微尘，拾取时可恢复 10 能量。",
-        "wiki_link": null,
-        "drop": []
+        "description": "虚空弹射时：按下 <PRE_ATTACK> 来以端点 10 米范围内散开。被击中的敌人会生成一个短暂的虚空微尘，拾取时可恢复 10 能量。",
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "蛻現 消散",
-        "description": "虛空彈射時：按下 <PRE_ATTACK> 來在端點以範圍 10 公尺散開。擊中的敵人有 100% 機率製造一個短暫的虛空微塵，拾取時補充 10 能量。",
-        "wiki_link": null,
-        "drop": []
+        "description": "虛空彈射時：按下 <PRE_ATTACK> 來在彈射的終點以半徑 10 公尺散開。被擊中的敵人會製造一個短暫的虛空微塵，拾取時補充 10 點能量。",
+        "wiki_link": null
     },
     "es": {
         "item_name": "Disipación De Emergencia",
-        "description": "DURANTE LA HONDA DEL VACÍO: Presiona <PRE_ATTACK> para disipar el punto final en un radio de 10 m. Los enemigos golpeados tienen un 100 % de probabilidad de crear una Partícula del Vacío de corta duración que repone 10 de energía al recogerla.",
-        "wiki_link": null,
-        "drop": []
+        "description": "DURANTE LA HONDA DEL VACÍO: Presiona <PRE_ATTACK> para disipar el punto final en un radio de 10 m. Los enemigos golpeados crean una Partícula del Vacío de corta duración que repone 10 de energía al recogerla.",
+        "wiki_link": null
     },
     "it": {
         "item_name": "Emergence Dissipate",
-        "description": "DURANTE VOID SLING: Premi <PRE_ATTACK> per dissipare il punto finale in un raggio di 10m. I nemici colpiti hanno il 100% di probabilità di creare un Void Mote di breve durata che reintegra 10 Energia alla raccolta.",
-        "wiki_link": null,
-        "drop": []
+        "description": "DURANTE VOID SLING: Premi <PRE_ATTACK> per dissipare il punto finale in un raggio di 10m. I nemici colpiti creano un Void Mote di breve durata che reintegra 10 Energia alla raccolta.",
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Emergencja Ładunku",
-        "description": "W CZASIE PROJEKCJI PUSTKI: Naciśnij <PRE_ATTACK> aby rozproszyć ją w promieniu 10m. Trafieni wrogowie mają 100% szansy na stworzenie Pyłu Pustki, który uzupełni 10 Energii.",
-        "wiki_link": null,
-        "drop": []
+        "description": "W CZASIE PROJEKCJI PUSTKI: Naciśnij <PRE_ATTACK> aby rozproszyć ją w promieniu 10m. Trafieni wrogowie tworzą Pył Pustki, który uzupełni 10 Energii.",
+        "wiki_link": null
     },
     "rarity": "rare",
     "max_rank": 5,

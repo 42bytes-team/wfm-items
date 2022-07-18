@@ -1,13 +1,12 @@
 {
     "_id": "5fe0ea836db57b0225115018",
     "tags": [
+        "primary",
         "weapon",
-        "shotgun",
-        "set",
-        "primary"
+        "set"
     ],
-    "icon": "icons/en/cedo_set.beb0319f93c38fe11119204a3ed47614.png",
-    "thumb": "icons/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png",
+    "icon": "items/images/en/cedo_set.beb0319f93c38fe11119204a3ed47614.png",
+    "thumb": "items/images/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png",
     "icon_format": "land",
     "url_name": "cedo_set",
     "tradable": true,
@@ -26,68 +25,57 @@
     "en": {
         "item_name": "Cedo Set",
         "description": "Launch a glaive that ricochets off surfaces in bursts of elemental damage, then perforate enemies with primary fire’s precision buck-shot. Damage increases with each Status Effect afflicting a target. Lavos will transmute a small portion of any ammo pickup to Shotgun Ammo when wielding his signature Cedo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo"
     },
     "ru": {
         "item_name": "Седо: Комплект",
         "description": "Запустите глефу, которая будет отскакивать рикошетом от поверхностей, создавая взрывы и нанося элементальный урон, а затем пробейте врага насквозь высокоточным выстрелом в основном режиме огня. Урон увеличивается с наложением на цель каждого Эффекта Статуса. Лавос превратит небольшую часть любых подбираемых боеприпасов в боеприпасы для дробовика, если использует своё особое оружие - Седо.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B4%D0%BE",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B4%D0%BE"
     },
     "ko": {
         "item_name": "세도 세트",
         "description": "표면에 튕겨지며 폭발적인 속성 피해를 가하는 글레이브를 발사한 후 기본 발사의 정밀한 산탄으로 적들을 벌집으로 만들 수 있습니다. 목표에 영향을 미치는 각 상태 이상 효과 당 피해량이 증가합니다. 라보스가 자신의 특징 무기, 세도를 사용할 시 획득하는 탄약의 일부가 산탄총 탄약으로 변환됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo"
     },
     "de": {
         "item_name": "Cedo: Set",
         "description": "Feuere eine Glaive, die mit Salven elementaren Schadens von Oberflächen abprallt und dann Feinde mit präzisem Primärfeuer Schrot trifft. Der Schaden erhöht sich mit jedem Statuseffekt auf einem Feind. Lavos wandelt eine kleine Portion jeder Munitions-Beute in Schrotmunition um, wenn er seine Cedo im Anschlag hat.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo"
     },
     "fr": {
         "item_name": "Cedo - Set",
         "description": "Lancez un glaive qui ricoche sur les surfaces, infligeant des rafales de Dégâts élémentaires, puis perforez les ennemis avec le Tir Principal précis. Les Dégâts augmentent avec chaque Effet de Statut affectant une cible. Lavos convertit une petite partie de tout ramassage de munitions en munitions de Fusil à pompe lorsqu'il est équipé de son Cedo emblématique.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cedo"
     },
     "pt": {
         "item_name": "Cedo: Conjunto",
         "description": "Dispare uma Glaive que ricocheteia nas superfícies, gerando descargas de Dano Elemental. Em seguida, utilize o projétil de precisão do disparo primário para perfurar os seus inimigos, o Dano é ampliado a cada Efeito de Status que afeta o alvo. Além disso, o Lavos transmuta uma pequena parte de qualquer coletável de munição, em munição de escopeta, ao empunhar a Cedo, a sua arma tradicional.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo"
     },
     "zh-hans": {
         "item_name": "塞多 一套",
         "description": "（英文：CEDO）发射能在表面弹跳并爆发出元素伤害的战刃，然后通过主要射击模式的精准鹿弹来击穿敌人。伤害会随着目标所受到的每个异常状态效果而增加。当 Lavos 持有他标志性的塞多时，他会将一小部分拾取到的任意弹药转化为霰弹枪弹药。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cedo"
     },
     "zh-hant": {
         "item_name": "席多 一套",
         "description": "（英文：CEDO）發射彈跳於表面而且能夠爆發元素傷害的刀片，接著用主要射擊模式精確的鹿彈貫穿敵人。被攻擊的目標每多遭受一種異常狀態都會提升傷害量。當 Lavos 手持他的標誌霰彈槍席多時，任何撿起的彈藥都會轉換為一部份的霰彈槍彈藥。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cedo"
     },
     "es": {
         "item_name": "Set de Cedo",
         "description": "Lanza una glaive que rebota en las superficies como ráfagas de daño elemental, luego perfora a los enemigos con el disparo de precisión del disparo primario. El daño aumenta con cada efecto de estado que afecta a un objetivo. Lavos transmutará una pequeña parte de cualquier hallazgo de munición en munición de escopeta cuando empuñe su Cedo distintiva.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo"
     },
     "it": {
         "item_name": "Cedo Set",
         "description": "Lancia un glaive che rimbalza sulle superfici, infliggendo raffiche di danni elementali, quindi perfora i nemici con il colpo di precisione del fuoco primario. Ogni Effetto inflitto al nemico ne aumenta il danno. Quando Lavos imbraccia il Cedo, la sua arma distintiva, convertirà una piccola parte di qualsiasi tipo di munizione in Munizioni Fucile a Pompa.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo"
     },
     "pl": {
         "item_name": "Cedo: Zestaw",
         "description": "Wystrzel glaive, który odbija się od powierzchni w postaci salw obrażeń od żywiołów, następnie przeszyj wrogów precyzyjnym strzałem ognia podstawowego. Obrażenia są zwiększane za każdy nałożony Efekt Statusowy na cel. Niewielka część podnoszonej amunicji będzie zamieniana na Amunicję do Strzelby, gdy Cedo jest trzymane przez Lavosa.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cedo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cedo"
     },
     "mastery_level": 8,
     "trading_tax": 8000

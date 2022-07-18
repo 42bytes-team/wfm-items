@@ -1,13 +1,13 @@
 {
     "_id": "5615432bb66f8371035bfa22",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "saryn"
     ],
-    "icon": "icons/en/contagion_cloud.c422f41645623ac71fcd74668430bfa6.png",
-    "thumb": "icons/en/thumbs/contagion_cloud.c422f41645623ac71fcd74668430bfa6.128x128.png",
+    "icon": "items/images/en/contagion_cloud.c422f41645623ac71fcd74668430bfa6.png",
+    "thumb": "items/images/en/thumbs/contagion_cloud.c422f41645623ac71fcd74668430bfa6.128x128.png",
     "icon_format": "port",
     "url_name": "contagion_cloud",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Contagion Cloud",
         "description": "Toxic Lash Augment: Create 5m toxic clouds, dealing 300 Toxin Damage/s for 12s with every kill. Damage is twice as strong for Melee kills.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Contagion_Cloud",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Contagion_Cloud"
     },
     "ru": {
         "item_name": "Облако Заражения",
         "description": "Улучшение Токсичного Хлыста: создает токсичное облако радиусом 5м. и наносящее 300 урона токсином/с. на протяжении 12с за каждое убийство. Урон удваивается за убийства оружием ближнего боя.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE_%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F",
-        "icon": "icons/ru/contagion_cloud.797b0aa69e6870fd409d07a6770aa76f.png",
-        "thumb": "icons/ru/thumbs/contagion_cloud.797b0aa69e6870fd409d07a6770aa76f.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/contagion_cloud.797b0aa69e6870fd409d07a6770aa76f.png",
+        "thumb": "items/images/ru/thumbs/contagion_cloud.797b0aa69e6870fd409d07a6770aa76f.128x128.png"
     },
     "ko": {
         "item_name": "컨테이젼 클라우드",
         "description": "톡식 래쉬 개조: 적을 처치할 시 5m 내에 12초 동안 초당 300의 독성 피해를 가하는 독성 구름을 생성합니다. 근접 무기 처치 시 피해량이 두배로 늘어납니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Contagion_Cloud",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Contagion_Cloud"
     },
     "de": {
         "item_name": "Ansteckende Wolke",
         "description": "Toxischer Hieb Augment: Kreiere 5 m große toxische Wolken, die 300 Giftschaden/s für 12s mit jedem Kill verursachen. Schaden ist bei Nahkampf-Kills doppelt so hoch.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Ansteckende_Wolke",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ansteckende_Wolke"
     },
     "fr": {
         "item_name": "Brume De Contagion",
         "description": "Augmentation de Revers Toxique : Crée des nuages toxiques de 5m, infligeant 300 points de Dégâts de Poison/s pendant 12s avec chaque élimination. Les Dégâts sont deux fois plus importants pour les éliminations en Mêlée.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Brume_de_Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Brume_de_Contagion"
     },
     "pt": {
         "item_name": "Contagion Cloud",
         "description": "Ampliação Lash Toxic: Cria nuvens tóxicas de 5m, causando 300 de dano Tóxico/s por 12s com cada abate. O dano é duas vezes mais forte em mortes em Corpo a Corpo.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Contagion_Cloud",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Contagion_Cloud"
     },
     "zh-hans": {
         "item_name": "感染毒雾",
         "description": "剧毒鞭笞强化：每次击杀敌人都会产生一片范围 5 米的毒雾，每秒造成 300 毒素伤害，持续 12 秒。近战击杀将造成双倍的伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Contagion_Cloud",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Contagion_Cloud"
     },
     "zh-hant": {
         "item_name": "感染毒霧",
         "description": "劇毒鞭笞強化：每次擊殺敵人會產生一片範圍 5 公尺的毒霧，造成每秒 300 的毒素傷害，持續 12 秒。近戰擊殺將造成雙倍的傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Contagion_Cloud",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Contagion_Cloud"
     },
     "es": {
         "item_name": "Nube De Contagio",
         "description": "Aumento de Azote tóxico: crea nubes tóxicas de 5 m, infligiendo 300 de daño de toxina/s durante 12 s con cada asesinato. El daño se duplica con los asesinatos de cuerpo a cuerpo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Nube_de_contagio",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Nube_de_contagio"
     },
     "it": {
         "item_name": "Contagion Cloud",
         "description": "Potenziamento Toxic Lash: Crea delle nuvole tossiche di 5m, che infliggono 300 danno Tossina/s per 12s con ogni uccisione. Il danno inflitto è doppio uccidendo con le Armi Corpo a Corpo.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Contagion"
     },
     "pl": {
         "item_name": "Skażona Chmura",
         "description": "Modyfikacja Toksycznego Bicza: Po każdym zabójstwie tworzą się toksyczne obłoki o promieniu 5m, które zadają 300 obrażeń od Toksyn na sekundę przez 12s. Obrażenia będą podwojone przy zabijaniu bronią białą.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ska%C5%BCona_Chmura",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ska%C5%BCona_Chmura"
     },
     "rarity": "rare",
     "max_rank": 3,

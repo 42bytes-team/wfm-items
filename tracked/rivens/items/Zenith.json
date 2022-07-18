@@ -3,9 +3,11 @@
     "url_name": "zenith",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/zenith.031d3559d3575fa5f23d17f1fd2cacb9.png",
-    "thumb": "icons/en/thumbs/zenith.031d3559d3575fa5f23d17f1fd2cacb9.128x128.png",
+    "icon": "items/images/en/zenith.031d3559d3575fa5f23d17f1fd2cacb9.png",
+    "thumb": "items/images/en/thumbs/zenith.031d3559d3575fa5f23d17f1fd2cacb9.128x128.png",
     "icon_format": "land",
+    "disposition": 1.1,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/LoginPrimary/SundialRifle"
     },

@@ -3,9 +3,11 @@
     "url_name": "tonkor",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/tonkor.18f437094ffdd53edc96e46d72eb7b59.png",
-    "thumb": "icons/en/thumbs/tonkor.18f437094ffdd53edc96e46d72eb7b59.128x128.png",
+    "icon": "items/images/en/tonkor.18f437094ffdd53edc96e46d72eb7b59.png",
+    "thumb": "items/images/en/thumbs/tonkor.18f437094ffdd53edc96e46d72eb7b59.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 5,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/GrnGrenadeLauncher"
     },

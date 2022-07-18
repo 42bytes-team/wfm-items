@@ -5,8 +5,8 @@
         "melee",
         "rare"
     ],
-    "icon": "icons/en/Berserker.ab192773d6352d5bfddb8da40d59dee3.png",
-    "thumb": "icons/en/thumbs/Berserker.ab192773d6352d5bfddb8da40d59dee3.128x128.png",
+    "icon": "items/images/en/berserker_fury.ab192773d6352d5bfddb8da40d59dee3.png",
+    "thumb": "items/images/en/thumbs/berserker_fury.ab192773d6352d5bfddb8da40d59dee3.128x128.png",
     "icon_format": "port",
     "url_name": "berserker",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Berserker Fury",
         "description": "On Melee Kill:\n+35% Attack Speed for 10s. Stacks up to 2x.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Berserker",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Berserker"
     },
     "ru": {
         "item_name": "Ярость Берсерка",
         "description": "При убийстве в ближнем бою:\n+35% скорость атаки на 10с. Складывается до 2 раз.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B5%D1%80%D1%81%D0%B5%D1%80%D0%BA",
-        "icon": "icons/ru/Berserker.28d67e50acf910f0e2619fc68688797f.png",
-        "thumb": "icons/ru/thumbs/Berserker.28d67e50acf910f0e2619fc68688797f.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/berserker_fury.28d67e50acf910f0e2619fc68688797f.png",
+        "thumb": "items/images/ru/thumbs/berserker_fury.28d67e50acf910f0e2619fc68688797f.128x128.png"
     },
     "ko": {
         "item_name": "버서커 퓨리",
         "description": "근접 처치 시:\n10초 동안 +35% 공격 속도, 최대 2회 중첩",
-        "wiki_link": "https://warframe.fandom.com/wiki/Berserker",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Berserker"
     },
     "de": {
         "item_name": "Berserker Raserei",
         "description": "Bei Nahkampf-Kill:\n+35 % Angriffsgeschwindigkeit für 10 s. Bis zu 2x stapelbar.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Berserker",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Berserker"
     },
     "fr": {
         "item_name": "Furie Du Berserker",
         "description": "Sur Élimination en Mêlée:\n+35% de Vitesse d'Attaque pendant 10s. Cumulable jusqu'à 2x.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Berserk",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Berserk"
     },
     "pt": {
         "item_name": "Berserker Fury",
         "description": "Ao Matar no Corpo a corpo:\n+35% de Velocidade de Ataque durante 10s. Acumula até 2 vezes.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Berserker",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Berserker"
     },
     "zh-hans": {
         "item_name": "嗜血 狂暴",
         "description": "近战击杀时：\n+35% 攻击速度，持续 10 秒。最多叠加到 2x。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Berserker",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Berserker"
     },
     "zh-hant": {
         "item_name": "狂戰暴怒",
         "description": "近戰擊殺時：\n+35% 攻擊速度，持續 10 秒。最多可疊加 2 次。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Berserker",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Berserker"
     },
     "es": {
         "item_name": "Furia Berserker",
         "description": "Al asesinar con cuerpo a cuerpo:\n+35% de velocidad de ataque por 10 s. Se acumula hasta 2 veces.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Berserker",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Berserker"
     },
     "it": {
         "item_name": "Berserker Fury",
         "description": "Dopo un'Uccisione Corpo a Corpo:\n+35% Velocità Di Attacco per 10s. Si accumula fino a 2x.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Berserker",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Berserker"
     },
     "pl": {
         "item_name": "Furia Berserkera",
         "description": "Po zabójstwie Bronią Białą:\n+35% Prędkości Ataku przez 10s. Kumuluje się do 2 razy.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Berserker",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Berserker"
     },
     "rarity": "rare",
     "max_rank": 5,

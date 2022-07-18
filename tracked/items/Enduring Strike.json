@@ -5,8 +5,8 @@
         "melee",
         "common"
     ],
-    "icon": "icons/en/enduring_strike.93c48a0ddaea440dc1801facbec301a5.png",
-    "thumb": "icons/en/thumbs/enduring_strike.93c48a0ddaea440dc1801facbec301a5.128x128.png",
+    "icon": "items/images/en/enduring_strike.93c48a0ddaea440dc1801facbec301a5.png",
+    "thumb": "items/images/en/thumbs/enduring_strike.93c48a0ddaea440dc1801facbec301a5.128x128.png",
     "icon_format": "port",
     "url_name": "enduring_strike",
     "tradable": true,
@@ -16,71 +16,60 @@
     "en": {
         "item_name": "Enduring Strike",
         "description": "+20% Additional Combo Count Chance on Lifted enemies",
-        "wiki_link": "https://warframe.fandom.com/wiki/Enduring_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Enduring_Strike"
     },
     "ru": {
         "item_name": "Выносливый Удар",
         "description": "+20% к шансу увеличить счётчик комбо на поднятых в воздух врагах",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D0%BD%D0%BE%D1%81%D0%BB%D0%B8%D0%B2%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80",
-        "icon": "icons/ru/enduring_strike.2861a466dcb79a2a61278ee8d3f59ed9.png",
+        "icon": "items/images/ru/enduring_strike.2861a466dcb79a2a61278ee8d3f59ed9.png",
         "icon_format": "port",
-        "thumb": "icons/ru/thumbs/enduring_strike.2861a466dcb79a2a61278ee8d3f59ed9.128x128.png",
-        "drop": []
+        "thumb": "items/images/ru/thumbs/enduring_strike.2861a466dcb79a2a61278ee8d3f59ed9.128x128.png"
     },
     "ko": {
         "item_name": "엔듀어링 스트라이크",
         "description": "공중에 띄워진 상태의 적에게 +20% 추가 연속기 카운트 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Enduring_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Enduring_Strike"
     },
     "de": {
         "item_name": "Beständiger Schlag",
         "description": "+20 % Chance auf zusätzlichen Kombo-Zähler bei Feinden in der Luft",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Best%C3%A4ndiger_Schlag",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Best%C3%A4ndiger_Schlag"
     },
     "fr": {
         "item_name": "Frappe Durable",
         "description": "+20% de Chance de Points de Combo Additionnels sur les ennemis Suspendus",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_Durable",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_Durable"
     },
     "pt": {
         "item_name": "Enduring Strike",
         "description": "+20% de Chance de Contagem do Combo adicional em inimigos Suspensos",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sundering_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sundering_Strike"
     },
     "zh-hans": {
         "item_name": "不朽打击",
         "description": "对浮空敌人有 +20% 额外连击数几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Enduring_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Enduring_Strike"
     },
     "zh-hant": {
         "item_name": "不朽打擊",
         "description": "對浮空的敵人有 +20% 機率獲得額外連擊數",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Enduring_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Enduring_Strike"
     },
     "es": {
         "item_name": "Ataque Duradero",
         "description": "+20% de probabilidad de contador de combo adicional contra enemigos suspendidos",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ataque_duradero",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ataque_duradero"
     },
     "it": {
         "item_name": "Enduring Strike",
         "description": "+20% Probabilità di Contatore Combo Aggiuntiva sui nemici Sospesi",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sundering_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Sundering_Strike"
     },
     "pl": {
         "item_name": "Trwający Cios",
         "description": "+20% na dodatkowy punkt Licznika Kombo z uniesionych przeciwników",
-        "wiki_link": "http://warframe.wikia.com/wiki/Enduring_Strike",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Enduring_Strike"
     },
     "rarity": "common",
     "max_rank": 3,

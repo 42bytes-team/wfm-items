@@ -3,9 +3,11 @@
     "url_name": "sicarus",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/sicarus.630099456411a4fc42c99708f1208200.png",
-    "thumb": "icons/en/thumbs/sicarus.630099456411a4fc42c99708f1208200.128x128.png",
+    "icon": "items/images/en/sicarus.630099456411a4fc42c99708f1208200.png",
+    "thumb": "items/images/en/thumbs/sicarus.630099456411a4fc42c99708f1208200.128x128.png",
     "icon_format": "land",
+    "disposition": 1.2,
+    "mastery_level": 3,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Pistol/BurstPistol"
     },

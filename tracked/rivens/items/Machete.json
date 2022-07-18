@@ -3,9 +3,11 @@
     "url_name": "machete",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/machete.b871c145d37c3fdde5715fe80524101f.png",
-    "thumb": "icons/en/thumbs/machete.b871c145d37c3fdde5715fe80524101f.128x128.png",
+    "icon": "items/images/en/machete.b871c145d37c3fdde5715fe80524101f.png",
+    "thumb": "items/images/en/thumbs/machete.b871c145d37c3fdde5715fe80524101f.128x128.png",
     "icon_format": "land",
+    "disposition": 1.45,
+    "mastery_level": 1,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete"
     },

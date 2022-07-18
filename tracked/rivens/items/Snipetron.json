@@ -3,9 +3,11 @@
     "url_name": "snipetron",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/snipetron.fc41509b5224da3e9fd0dd1b149133cf.png",
-    "thumb": "icons/en/thumbs/snipetron.fc41509b5224da3e9fd0dd1b149133cf.128x128.png",
+    "icon": "items/images/en/snipetron.fc41509b5224da3e9fd0dd1b149133cf.png",
+    "thumb": "items/images/en/thumbs/snipetron.fc41509b5224da3e9fd0dd1b149133cf.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Rifle/SniperRifle"
     },

@@ -6,8 +6,8 @@
         "pistol",
         "secondary"
     ],
-    "icon": "icons/en/Pressurized_Magazine.daa3ea71eeb3c2b826aacc536d4b5e95.png",
-    "thumb": "icons/en/thumbs/Pressurized_Magazine.daa3ea71eeb3c2b826aacc536d4b5e95.128x128.png",
+    "icon": "items/images/en/pressurized_magazine.daa3ea71eeb3c2b826aacc536d4b5e95.png",
+    "thumb": "items/images/en/thumbs/pressurized_magazine.daa3ea71eeb3c2b826aacc536d4b5e95.128x128.png",
     "icon_format": "port",
     "url_name": "pressurized_magazine",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Pressurized Magazine",
         "description": "On Reload:\n+90% Fire Rate when Aiming for 9s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pressurized_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pressurized_Magazine"
     },
     "ru": {
         "item_name": "Уплотненный Магазин",
         "description": "При перезарядке:\n+90% к скорострельности при прицеливании в течение 9с",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
-        "icon": "icons/ru/Pressurized_Magazine.3a3e59776f1fcec2242f73bf90d42d23.png",
-        "thumb": "icons/ru/thumbs/Pressurized_Magazine.3a3e59776f1fcec2242f73bf90d42d23.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/pressurized_magazine.3a3e59776f1fcec2242f73bf90d42d23.png",
+        "thumb": "items/images/ru/thumbs/pressurized_magazine.3a3e59776f1fcec2242f73bf90d42d23.128x128.png"
     },
     "ko": {
         "item_name": "프레셔라이즈드 매거진",
         "description": "재장전 시:\n9초 동안 조준 시 +90% 연사력",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pressurized_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pressurized_Magazine"
     },
     "de": {
         "item_name": "Hochdruck-magazin",
         "description": "Beim Nachladen:\n+90 % Feuerrate beim Zielen für 9s",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Hochdruckmagazin",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Hochdruckmagazin"
     },
     "fr": {
         "item_name": "Chargeur Sous Pression",
         "description": "Sur Recharge:\nPendant 9s, +90% de Cadence de Tir en Visant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chargeur_sous_Pression",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chargeur_sous_Pression"
     },
     "pt": {
         "item_name": "Pressurized Magazine",
         "description": "Ao Recarregar:\n+90% de Cadência de Tiro ao Mirar por 9s",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pressurized_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pressurized_Magazine"
     },
     "zh-hans": {
         "item_name": "增压弹匣",
         "description": "装弹时：\n瞄准时增加 +90% 射速，持续 9 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pressurized_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pressurized_Magazine"
     },
     "zh-hant": {
         "item_name": "增壓彈匣",
         "description": "裝彈時：\n瞄準時增加 +90% 射速，持續 9 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pressurized_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pressurized_Magazine"
     },
     "es": {
         "item_name": "Cargador Presurizado",
         "description": "Al recargar:\n+90% de cadencia de fuego mientras apuntas por 9s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_presurizado",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_presurizado"
     },
     "it": {
         "item_name": "Pressurized Magazine",
         "description": "Dopo la Ricarica:\n+90% Cadenza di Tiro durante la mira per 9s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pressurized_Magazine",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Pressurized_Magazine"
     },
     "pl": {
         "item_name": "Uszczelniony Magazynek",
         "description": "Przy przeładowaniu:\n+90% Szybkostrzelności podczas celowania przez 9s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pressurized_Magazine",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Pressurized_Magazine"
     },
     "rarity": "rare",
     "max_rank": 5,

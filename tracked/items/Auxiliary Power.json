@@ -5,8 +5,8 @@
         "archwing",
         "uncommon"
     ],
-    "icon": "icons/en/Auxiliary_Power.38f8aff6fccbc512d4f826810da35b46.png",
-    "thumb": "icons/en/thumbs/Auxiliary_Power.38f8aff6fccbc512d4f826810da35b46.128x128.png",
+    "icon": "items/images/en/auxiliary_power.38f8aff6fccbc512d4f826810da35b46.png",
+    "thumb": "items/images/en/thumbs/auxiliary_power.38f8aff6fccbc512d4f826810da35b46.128x128.png",
     "icon_format": "port",
     "url_name": "auxiliary_power",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Auxiliary Power",
         "description": "+90% Energy Max",
-        "wiki_link": "https://warframe.fandom.com/wiki/Auxiliary_Power",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Auxiliary_Power"
     },
     "ru": {
         "item_name": "Вспомогательное Питание",
         "description": "+90% к запасу энергии",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%81%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Auxiliary_Power.2e93a87dde5b8abf9bcddbf511ccc1b8.png",
-        "thumb": "icons/ru/thumbs/Auxiliary_Power.2e93a87dde5b8abf9bcddbf511ccc1b8.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/auxiliary_power.2e93a87dde5b8abf9bcddbf511ccc1b8.png",
+        "thumb": "items/images/ru/thumbs/auxiliary_power.2e93a87dde5b8abf9bcddbf511ccc1b8.128x128.png"
     },
     "ko": {
         "item_name": "억실러리 파워",
         "description": "+90% 최대 에너지량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Auxiliary_Power",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Auxiliary_Power"
     },
     "de": {
         "item_name": "Hilfsenergie",
         "description": "+90 % Maximale Energie",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Hilfsenergie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Hilfsenergie"
     },
     "fr": {
         "item_name": "Alimentation Auxiliaire",
         "description": "+90% d'Énergie Max",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Alimentation_Auxiliaire",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Alimentation_Auxiliaire"
     },
     "pt": {
         "item_name": "Auxiliary Power",
         "description": "+90% de Energia Máxima",
-        "wiki_link": "http://warframe.wikia.com/wiki/Auxiliary_Power",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Auxiliary_Power"
     },
     "zh-hans": {
         "item_name": "辅助动力",
         "description": "+90% 最大能量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Auxiliary_Power",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Auxiliary_Power"
     },
     "zh-hant": {
         "item_name": "輔助動力",
         "description": "+90% 最大能量值",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Auxiliary_Power",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Auxiliary_Power"
     },
     "es": {
         "item_name": "Energía Auxiliar",
         "description": "+90% de energía máxima",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Energ%C3%ADa_auxiliar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Energ%C3%ADa_auxiliar"
     },
     "it": {
         "item_name": "Auxiliary Power",
         "description": "+90% Energia Massima",
-        "wiki_link": "http://warframe.wikia.com/wiki/Auxiliary_Power",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Auxiliary_Power"
     },
     "pl": {
         "item_name": "Zasilanie Pomocnicze",
         "description": "+90% Maks. Energii",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zasilanie_Pomocnicze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zasilanie_Pomocnicze"
     },
     "rarity": "uncommon",
     "max_rank": 5,

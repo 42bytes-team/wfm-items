@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a511",
     "tags": [
-        "mod",
-        "rare",
+        "secondary",
         "pvp",
-        "secondary"
+        "rare",
+        "mod",
+        "pistol"
     ],
-    "icon": "icons/en/Heavy_Warhead.f6463d740768ab98091869aa34de1698.png",
-    "thumb": "icons/en/thumbs/Heavy_Warhead.f6463d740768ab98091869aa34de1698.128x128.png",
+    "icon": "items/images/en/heavy_warhead.f6463d740768ab98091869aa34de1698.png",
+    "thumb": "items/images/en/thumbs/heavy_warhead.f6463d740768ab98091869aa34de1698.128x128.png",
     "icon_format": "port",
     "url_name": "heavy_warhead",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Heavy Warhead",
         "description": "+100% Blast Radius\n-50% Projectile Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Heavy_Warhead",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Heavy_Warhead"
     },
     "ru": {
         "item_name": "Утяжелённые Боеголовки",
         "description": "+100% к радиусу взрыва\n-50% к скорости полёта снаряда",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%91%D0%BE%D0%B5%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8",
-        "icon": "icons/ru/Heavy_Warhead.84f166424dbddd2263462a31d9233dcb.png",
-        "thumb": "icons/ru/thumbs/Heavy_Warhead.84f166424dbddd2263462a31d9233dcb.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/heavy_warhead.84f166424dbddd2263462a31d9233dcb.png",
+        "thumb": "items/images/ru/thumbs/heavy_warhead.84f166424dbddd2263462a31d9233dcb.128x128.png"
     },
     "ko": {
         "item_name": "헤비 워헤드",
         "description": "+100% 폭발 범위\n-50% 발사체 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Heavy_Warhead",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Heavy_Warhead"
     },
     "de": {
         "item_name": "Schwerer Gefechtskopf",
         "description": "+100 % Explosionsradius\n-50 % Projektilgeschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gefechtskopf",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gefechtskopf"
     },
     "fr": {
         "item_name": "Ogive Lourde",
         "description": "+100% de Rayon d'Explosion\n-50% de Vitesse des Projectiles",
-        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead"
     },
     "pt": {
         "item_name": "Heavy Warhead",
         "description": "+100% de Raio da Explosão\n-50% de Velocidade do Projétil",
-        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead"
     },
     "zh-hans": {
         "item_name": "重型弹头",
         "description": "+100% 爆炸半径\n-50% 投射物速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heavy_Warhead",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heavy_Warhead"
     },
     "zh-hant": {
         "item_name": "重型彈頭",
         "description": "+100% 爆炸半徑\n-50% 投射物速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heavy_Warhead",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heavy_Warhead"
     },
     "es": {
         "item_name": "Ojiva Pesada",
         "description": "+100% de radio de explosión\n-50% de velocidad de proyectil",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ojiva_pesada",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ojiva_pesada"
     },
     "it": {
         "item_name": "Heavy Warhead",
         "description": "+100% Raggio Esplosione\n-50% Velocità Proiettile",
-        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead"
     },
     "pl": {
         "item_name": "Ciężka Głowica",
         "description": "+100% Promienia Rażenia\n-50% Prędkość Pocisku",
-        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Heavy_Warhead"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -3,9 +3,11 @@
     "url_name": "strun",
     "group": "primary",
     "riven_type": "shotgun",
-    "icon": "icons/en/strun.e8cc2909f474436bb2573b8ba7ff43b7.png",
-    "thumb": "icons/en/thumbs/strun.e8cc2909f474436bb2573b8ba7ff43b7.128x128.png",
+    "icon": "items/images/en/strun.e8cc2909f474436bb2573b8ba7ff43b7.png",
+    "thumb": "items/images/en/thumbs/strun.e8cc2909f474436bb2573b8ba7ff43b7.128x128.png",
     "icon_format": "land",
+    "disposition": 1.4,
+    "mastery_level": 1,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Shotgun/Shotgun"
     },

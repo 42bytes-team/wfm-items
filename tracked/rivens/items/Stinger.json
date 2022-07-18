@@ -3,9 +3,11 @@
     "url_name": "stinger",
     "group": "sentinel",
     "riven_type": "rifle",
-    "icon": "icons/en/stinger.c06e66fa90e9b3ae8949992459763beb.png",
-    "thumb": "icons/en/thumbs/stinger.c06e66fa90e9b3ae8949992459763beb.128x128.png",
+    "icon": "items/images/en/stinger.c06e66fa90e9b3ae8949992459763beb.png",
+    "thumb": "items/images/en/thumbs/stinger.c06e66fa90e9b3ae8949992459763beb.128x128.png",
     "icon_format": "land",
+    "disposition": 1.32,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon"
     },

@@ -3,9 +3,11 @@
     "url_name": "akaten",
     "group": "sentinel",
     "riven_type": "melee",
-    "icon": "icons/en/akaten.562efe7381e9c9a879f3c3d17f12fba0.png",
-    "thumb": "icons/en/thumbs/akaten.562efe7381e9c9a879f3c3d17f12fba0.128x128.png",
+    "icon": "items/images/en/akaten.562efe7381e9c9a879f3c3d17f12fba0.png",
+    "thumb": "items/images/en/thumbs/akaten.562efe7381e9c9a879f3c3d17f12fba0.128x128.png",
     "icon_format": "land",
+    "disposition": 0.5,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponPS"
     },

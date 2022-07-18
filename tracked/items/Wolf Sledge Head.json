@@ -1,13 +1,11 @@
 {
     "_id": "5c7849e22cc6ce090383e266",
     "tags": [
-        "weapon",
-        "head",
-        "melee",
-        "component"
+        "component",
+        "weapon"
     ],
-    "icon": "icons/en/wolf_sledge_head.6b288aa755e84f886faa90486ed17d37.png",
-    "thumb": "icons/en/thumbs/wolf_sledge_head.6b288aa755e84f886faa90486ed17d37.128x128.png",
+    "icon": "items/images/en/wolf_sledge_head.6b288aa755e84f886faa90486ed17d37.png",
+    "thumb": "items/images/en/thumbs/wolf_sledge_head.6b288aa755e84f886faa90486ed17d37.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/weapon/generic_head_128x128.png",
     "url_name": "wolf_sledge_head",
@@ -27,68 +25,57 @@
     "en": {
         "item_name": "Wolf Sledge Head",
         "description": "The head component of the Wolf Sledge.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
     },
     "ru": {
         "item_name": "Кувалда Волка: Боёк",
         "description": "Компонент Кувалды Волка: Боёк.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D0%B2%D0%B0%D0%BB%D0%B4%D0%B0_%D0%92%D0%BE%D0%BB%D0%BA%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D0%B2%D0%B0%D0%BB%D0%B4%D0%B0_%D0%92%D0%BE%D0%BB%D0%BA%D0%B0"
     },
     "ko": {
         "item_name": "울프 슬레지 헤드",
         "description": "울프 슬레지의 헤드 부분입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
     },
     "de": {
         "item_name": "Wolfshammer: Kopf",
         "description": "Kopf-Komponente des Wolfshammers.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Wolfshammer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Wolfshammer"
     },
     "fr": {
         "item_name": "Marteau Du Loup - Tête",
         "description": "Le composant Tête du Marteau du Loup.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Marteau_du_Loup",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Marteau_du_Loup"
     },
     "pt": {
         "item_name": "Marreta Do Lobo: Extremidade",
         "description": "A extremidade componente da Marreta do Lobo.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Wolf_Sledge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Wolf_Sledge"
     },
     "zh-hans": {
         "item_name": "恶狼战锤锤头",
         "description": "恶狼战锤的锤头部件",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Wolf_Sledge",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Wolf_Sledge"
     },
     "zh-hant": {
         "item_name": "惡狼戰鎚鎚頭",
         "description": "惡狼戰鎚的鎚頭部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Wolf_Sledge",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Wolf_Sledge"
     },
     "es": {
         "item_name": "Cabeza Del Mazo Del Lobo",
         "description": "La parte de la cabeza del Mazo del Lobo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mazo_del_lobo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mazo_del_lobo"
     },
     "it": {
         "item_name": "Wolf Sledge - Testa",
         "description": "Il componente capo dell'arma Wolf Sledge.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
     },
     "pl": {
         "item_name": "Wilczy Kafar: Obuch",
         "description": "Część będąca obuchem Wilczego Kafara.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wilczy_Kafar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wilczy_Kafar"
     },
     "mastery_level": 7,
     "trading_tax": 2000

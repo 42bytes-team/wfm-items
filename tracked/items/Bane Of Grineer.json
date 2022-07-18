@@ -6,8 +6,8 @@
         "rifle",
         "primary"
     ],
-    "icon": "icons/en/Bane_of_Grineer.cb97a4f4096f1dac411cad6e57439734.png",
-    "thumb": "icons/en/thumbs/Bane_of_Grineer.cb97a4f4096f1dac411cad6e57439734.128x128.png",
+    "icon": "items/images/en/bane_of_grineer.cb97a4f4096f1dac411cad6e57439734.png",
+    "thumb": "items/images/en/thumbs/bane_of_grineer.cb97a4f4096f1dac411cad6e57439734.128x128.png",
     "icon_format": "port",
     "url_name": "bane_of_grineer",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Bane Of Grineer",
         "description": "+30% Damage to Grineer",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Grineer"
     },
     "ru": {
         "item_name": "Погибель: Гринир",
         "description": "+30% урона Гринир",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C_%D0%B3%D1%80%D0%B8%D0%BD%D0%B8%D1%80",
-        "icon": "icons/ru/Bane_of_Grineer.223a5e0c8f51d6f7f77ab61422f11a51.png",
-        "thumb": "icons/ru/thumbs/Bane_of_Grineer.223a5e0c8f51d6f7f77ab61422f11a51.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/bane_of_grineer.223a5e0c8f51d6f7f77ab61422f11a51.png",
+        "thumb": "items/images/ru/thumbs/bane_of_grineer.223a5e0c8f51d6f7f77ab61422f11a51.128x128.png"
     },
     "ko": {
         "item_name": "베인 오브 그리니어",
         "description": "그리니어에 대한 피해 +30%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Grineer"
     },
     "de": {
         "item_name": "Verderben Der Grineer",
         "description": "+30 % Schaden gegen Grineer",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verderben_der_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Verderben_der_Grineer"
     },
     "fr": {
         "item_name": "Fléau Des Grineers",
         "description": "+30% de Dégâts aux Grineers",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fl%C3%A9au_des_Grineers",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fl%C3%A9au_des_Grineers"
     },
     "pt": {
         "item_name": "Bane Of Grineer",
         "description": "+30% de Dano em Grineers",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Bane_of_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Bane_of_Grineer"
     },
     "zh-hans": {
         "item_name": "灭亡 Grineer",
         "description": "+30% 对 Grineer 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bane_of_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bane_of_Grineer"
     },
     "zh-hant": {
         "item_name": "滅亡 Grineer",
         "description": "+30% 對 Grineer 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bane_of_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bane_of_Grineer"
     },
     "es": {
         "item_name": "Perdición De Los Grineer",
         "description": "+30 % de daño a los grineer",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Perdici%C3%B3n_de_los_grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Perdici%C3%B3n_de_los_grineer"
     },
     "it": {
         "item_name": "Bane Of Grineer",
         "description": "+30% Danno Su Grineer",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Cleanse_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Cleanse_Grineer"
     },
     "pl": {
         "item_name": "Zguba Grineer",
         "description": "+30% Obrażeń zadawanych Grineer",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Grineer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Grineer"
     },
     "rarity": "uncommon",
     "max_rank": 5,

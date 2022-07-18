@@ -4,8 +4,8 @@
         "arcane_enhancement",
         "rare"
     ],
-    "icon": "icons/en/Arcane_Arachne.6e3fe6374d5b710e6e55ccc70b395bc8.png",
-    "thumb": "icons/en/thumbs/Arcane_Arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png",
+    "icon": "items/images/en/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.png",
+    "thumb": "items/images/en/thumbs/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_arachne",
     "tradable": true,
@@ -14,69 +14,58 @@
     },
     "en": {
         "item_name": "Arcane Arachne",
-        "description": "On Wall Latch:\n+150% Damage for 30s\n+1 Arcane Revive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Arachne",
-        "drop": []
+        "description": "On Wall Latch:\n+150% Damage for 30s\n+1 Arcane Revive\n+1 Arcane Revive",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Arachne"
     },
     "ru": {
         "item_name": "Мистический Арахнид",
-        "description": "При фиксации на стене:\n+150% урона на 30с\n+1 Мистическое Воскрешение",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%90%D1%80%D0%B0%D1%85%D0%BD%D0%B8%D0%B4",
-        "drop": []
+        "description": "При фиксации на стене:\n+150% урона на 30с\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%90%D1%80%D0%B0%D1%85%D0%BD%D0%B8%D0%B4"
     },
     "ko": {
         "item_name": "아케인 아라크네",
-        "description": "월 래치 시:\n30 초 동안 +150% 피해\n+1 아케인 부활",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Arachne",
-        "drop": []
+        "description": "월 래치 시:\n30 초 동안 +150% 피해\n+1 아케인 부활\n+1 아케인 부활",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Arachne"
     },
     "de": {
         "item_name": "Arkana: Arachnid",
-        "description": "Beim Wandhalten:\n+150 % Schaden für 30 s\n+1 Arkana Wiederbelebung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana_Arachnid",
-        "drop": []
+        "description": "Beim Wandhalten:\n+150 % Schaden für 30 s\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana_Arachnid"
     },
     "fr": {
         "item_name": "Arcane Arachné",
-        "description": "Sur Prise murale:\n+150% de Dégâts durant 30s\n+1 Réanimation Arcane",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Arachne",
-        "drop": []
+        "description": "Sur Prise murale:\n+150% de Dégâts durant 30s\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Arachne"
     },
     "pt": {
         "item_name": "Arcano: Aracne",
-        "description": "Ao Segurar na Parede:\n+150% de Dano durante 30s\n+1 Reanimação Arcana",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Arachne",
-        "drop": []
+        "description": "Ao Segurar na Parede:\n+150% de Dano durante 30s\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Arachne"
     },
     "zh-hans": {
         "item_name": "蜘蛛 赋能",
-        "description": "壁面攀附时： +150% 伤害，持续 30 秒\n赋能复活次数 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Arachne",
-        "drop": []
+        "description": "壁面攀附时： +150% 伤害，持续 30 秒\n赋能复活次数 +1\n赋能复活次数 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Arachne"
     },
     "zh-hant": {
         "item_name": "蜘蛛賦能",
-        "description": "壁面攀附時：\n+150% 傷害，持續 30 秒\n賦能復活次數 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Arachne",
-        "drop": []
+        "description": "壁面攀附時：\n+150% 傷害，持續 30 秒\n賦能復活次數 +1\n賦能復活次數 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Arachne"
     },
     "es": {
         "item_name": "Aracne Arcano",
-        "description": "Al posarse:\n+150% de daño por 30s\n+1 Revivir Arcano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aracne_arcano",
-        "drop": []
+        "description": "Al posarse:\n+150% de daño por 30s\n+1 Revivir Arcano\n+1 Revivir Arcano",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aracne_arcano"
     },
     "it": {
         "item_name": "Arcane Arachne",
-        "description": "Durante l'Aggrappata:\n+150% Danno per 30s\n+1 Rianimazione Arcane",
-        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Arachne",
-        "drop": []
+        "description": "Durante l'Aggrappata:\n+150% Danno per 30s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Arachne"
     },
     "pl": {
         "item_name": "Arkanum Arachne",
-        "description": "Podczas przywarcia do ściany:\n+150% Obrażeń przez 30s\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Arachne",
-        "drop": []
+        "description": "Podczas przywarcia do ściany:\n+150% Obrażeń przez 30s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Arachne"
     },
     "rarity": "rare",
     "max_rank": 5,

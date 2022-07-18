@@ -5,8 +5,8 @@
         "aura",
         "uncommon"
     ],
-    "icon": "icons/en/Shotgun_Scavenger.1f23255c80dbcc3c34e4505c9479f931.png",
-    "thumb": "icons/en/thumbs/Shotgun_Scavenger.1f23255c80dbcc3c34e4505c9479f931.128x128.png",
+    "icon": "items/images/en/shotgun_scavenger.1f23255c80dbcc3c34e4505c9479f931.png",
+    "thumb": "items/images/en/thumbs/shotgun_scavenger.1f23255c80dbcc3c34e4505c9479f931.128x128.png",
     "icon_format": "port",
     "url_name": "shotgun_scavenger",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Shotgun Scavenger",
         "description": "Increased Shotgun Ammo recovery. +150% Ammo Pickup",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shotgun_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shotgun_Scavenger"
     },
     "ru": {
         "item_name": "Добытчик: Дробовики",
         "description": "Увеличивает количество собираемых патронов для дробовиков. +150% поднятых боеприпасов",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA_%D0%94%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B8%D0%BA",
-        "icon": "icons/ru/Shotgun_Scavenger.5097bdbb9251cff5a0717129ae0812e5.png",
-        "thumb": "icons/ru/thumbs/Shotgun_Scavenger.5097bdbb9251cff5a0717129ae0812e5.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/shotgun_scavenger.5097bdbb9251cff5a0717129ae0812e5.png",
+        "thumb": "items/images/ru/thumbs/shotgun_scavenger.5097bdbb9251cff5a0717129ae0812e5.128x128.png"
     },
     "ko": {
         "item_name": "샷건 스케빈져",
         "description": "산탄총 탄약의 획득량을 증가시킵니다. +150% 탄약 획득",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shotgun_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shotgun_Scavenger"
     },
     "de": {
         "item_name": "Schrotplünderer",
         "description": "Mehr Munition für Schrotflinten erhalten. +150 % Munitionsaufnahme",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schrotpl%C3%BCnderer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schrotpl%C3%BCnderer"
     },
     "fr": {
         "item_name": "Récupérateur De Fusil À Pompe",
         "description": "Récupération accrue de munitions de Fusil à Pompe. +150% de Munitions Ramassées",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9rateur_de_Fusil_%C3%A0_pompe",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9rateur_de_Fusil_%C3%A0_pompe"
     },
     "pt": {
         "item_name": "Shotgun Scavenger",
         "description": "Maior recuperação de Munição de Escopeta. +150% de Coleta de Munição",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shotgun_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shotgun_Scavenger"
     },
     "zh-hans": {
         "item_name": "霰弹枪弹药搜集者",
         "description": "增加拾起的霰弹枪弹药 +150% 弹药拾取",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shotgun_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shotgun_Scavenger"
     },
     "zh-hant": {
         "item_name": "霰彈槍彈藥蒐集者",
         "description": "增加拾起的霰彈槍彈藥 +150% 彈藥拾取",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shotgun_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shotgun_Scavenger"
     },
     "es": {
         "item_name": "Carroñero De Escopeta",
         "description": "Recuperación de munición de escopeta aumentada. +150% de recogida de munición",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Carro%C3%B1ero_de_escopeta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Carro%C3%B1ero_de_escopeta"
     },
     "it": {
         "item_name": "Shotgun Scavenger",
         "description": "Recupero Munizioni per Fucile a Pompa aumentato. +150% Munizioni Raccolte",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sniper_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Sniper_Scavenger"
     },
     "pl": {
         "item_name": "Szabrowanie Amunicji Do Strzelb",
         "description": "Zwiększenie odzysku amunicji do strzelby. +150% Zbieranie Amunicji",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szabrowanie_Amunicji_Do_Strzelb",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szabrowanie_Amunicji_Do_Strzelb"
     },
     "rarity": "uncommon",
     "max_rank": 5,

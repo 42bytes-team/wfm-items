@@ -1,13 +1,13 @@
 {
     "_id": "5526aec1e779896af9418265",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "frost"
     ],
-    "icon": "icons/en/Chilling_Globe.92223b7061c05a98afc460eb267fd053.png",
-    "thumb": "icons/en/thumbs/Chilling_Globe.92223b7061c05a98afc460eb267fd053.128x128.png",
+    "icon": "items/images/en/chilling_globe.92223b7061c05a98afc460eb267fd053.png",
+    "thumb": "items/images/en/thumbs/chilling_globe.92223b7061c05a98afc460eb267fd053.128x128.png",
     "icon_format": "port",
     "url_name": "chilling_globe",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Chilling Globe",
         "description": "Snow Globe Augment: Enemies that enter have a 50% chance to become frozen solid for 8s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chilling_Globe",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Chilling_Globe"
     },
     "ru": {
         "item_name": "Охлаждающая Сфера",
         "description": "Улучшение способности «Снежная сфера»: враги, вошедшие в сферу, с шансом 50% будут обращены в лёд на 8 c.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%A1%D1%84%D0%B5%D1%80%D0%B0",
-        "icon": "icons/ru/Chilling_Globe.705405c8640e73a3773966581ee9c9ac.png",
-        "thumb": "icons/ru/thumbs/Chilling_Globe.705405c8640e73a3773966581ee9c9ac.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/chilling_globe.705405c8640e73a3773966581ee9c9ac.png",
+        "thumb": "items/images/ru/thumbs/chilling_globe.705405c8640e73a3773966581ee9c9ac.128x128.png"
     },
     "ko": {
         "item_name": "칠링 글로브",
         "description": "스노우 글로브 개조: 들어온 적이 50%의 확률로 8초 동안 완전히 얼어버립니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chilling_Globe",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Chilling_Globe"
     },
     "de": {
         "item_name": "Eisige Kugel",
         "description": "Schneekugel Augment: Gegner, die sie betreten, haben eine 50 % Chance für 8 s eingefroren zu werden.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Eisige_Kugel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Eisige_Kugel"
     },
     "fr": {
         "item_name": "Boule De Glas",
         "description": "Augmentation de Boule de Neige: Les ennemis qui entrent ont 50% de chance de geler complètement durant 8s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Boule_de_Glas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Boule_de_Glas"
     },
     "pt": {
         "item_name": "Chilling Globe",
         "description": "Ampliação Snow Globe: Inimigos que entram têm 50% de chance de ficarem completamente congelados durante 8s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chilling_Globe",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chilling_Globe"
     },
     "zh-hans": {
         "item_name": "冰封护罩",
         "description": "冰雪护罩强化：进入护罩内的敌人有 50% 几率被冰冻 8 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chilling_Globe",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chilling_Globe"
     },
     "zh-hant": {
         "item_name": "冰封護罩",
         "description": "冰雪護罩強化：進入護罩內的敵人有 50% 機率被冰凍 8 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chilling_Globe",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chilling_Globe"
     },
     "es": {
         "item_name": "Globo Refrigerante",
         "description": "Aumento de Globo de nieve: los enemigos que entran tienen un 50% de probabilidad de congelarse completamente durante 8s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Globo_refrigerante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Globo_refrigerante"
     },
     "it": {
         "item_name": "Chilling Globe",
         "description": "Potenziamento Snow Globe: I nemici che entrano dentro la sfera hanno il 50% di probabilità di congelarsi per 8s.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Chilling_Grasp",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Chilling_Grasp"
     },
     "pl": {
         "item_name": "Zamrażająca Kula",
         "description": "Modyfikacja Śnieżnej Kuli: Wrogowie, którzy wejdą w obszar kuli, mają 50% szansę na całkowite zamrożenie na 8s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zamra%C5%BCaj%C4%85ca_Kula",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zamra%C5%BCaj%C4%85ca_Kula"
     },
     "rarity": "rare",
     "max_rank": 3,

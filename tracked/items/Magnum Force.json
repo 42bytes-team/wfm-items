@@ -6,8 +6,8 @@
         "pistol",
         "secondary"
     ],
-    "icon": "icons/en/magnum_force.4bcd9499631f6c61d99b930dd35493aa.png",
-    "thumb": "icons/en/thumbs/magnum_force.4bcd9499631f6c61d99b930dd35493aa.128x128.png",
+    "icon": "items/images/en/magnum_force.4bcd9499631f6c61d99b930dd35493aa.png",
+    "thumb": "items/images/en/thumbs/magnum_force.4bcd9499631f6c61d99b930dd35493aa.128x128.png",
     "icon_format": "port",
     "url_name": "magnum_force",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Magnum Force",
         "description": "+165% Damage\n-55% Accuracy",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magnum_Force",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnum_Force"
     },
     "ru": {
         "item_name": "Магнум",
         "description": "+165% урона\n-55% к точности",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%83%D0%BC",
-        "icon": "icons/ru/magnum_force.9838e54ab6ada80e8af0218ace7c9860.png",
-        "thumb": "icons/ru/thumbs/magnum_force.9838e54ab6ada80e8af0218ace7c9860.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/magnum_force.9838e54ab6ada80e8af0218ace7c9860.png",
+        "thumb": "items/images/ru/thumbs/magnum_force.9838e54ab6ada80e8af0218ace7c9860.128x128.png"
     },
     "ko": {
         "item_name": "매그넘 포스",
         "description": "+165% 피해\n-55% 정확도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magnum_Force",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Magnum_Force"
     },
     "de": {
         "item_name": "Magnumstärke",
         "description": "+165 % Schaden\n-55 % Genauigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Magnumst%C3%A4rke",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Magnumst%C3%A4rke"
     },
     "fr": {
         "item_name": "Force Magnum",
         "description": "+165% de Dégâts\n-55% de Précision",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Force_Magnum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Force_Magnum"
     },
     "pt": {
         "item_name": "Magnum Force",
         "description": "+165% de Dano\n-55% de Precisão",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magnum_Force",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magnum_Force"
     },
     "zh-hans": {
         "item_name": "重装火力",
         "description": "+165% 伤害\n-55% 精准度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magnum_Force",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magnum_Force"
     },
     "zh-hant": {
         "item_name": "重裝火力",
         "description": "+165% 傷害\n-55% 精準",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magnum_Force",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magnum_Force"
     },
     "es": {
         "item_name": "Fuerza Magnum",
         "description": "+165% de daño\n-55% de precisión",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fuerza_magnum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Fuerza_magnum"
     },
     "it": {
         "item_name": "Magnum Force",
         "description": "+165% Danno\n-55% Precisione",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magnum_Force",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Magnum_Force"
     },
     "pl": {
         "item_name": "Siła Magnum",
         "description": "+165% Obrażeń\n-55% Celności",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magnum_Force",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Magnum_Force"
     },
     "rarity": "rare",
     "max_rank": 10,

@@ -3,9 +3,11 @@
     "url_name": "orthos",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/orthos.7e3529cd44b8e270233180b907f72a1d.png",
-    "thumb": "icons/en/thumbs/orthos.7e3529cd44b8e270233180b907f72a1d.128x128.png",
+    "icon": "items/images/en/orthos.7e3529cd44b8e270233180b907f72a1d.png",
+    "thumb": "items/images/en/thumbs/orthos.7e3529cd44b8e270233180b907f72a1d.128x128.png",
     "icon_format": "land",
+    "disposition": 1,
+    "mastery_level": 2,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Polearms/PolearmWeapon"
     },

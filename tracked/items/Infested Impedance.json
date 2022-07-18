@@ -5,8 +5,8 @@
         "aura",
         "uncommon"
     ],
-    "icon": "icons/en/Infested_Impedance.760d6dfe7d74cc9dbadfc17bc5654aaf.png",
-    "thumb": "icons/en/thumbs/Infested_Impedance.760d6dfe7d74cc9dbadfc17bc5654aaf.128x128.png",
+    "icon": "items/images/en/infested_impedance.760d6dfe7d74cc9dbadfc17bc5654aaf.png",
+    "thumb": "items/images/en/thumbs/infested_impedance.760d6dfe7d74cc9dbadfc17bc5654aaf.128x128.png",
     "icon_format": "port",
     "url_name": "infested_impedance",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Infested Impedance",
         "description": "Reduces speed of Infested enemies. -18% Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Infested_Impedance",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Infested_Impedance"
     },
     "ru": {
         "item_name": "Бремя Заражённых",
-        "description": "Уменьшает скорость Заражённых врагов. -18% к скорости",
+        "description": "Уменьшает скорость заражённых. -18% к скорости",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D1%80%D0%B5%D0%BC%D1%8F_%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D1%85",
-        "icon": "icons/ru/Infested_Impedance.b429ac32ae667f123d3caa0881dc5f07.png",
-        "thumb": "icons/ru/thumbs/Infested_Impedance.b429ac32ae667f123d3caa0881dc5f07.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/infested_impedance.b429ac32ae667f123d3caa0881dc5f07.png",
+        "thumb": "items/images/ru/thumbs/infested_impedance.b429ac32ae667f123d3caa0881dc5f07.128x128.png"
     },
     "ko": {
         "item_name": "인페스티드 임피던스",
         "description": "인페스티드들의 이동 속도를 감소시킵니다. -18% 이동 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Infested_Impedance",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Infested_Impedance"
     },
     "de": {
         "item_name": "Befallenen-behinderung",
         "description": "Verringert die Geschwindigkeit von Befallenen. -18 % Geschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Befallenenbehinderung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Befallenenbehinderung"
     },
     "fr": {
         "item_name": "Entrave Infestée",
         "description": "Réduit la vitesse des ennemis Infestés. -18% de Vitesse",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Entrave_Infest%C3%A9s",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Entrave_Infest%C3%A9s"
     },
     "pt": {
         "item_name": "Infested Impedance",
         "description": "Reduz a Velocidade de inimigos infestados. -18% de Velocidade",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Infested_Impedance",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Infested_Impedance"
     },
     "zh-hans": {
         "item_name": "感染者阻抗",
         "description": "降低感染者的速度 -18% 移动速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Infested_Impedance",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Infested_Impedance"
     },
     "zh-hant": {
         "item_name": "感染阻抗",
         "description": "降低感染者的速度 -18% 速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Infested_Impedance",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Infested_Impedance"
     },
     "es": {
         "item_name": "Impedancia Infestada",
         "description": "Reduce la velocidad de los enemigos infestados. -18% de velocidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Impedancia_infestada",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Impedancia_infestada"
     },
     "it": {
         "item_name": "Infested Impedance",
         "description": "Riduce la Velocità dei nemici Infested. -18% Velocità",
-        "wiki_link": "http://warframe.wikia.com/wiki/Infested_Impedance",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Infested_Impedance"
     },
     "pl": {
         "item_name": "Spowolnienie Plagi",
         "description": "Spowalnia Zarażonych przeciwników. -18% Szybkość",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Spowolnienie_Plagi",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Spowolnienie_Plagi"
     },
     "rarity": "uncommon",
     "max_rank": 5,

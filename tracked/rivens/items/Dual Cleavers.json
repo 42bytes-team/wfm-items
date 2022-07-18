@@ -3,9 +3,11 @@
     "url_name": "dual_cleavers",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/dual_cleavers.376cee4cc5b1c3cc62e460710ceff5fc.png",
-    "thumb": "icons/en/thumbs/dual_cleavers.376cee4cc5b1c3cc62e460710ceff5fc.128x128.png",
+    "icon": "items/images/en/dual_cleavers.376cee4cc5b1c3cc62e460710ceff5fc.png",
+    "thumb": "items/images/en/thumbs/dual_cleavers.376cee4cc5b1c3cc62e460710ceff5fc.128x128.png",
     "icon_format": "land",
+    "disposition": 1.2,
+    "mastery_level": 5,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon"
     },

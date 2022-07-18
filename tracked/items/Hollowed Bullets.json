@@ -2,14 +2,13 @@
     "_id": "54a74454e779892d5e515590",
     "tags": [
         "rare",
-        "archwing",
-        "arch-gun",
-        "archwing gun",
         "primary",
-        "mod"
+        "mod",
+        "archwing",
+        "archgun"
     ],
-    "icon": "icons/en/Hollowed_Bullets.7071893ea940820a1513221c9daf6c41.png",
-    "thumb": "icons/en/thumbs/Hollowed_Bullets.7071893ea940820a1513221c9daf6c41.128x128.png",
+    "icon": "items/images/en/hollowed_bullets.7071893ea940820a1513221c9daf6c41.png",
+    "thumb": "items/images/en/thumbs/hollowed_bullets.7071893ea940820a1513221c9daf6c41.128x128.png",
     "icon_format": "port",
     "url_name": "hollowed_bullets",
     "tradable": true,
@@ -19,70 +18,59 @@
     "en": {
         "item_name": "Hollowed Bullets",
         "description": "+80% Critical Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hollowed_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hollowed_Bullets"
     },
     "ru": {
         "item_name": "Пустотные Пули",
         "description": "+80% крит. урона",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9F%D1%83%D0%BB%D0%B8",
-        "icon": "icons/ru/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.png",
-        "thumb": "icons/ru/thumbs/Hollowed_Bullets.0315c2da02f29eb38bfde8757a830613.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/hollowed_bullets.0315c2da02f29eb38bfde8757a830613.png",
+        "thumb": "items/images/ru/thumbs/hollowed_bullets.0315c2da02f29eb38bfde8757a830613.128x128.png"
     },
     "ko": {
         "item_name": "할로우드 불렛",
         "description": "+80% 치명타 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hollowed_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hollowed_Bullets"
     },
     "de": {
         "item_name": "Hohlgeschosse",
         "description": "+80 % Krit. Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Hohlgeschosse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Hohlgeschosse"
     },
     "fr": {
         "item_name": "Balles Creuses",
         "description": "+80% de Dégâts Critiques",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Balles_Creuses",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Balles_Creuses"
     },
     "pt": {
         "item_name": "Hollowed Bullets",
         "description": "+80% de Dano Crítico",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hollowed_Bullets",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hollowed_Bullets"
     },
     "zh-hans": {
         "item_name": "中空子弹",
         "description": "+80% 暴击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hollowed_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hollowed_Bullets"
     },
     "zh-hant": {
         "item_name": "中空子彈",
         "description": "+80% 暴擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hollowed_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hollowed_Bullets"
     },
     "es": {
         "item_name": "Balas De Punta Hueca",
         "description": "+80% de daño crítico",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Balas_de_punta_hueca",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Balas_de_punta_hueca"
     },
     "it": {
         "item_name": "Hollowed Bullets",
         "description": "+80% Danno Critico",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hollowed_Bullets",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hollowed_Bullets"
     },
     "pl": {
         "item_name": "Wydrążone Pociski",
         "description": "+80% Obrażeń Krytycznych",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wydr%C4%85%C5%BCone_Pociski",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wydr%C4%85%C5%BCone_Pociski"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -2,12 +2,12 @@
     "_id": "5bc1ab93b919f200c18c10f0",
     "tags": [
         "mod",
-        "warframe",
+        "rare",
         "primary",
-        "rare"
+        "sniper"
     ],
-    "icon": "icons/en/Sharpshooter.82008706e945ec2bf7c88a0587ae404d.png",
-    "thumb": "icons/en/thumbs/Sharpshooter.82008706e945ec2bf7c88a0587ae404d.128x128.png",
+    "icon": "items/images/en/sharpshooter.82008706e945ec2bf7c88a0587ae404d.png",
+    "thumb": "items/images/en/thumbs/sharpshooter.82008706e945ec2bf7c88a0587ae404d.128x128.png",
     "icon_format": "port",
     "url_name": "sharpshooter",
     "tradable": true,
@@ -17,68 +17,57 @@
     "en": {
         "item_name": "Sharpshooter",
         "description": "On Headshot Kill:\n+15 Energy",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sharpshooter",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sharpshooter"
     },
     "ru": {
         "item_name": "Снайпер",
         "description": "При убийстве попаданием в голову:\n+15 Энергии",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80"
     },
     "ko": {
         "item_name": "샤프슈터",
         "description": "헤드샷 처치 시:\n+15 에너지",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sharpshooter",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sharpshooter"
     },
     "de": {
         "item_name": "Scharfschütze",
         "description": "Bei Kopfschuss-Kill:\n+15 Energie",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Scharfsch%C3%BCtze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Scharfsch%C3%BCtze"
     },
     "fr": {
         "item_name": "Tireur Qualifié",
         "description": "Sur Élimination par Tir à la tête:\n+15 points d'Énergie",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tireur_Qualifi%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tireur_Qualifi%C3%A9"
     },
     "pt": {
         "item_name": "Sharpshooter",
         "description": "Ao Matar com Acertos de Precisão: +15 Energia",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sharpshooter",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sharpshooter"
     },
     "zh-hans": {
         "item_name": "神射手",
         "description": "爆头击杀时：\n+15 能量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sharpshooter",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sharpshooter"
     },
     "zh-hant": {
         "item_name": "神射手",
         "description": "爆頭擊殺後：\n+15 能量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sharpshooter",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sharpshooter"
     },
     "es": {
         "item_name": "Francotirador",
         "description": "Al matar con disparo a la cabeza:\n+15 de energía",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Francotirador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Francotirador"
     },
     "it": {
         "item_name": "Sharpshooter",
         "description": "Dopo Uccisione con Colpo alla Testa:\n+15 Energia",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sharpshooter",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Sharpshooter"
     },
     "pl": {
         "item_name": "Strzelec Wyborowy",
         "description": "Przy Śmiertelnym strzale w głowę: +15 Energii",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sharpshooter",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Sharpshooter"
     },
     "rarity": "rare",
     "max_rank": 10,

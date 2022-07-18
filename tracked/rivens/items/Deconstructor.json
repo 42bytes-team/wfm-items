@@ -3,9 +3,11 @@
     "url_name": "deconstructor",
     "group": "sentinel",
     "riven_type": "melee",
-    "icon": "icons/en/deconstructor.2bc000648cdc4a157808ac70ccc937c2.png",
-    "thumb": "icons/en/thumbs/deconstructor.2bc000648cdc4a157808ac70ccc937c2.128x128.png",
+    "icon": "items/images/en/deconstructor.2bc000648cdc4a157808ac70ccc937c2.png",
+    "thumb": "items/images/en/thumbs/deconstructor.2bc000648cdc4a157808ac70ccc937c2.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon"
     },

@@ -3,9 +3,11 @@
     "url_name": "glaxion",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/glaxion.ef97d7dd12728d34ea7ed50100c197b0.png",
-    "thumb": "icons/en/thumbs/glaxion.ef97d7dd12728d34ea7ed50100c197b0.128x128.png",
+    "icon": "items/images/en/glaxion.ef97d7dd12728d34ea7ed50100c197b0.png",
+    "thumb": "items/images/en/thumbs/glaxion.ef97d7dd12728d34ea7ed50100c197b0.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle"
     },

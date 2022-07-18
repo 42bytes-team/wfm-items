@@ -3,9 +3,11 @@
     "url_name": "cycron",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/cycron.8c415cf09d5a258677c3f42d9477c0ee.png",
-    "thumb": "icons/en/thumbs/cycron.8c415cf09d5a258677c3f42d9477c0ee.128x128.png",
+    "icon": "items/images/en/cycron.8c415cf09d5a258677c3f42d9477c0ee.png",
+    "thumb": "items/images/en/thumbs/cycron.8c415cf09d5a258677c3f42d9477c0ee.128x128.png",
     "icon_format": "land",
+    "disposition": 1.2,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun"
     },

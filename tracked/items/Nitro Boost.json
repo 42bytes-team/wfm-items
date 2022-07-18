@@ -2,12 +2,11 @@
     "_id": "5be701113ffcc703e462c704",
     "tags": [
         "mod",
-        "k-drive",
-        "---",
-        "rare"
+        "rare",
+        "k_drive"
     ],
-    "icon": "icons/en/Nitro_Boost.3b6d966109f4e1a9f68349aaacbce888.png",
-    "thumb": "icons/en/thumbs/Nitro_Boost.3b6d966109f4e1a9f68349aaacbce888.128x128.png",
+    "icon": "items/images/en/nitro_boost.3b6d966109f4e1a9f68349aaacbce888.png",
+    "thumb": "items/images/en/thumbs/nitro_boost.3b6d966109f4e1a9f68349aaacbce888.128x128.png",
     "icon_format": "port",
     "url_name": "nitro_boost",
     "tradable": true,
@@ -17,70 +16,59 @@
     "en": {
         "item_name": "Nitro Boost",
         "description": "+30% K-Drive Boost Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nitro_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Nitro_Boost"
     },
     "ru": {
         "item_name": "Нитроускорение",
         "description": "+30% к мощности ускорения К-драйва",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B8%D1%82%D1%80%D0%BE%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Nitro_Boost.882dc003e6ff6b9d75bb748135a7f332.png",
-        "thumb": "icons/ru/thumbs/Nitro_Boost.882dc003e6ff6b9d75bb748135a7f332.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/nitro_boost.882dc003e6ff6b9d75bb748135a7f332.png",
+        "thumb": "items/images/ru/thumbs/nitro_boost.882dc003e6ff6b9d75bb748135a7f332.128x128.png"
     },
     "ko": {
         "item_name": "나이트로 부스트",
         "description": "+30% K-드라이브 부스트 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nitro_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Nitro_Boost"
     },
     "de": {
         "item_name": "Nitro-boost",
         "description": "+30 % K-Drive Boost-Geschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Nitro-Boost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nitro-Boost"
     },
     "fr": {
         "item_name": "Boost Nitro",
         "description": "+30% de Boost de Vitesse K-Drive",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Boost_Nitro",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Boost_Nitro"
     },
     "pt": {
         "item_name": "Nitro Boost",
         "description": "+30% de Velocidade de Turbo do K-Drive",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nitro_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nitro_Boost"
     },
     "zh-hans": {
         "item_name": "氮气喷射",
         "description": "+30% K 式悬浮板冲刺速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nitro_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nitro_Boost"
     },
     "zh-hant": {
         "item_name": "氮氣噴射",
         "description": "+30% K 式懸浮板衝刺速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nitro_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nitro_Boost"
     },
     "es": {
         "item_name": "Potenciación Nitro",
         "description": "+30% de velocidad de impulso del K-Drive",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Potenciaci%C3%B3n_Nitro",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Potenciaci%C3%B3n_Nitro"
     },
     "it": {
         "item_name": "Nitro Boost",
         "description": "+30% Velocità Accelerazione K-Drive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nitro_Boost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Nitro_Boost"
     },
     "pl": {
         "item_name": "Przyspieszenie Nitro",
         "description": "+30% Przyspieszenia K-Drive",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przyspieszenie_Nitro",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przyspieszenie_Nitro"
     },
     "rarity": "rare",
     "max_rank": 5,

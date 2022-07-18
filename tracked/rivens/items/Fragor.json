@@ -3,9 +3,11 @@
     "url_name": "fragor",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/fragor.6b5c0c6d32b7f2d3a0576e7a0c28accb.png",
-    "thumb": "icons/en/thumbs/fragor.6b5c0c6d32b7f2d3a0576e7a0c28accb.128x128.png",
+    "icon": "items/images/en/fragor.6b5c0c6d32b7f2d3a0576e7a0c28accb.png",
+    "thumb": "items/images/en/thumbs/fragor.6b5c0c6d32b7f2d3a0576e7a0c28accb.128x128.png",
     "icon_format": "land",
+    "disposition": 1.2,
+    "mastery_level": 2,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Hammer/HammerWeapon"
     },

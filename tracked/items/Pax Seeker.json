@@ -1,12 +1,11 @@
 {
     "_id": "5bf54b483ffcc7066e7eb855",
     "tags": [
-        "kitgun",
-        "arcane_enhancement",
-        "rare"
+        "rare",
+        "arcane_enhancement"
     ],
-    "icon": "icons/en/Pax_Seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.png",
-    "thumb": "icons/en/thumbs/Pax_Seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.128x128.png",
+    "icon": "items/images/en/pax_seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.png",
+    "thumb": "items/images/en/thumbs/pax_seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.128x128.png",
     "icon_format": "land",
     "url_name": "pax_seeker",
     "tradable": true,
@@ -15,69 +14,58 @@
     },
     "en": {
         "item_name": "Pax Seeker",
-        "description": "On Headshot Kill:\r100% chance for 4 projectiles burst from the target and seek the heads of nearby enemies.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Seeker",
-        "drop": []
+        "description": "On Headshot Kill:\n4 projectiles burst from the target and seek the heads of nearby enemies.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Seeker"
     },
     "ru": {
         "item_name": "Пакс Искатель",
-        "description": "При убийстве попаданием в голову:\r100% шанс что 4 снаряда вырываются из цели и устремляются в головы врагов поблизости.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BA%D1%81_%D0%98%D1%81%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
-        "drop": []
+        "description": "При убийстве попаданием в голову:\n4 снаряда вырываются из цели и устремляются в головы врагов поблизости.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BA%D1%81_%D0%98%D1%81%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C"
     },
     "ko": {
         "item_name": "팍스 시커",
-        "description": "헤드샷 처치 시:\n100% 확률로 4개의 투사체가 목표물에서 솟아나와 근방 적들의 머리로 쏘아집니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Seeker",
-        "drop": []
+        "description": "헤드샷 처치 시:\n4개의 투사체가 목표물에서 솟아나와 근방 적들의 머리로 쏘아집니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Seeker"
     },
     "de": {
         "item_name": "Pax: Sucher",
-        "description": "Bei Kopfschuss-Kill:\r100 % Chance auf 4 Projektile brechen aus dem Ziel hervor und suchen die Köpfe naher Feinde.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pax:_Sucher",
-        "drop": []
+        "description": "Bei Kopfschuss-Kill:\n4 Projektile brechen aus dem Ziel hervor und suchen die Köpfe naher Feinde.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Pax:_Sucher"
     },
     "fr": {
         "item_name": "Pax Chercheur",
-        "description": "Sur un Tir à la Tête Fatal:\n100% de chance pour que 4 projectiles surgissent de la cible et recherchent les têtes des ennemis à proximité.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pax_Chercheur",
-        "drop": []
+        "description": "Sur un Tir à la Tête Fatal:\nque 4 projectiles surgissent de la cible et recherchent les têtes des ennemis à proximité.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pax_Chercheur"
     },
     "pt": {
         "item_name": "Pax: Perseguição",
-        "description": "No Abate com Acerto de Precisão:\r100% de chance de 4 Projéteis emanam do alvo e procuram pelas cabeças dos inimigos próximos.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Seeker",
-        "drop": []
+        "description": "No Abate com Acerto de Precisão:\n4 Projéteis emanam do alvo e procuram pelas cabeças dos inimigos próximos.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Seeker"
     },
     "zh-hans": {
         "item_name": "和平 追寻者",
-        "description": "爆头击杀时：\n100% 几率触发 在目标身上炸裂出 4 发自动导向邻近敌人头部的飞射物。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pax_Seeker",
-        "drop": []
+        "description": "爆头击杀时：\n在目标身上炸裂出 4 发自动导向邻近敌人头部的飞射物。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pax_Seeker"
     },
     "zh-hant": {
         "item_name": "和平 追蹤者",
-        "description": "爆頭擊殺時：\n100% 機率得到 在目標身上炸裂出 4 發自動導向鄰近敵人頭部的飛射物。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pax_Seeker",
-        "drop": []
+        "description": "爆頭擊殺時：\n在目標身上炸裂出 4 發自動導向鄰近敵人頭部的飛射物。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pax_Seeker"
     },
     "es": {
         "item_name": "Buscador De Pax",
-        "description": "En asesinato con disparo a la cabeza:\r100% de probabilidad de que emergan 4 proyectiles del objetivo y busquen las cabezas de enemigos cercanos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Buscador_de_Pax",
-        "drop": []
+        "description": "En asesinato con disparo a la cabeza:\nque emergan 4 proyectiles del objetivo y busquen las cabezas de enemigos cercanos.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Buscador_de_Pax"
     },
     "it": {
         "item_name": "Pax Seeker",
-        "description": "Dopo Uccisione da Colpo alla Testa:\r100% probabilità di 4 proiettili prorompono dal bersaglio e ricercano le teste dei nemici vicini.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Seeker",
-        "drop": []
+        "description": "Dopo Uccisione da Colpo alla Testa:\n4 proiettili prorompono dal bersaglio e ricercano le teste dei nemici vicini.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Seeker"
     },
     "pl": {
         "item_name": "Paks Tropienia",
-        "description": "Po Zabójstwie Strzałem W Głowę:\r100% szans na 4 pocisków przenika przez cel i poszukuje głów kolejnych przeciwników w okolicy.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Seeker",
-        "drop": []
+        "description": "Po Zabójstwie Strzałem W Głowę:\n4 pociski wylatują z celu i kieruje się na głowy pobliskich przeciwników.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Seeker"
     },
     "rarity": "rare",
     "max_rank": 3,

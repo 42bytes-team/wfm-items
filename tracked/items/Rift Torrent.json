@@ -1,13 +1,13 @@
 {
     "_id": "54e0c9eee7798903744178ab",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "limbo"
     ],
-    "icon": "icons/en/Rift_Torrent.b72016d654f06dd8a0f9f21b86f38910.png",
-    "thumb": "icons/en/thumbs/Rift_Torrent.b72016d654f06dd8a0f9f21b86f38910.128x128.png",
+    "icon": "items/images/en/rift_torrent.b72016d654f06dd8a0f9f21b86f38910.png",
+    "thumb": "items/images/en/thumbs/rift_torrent.b72016d654f06dd8a0f9f21b86f38910.128x128.png",
     "icon_format": "port",
     "url_name": "rift_torrent",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Rift Torrent",
         "description": "Rift Surge Augment: Limbo deals 30% Extra Damage for each enemy affected by Rift Surge while in the rift.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rift_Torrent",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rift_Torrent"
     },
     "ru": {
         "item_name": "Поток Разлома",
         "description": "Улучшение способности «Заряд Разлома»: в разломе, Лимбо наносит на 30% больше урона за каждого врага под эффектом «Заряда».",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA_%D0%A0%D0%B0%D0%B7%D0%BB%D0%BE%D0%BC%D0%B0",
-        "icon": "icons/ru/Rift_Torrent.59931528b917318766546edf6b5e7e90.png",
-        "thumb": "icons/ru/thumbs/Rift_Torrent.59931528b917318766546edf6b5e7e90.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/rift_torrent.59931528b917318766546edf6b5e7e90.png",
+        "thumb": "items/images/ru/thumbs/rift_torrent.59931528b917318766546edf6b5e7e90.128x128.png"
     },
     "ko": {
         "item_name": "리프트 토렌트",
         "description": "리프트 서지 개조: 림보가 리프트에 있을 경우 리프트 서지에 영향을 받은 적 하나마다 30%의 추가 피해를 가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rift_Torrent",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rift_Torrent"
     },
     "de": {
         "item_name": "Riftflut",
         "description": "Riftwoge Augment: Limbo verursacht 30 % mehr Schaden für jeden Gegner, der von Riftwoge beeinträchtigt ist, während er sich im Rift befindet.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Rift_Flut",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Rift_Flut"
     },
     "fr": {
         "item_name": "Torrent Dimensionnel",
         "description": "Augmentation de Déferlement Dimensionnel: Limbo inflige 30% de Dégâts supplémentaires pour chaque ennemi affecté tant qu'il est dans la Faille.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Torrent_Dimensionnel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Torrent_Dimensionnel"
     },
     "pt": {
         "item_name": "Rift Torrent",
         "description": "Ampliação Rift Surge: Limbo inflige 30% a mais de Dano para cada inimigo afetado pelo Rift Surge enquanto dentro do Rift.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rift_Torrent",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rift_Torrent"
     },
     "zh-hans": {
         "item_name": "裂隙洪流",
         "description": "裂隙涌流强化：在裂隙之中时，Limbo 可造成 30% 乘以受裂隙涌流影响的敌人之数量的额外伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rift_Torrent",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rift_Torrent"
     },
     "zh-hant": {
         "item_name": "裂隙洪流",
         "description": "裂隙湧流強化：在裂隙之時，Limbo 可造成 30% 乘以受裂隙湧流影響的敵人之數量的額外傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rift_Torrent",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rift_Torrent"
     },
     "es": {
         "item_name": "Torrente Dimensional",
         "description": "Aumento de Agitación dimensional: Limbo causa 30% más daño por cada enemigo afectado por Agitación dimensional mientras esté en la grieta.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Torrente_dimensional",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Torrente_dimensional"
     },
     "it": {
         "item_name": "Rift Torrent",
         "description": "Potenziamento Rift Surge: Limbo infligge 30% Danni Extra per ogni nemico affetto da Rift Surge quando si è nel rift.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rift_Torrent",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Rift_Torrent"
     },
     "pl": {
         "item_name": "Strumień Szczeliny",
         "description": "Modyfikacja Przebicia Szczeliny: Limbo będzie zadawać 30% więcej obrażeń każdemu przeciwnikowi pod wpływem Przebicia szczeliny.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Strumie%C5%84_Szczeliny",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Strumie%C5%84_Szczeliny"
     },
     "rarity": "rare",
     "max_rank": 3,

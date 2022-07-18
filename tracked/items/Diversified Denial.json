@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "sentinel"
+        "sentinel",
+        "hound"
     ],
-    "icon": "icons/en/diversified_denial.eacd7fdaeb67e4dbece6fa7b81c4bf0f.png",
-    "thumb": "icons/en/thumbs/diversified_denial.eacd7fdaeb67e4dbece6fa7b81c4bf0f.128x128.png",
+    "icon": "items/images/en/diversified_denial.eacd7fdaeb67e4dbece6fa7b81c4bf0f.png",
+    "thumb": "items/images/en/thumbs/diversified_denial.eacd7fdaeb67e4dbece6fa7b81c4bf0f.128x128.png",
     "icon_format": "port",
     "url_name": "diversified_denial",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Diversified Denial",
         "description": "Fabricates 3 Specters that fight for 30s that each deal 85% of the Hounds damage.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Диверсифицированное Отрицание",
         "description": "Создает 3 спектра, которые сражаются в течение 30с, каждый из которых наносит 85% урона гончим.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "다이버시파이드 디나이얼",
         "description": "30초 동안 각각 하운드 피해량의 85% 피해를 가하는 3체의 스펙터를 제조합니다.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Negierung: Teilung",
         "description": "Erstellt 3 Phantome, die für 30 s kämpfen und jeweils 85 % des Schadens eines Jagdhunds verursachen.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Déni Diversifié",
         "description": "Fabrique 3 Spectres combattant pendant 30s et infligeant chacun 85% des dégâts des Molosses.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Diversified Denial",
         "description": "Cria 3 Espectros que lutam por 30s, cada um causando 85% do dano dos Predadores.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "多元否认",
         "description": "制造 3 个战斗时间为 30 秒的魅影，每个魅影造成猎犬 85% 的伤害。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "多重否決",
         "description": "捏造 3 個魅影來戰鬥 30 秒，每一個魅影造成獵犬的 85% 傷害。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Negación Diversificada",
         "description": "Fabrica 3 espectros que luchan durante 30 s, cada uno causa 85 % del daño de los Sabuesos.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Diversified Denial",
         "description": "Crea 3 Spettri che combattono per 30s, ognuno dei quali infligge il 85% del danno dei Segugi.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Zróżnicowana Odmowa",
         "description": "Tworzy 3 Widma, które walczą przez 30s i zadają 85% obrażeń Ogara.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "rare",
     "max_rank": 5,

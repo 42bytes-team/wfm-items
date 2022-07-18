@@ -3,9 +3,11 @@
     "url_name": "detron",
     "group": "secondary",
     "riven_type": "shotgun",
-    "icon": "icons/en/detron.0d820dd8bfa6d4a9369456594232e0b6.png",
-    "thumb": "icons/en/thumbs/detron.0d820dd8bfa6d4a9369456594232e0b6.128x128.png",
+    "icon": "items/images/en/detron.0d820dd8bfa6d4a9369456594232e0b6.png",
+    "thumb": "items/images/en/thumbs/detron.0d820dd8bfa6d4a9369456594232e0b6.128x128.png",
     "icon_format": "land",
+    "disposition": 1.15,
+    "mastery_level": 6,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon"
     },

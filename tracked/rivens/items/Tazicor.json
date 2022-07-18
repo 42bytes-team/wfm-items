@@ -3,9 +3,11 @@
     "url_name": "tazicor",
     "group": "sentinel",
     "riven_type": "rifle",
-    "icon": "icons/en/tazicor.21da9f14f8da3fece55ea43bd598bb58.png",
-    "thumb": "icons/en/thumbs/tazicor.21da9f14f8da3fece55ea43bd598bb58.128x128.png",
+    "icon": "items/images/en/tazicor.21da9f14f8da3fece55ea43bd598bb58.png",
+    "thumb": "items/images/en/thumbs/tazicor.21da9f14f8da3fece55ea43bd598bb58.128x128.png",
     "icon_format": "land",
+    "disposition": 1,
+    "mastery_level": 3,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon"
     },

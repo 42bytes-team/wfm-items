@@ -1,13 +1,13 @@
 {
     "_id": "54e644ffe779897594fa68cf",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "nova"
     ],
-    "icon": "icons/en/Antimatter_Absorb.1402d671df9b6f5ae2504d6abec4d4fd.png",
-    "thumb": "icons/en/thumbs/Antimatter_Absorb.1402d671df9b6f5ae2504d6abec4d4fd.128x128.png",
+    "icon": "items/images/en/antimatter_absorb.1402d671df9b6f5ae2504d6abec4d4fd.png",
+    "thumb": "items/images/en/thumbs/antimatter_absorb.1402d671df9b6f5ae2504d6abec4d4fd.128x128.png",
     "icon_format": "port",
     "url_name": "antimatter_absorb",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Antimatter Absorb",
         "description": "Antimatter Drop Augment: Absorbs enemy bullets within 3m, increasing its damage when it explodes.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Antimatter_Absorb",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Antimatter_Absorb"
     },
     "ru": {
         "item_name": "Поглощающее Антивещество",
         "description": "Улучшение способности «Сброс антивещества»: поглощает вражеские пули в радиусе 3 м, увеличивая мощность взрывов.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D0%90%D0%BD%D1%82%D0%B8%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE",
-        "icon": "icons/ru/Antimatter_Absorb.6fb2ab18e1846fe4f57616c50803c58a.png",
-        "thumb": "icons/ru/thumbs/Antimatter_Absorb.6fb2ab18e1846fe4f57616c50803c58a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/antimatter_absorb.6fb2ab18e1846fe4f57616c50803c58a.png",
+        "thumb": "items/images/ru/thumbs/antimatter_absorb.6fb2ab18e1846fe4f57616c50803c58a.128x128.png"
     },
     "ko": {
         "item_name": "안티매터 업소브",
         "description": "안티매터 드롭 개조: 3m 내의 적 탄환을 흡수하여 폭발 시 피해를 증가시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Antimatter_Absorb",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Antimatter_Absorb"
     },
     "de": {
         "item_name": "Absorbierende Antimaterie",
         "description": "Antimaterie-Tropfen Augment: Absorbiert feindiche Kugeln innerhalb von 3 m und erhöht so den Schaden, wenn er explodiert.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Absorbierende_Antimaterie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Absorbierende_Antimaterie"
     },
     "fr": {
         "item_name": "Absorption D'antimatière",
         "description": "Augmentation de Lâcher d'Antimatière: Absorbe les projectiles ennemis dans un rayon de 3m, améliorant les Dégâts causés par l'explosion.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Absorption_d%27Antimati%C3%A8re",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Absorption_d%27Antimati%C3%A8re"
     },
     "pt": {
         "item_name": "Antimatter Absorb",
         "description": "Ampliação Antimatter Drop: Absorve balas inimigas num raio de 3m, aumentando seu dano quando explode.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Antimatter_Absorb",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Antimatter_Absorb"
     },
     "zh-hans": {
         "item_name": "反物质吸收",
         "description": "反物质释放强化：球体会吸收 3 米内的敌方炮火来增加爆炸时的伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Antimatter_Absorb",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Antimatter_Absorb"
     },
     "zh-hant": {
         "item_name": "反物質吸收",
         "description": "反物質釋放強化：球體會吸收 3 公尺內的敵方砲火來增加爆炸時的傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Antimatter_Absorb",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Antimatter_Absorb"
     },
     "es": {
         "item_name": "Absorción De Antimateria",
         "description": "Aumento de Gota de antimateria: absorbe las balas enemigas dentro de 3m, aumentando su daño cuando explota.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Absorci%C3%B3n_de_antimateria",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Absorci%C3%B3n_de_antimateria"
     },
     "it": {
         "item_name": "Antimatter Absorb",
         "description": "Potenziamento Antimatter Drop: Assorbe i proiettili nemici entro 3m, aumentandone il danno dell'esplosione.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Antimatter_Drop",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Antimatter_Drop"
     },
     "pl": {
         "item_name": "Absorpcja Antymaterii",
         "description": "Modyfikacja Kropli Antymaterii: Absorbuje pociski nieprzyjaciela w zasięgu 3m, zwiększając obrażenia zadane w czasie eksplozji. ",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Absorpcja_Antymaterii",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Absorpcja_Antymaterii"
     },
     "rarity": "rare",
     "max_rank": 3,

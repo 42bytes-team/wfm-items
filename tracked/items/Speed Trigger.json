@@ -6,8 +6,8 @@
         "rifle",
         "primary"
     ],
-    "icon": "icons/en/Speed_Trigger.ae1332c42356a11560f0c6878258e5c9.png",
-    "thumb": "icons/en/thumbs/Speed_Trigger.ae1332c42356a11560f0c6878258e5c9.128x128.png",
+    "icon": "items/images/en/speed_trigger.ae1332c42356a11560f0c6878258e5c9.png",
+    "thumb": "items/images/en/thumbs/speed_trigger.ae1332c42356a11560f0c6878258e5c9.128x128.png",
     "icon_format": "port",
     "url_name": "speed_trigger",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Speed Trigger",
         "description": "+60% Fire Rate (x2 for Bows)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Speed_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Speed_Trigger"
     },
     "ru": {
         "item_name": "Скоростной Курок",
         "description": "+60% к скорострельности (x2 для луков)",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D0%9A%D1%83%D1%80%D0%BE%D0%BA",
-        "icon": "icons/ru/Speed_Trigger.26b2d93955f8747a32beed3c33ef125e.png",
-        "thumb": "icons/ru/thumbs/Speed_Trigger.26b2d93955f8747a32beed3c33ef125e.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/speed_trigger.26b2d93955f8747a32beed3c33ef125e.png",
+        "thumb": "items/images/ru/thumbs/speed_trigger.26b2d93955f8747a32beed3c33ef125e.128x128.png"
     },
     "ko": {
         "item_name": "스피드 트리거",
         "description": "+60% 연사력 (활 계열 무기에 2배)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Speed_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Speed_Trigger"
     },
     "de": {
         "item_name": "Schnellauslöser",
         "description": "+60 % Feuerrate (x2 für Bögen)",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schnellausl%C3%B6ser",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schnellausl%C3%B6ser"
     },
     "fr": {
         "item_name": "Détente Rapide",
         "description": "+60% de Cadence de Tir (x2 pour les Arcs)",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9tente_Rapide",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9tente_Rapide"
     },
     "pt": {
         "item_name": "Speed Trigger",
         "description": "+60% de Cadência de Tiro (x2 em Arcos)",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Speed_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Speed_Trigger"
     },
     "zh-hans": {
         "item_name": "灵敏扳机",
         "description": "+60% 射速（弓类武器效果加倍）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Speed_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Speed_Trigger"
     },
     "zh-hant": {
         "item_name": "靈敏扳機",
         "description": "+60% 射速（弓類武器效果加倍）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Speed_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Speed_Trigger"
     },
     "es": {
         "item_name": "Gatillo Veloz",
         "description": "+60% de cadencia de fuego (x2 para arcos)",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Gatillo_veloz",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Gatillo_veloz"
     },
     "it": {
         "item_name": "Speed Trigger",
         "description": "+60% Cadenza di Tiro (x2 per Archi)",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Speed_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Speed_Trigger"
     },
     "pl": {
         "item_name": "Szybki Spust",
         "description": "+60% Szybkostrzelność (x2 dla Łuków)",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szybki_Spust",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szybki_Spust"
     },
     "rarity": "uncommon",
     "max_rank": 5,

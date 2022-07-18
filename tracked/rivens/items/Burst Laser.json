@@ -3,9 +3,11 @@
     "url_name": "burst_laser",
     "group": "sentinel",
     "riven_type": "pistol",
-    "icon": "icons/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
-    "thumb": "icons/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png",
+    "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+    "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png",
     "icon_format": "land",
+    "disposition": 1.45,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol"
     },

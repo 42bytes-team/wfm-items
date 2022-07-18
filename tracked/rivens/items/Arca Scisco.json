@@ -3,9 +3,11 @@
     "url_name": "arca_scisco",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/arca_scisco.8f53fed9eb4af8089fd98846bc365ca4.png",
-    "thumb": "icons/en/thumbs/arca_scisco.8f53fed9eb4af8089fd98846bc365ca4.128x128.png",
+    "icon": "items/images/en/arca_scisco.8f53fed9eb4af8089fd98846bc365ca4.png",
+    "thumb": "items/images/en/thumbs/arca_scisco.8f53fed9eb4af8089fd98846bc365ca4.128x128.png",
     "icon_format": "land",
+    "disposition": 1.1,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Pistols/SniperPistol/CrpScopeGun"
     },

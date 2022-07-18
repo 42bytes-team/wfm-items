@@ -1,11 +1,10 @@
 {
     "_id": "551085f4e7798972d0eaf1ad",
     "tags": [
-        "arcane_enhancement",
-        "arcane enhancements"
+        "arcane_enhancement"
     ],
-    "icon": "icons/en/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.png",
-    "thumb": "icons/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png",
+    "icon": "items/images/en/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.png",
+    "thumb": "items/images/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_warmth",
     "tradable": true,
@@ -14,69 +13,58 @@
     },
     "en": {
         "item_name": "Arcane Warmth",
-        "description": "+102% chance to resist a Cold Status effect.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Warmth",
-        "drop": []
+        "description": "+102% chance to resist a Cold Status effect.\n+1 Arcane Revive",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Warmth"
     },
     "ru": {
         "item_name": "Мистическое Тепло",
-        "description": "+102% шанс сопротивления эффекту холода.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE",
-        "drop": []
+        "description": "+102% шанс сопротивления эффекту холода.\n+1 Мистическое Воскрешение",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE"
     },
     "ko": {
         "item_name": "아케인 웜스",
-        "description": "+102% 확률로 냉기 상태 이상 효과 저항",
-        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Warmth",
-        "drop": []
+        "description": "+102% 확률로 냉기 상태 이상 효과 저항\n+1 아케인 부활",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Warmth"
     },
     "de": {
         "item_name": "Arkana: Wärme",
-        "description": "+102 % Chance, einem Kälte-Statuseffekt zu widerstehen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_W%C3%A4rme",
-        "drop": []
+        "description": "+102 % Chance, einem Kälte-Statuseffekt zu widerstehen.\n+1 Arkana Wiederbelebung",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_W%C3%A4rme"
     },
     "fr": {
         "item_name": "Arcane Chaleur",
-        "description": "+102% de chance de résister à un Effet de Statut de Glace.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Chaleur",
-        "drop": []
+        "description": "+102% de chances de résister à un Effet de Statut de Glace.\n+1 Réanimation Arcane",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Chaleur"
     },
     "pt": {
         "item_name": "Arcano: Calor",
-        "description": "+102% de chance de resistir a um Efeito de Status Glacial.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Warmth",
-        "drop": []
+        "description": "+102% de chance de resistir a um Efeito de Status Glacial.\n+1 Reanimação Arcana",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Warmth"
     },
     "zh-hans": {
         "item_name": "温暖 赋能",
-        "description": "+102% 的几率抵挡一次冰冻触发效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Warmth",
-        "drop": []
+        "description": "+102% 的几率抵挡一次冰冻触发效果。\n赋能复活次数 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Warmth"
     },
     "zh-hant": {
         "item_name": "溫暖賦能",
-        "description": "+102% 的機率抵擋一次冰凍狀態效果",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Warmth",
-        "drop": []
+        "description": "+102% 的機率抵擋一次冰凍狀態效果\n賦能復活次數 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Warmth"
     },
     "es": {
         "item_name": "Calor Arcano",
-        "description": "+102% de probabilidad de resistir el efecto de estado de frío.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Calor_arcano",
-        "drop": []
+        "description": "+102% de probabilidad de resistir el efecto de estado de frío.\n+1 Revivir Arcano",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Calor_arcano"
     },
     "it": {
         "item_name": "Arcane Warmth",
-        "description": "+102% probabilità di resistere all'Effetto Ghiaccio.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Warmth",
-        "drop": []
+        "description": "+102% probabilità di resistere all'Effetto Ghiaccio.\n+1 Rianimazione Arcane",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Warmth"
     },
     "pl": {
         "item_name": "Arkanum Ciepła",
-        "description": "+102% szans na odparcie efektu Statusu Zimna.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Ciep%C5%82a",
-        "drop": []
+        "description": "+102% szans na odparcie efektu Statusu Zimna.\n+1 Wskrzeszenie Arkanum",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Ciep%C5%82a"
     },
     "rarity": "common",
     "max_rank": 5,

@@ -1,13 +1,13 @@
 {
     "_id": "54a74454e779892d5e5155f5",
     "tags": [
-        "rare",
         "mod",
-        "weapons",
-        "primary"
+        "rare",
+        "primary",
+        "hek"
     ],
-    "icon": "icons/en/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.png",
-    "thumb": "icons/en/thumbs/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.128x128.png",
+    "icon": "items/images/en/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.png",
+    "thumb": "items/images/en/thumbs/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.128x128.png",
     "icon_format": "port",
     "url_name": "scattered_justice",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Scattered Justice",
         "description": "+200% Multishot\n+1 'Justice'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scattered_Justice",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Scattered_Justice"
     },
     "ru": {
         "item_name": "Переменная Справедливость",
         "description": "+200% мультивыстрел\n+1 'Справедливости'",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/scattered_justice.952071bd3461743095391ef3c4ed5f81.png",
-        "thumb": "icons/ru/thumbs/scattered_justice.952071bd3461743095391ef3c4ed5f81.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/scattered_justice.952071bd3461743095391ef3c4ed5f81.png",
+        "thumb": "items/images/ru/thumbs/scattered_justice.952071bd3461743095391ef3c4ed5f81.128x128.png"
     },
     "ko": {
         "item_name": "스캐터드 저스티스",
         "description": "+200% 멀티샷\n+1 '저스티스'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scattered_Justice",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Scattered_Justice"
     },
     "de": {
         "item_name": "Zerstreute Gerechtigkeit",
         "description": "+200 % Mehrfachschuss\n+1 'Gerechtigkeit'",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerstreute_Gerechtigkeit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerstreute_Gerechtigkeit"
     },
     "fr": {
         "item_name": "Justice Dispersée",
         "description": "+200% de Tir Multiple\n+1 'Justice'",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Justice_%C3%89cart%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Justice_%C3%89cart%C3%A9e"
     },
     "pt": {
         "item_name": "Scattered Justice",
         "description": "+200% de Tiro Múltiplo\n+1 \"Justiça\"",
-        "wiki_link": "http://warframe.wikia.com/wiki/Scattered_Justice",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Scattered_Justice"
     },
     "zh-hans": {
         "item_name": "散射正义",
         "description": "+200% 多重射击\n+1 '正义'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scattered_Justice",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scattered_Justice"
     },
     "zh-hant": {
         "item_name": "散射正義",
         "description": "+200% 多重射擊\n+1 '正義'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scattered_Justice",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scattered_Justice"
     },
     "es": {
         "item_name": "Justicia Dispersa",
         "description": "+200% de multidisparo\n+1 'Justicia'",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Justicia_dispersa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Justicia_dispersa"
     },
     "it": {
         "item_name": "Scattered Justice",
         "description": "+200% Sparo Multiplo\n+1 'Giustizia'",
-        "wiki_link": "http://warframe.wikia.com/wiki/Scattered_Justice",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Scattered_Justice"
     },
     "pl": {
         "item_name": "Rozproszona Sprawiedliwość",
         "description": "+200% Wielostrzału\n+1 \"Sprawiedliwość\"",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozproszona_Sprawiedliwo%C5%9B%C4%87",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozproszona_Sprawiedliwo%C5%9B%C4%87"
     },
     "rarity": "rare",
     "max_rank": 3,

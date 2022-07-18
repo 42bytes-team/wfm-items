@@ -3,9 +3,11 @@
     "url_name": "astilla",
     "group": "primary",
     "riven_type": "shotgun",
-    "icon": "icons/en/astilla.a172d60ec9a6cfe760c408f6a66fbbd4.png",
-    "thumb": "icons/en/thumbs/astilla.a172d60ec9a6cfe760c408f6a66fbbd4.128x128.png",
+    "icon": "items/images/en/astilla.a172d60ec9a6cfe760c408f6a66fbbd4.png",
+    "thumb": "items/images/en/thumbs/astilla.a172d60ec9a6cfe760c408f6a66fbbd4.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/TnGlassShotgun/TnGlassShotgunGun"
     },

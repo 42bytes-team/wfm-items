@@ -3,9 +3,11 @@
     "url_name": "masseter",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/masseter.e61dbb2678e344be701b9d376c1bf3fc.png",
-    "thumb": "icons/en/thumbs/masseter.e61dbb2678e344be701b9d376c1bf3fc.128x128.png",
+    "icon": "items/images/en/masseter.e61dbb2678e344be701b9d376c1bf3fc.png",
+    "thumb": "items/images/en/thumbs/masseter.e61dbb2678e344be701b9d376c1bf3fc.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Swords/TnChiselKanabo/TnChiselKanabo"
     },

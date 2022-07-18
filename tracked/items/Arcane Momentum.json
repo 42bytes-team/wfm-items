@@ -1,11 +1,10 @@
 {
     "_id": "5667516b5dcbc186f0536bd2",
     "tags": [
-        "arcane_enhancement",
-        "arcane enhancements"
+        "arcane_enhancement"
     ],
-    "icon": "icons/en/arcane_momentum.f551dd91689f3169160aafecddeede24.png",
-    "thumb": "icons/en/thumbs/arcane_momentum.f551dd91689f3169160aafecddeede24.128x128.png",
+    "icon": "items/images/en/arcane_momentum.f551dd91689f3169160aafecddeede24.png",
+    "thumb": "items/images/en/thumbs/arcane_momentum.f551dd91689f3169160aafecddeede24.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_momentum",
     "tradable": true,
@@ -14,69 +13,58 @@
     },
     "en": {
         "item_name": "Arcane Momentum",
-        "description": "On Critical Hit:\n60% chance for +150% Reload Speed to Sniper Rifles for 12s\n+1 Arcane Revive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Momentum",
-        "drop": []
+        "description": "On Critical Hit:\n60% chance for +150% Reload Speed to Sniper Rifles for 12s\n+1 Arcane Revive\n+1 Arcane Revive",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Momentum"
     },
     "ru": {
         "item_name": "Мистический Момент",
-        "description": "При критическом попадании:\n60% шанс +150% к скорости перезарядки для снайперских винтовок в течение 12c.\n+1 Мистическое Воскрешение",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%9C%D0%BE%D0%BC%D0%B5%D0%BD%D1%82",
-        "drop": []
+        "description": "При критическом попадании:\n60% шанс +150% к скорости перезарядки для снайперских винтовок в течение 12c.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%9C%D0%BE%D0%BC%D0%B5%D0%BD%D1%82"
     },
     "ko": {
         "item_name": "아케인 모멘텀",
-        "description": "치명타 발생 시:\n60% 확률로 12초 동안 저격총에 +150% 재장전 속도\n+1 아케인 부활",
-        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Momentum",
-        "drop": []
+        "description": "치명타 발생 시:\n60% 확률로 12초 동안 저격총에 +150% 재장전 속도\n+1 아케인 부활\n+1 아케인 부활",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Momentum"
     },
     "de": {
         "item_name": "Arkana: Momentum",
-        "description": "Bei Krit. Treffer:\n60 % Chance für +150 % Nachladegeschwindigkeit bei Scharfschützengewehren für 12 s\n+1 Arkana Wiederbelebung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_Momentum",
-        "drop": []
+        "description": "Bei Krit. Treffer:\n60 % Chance für +150 % Nachladegeschwindigkeit bei Scharfschützengewehren für 12 s\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_Momentum"
     },
     "fr": {
         "item_name": "Arcane Élan",
-        "description": "Sur Coup Critique:\n60% de chance pour +150% de Vitesse de Recharge avec les Fusils de Sniper pendant 12s\n+1 Réanimation Arcane",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_%C3%89lan",
-        "drop": []
+        "description": "Sur Coup Critique:\n60% de chances de: +150% de Vitesse de Recharge avec les Fusils de Sniper pendant 12s\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_%C3%89lan"
     },
     "pt": {
         "item_name": "Arcano: Momento",
-        "description": "No Acerto Crítico:\n60% de chance de +150% de Velocidade de Recarga em Rifles de Precisão durante 12s\n+1 Reanimação Arcana",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Momentum",
-        "drop": []
+        "description": "No Acerto Crítico:\n60% de chance de +150% de Velocidade de Recarga em Rifles de Precisão durante 12s\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Momentum"
     },
     "zh-hans": {
         "item_name": "动量 赋能",
-        "description": "造成暴击后：\n60% 几率为狙击枪附加 +150% 装填速度 增益，持续 12 秒\n赋能复活次数 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Momentum",
-        "drop": []
+        "description": "造成暴击后：\n60% 几率为狙击枪附加 +150% 装填速度 增益，持续 12 秒\n赋能复活次数 +1\n赋能复活次数 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Momentum"
     },
     "zh-hant": {
         "item_name": "動量賦能",
-        "description": "造成暴擊後：\n60% 機率為狙擊槍附加 +150% 裝填速度 增益，持續 12 秒\n賦能復活次數 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Momentum",
-        "drop": []
+        "description": "造成暴擊後：\n60% 機率為狙擊槍附加 +150% 裝填速度 增益，持續 12 秒\n賦能復活次數 +1\n賦能復活次數 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Momentum"
     },
     "es": {
         "item_name": "Impulso Arcano",
-        "description": "Al hacer daño crítico:\n60% de probabilidad de +150% de velocidad de recarga para rifles de francotirador durante 12s\n+1 Revivir Arcano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Impulso_arcano",
-        "drop": []
+        "description": "Al hacer daño crítico:\n60% de probabilidad de +150% de velocidad de recarga para rifles de francotirador durante 12s\n+1 Revivir Arcano\n+1 Revivir Arcano",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Impulso_arcano"
     },
     "it": {
         "item_name": "Arcane Momentum",
-        "description": "Dopo un Colpo Critico:\n60% probabilità di +150% Velocità di ricarica con Fucili da Cecchino per 12s\n+1 Rianimazione Arcane",
-        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Momentum",
-        "drop": []
+        "description": "Dopo un Colpo Critico:\n60% probabilità di +150% Velocità di ricarica con Fucili da Cecchino per 12s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Momentum"
     },
     "pl": {
         "item_name": "Arkanum Rozpędu",
-        "description": "Po trafieniu krytycznym:\n60% szansy dla +150% Prędkości Przeładowania Karabinów Snajperskich na 12s\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Rozp%C4%99du",
-        "drop": []
+        "description": "Po trafieniu krytycznym:\n60% szansy dla +150% Prędkości Przeładowania Karabinów Snajperskich na 12s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Rozp%C4%99du"
     },
     "rarity": "common",
     "max_rank": 5,

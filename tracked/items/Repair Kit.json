@@ -5,8 +5,8 @@
         "mod",
         "sentinel"
     ],
-    "icon": "icons/en/Repair_Kit.fd671126fd4051e8e3addc13ae56d1f0.png",
-    "thumb": "icons/en/thumbs/Repair_Kit.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon": "items/images/en/repair_kit.fd671126fd4051e8e3addc13ae56d1f0.png",
+    "thumb": "items/images/en/thumbs/repair_kit.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
     "icon_format": "port",
     "url_name": "repair_kit",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Repair Kit",
         "description": "+6 Heal Rate/s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit"
     },
     "ru": {
         "item_name": "Комплект Ремонта",
         "description": "+6 здоровья/с",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82_%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0",
-        "icon": "icons/ru/Repair_Kit.def7900d625ec04899c363e7f0332086.png",
-        "thumb": "icons/ru/thumbs/Repair_Kit.def7900d625ec04899c363e7f0332086.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/repair_kit.def7900d625ec04899c363e7f0332086.png",
+        "thumb": "items/images/ru/thumbs/repair_kit.def7900d625ec04899c363e7f0332086.128x128.png"
     },
     "ko": {
         "item_name": "리페어 키트",
         "description": "+6 초당 체력 재생률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit"
     },
     "de": {
         "item_name": "Reparatur-set",
         "description": "+6 Gesundheit/ s erholen",
-        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit"
     },
     "fr": {
         "item_name": "Trousse De Réparation",
         "description": "+6 de Régénération de Santé/s",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Trousse_de_R%C3%A9paration",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Trousse_de_R%C3%A9paration"
     },
     "pt": {
         "item_name": "Repair Kit",
         "description": "+6 Regeneração de Vida/s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit"
     },
     "zh-hans": {
         "item_name": "修补套件",
         "description": "每秒生命恢复 +6",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Repair_Kit",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Repair_Kit"
     },
     "zh-hant": {
         "item_name": "修補套件",
         "description": "每秒生命恢復 +6",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Repair_Kit",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Repair_Kit"
     },
     "es": {
         "item_name": "Kit De Reparación",
         "description": "Recupera +6 de salud/s",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Kit_de_Reparaci%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Kit_de_Reparaci%C3%B3n"
     },
     "it": {
         "item_name": "Repair Kit",
         "description": "+6/s Rigenerazione Salute",
-        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit"
     },
     "pl": {
         "item_name": "Zestaw Naprawczy",
         "description": "Odnowa Życia +6/s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Repair_Kit"
     },
     "rarity": "common",
     "max_rank": 5,

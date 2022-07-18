@@ -5,8 +5,8 @@
         "rare",
         "melee"
     ],
-    "icon": "icons/en/Proton_Snap.86503734ed8eb3c634d064905a602fce.png",
-    "thumb": "icons/en/thumbs/Proton_Snap.86503734ed8eb3c634d064905a602fce.128x128.png",
+    "icon": "items/images/en/proton_snap.86503734ed8eb3c634d064905a602fce.png",
+    "thumb": "items/images/en/thumbs/proton_snap.86503734ed8eb3c634d064905a602fce.128x128.png",
     "icon_format": "port",
     "url_name": "proton_snap",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Proton Snap",
         "description": "Hold Wall Latch for 2s to gain +100% Toxin Damage and +50% Status Chance for 20s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap"
     },
     "ru": {
         "item_name": "Захват Протона",
         "description": "Удерживайтесь на стене 2с для получения +100% урона в виде токсина и +50% к шансу эффекта статуса на 20с.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%85%D0%B2%D0%B0%D1%82_%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B0",
-        "icon": "icons/ru/Proton_Snap.4059ab60e621d65c827d982d2003e0c3.png",
-        "thumb": "icons/ru/thumbs/Proton_Snap.4059ab60e621d65c827d982d2003e0c3.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/proton_snap.4059ab60e621d65c827d982d2003e0c3.png",
+        "thumb": "items/images/ru/thumbs/proton_snap.4059ab60e621d65c827d982d2003e0c3.128x128.png"
     },
     "ko": {
         "item_name": "프로톤 스냅",
         "description": "2초 동안 월 래치 유지 시 +100% 독성 피해 및 20초 동안 +50% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap"
     },
     "de": {
         "item_name": "Proton: Ladung",
         "description": "Halte Wandhalten für 2 s, um +100 % Giftschaden zu erhalten und +50 % Statuschance für 20 s.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pax:_Ladung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Pax:_Ladung"
     },
     "fr": {
         "item_name": "Claquement Proton",
         "description": "Maintenez une Prise Murale pendant 2s afin d'acquérir +100% de Dégâts Poison et +50% de Chance de Statut pour 20s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Claquement_Proton",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Claquement_Proton"
     },
     "pt": {
         "item_name": "Proton Snap",
         "description": "Segurar na Parede durante 2s fornecerá +100% de Dano Tóxico e +50% de Chance de Status durante 20s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap"
     },
     "zh-hans": {
         "item_name": "质子 猛扑",
         "description": "维持壁面攀附 2 秒来获得 + 100% 的毒素伤害。\n并且 +50% 状态触发几率，持续 20 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proton_Snap",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proton_Snap"
     },
     "zh-hant": {
         "item_name": "質子 吸附",
         "description": "維持壁面攀附 2 秒獲得 +100% 毒素傷害。\n並且 +50% 狀態觸發機率，持續 20 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proton_Snap",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proton_Snap"
     },
     "es": {
         "item_name": "Chasquido De Protón",
         "description": "Posarse por 2s otorga +100 % de daño de toxina y +50 % de probabilidad de estado por 20 s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Chasquido_de_Prot%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Chasquido_de_Prot%C3%B3n"
     },
     "it": {
         "item_name": "Proton Snap",
         "description": "Mantieni l'Aggrappata per 2 secondi per ottenere +100% di Danno Tossina e +50% Probabilità Effetto per 20s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap"
     },
     "pl": {
         "item_name": "Protonowe Przywarcie",
         "description": "Przytrzymaj Przywarcie przez 2s, aby zdobyć +100% Obrażeń Toksycznych i +50% Szansy na Status na 20s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Snap"
     },
     "rarity": "rare",
     "max_rank": 3,

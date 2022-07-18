@@ -3,9 +3,11 @@
     "url_name": "zymos",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/zymos.d358a221a7683eb20bd8af1b02e9d0da.png",
-    "thumb": "icons/en/thumbs/zymos.d358a221a7683eb20bd8af1b02e9d0da.128x128.png",
+    "icon": "items/images/en/zymos.d358a221a7683eb20bd8af1b02e9d0da.png",
+    "thumb": "items/images/en/thumbs/zymos.d358a221a7683eb20bd8af1b02e9d0da.128x128.png",
     "icon_format": "port",
+    "disposition": 1.2,
+    "mastery_level": 11,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon"
     },

@@ -6,8 +6,8 @@
         "mod",
         "primary"
     ],
-    "icon": "icons/en/Disruptor.059fd9d2db6d766925cad2ca29234cb3.png",
-    "thumb": "icons/en/thumbs/Disruptor.059fd9d2db6d766925cad2ca29234cb3.128x128.png",
+    "icon": "items/images/en/disruptor.059fd9d2db6d766925cad2ca29234cb3.png",
+    "thumb": "items/images/en/thumbs/disruptor.059fd9d2db6d766925cad2ca29234cb3.128x128.png",
     "icon_format": "port",
     "url_name": "disruptor",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Disruptor",
         "description": "+30% Impact",
-        "wiki_link": "https://warframe.fandom.com/wiki/Disruptor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Disruptor"
     },
     "ru": {
         "item_name": "Разрушитель",
         "description": "+30% ударного урона",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
-        "icon": "icons/ru/Disruptor.55e9e6689104309932f81d90d41459ae.png",
-        "thumb": "icons/ru/thumbs/Disruptor.55e9e6689104309932f81d90d41459ae.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/disruptor.55e9e6689104309932f81d90d41459ae.png",
+        "thumb": "items/images/ru/thumbs/disruptor.55e9e6689104309932f81d90d41459ae.128x128.png"
     },
     "ko": {
         "item_name": "디스럽터",
         "description": "+30% 충격",
-        "wiki_link": "https://warframe.fandom.com/wiki/Disruptor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Disruptor"
     },
     "de": {
         "item_name": "Disruptor",
         "description": "+30 % Einschlag",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Disruptor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Disruptor"
     },
     "fr": {
         "item_name": "Perturbateur",
         "description": "+30% Impact",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Perturbateur",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Perturbateur"
     },
     "pt": {
         "item_name": "Disruptor",
         "description": "+30% de Colisivo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Disruptor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Disruptor"
     },
     "zh-hans": {
         "item_name": "冲击干扰",
         "description": "+30% 冲击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Disruptor",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Disruptor"
     },
     "zh-hant": {
         "item_name": "衝擊干擾",
         "description": "+30% 衝擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Disruptor",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Disruptor"
     },
     "es": {
         "item_name": "Interruptor",
         "description": "+30% de impacto",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Interruptor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Interruptor"
     },
     "it": {
         "item_name": "Disruptor",
         "description": "+30% Impatto",
-        "wiki_link": "http://warframe.wikia.com/wiki/Disruptor",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Disruptor"
     },
     "pl": {
         "item_name": "Zakłócacz",
         "description": "+30% Obrażeń Miażdżących",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zak%C5%82%C3%B3cenie_Tarcz",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zak%C5%82%C3%B3cenie_Tarcz"
     },
     "rarity": "common",
     "max_rank": 5,

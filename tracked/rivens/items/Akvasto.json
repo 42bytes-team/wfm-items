@@ -3,9 +3,11 @@
     "url_name": "akvasto",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/akvasto.efa0bb0ef386af5bbb36fedc9a9e77eb.png",
-    "thumb": "icons/en/thumbs/akvasto.efa0bb0ef386af5bbb36fedc9a9e77eb.128x128.png",
+    "icon": "items/images/en/akvasto.efa0bb0ef386af5bbb36fedc9a9e77eb.png",
+    "thumb": "items/images/en/thumbs/akvasto.efa0bb0ef386af5bbb36fedc9a9e77eb.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Akimbo/DualVastos"
     },

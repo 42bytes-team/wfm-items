@@ -3,9 +3,11 @@
     "url_name": "kuva_shildeg",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/kuva_shildeg.833d9ac75906e6ed810f87d16fc3bf23.png",
-    "thumb": "icons/en/thumbs/kuva_shildeg.833d9ac75906e6ed810f87d16fc3bf23.128x128.png",
+    "icon": "items/images/en/kuva_shildeg.833d9ac75906e6ed810f87d16fc3bf23.png",
+    "thumb": "items/images/en/thumbs/kuva_shildeg.833d9ac75906e6ed810f87d16fc3bf23.128x128.png",
     "icon_format": "port",
+    "disposition": 0.75,
+    "mastery_level": 13,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Melee/GrnKuvaLichScythe/GrnKuvaLichScytheWeapon"
     },

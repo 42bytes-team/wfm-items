@@ -1,15 +1,12 @@
 {
     "_id": "5f986cf99dbdce024971b0bd",
     "tags": [
-        "weapon",
-        "prime",
-        "pistol",
         "component",
-        "secondary",
-        "barrel"
+        "weapon",
+        "prime"
     ],
-    "icon": "icons/en/zakti_prime_barrel.42dbab2b3b28d1291c7e803ad83e29fa.png",
-    "thumb": "icons/en/thumbs/zakti_prime_barrel.42dbab2b3b28d1291c7e803ad83e29fa.128x128.png",
+    "icon": "items/images/en/zakti_prime_barrel.42dbab2b3b28d1291c7e803ad83e29fa.png",
+    "thumb": "items/images/en/thumbs/zakti_prime_barrel.42dbab2b3b28d1291c7e803ad83e29fa.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
     "url_name": "zakti_prime_barrel",
@@ -28,343 +25,57 @@
     "en": {
         "item_name": "Zakti Prime Barrel",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Zakti_Prime",
-        "drop": [
-            {
-                "name": "Neo E2 Relic (Uncommon)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "Neo D3 Relic (Uncommon)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "Lith D4 Relic (Uncommon)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "Lith N8 Relic (Uncommon)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Lith T9 Relic (Uncommon)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "Lith N11 Relic (Uncommon)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Zakti_Prime"
     },
     "ru": {
         "item_name": "Закти Прайм: Ствол",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BA%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Нео E2 (Необычный)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "Реликвия Нео D3 (Необычный)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "Реликвия Лит D4 (Необычный)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "Реликвия Лит N8 (Необычный)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Реликвия Лит T9 (Необычный)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "Реликвия Лит N11 (Необычный)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BA%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "자크티 프라임 배럴",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Zakti_Prime",
-        "drop": [
-            {
-                "name": "네오 E2 성유물 (언커먼)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "네오 D3 성유물 (언커먼)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "리스 D4 성유물 (언커먼)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "리스 N8 성유물 (언커먼)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "리스 T9 성유물 (언커먼)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "리스 N11 성유물 (언커먼)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Zakti_Prime"
     },
     "de": {
         "item_name": "Zakti Prime: Lauf",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Loki_Prime",
-        "drop": [
-            {
-                "name": "Neo-relikt: E2 (Ungewöhnlich)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "Neo-relikt: D3 (Ungewöhnlich)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "Lith-relikt: D4 (Ungewöhnlich)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "Lith-relikt: N8 (Ungewöhnlich)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Lith-relikt: T9 (Ungewöhnlich)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "Lith-relikt: N11 (Ungewöhnlich)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Loki_Prime"
     },
     "fr": {
         "item_name": "Zakti Prime - Canon",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Zakti_Prime",
-        "drop": [
-            {
-                "name": "Relique Neo E2 (Inhabituel)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "Relique Neo D3 (Inhabituel)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "Relique Lith D4 (Inhabituel)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "Relique Lith N8 (Inhabituel)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relique Lith T9 (Inhabituel)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "Relique Lith N11 (Inhabituel)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Zakti_Prime"
     },
     "pt": {
         "item_name": "Zakti Prime: Cano",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Loki_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Neo E2 (Incomum)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "Relíquia Neo D3 (Incomum)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "Relíquia Lith D4 (Incomum)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "Relíquia Lith N8 (Incomum)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relíquia Lith T9 (Incomum)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "Relíquia Lith N11 (Incomum)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Loki_Prime"
     },
     "zh-hans": {
         "item_name": "毒芽 Prime 枪管",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zakti_Prime",
-        "drop": [
-            {
-                "name": "中纪 E2 遗物 (罕见)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "中纪 D3 遗物 (罕见)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "古纪 D4 遗物 (罕见)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "古纪 N8 遗物 (罕见)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "古纪 T9 遗物 (罕见)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "古纪 N11 遗物 (罕见)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zakti_Prime"
     },
     "zh-hant": {
         "item_name": "毒芽 Prime 槍管",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zakti_Prime",
-        "drop": [
-            {
-                "name": "中紀 E2 遺物 (罕見)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "中紀 D3 遺物 (罕見)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "古紀 D4 遺物 (罕見)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "古紀 N8 遺物 (罕見)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "古紀 T9 遺物 (罕見)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "古紀 N11 遺物 (罕見)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zakti_Prime"
     },
     "es": {
         "item_name": "Cañón De Zakti Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Zakti_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo E2 (Poco Común)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "Reliquia Neo D3 (Poco Común)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "Reliquia Lith D4 (Poco Común)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "Reliquia Lith N8 (Poco Común)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Reliquia Lith T9 (Poco Común)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "Reliquia Lith N11 (Poco Común)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Zakti_Prime"
     },
     "it": {
         "item_name": "Zakti Prime - Canna",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Loki_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo E2 (Uncommon)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "Reliquia Neo D3 (Uncommon)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "Reliquia Lith D4 (Uncommon)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "Reliquia Lith N8 (Uncommon)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Reliquia Lith T9 (Uncommon)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "Reliquia Lith N11 (Uncommon)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Loki_Prime"
     },
     "pl": {
         "item_name": "Zakti Prime: Lufa",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Loki_Prime",
-        "drop": [
-            {
-                "name": "Relikt Neo E2 (Nieprzeciętny)",
-                "link": "neo_e2_relic"
-            },
-            {
-                "name": "Relikt Neo D3 (Nieprzeciętny)",
-                "link": "neo_d3_relic"
-            },
-            {
-                "name": "Relikt Lith D4 (Nieprzeciętny)",
-                "link": "lith_d4_relic"
-            },
-            {
-                "name": "Relikt Lith N8 (Nieprzeciętny)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relikt Lith T9 (Nieprzeciętny)",
-                "link": "lith_t9_relic"
-            },
-            {
-                "name": "Relikt Lith N11 (Nieprzeciętny)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Loki_Prime"
     },
     "mastery_level": 14,
     "ducats": 45,

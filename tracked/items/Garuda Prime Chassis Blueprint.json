@@ -1,0 +1,85 @@
+{
+    "_id": "6242037666a58f0108c3d479",
+    "tags": [
+        "blueprint",
+        "component",
+        "prime",
+        "warframe"
+    ],
+    "icon": "items/images/en/garuda_prime_chassis.99d2e34c6134bae5cbd652dd2bf8aeee.png",
+    "thumb": "items/images/en/thumbs/garuda_prime_chassis.99d2e34c6134bae5cbd652dd2bf8aeee.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+    "url_name": "garuda_prime_chassis",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "garuda_prime_blueprint",
+        "garuda_prime_chassis",
+        "garuda_prime_neuroptics",
+        "garuda_prime_set",
+        "garuda_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Garuda Prime Chassis Blueprint",
+        "description": "Chassis component of the Garuda Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
+    },
+    "ru": {
+        "item_name": "Гаруда Прайм: Каркас (Чертеж)",
+        "description": "Компонент варфрейма Гаруда Прайм - каркас.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+    },
+    "ko": {
+        "item_name": "가루다 프라임 섀시 설계도",
+        "description": "가루다 프라임 워프레임의 섀시 부분입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
+    },
+    "de": {
+        "item_name": "Garuda Prime: Chassis Blaupause",
+        "description": "Chassis-Komponente für den Garuda Prime Warframe.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Garuda/Prime"
+    },
+    "fr": {
+        "item_name": "Garuda Prime - Châssis (Schéma)",
+        "description": "Le composant Châssis de la Warframe Garuda Prime.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Garuda/Prime"
+    },
+    "pt": {
+        "item_name": "Garuda Prime: Chassi (Diagrama)",
+        "description": "Chassi componente do Warframe Garuda Prime.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Garuda/Prime"
+    },
+    "zh-hans": {
+        "item_name": "Garuda Prime 机体 蓝图",
+        "description": "Garuda Prime 战甲的机体组件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Garuda/Prime"
+    },
+    "zh-hant": {
+        "item_name": "Garuda Prime 機體 藍圖",
+        "description": "Garuda Prime Warframe 的機體組件。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Garuda/Prime"
+    },
+    "es": {
+        "item_name": "Plano de Chasis De Garuda Prime",
+        "description": "Componente del chasis del warframe Garuda Prime.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Garuda/Prime"
+    },
+    "it": {
+        "item_name": "Garuda Prime - Chassis (Schema)",
+        "description": "Il componente Chassis per il Warframe Garuda Prime.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
+    },
+    "pl": {
+        "item_name": "Garuda Prime: Powłoka - Schemat",
+        "description": "Powłoka dla Warframe Garuda Prime.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Garuda/Prime"
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

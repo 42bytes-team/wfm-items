@@ -5,8 +5,8 @@
         "railjack",
         "mod"
     ],
-    "icon": "icons/en/particle_ram.58a30c3d3a1ab53f0236db7e0f75330c.png",
-    "thumb": "icons/en/thumbs/particle_ram.58a30c3d3a1ab53f0236db7e0f75330c.128x128.png",
+    "icon": "items/images/en/particle_ram.58a30c3d3a1ab53f0236db7e0f75330c.png",
+    "thumb": "items/images/en/thumbs/particle_ram.58a30c3d3a1ab53f0236db7e0f75330c.128x128.png",
     "icon_format": "port",
     "url_name": "particle_ram",
     "tradable": true,
@@ -16,68 +16,57 @@
     "en": {
         "item_name": "Particle Ram",
         "description": "Railjack Ram that deals damage to anything it touches when moving forward.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Particle_Ram"
     },
     "ru": {
         "item_name": "Молекулярный Таран",
         "description": "Таран Рэйлджека который при движении вперед наносит урон всему, с чем сталкивается.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%A2%D0%B0%D1%80%D0%B0%D0%BD",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%A2%D0%B0%D1%80%D0%B0%D0%BD"
     },
     "ko": {
         "item_name": "파티클 램",
         "description": "전방으로 이동하며 닿는 모든 것에 피해를 입히는 레일잭 충각입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Particle_Ram"
     },
     "de": {
         "item_name": "Partikel-ramme",
         "description": "Railjack-Ramme, die allem Schaden zufügt, was sie berührt, wenn sie sich vorwärts bewegt.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram"
     },
     "fr": {
         "item_name": "Bélier À Particules",
         "description": "Bélier à Particules qui inflige des Dégâts à tout ce qu'il touche quand le Railjack avance.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram"
     },
     "pt": {
         "item_name": "Partícula Aríete",
         "description": "Gera uma Partícula Aríete da Railjack, a qual danifica qualquer coisa que tocá-la durante o seu avanço.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram"
     },
     "zh-hans": {
         "item_name": "粒子冲撞",
         "description": "航道星舰的撞击装置在前进时会对所接触的任何东西造成伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Particle_Ram"
     },
     "zh-hant": {
         "item_name": "粒子撞擊",
         "description": "向前移動時，被銳捷號的撞擊罩碰到的任何物體都會受到傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Particle_Ram"
     },
     "es": {
         "item_name": "Choque De Partículas",
         "description": "Un ariete de Railjack que inflige daño a todo lo que toca cuando avanza.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Choque_de_part%C3%ADculas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Choque_de_part%C3%ADculas"
     },
     "it": {
         "item_name": "Particle Ram",
         "description": "Lo sperone infligge danni a tutto ciò che tocca quando il Railjack si sposta in avanti.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram"
     },
     "pl": {
         "item_name": "Taran Cząsteczkowy",
         "description": "Taran Railjacka, który zadaje obrażenia wszystkiemu, czego dotknie podczas ruchu w przód.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Particle_Ram"
     },
     "rarity": "rare",
     "max_rank": 10,

@@ -3,9 +3,11 @@
     "url_name": "guandao",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/guandao.68b20f3b44eb7bf103ed74b7a6219966.png",
-    "thumb": "icons/en/thumbs/guandao.68b20f3b44eb7bf103ed74b7a6219966.128x128.png",
+    "icon": "items/images/en/guandao.68b20f3b44eb7bf103ed74b7a6219966.png",
+    "thumb": "items/images/en/thumbs/guandao.68b20f3b44eb7bf103ed74b7a6219966.128x128.png",
     "icon_format": "land",
+    "disposition": 1.05,
+    "mastery_level": 4,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Polearms/TnGuandaoPolearm/TnGuandaoPolearmWeapon"
     },

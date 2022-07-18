@@ -2,12 +2,11 @@
     "_id": "61bb64fe3132ff00482b5fd5",
     "tags": [
         "component",
-        "secondary",
         "weapon",
         "prime"
     ],
-    "icon": "icons/en/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.png",
-    "thumb": "icons/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png",
+    "icon": "items/images/en/knell_prime_receiver.bde803a974cb2f30577f31b4b2961efb.png",
+    "thumb": "items/images/en/thumbs/knell_prime_receiver.bde803a974cb2f30577f31b4b2961efb.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
     "url_name": "knell_prime_receiver",
@@ -26,123 +25,57 @@
     "en": {
         "item_name": "Knell Prime Receiver",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Meso A3 Relic (Uncommon)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Предвестник Прайм: Приёмник",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Реликвия Мезо A3 (Необычный)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ko": {
         "item_name": "넬 프라임 리시버",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "메소 A3 성유물 (언커먼)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "de": {
         "item_name": "Knell Prime: Gehäuse",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Meso-relikt: A3 (Ungewöhnlich)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Knell Prime - Culasse",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relique Meso A3 (Inhabituel)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Knell Prime: Receptor",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relíquia Meso A3 (Incomum)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "丧钟 Prime 枪机",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "前纪 A3 遗物 (罕见)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "喪鐘 Prime 槍機",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "前紀 A3 遺物 (罕見)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "es": {
         "item_name": "Receptor De Knell Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Meso A3 (Poco Común)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "it": {
         "item_name": "Knell Prime - Castello",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Meso A3 (Uncommon)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Knell Prime: Korpus",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relikt Meso A3 (Nieprzeciętny)",
-                "link": "meso_a3_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "mastery_level": 14,
     "ducats": 45,

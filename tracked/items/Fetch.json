@@ -6,8 +6,8 @@
         "sentinel",
         "uncommon"
     ],
-    "icon": "icons/en/Fetch.3029b53e4b6e53493e836cd5cd980146.png",
-    "thumb": "icons/en/thumbs/Fetch.3029b53e4b6e53493e836cd5cd980146.128x128.png",
+    "icon": "items/images/en/fetch.3029b53e4b6e53493e836cd5cd980146.png",
+    "thumb": "items/images/en/thumbs/fetch.3029b53e4b6e53493e836cd5cd980146.128x128.png",
     "icon_format": "port",
     "url_name": "fetch",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Fetch",
         "description": "13.5m Companion Gather-Link. Detects and collects items, including mods.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fetch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Fetch"
     },
     "ru": {
         "item_name": "Апорт!",
         "description": "Притягивающая связь, радиусом 13.5м. Нахождение и сбор предметов, включая моды.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BF%D0%BE%D1%80%D1%82!",
-        "icon": "icons/ru/Fetch.97b2fe2749e11fe767f58ce3acdf9471.png",
-        "thumb": "icons/ru/thumbs/Fetch.97b2fe2749e11fe767f58ce3acdf9471.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/fetch.97b2fe2749e11fe767f58ce3acdf9471.png",
+        "thumb": "items/images/ru/thumbs/fetch.97b2fe2749e11fe767f58ce3acdf9471.128x128.png"
     },
     "ko": {
         "item_name": "페치",
         "description": "13.5m 동반자 수집-공유. 모드를 포함한 수집 가능한 아이템을 수집합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fetch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Fetch"
     },
     "de": {
         "item_name": "Apportieren",
         "description": "13.5 m Begleiter Sammel-Link. Erkennt und sammelt Gegenstände, einschließlich Mods.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Apportieren",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Apportieren"
     },
     "fr": {
         "item_name": "Va Chercher",
         "description": "Lien de collecte de 13.5m. Détecte et ramasse les objets, Mods inclus.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Va_chercher",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Va_chercher"
     },
     "pt": {
         "item_name": "Fetch",
         "description": "Adiciona 13.5m de coleta de itens para Companheiros. Detecta e coleta itens, incluindo mods.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fetch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fetch"
     },
     "zh-hans": {
         "item_name": "取回",
         "description": "13.5 米同伴收集链接。探测并收集物品，这包括收集 MOD。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fetch",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fetch"
     },
     "zh-hant": {
         "item_name": "取回",
         "description": "13.5 公尺同伴收集連結。探測並收集物品，這包括收集 MOD。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fetch",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fetch"
     },
     "es": {
         "item_name": "Buscar",
         "description": "13.5m de enlace-recolector. Detecta y recolecta objetos, incluyendo mods.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Buscar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Buscar"
     },
     "it": {
         "item_name": "Fetch",
         "description": "13.5m di collegamento raccolta. Scova e raccoglie oggetti, inclusi mod.",
-        "wiki_link": "http://warframe.fandom.com/wiki/Fetch",
-        "drop": []
+        "wiki_link": "http://warframe.fandom.com/wiki/Fetch"
     },
     "pl": {
         "item_name": "Aport",
         "description": "13.5m obszaru zbierania Towarzysza. Wykrywa i zbiera przedmioty, wliczając w to mody.",
-        "wiki_link": "http://warframe.fandom.com/wiki/Fetch",
-        "drop": []
+        "wiki_link": "http://warframe.fandom.com/wiki/Fetch"
     },
     "rarity": "uncommon",
     "max_rank": 5,

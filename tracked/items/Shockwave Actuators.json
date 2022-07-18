@@ -1,12 +1,13 @@
 {
     "_id": "5ce7fd88d23a3b00908c4211",
     "tags": [
-        "common",
         "mod",
-        "sentinel"
+        "common",
+        "sentinel",
+        "moa"
     ],
-    "icon": "icons/en/Shockwave_Actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
-    "thumb": "icons/en/thumbs/Shockwave_Actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png",
+    "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
+    "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png",
     "icon_format": "port",
     "url_name": "shockwave_actuators",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Shockwave Actuators",
         "description": "Readies a shockwave every 10s that knocks down nearby enemies.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators"
     },
     "ru": {
         "item_name": "Ударные Приводы",
         "description": "Каждые 10с подготавливает ударную волну, сбивающую с ног врагов поблизости.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B5_%D0%9F%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8B",
-        "icon": "icons/ru/Shockwave_Actuators.cf1ddc7a9120c6c5c4f0695e5d9a1218.png",
-        "thumb": "icons/ru/thumbs/Shockwave_Actuators.cf1ddc7a9120c6c5c4f0695e5d9a1218.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/shockwave_actuators.cf1ddc7a9120c6c5c4f0695e5d9a1218.png",
+        "thumb": "items/images/ru/thumbs/shockwave_actuators.cf1ddc7a9120c6c5c4f0695e5d9a1218.128x128.png"
     },
     "ko": {
         "item_name": "쇼크웨이브 액츄에이터",
         "description": "10초 마다 주변 적들을 넘어뜨리는 충격파를 준비합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators"
     },
     "de": {
         "item_name": "Schockwelle-aktuatoren",
         "description": "Bereitet eine Schockwelle alle 10 s vor, die Gegner in der Nähe niederschlägt.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators"
     },
     "fr": {
         "item_name": "Déclencheur Onde De Choc",
         "description": "Prépare une onde de choc toutes les 10s qui met à terre les ennemis proches.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators"
     },
     "pt": {
         "item_name": "Shockwave Actuators",
         "description": "Dispara uma onda de choque a cada 10s que derruba inimigos próximos.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators"
     },
     "zh-hans": {
         "item_name": "震波驱动器",
         "description": "每 10 秒可使用震波击倒邻近敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shockwave_Actuators"
     },
     "zh-hant": {
         "item_name": "震波驅動器",
         "description": "每 10 秒可使用震波擊倒鄰近敵人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shockwave_Actuators"
     },
     "es": {
         "item_name": "Accionador De Onda De Choque",
         "description": "Prepara una onda de choque cada 10s que derriba a los enemigos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Accionador_de_onda_de_choque",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Accionador_de_onda_de_choque"
     },
     "it": {
         "item_name": "Shockwave Actuators",
         "description": "Crea un'onda d'urto ogni 10s che atterra i nemici vicini.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators"
     },
     "pl": {
         "item_name": "Siłowniki Fali Uderzeniowej",
         "description": "Generuję falę uderzeniową co 10s, która powala pobliskich wrogów.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators"
     },
     "rarity": "common",
     "max_rank": 3,

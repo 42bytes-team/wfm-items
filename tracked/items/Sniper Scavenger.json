@@ -5,8 +5,8 @@
         "aura",
         "uncommon"
     ],
-    "icon": "icons/en/Sniper_Scavenger.fc4f17404bac3a608b6d5abb2990b66d.png",
-    "thumb": "icons/en/thumbs/Sniper_Scavenger.fc4f17404bac3a608b6d5abb2990b66d.128x128.png",
+    "icon": "items/images/en/sniper_scavenger.fc4f17404bac3a608b6d5abb2990b66d.png",
+    "thumb": "items/images/en/thumbs/sniper_scavenger.fc4f17404bac3a608b6d5abb2990b66d.128x128.png",
     "icon_format": "port",
     "url_name": "sniper_scavenger",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Sniper Scavenger",
         "description": "Increased Sniper Ammo recovery. +150% Ammo Pickup",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sniper_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sniper_Scavenger"
     },
     "ru": {
         "item_name": "Добытчик: Снайперские Винтовки",
         "description": "Увеличивает количество собираемых патронов для снайперской винтовки. +150% поднятых боеприпасов",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA:_%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B8",
-        "icon": "icons/ru/Sniper_Scavenger.8b13d12aec692e7fc8e91d3b8262984f.png",
-        "thumb": "icons/ru/thumbs/Sniper_Scavenger.8b13d12aec692e7fc8e91d3b8262984f.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/sniper_scavenger.8b13d12aec692e7fc8e91d3b8262984f.png",
+        "thumb": "items/images/ru/thumbs/sniper_scavenger.8b13d12aec692e7fc8e91d3b8262984f.128x128.png"
     },
     "ko": {
         "item_name": "스나이퍼 스케빈져",
         "description": "저격총 탄약의 획득량을 증가시킵니다. +150% 탄약 획득",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sniper_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sniper_Scavenger"
     },
     "de": {
         "item_name": "Scharfschützen-plünderer",
         "description": "Mehr Munition für Scharfschützengewehre erhalten. +150 % Munitionsaufnahme",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Scharfsch%C3%BCtzenpl%C3%BCnderer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Scharfsch%C3%BCtzenpl%C3%BCnderer"
     },
     "fr": {
         "item_name": "Récupérateur De Sniper",
         "description": "Récupération accrue de munitions de Sniper. +150% de Munitions Ramassées",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9rateur_de_Sniper",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9rateur_de_Sniper"
     },
     "pt": {
         "item_name": "Sniper Scavenger",
         "description": "Maior recuperação de Munição de Rifle de Precisão. +150% de Coleta de Munição",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sniper_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sniper_Scavenger"
     },
     "zh-hans": {
         "item_name": "狙击枪弹药搜集者",
         "description": "增加拾起的狙击枪弹药 +150% 弹药拾取",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sniper_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sniper_Scavenger"
     },
     "zh-hant": {
         "item_name": "狙擊槍彈藥蒐集者",
         "description": "增加拾起的狙擊槍彈藥 +150% 彈藥拾取",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sniper_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sniper_Scavenger"
     },
     "es": {
         "item_name": "Carroñero De Francotirador",
         "description": "Recuperación de munición de francotirador aumentada. +150% de recogida de munición",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Carro%C3%B1ero_de_francotirador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Carro%C3%B1ero_de_francotirador"
     },
     "it": {
         "item_name": "Sniper Scavenger",
         "description": "Recupero munizioni da cecchino aumentato. +150% Munizioni Raccolte",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sniper_Scavenger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Sniper_Scavenger"
     },
     "pl": {
         "item_name": "Szabrowanie Amunicji Snajperskiej",
         "description": "Zwiększenie odzysku amunicji snajperskiej. +150% Zbieranie Amunicji",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szabrowanie_Amunicji_Snajperskiej",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szabrowanie_Amunicji_Snajperskiej"
     },
     "rarity": "uncommon",
     "max_rank": 5,

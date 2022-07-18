@@ -2,11 +2,12 @@
     "_id": "554d3af4e77989420d3de2a3",
     "tags": [
         "mod",
+        "rare",
         "stance",
-        "rare"
+        "claws"
     ],
-    "icon": "icons/en/Four_Riders.c73064ac1f7811538e099dcfb9f8a6e1.png",
-    "thumb": "icons/en/thumbs/Four_Riders.c73064ac1f7811538e099dcfb9f8a6e1.128x128.png",
+    "icon": "items/images/en/four_riders.c73064ac1f7811538e099dcfb9f8a6e1.png",
+    "thumb": "items/images/en/thumbs/four_riders.c73064ac1f7811538e099dcfb9f8a6e1.128x128.png",
     "icon_format": "port",
     "url_name": "four_riders",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Four Riders",
         "description": "Fast strikes, powerful slams.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Four_Riders",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Four_Riders"
     },
     "ru": {
         "item_name": "Четыре Всадника",
         "description": "Быстрые выпады, мощные удары.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%92%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0",
-        "icon": "icons/ru/Four_Riders.c3e4151f6c54f40bf421b920781dae4a.png",
-        "thumb": "icons/ru/thumbs/Four_Riders.c3e4151f6c54f40bf421b920781dae4a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/four_riders.c3e4151f6c54f40bf421b920781dae4a.png",
+        "thumb": "items/images/ru/thumbs/four_riders.c3e4151f6c54f40bf421b920781dae4a.128x128.png"
     },
     "ko": {
         "item_name": "포 라이더스",
         "description": "빠른 강타, 강한 충격으로 구성된 공격입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Four_Riders",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Four_Riders"
     },
     "de": {
         "item_name": "Vier Reiter",
         "description": "Schnelle und kraftvolle Schläge.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Vier_Reiter",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Vier_Reiter"
     },
     "fr": {
         "item_name": "Quatre Cavaliers",
         "description": "Des frappes rapides avec de puissants coups au sol.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Quatre_Cavaliers",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Quatre_Cavaliers"
     },
     "pt": {
         "item_name": "Four Riders",
         "description": "Ataques rápidos, batidas poderosas.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Four_Riders",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Four_Riders"
     },
     "zh-hans": {
         "item_name": "天启异象",
         "description": "快速的打击与强烈猛击。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Four_Riders",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Four_Riders"
     },
     "zh-hant": {
         "item_name": "天啟異象",
         "description": "快速的打擊與強烈猛擊。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Four_Riders",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Four_Riders"
     },
     "es": {
         "item_name": "Cuatro Jinetes",
         "description": "Ataques rápidos, con poderosos golpes contra el suelo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cuatro_jinetes",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cuatro_jinetes"
     },
     "it": {
         "item_name": "Four Riders",
         "description": "Attacchi veloci, colpi potenti.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Founders",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Founders"
     },
     "pl": {
         "item_name": "Czterej Jeźdźcy",
         "description": "Szybkie ciosy, potężne uderzenia.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Czterej_Je%C5%BAd%C5%BAcy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Czterej_Je%C5%BAd%C5%BAcy"
     },
     "rarity": "rare",
     "max_rank": 3,

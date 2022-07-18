@@ -2,12 +2,11 @@
     "_id": "54a74454e779892d5e515649",
     "tags": [
         "mod",
-        "warframe",
         "common",
         "parazon"
     ],
-    "icon": "icons/en/intruder.c38f0366ae84d068f18fdb3c22448731.png",
-    "thumb": "icons/en/thumbs/intruder.c38f0366ae84d068f18fdb3c22448731.128x128.png",
+    "icon": "items/images/en/intruder.c38f0366ae84d068f18fdb3c22448731.png",
+    "thumb": "items/images/en/thumbs/intruder.c38f0366ae84d068f18fdb3c22448731.128x128.png",
     "icon_format": "port",
     "url_name": "intruder",
     "tradable": true,
@@ -17,70 +16,59 @@
     "en": {
         "item_name": "Intruder",
         "description": "+8s to Hacking",
-        "wiki_link": "https://warframe.fandom.com/wiki/Intruder",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Intruder"
     },
     "ru": {
         "item_name": "Взломщик",
         "description": "+8с на взлом",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B7%D0%BB%D0%BE%D0%BC%D1%89%D0%B8%D0%BA",
-        "icon": "icons/ru/intruder.5b3374dc191fd1b98ff6f4f6585c53ef.png",
-        "thumb": "icons/ru/thumbs/intruder.5b3374dc191fd1b98ff6f4f6585c53ef.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/intruder.5b3374dc191fd1b98ff6f4f6585c53ef.png",
+        "thumb": "items/images/ru/thumbs/intruder.5b3374dc191fd1b98ff6f4f6585c53ef.128x128.png"
     },
     "ko": {
         "item_name": "인트루더",
         "description": "해킹 제한 시간 +8초 증가",
-        "wiki_link": "https://warframe.fandom.com/wiki/Intruder",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Intruder"
     },
     "de": {
         "item_name": "Eindringling",
         "description": "+8 s zum Hacken",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Eindringling",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Eindringling"
     },
     "fr": {
         "item_name": "Intrus",
         "description": "+8s de Temps de Piratage",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Intrus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Intrus"
     },
     "pt": {
         "item_name": "Intruder",
         "description": "+8s para Invadir",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Intruder",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Intruder"
     },
     "zh-hans": {
         "item_name": "入侵者",
         "description": "+8 入侵时间",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Intruder",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Intruder"
     },
     "zh-hant": {
         "item_name": "入侵者",
         "description": "+8 入侵時間",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Intruder",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Intruder"
     },
     "es": {
         "item_name": "Intruso",
         "description": "+8s para hackear",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Intruso",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Intruso"
     },
     "it": {
         "item_name": "Intruder",
         "description": "+8s all'Hacking",
-        "wiki_link": "http://warframe.wikia.com/wiki/Intruder",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Intruder"
     },
     "pl": {
         "item_name": "Intruz",
         "description": "+8s do hakowania",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Intruz",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Intruz"
     },
     "rarity": "common",
     "trading_tax": 2000

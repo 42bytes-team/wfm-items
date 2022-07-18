@@ -1,13 +1,12 @@
 {
     "_id": "6139101a30dd5b004b7f90a9",
     "tags": [
-        "primary",
-        "weapon",
         "component",
+        "weapon",
         "prime"
     ],
-    "icon": "icons/en/strun_prime_set.8e671acd6f2903fd8c744bc6041140b6.png",
-    "thumb": "icons/en/thumbs/strun_prime_set.8e671acd6f2903fd8c744bc6041140b6.128x128.png",
+    "icon": "items/images/en/strun_prime_stock.8e671acd6f2903fd8c744bc6041140b6.png",
+    "thumb": "items/images/en/thumbs/strun_prime_stock.8e671acd6f2903fd8c744bc6041140b6.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
     "url_name": "strun_prime_stock",
@@ -27,211 +26,57 @@
     "en": {
         "item_name": "Strun Prime Stock",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "Neo N17 Relic (Uncommon)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "Meso S11 Relic (Uncommon)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "Lith G5 Relic (Uncommon)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "ru": {
         "item_name": "Стран Прайм: Приклад",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "Реликвия Нео N17 (Необычный)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "Реликвия Мезо S11 (Необычный)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "Реликвия Лит G5 (Необычный)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "ko": {
         "item_name": "스트런 프라임 스톡",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "네오 N17 성유물 (언커먼)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "메소 S11 성유물 (언커먼)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "리스 G5 성유물 (언커먼)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "de": {
         "item_name": "Strun Prime: Schaft",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "Neo-relikt: N17 (Ungewöhnlich)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "Meso-relikt: S11 (Ungewöhnlich)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "Lith-relikt: G5 (Ungewöhnlich)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "fr": {
         "item_name": "Strun Prime - Crosse",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "Relique Neo N17 (Inhabituel)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "Relique Meso S11 (Inhabituel)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "Relique Lith G5 (Inhabituel)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "pt": {
         "item_name": "Strun Prime: Coronha",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Neo N17 (Incomum)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "Relíquia Meso S11 (Incomum)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "Relíquia Lith G5 (Incomum)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "zh-hans": {
         "item_name": "斯特朗 Prime 枪托",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "中纪 N17 遗物 (罕见)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "前纪 S11 遗物 (罕见)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "古纪 G5 遗物 (罕见)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Strun_Prime"
     },
     "zh-hant": {
         "item_name": "斯特朗 Prime 槍托",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "中紀 N17 遺物 (罕見)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "前紀 S11 遺物 (罕見)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "古紀 G5 遺物 (罕見)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Strun_Prime"
     },
     "es": {
         "item_name": "Culata De Strun Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo N17 (Poco Común)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "Reliquia Meso S11 (Poco Común)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "Reliquia Lith G5 (Poco Común)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "it": {
         "item_name": "Strun Prime - Calcio",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo N17 (Uncommon)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "Reliquia Meso S11 (Uncommon)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "Reliquia Lith G5 (Uncommon)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "pl": {
         "item_name": "Strun Prime: Kolba",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime",
-        "drop": [
-            {
-                "name": "Relikt Neo N17 (Nieprzeciętny)",
-                "link": "neo_n17_relic"
-            },
-            {
-                "name": "Relikt Meso S11 (Nieprzeciętny)",
-                "link": "meso_s11_relic"
-            },
-            {
-                "name": "Relikt Lith G5 (Nieprzeciętny)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Strun_Prime"
     },
     "mastery_level": 14,
     "ducats": 45,

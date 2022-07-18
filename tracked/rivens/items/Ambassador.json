@@ -3,9 +3,11 @@
     "url_name": "ambassador",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/ambassador.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
-    "thumb": "icons/en/thumbs/ambassador.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
+    "icon": "items/images/en/ambassador.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
+    "thumb": "items/images/en/thumbs/ambassador.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
     "icon_format": "land",
+    "disposition": 1.1,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CrpArSniper/CrpArSniperRifle"
     },

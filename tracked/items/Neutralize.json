@@ -2,11 +2,12 @@
     "_id": "5615432bb66f8371035bfa2e",
     "tags": [
         "mod",
+        "rare",
         "kubrow",
-        "rare"
+        "chesa_kubrow"
     ],
-    "icon": "icons/en/Neutralize.a1c4b488328e3b844b16e657030b59fb.png",
-    "thumb": "icons/en/thumbs/Neutralize.a1c4b488328e3b844b16e657030b59fb.128x128.png",
+    "icon": "items/images/en/neutralize.a1c4b488328e3b844b16e657030b59fb.png",
+    "thumb": "items/images/en/thumbs/neutralize.a1c4b488328e3b844b16e657030b59fb.128x128.png",
     "icon_format": "port",
     "url_name": "neutralize",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Neutralize",
         "description": "The kubrow bites the hand of an enemy within 20m, causing them to drop their weapon.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Neutralize",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Neutralize"
     },
     "ru": {
         "item_name": "Нейтрализация",
         "description": "Кубрау вгрызается в руку противника в радиусе 20м, заставляя его выронить оружие.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%B9%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
-        "icon": "icons/ru/Neutralize.97cec8feaa2bf30657b8635f7c7789e4.png",
-        "thumb": "icons/ru/thumbs/Neutralize.97cec8feaa2bf30657b8635f7c7789e4.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/neutralize.97cec8feaa2bf30657b8635f7c7789e4.png",
+        "thumb": "items/images/ru/thumbs/neutralize.97cec8feaa2bf30657b8635f7c7789e4.128x128.png"
     },
     "ko": {
         "item_name": "뉴트럴라이즈",
         "description": "쿠브로가 20m 안에 있는 적의 손을 물어 무기를 떨어뜨리도록 만듭니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Neutralize",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Neutralize"
     },
     "de": {
         "item_name": "Neutralisieren",
         "description": "Der Kubrow beißt einen Gegner innerhalb von 20 m in die Hand, wodurch dieser seine Waffe fallen lässt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Neutralisieren",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Neutralisieren"
     },
     "fr": {
         "item_name": "Neutralisation",
         "description": "Le Kubrow mord la main d'un ennemi à moins de 20m, lui faisant lâcher son arme.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Neutralisation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Neutralisation"
     },
     "pt": {
         "item_name": "Neutralize",
         "description": "O kubrow morde a mão de um inimigo dentro de 20m, fazendo com que eles soltem sua arma.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Neutralize",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Neutralize"
     },
     "zh-hans": {
         "item_name": "啃咬压制",
         "description": "库狛啃咬 20 米范围内一名敌人的手部，使敌人不得不抛开手中的武器。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Neutralize",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Neutralize"
     },
     "zh-hant": {
         "item_name": "啃咬壓制",
         "description": "庫狛啃咬 20 公尺範圍內一名敵人的手部，使敵人不得不拋開手中的武器。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Neutralize",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Neutralize"
     },
     "es": {
         "item_name": "Neutralizar",
         "description": "El kubrow muerde la mano de un enemigo en un radio de 20m, causando que deje caer su arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Neutralizar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Neutralizar"
     },
     "it": {
         "item_name": "Neutralize",
         "description": "Il kubrow azzanna la mano di un nemico entro 20m, facendogli cadere l'arma per terra.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Neutralize",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Neutralize"
     },
     "pl": {
         "item_name": "Unieszkodliwienie",
         "description": "Kubrow gryzie dłoń przeciwnika w zasięgu 20m, powodując upuszczenie broni.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Neutralize",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Neutralize"
     },
     "rarity": "rare",
     "max_rank": 5,

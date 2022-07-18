@@ -3,11 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "pvp",
-        "warframe"
+        "warframe",
+        "ash"
     ],
-    "icon": "icons/en/Tear_Gas.dabcc0fbb32e0b6fb9188fd034fd6807.png",
-    "thumb": "icons/en/thumbs/Tear_Gas.dabcc0fbb32e0b6fb9188fd034fd6807.128x128.png",
+    "icon": "items/images/en/tear_gas.dabcc0fbb32e0b6fb9188fd034fd6807.png",
+    "thumb": "items/images/en/thumbs/tear_gas.dabcc0fbb32e0b6fb9188fd034fd6807.128x128.png",
     "icon_format": "port",
     "url_name": "tear_gas",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Tear Gas",
         "description": "Smoke Screen Augment: Blinds enemies within 4m for 3s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tear_Gas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Tear_Gas"
     },
     "ru": {
         "item_name": "Слезоточивый Газ",
         "description": "Улучшение Дымовой Завесы: ослепляет врагов в радиусе 4м. на 3с.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BB%D0%B5%D0%B7%D0%BE%D1%82%D0%BE%D1%87%D0%B8%D0%B2%D1%8B%D0%B9_%D0%93%D0%B0%D0%B7",
-        "icon": "icons/ru/Tear_Gas.1e172d9369c5323d952b2734bf89063c.png",
-        "thumb": "icons/ru/thumbs/Tear_Gas.1e172d9369c5323d952b2734bf89063c.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/tear_gas.1e172d9369c5323d952b2734bf89063c.png",
+        "thumb": "items/images/ru/thumbs/tear_gas.1e172d9369c5323d952b2734bf89063c.128x128.png"
     },
     "ko": {
         "item_name": "티어 가스",
         "description": "스모크 스크린 개조: 4m 범위 내의 적을 3초 동안 실명시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tear_Gas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Tear_Gas"
     },
     "de": {
         "item_name": "Tränengas",
         "description": "Rauchwolke Augment: Blendet Gegner in 4 m Umkreis für 3 s.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Tr%C3%A4nengas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Tr%C3%A4nengas"
     },
     "fr": {
         "item_name": "Gaz Lacrymogène",
         "description": "Augmentation d'Écran de Fumée: Aveugle les ennemis dans un rayon de 4m pendant 3s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Gaz_Lacrymog%C3%A8ne",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Gaz_Lacrymog%C3%A8ne"
     },
     "pt": {
         "item_name": "Tear Gas",
         "description": "Ampliação Smoke Screen: Cega inimigos dentro de 4m durante 3s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tear_Gas",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Tear_Gas"
     },
     "zh-hans": {
         "item_name": "催泪毒雾",
         "description": "烟雾强化：致盲 4 米内的敌人，持续 3 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tear_Gas",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tear_Gas"
     },
     "zh-hant": {
         "item_name": "催淚毒霧",
         "description": "煙霧強化：致盲 4 公尺內的敵人，持續 3 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tear_Gas",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tear_Gas"
     },
     "es": {
         "item_name": "Gas Lacrimógeno",
         "description": "Aumento de Pantalla de humo: ciega a los enemigos cercanos dentro de 4m por 3s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Gas_lacrim%C3%B3geno",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Gas_lacrim%C3%B3geno"
     },
     "it": {
         "item_name": "Tear Gas",
         "description": "Potenziamento Smoke Screen: Acceca i nemici entro 4m per 3s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tear_Gas",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Tear_Gas"
     },
     "pl": {
         "item_name": "Gaz Łzawiący",
         "description": "Modyfikacja Zasłony Dymnej: Oślepia wrogów w zasięgu 4m a 3s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gaz_%C5%81zawi%C4%85cy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gaz_%C5%81zawi%C4%85cy"
     },
     "rarity": "rare",
     "max_rank": 3,

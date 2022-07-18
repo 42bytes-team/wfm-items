@@ -3,9 +3,11 @@
     "url_name": "heliocor",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/heliocor.49fc1b3f6c4e4a550a15ad7c96885195.png",
-    "thumb": "icons/en/thumbs/heliocor.49fc1b3f6c4e4a550a15ad7c96885195.128x128.png",
+    "icon": "items/images/en/heliocor.49fc1b3f6c4e4a550a15ad7c96885195.png",
+    "thumb": "items/images/en/thumbs/heliocor.49fc1b3f6c4e4a550a15ad7c96885195.128x128.png",
     "icon_format": "land",
+    "disposition": 1.35,
+    "mastery_level": 9,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Cephalon/Melee/Hammer/CephHammerWeapon"
     },

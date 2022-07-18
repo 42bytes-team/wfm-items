@@ -2,14 +2,13 @@
     "_id": "54a74454e779892d5e5155aa",
     "tags": [
         "rare",
-        "archwing",
-        "arch-gun",
-        "archwing gun",
         "primary",
-        "mod"
+        "mod",
+        "archwing",
+        "archgun"
     ],
-    "icon": "icons/en/Automatic_Trigger.ee928fb5d9b9bc72e5c3992fa2f4c4fa.png",
-    "thumb": "icons/en/thumbs/Automatic_Trigger.ee928fb5d9b9bc72e5c3992fa2f4c4fa.128x128.png",
+    "icon": "items/images/en/automatic_trigger.ee928fb5d9b9bc72e5c3992fa2f4c4fa.png",
+    "thumb": "items/images/en/thumbs/automatic_trigger.ee928fb5d9b9bc72e5c3992fa2f4c4fa.128x128.png",
     "icon_format": "port",
     "url_name": "automatic_trigger",
     "tradable": true,
@@ -19,70 +18,59 @@
     "en": {
         "item_name": "Automatic Trigger",
         "description": "+60% Fire Rate",
-        "wiki_link": "https://warframe.fandom.com/wiki/Automatic_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Automatic_Trigger"
     },
     "ru": {
         "item_name": "Автоматический Спуск",
         "description": "+60% к скорострельности",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BF%D1%83%D1%81%D0%BA",
-        "icon": "icons/ru/Automatic_Trigger.fc6ec0a0f7135ae964b375d62bc5ba4a.png",
-        "thumb": "icons/ru/thumbs/Automatic_Trigger.fc6ec0a0f7135ae964b375d62bc5ba4a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/automatic_trigger.fc6ec0a0f7135ae964b375d62bc5ba4a.png",
+        "thumb": "items/images/ru/thumbs/automatic_trigger.fc6ec0a0f7135ae964b375d62bc5ba4a.128x128.png"
     },
     "ko": {
         "item_name": "오토매틱 트리거",
         "description": "+60% 연사력",
-        "wiki_link": "https://warframe.fandom.com/wiki/Automatic_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Automatic_Trigger"
     },
     "de": {
         "item_name": "Automatischer Auslöser",
         "description": "+60 % Feuerrate",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Automatischer_Ausl%C3%B6ser",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Automatischer_Ausl%C3%B6ser"
     },
     "fr": {
         "item_name": "Détente Automatique",
         "description": "+60% Cadence de Tir",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9tente_Automatique",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9tente_Automatique"
     },
     "pt": {
         "item_name": "Automatic Trigger",
         "description": "+60% de Cadência de Tiro",
-        "wiki_link": "http://warframe.wikia.com/wiki/Automatic_Trigger",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Automatic_Trigger"
     },
     "zh-hans": {
         "item_name": "自动扳机",
         "description": "+60% 射速",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Automatic_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Automatic_Trigger"
     },
     "zh-hant": {
         "item_name": "自動板機",
         "description": "+60% 射速",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Automatic_Trigger",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Automatic_Trigger"
     },
     "es": {
         "item_name": "Gatillo Automático",
         "description": "+60 % de cadencia de fuego",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Gatillo_autom%C3%A1tico",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Gatillo_autom%C3%A1tico"
     },
     "it": {
         "item_name": "Automatic Trigger",
         "description": "+60% Cadenza di Tiro",
-        "wiki_link": "http://warframe.wikia.com/wiki/Automatic_Trigger",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Automatic_Trigger"
     },
     "pl": {
         "item_name": "Automatyczny Spust",
         "description": "+60% Szybkostrzelności",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Automatyczny_Spust",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Automatyczny_Spust"
     },
     "rarity": "rare",
     "max_rank": 5,

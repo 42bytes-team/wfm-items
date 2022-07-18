@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e515619",
     "tags": [
         "mod",
+        "common",
         "sentinel",
-        "common"
+        "helios"
     ],
-    "icon": "icons/en/Targeting_Receptor.f209646217461cfdbe9d698b1667efbf.png",
-    "thumb": "icons/en/thumbs/Targeting_Receptor.f209646217461cfdbe9d698b1667efbf.128x128.png",
+    "icon": "items/images/en/targeting_receptor.f209646217461cfdbe9d698b1667efbf.png",
+    "thumb": "items/images/en/thumbs/targeting_receptor.f209646217461cfdbe9d698b1667efbf.128x128.png",
     "icon_format": "port",
     "url_name": "targeting_receptor",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Targeting Receptor",
         "description": "Causes the Helios Sentinel to attack targets within 10m with 3 glaives.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Targeting_Receptor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Targeting_Receptor"
     },
     "ru": {
         "item_name": "Датчик Наведения",
-        "description": "Позволяет Стражу Гелиос атаковать врагов в радиусе 10м 3 глефами.",
+        "description": "Позволяет стражу Гелиос атаковать врагов в радиусе 10 м 3 глефами.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA_%D0%9D%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F",
-        "icon": "icons/ru/Targeting_Receptor.957b3cf8d9f318b95dda86fb49925381.png",
-        "thumb": "icons/ru/thumbs/Targeting_Receptor.957b3cf8d9f318b95dda86fb49925381.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/targeting_receptor.957b3cf8d9f318b95dda86fb49925381.png",
+        "thumb": "items/images/ru/thumbs/targeting_receptor.957b3cf8d9f318b95dda86fb49925381.128x128.png"
     },
     "ko": {
         "item_name": "타게팅 리셉터",
         "description": "헬리오스 센티넬이 10m 안에 있는 적에게 3개의 글레이브를 날려 공격합니다.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Targeting_Receptor",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Targeting_Receptor"
     },
     "de": {
         "item_name": "Zielempfänger",
         "description": "Helios greift Feinde innerhalb von 10 m mit 3 Glaives an.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zielempf%C3%A4nger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zielempf%C3%A4nger"
     },
     "fr": {
         "item_name": "Récepteur De Ciblage",
         "description": "Entraîne la Sentinelle Helios à attaquer les cibles dans un rayon de 10m avec 3 glaive(s).",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cepteur_de_Ciblage",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cepteur_de_Ciblage"
     },
     "pt": {
         "item_name": "Targeting Receptor",
         "description": "Faz com que a Sentinela Helios ataque alvos a 10m de distância com 3 glaives.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Targeting_Receptor",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Targeting_Receptor"
     },
     "zh-hans": {
         "item_name": "目标感应",
         "description": "让赫利俄斯守护以 3 个机体组件来攻击 10 米距离内的敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Targeting_Receptor",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Targeting_Receptor"
     },
     "zh-hant": {
         "item_name": "目標感應",
         "description": "讓赫利俄斯守護以 3 個機體組件來攻擊 10 公尺距離內的敵人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Targeting_Receptor",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Targeting_Receptor"
     },
     "es": {
         "item_name": "Receptor De Objetivo",
         "description": "Causa que Helios ataque a los objetivos en un radio de 10m con 3 glaives.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Receptor_de_objetivo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Receptor_de_objetivo"
     },
     "it": {
         "item_name": "Targeting Receptor",
         "description": "Helios attaccherà i bersagli entro 10m con 3 glaive.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Targeting_Receptor",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Targeting_Receptor"
     },
     "pl": {
         "item_name": "Receptor Celowniczy",
         "description": "Helios zaatakuje przeciwników w zasięgu 10m miotaną bronią 3 glaive.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Receptor_Celowniczy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Receptor_Celowniczy"
     },
     "rarity": "common",
     "max_rank": 3,

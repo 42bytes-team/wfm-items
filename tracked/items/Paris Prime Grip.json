@@ -1,14 +1,12 @@
 {
     "_id": "54a73e65e779893a797fff53",
     "tags": [
-        "prime",
-        "primary",
         "component",
         "weapon",
-        "grip"
+        "prime"
     ],
-    "icon": "icons/en/Paris_Prime_Set.971f957f8304ce10617836343d47b238.png",
-    "thumb": "icons/en/thumbs/Paris_Prime_Set.971f957f8304ce10617836343d47b238.128x128.png",
+    "icon": "items/images/en/paris_prime_grip.971f957f8304ce10617836343d47b238.png",
+    "thumb": "items/images/en/thumbs/paris_prime_grip.971f957f8304ce10617836343d47b238.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_grip_128x128.png",
     "url_name": "paris_prime_grip",
@@ -29,607 +27,57 @@
     "en": {
         "item_name": "Paris Prime Grip",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "Axi A10 Relic (Uncommon)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "Neo R2 Relic (Uncommon)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "Neo R3 Relic (Uncommon)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "Neo K4 Relic (Uncommon)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "Neo G1 Relic (Uncommon)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "Meso T4 Relic (Uncommon)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "Meso B6 Relic (Uncommon)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "Meso S7 Relic (Uncommon)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "Meso S2 Relic (Uncommon)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "Lith S7 Relic (Uncommon)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "Lith K6 Relic (Uncommon)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "Lith S1 Relic (Uncommon)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Paris_Prime"
     },
     "ru": {
         "item_name": "Парис Прайм: Рукоять",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси A10 (Необычный)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "Реликвия Нео R2 (Необычный)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "Реликвия Нео R3 (Необычный)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "Реликвия Нео K4 (Необычный)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "Реликвия Нео G1 (Необычный)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "Реликвия Мезо T4 (Необычный)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "Реликвия Мезо B6 (Необычный)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "Реликвия Мезо S7 (Необычный)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "Реликвия Мезо S2 (Необычный)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "Реликвия Лит S7 (Необычный)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "Реликвия Лит K6 (Необычный)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "Реликвия Лит S1 (Необычный)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "패리스 프라임 그립",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "액시 A10 성유물 (언커먼)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "네오 R2 성유물 (언커먼)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "네오 R3 성유물 (언커먼)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "네오 K4 성유물 (언커먼)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "네오 G1 성유물 (언커먼)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "메소 T4 성유물 (언커먼)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "메소 B6 성유물 (언커먼)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "메소 S7 성유물 (언커먼)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "메소 S2 성유물 (언커먼)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "리스 S7 성유물 (언커먼)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "리스 K6 성유물 (언커먼)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "리스 S1 성유물 (언커먼)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Paris_Prime"
     },
     "de": {
         "item_name": "Paris Prime: Griff",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: A10 (Ungewöhnlich)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "Neo-relikt: R2 (Ungewöhnlich)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "Neo-relikt: R3 (Ungewöhnlich)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "Neo-relikt: K4 (Ungewöhnlich)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "Neo-relikt: G1 (Ungewöhnlich)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "Meso-relikt: T4 (Ungewöhnlich)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "Meso-relikt: B6 (Ungewöhnlich)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "Meso-relikt: S7 (Ungewöhnlich)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "Meso-relikt: S2 (Ungewöhnlich)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "Lith-relikt: S7 (Ungewöhnlich)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "Lith-relikt: K6 (Ungewöhnlich)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "Lith-relikt: S1 (Ungewöhnlich)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Paris_Prime"
     },
     "fr": {
         "item_name": "Paris Prime - Prise",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi A10 (Inhabituel)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "Relique Neo R2 (Inhabituel)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "Relique Neo R3 (Inhabituel)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "Relique Neo K4 (Inhabituel)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "Relique Neo G1 (Inhabituel)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "Relique Meso T4 (Inhabituel)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "Relique Meso B6 (Inhabituel)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "Relique Meso S7 (Inhabituel)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "Relique Meso S2 (Inhabituel)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "Relique Lith S7 (Inhabituel)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "Relique Lith K6 (Inhabituel)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "Relique Lith S1 (Inhabituel)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Paris_Prime"
     },
     "pt": {
         "item_name": "Paris Prime: Empunhadeira",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi A10 (Incomum)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "Relíquia Neo R2 (Incomum)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "Relíquia Neo R3 (Incomum)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "Relíquia Neo K4 (Incomum)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "Relíquia Neo G1 (Incomum)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "Relíquia Meso T4 (Incomum)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "Relíquia Meso B6 (Incomum)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "Relíquia Meso S7 (Incomum)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "Relíquia Meso S2 (Incomum)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "Relíquia Lith S7 (Incomum)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "Relíquia Lith K6 (Incomum)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "Relíquia Lith S1 (Incomum)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Paris_Prime"
     },
     "zh-hans": {
         "item_name": "帕里斯 Prime 弓身",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "后纪 A10 遗物 (罕见)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "中纪 R2 遗物 (罕见)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "中纪 R3 遗物 (罕见)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "中纪 K4 遗物 (罕见)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "中纪 G1 遗物 (罕见)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "前纪 T4 遗物 (罕见)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "前纪 B6 遗物 (罕见)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "前纪 S7 遗物 (罕见)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "前纪 S2 遗物 (罕见)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "古纪 S7 遗物 (罕见)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "古纪 K6 遗物 (罕见)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "古纪 S1 遗物 (罕见)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Paris_Prime"
     },
     "zh-hant": {
         "item_name": "帕里斯 Prime 弓身",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "後紀 A10 遺物 (罕見)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "中紀 R2 遺物 (罕見)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "中紀 R3 遺物 (罕見)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "中紀 K4 遺物 (罕見)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "中紀 G1 遺物 (罕見)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "前紀 T4 遺物 (罕見)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "前紀 B6 遺物 (罕見)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "前紀 S7 遺物 (罕見)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "前紀 S2 遺物 (罕見)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "古紀 S7 遺物 (罕見)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "古紀 K6 遺物 (罕見)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "古紀 S1 遺物 (罕見)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Paris_Prime"
     },
     "es": {
         "item_name": "Empuñadura De Paris Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi A10 (Poco Común)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "Reliquia Neo R2 (Poco Común)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "Reliquia Neo R3 (Poco Común)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "Reliquia Neo K4 (Poco Común)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "Reliquia Neo G1 (Poco Común)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "Reliquia Meso T4 (Poco Común)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "Reliquia Meso B6 (Poco Común)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "Reliquia Meso S7 (Poco Común)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "Reliquia Meso S2 (Poco Común)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "Reliquia Lith S7 (Poco Común)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "Reliquia Lith K6 (Poco Común)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "Reliquia Lith S1 (Poco Común)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Paris_Prime"
     },
     "it": {
         "item_name": "Paris Prime - Impugnatura",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi A10 (Uncommon)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "Reliquia Neo R2 (Uncommon)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "Reliquia Neo R3 (Uncommon)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "Reliquia Neo K4 (Uncommon)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "Reliquia Neo G1 (Uncommon)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "Reliquia Meso T4 (Uncommon)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "Reliquia Meso B6 (Uncommon)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "Reliquia Meso S7 (Uncommon)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "Reliquia Meso S2 (Uncommon)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "Reliquia Lith S7 (Uncommon)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "Reliquia Lith K6 (Uncommon)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "Reliquia Lith S1 (Uncommon)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Paris_Prime"
     },
     "pl": {
         "item_name": "Paris Prime: Majdan",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi A10 (Nieprzeciętny)",
-                "link": "axi_a10_relic"
-            },
-            {
-                "name": "Relikt Neo R2 (Nieprzeciętny)",
-                "link": "neo_r2_relic"
-            },
-            {
-                "name": "Relikt Neo R3 (Nieprzeciętny)",
-                "link": "neo_r3_relic"
-            },
-            {
-                "name": "Relikt Neo K4 (Nieprzeciętny)",
-                "link": "neo_k4_relic"
-            },
-            {
-                "name": "Relikt Neo G1 (Nieprzeciętny)",
-                "link": "neo_g1_relic"
-            },
-            {
-                "name": "Relikt Meso T4 (Nieprzeciętny)",
-                "link": "meso_t4_relic"
-            },
-            {
-                "name": "Relikt Meso B6 (Nieprzeciętny)",
-                "link": "meso_b6_relic"
-            },
-            {
-                "name": "Relikt Meso S7 (Nieprzeciętny)",
-                "link": "meso_s7_relic"
-            },
-            {
-                "name": "Relikt Meso S2 (Nieprzeciętny)",
-                "link": "meso_s2_relic"
-            },
-            {
-                "name": "Relikt Lith S7 (Nieprzeciętny)",
-                "link": "lith_s7_relic"
-            },
-            {
-                "name": "Relikt Lith K6 (Nieprzeciętny)",
-                "link": "lith_k6_relic"
-            },
-            {
-                "name": "Relikt Lith S1 (Nieprzeciętny)",
-                "link": "lith_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Paris_Prime"
     },
     "mastery_level": 8,
     "ducats": 45,

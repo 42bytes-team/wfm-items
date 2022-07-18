@@ -5,8 +5,8 @@
         "melee",
         "rare"
     ],
-    "icon": "icons/en/Focus_Energy.0c5ef63aa75c780a9ead1c58f65c98f9.png",
-    "thumb": "icons/en/thumbs/Focus_Energy.0c5ef63aa75c780a9ead1c58f65c98f9.128x128.png",
+    "icon": "items/images/en/focus_energy.0c5ef63aa75c780a9ead1c58f65c98f9.png",
+    "thumb": "items/images/en/thumbs/focus_energy.0c5ef63aa75c780a9ead1c58f65c98f9.128x128.png",
     "icon_format": "port",
     "url_name": "focus_energy",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Focus Energy",
         "description": "+40% Heavy Attack Efficiency\n+60% Electricity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Focus_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Focus_Energy"
     },
     "ru": {
         "item_name": "Фокусировка Энергии",
         "description": "+40% к эффективности тяжелой атаки\n+60% урона электричеством",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8",
-        "icon": "icons/ru/Focus_Energy.d11ae07eed12c4654fb429c61db171c3.png",
-        "thumb": "icons/ru/thumbs/Focus_Energy.d11ae07eed12c4654fb429c61db171c3.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/focus_energy.d11ae07eed12c4654fb429c61db171c3.png",
+        "thumb": "items/images/ru/thumbs/focus_energy.d11ae07eed12c4654fb429c61db171c3.128x128.png"
     },
     "ko": {
         "item_name": "포커스 에너지",
         "description": "+40% 강 공격 효율\n+60% 전기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Focus_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Focus_Energy"
     },
     "de": {
         "item_name": "Fokussierte Energie",
         "description": "+40 % Effizienz bei schweren Angriffen\n+60 % Elektrizität",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Fokussierte_Energie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Fokussierte_Energie"
     },
     "fr": {
         "item_name": "Concentration D'énergie",
         "description": "+40% d'Efficacité des Attaques Lourdes\n+60% Électrique",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Concentration_d%27%C3%A9nergie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Concentration_d%27%C3%A9nergie"
     },
     "pt": {
         "item_name": "Focus Energy",
         "description": "+40% de Eficiência do Ataque Pesado\n+60% de Elétrico",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Focus_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Focus_Energy"
     },
     "zh-hans": {
         "item_name": "聚焦能量",
         "description": "+40% 重击效率\n+60% 电击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Focus_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Focus_Energy"
     },
     "zh-hant": {
         "item_name": "聚焦能量",
         "description": "+40% 重擊效率\n+60% 電擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Focus_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Focus_Energy"
     },
     "es": {
         "item_name": "Enfoque De Energía",
         "description": "+40 % de eficiencia de ataque pesado\n+60% de electricidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Enfoque_de_energ%C3%ADa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Enfoque_de_energ%C3%ADa"
     },
     "it": {
         "item_name": "Focus Energy",
         "description": "+40% Efficienza Attacco Pesante\n+60% Elettrico",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Focus_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Focus_Energy"
     },
     "pl": {
         "item_name": "Skupienie Energii",
         "description": "+40% Wydajności Ciężkiego Ataku\n+60% Obrażeń Elektrycznych",
-        "wiki_link": "http://warframe.wikia.com/wiki/Focus_Energy",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Focus_Energy"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -6,8 +6,8 @@
         "pvp",
         "warframe"
     ],
-    "icon": "icons/en/Air_Thrusters.43dba0311d632578830cd0537a965aa2.png",
-    "thumb": "icons/en/thumbs/Air_Thrusters.43dba0311d632578830cd0537a965aa2.128x128.png",
+    "icon": "items/images/en/air_thrusters.43dba0311d632578830cd0537a965aa2.png",
+    "thumb": "items/images/en/thumbs/air_thrusters.43dba0311d632578830cd0537a965aa2.128x128.png",
     "icon_format": "port",
     "url_name": "air_thrusters",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Air Thrusters",
         "description": "+100% Slide Boost when Airborne\n-20% Mobility",
-        "wiki_link": "https://warframe.fandom.com/wiki/Air_Thrusters",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Air_Thrusters"
     },
     "ru": {
         "item_name": "Воздушные Двигатели",
         "description": "+100% скорости скольжения в воздухе\n-20% мобильности",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B5_%D0%94%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D0%B8",
-        "icon": "icons/ru/Air_Thrusters.dba36cf7e1c7611cb61f037ff42e1dbb.png",
-        "thumb": "icons/ru/thumbs/Air_Thrusters.dba36cf7e1c7611cb61f037ff42e1dbb.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/air_thrusters.dba36cf7e1c7611cb61f037ff42e1dbb.png",
+        "thumb": "items/images/ru/thumbs/air_thrusters.dba36cf7e1c7611cb61f037ff42e1dbb.128x128.png"
     },
     "ko": {
         "item_name": "에어 스러스터",
         "description": "공중 슬라이드 속도 +100%\n-20% 기동성",
-        "wiki_link": "https://warframe.fandom.com/wiki/Air_Thrusters",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Air_Thrusters"
     },
     "de": {
         "item_name": "Luftantrieb",
         "description": "+100 % Rutschbonus in der Luft\n-20 % zu Mobilität",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Luftantrieb",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Luftantrieb"
     },
     "fr": {
         "item_name": "Propulseurs Aériens",
         "description": "+100% d'augmentation de Glissade dans les airs \n-20% de Mobilité",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Propulseurs_Hyperion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Propulseurs_Hyperion"
     },
     "pt": {
         "item_name": "Air Thrusters",
         "description": "+100% de Impulso ao Deslizar enquanto no ar\n-20% de Mobilidade",
-        "wiki_link": "http://warframe.wikia.com/wiki/Air_Thrusters",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Air_Thrusters"
     },
     "zh-hans": {
         "item_name": "空中推进",
         "description": "在空中时提升+100% 滑行速度，\n-20% 移动力加成",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Air_Thrusters",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Air_Thrusters"
     },
     "zh-hant": {
         "item_name": "空中推進",
         "description": "在空中時提升 +100% 滑行速度，\n-20% 移動力加成",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Air_Thrusters",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Air_Thrusters"
     },
     "es": {
         "item_name": "Propulsores De Aire",
         "description": "+100 % de deslizamiento potenciado mientras estás en el aire\n-20 % de movilidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Propulsores_de_aire",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Propulsores_de_aire"
     },
     "it": {
         "item_name": "Air Thrusters",
         "description": "+100% Boost Scivolata mentre in volo\n-20% Mobilità",
-        "wiki_link": "http://warframe.wikia.com/wiki/Air_Thrusters",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Air_Thrusters"
     },
     "pl": {
         "item_name": "Wyrzutnie",
         "description": "+100% Zwiększenie wślizgu będąc w powietrzu\n-20% Mobilności",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyzwanie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyzwanie"
     },
     "rarity": "uncommon",
     "max_rank": 3,

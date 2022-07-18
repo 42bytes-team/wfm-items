@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e515643",
     "tags": [
         "mod",
+        "rare",
         "stance",
-        "rare"
+        "whips"
     ],
-    "icon": "icons/en/Coiling_Viper.aa153941b8afd949e633825037789622.png",
-    "thumb": "icons/en/thumbs/Coiling_Viper.aa153941b8afd949e633825037789622.128x128.png",
+    "icon": "items/images/en/coiling_viper.aa153941b8afd949e633825037789622.png",
+    "thumb": "items/images/en/thumbs/coiling_viper.aa153941b8afd949e633825037789622.128x128.png",
     "icon_format": "port",
     "url_name": "coiling_viper",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Coiling Viper",
         "description": "Powerful arcing strikes with energetic flips.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Coiling_Viper",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Coiling_Viper"
     },
     "ru": {
         "item_name": "Вьющаяся Змея",
         "description": "Мощные атаки взмахами с энергетическими подкатами.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8C%D1%8E%D1%89%D0%B0%D1%8F%D1%81%D1%8F_%D0%B7%D0%BC%D0%B5%D1%8F",
-        "icon": "icons/ru/Coiling_Viper.e502d19c076bfdc0bd4e8946956cd2cf.png",
-        "thumb": "icons/ru/thumbs/Coiling_Viper.e502d19c076bfdc0bd4e8946956cd2cf.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/coiling_viper.e502d19c076bfdc0bd4e8946956cd2cf.png",
+        "thumb": "items/images/ru/thumbs/coiling_viper.e502d19c076bfdc0bd4e8946956cd2cf.128x128.png"
     },
     "ko": {
         "item_name": "코일링 바이퍼",
         "description": "힘찬 뒤집기와 아치형으로 휘어지는 강력한 공격을 가하는 연속기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Coiling_Viper",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Coiling_Viper"
     },
     "de": {
         "item_name": "Windende Viper",
         "description": "Kraftvolle, geschwungene Schläge mit geladenen Aufschlägen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Windende_Viper",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Windende_Viper"
     },
     "fr": {
         "item_name": "Étreinte De La Vipère",
-        "description": "Puissantes frappes en arc avec des flips énergétiques",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89treinte_de_la_vip%C3%A8re",
-        "drop": []
+        "description": "Puissantes frappes en arc avec des rotations énergétiques.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89treinte_de_la_vip%C3%A8re"
     },
     "pt": {
         "item_name": "Coiling Viper",
         "description": "Golpes curvados poderosos com viradas energéticas.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Coiling_Viper",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Coiling_Viper"
     },
     "zh-hans": {
         "item_name": "毒蛇螺旋",
         "description": "带着强力翻转的弧状攻击。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Coiling_Viper",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Coiling_Viper"
     },
     "zh-hant": {
         "item_name": "毒蛇螺旋",
         "description": "帶著強力翻轉的弧狀攻擊。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Coiling_Viper",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Coiling_Viper"
     },
     "es": {
         "item_name": "Víbora Enroscada",
         "description": "Poderosos ataques en arco con lanzamientos vigorosos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/V%C3%ADbora_enroscada",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/V%C3%ADbora_enroscada"
     },
     "it": {
         "item_name": "Coiling Viper",
         "description": "Potenti colpi arcuati con rotazioni energetiche.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Coiling_Viper",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Coiling_Viper"
     },
     "pl": {
         "item_name": "Wijąca Się Żmija",
         "description": "Potężne ataki po łuku z energicznymi przewrotami.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wij%C4%85ca_Si%C4%99_%C5%BBmija",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wij%C4%85ca_Si%C4%99_%C5%BBmija"
     },
     "rarity": "rare",
     "max_rank": 3,

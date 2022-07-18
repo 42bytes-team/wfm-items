@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e51566e",
     "tags": [
         "mod",
+        "rare",
         "stance",
-        "rare"
+        "daggers"
     ],
-    "icon": "icons/en/Pointed_Wind.32a87c4d2733e14f641db59e0c53e8c6.png",
-    "thumb": "icons/en/thumbs/Pointed_Wind.32a87c4d2733e14f641db59e0c53e8c6.128x128.png",
+    "icon": "items/images/en/pointed_wind.32a87c4d2733e14f641db59e0c53e8c6.png",
+    "thumb": "items/images/en/thumbs/pointed_wind.32a87c4d2733e14f641db59e0c53e8c6.128x128.png",
     "icon_format": "port",
     "url_name": "pointed_wind",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Pointed Wind",
         "description": "Spiral strikes, lifting combos.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pointed_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pointed_Wind"
     },
     "ru": {
         "item_name": "Острый Ветер",
         "description": "Спиральные атаки, восходящие комбо.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%92%D0%B5%D1%82%D0%B5%D1%80",
-        "icon": "icons/ru/Pointed_Wind.697bb980167436ef5d8e9ed6883b5c30.png",
-        "thumb": "icons/ru/thumbs/Pointed_Wind.697bb980167436ef5d8e9ed6883b5c30.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/pointed_wind.697bb980167436ef5d8e9ed6883b5c30.png",
+        "thumb": "items/images/ru/thumbs/pointed_wind.697bb980167436ef5d8e9ed6883b5c30.128x128.png"
     },
     "ko": {
         "item_name": "포인티드 윈드",
         "description": "나선형으로 위로 올려치는 연속기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pointed_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pointed_Wind"
     },
     "de": {
         "item_name": "Schnittiger Wind",
         "description": "Wirbelschläge, hochhebende Kombos.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schneidender_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schneidender_Wind"
     },
     "fr": {
         "item_name": "Vent Tranchant",
         "description": "Frappes en spirale, combos portants.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vent_Tranchant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vent_Tranchant"
     },
     "pt": {
         "item_name": "Pointed Wind",
         "description": "Ataques espirais, combos que levantam o inimigo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pointed_Wind",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Pointed_Wind"
     },
     "zh-hans": {
         "item_name": "尖锐之风",
         "description": "旋转打击，不断上升的连段。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pointed_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pointed_Wind"
     },
     "zh-hant": {
         "item_name": "尖銳之風",
         "description": "旋轉打擊，不斷上升的連段。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pointed_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pointed_Wind"
     },
     "es": {
         "item_name": "Viento Punzante",
         "description": "Ataques en espiral, combos de levantamiento.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Viento_punzante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Viento_punzante"
     },
     "it": {
         "item_name": "Pointed Wind",
         "description": "Colpi a spirale, combo aeree.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pointed_Wind",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Pointed_Wind"
     },
     "pl": {
         "item_name": "Spiczasty Wiatr",
         "description": "Spiralne uderzenie, kombinacje wybijające.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Spiczasty_Wiatr",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Spiczasty_Wiatr"
     },
     "rarity": "rare",
     "max_rank": 3,

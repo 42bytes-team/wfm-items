@@ -3,9 +3,11 @@
     "url_name": "wolf_sledge",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/wolf_sledge.65accab6b5b94753be5db7d124f3b086.png",
-    "thumb": "icons/en/thumbs/wolf_sledge.65accab6b5b94753be5db7d124f3b086.128x128.png",
+    "icon": "items/images/en/wolf_sledge.65accab6b5b94753be5db7d124f3b086.png",
+    "thumb": "items/images/en/thumbs/wolf_sledge.65accab6b5b94753be5db7d124f3b086.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer"
     },

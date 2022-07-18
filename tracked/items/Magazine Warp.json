@@ -6,8 +6,8 @@
         "rifle",
         "primary"
     ],
-    "icon": "icons/en/Magazine_Warp.e2700e1b5c6c0028cab3b6a249068f69.png",
-    "thumb": "icons/en/thumbs/Magazine_Warp.e2700e1b5c6c0028cab3b6a249068f69.128x128.png",
+    "icon": "items/images/en/magazine_warp.e2700e1b5c6c0028cab3b6a249068f69.png",
+    "thumb": "items/images/en/thumbs/magazine_warp.e2700e1b5c6c0028cab3b6a249068f69.128x128.png",
     "icon_format": "port",
     "url_name": "magazine_warp",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Magazine Warp",
         "description": "+30% Magazine Capacity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Warp",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Warp"
     },
     "ru": {
         "item_name": "Искажение Магазина",
         "description": "+30% к вместимости магазина",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D0%BA%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0",
-        "icon": "icons/ru/Magazine_Warp.9e56362bf1204e44a878a0da5483ca56.png",
-        "thumb": "icons/ru/thumbs/Magazine_Warp.9e56362bf1204e44a878a0da5483ca56.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/magazine_warp.9e56362bf1204e44a878a0da5483ca56.png",
+        "thumb": "items/images/ru/thumbs/magazine_warp.9e56362bf1204e44a878a0da5483ca56.128x128.png"
     },
     "ko": {
         "item_name": "매거진 워프",
         "description": "+30% 탄창 용량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Warp",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Warp"
     },
     "de": {
         "item_name": "Magazin-umwandlung",
         "description": "+30 % Magazingröße",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Magazinumwandlung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Magazinumwandlung"
     },
     "fr": {
         "item_name": "Mutation De Chargeur",
         "description": "+30% de Taille Du Chargeur",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mutation_de_Chargeur",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mutation_de_Chargeur"
     },
     "pt": {
         "item_name": "Magazine Warp",
         "description": "+30% de Capacidade do Carregador",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magazine_Warp",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magazine_Warp"
     },
     "zh-hans": {
         "item_name": "弹匣增幅",
         "description": "+30% 弹匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magazine_Warp",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magazine_Warp"
     },
     "zh-hant": {
         "item_name": "彈匣增幅",
         "description": "+30% 彈匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magazine_Warp",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magazine_Warp"
     },
     "es": {
         "item_name": "Cargador Deformado",
         "description": "+30% de capacidad de cargador",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_deformado",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_deformado"
     },
     "it": {
         "item_name": "Magazine Warp",
         "description": "+30% Capienza Caricatore",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Magazine_Warp",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Magazine_Warp"
     },
     "pl": {
         "item_name": "Magazynek Łukowy",
         "description": "+30% Pojemności Magazynka",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magazynek_%C5%81ukowy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magazynek_%C5%81ukowy"
     },
     "rarity": "common",
     "max_rank": 5,

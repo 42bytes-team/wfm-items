@@ -3,9 +3,11 @@
     "url_name": "broken_scepter",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/broken_scepter.9412cd26613aca64d75a63330b444d31.png",
-    "thumb": "icons/en/thumbs/broken_scepter.9412cd26613aca64d75a63330b444d31.128x128.png",
+    "icon": "items/images/en/broken_scepter.9412cd26613aca64d75a63330b444d31.png",
+    "thumb": "items/images/en/thumbs/broken_scepter.9412cd26613aca64d75a63330b444d31.128x128.png",
     "icon_format": "land",
+    "disposition": 1.4,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Melee/GrnQueenSceptre/GrnQueenSceptreWeapon"
     },

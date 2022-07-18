@@ -2,11 +2,12 @@
     "_id": "5754a307e701ef5844257da7",
     "tags": [
         "mod",
+        "rare",
         "warframe",
-        "rare"
+        "banshee"
     ],
-    "icon": "icons/en/Resonating_Quake.02bc8ba11ab6bf320f04755aa6b9a972.png",
-    "thumb": "icons/en/thumbs/Resonating_Quake.02bc8ba11ab6bf320f04755aa6b9a972.128x128.png",
+    "icon": "items/images/en/resonating_quake.02bc8ba11ab6bf320f04755aa6b9a972.png",
+    "thumb": "items/images/en/thumbs/resonating_quake.02bc8ba11ab6bf320f04755aa6b9a972.128x128.png",
     "icon_format": "port",
     "url_name": "resonating_quake",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Resonating Quake",
         "description": "Sound Quake Augment: Forgoes channeling to create a shockwave that deals 20x Damage at the epicenter, gradually weakening as it expands out.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Resonating_Quake",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Resonating_Quake"
     },
     "ru": {
         "item_name": "Резонирующий Взрыв",
         "description": "Улучшение способности «Звуковой взрыв»: создаёт самостоятельный эпицентр, волны которого наносят х20 урона в эпицентре, ослабевая по мере расширения зоны действия.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BD%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%92%D0%B7%D1%80%D1%8B%D0%B2",
-        "icon": "icons/ru/Resonating_Quake.fff058f85e8d79e1ceaf1a50443fc44c.png",
-        "thumb": "icons/ru/thumbs/Resonating_Quake.fff058f85e8d79e1ceaf1a50443fc44c.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/resonating_quake.fff058f85e8d79e1ceaf1a50443fc44c.png",
+        "thumb": "items/images/ru/thumbs/resonating_quake.fff058f85e8d79e1ceaf1a50443fc44c.128x128.png"
     },
     "ko": {
         "item_name": "레저네이팅 퀘이크",
         "description": "사운드 퀘이크 개조: 채널링을 없애고 진원에서 20배의 피해를 가하는 충격파를 생성하지만, 퍼져 나갈수록 점점 약해집니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Resonating_Quake",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Resonating_Quake"
     },
     "de": {
         "item_name": "Nachhallendes Beben",
         "description": "Schallbeben Augment: Umgeht kanalisieren und erzeugt eine Schallwelle, die 20x Schaden im Epizentrum verursacht, welcher bei Ausweitung abschwächt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Nachhallendes_Beben",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Nachhallendes_Beben"
     },
     "fr": {
         "item_name": "Secousse Résonnante",
         "description": "Augmentation de Secousse Sonique: Abandonne la canalisation au profit d'une onde de choc qui inflige 20x les dégâts à l'épicentre, lesquels s'amoindrissent tandis que la vibration se propage.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Secousse_R%C3%A9sonnante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Secousse_R%C3%A9sonnante"
     },
     "pt": {
         "item_name": "Resonating Quake",
         "description": "Ampliação Sound Quake: dispensa a canalização para criar uma onda de choque que causa 20x de Dano no epicentro e gradualmente enfraquece à medida que se expande.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Resonating_Quake",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Resonating_Quake"
     },
     "zh-hans": {
         "item_name": "震地共鸣",
         "description": "音波冲击强化：中断技能引导会生成一道震波，并对位于震波中心的敌人造成 20 倍伤害。伤害随震波扩散而递减。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Resonating_Quake",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Resonating_Quake"
     },
     "zh-hant": {
         "item_name": "震地共鳴",
         "description": "音波衝擊強化：中斷技能引導會生成一道震波，並對位於震波中心的敵人造成 20 倍傷害。傷害隨震波擴散而遞減。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Resonating_Quake",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Resonating_Quake"
     },
     "es": {
         "item_name": "Terremoto Resonador",
         "description": "Aumento de Terremoto de sonido: se renuncia a la canalización para crear una onda de choque que causa 20x veces más de daño en el epicentro, debilitándose a medida que se expande.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Terremoto_resonador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Terremoto_resonador"
     },
     "it": {
         "item_name": "Resonating Quake",
         "description": "Potenziamento Sound Quake: Rinuncia alla canalizzazione per creare un'onda d'urto che infigge 20x di danno all'epicentro, indebolendosi gradualmente mentre si espande.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Resonating_Quake",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Resonating_Quake"
     },
     "pl": {
         "item_name": "Rezonujące Trzęsienie",
         "description": "Modyfikacja Wstrząsu Akustycznego: Zastępuje strumieniowanie falą uderzeniową, zadającą 20x krotnie więcej obrażeń w centrum i tracącą na sile wraz z ekspansją fali.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rezonuj%C4%85ce_Trz%C4%99sienie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rezonuj%C4%85ce_Trz%C4%99sienie"
     },
     "rarity": "rare",
     "max_rank": 3,

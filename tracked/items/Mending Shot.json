@@ -3,11 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "rifle",
-        "primary"
+        "primary",
+        "rifle_(no_aoe)"
     ],
-    "icon": "icons/en/mending_shot.ad5ba71f5bb163a491800032f1fe2591.png",
-    "thumb": "icons/en/thumbs/mending_shot.ad5ba71f5bb163a491800032f1fe2591.128x128.png",
+    "icon": "items/images/en/mending_shot.ad5ba71f5bb163a491800032f1fe2591.png",
+    "thumb": "items/images/en/thumbs/mending_shot.ad5ba71f5bb163a491800032f1fe2591.128x128.png",
     "icon_format": "port",
     "url_name": "mending_shot",
     "tradable": true,
@@ -17,68 +17,57 @@
     "en": {
         "item_name": "Mending Shot",
         "description": "Shoot Health Orbs to obtain them with +110% extra effect.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot"
     },
     "ru": {
         "item_name": "Лечебный Выстрел",
         "description": "Стреляйте по сферам здоровья, чтобы получить их с +110% доп. эффекта.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB"
     },
     "ko": {
         "item_name": "멘딩 샷",
         "description": "체력 오브를 쏠 시 +110%의 추가 효과와 함께 습득할 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot"
     },
     "de": {
         "item_name": "Heilender Schuss",
         "description": "Schieße auf Gesundheitskugeln, um sie mit einem Bonus-Effekt von +110 % zu erhalten.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gleitender_Beschuss",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gleitender_Beschuss"
     },
     "fr": {
         "item_name": "Tir Réparateur",
         "description": "Tirez sur les Orbes de Santé pour les obtenir avec +110% d'effet en plus.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot"
     },
     "pt": {
         "item_name": "Mending Shot",
         "description": "Atire em Orbes de Vida para obtê-las com +110% de efeito extra.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot"
     },
     "zh-hans": {
         "item_name": "补愈射击",
         "description": "通过射击生命球来捡取它们，并获得 +110% 的额外效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mending_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mending_Shot"
     },
     "zh-hant": {
         "item_name": "治癒槍火",
         "description": "射擊生命球來獲取他們，並提升 +110% 額外效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mending_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mending_Shot"
     },
     "es": {
         "item_name": "Disparo Reparador",
         "description": "Dispara a orbes de salud para obtenerlas con un +110% de efecto adicional.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_reparador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_reparador"
     },
     "it": {
         "item_name": "Mending Shot",
         "description": "Spara alle Sfere di Salute per ottenerle con il +110% di effetto extra.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot"
     },
     "pl": {
         "item_name": "Łatający Wystrzał",
         "description": "Strzelaj do Kul Życia, aby pozyskać je z dodatkowym +110% efektem.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mending_Shot"
     },
     "rarity": "rare",
     "max_rank": 10,

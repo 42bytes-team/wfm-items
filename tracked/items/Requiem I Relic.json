@@ -4,8 +4,8 @@
         "relic",
         "requiem"
     ],
-    "icon": "icons/en/requiem_i_relic.70479db2ff21c243673e2a3caf93d7b9.png",
-    "thumb": "icons/en/thumbs/requiem_i_relic.70479db2ff21c243673e2a3caf93d7b9.128x128.png",
+    "icon": "items/images/en/requiem_i_relic.70479db2ff21c243673e2a3caf93d7b9.png",
+    "thumb": "items/images/en/thumbs/requiem_i_relic.70479db2ff21c243673e2a3caf93d7b9.128x128.png",
     "icon_format": "port",
     "url_name": "requiem_i_relic",
     "redirect_from": [
@@ -21,68 +21,57 @@
     "en": {
         "item_name": "Requiem I Relic",
         "description": "Holds Requiem Mods and other mysteries.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic"
     },
     "ru": {
         "item_name": "Реликвия Реквием I",
         "description": "Содержит Моды Реквиема и другие тайны.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%BB%D0%B8%D0%BA%D0%B2%D0%B8%D1%8F_%D0%A0%D0%B5%D0%BA%D0%B2%D0%B8%D0%B5%D0%BC%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%BB%D0%B8%D0%BA%D0%B2%D0%B8%D1%8F_%D0%A0%D0%B5%D0%BA%D0%B2%D0%B8%D0%B5%D0%BC%D0%B0"
     },
     "ko": {
         "item_name": "레퀴엠 I 성유물",
         "description": "레퀴엠 모드 및 그 외의 수수께끼들을 담고 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic"
     },
     "de": {
         "item_name": "Requiem-relikt: I",
         "description": "Enthält Requiem-Mods und andere Mysterien.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic"
     },
     "fr": {
         "item_name": "Relique Requiem I",
         "description": "Contient des Mods Requiem et d'autres mystères.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Relique_Requiem",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Relique_Requiem"
     },
     "pt": {
         "item_name": "Relíquia Réquiem I",
         "description": "Possui Mods Réquiem e outros mistérios.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic"
     },
     "zh-hans": {
         "item_name": "安魂 I 遗物",
         "description": "包含安魂 MOD 以及其他神秘物品。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Requiem_Relic"
     },
     "zh-hant": {
         "item_name": "鎮魂 I 遺物",
         "description": "持有鎮魂 MOD 與其他神秘之物。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Requiem_Relic"
     },
     "es": {
         "item_name": "Reliquia Réquiem I",
         "description": "Contiene mods Réquiem y otros misterios.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic"
     },
     "it": {
         "item_name": "Reliquia Requiem I",
         "description": "Contiene i Mod Requiem e altri misteri.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic"
     },
     "pl": {
         "item_name": "Relikt Requiem I",
         "description": "Zawiera Mody Requiem i inne tajemnice.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Requiem_Relic"
     },
     "subtypes": [
         "intact",
@@ -90,5 +79,6 @@
         "flawless",
         "radiant"
     ],
+    "vaulted": false,
     "trading_tax": 2000
 }

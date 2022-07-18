@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e515684",
     "tags": [
         "mod",
+        "common",
         "sentinel",
-        "common"
+        "robotic"
     ],
-    "icon": "icons/en/Guardian.82a8cad9f3aa8df41a82c490e85425d6.png",
-    "thumb": "icons/en/thumbs/Guardian.82a8cad9f3aa8df41a82c490e85425d6.128x128.png",
+    "icon": "items/images/en/guardian.82a8cad9f3aa8df41a82c490e85425d6.png",
+    "thumb": "items/images/en/thumbs/guardian.82a8cad9f3aa8df41a82c490e85425d6.128x128.png",
     "icon_format": "port",
     "url_name": "guardian",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Guardian",
         "description": "Boosts owner's shield by 100% when it runs out.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Guardian",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Guardian"
     },
     "ru": {
         "item_name": "Защитник",
         "description": "Восполняет 100% щита владельца, если они на нуле.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA",
-        "icon": "icons/ru/Guardian.8626522c8178be2b9617cc62332a553f.png",
-        "thumb": "icons/ru/thumbs/Guardian.8626522c8178be2b9617cc62332a553f.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/guardian.8626522c8178be2b9617cc62332a553f.png",
+        "thumb": "items/images/ru/thumbs/guardian.8626522c8178be2b9617cc62332a553f.128x128.png"
     },
     "ko": {
         "item_name": "가디언",
         "description": "소유자의 실드가 떨어진 경우, 실드의 100%를 회복시켜줍니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Guardian",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Guardian"
     },
     "de": {
         "item_name": "Beschützer",
         "description": "Bei Ausfall werden die Schilde des Besitzers um 100 % verstärkt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Besch%C3%BCtzer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Besch%C3%BCtzer"
     },
     "fr": {
         "item_name": "Gardien",
         "description": "Augmente le Bouclier de son porteur de 100% quand il s'épuise.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Gardien",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Gardien"
     },
     "pt": {
         "item_name": "Guardian",
         "description": "Aumenta os Escudos de seu mestre em 100% quando eles acabarem.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Guardsman",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Guardsman"
     },
     "zh-hans": {
         "item_name": "守护者",
         "description": "在主人护盾耗尽时为其补充100% 护盾。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Guardian",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Guardian"
     },
     "zh-hant": {
         "item_name": "守護者",
         "description": "在主人護盾耗盡時為其補充100% 護盾。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Guardian",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Guardian"
     },
     "es": {
         "item_name": "Guardián",
         "description": "Cuando el escudo del propietario se agota, aumenta un 100%.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Guardi%C3%A1n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Guardi%C3%A1n"
     },
     "it": {
         "item_name": "Guardian",
         "description": "Ricarica lo scudo del possessore del 100% quando si scarica.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Guardian",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Guardian"
     },
     "pl": {
         "item_name": "Obrońca",
         "description": "Uzupełnia właścicielowi 100% tarcz, kiedy ulegną one wyczerpaniu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Obro%C5%84ca",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Obro%C5%84ca"
     },
     "rarity": "common",
     "max_rank": 5,

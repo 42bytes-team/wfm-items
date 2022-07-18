@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "sentinel"
+        "sentinel",
+        "wyrm"
     ],
-    "icon": "icons/en/Negate.9797e761f012ebd126009f3c45c55027.png",
-    "thumb": "icons/en/thumbs/Negate.9797e761f012ebd126009f3c45c55027.128x128.png",
+    "icon": "items/images/en/negate.9797e761f012ebd126009f3c45c55027.png",
+    "thumb": "items/images/en/thumbs/negate.9797e761f012ebd126009f3c45c55027.128x128.png",
     "icon_format": "port",
     "url_name": "negate",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Negate",
         "description": "Sentinel prevents Status Effects from applying to its owner once every 5s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Negate",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Negate"
     },
     "ru": {
         "item_name": "Отрицание",
         "description": "Страж блокирует накладывание эффектов статуса на хозяина раз в 5с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D1%80%D0%B8%D1%86%D0%B0%D0%BD%D0%B8%D0%B5",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D1%80%D0%B8%D1%86%D0%B0%D0%BD%D0%B8%D0%B5"
     },
     "ko": {
         "item_name": "니게이트",
         "description": "센티넬이 5초마다 한 번씩 주인에게 적용되는 상태 이상 효과를 방지합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Negate",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Negate"
     },
     "de": {
         "item_name": "Negieren",
         "description": "Wächter verhindert alle 5s, dass Statuseffekte bei seinem Eigentümer auftreten.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Negate",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Negate"
     },
     "fr": {
         "item_name": "Négation",
         "description": "La Sentinelle empêche les Effets de Statut de s'appliquer à son propriétaire une fois toutes les 5s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/N%C3%A9gation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/N%C3%A9gation"
     },
     "pt": {
         "item_name": "Negate",
         "description": "A Sentinela evita que efeitos de Status sejam aplicados em seu mestre uma vez a cada 5s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Resgate",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Resgate"
     },
     "zh-hans": {
         "item_name": "抵消",
         "description": "每 5 秒，守护将防止其拥有者受到触发状态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Negate",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Negate"
     },
     "zh-hant": {
         "item_name": "抵消",
         "description": "守護將保護主人免於受到一次的狀態異常效果，冷卻時間 5 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Negate",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Negate"
     },
     "es": {
         "item_name": "Negar",
         "description": "El centinela evita efectos de estado en su dueño una vez cada 5s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Negar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Negar"
     },
     "it": {
         "item_name": "Negate",
         "description": "La Sentinella impedisce che il proprietario subisca Effetti ogni 5s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Negate",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Negate"
     },
     "pl": {
         "item_name": "Negacja",
         "description": "Strażnik zapobiega nałożeniu się efektów statusu na właściciela raz na 5s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Negacja",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Negacja"
     },
     "rarity": "rare",
     "max_rank": 5,

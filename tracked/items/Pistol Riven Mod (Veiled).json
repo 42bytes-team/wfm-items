@@ -1,12 +1,12 @@
 {
     "_id": "58701655937cde2c9d378ac3",
     "tags": [
-        "riven",
-        "mod",
-        "common"
+        "common",
+        "riven_mod",
+        "mod"
     ],
-    "icon": "icons/en/Pistol_Riven_Mod_(Veiled).efa7515ed4b28b90fcde3b230701034b.png",
-    "thumb": "icons/en/thumbs/Pistol_Riven_Mod_(Veiled).efa7515ed4b28b90fcde3b230701034b.128x128.png",
+    "icon": "items/images/en/pistol_riven_mod_(veiled).efa7515ed4b28b90fcde3b230701034b.png",
+    "thumb": "items/images/en/thumbs/pistol_riven_mod_(veiled).efa7515ed4b28b90fcde3b230701034b.128x128.png",
     "icon_format": "port",
     "url_name": "pistol_riven_mod_(veiled)",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Pistol Riven Mod (Veiled)",
         "description": "",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Riven_Mod",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Riven_Mod"
     },
     "ru": {
         "item_name": "Мод Разлома Для Пистолетов (Закрытый)",
         "description": "",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%B4%D1%8B_%D1%80%D0%B0%D0%B7%D0%BB%D0%BE%D0%BC%D0%B0",
-        "icon": "icons/ru/Pistol_Riven_Mod_(Veiled).f568e43337b0b38c18fee75c2f0f5299.png",
-        "thumb": "icons/ru/thumbs/Pistol_Riven_Mod_(Veiled).f568e43337b0b38c18fee75c2f0f5299.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/pistol_riven_mod_(veiled).f568e43337b0b38c18fee75c2f0f5299.png",
+        "thumb": "items/images/ru/thumbs/pistol_riven_mod_(veiled).f568e43337b0b38c18fee75c2f0f5299.128x128.png"
     },
     "ko": {
         "item_name": "보조 무기 리벤 모드 (미해금)",
         "description": "",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Riven_Mod",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Riven_Mod"
     },
     "de": {
         "item_name": "Pistolen Riven-mod (Veiled)",
         "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
     },
     "fr": {
         "item_name": "Mod Riven De Pistolet (Veiled)",
         "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
     },
     "pt": {
         "item_name": "Mod Riven: Pistola (Oculto)",
         "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
     },
     "zh-hans": {
         "item_name": "手枪裂罅 Mod （尚未揭开）",
         "description": "",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pistol_Riven_Mod",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pistol_Riven_Mod"
     },
     "zh-hant": {
         "item_name": "手槍裂罅 Mod （尚未揭開）",
         "description": "",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pistol_Riven_Mod",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pistol_Riven_Mod"
     },
     "es": {
         "item_name": "Mod Agrietado De Pistola (Velado)",
         "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
     },
     "it": {
         "item_name": "Riven Mod Pistola (Veiled)",
         "description": "",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Mod_Pistola",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Mod_Pistola"
     },
     "pl": {
         "item_name": "Mod Riven Pistoletu (Ukryty)",
         "description": "",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
     },
     "rarity": "common",
     "trading_tax": 2000

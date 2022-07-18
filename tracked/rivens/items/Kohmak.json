@@ -3,9 +3,11 @@
     "url_name": "kohmak",
     "group": "secondary",
     "riven_type": "shotgun",
-    "icon": "icons/en/kohmak.eb021126188f25d7e5d136e10a35f6b5.png",
-    "thumb": "icons/en/thumbs/kohmak.eb021126188f25d7e5d136e10a35f6b5.128x128.png",
+    "icon": "items/images/en/kohmak.eb021126188f25d7e5d136e10a35f6b5.png",
+    "thumb": "items/images/en/thumbs/kohmak.eb021126188f25d7e5d136e10a35f6b5.128x128.png",
     "icon_format": "land",
+    "disposition": 1.35,
+    "mastery_level": 5,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol"
     },

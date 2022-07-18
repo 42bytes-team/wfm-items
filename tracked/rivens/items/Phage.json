@@ -3,9 +3,11 @@
     "url_name": "phage",
     "group": "primary",
     "riven_type": "shotgun",
-    "icon": "icons/en/phage.b0f3d7bd8b8f38805a316b46f00eb8fb.png",
-    "thumb": "icons/en/thumbs/phage.b0f3d7bd8b8f38805a316b46f00eb8fb.128x128.png",
+    "icon": "items/images/en/phage.b0f3d7bd8b8f38805a316b46f00eb8fb.png",
+    "thumb": "items/images/en/thumbs/phage.b0f3d7bd8b8f38805a316b46f00eb8fb.128x128.png",
     "icon_format": "land",
+    "disposition": 1.46,
+    "mastery_level": 11,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/LongGuns/Tentacluster/InfestedShotgun"
     },

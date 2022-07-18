@@ -5,8 +5,8 @@
         "warframe",
         "uncommon"
     ],
-    "icon": "icons/en/Heavy_Impact.a1f9a98080f086c1d95d77d771aeefc4.png",
-    "thumb": "icons/en/thumbs/Heavy_Impact.a1f9a98080f086c1d95d77d771aeefc4.128x128.png",
+    "icon": "items/images/en/heavy_impact.a1f9a98080f086c1d95d77d771aeefc4.png",
+    "thumb": "items/images/en/thumbs/heavy_impact.a1f9a98080f086c1d95d77d771aeefc4.128x128.png",
     "icon_format": "port",
     "url_name": "heavy_impact",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Heavy Impact",
         "description": "Create 6m seismic shockwaves from heavy landings, dealing 300 Damage and knocking foes off their feet.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Heavy_Impact",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Heavy_Impact"
     },
     "ru": {
         "item_name": "Тяжёлое Приземление",
         "description": "Создает ударную волну радиусом 6м при тяжелом приземлении, которая сбивает с ног врагов и наносит 300 урона.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%8F%D0%B6%D1%91%D0%BB%D0%BE%D0%B5_%D0%9F%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Heavy_Impact.a8d427ee7dd320c49a6b30197e9704b9.png",
-        "thumb": "icons/ru/thumbs/Heavy_Impact.a8d427ee7dd320c49a6b30197e9704b9.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/heavy_impact.a8d427ee7dd320c49a6b30197e9704b9.png",
+        "thumb": "items/images/ru/thumbs/heavy_impact.a8d427ee7dd320c49a6b30197e9704b9.128x128.png"
     },
     "ko": {
         "item_name": "헤비 임팩트",
         "description": "높은 고도에서 착지할 시 6m 내에 충격파를 발생시켜 300의 피해를 가하며 영향을 받은 모든 적을 쓰러뜨립니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Heavy_Impact",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Heavy_Impact"
     },
     "de": {
         "item_name": "Schwerer Einschlag",
         "description": "Verursacht 6 m seismische Schockwellen bei harten Landungen, die 300 Schaden verursachen und Gegner zu Boden wirft.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schwerer_Einschlag",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schwerer_Einschlag"
     },
     "fr": {
         "item_name": "Impact Lourd",
         "description": "Crée des ondes de choc sismiques d'un rayon de 6m en atterrissant lourdement, infligeant 300 points de Dégâts et renversant les ennemis.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Impact_lourd",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Impact_lourd"
     },
     "pt": {
         "item_name": "Heavy Impact",
         "description": "Cria ondas de choque sísmicas em aterrissagens pesadas de 6m de Alcance, causando 300 de Dano e derrubando os inimigos.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Heavy_Impact",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Heavy_Impact"
     },
     "zh-hans": {
         "item_name": "震地冲击",
         "description": "从高处着地将会产生 6 米的范围震波，造成 300 伤害并震倒敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heavy_Impact",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heavy_Impact"
     },
     "zh-hant": {
         "item_name": "震地衝擊",
         "description": "從高處著地將會產生 6 公尺的範圍震波，造成 300 傷害並震倒敵人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heavy_Impact",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Heavy_Impact"
     },
     "es": {
         "item_name": "Impacto Pesado",
         "description": "Crea ondas de choque sísmicas en un radio de 6m al realizar aterrizajes pesados, provocando 300 de daño y derribando a los enemigos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Impacto_pesado",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Impacto_pesado"
     },
     "it": {
         "item_name": "Heavy Impact",
         "description": "Crea un'onda sismica di 6m in seguito ad atterraggi pesanti, infliggendo 300 danni ed atterrando i nemici.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Heavy_Impact",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Heavy_Impact"
     },
     "pl": {
         "item_name": "Ciężki Upadek",
         "description": "Tworzy 6m fale sejsmiczne powstające po upadku z dużej wysokości, zadając 300 obrażeń i przewracając przeciwników.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ci%C4%99%C5%BCki_Upadek",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ci%C4%99%C5%BCki_Upadek"
     },
     "rarity": "uncommon",
     "max_rank": 5,

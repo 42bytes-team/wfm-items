@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a500",
     "tags": [
+        "primary",
         "uncommon",
         "pvp",
-        "primary",
+        "rifle",
         "mod"
     ],
-    "icon": "icons/en/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.png",
-    "thumb": "icons/en/thumbs/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.128x128.png",
+    "icon": "items/images/en/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.png",
+    "thumb": "items/images/en/thumbs/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.128x128.png",
     "icon_format": "port",
     "url_name": "twitch",
     "tradable": true,
@@ -17,71 +18,60 @@
     "en": {
         "item_name": "Twitch",
         "description": "+200% Holster Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Twitch"
     },
     "ru": {
         "item_name": "Рывок",
         "description": "+200% к скорости смены оружия",
         "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A0%D1%8B%D0%B2%D0%BE%D0%BA",
-        "icon": "icons/ru/twitch.4ed15eef96923a1da9ff94ffe31e33dd.png",
+        "icon": "items/images/ru/twitch.4ed15eef96923a1da9ff94ffe31e33dd.png",
         "icon_format": "port",
-        "thumb": "icons/ru/thumbs/twitch.4ed15eef96923a1da9ff94ffe31e33dd.128x128.png",
-        "drop": []
+        "thumb": "items/images/ru/thumbs/twitch.4ed15eef96923a1da9ff94ffe31e33dd.128x128.png"
     },
     "ko": {
         "item_name": "트위치",
         "description": "+200% 무기 수납 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Twitch"
     },
     "de": {
         "item_name": "Zucken",
         "description": "+200 % Holstergeschwindigkeit",
-        "wiki_link": "http://warframe.wikia.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Twitch"
     },
     "fr": {
         "item_name": "À Cran",
         "description": "+200% de Vitesse De Dégainement",
-        "wiki_link": "http://warframe.wikia.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Twitch"
     },
     "pt": {
         "item_name": "Twitch",
         "description": "+200% de Velocidade de Troca de Arma",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Twitch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Twitch"
     },
     "zh-hans": {
         "item_name": "迅速抽换",
         "description": "+200% 切换武器速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Twitch"
     },
     "zh-hant": {
         "item_name": "迅速抽換",
         "description": "+200% 切換武器速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Twitch"
     },
     "es": {
         "item_name": "Contracción Rápida",
         "description": "+200% de velocidad de enfundado",
-        "wiki_link": "http://warframe.wikia.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Twitch"
     },
     "it": {
         "item_name": "Twitch",
         "description": "+200% Velocità Rinfodero",
-        "wiki_link": "http://warframe.wikia.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Twitch"
     },
     "pl": {
         "item_name": "Mgnienie",
         "description": "+200% Tempo Przełączania Broni",
-        "wiki_link": "http://warframe.wikia.com/wiki/Twitch",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Twitch"
     },
     "rarity": "uncommon",
     "max_rank": 3,

@@ -3,9 +3,11 @@
     "url_name": "helstrum",
     "group": "sentinel",
     "riven_type": "rifle",
-    "icon": "icons/en/helstrum.4bbc6d2784cacae7d2c1974d188a1839.png",
-    "thumb": "icons/en/thumbs/helstrum.4bbc6d2784cacae7d2c1974d188a1839.128x128.png",
+    "icon": "items/images/en/helstrum.4bbc6d2784cacae7d2c1974d188a1839.png",
+    "thumb": "items/images/en/thumbs/helstrum.4bbc6d2784cacae7d2c1974d188a1839.128x128.png",
     "icon_format": "land",
+    "disposition": 1,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon"
     },

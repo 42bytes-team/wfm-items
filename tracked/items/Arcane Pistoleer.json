@@ -4,8 +4,8 @@
         "arcane_enhancement",
         "rare"
     ],
-    "icon": "icons/en/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.png",
-    "thumb": "icons/en/thumbs/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
+    "icon": "items/images/en/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.png",
+    "thumb": "items/images/en/thumbs/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_pistoleer",
     "tradable": true,
@@ -14,69 +14,58 @@
     },
     "en": {
         "item_name": "Arcane Pistoleer",
-        "description": "On Pistol Headshot Kill:\n60% chance for +102% Ammo Efficiency for 12s\n+1 Arcane Revive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Pistoleer",
-        "drop": []
+        "description": "On Pistol Headshot Kill:\n60% chance for +102% Ammo Efficiency for 12s\n+1 Arcane Revive\n+1 Arcane Revive",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Pistoleer"
     },
     "ru": {
         "item_name": "Мистический Пистольер",
-        "description": "Убийство выстрелом в голову из пистолета:\n60% шанс +102% Эффективность боеприпасов в течение 12c.\n+1 Мистическое Воскрешение",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D1%80",
-        "drop": []
+        "description": "Убийство выстрелом в голову из пистолета:\n60% шанс +102% Эффективность боеприпасов в течение 12c.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D1%80"
     },
     "ko": {
         "item_name": "아케인 피스톨리어",
-        "description": "권총으로 헤드샷 처치 시:\n60% 확률로 12초 동안 +102% 탄약 효율\n+1 아케인 부활",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Pistoleer",
-        "drop": []
+        "description": "권총으로 헤드샷 처치 시:\n60% 확률로 12초 동안 +102% 탄약 효율\n+1 아케인 부활\n+1 아케인 부활",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Pistoleer"
     },
     "de": {
         "item_name": "Arkana: Pistolero",
-        "description": "Bei Kopfschuss-Kill mit Pistole:\n60 % Chance auf +102 % Munitionseffizienz für 12 s\n+1 Arkana Wiederbelebung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_Eis",
-        "drop": []
+        "description": "Bei Kopfschuss-Kill mit Pistole:\n60 % Chance auf +102 % Munitionseffizienz für 12 s\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_Eis"
     },
     "fr": {
         "item_name": "Arcane Pistolier",
-        "description": "Sur Élimination par Tir à la tête avec un Pistolet:\n60% de chance pour +102% à l'Efficacité des Munitions pendant 12s\n+1 Réanimation Arcane",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Pistolier",
-        "drop": []
+        "description": "Sur Élimination par Tir à la tête avec un Pistolet:\n60% de chances de: +102% à l'Efficacité des Munitions pendant 12s\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Pistolier"
     },
     "pt": {
         "item_name": "Arcano: Pistoleiro",
-        "description": "Ao Matar Inimigos com Acertos de Precisão de Pistola:\n60% de chance de +102% de Eficiência da Munição durante 12s\n+1 Reanimação Arcana",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Pistoleer",
-        "drop": []
+        "description": "Ao Matar Inimigos com Acertos de Precisão de Pistola:\n60% de chance de +102% de Eficiência da Munição durante 12s\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Pistoleer"
     },
     "zh-hans": {
         "item_name": "枪炮 赋能",
-        "description": "手枪爆头击杀时：\n60% 几率得到 +102% 弹药效率 效果，持续 12 秒\n赋能复活次数 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Pistoleer",
-        "drop": []
+        "description": "手枪爆头击杀时：\n60% 几率得到 +102% 弹药效率 效果，持续 12 秒\n赋能复活次数 +1\n赋能复活次数 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Pistoleer"
     },
     "zh-hant": {
         "item_name": "槍砲賦能",
-        "description": "以手槍爆頭擊殺時：\n60% 機率得到 +102% 彈藥效率 效果，持續 12 秒\n賦能復活次數 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Pistoleer",
-        "drop": []
+        "description": "以手槍爆頭擊殺時：\n60% 機率得到 +102% 彈藥效率 效果，持續 12 秒\n賦能復活次數 +1\n賦能復活次數 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Pistoleer"
     },
     "es": {
         "item_name": "Pistolero Arcano",
-        "description": "En asesinato con disparo a la cabeza con pistola:\n60% de probabilidad de +102% Eficiencia de munición durante 12s\n+1 Revivir Arcano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pistolero_arcano",
-        "drop": []
+        "description": "En asesinato con disparo a la cabeza con pistola:\n60% de probabilidad de +102 % Eficiencia de munición durante 12s\n+1 Revivir Arcano\n+1 Revivir Arcano",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pistolero_arcano"
     },
     "it": {
         "item_name": "Arcane Pistoleer",
-        "description": "All'Uccisione da Colpo alla Testa con Pistola:\n60% probabilità di +102% Efficacia Munizioni per 12s\n+1 Rianimazione Arcane",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Pistoleer",
-        "drop": []
+        "description": "All'Uccisione da Colpo alla Testa con Pistola:\n60% probabilità di +102% Efficacia Munizioni per 12s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Pistoleer"
     },
     "pl": {
         "item_name": "Arkanum Rewolwerowca",
-        "description": "Po zabójstwie strzałem w głowę bronią boczną:\n60% szans na +102% Wydajności Amunicji przez 12s\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Pistoleer",
-        "drop": []
+        "description": "Po zabójstwie strzałem w głowę bronią boczną:\n60% szans na +102% Wydajności Amunicji przez 12s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Pistoleer"
     },
     "rarity": "rare",
     "max_rank": 5,

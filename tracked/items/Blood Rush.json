@@ -5,8 +5,8 @@
         "melee",
         "uncommon"
     ],
-    "icon": "icons/en/Blood_Rush.7512063f1029665d1ddc9b5d9a0700f8.png",
-    "thumb": "icons/en/thumbs/Blood_Rush.7512063f1029665d1ddc9b5d9a0700f8.128x128.png",
+    "icon": "items/images/en/blood_rush.7512063f1029665d1ddc9b5d9a0700f8.png",
+    "thumb": "items/images/en/thumbs/blood_rush.7512063f1029665d1ddc9b5d9a0700f8.128x128.png",
     "icon_format": "port",
     "url_name": "blood_rush",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Blood Rush",
         "description": "+40% Critical Chance stacks with Combo Multiplier",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_Rush",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_Rush"
     },
     "ru": {
         "item_name": "Приток Крови",
         "description": "+40% к шансу критического удара; увеличивается вместе с множителем комбо",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D1%80%D0%BE%D0%B2%D0%B8",
-        "icon": "icons/ru/Blood_Rush.dd5689d19999a7ab5e76b1bd0a69ff69.png",
-        "thumb": "icons/ru/thumbs/Blood_Rush.dd5689d19999a7ab5e76b1bd0a69ff69.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/blood_rush.dd5689d19999a7ab5e76b1bd0a69ff69.png",
+        "thumb": "items/images/ru/thumbs/blood_rush.dd5689d19999a7ab5e76b1bd0a69ff69.128x128.png"
     },
     "ko": {
         "item_name": "블러드 러쉬",
         "description": "연속기 배수 당 +40% 치명타 확률 누적",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_Rush",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_Rush"
     },
     "de": {
         "item_name": "Blutrausch",
         "description": "+40 % Krit. Chance stapelbar mit Kombo-Multiplikator",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Blutrausch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Blutrausch"
     },
     "fr": {
         "item_name": "Coup De Sang",
         "description": "+40% de Chance de Critique se superposent avec le Multiplicateur de Combo",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coup_de_Sang",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coup_de_Sang"
     },
     "pt": {
         "item_name": "Blood Rush",
         "description": "+40% de Chance Crítica, cumulativa com o Multiplicador de Combo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Blood_Rush",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Blood_Rush"
     },
     "zh-hans": {
         "item_name": "急进猛突",
         "description": "连击倍率可叠加 +40% 暴击几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_Rush",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_Rush"
     },
     "zh-hant": {
         "item_name": "急進猛突",
         "description": "連擊倍率可疊加 +40% 暴擊率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_Rush",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_Rush"
     },
     "es": {
         "item_name": "Acometida De Sangre",
         "description": "+40% que la probabilidad crítica se acumule con el multiplicador de combo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Acometida_de_sangre",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Acometida_de_sangre"
     },
     "it": {
         "item_name": "Blood Rush",
         "description": "+40% Probabilità Critico si accumula con il Moltiplicatore Combo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blood_Rush",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Blood_Rush"
     },
     "pl": {
         "item_name": "Napływ Krwi",
         "description": "+40% Szansy Obr. Krytycznych wzrasta wraz z Mnożnikiem Kombo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blood_Rush",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Blood_Rush"
     },
     "rarity": "uncommon",
     "max_rank": 10,

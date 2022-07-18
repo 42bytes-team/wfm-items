@@ -1,14 +1,14 @@
 {
     "_id": "54a74454e779892d5e515664",
     "tags": [
+        "burston_prime",
+        "primary",
         "rare",
         "prime",
-        "primary",
-        "weapons",
         "mod"
     ],
-    "icon": "icons/en/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.png",
-    "thumb": "icons/en/thumbs/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.128x128.png",
+    "icon": "items/images/en/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.png",
+    "thumb": "items/images/en/thumbs/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.128x128.png",
     "icon_format": "port",
     "url_name": "gilded_truth",
     "tradable": true,
@@ -18,70 +18,59 @@
     "en": {
         "item_name": "Gilded Truth",
         "description": "+80% Fire Rate\n+1 'Truth'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gilded_Truth",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Gilded_Truth"
     },
     "ru": {
         "item_name": "Позолоченная Правда",
         "description": "+80% к скорострельности\n+1 'Правды'",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B7%D0%BE%D0%BB%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D0%B0",
-        "icon": "icons/ru/gilded_truth.9531cf1d0010c53d4b709d5cb3263906.png",
-        "thumb": "icons/ru/thumbs/gilded_truth.9531cf1d0010c53d4b709d5cb3263906.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/gilded_truth.9531cf1d0010c53d4b709d5cb3263906.png",
+        "thumb": "items/images/ru/thumbs/gilded_truth.9531cf1d0010c53d4b709d5cb3263906.128x128.png"
     },
     "ko": {
         "item_name": "길디드 트루스",
         "description": "+80% 연사력\n+1 '트루스'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gilded_Truth",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Gilded_Truth"
     },
     "de": {
         "item_name": "Vergoldete Wahrheit",
         "description": "+80 % Feuerrate\n+1 'Wahrheit '",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Vergoldete_Wahrheit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Vergoldete_Wahrheit"
     },
     "fr": {
         "item_name": "Vérité Dorée",
         "description": "+80% Cadence de Tir\n+1 'Vérité'",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/V%C3%A9rit%C3%A9_Dor%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/V%C3%A9rit%C3%A9_Dor%C3%A9e"
     },
     "pt": {
         "item_name": "Gilded Truth",
         "description": "+80% de Cadência de Tiro\n+1 \"Verdade\"",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gilded_Truth",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Gilded_Truth"
     },
     "zh-hans": {
         "item_name": "镀金真相",
         "description": "+80% 射速\n+1 '真相'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gilded_Truth",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gilded_Truth"
     },
     "zh-hant": {
         "item_name": "鍍金真相",
         "description": "+80% 射速\n+1 '真相'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gilded_Truth",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gilded_Truth"
     },
     "es": {
         "item_name": "Verdad Dorada",
         "description": "+80 % de cadencia de fuego\n+1 'Verdad'",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Verdad_dorada",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Verdad_dorada"
     },
     "it": {
         "item_name": "Gilded Truth",
         "description": "+80% Cadenza di Tiro\n+1 'Verità'",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gilded_Truth",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Gilded_Truth"
     },
     "pl": {
         "item_name": "Pozłacana Prawda",
         "description": "+80% Szybkostrzelności\n+1 \"Prawda\"",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Poz%C5%82acana_Prawda",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Poz%C5%82acana_Prawda"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -6,8 +6,8 @@
         "rifle",
         "primary"
     ],
-    "icon": "icons/en/Rifle_Aptitude.4fb3374071db751af083e54519fb8034.png",
-    "thumb": "icons/en/thumbs/Rifle_Aptitude.4fb3374071db751af083e54519fb8034.128x128.png",
+    "icon": "items/images/en/rifle_aptitude.4fb3374071db751af083e54519fb8034.png",
+    "thumb": "items/images/en/thumbs/rifle_aptitude.4fb3374071db751af083e54519fb8034.128x128.png",
     "icon_format": "port",
     "url_name": "rifle_aptitude",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Rifle Aptitude",
         "description": "+90% Status Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Aptitude",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Aptitude"
     },
     "ru": {
         "item_name": "Боеспособность",
         "description": "+90% к шансу статуса",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B5%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png",
-        "thumb": "icons/ru/thumbs/Rifle_Aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/rifle_aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.png",
+        "thumb": "items/images/ru/thumbs/rifle_aptitude.0e55dd8200a25d3604ebc8ab97ed7db5.128x128.png"
     },
     "ko": {
         "item_name": "라이플 앱티튜드",
         "description": "+90% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Aptitude",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Aptitude"
     },
     "de": {
         "item_name": "Begabung",
         "description": "+90 % Statuschance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Begabung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Begabung"
     },
     "fr": {
         "item_name": "Aptitude Au Fusil",
         "description": "+90% de Chances de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Aptitude_au_Fusil",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Aptitude_au_Fusil"
     },
     "pt": {
         "item_name": "Rifle Aptitude",
         "description": "+90% de Chance de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rifle_Aptitude",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rifle_Aptitude"
     },
     "zh-hans": {
         "item_name": "步枪才能",
         "description": "+90% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rifle_Aptitude",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rifle_Aptitude"
     },
     "zh-hant": {
         "item_name": "步槍才能",
         "description": "+90% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rifle_Aptitude",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rifle_Aptitude"
     },
     "es": {
         "item_name": "Aptitud De Rifle",
         "description": "+90% de probabilidad de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aptitud_de_rifle",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aptitud_de_rifle"
     },
     "it": {
         "item_name": "Rifle Aptitude",
         "description": "+90% Probabilità Effetto",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Rifle_Aptitude"
     },
     "pl": {
         "item_name": "Instynkt Strzelca",
         "description": "+90% Szansa Statusu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Instynkt_Strzelca",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Instynkt_Strzelca"
     },
     "rarity": "uncommon",
     "max_rank": 5,

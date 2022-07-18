@@ -1,13 +1,13 @@
 {
     "_id": "5b50a3b23a84fd02a7823252",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "octavia"
     ],
-    "icon": "icons/en/Partitioned_Mallet.e43558fc4eae736abf25f156f62cf517.png",
-    "thumb": "icons/en/thumbs/Partitioned_Mallet.e43558fc4eae736abf25f156f62cf517.128x128.png",
+    "icon": "items/images/en/partitioned_mallet.e43558fc4eae736abf25f156f62cf517.png",
+    "thumb": "items/images/en/thumbs/partitioned_mallet.e43558fc4eae736abf25f156f62cf517.128x128.png",
     "icon_format": "port",
     "url_name": "partitioned_mallet",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Partitioned Mallet",
         "description": "Mallet Augment: Allows for two simultaneous Mallets, each with 50% reduced range.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Partitioned_Mallet",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Partitioned_Mallet"
     },
     "ru": {
         "item_name": "Разделённый Молот",
         "description": "Улучшение способности «Молот»: позволяет создавать два молота одновременно, каждый с уменьшенным на 50% радиусом.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9C%D0%BE%D0%BB%D0%BE%D1%82",
-        "icon": "icons/ru/Partitioned_Mallet.75123aefc1cefc989b27ba2bd167047e.png",
-        "thumb": "icons/ru/thumbs/Partitioned_Mallet.75123aefc1cefc989b27ba2bd167047e.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/partitioned_mallet.75123aefc1cefc989b27ba2bd167047e.png",
+        "thumb": "items/images/ru/thumbs/partitioned_mallet.75123aefc1cefc989b27ba2bd167047e.128x128.png"
     },
     "ko": {
         "item_name": "파티션드 말렛",
         "description": "말렛 개조: 50% 감소된 범위를 가지는 두 개의 말렛을 유지할 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Partitioned_Mallet",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Partitioned_Mallet"
     },
     "de": {
         "item_name": "Geteilter Schläger",
         "description": "Schläger Augment: Ermöglicht zwei gleichzeitige Schläger mit jeweils 50 % reduzierter Reichweite.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Partitioned_Mallet",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Partitioned_Mallet"
     },
     "fr": {
         "item_name": "Maillet Partitionné",
         "description": "Augmentation de Maillet: Permet d'avoir deux maillets actifs simultanément, mais leur portée est réduite de 50%.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Maillet_Partitionn%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Maillet_Partitionn%C3%A9"
     },
     "pt": {
         "item_name": "Partitioned Mallet",
         "description": "Ampliação Mallet: Permite que dois Mallets sejam conjurados ao mesmo tempo, cada um com 50% de Redução de Alcance.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Partitioned_Mallet",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Partitioned_Mallet"
     },
     "zh-hans": {
         "item_name": "分裂槌音",
         "description": "槌音铮鏦强化：可同时使用 2 个槌音铮鏦，但每个的范围减少 50%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Partitioned_Mallet",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Partitioned_Mallet"
     },
     "zh-hant": {
         "item_name": "分裂鎚音",
         "description": "槌音錚鏦強化：可同時使用 2 顆槌音錚鏦，但每顆距離減少 50%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Partitioned_Mallet",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Partitioned_Mallet"
     },
     "es": {
         "item_name": "Mazo Particionado",
         "description": "Aumento de Mazo: permite tener hasta dos Mazos activos, cada uno con 50% de rango reducido.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mazo_particionado",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mazo_particionado"
     },
     "it": {
         "item_name": "Partitioned Mallet",
         "description": "Potenziamento Mallet: Permette l'uso simultaneo di 2 mallet, ciascuno con 50% di portata ridotta.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Partitioned_Mallet",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Partitioned_Mallet"
     },
     "pl": {
         "item_name": "Rozczłonkowany Werbel",
         "description": "Modyfikacja Werbla: Pozwala postawić dwa Werble, każdy z 50% mniejszym zasięgiem.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozcz%C5%82onkowany_Werbel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozcz%C5%82onkowany_Werbel"
     },
     "rarity": "rare",
     "max_rank": 3,

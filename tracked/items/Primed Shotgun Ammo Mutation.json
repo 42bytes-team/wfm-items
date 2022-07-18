@@ -1,14 +1,13 @@
 {
     "_id": "5655c4b3b66f832e11abd3fb",
     "tags": [
-        "prime",
         "mod",
-        "shot gun",
         "legendary",
-        "primary"
+        "primary",
+        "shotgun"
     ],
-    "icon": "icons/en/Primed_Shotgun_Ammo_Mutation.3b4752657f1d04139d6cd22039bf49d2.png",
-    "thumb": "icons/en/thumbs/Primed_Shotgun_Ammo_Mutation.3b4752657f1d04139d6cd22039bf49d2.128x128.png",
+    "icon": "items/images/en/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.png",
+    "thumb": "items/images/en/thumbs/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.128x128.png",
     "icon_format": "port",
     "url_name": "primed_shotgun_ammo_mutation",
     "tradable": true,
@@ -18,70 +17,59 @@
     "en": {
         "item_name": "Primed Shotgun Ammo Mutation",
         "description": "Converts unused ammo pickups into Shotgun ammo. Pistol/Rifle <AMMO_MUTATION> 14 and Sniper <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Shotgun_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Shotgun_Ammo_Mutation"
     },
     "ru": {
         "item_name": "Мутатор Прайм: Дробовик",
-        "description": "Преобразует неиспользуемые боеприпасы в патроны для дробовика. Пистолет/Дробовик <AMMO_MUTATION> 14 и Снайпер. <AMMO_MUTATION> 28.",
+        "description": "Преобразует неиспользуемые боеприпасы в патроны для дробовика. Пистолет/дробовик <AMMO_MUTATION> 14 и снайпер <AMMO_MUTATION> 28.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC_%D0%94%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B8%D0%BA",
-        "icon": "icons/ru/Primed_Shotgun_Ammo_Mutation.775801573b6e298f521e3ef01684f79b.png",
-        "thumb": "icons/ru/thumbs/Primed_Shotgun_Ammo_Mutation.775801573b6e298f521e3ef01684f79b.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/primed_shotgun_ammo_mutation.775801573b6e298f521e3ef01684f79b.png",
+        "thumb": "items/images/ru/thumbs/primed_shotgun_ammo_mutation.775801573b6e298f521e3ef01684f79b.128x128.png"
     },
     "ko": {
         "item_name": "프라임드 샷건 애모 뮤테이션",
         "description": "사용되지 않는 탄약 드롭 아이템을 산탄총 탄약으로 변환합니다. 권총/소총 탄약 변환량: <AMMO_MUTATION>14, 저격총 탄약 변환량: <AMMO_MUTATION>28.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Shotgun_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Shotgun_Ammo_Mutation"
     },
     "de": {
         "item_name": "Primed Munition-wandler: Schrot",
         "description": "Ungenutzte Munition wird in Schrotmunition umgewandelt. Pistolen/Gewehr <AMMO_MUTATION> 14 und Scharfschützen <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Munitionswandler_Schrot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Munitionswandler_Schrot"
     },
     "fr": {
         "item_name": "Mutation De Fusil À Pompe Accrue",
         "description": "Convertit les munitions ramassées inutilisées en munitions de Fusil à Pompe; <AMMO_MUTATION> 14 Pistolet/Fusil et <AMMO_MUTATION> 28 Fusil de Sniper.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mutation_de_Fusil_%C3%A0_Pompe_Accrue",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mutation_de_Fusil_%C3%A0_Pompe_Accrue"
     },
     "pt": {
         "item_name": "Primed Shotgun Ammo Mutation",
         "description": "Converte coletáveis de munição em munição de Escopeta. Pistola/Rifle <AMMO_MUTATION> 14 e Rifle de Precisão <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Shotgun_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Shotgun_Ammo_Mutation"
     },
     "zh-hans": {
         "item_name": "霰弹枪弹药转换 Prime",
         "description": "将未使用的弹药拾取转换成霰弹枪弹药。手枪/步枪<AMMO_MUTATION> 14 和狙击枪<AMMO_MUTATION> 28。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Shotgun_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Shotgun_Ammo_Mutation"
     },
     "zh-hant": {
         "item_name": "霰彈槍彈藥轉換 Prime",
         "description": "將未使用的彈藥轉換成霰彈槍彈藥。手槍/步槍 <AMMO_MUTATION> 14 及狙擊槍 <AMMO_MUTATION> 28。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Shotgun_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Shotgun_Ammo_Mutation"
     },
     "es": {
         "item_name": "Mutación De Munición De Escopeta Prime",
         "description": "Convierte la munición recogida no utilizada en munición de escopeta. Pistola/rifle <AMMO_MUTATION> 14 y francotirador <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mutaci%C3%B3n_de_munici%C3%B3n_de_escopeta_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mutaci%C3%B3n_de_munici%C3%B3n_de_escopeta_Prime"
     },
     "it": {
         "item_name": "Primed Shotgun Ammo Mutation",
         "description": "Converte le munizioni inutilizzate raccolte in Munizioni Fucile a Pompa. Pistola/Fucile <AMMO_MUTATION> 14 e Fucile da Cecchino <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Shotgun_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Shotgun_Ammo_Mutation"
     },
     "pl": {
         "item_name": "Mutator Strzelbowy Prime",
         "description": "Przekształca nieużywaną podniesioną amunicję w Amunicję do Strzelb. Pistoletowa/Karabinowa daje <AMMO_MUTATION> 14, a Snajperska daje <AMMO_MUTATION> 28.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Shotgun_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Shotgun_Ammo_Mutation"
     },
     "rarity": "legendary",
     "max_rank": 10,

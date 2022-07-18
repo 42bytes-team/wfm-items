@@ -1,13 +1,13 @@
 {
     "_id": "54a74454e779892d5e515666",
     "tags": [
-        "rare",
         "mod",
-        "weapons",
-        "primary"
+        "rare",
+        "primary",
+        "grinlok"
     ],
-    "icon": "icons/en/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.png",
-    "thumb": "icons/en/thumbs/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.128x128.png",
+    "icon": "items/images/en/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.png",
+    "thumb": "items/images/en/thumbs/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.128x128.png",
     "icon_format": "port",
     "url_name": "deadly_sequence",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Deadly Sequence",
         "description": "+200% Critical Chance\n+1 'Sequence'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Deadly_Sequence",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Deadly_Sequence"
     },
     "ru": {
         "item_name": "Смертельная Последовательность",
         "description": "+200% шанс крит. урона\n+1 'Последовательности'",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/deadly_sequence.435f4898759ec050c3681c60968379b8.png",
-        "thumb": "icons/ru/thumbs/deadly_sequence.435f4898759ec050c3681c60968379b8.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/deadly_sequence.435f4898759ec050c3681c60968379b8.png",
+        "thumb": "items/images/ru/thumbs/deadly_sequence.435f4898759ec050c3681c60968379b8.128x128.png"
     },
     "ko": {
         "item_name": "데들리 시퀀스",
         "description": "+200% 치명타 확률\n+1 '시퀀스'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Deadly_Sequence",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Deadly_Sequence"
     },
     "de": {
         "item_name": "Tödliche Sequenz",
         "description": "+200 % Krit. Chance\n+1 'Sequenz'",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/T%C3%B6dliche_Sequenz",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/T%C3%B6dliche_Sequenz"
     },
     "fr": {
         "item_name": "Séquence Meurtrière",
         "description": "+200% de Chances de Critique\n+1 'Séquence'",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/S%C3%A9quence_Meurtri%C3%A8re",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/S%C3%A9quence_Meurtri%C3%A8re"
     },
     "pt": {
         "item_name": "Deadly Sequence",
         "description": "+200% de Chance Crítica\n+1 \"Sequência\"",
-        "wiki_link": "http://warframe.wikia.com/wiki/Deadly_Sequence",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Deadly_Sequence"
     },
     "zh-hans": {
         "item_name": "致命数列",
         "description": "+200% 暴击几率\n+1 '数列'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deadly_Sequence",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deadly_Sequence"
     },
     "zh-hant": {
         "item_name": "致命數列",
         "description": "+200% 暴擊率\n+1 '數列'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deadly_Sequence",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deadly_Sequence"
     },
     "es": {
         "item_name": "Secuencia Mortal",
         "description": "+200% de probabilidad crítica\n+1 'Secuencia'",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Secuencia_mortal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Secuencia_mortal"
     },
     "it": {
         "item_name": "Deadly Sequence",
         "description": "+200% Probabilità Critico\n+1 'Sequenza'",
-        "wiki_link": "http://warframe.wikia.com/wiki/Deadly_Sequence",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Deadly_Sequence"
     },
     "pl": {
         "item_name": "Zabójczy Porządek",
         "description": "+200% Szansy Obrażeń Krytycznych\n+1 \"Porządek\"",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zab%C3%B3jczy_Porz%C4%85dek",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zab%C3%B3jczy_Porz%C4%85dek"
     },
     "rarity": "rare",
     "max_rank": 3,

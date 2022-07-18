@@ -4,8 +4,8 @@
         "void key",
         "key"
     ],
-    "icon": "icons/en/corpus_void_key.18020d99fc32c7d6e54733e1ebf4c7aa.png",
-    "thumb": "icons/en/thumbs/corpus_void_key.18020d99fc32c7d6e54733e1ebf4c7aa.128x128.png",
+    "icon": "items/images/en/corpus_void_key.18020d99fc32c7d6e54733e1ebf4c7aa.png",
+    "thumb": "items/images/en/thumbs/corpus_void_key.18020d99fc32c7d6e54733e1ebf4c7aa.128x128.png",
     "icon_format": "land",
     "url_name": "corpus_void_key",
     "tradable": true,
@@ -15,77 +15,56 @@
     "en": {
         "item_name": "Corpus Void Key",
         "description": "Corpus Void Key is a special key only available during the Arid Fear Event. When used it will start a special Orokin Void mission taking place on a Corpus Ship. It serves no purpose beyond that event.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key"
     },
     "ru": {
         "item_name": "Ключ бездны: Корпус",
         "description": "Это специальный ключ, был доступен только во время эвента Arid Fear. При использовании он начнет специальную миссию Orokin Void, проходящую на корабле «Корпус». Ключ бесполезен за пределами этого эвента.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key"
     },
     "ko": {
         "item_name": "코퍼스 보이드 키",
         "description": "Corpus Void Key is a special key only available during the Arid Fear Event. When used it will start a special Orokin Void mission taking place on a Corpus Ship. It serves no purpose beyond that event.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key"
     },
     "de": {
         "item_name": "Corpus Void Key",
         "description": "Corpus Void Key is a special key only available during the Arid Fear Event. When used it will start a special Orokin Void mission taking place on a Corpus Ship. It serves no purpose beyond that event.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key"
     },
     "fr": {
         "item_name": "Corpus Void Key",
         "description": "Corpus Void Key is a special key only available during the Arid Fear Event. When used it will start a special Orokin Void mission taking place on a Corpus Ship. It serves no purpose beyond that event.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key"
     },
     "pt": {
         "item_name": "Corpus Void Key",
         "description": "Corpus Void Key is a special key only available during the Arid Fear Event. When used it will start a special Orokin Void mission taking place on a Corpus Ship. It serves no purpose beyond that event.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key"
     },
     "zh-hans": {
         "item_name": "Corpus虚空钥匙",
         "description": "Corpus虚空钥匙是一种只在行动代号：沙漠恐惧期间可用的特殊钥匙。当玩家使用这把钥匙时，将会开始一场位于Corpus船舰上的特殊Orokin虚空任务。活动结束后没有任何作用。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corpus%E8%99%9A%E7%A9%BA%E9%92%A5%E5%8C%99",
-        "drop": [
-            {
-                "name": "行动代号:沙漠恐惧",
-                "link": "https://warframe.huijiwiki.com/wiki/%E8%A1%8C%E5%8A%A8%E4%BB%A3%E5%8F%B7%EF%BC%9A%E6%B2%99%E6%BC%A0%E6%81%90%E6%83%A7"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corpus%E8%99%9A%E7%A9%BA%E9%92%A5%E5%8C%99"
     },
     "zh-hant": {
         "item_name": "Corpus虛空鑰匙",
         "description": "Corpus虛空鑰匙是一種只在行動代號：沙漠恐懼期間可用的特殊鑰匙。當玩家使用這把鑰匙時，將會開始一場位於Corpus船艦上的特殊Orokin虛空任務。活動結束後沒有任何作用。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corpus%E8%99%9A%E7%A9%BA%E9%92%A5%E5%8C%99",
-        "drop": [
-            {
-                "name": "行動代號:沙漠恐懼",
-                "link": "https://warframe.huijiwiki.com/wiki/%E8%A1%8C%E5%8A%A8%E4%BB%A3%E5%8F%B7%EF%BC%9A%E6%B2%99%E6%BC%A0%E6%81%90%E6%83%A7"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corpus%E8%99%9A%E7%A9%BA%E9%92%A5%E5%8C%99"
     },
     "es": {
         "item_name": "Llave del Vacío Corpus",
         "description": "Llave del Vacío Corpus era una llave especial solo disponible durante el evento Operación: Miedo árido . Cuando se usa, comenzará una misión especial de Vacío Orokin que tendrá lugar en una nave Corpus. No sirvió para nada más allá de ese evento.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Llave_del_Vacío_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Llave_del_Vacío_Corpus"
     },
     "it": {
         "item_name": "Corpus Void Key",
         "description": "Corpus Void Key is a special key only available during the Arid Fear Event. When used it will start a special Orokin Void mission taking place on a Corpus Ship. It serves no purpose beyond that event.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key"
     },
     "pl": {
         "item_name": "Corpus Void Key",
         "description": "Corpus Void Key is a special key only available during the Arid Fear Event. When used it will start a special Orokin Void mission taking place on a Corpus Ship. It serves no purpose beyond that event.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Corpus_Void_Key"
     }
 }

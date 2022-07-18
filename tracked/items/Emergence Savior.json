@@ -4,8 +4,8 @@
         "rare",
         "arcane_enhancement"
     ],
-    "icon": "icons/en/emergence_savior.693f2b46157c5c5bf805f930c4bd3361.png",
-    "thumb": "icons/en/thumbs/emergence_savior.693f2b46157c5c5bf805f930c4bd3361.128x128.png",
+    "icon": "items/images/en/emergence_savior.693f2b46157c5c5bf805f930c4bd3361.png",
+    "thumb": "items/images/en/thumbs/emergence_savior.693f2b46157c5c5bf805f930c4bd3361.128x128.png",
     "icon_format": "land",
     "url_name": "emergence_savior",
     "tradable": true,
@@ -15,68 +15,57 @@
     "en": {
         "item_name": "Emergence Savior",
         "description": "Become invulnerable for 5s and recover 60% Health. Cooldown: 90s",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Чрезвычайный Спаситель",
         "description": "Даёт неуязвимость на 5 с и восстанавливает 60% здоровья. Перезарядка: 90 с",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "이머전스 세이비어",
         "description": "5초 동안 무적 및 체력 60% 회복. 재사용 대기 시간: 90초",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Emergenz: Retter",
         "description": "Werde für 5 s unverwundbar und stelle 60 % Gesundheit her. Abklingzeit: 90 s",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
-        "item_name": "Sauveur Émergence",
+        "item_name": "Sauveur D'émergence",
         "description": "Devenez invulnérable pendant 5s et récupérez 60% de Santé. Temps de recharge: 90s",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Salvação Emergente",
-        "description": "Torne-se invulnerável por 5s e recupere 60% de Saúde. Tempo de Recarga: 90s",
-        "wiki_link": null,
-        "drop": []
+        "description": "Torne-se invulnerável por 5s e recupere 60% de Vida. Tempo de Recarga: 90s",
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "始现 救世",
-        "description": "5 秒内进入无敌状态，并回复 60% 生命值。冷却时间：90 秒。",
-        "wiki_link": null,
-        "drop": []
+        "description": "5 秒内进入无敌状态，并恢复 60% 生命值。冷却时间：90 秒。",
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "蛻現 救星",
         "description": "進入無敵狀態並恢復 60% 生命值，持續 5 秒。冷卻時間：90 秒。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Salvador De Emergencia",
         "description": "Vuélvete invulnerable durante 5 s y recupera 60 % de salud. Enfriamiento: 90 s",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Emergence Savior",
         "description": "Diventa invulnerabile per 5s e recupera il 60% di Salute. Tempo di ricarica: 90s",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Emergencja Zbawienia",
         "description": "Stań się niewrażliwy na 5s i odzyskaj 60% Życia. Czas odnowienia: 90s",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "rare",
     "max_rank": 5,

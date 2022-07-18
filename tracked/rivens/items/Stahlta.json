@@ -3,9 +3,11 @@
     "url_name": "stahlta",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/stahlta.30d7537c3158976f86998e5b9fa05f96.png",
-    "thumb": "icons/en/thumbs/stahlta.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+    "icon": "items/images/en/stahlta.30d7537c3158976f86998e5b9fa05f96.png",
+    "thumb": "items/images/en/thumbs/stahlta.30d7537c3158976f86998e5b9fa05f96.128x128.png",
     "icon_format": "land",
+    "disposition": 1,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CrpRubanRifle/CrpRubanRifle"
     },

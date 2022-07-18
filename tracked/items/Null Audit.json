@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "sentinel"
+        "sentinel",
+        "hound"
     ],
-    "icon": "icons/en/null_audit.92612ee891efb1a2494f0a975b1a5940.png",
-    "thumb": "icons/en/thumbs/null_audit.92612ee891efb1a2494f0a975b1a5940.128x128.png",
+    "icon": "items/images/en/null_audit.92612ee891efb1a2494f0a975b1a5940.png",
+    "thumb": "items/images/en/thumbs/null_audit.92612ee891efb1a2494f0a975b1a5940.128x128.png",
     "icon_format": "port",
     "url_name": "null_audit",
     "tradable": true,
@@ -15,69 +16,58 @@
     },
     "en": {
         "item_name": "Null Audit",
-        "description": "Negates the aura and abilities on an Eximus enemy and transfers the aura to the Hound for 60s.",
-        "wiki_link": null,
-        "drop": []
+        "description": "The Hound utilizes the same Aura and Abilities as an Eximus enemy for 60s, while stripping its Overguard by 50%.",
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Нулевой Аудит",
-        "description": "Отменяет ауру и способности вражеского Эксимуса и передает ауру гончей на 60 сек.",
-        "wiki_link": null,
-        "drop": []
+        "description": "Гончая в течение 60 с использует те же ауру и способности, что и враг-эксимус, пока уменьшает сверхзащиту на 50%.",
+        "wiki_link": null
     },
     "ko": {
         "item_name": "널 오디트",
-        "description": "엑시무스 적의 오라 및 어빌리티를 무효화하고 오라를 60초 동안 하운드에게 전이시킵니다.",
-        "wiki_link": null,
-        "drop": []
+        "description": "하운드가 60초 간 엑시무스와 동일한 오라 및 어빌리티를 사용하며, 해당 엑시무스의 오버가드를 50% 감소시킵니다.",
+        "wiki_link": null
     },
     "de": {
         "item_name": "Prüfung: Null",
-        "description": "Hebt die Aura und die Fähigkeiten eines Eximus-Gegners auf und überträgt die Aura für 60 s auf den Jagdhund.",
-        "wiki_link": null,
-        "drop": []
+        "description": "Der Jagdhund nutzt dieselbe Aura und Fertigkeiten wie ein Eximus-Feind für 60 s, während sein Überschutz um 50 % verringert wird.",
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Audit Zéro",
-        "description": "Annule l'aura et les capacités d'un ennemi Eximus et transfère l'aura au Molosse pendant 60s.",
-        "wiki_link": null,
-        "drop": []
+        "description": "Le Molosse utilise la même Aura et les mêmes Pouvoirs qu'un ennemi Eximus pendant 60s, tout en dépouillant sa Garde Renforcée de 50%.",
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Null Audit",
-        "description": "Anula a aura e as habilidades de um inimigo Eximus e transfere suas auras para o Predador durante 60s.",
-        "wiki_link": null,
-        "drop": []
+        "description": "O Predador utiliza a mesma Aura e Habilidades de um inimigo Eximus durante 60s, e reduz sua Guarda Reforçada em 50%.",
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "虚无审计",
-        "description": "使卓越者敌人的光环和技能失效，并把光环转移到猎犬身上，持续 60 秒。",
-        "wiki_link": null,
-        "drop": []
+        "description": "猎犬可在 60 秒内使用与卓越者敌人相同的光环和技能，同时消减其超宏防护 50%。",
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "抵消審核",
-        "description": "抵消一名卓越者敵人的光環及技能並將光環轉移給獵犬，持續 60 秒。",
-        "wiki_link": null,
-        "drop": []
+        "description": "獵犬使用卓越者敵人相同的光環和技能 60 秒，同時削減其超量防護 50%。",
+        "wiki_link": null
     },
     "es": {
         "item_name": "Inspección Nula",
-        "description": "Anula el aura y las habilidades de un enemigo Eximus y transfiere el aura al Sabueso durante 60 s.",
-        "wiki_link": null,
-        "drop": []
+        "description": "El Sabueso utiliza la misma aura y habilidades que un enemigo Eximus durante 60s, mientras reduce su Sobreguardia por 50 %.",
+        "wiki_link": null
     },
     "it": {
         "item_name": "Null Audit",
-        "description": "Annulla l'aura e le abilità di un nemico Eximus e trasferisce l'aura al Segugio per 60s.",
-        "wiki_link": null,
-        "drop": []
+        "description": "Il Segugio utilizza la stessa Aura e Abilità di un nemico Eximus per 60s, mentre riduce la sua Sovraguardia del 50%.",
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Pusty Audyt",
-        "description": "Neguje Aury i Umiejętności przeciwników Eximus, Ogar przejmuje Aurę na 60s.",
-        "wiki_link": null,
-        "drop": []
+        "description": "Przez 60s Ogar używa tej samej Aury i Umiejętności, co jednostka Eximus, jednocześnie zmniejszając swoją Gardę o 50%.",
+        "wiki_link": null
     },
     "rarity": "rare",
     "max_rank": 5,

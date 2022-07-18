@@ -6,8 +6,8 @@
         "pvp",
         "warframe"
     ],
-    "icon": "icons/en/Rising_Skill.949f1c9112ed0168fc73027fae5449c7.png",
-    "thumb": "icons/en/thumbs/Rising_Skill.949f1c9112ed0168fc73027fae5449c7.128x128.png",
+    "icon": "items/images/en/rising_skill.949f1c9112ed0168fc73027fae5449c7.png",
+    "thumb": "items/images/en/thumbs/rising_skill.949f1c9112ed0168fc73027fae5449c7.128x128.png",
     "icon_format": "port",
     "url_name": "rising_skill",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Rising Skill",
         "description": "+10% Mobility\n-30 Shield Capacity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rising_Skill",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rising_Skill"
     },
     "ru": {
         "item_name": "Восходящее Мастерство",
         "description": "+10% мобильности\n-30 к мощности щита",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D1%81%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE",
-        "icon": "icons/ru/Rising_Skill.97828d6df1bb6454cd3abd0b2a0f2ea2.png",
-        "thumb": "icons/ru/thumbs/Rising_Skill.97828d6df1bb6454cd3abd0b2a0f2ea2.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/rising_skill.97828d6df1bb6454cd3abd0b2a0f2ea2.png",
+        "thumb": "items/images/ru/thumbs/rising_skill.97828d6df1bb6454cd3abd0b2a0f2ea2.128x128.png"
     },
     "ko": {
         "item_name": "라이징 스킬",
         "description": "+10% 기동성\n-30 최대 실드량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rising_Skill",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rising_Skill"
     },
     "de": {
         "item_name": "Aufsteigendes Geschick",
         "description": "+10 % Mobilität\n-30 Schildkapazität",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Aufsteigendes_Geschick",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Aufsteigendes_Geschick"
     },
     "fr": {
         "item_name": "Habileté Montante",
         "description": "+10% de Mobilité\n-30 de capacité de Boucliers",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mar%C3%A9e_Montante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mar%C3%A9e_Montante"
     },
     "pt": {
         "item_name": "Rising Skill",
         "description": "+10% de Mobilidade\n-30 Capacidade do Escudo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rising_Skill",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Rising_Skill"
     },
     "zh-hans": {
         "item_name": "飞升技巧",
         "description": "+10% 移动力加成\n-30 护盾容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rising_Skill",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rising_Skill"
     },
     "zh-hant": {
         "item_name": "飛升技巧",
         "description": "+10% 移動力加成\n-30 護盾容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rising_Skill",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rising_Skill"
     },
     "es": {
         "item_name": "Habilidad Creciente",
         "description": "+10% de movilidad\n-30 de capacidad de escudo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Habilidad_creciente",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Habilidad_creciente"
     },
     "it": {
         "item_name": "Rising Skill",
         "description": "+10% Mobilità\n-30 Capienza Scudo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rising_Skill",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Rising_Skill"
     },
     "pl": {
         "item_name": "Wznosząca Sprawność",
         "description": "+10% Mobilności\n-30 Wytrzymałość Tarcz",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wznosz%C4%85ca_Stal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wznosz%C4%85ca_Stal"
     },
     "rarity": "uncommon",
     "max_rank": 3,

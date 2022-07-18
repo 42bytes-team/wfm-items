@@ -1,14 +1,11 @@
 {
     "_id": "5ee76f4d04d55c0a8197243d",
     "tags": [
-        "weapon",
-        "pistol",
         "component",
-        "secondary",
-        "barrel"
+        "weapon"
     ],
-    "icon": "icons/en/velox_set.8d807d2b4f5eddf0d1b17e52adc717ac.png",
-    "thumb": "icons/en/thumbs/velox_set.8d807d2b4f5eddf0d1b17e52adc717ac.128x128.png",
+    "icon": "items/images/en/velox_barrel.8d807d2b4f5eddf0d1b17e52adc717ac.png",
+    "thumb": "items/images/en/thumbs/velox_barrel.8d807d2b4f5eddf0d1b17e52adc717ac.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
     "url_name": "velox_barrel",
@@ -26,68 +23,57 @@
     "en": {
         "item_name": "Velox Barrel",
         "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
     },
     "ru": {
         "item_name": "Велокс: Ствол",
         "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%BA%D1%81",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%BA%D1%81"
     },
     "ko": {
         "item_name": "벨록스 배럴",
         "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
     },
     "de": {
         "item_name": "Velox: Lauf",
         "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
     },
     "fr": {
         "item_name": "Velox - Canon",
         "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Velox"
     },
     "pt": {
         "item_name": "Velox: Cano",
         "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
     },
     "zh-hans": {
         "item_name": "逐电 枪管",
         "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Velox"
     },
     "zh-hant": {
         "item_name": "迅敏屠夫槍管",
         "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Velox"
     },
     "es": {
         "item_name": "Cañón De Velox",
         "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Velox"
     },
     "it": {
         "item_name": "Velox - Canna",
         "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
     },
     "pl": {
         "item_name": "Velox: Lufa",
         "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Velox",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Velox"
     },
     "mastery_level": 8,
     "trading_tax": 2000

@@ -3,9 +3,11 @@
     "url_name": "kohm",
     "group": "primary",
     "riven_type": "shotgun",
-    "icon": "icons/en/kohm.361a454b487f45e05ef7c884a6a0dad2.png",
-    "thumb": "icons/en/thumbs/kohm.361a454b487f45e05ef7c884a6a0dad2.128x128.png",
+    "icon": "items/images/en/kohm.361a454b487f45e05ef7c884a6a0dad2.png",
+    "thumb": "items/images/en/thumbs/kohm.361a454b487f45e05ef7c884a6a0dad2.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 5,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle"
     },

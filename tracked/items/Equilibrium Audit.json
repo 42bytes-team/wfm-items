@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "sentinel"
+        "sentinel",
+        "hound"
     ],
-    "icon": "icons/en/equilibrium_audit.38c489ece2eb11b1be3f60602a9b56b0.png",
-    "thumb": "icons/en/thumbs/equilibrium_audit.38c489ece2eb11b1be3f60602a9b56b0.128x128.png",
+    "icon": "items/images/en/equilibrium_audit.38c489ece2eb11b1be3f60602a9b56b0.png",
+    "thumb": "items/images/en/thumbs/equilibrium_audit.38c489ece2eb11b1be3f60602a9b56b0.128x128.png",
     "icon_format": "port",
     "url_name": "equilibrium_audit",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Equilibrium Audit",
         "description": "Unleashes a series of shockwaves that knockdown enemies within 15m and deal 300 damage.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Равновесный Аудит",
         "description": "Выпускает серию ударных волн, которая сбивает с ног врагов в радиусе 15м и наносит 300 урона.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "이퀄리브리엄 오디트",
         "description": "15m 내의 적들을 쓰러뜨리고 300의 피해를 가하는 일련의 충격파를 방출합니다.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Prüfung: Ausgleich",
         "description": "Entfesselt eine Reihe von Schockwellen die Feinde innerhalb von 15 m zurückwerfen und 300 Schaden verursachen.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Audit D'équilibre",
         "description": "Déclenche une série d'ondes de choc qui renversent les ennemis dans les 15m et infligent 300 points de Dégâts.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Equilibrium Audit",
         "description": "Emite uma série de ondas de choque que derrubam os inimigos dentro de 15m, causando 300 de Dano.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "均衡审计",
         "description": "释放一系列冲击波来击倒 15 米内的敌人，并造成 300 伤害。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "均衡審核",
         "description": "釋放一系列震波來擊倒 15 公尺內的敵人並造成 300 傷害。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Inspección De Equilibrio",
         "description": "Desata una serie de ondas de choque que derriban a los enemigos dentro de 15 m y causa 300 de daño.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Equilibrium Audit",
         "description": "Scatena una serie di onde d'urto che atterrano i nemici nel raggio di 15m e infliggono 300 danni.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Audyt Równowagi",
         "description": "Tworzy serię fal uderzeniowych, które powalają wrogów w zasięgu 15m i zadają 300 obrażeń.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "rare",
     "max_rank": 5,

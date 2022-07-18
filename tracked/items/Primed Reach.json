@@ -1,14 +1,12 @@
 {
     "_id": "54dd265ce7798934d026f6fc",
     "tags": [
-        "void trader",
-        "melee",
         "mod",
-        "prime",
-        "legendary"
+        "legendary",
+        "melee"
     ],
-    "icon": "icons/en/Primed_Reach.190fc0fb5b26e6b8a2f5be6927099fa0.png",
-    "thumb": "icons/en/thumbs/Primed_Reach.190fc0fb5b26e6b8a2f5be6927099fa0.128x128.png",
+    "icon": "items/images/en/primed_reach.190fc0fb5b26e6b8a2f5be6927099fa0.png",
+    "thumb": "items/images/en/thumbs/primed_reach.190fc0fb5b26e6b8a2f5be6927099fa0.128x128.png",
     "icon_format": "port",
     "url_name": "primed_reach",
     "tradable": true,
@@ -18,70 +16,59 @@
     "en": {
         "item_name": "Primed Reach",
         "description": "+3 Range",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Reach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Reach"
     },
     "ru": {
         "item_name": "Размах Прайм",
         "description": "+3 Дальность поражения",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B0%D1%85_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "icon": "icons/ru/Primed_Reach.ef34b03dbcd80b4a40d7927c607cc8af.png",
-        "thumb": "icons/ru/thumbs/Primed_Reach.ef34b03dbcd80b4a40d7927c607cc8af.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/primed_reach.ef34b03dbcd80b4a40d7927c607cc8af.png",
+        "thumb": "items/images/ru/thumbs/primed_reach.ef34b03dbcd80b4a40d7927c607cc8af.128x128.png"
     },
     "ko": {
         "item_name": "프라임드 리치",
         "description": "+3 사거리",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Reach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Reach"
     },
     "de": {
         "item_name": "Primed Reichweite",
         "description": "+3 Reichweite",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Reichweite",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Reichweite"
     },
     "fr": {
         "item_name": "Atteinte Accrue",
         "description": "+3 Portée",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Atteinte_Accrue",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Atteinte_Accrue"
     },
     "pt": {
         "item_name": "Primed Reach",
         "description": "+3 Alcance",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Reach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Reach"
     },
     "zh-hans": {
         "item_name": "剑风 Prime",
         "description": "+3 攻击范围",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Reach",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Reach"
     },
     "zh-hant": {
         "item_name": "劍風 Prime",
         "description": "+3 攻擊範圍",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Reach",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Reach"
     },
     "es": {
         "item_name": "Alcance Prime",
         "description": "+3 de alcance",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Alcance_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Alcance_Prime"
     },
     "it": {
         "item_name": "Primed Reach",
         "description": "+3 Portata",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Reach",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Reach"
     },
     "pl": {
         "item_name": "Zasięg Prime",
         "description": "+3 Zasięg",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mag_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mag_Prime"
     },
     "rarity": "legendary",
     "max_rank": 10,

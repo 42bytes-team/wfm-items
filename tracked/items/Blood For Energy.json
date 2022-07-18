@@ -2,12 +2,11 @@
     "_id": "5dbe9b0c7ea27b0ffe3ca271",
     "tags": [
         "mod",
-        "warframe",
         "rare",
         "parazon"
     ],
-    "icon": "icons/en/blood_for_energy.39c5c4fe581c7a1c4a01a0f6ec3fd564.png",
-    "thumb": "icons/en/thumbs/blood_for_energy.39c5c4fe581c7a1c4a01a0f6ec3fd564.128x128.png",
+    "icon": "items/images/en/blood_for_energy.39c5c4fe581c7a1c4a01a0f6ec3fd564.png",
+    "thumb": "items/images/en/thumbs/blood_for_energy.39c5c4fe581c7a1c4a01a0f6ec3fd564.128x128.png",
     "icon_format": "port",
     "url_name": "blood_for_energy",
     "tradable": true,
@@ -17,70 +16,59 @@
     "en": {
         "item_name": "Blood For Energy",
         "description": "50% chance to drop an Energy Orb on Mercy",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy"
     },
     "ru": {
         "item_name": "Кровь За Энергию",
         "description": "50% шанса выпадения Энергосферы при выполнении Милосердия",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%BE%D0%B2%D1%8C_%D0%B7%D0%B0_%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8E",
-        "icon": "icons/ru/blood_for_energy.566414acf1facad83a394805502f313f.png",
-        "thumb": "icons/ru/thumbs/blood_for_energy.566414acf1facad83a394805502f313f.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/blood_for_energy.566414acf1facad83a394805502f313f.png",
+        "thumb": "items/images/ru/thumbs/blood_for_energy.566414acf1facad83a394805502f313f.128x128.png"
     },
     "ko": {
         "item_name": "블러드 포 에너지",
         "description": "자비의 일격 시 50% 확률로 에너지 오브 드롭",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy"
     },
     "de": {
         "item_name": "Blut Für Energie",
         "description": "50 % Chance, eine Energiekugel nach einem Gnadenstoß zu erzeugen",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy"
     },
     "fr": {
         "item_name": "Énergie Ensanglantée",
         "description": "50% de chances d'obtenir un Orbe d'Énergie lors d'une Miséricorde",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89nergie_Ensanglant%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89nergie_Ensanglant%C3%A9e"
     },
     "pt": {
         "item_name": "Blood For Energy",
         "description": "50% de chance de fornecer um Orbe de Energia por Misericórdia",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy"
     },
     "zh-hans": {
         "item_name": "血易能量",
         "description": "怜悯之击时有 50% 几率掉落能量球",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_For_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_For_Energy"
     },
     "zh-hant": {
         "item_name": "噬血嗜能",
         "description": "慈悲斬殺時 50% 機率掉落能量球",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_For_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_For_Energy"
     },
     "es": {
         "item_name": "Sangre Por Energía",
         "description": "50% de probabilidad de soltar un orbe de energía en Misericordia",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sangre_por_energ%C3%ADa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sangre_por_energ%C3%ADa"
     },
     "it": {
         "item_name": "Blood For Energy",
         "description": "50% di probabilità di rilasciare una Sfera di Energia durante Mercy",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Energy"
     },
     "pl": {
         "item_name": "Krew Za Energię",
         "description": "50% szans na otrzymanie Kuli Energii po użyciu Miłosierdzia",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krew_za_Energi%C4%99",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krew_za_Energi%C4%99"
     },
     "rarity": "rare",
     "trading_tax": 8000

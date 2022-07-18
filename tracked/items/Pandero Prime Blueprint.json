@@ -6,8 +6,8 @@
         "secondary",
         "blueprint"
     ],
-    "icon": "icons/en/pandero_prime_set.b83adf601737a6357fb8a5c06b637e8f.png",
-    "thumb": "icons/en/thumbs/pandero_prime_set.b83adf601737a6357fb8a5c06b637e8f.128x128.png",
+    "icon": "items/images/en/pandero_prime_blueprint.b83adf601737a6357fb8a5c06b637e8f.png",
+    "thumb": "items/images/en/thumbs/pandero_prime_blueprint.b83adf601737a6357fb8a5c06b637e8f.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "pandero_prime_blueprint",
@@ -26,255 +26,57 @@
     "en": {
         "item_name": "Pandero Prime Blueprint",
         "description": "Pound the beat for a dance of death with Octavia's signature prime pistol.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "Axi P4 Relic (Common)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Lith I1 Relic (Common)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "Lith N8 Relic (Common)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Lith N11 Relic (Common)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime"
     },
     "ru": {
-        "item_name": "Пандеро Прайм: Чертеж",
+        "item_name": "Пандеро Прайм (Чертеж)",
         "description": "Отбивайте ритм танца смерти с особым прайм-пистолетом Октавии.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси P4 (Обычный)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Реликвия Лит I1 (Обычный)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "Реликвия Лит N8 (Обычный)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Реликвия Лит N11 (Обычный)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D0%BE_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "판데로 프라임 설계도",
         "description": "옥타비아의 특징적인 프라임 권총으로 죽음의 무도를 위한 박자를 넣어 보세요.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "액시 P4 성유물 (커먼)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "리스 I1 성유물 (커먼)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "리스 N8 성유물 (커먼)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "리스 N11 성유물 (커먼)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime"
     },
     "de": {
-        "item_name": "Pandero Prime: Blaupause",
+        "item_name": "Pandero Prime Blaupause",
         "description": "Schlage den Takt für einen Totentanz mit Octavias bevorzugter Prime Pistole.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: P4 (Gewöhnlich)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Lith-relikt: I1 (Gewöhnlich)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "Lith-relikt: N8 (Gewöhnlich)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Lith-relikt: N11 (Gewöhnlich)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime"
     },
     "fr": {
-        "item_name": "Pandero Prime - Schéma",
+        "item_name": "Pandero Prime (Schéma)",
         "description": "Marquez le rythme de la danse de la mort avec le Pistolet Prime emblématique d'Octavia.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi P4 (Commun)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Relique Lith I1 (Commun)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "Relique Lith N8 (Commun)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relique Lith N11 (Commun)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pandero_Prime"
     },
     "pt": {
-        "item_name": "Pandero Prime: Diagrama",
+        "item_name": "Pandero Prime (Diagrama)",
         "description": "Defina o ritmo de uma dança letal ao utilizar a pistola Prime tradicional da Octavia.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi P4 (Comum)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Relíquia Lith I1 (Comum)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "Relíquia Lith N8 (Comum)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relíquia Lith N11 (Comum)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime"
     },
     "zh-hans": {
         "item_name": "手鼓 Prime 蓝图",
         "description": "（英文：PANDERO PRIME）以这把 Octavia 的标志性 Prime 手枪，为死亡之舞敲奏节拍。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "后纪 P4 遗物 (常见)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "古纪 I1 遗物 (常见)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "古纪 N8 遗物 (常见)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "古纪 N11 遗物 (常见)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pandero_Prime"
     },
     "zh-hant": {
         "item_name": "手鼓 Prime 藍圖",
         "description": "（英文：PANDERO PRIME）透過 Octavia 的標誌性手槍來敲奏毀滅之舞的節拍。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "後紀 P4 遺物 (常見)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "古紀 I1 遺物 (常見)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "古紀 N8 遺物 (常見)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "古紀 N11 遺物 (常見)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pandero_Prime"
     },
     "es": {
         "item_name": "Plano de Pandero Prime",
         "description": "Marca el ritmo de la danza de la muerte con la distintiva pistola Prime de Octavia.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi P4 (Común)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Reliquia Lith I1 (Común)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "Reliquia Lith N8 (Común)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Reliquia Lith N11 (Común)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime"
     },
     "it": {
-        "item_name": "Pandero Prime Blueprint",
+        "item_name": "Pandero Prime (Schema)",
         "description": "Batti il ritmo per una danza della morte con la pistola Prime distintiva di Octavia.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi P4 (Common)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Reliquia Lith I1 (Common)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "Reliquia Lith N8 (Common)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Reliquia Lith N11 (Common)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime"
     },
     "pl": {
-        "item_name": "Pandero Prime: Schemat",
+        "item_name": "Pandero Prime - Schemat",
         "description": "Wczuj się w rytm tańca śmierci z charakterystycznym pistoletem prime Octavii.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi P4 (Powszechny)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Relikt Lith I1 (Powszechny)",
-                "link": "lith_i1_relic"
-            },
-            {
-                "name": "Relikt Lith N8 (Powszechny)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relikt Lith N11 (Powszechny)",
-                "link": "lith_n11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pandero_Prime"
     },
     "mastery_level": 14,
     "ducats": 15,

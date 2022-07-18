@@ -2,11 +2,12 @@
     "_id": "57c20990022d3f62c0d81aa8",
     "tags": [
         "mod",
+        "rare",
         "warframe",
-        "rare"
+        "nezha"
     ],
-    "icon": "icons/en/Safeguard.636dc23f7f989e63a549c926a64efee6.png",
-    "thumb": "icons/en/thumbs/Safeguard.636dc23f7f989e63a549c926a64efee6.128x128.png",
+    "icon": "items/images/en/safeguard.636dc23f7f989e63a549c926a64efee6.png",
+    "thumb": "items/images/en/thumbs/safeguard.636dc23f7f989e63a549c926a64efee6.128x128.png",
     "icon_format": "port",
     "url_name": "safeguard",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Safeguard",
         "description": "Warding Halo Augment: Can now be cast on allies with 50% effectiveness.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Safeguard",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Safeguard"
     },
     "ru": {
         "item_name": "Защитные Меры",
         "description": "Улучшение способности «Оберегающее Гало»: даёт возможность применения на союзниках с эффективность в 50%.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B5_%D0%9C%D0%B5%D1%80%D1%8B",
-        "icon": "icons/ru/Safeguard.53999a795c91389d98a06d414f29e0c9.png",
-        "thumb": "icons/ru/thumbs/Safeguard.53999a795c91389d98a06d414f29e0c9.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/safeguard.53999a795c91389d98a06d414f29e0c9.png",
+        "thumb": "items/images/ru/thumbs/safeguard.53999a795c91389d98a06d414f29e0c9.128x128.png"
     },
     "ko": {
         "item_name": "세이프가드",
         "description": "워딩 헤일로 개조: 워딩 헤일로를 기존의 50% 효과로 아군에게도 사용할 수 있게 됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Safeguard",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Safeguard"
     },
     "de": {
         "item_name": "Sicherung",
         "description": "Abwehrender Halo Augment: Kann nun auf Verbündete mit einer Effizienz von 50 % angewendet werden.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicherung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicherung"
     },
     "fr": {
         "item_name": "Sauvegarde",
         "description": "Augmentation de Halo Protecteur: Peut désormais être lancé sur les alliés avec 50% d'efficacité.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sauvegarde",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sauvegarde"
     },
     "pt": {
         "item_name": "Safeguard",
         "description": "Ampliação Warding Halo: Agora pode ser conjurada nos aliados com 50% de efetividade.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Safeguard_Switch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Safeguard_Switch"
     },
     "zh-hans": {
         "item_name": "火绫守护",
         "description": "混天火绫强化：能将技能的 50% 效果施放在队友身上。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Safeguard",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Safeguard"
     },
     "zh-hant": {
         "item_name": "火綾守護",
         "description": "混天火綾強化：能將技能的 50% 效果施放在盟友身上。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Safeguard",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Safeguard"
     },
     "es": {
         "item_name": "Protección",
         "description": "Aumento de Halo guardián: ahora se puede lanzar sobre los aliados con una efectividad del 50 %.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Protecci%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Protecci%C3%B3n"
     },
     "it": {
         "item_name": "Safeguard",
         "description": "Potenziamento Warding Halo: Può essere utilizzato sugli alleati con un'efficacia del 50%.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Safeguard",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Safeguard"
     },
     "pl": {
         "item_name": "Asekuracja",
         "description": "Modyfikacja Ochronnego Halo: Umiejętność można nakładać na sojuszników zachowując 50% efektywności.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Asekuracja",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Asekuracja"
     },
     "rarity": "rare",
     "max_rank": 3,

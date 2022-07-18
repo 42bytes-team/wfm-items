@@ -6,8 +6,8 @@
         "melee",
         "blueprint"
     ],
-    "icon": "icons/en/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
-    "thumb": "icons/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+    "icon": "items/images/en/volnus_prime_blueprint.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+    "thumb": "items/images/en/thumbs/volnus_prime_blueprint.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "volnus_prime_blueprint",
@@ -26,255 +26,57 @@
     "en": {
         "item_name": "Volnus Prime Blueprint",
         "description": "The glorious original Orokin casting of Gara’s signature glass hammer. Deceptively light and swift, while remaining lethally effective.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi A14 Relic (Common)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "Meso Z4 Relic (Common)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "Lith S11 Relic (Common)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "Lith G5 Relic (Common)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ru": {
-        "item_name": "Вольнус Прайм: Чертеж",
+        "item_name": "Вольнус Прайм (Чертеж)",
         "description": "Великолепное оригинальное литье Орокин особого стеклянного молотка Гары. Обманчиво легкий и быстрый, но при этом смертельно эффективный.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Реликвия Акси A14 (Обычный)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "Реликвия Мезо Z4 (Обычный)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "Реликвия Лит S11 (Обычный)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "Реликвия Лит G5 (Обычный)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ko": {
         "item_name": "볼누스 프라임 설계도",
         "description": "가라의 특징적인 유리 해머가 오로킨에 의해 화려하게 주조되었던 때의 원래 모습으로, 믿을 수 없을 정도로 가볍고 빠르지만 치명적인 파괴력은 잃지 않았습니다.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "액시 A14 성유물 (커먼)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "메소 Z4 성유물 (커먼)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "리스 S11 성유물 (커먼)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "리스 G5 성유물 (커먼)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "de": {
-        "item_name": "Volnus Prime: Blaupause",
+        "item_name": "Volnus Prime Blaupause",
         "description": "Der herrliche und ursprüngliche Orokin Guss von Garas bevorzugtem Glashammer. Täuschend leicht und schnell und dennoch tödlich.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi-relikt: A14 (Gewöhnlich)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "Meso-relikt: Z4 (Gewöhnlich)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "Lith-relikt: S11 (Gewöhnlich)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "Lith-relikt: G5 (Gewöhnlich)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "fr": {
-        "item_name": "Volnus Prime - Schéma",
+        "item_name": "Volnus Prime (Schéma)",
         "description": "La glorieuse conception Orokin originale du Marteau en verre emblématique de Gara. D'apparence légère et rapide, tout en restant mortellement efficace.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relique Axi A14 (Commun)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "Relique Meso Z4 (Commun)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "Relique Lith S11 (Commun)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "Relique Lith G5 (Commun)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pt": {
-        "item_name": "Volnus Prime: Diagrama",
+        "item_name": "Volnus Prime (Diagrama)",
         "description": "Um glorioso artesanal Orokin do martelo de vidro tradicional da Gara. Embora incrivelmente leve e ágil, continua apresentando uma eficácia letal.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relíquia Axi A14 (Comum)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "Relíquia Meso Z4 (Comum)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "Relíquia Lith S11 (Comum)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "Relíquia Lith G5 (Comum)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "创伤 Prime 蓝图",
         "description": "（英文：VOLNUS PRIME）作为最初由 Orokin 所铸造的辉煌，Gara 标志性的玻璃锤看似轻敏，却极具杀伤力。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "后纪 A14 遗物 (常见)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "前纪 Z4 遗物 (常见)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "古纪 S11 遗物 (常见)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "古纪 G5 遗物 (常见)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "創傷 Prime 藍圖",
         "description": "（英文：VOLNUS PRIME）Gara 原版標誌性戰鎚的輝煌鑄成品。雖然輕量快速，卻同時保留其致命的效力。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "後紀 A14 遺物 (常見)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "前紀 Z4 遺物 (常見)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "古紀 S11 遺物 (常見)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "古紀 G5 遺物 (常見)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "es": {
         "item_name": "Plano de Volnus Prime",
         "description": "El glorioso diseño Orokin del distintivo martillo de vidrio de Gara. Ligero y rápido en apariencia, pero letalmente eficaz.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi A14 (Común)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "Reliquia Meso Z4 (Común)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "Reliquia Lith S11 (Común)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "Reliquia Lith G5 (Común)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "it": {
-        "item_name": "Volnus Prime Blueprint",
+        "item_name": "Volnus Prime (Schema)",
         "description": "Il glorioso design originale Orokin del martello di vetro simbolo di Gara. Leggero e veloce a prima vista, pur mantenendo la sua letale efficacia.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi A14 (Common)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "Reliquia Meso Z4 (Common)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "Reliquia Lith S11 (Common)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "Reliquia Lith G5 (Common)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pl": {
-        "item_name": "Volnus Prime: Schemat",
+        "item_name": "Volnus Prime - Schemat",
         "description": "Wspaniały, oryginalny odlew szklanego młota Orokin, charakterystycznego dla Gary. Zaskakująco lekki i szybki, a jednocześnie śmiertelnie skuteczny.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relikt Axi A14 (Powszechny)",
-                "link": "axi_a14_relic"
-            },
-            {
-                "name": "Relikt Meso Z4 (Powszechny)",
-                "link": "meso_z4_relic"
-            },
-            {
-                "name": "Relikt Lith S11 (Powszechny)",
-                "link": "lith_s11_relic"
-            },
-            {
-                "name": "Relikt Lith G5 (Powszechny)",
-                "link": "lith_g5_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "mastery_level": 14,
     "ducats": 15,

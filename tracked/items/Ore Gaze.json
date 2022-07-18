@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "atlas"
     ],
-    "icon": "icons/en/ore_gaze.b00450a6b07791dcdbace16e888159c6.png",
-    "thumb": "icons/en/thumbs/ore_gaze.b00450a6b07791dcdbace16e888159c6.128x128.png",
+    "icon": "items/images/en/ore_gaze.b00450a6b07791dcdbace16e888159c6.png",
+    "thumb": "items/images/en/thumbs/ore_gaze.b00450a6b07791dcdbace16e888159c6.128x128.png",
     "icon_format": "port",
     "url_name": "ore_gaze",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Ore Gaze",
         "description": "Petrify Augment: Petrified enemies are scanned into the Codex and have a 25% chance to drop additional loot when killed.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ore_Gaze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ore_Gaze"
     },
     "ru": {
         "item_name": "Рудный Взор",
         "description": "Улучшение способности «Остолбенение»: окаменевшие враги сканируются для кодекса и имеют 25% шанс обронить после своей смерти дополнительный предмет.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D0%92%D0%B7%D0%BE%D1%80",
-        "icon": "icons/ru/ore_gaze.b77f50eede031b5edf5da16f99ed2f8d.png",
-        "thumb": "icons/ru/thumbs/ore_gaze.b77f50eede031b5edf5da16f99ed2f8d.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/ore_gaze.b77f50eede031b5edf5da16f99ed2f8d.png",
+        "thumb": "items/images/ru/thumbs/ore_gaze.b77f50eede031b5edf5da16f99ed2f8d.128x128.png"
     },
     "ko": {
         "item_name": "오어 게이즈",
         "description": "페트리파이 개조: 석화된 적을 스캔하여 코덱스에 기록하고 처치 시 25%의 확률로 추가적인 아이템을 드롭합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ore_Gaze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ore_Gaze"
     },
     "de": {
         "item_name": "Erzblick",
         "description": "Versteinern Augment: Versteinerte Gegner werden für den Codex gescannt und haben eine 25 % Chance, zusätzliche Beute bei ihrem Tod fallen zu lassen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Erzblick",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Erzblick"
     },
     "fr": {
         "item_name": "Regard Minéral",
         "description": "Augmentation de Pétrification: Les ennemis pétrifiés sont scannés et ajoutés au codex. Lorsqu'ils sont éliminés, ils ont aussi 25% de chances de laisser tomber du butin supplémentaire.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Regard_Min%C3%A9ral",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Regard_Min%C3%A9ral"
     },
     "pt": {
         "item_name": "Ore Gaze",
         "description": "Ampliação Petrify: Inimigos petrificados são analisados para o Codex, com 25% de chance de deixar itens adicionais ao serem abatidos.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ore_Gaze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ore_Gaze"
     },
     "zh-hans": {
         "item_name": "矿石凝视",
         "description": "石化凝视强化：被石化的敌人会被扫描进资料库并在击杀时有 25% 几率额外掉落道具。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ore_Gaze",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ore_Gaze"
     },
     "zh-hant": {
         "item_name": "礦石凝視",
         "description": "石化凝視強化：被石化的敵人會被掃描進資料庫並在擊殺時有 25% 機率額外掉落道具。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ore_Gaze",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ore_Gaze"
     },
     "es": {
         "item_name": "Mirada Mineral",
         "description": "Aumento de Petrificar: los enemigos petrificados son escaneados al códice y tienen un 25% de probabilidad de soltar botín adicional cuando mueren.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mirada_mineral",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mirada_mineral"
     },
     "it": {
         "item_name": "Ore Gaze",
         "description": "Potenziamento Petrify: I nemici pietrificati vengono scannerizzati nel Codex ed hanno una possibilità del 25% di rilasciare piú oggetti quando uccisi.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ore_Gaze",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Ore_Gaze"
     },
     "pl": {
         "item_name": "Skalny Wzrok",
         "description": "Modyfikacja Petryfikacji: Wrogowie poddani petryfikacji są automatycznie skanowani do kodeksu i mają 25% szansę na upuszczenie dodatkowego łupu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Skalny_Wzrok",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Skalny_Wzrok"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -4,8 +4,8 @@
         "arcane_enhancement",
         "rare"
     ],
-    "icon": "icons/en/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.png",
-    "thumb": "icons/en/thumbs/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
+    "icon": "items/images/en/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.png",
+    "thumb": "items/images/en/thumbs/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_blade_charger",
     "tradable": true,
@@ -14,69 +14,58 @@
     },
     "en": {
         "item_name": "Arcane Blade Charger",
-        "description": "On Primary Weapon Kill:\n30% chance for +300% Melee Damage for 12s\n+1 Arcane Revive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger",
-        "drop": []
+        "description": "On Primary Weapon Kill:\n30% chance for +300% Melee Damage for 12s\n+1 Arcane Revive\n+1 Arcane Revive",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger"
     },
     "ru": {
         "item_name": "Мистический Усилитель Клинков",
-        "description": "При убийстве основным оружием:\n30% шанс +300% урона в ближнем бою в течение 12c.\n+1 Мистическое Воскрешение",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9A%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2",
-        "drop": []
+        "description": "При убийстве основным оружием:\n30% шанс +300% урона в ближнем бою в течение 12c.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9A%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2"
     },
     "ko": {
         "item_name": "아케인 블레이드 차저",
-        "description": "주무기로 처치 시:\n30% 확률로 12초 동안 +300% 근접 피해\n+1 아케인 부활",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger",
-        "drop": []
+        "description": "주무기로 처치 시:\n30% 확률로 12초 동안 +300% 근접 피해\n+1 아케인 부활\n+1 아케인 부활",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger"
     },
     "de": {
         "item_name": "Arkana: Klingen-lader",
-        "description": "Bei Kill mit Primärwaffe:\n30 % Chance auf +300 % Nahkampfschaden für 12 s\n+1 Arkana Wiederbelebung",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger",
-        "drop": []
+        "description": "Bei Kill mit Primärwaffe:\n30 % Chance auf +300 % Nahkampfschaden für 12 s\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger"
     },
     "fr": {
         "item_name": "Arcane Chargeur De Lame",
-        "description": "Sur Élimination avec l'Arme Principale:\n30% de chance pour +300% de Dégâts en Mêlée pendant 12s\n+1 Réanimation Arcane",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Chargeur_de_Lame",
-        "drop": []
+        "description": "Sur Élimination avec l'Arme Principale:\n30% de chances de: +300% de Dégâts en Mêlée pendant 12s\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Chargeur_de_Lame"
     },
     "pt": {
         "item_name": "Arcano: Lâmina Carregada",
-        "description": "Ao Matar com Armas Primárias:\n30% de chance de +300% de Dano Corpo a Corpo durante 12s\n+1 Reanimação Arcana",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger",
-        "drop": []
+        "description": "Ao Matar com Armas Primárias:\n30% de chance de +300% de Dano Corpo a Corpo durante 12s\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger"
     },
     "zh-hans": {
         "item_name": "刀刃充能 赋能",
-        "description": "主要武器击杀时：\n30% 几率得到 +300% 近战伤害 效果，持续 12 秒\n赋能复活次数 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Blade_Charger",
-        "drop": []
+        "description": "主要武器击杀时：\n30% 几率得到 +300% 近战伤害 效果，持续 12 秒\n赋能复活次数 +1\n赋能复活次数 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Blade_Charger"
     },
     "zh-hant": {
         "item_name": "刀刃充能賦能",
-        "description": "以主武器擊殺時：\n30% 機率得到 +300% 近戰傷害 效果，持續 12 秒\n賦能復活次數 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Blade_Charger",
-        "drop": []
+        "description": "以主武器擊殺時：\n30% 機率得到 +300% 近戰傷害 效果，持續 12 秒\n賦能復活次數 +1\n賦能復活次數 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Blade_Charger"
     },
     "es": {
         "item_name": "Cargador De Hoja Arcano",
-        "description": "Al matar con arma primaria:\n30% de probabilidad de +300% de daño cuerpo a cuerpo durante 12s\n+1 Revivir Arcano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_de_hoja_arcano",
-        "drop": []
+        "description": "Al matar con arma primaria:\n30% de probabilidad de +300 % de daño cuerpo a cuerpo durante 12s\n+1 Revivir Arcano\n+1 Revivir Arcano",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_de_hoja_arcano"
     },
     "it": {
         "item_name": "Arcane Blade Charger",
-        "description": "All'Uccisione con un'Arma Primaria:\n30% probabilità di +300% Danno Corpo a Corpo per 12s\n+1 Rianimazione Arcane",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger",
-        "drop": []
+        "description": "All'Uccisione con un'Arma Primaria:\n30% probabilità di +300% Danno Corpo a Corpo per 12s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger"
     },
     "pl": {
         "item_name": "Arkanum Synergii Ostrzy",
-        "description": "Po zabójstwie Bronią Główną:\n30% szans na +300% Obrażeń w Walce Wręcz przez 12s\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger",
-        "drop": []
+        "description": "Po zabójstwie Bronią Główną:\n30% szans na +300% Obrażeń w Walce Wręcz przez 12s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger"
     },
     "rarity": "rare",
     "max_rank": 5,

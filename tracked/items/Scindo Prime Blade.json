@@ -1,14 +1,12 @@
 {
     "_id": "54a73e65e779893a797fff5b",
     "tags": [
-        "prime",
         "component",
         "weapon",
-        "blade",
-        "melee"
+        "prime"
     ],
-    "icon": "icons/en/scindo_prime_blade.ae70ac90b811a44f64263394b6410c28.png",
-    "thumb": "icons/en/thumbs/scindo_prime_blade.ae70ac90b811a44f64263394b6410c28.128x128.png",
+    "icon": "items/images/en/scindo_prime_blade.ae70ac90b811a44f64263394b6410c28.png",
+    "thumb": "items/images/en/thumbs/scindo_prime_blade.ae70ac90b811a44f64263394b6410c28.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
     "url_name": "scindo_prime_blade",
@@ -27,211 +25,57 @@
     "en": {
         "item_name": "Scindo Prime Blade",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "Axi S3 Relic (Rare)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "Axi S8 Relic (Rare)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "Axi S1 Relic (Rare)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Scindo_Prime"
     },
     "ru": {
         "item_name": "Сциндо Прайм: Клинок",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%86%D0%B8%D0%BD%D0%B4%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси S3 (Редкий)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "Реликвия Акси S8 (Редкий)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "Реликвия Акси S1 (Редкий)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%86%D0%B8%D0%BD%D0%B4%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "신도 프라임 블레이드",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "액시 S3 성유물 (레어)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "액시 S8 성유물 (레어)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "액시 S1 성유물 (레어)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Scindo_Prime"
     },
     "de": {
         "item_name": "Scindo Prime: Klinge",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: S3 (Selten)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "Axi-relikt: S8 (Selten)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "Axi-relikt: S1 (Selten)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Scindo_Prime"
     },
     "fr": {
         "item_name": "Scindo Prime - Lame",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi S3 (Rare)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "Relique Axi S8 (Rare)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "Relique Axi S1 (Rare)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Scindo_Prime"
     },
     "pt": {
         "item_name": "Scindo Prime: Lâmina",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi S3 (Raro)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "Relíquia Axi S8 (Raro)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "Relíquia Axi S1 (Raro)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Scindo_Prime"
     },
     "zh-hans": {
         "item_name": "分裂斩斧 Prime 刀刃",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "后纪 S3 遗物 (稀有)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "后纪 S8 遗物 (稀有)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "后纪 S1 遗物 (稀有)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scindo_Prime"
     },
     "zh-hant": {
         "item_name": "分裂斬斧 Prime 刀刃",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "後紀 S3 遺物 (稀有)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "後紀 S8 遺物 (稀有)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "後紀 S1 遺物 (稀有)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scindo_Prime"
     },
     "es": {
         "item_name": "Hoja De Scindo Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi S3 (Raro)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "Reliquia Axi S8 (Raro)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "Reliquia Axi S1 (Raro)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Scindo_Prime"
     },
     "it": {
         "item_name": "Scindo Prime - Lama",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi S3 (Rare)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "Reliquia Axi S8 (Rare)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "Reliquia Axi S1 (Rare)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Scindo_Prime"
     },
     "pl": {
         "item_name": "Scindo Prime: Ostrze",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Scindo_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi S3 (Rzadki)",
-                "link": "axi_s3_relic"
-            },
-            {
-                "name": "Relikt Axi S8 (Rzadki)",
-                "link": "axi_s8_relic"
-            },
-            {
-                "name": "Relikt Axi S1 (Rzadki)",
-                "link": "axi_s1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Scindo_Prime"
     },
     "mastery_level": 8,
     "ducats": 100,

@@ -2,11 +2,12 @@
     "_id": "5615432bb66f8371035bfa2d",
     "tags": [
         "mod",
+        "common",
         "sentinel",
-        "common"
+        "diriga"
     ],
-    "icon": "icons/en/Electro_Pulse.f4bd69a3149985b72299f5da28a01306.png",
-    "thumb": "icons/en/thumbs/Electro_Pulse.f4bd69a3149985b72299f5da28a01306.128x128.png",
+    "icon": "items/images/en/electro_pulse.f4bd69a3149985b72299f5da28a01306.png",
+    "thumb": "items/images/en/thumbs/electro_pulse.f4bd69a3149985b72299f5da28a01306.128x128.png",
     "icon_format": "port",
     "url_name": "electro_pulse",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Electro Pulse",
         "description": "Every 5s, Sentinel will continually zap an enemy within 15m, trapping them in a stunned state.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Electro_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Electro_Pulse"
     },
     "ru": {
         "item_name": "Электрический Импульс",
-        "description": "Каждые 5с Страж выпускает разряд по противнику в радиусе 15м, оглушая его.",
+        "description": "Каждые 5 с страж выпускает разряд по противнику в радиусе 15 м, оглушая его.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81",
-        "icon": "icons/ru/Electro_Pulse.6a060a2302e0b0b717c0d663238bf7d7.png",
-        "thumb": "icons/ru/thumbs/Electro_Pulse.6a060a2302e0b0b717c0d663238bf7d7.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/electro_pulse.6a060a2302e0b0b717c0d663238bf7d7.png",
+        "thumb": "items/images/ru/thumbs/electro_pulse.6a060a2302e0b0b717c0d663238bf7d7.128x128.png"
     },
     "ko": {
         "item_name": "일렉트로 펄스",
         "description": "매 5초마다, 센티넬이 15m 안의 적에게 전기 충격을 날려 스턴 상태로 만듭니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Electro_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Electro_Pulse"
     },
     "de": {
         "item_name": "Elektropuls",
         "description": "Alle 5 s, verteilt der Wächter Stromschläge an einen Gegner, innerhalb von 15 m, und hält ihn in einen betäubten Zustand gefangen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Elektropuls",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Elektropuls"
     },
     "fr": {
         "item_name": "Impulsion Électrique",
         "description": "Toutes les 5s, la sentinelle électrocute continuellement un ennemi dans un rayon de 15m, de façon à le tenir en place dans un état d'étourdissement perpétuel.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pulsation_%C3%89lectrique",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pulsation_%C3%89lectrique"
     },
     "pt": {
         "item_name": "Electro Pulse",
         "description": "A cada 5s, a Sentinela eletrocutará continuamente um inimigo dentro de 15m, mantendo-o atordoado.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Electro_Pulse",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Electro_Pulse"
     },
     "zh-hans": {
         "item_name": "电光脉冲",
         "description": "每 5 秒，守护会持续电击 15 米内的单名敌人以达到牵制效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Electro_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Electro_Pulse"
     },
     "zh-hant": {
         "item_name": "電光脈衝",
         "description": "每 5 秒，守護會持續電擊 15 公尺內的單名敵人以達到牽制效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Electro_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Electro_Pulse"
     },
     "es": {
         "item_name": "Pulso Eléctrico",
         "description": "Cada 5s, el centinela continuamente electrocuta a un enemigo en un radio de 15m, atrapándolo en un estado de aturdimiento.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pulso_el%C3%A9ctrico",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pulso_el%C3%A9ctrico"
     },
     "it": {
         "item_name": "Electro Pulse",
         "description": "Ogni 5s, la Sentinella elettrizza un nemico entro 15m, intrappolandolo in uno stato di stordimento continuo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Electro_Pulse",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Electro_Pulse"
     },
     "pl": {
         "item_name": "Impuls Elektryczny",
         "description": "Co 5s Strażnik będzie nieustannie porażał przeciwników w zasięgu 15m, paraliżując ich.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Electro_Pulse",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Electro_Pulse"
     },
     "rarity": "common",
     "max_rank": 5,

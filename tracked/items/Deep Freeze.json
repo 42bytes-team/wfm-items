@@ -6,8 +6,8 @@
         "pistol",
         "secondary"
     ],
-    "icon": "icons/en/Deep_Freeze.337e20a21ade89374d13a36733da015f.png",
-    "thumb": "icons/en/thumbs/Deep_Freeze.337e20a21ade89374d13a36733da015f.128x128.png",
+    "icon": "items/images/en/deep_freeze.337e20a21ade89374d13a36733da015f.png",
+    "thumb": "items/images/en/thumbs/deep_freeze.337e20a21ade89374d13a36733da015f.128x128.png",
     "icon_format": "port",
     "url_name": "deep_freeze",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Deep Freeze",
         "description": "+90% Cold",
-        "wiki_link": "https://warframe.fandom.com/wiki/Deep_Freeze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Deep_Freeze"
     },
     "ru": {
         "item_name": "Глубокая Заморозка",
         "description": "+90% урона холодом",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B7%D0%BA%D0%B0",
-        "icon": "icons/ru/Deep_Freeze.cd567cf175d103ff9bd9698b9a25e776.png",
-        "thumb": "icons/ru/thumbs/Deep_Freeze.cd567cf175d103ff9bd9698b9a25e776.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/deep_freeze.cd567cf175d103ff9bd9698b9a25e776.png",
+        "thumb": "items/images/ru/thumbs/deep_freeze.cd567cf175d103ff9bd9698b9a25e776.128x128.png"
     },
     "ko": {
         "item_name": "딥 프리즈",
         "description": "+90% 냉기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Deep_Freeze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Deep_Freeze"
     },
     "de": {
         "item_name": "Schockfrost",
         "description": "+90 % Kälte",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schockfrost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schockfrost"
     },
     "fr": {
         "item_name": "Froid Pénétrant",
         "description": "+90% Glace",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Froid_p%C3%A9n%C3%A9trant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Froid_p%C3%A9n%C3%A9trant"
     },
     "pt": {
         "item_name": "Deep Freeze",
         "description": "+90% de Glacial",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Deep_Freeze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Deep_Freeze"
     },
     "zh-hans": {
         "item_name": "深层冷冻",
         "description": "+90% 冰冻伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deep_Freeze",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deep_Freeze"
     },
     "zh-hant": {
         "item_name": "深層冷凍",
         "description": "+90% 冰凍傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deep_Freeze",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deep_Freeze"
     },
     "es": {
         "item_name": "Congelador",
         "description": "+90% de frío",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Congelador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Congelador"
     },
     "it": {
         "item_name": "Deep Freeze",
         "description": "+90% Ghiaccio",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Deep_Freeze",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Deep_Freeze"
     },
     "pl": {
         "item_name": "Zamrażanie",
         "description": "+90% Obrażeń Zimna",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zamro%C5%BCenie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zamro%C5%BCenie"
     },
     "rarity": "uncommon",
     "max_rank": 5,

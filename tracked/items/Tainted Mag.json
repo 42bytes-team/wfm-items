@@ -3,11 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "rifle",
-        "primary"
+        "primary",
+        "assault_rifle"
     ],
-    "icon": "icons/en/Tainted_Mag.39fd33acdfae357e3d1a4de81f41b598.png",
-    "thumb": "icons/en/thumbs/Tainted_Mag.39fd33acdfae357e3d1a4de81f41b598.128x128.png",
+    "icon": "items/images/en/tainted_mag.39fd33acdfae357e3d1a4de81f41b598.png",
+    "thumb": "items/images/en/thumbs/tainted_mag.39fd33acdfae357e3d1a4de81f41b598.128x128.png",
     "icon_format": "port",
     "url_name": "tainted_mag",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Tainted Mag",
         "description": "+66% Magazine Capacity\n-33% Reload Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tainted_Mag",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Tainted_Mag"
     },
     "ru": {
         "item_name": "Оскверненный Магазин",
         "description": "+66% к вместимости магазина\n-33% к скорости перезарядки",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%81%D0%BA%D0%B2%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
-        "icon": "icons/ru/Tainted_Mag.2062b1b81473fcb525e66cee6129b117.png",
-        "thumb": "icons/ru/thumbs/Tainted_Mag.2062b1b81473fcb525e66cee6129b117.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/tainted_mag.2062b1b81473fcb525e66cee6129b117.png",
+        "thumb": "items/images/ru/thumbs/tainted_mag.2062b1b81473fcb525e66cee6129b117.128x128.png"
     },
     "ko": {
         "item_name": "테인티드 매그",
         "description": "+66% 탄창 용량\n-33% 재장전 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tainted_Mag",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Tainted_Mag"
     },
     "de": {
         "item_name": "Verdorbenes Magazin",
         "description": "+66 % Magazingröße\n-33 % Nachladegeschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verdorbenes_Magazin",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Verdorbenes_Magazin"
     },
     "fr": {
         "item_name": "Magasin Contaminé",
         "description": "+66% de Taille Du Chargeur\n-33% de Vitesse de Recharge",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magasin_Contamin%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magasin_Contamin%C3%A9"
     },
     "pt": {
         "item_name": "Tainted Mag",
         "description": "+66% de Capacidade do Carregador\n-33% de Velocidade de Recarga",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tainted_Mag",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tainted_Mag"
     },
     "zh-hans": {
         "item_name": "腐败弹匣",
         "description": "+66% 弹匣容量\n-33% 装填速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tainted_Mag",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tainted_Mag"
     },
     "zh-hant": {
         "item_name": "腐敗彈匣",
         "description": "+66% 彈匣容量\n-33% 裝填速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tainted_Mag",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tainted_Mag"
     },
     "es": {
         "item_name": "Cargador Viciado",
         "description": "+66% de capacidad de cargador\n-33% de velocidad de recarga",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_viciado",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_viciado"
     },
     "it": {
         "item_name": "Tainted Mag",
         "description": "+66% Capienza Caricatore\n-33% Velocità di ricarica",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Tainted_Mag",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Tainted_Mag"
     },
     "pl": {
         "item_name": "Zakażony Magazynek",
         "description": "+66% Pojemności Magazynka\n-33% Prędkości Przeładowania",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zainfekowany_Magazynek",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zainfekowany_Magazynek"
     },
     "rarity": "rare",
     "max_rank": 10,

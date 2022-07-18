@@ -2,14 +2,13 @@
     "_id": "54a74454e779892d5e51562e",
     "tags": [
         "rare",
-        "archwing",
-        "arch-gun",
-        "archwing gun",
         "primary",
-        "mod"
+        "mod",
+        "archwing",
+        "archgun"
     ],
-    "icon": "icons/en/Dual_Rounds.304395bed5a40d76ddb9a62c76736d94.png",
-    "thumb": "icons/en/thumbs/Dual_Rounds.304395bed5a40d76ddb9a62c76736d94.128x128.png",
+    "icon": "items/images/en/dual_rounds.304395bed5a40d76ddb9a62c76736d94.png",
+    "thumb": "items/images/en/thumbs/dual_rounds.304395bed5a40d76ddb9a62c76736d94.128x128.png",
     "icon_format": "port",
     "url_name": "dual_rounds",
     "tradable": true,
@@ -19,70 +18,59 @@
     "en": {
         "item_name": "Dual Rounds",
         "description": "+60% Multishot",
-        "wiki_link": "https://warframe.fandom.com/wiki/Dual_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Dual_Rounds"
     },
     "ru": {
         "item_name": "Двойные Патроны",
         "description": "+60% мультивыстрел",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B%D0%B5_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
-        "icon": "icons/ru/Dual_Rounds.ae1e657d282eca5aaf9c15256adbec11.png",
-        "thumb": "icons/ru/thumbs/Dual_Rounds.ae1e657d282eca5aaf9c15256adbec11.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/dual_rounds.ae1e657d282eca5aaf9c15256adbec11.png",
+        "thumb": "items/images/ru/thumbs/dual_rounds.ae1e657d282eca5aaf9c15256adbec11.128x128.png"
     },
     "ko": {
         "item_name": "듀얼 라운즈",
         "description": "+60% 멀티샷",
-        "wiki_link": "https://warframe.fandom.com/wiki/Dual_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Dual_Rounds"
     },
     "de": {
         "item_name": "Dualgeschosse",
         "description": "+60 % Mehrfachschuss",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Dualgeschosse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Dualgeschosse"
     },
     "fr": {
         "item_name": "Coups Doubles",
         "description": "+60% de Tir Multiple",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coups_Doubles",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coups_Doubles"
     },
     "pt": {
         "item_name": "Dual Rounds",
         "description": "+60% de Tiro Múltiplo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Dual_Rounds",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Dual_Rounds"
     },
     "zh-hans": {
         "item_name": "双重弹头",
         "description": "+60% 多重射击",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dual_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dual_Rounds"
     },
     "zh-hant": {
         "item_name": "雙重彈頭",
         "description": "+60% 多重射擊",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dual_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dual_Rounds"
     },
     "es": {
         "item_name": "Munición Doble",
         "description": "+60% de multidisparo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Munici%C3%B3n_doble",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Munici%C3%B3n_doble"
     },
     "it": {
         "item_name": "Dual Rounds",
         "description": "+60% Sparo Multiplo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Dual_Rounds",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Dual_Rounds"
     },
     "pl": {
         "item_name": "Podwójne Pociski",
         "description": "+60% Wielostrzału",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Podw%C3%B3jne_Pociski",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Podw%C3%B3jne_Pociski"
     },
     "rarity": "rare",
     "max_rank": 5,

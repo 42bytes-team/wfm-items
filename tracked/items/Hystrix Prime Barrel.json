@@ -1,0 +1,83 @@
+{
+    "_id": "62d3494175156700ce450dfd",
+    "tags": [
+        "prime",
+        "weapon",
+        "component"
+    ],
+    "icon": "items/images/en/hystrix_prime_barrel.12bbc345a8e60b16fc0c883b5dca9df7.png",
+    "thumb": "items/images/en/thumbs/hystrix_prime_barrel.12bbc345a8e60b16fc0c883b5dca9df7.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+    "url_name": "hystrix_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeBarrel"
+    },
+    "part_of_set": [
+        "hystrix_prime_barrel",
+        "hystrix_prime_blueprint",
+        "hystrix_prime_receiver",
+        "hystrix_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Hystrix Prime Barrel",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Хистрикс Прайм: Ствол",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "히스트릭스 프라임 배럴",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Hystrix Prime: Lauf",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Hystrix Prime - Canon",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Hystrix Prime: Cano",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "豪猪 Prime 枪管",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "豪豬 Prime 槍管",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Cañón De Hystrix Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Hystrix Prime - Canna",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Hystrix Prime: Lufa",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": null
+    },
+    "mastery_level": 12,
+    "ducats": 15,
+    "trading_tax": 2000
+}

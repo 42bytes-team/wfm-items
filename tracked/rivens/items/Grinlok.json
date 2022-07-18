@@ -3,9 +3,11 @@
     "url_name": "grinlok",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/grinlok.d4946bece8cf876693fb748649e1e72b.png",
-    "thumb": "icons/en/thumbs/grinlok.d4946bece8cf876693fb748649e1e72b.128x128.png",
+    "icon": "items/images/en/grinlok.d4946bece8cf876693fb748649e1e72b.png",
+    "thumb": "items/images/en/thumbs/grinlok.d4946bece8cf876693fb748649e1e72b.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/GLARifle"
     },

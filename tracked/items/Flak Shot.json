@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a4d6",
     "tags": [
-        "mod",
+        "primary",
         "uncommon",
         "pvp",
-        "primary"
+        "shotgun",
+        "mod"
     ],
-    "icon": "icons/en/Flak_Shot.be4117525d415460b856b5c75c0582c2.png",
-    "thumb": "icons/en/thumbs/Flak_Shot.be4117525d415460b856b5c75c0582c2.128x128.png",
+    "icon": "items/images/en/flak_shot.be4117525d415460b856b5c75c0582c2.png",
+    "thumb": "items/images/en/thumbs/flak_shot.be4117525d415460b856b5c75c0582c2.128x128.png",
     "icon_format": "port",
     "url_name": "flak_shot",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Flak Shot",
         "description": "20% of Damage converted into Slash",
-        "wiki_link": "https://warframe.fandom.com/wiki/Flak_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Flak_Shot"
     },
     "ru": {
         "item_name": "Разрывной Выстрел",
         "description": "Преобразует 20% урона в разрезающий",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "icon": "icons/ru/Flak_Shot.f6a2510f9ed8fcdcb709669b7a7b3de1.png",
-        "thumb": "icons/ru/thumbs/Flak_Shot.f6a2510f9ed8fcdcb709669b7a7b3de1.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/flak_shot.f6a2510f9ed8fcdcb709669b7a7b3de1.png",
+        "thumb": "items/images/ru/thumbs/flak_shot.f6a2510f9ed8fcdcb709669b7a7b3de1.128x128.png"
     },
     "ko": {
         "item_name": "플랙 샷",
         "description": "20%의 피해를 베기로 전환합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Flak_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Flak_Shot"
     },
     "de": {
         "item_name": "Flak-schuss",
         "description": "Wandelt 20 % des Schadens in Schnitt um",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Flak-Schuss",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Flak-Schuss"
     },
     "fr": {
         "item_name": "Tir Antiaérien",
         "description": "Convertit 20% des Dégâts en Tranchant",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flak_Shot",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Flak_Shot"
     },
     "pt": {
         "item_name": "Flak Shot",
         "description": "20% de Dano convertido para Cortante",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flak_Shot",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Flak_Shot"
     },
     "zh-hans": {
         "item_name": "高射炮击",
         "description": "将 20% 的伤害转换为切割伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Flak_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Flak_Shot"
     },
     "zh-hant": {
         "item_name": "高射炮擊",
         "description": "將 20% 的傷害轉換為 切割傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Flak_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Flak_Shot"
     },
     "es": {
         "item_name": "Disparo Artillero",
         "description": "Convierte 20% de daño a daño cortante",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_artillero",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_artillero"
     },
     "it": {
         "item_name": "Flak Shot",
         "description": "Converte in Taglio il 20% del Danno",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flak_Shot",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Flak_Shot"
     },
     "pl": {
         "item_name": "Strzał Artyleryjski",
         "description": "Przekształca 20% Obrażeń na obrażenia Tnące",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nawa%C5%82_Artyleryjski",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nawa%C5%82_Artyleryjski"
     },
     "rarity": "uncommon",
     "max_rank": 3,

@@ -3,9 +3,11 @@
     "url_name": "shedu",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/shedu.765c016812e915e1e06ceb5e3820ae48.png",
-    "thumb": "icons/en/thumbs/shedu.765c016812e915e1e06ceb5e3820ae48.128x128.png",
+    "icon": "items/images/en/shedu.765c016812e915e1e06ceb5e3820ae48.png",
+    "thumb": "items/images/en/thumbs/shedu.765c016812e915e1e06ceb5e3820ae48.128x128.png",
     "icon_format": "land",
+    "disposition": 0.75,
+    "mastery_level": 13,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Sentients/Shedu/SheduHeavyWeapon"
     },

@@ -5,8 +5,8 @@
         "rare",
         "warframe"
     ],
-    "icon": "icons/en/Energy_Conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.png",
-    "thumb": "icons/en/thumbs/Energy_Conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.128x128.png",
+    "icon": "items/images/en/energy_conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.png",
+    "thumb": "items/images/en/thumbs/energy_conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.128x128.png",
     "icon_format": "port",
     "url_name": "energy_conversion",
     "tradable": true,
@@ -15,71 +15,60 @@
     },
     "en": {
         "item_name": "Energy Conversion",
-        "description": "Energy orbs grant 50% more Ability Strength to your next cast.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Conversion",
-        "drop": []
+        "description": "Energy Orbs grant 50% more Ability Strength to your next cast.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Conversion"
     },
     "ru": {
         "item_name": "Преобразование Энергии",
         "description": "Энергосферы дают дополнительно 50% Силы при следующем применении способности.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8",
-        "icon": "icons/ru/Energy_Conversion.022317f73b434691ad36222ded640e54.png",
-        "thumb": "icons/ru/thumbs/Energy_Conversion.022317f73b434691ad36222ded640e54.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/energy_conversion.022317f73b434691ad36222ded640e54.png",
+        "thumb": "items/images/ru/thumbs/energy_conversion.022317f73b434691ad36222ded640e54.128x128.png"
     },
     "ko": {
         "item_name": "에너지 컨버전",
-        "description": "에너지 오브를 흡수한 뒤 다음 시전하는 어빌리티에 한해 위력을 50% 상승해서 적용시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Conversion",
-        "drop": []
+        "description": "에너지 오브를 흡수한 후 다음 시전하는 어빌리티에 한해 50%의 위력 증가가 적용됩니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Conversion"
     },
     "de": {
         "item_name": "Energie-umwandlung",
         "description": "Energiekugeln erhöhen die Fähigkeitsstärke beim nächsten Aktivieren um 50 %.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Energieumwandlung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Energieumwandlung"
     },
     "fr": {
         "item_name": "Conversion D'énergie",
         "description": "Les Orbes d'Énergie octroient 50% de Puissance de Pouvoir en plus à votre prochaine utilisation de Pouvoir.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Conversion_d%27%C3%89nergie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Conversion_d%27%C3%89nergie"
     },
     "pt": {
         "item_name": "Energy Conversion",
-        "description": "Orbes de Energia fornecem 50% de Força da Habilidade em sua próxima conjuração.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Energy_Conversion",
-        "drop": []
+        "description": "Orbes de Energia fornecem 50% de Força da Habilidade na próxima conjuração.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Energy_Conversion"
     },
     "zh-hans": {
         "item_name": "能量转换",
         "description": "能量球可使你下一次施放的技能强度提升 50%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Conversion",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Conversion"
     },
     "zh-hant": {
         "item_name": "能量轉換",
         "description": "能量球可使你下一次施放技能的強度提升 50%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Conversion",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Conversion"
     },
     "es": {
         "item_name": "Conversión De Energía",
-        "description": "Los orbes de energía otorgan 50% más fuerza de habilidad para tu siguiente habilidad.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Conversi%C3%B3n_de_energ%C3%ADa",
-        "drop": []
+        "description": "Los orbes de energía otorgan 50 % más de fuerza de habilidad para tu siguiente habilidad lanzada.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Conversi%C3%B3n_de_energ%C3%ADa"
     },
     "it": {
         "item_name": "Energy Conversion",
-        "description": "Le sfere di Energia aumentano del 50% la Potenza della prossima abilità usata.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Energy_Conversion",
-        "drop": []
+        "description": "Le Sfere di Energia aumentano del 50% la Potenza della prossima abilità usata.",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Energy_Conversion"
     },
     "pl": {
         "item_name": "Konwersja Energii",
-        "description": "Kule energii dodają 50% dodatkowej Siły dla następnej użytej Umiejętności.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Konwersja_Energii",
-        "drop": []
+        "description": "Kule Energii dodają 50% dodatkowej Siły dla następnej użytej Umiejętności.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Konwersja_Energii"
     },
     "rarity": "rare",
     "max_rank": 5,

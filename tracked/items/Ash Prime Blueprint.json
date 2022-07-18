@@ -5,8 +5,8 @@
         "prime",
         "warframe"
     ],
-    "icon": "icons/en/ash_prime_blueprint.9f3f82bee82a9741531857cf76eb6594.png",
-    "thumb": "icons/en/thumbs/ash_prime_blueprint.9f3f82bee82a9741531857cf76eb6594.128x128.png",
+    "icon": "items/images/en/ash_prime_blueprint.9f3f82bee82a9741531857cf76eb6594.png",
+    "thumb": "items/images/en/thumbs/ash_prime_blueprint.9f3f82bee82a9741531857cf76eb6594.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "ash_prime_blueprint",
@@ -26,255 +26,57 @@
     "en": {
         "item_name": "Ash Prime Blueprint",
         "description": "Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "Meso S3 Relic (Uncommon)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "Meso C1 Relic (Uncommon)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "Lith S3 Relic (Uncommon)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Lith V7 Relic (Uncommon)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Ash_Prime"
     },
     "ru": {
-        "item_name": "Эш Прайм: Чертеж",
+        "item_name": "Эш Прайм (Чертеж)",
         "description": "Отвлечение и дезориентация становятся смертельным оружием с Варфреймом Эш Прайм. Обладает дополнительными полярностями слотов для более тонкой настройки.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D1%88_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Мезо S3 (Необычный)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "Реликвия Мезо C1 (Необычный)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "Реликвия Лит S3 (Необычный)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Реликвия Лит V7 (Необычный)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D1%88_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "애쉬 프라임 설계도",
         "description": "애쉬 프라임과 함께라면 혼란과 속임수야말로 치명적인 무기가 됩니다. 더욱 다채로운 특성화를 위한 추가 모드 극성이 포함되어 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "메소 S3 성유물 (언커먼)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "메소 C1 성유물 (언커먼)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "리스 S3 성유물 (언커먼)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "리스 V7 성유물 (언커먼)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Ash_Prime"
     },
     "de": {
-        "item_name": "Ash Prime: Blaupause",
+        "item_name": "Ash Prime Blaupause",
         "description": "Ash Prime macht Täuschung und List zu tödlichen Waffen. Bietet veränderte Mod-Polaritäten für noch bessere Anpassungsmöglichkeiten.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "Meso-relikt: S3 (Ungewöhnlich)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "Meso-relikt: C1 (Ungewöhnlich)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "Lith-relikt: S3 (Ungewöhnlich)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Lith-relikt: V7 (Ungewöhnlich)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ash_Prime"
     },
     "fr": {
-        "item_name": "Ash Prime - Schéma",
+        "item_name": "Ash Prime (Schéma)",
         "description": "La distraction et les subterfuges deviennent des armes mortelles avec Ash Prime. Elle possède des polarités de mods altérées pour une meilleure personnalisation.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "Relique Meso S3 (Inhabituel)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "Relique Meso C1 (Inhabituel)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "Relique Lith S3 (Inhabituel)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Relique Lith V7 (Inhabituel)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ash_Prime"
     },
     "pt": {
-        "item_name": "Ash Prime: Diagrama",
+        "item_name": "Ash Prime (Diagrama)",
         "description": "Distração e evasão são as armas letais do Ash Prime. Inclusas polaridades alteradas de mods para uma maior personalização.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Meso S3 (Incomum)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "Relíquia Meso C1 (Incomum)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "Relíquia Lith S3 (Incomum)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Relíquia Lith V7 (Incomum)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ash_Prime"
     },
     "zh-hans": {
         "item_name": "Ash Prime 蓝图",
         "description": "以狂乱与诡计成为致命武器的 Ash Prime。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "前纪 S3 遗物 (罕见)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "前纪 C1 遗物 (罕见)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "古纪 S3 遗物 (罕见)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "古纪 V7 遗物 (罕见)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ash_Prime"
     },
     "zh-hant": {
         "item_name": "Ash Prime 藍圖",
         "description": "以狂亂與詭計成為致命武器的 Ash Prime，擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "前紀 S3 遺物 (罕見)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "前紀 C1 遺物 (罕見)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "古紀 S3 遺物 (罕見)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "古紀 V7 遺物 (罕見)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ash_Prime"
     },
     "es": {
         "item_name": "Plano de Ash Prime",
         "description": "La distracción y el subterfugio se convierten en armas letales con Ash Prime. Cuenta con polaridades de mod alteradas para una mayor personalización.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Meso S3 (Poco Común)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "Reliquia Meso C1 (Poco Común)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "Reliquia Lith S3 (Poco Común)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Reliquia Lith V7 (Poco Común)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ash_Prime"
     },
     "it": {
-        "item_name": "Ash Prime Blueprint",
+        "item_name": "Ash Prime (Schema)",
         "description": "Distrazione e sotterfugio diventano armi letali con Ash Prime. Presenta polarità mod alterate per una maggiore personalizzazione.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Meso S3 (Uncommon)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "Reliquia Meso C1 (Uncommon)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "Reliquia Lith S3 (Uncommon)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Reliquia Lith V7 (Uncommon)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Ash_Prime"
     },
     "pl": {
-        "item_name": "Ash Prime: Schemat",
+        "item_name": "Ash Prime - Schemat",
         "description": "Podstęp i odwrócenie uwagi staje się zabójczą bronią w rękach Asha Prime. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ash_Prime",
-        "drop": [
-            {
-                "name": "Relikt Meso S3 (Nieprzeciętny)",
-                "link": "meso_s3_relic"
-            },
-            {
-                "name": "Relikt Meso C1 (Nieprzeciętny)",
-                "link": "meso_c1_relic"
-            },
-            {
-                "name": "Relikt Lith S3 (Nieprzeciętny)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Relikt Lith V7 (Nieprzeciętny)",
-                "link": "lith_v7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ash_Prime"
     },
     "mastery_level": 0,
     "ducats": 45,

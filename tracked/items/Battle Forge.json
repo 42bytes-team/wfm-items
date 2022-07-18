@@ -5,8 +5,8 @@
         "railjack",
         "uncommon"
     ],
-    "icon": "icons/en/battle_forge.b67aa889d03e039f6aae03c2010726d6.png",
-    "thumb": "icons/en/thumbs/battle_forge.b67aa889d03e039f6aae03c2010726d6.128x128.png",
+    "icon": "items/images/en/battle_forge.b67aa889d03e039f6aae03c2010726d6.png",
+    "thumb": "items/images/en/thumbs/battle_forge.b67aa889d03e039f6aae03c2010726d6.128x128.png",
     "icon_format": "port",
     "url_name": "battle_forge",
     "tradable": true,
@@ -16,163 +16,57 @@
     "en": {
         "item_name": "Battle Forge",
         "description": "Reduce Forge Cooldown by 120s\nCooldown: 480s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
-        "drop": [
-            {
-                "name": "Kosma Cutter",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge"
     },
     "ru": {
         "item_name": "Боевая Кузница",
         "description": "Уменьшает восстановление Кузницы на 120 сек.\nВосстановление: 480 сек.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
-        "drop": [
-            {
-                "name": "Kosma Cutter",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge"
     },
     "ko": {
         "item_name": "배틀 포지",
         "description": "제련소 재사용 대기 시간 120초 감소\n재사용 대기 시간: 480초",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
-        "drop": [
-            {
-                "name": "Kosma Cutter",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge"
     },
     "de": {
         "item_name": "Kampf-werkstätte",
         "description": "Reduziert die Werkstätten-Abklingzeit um 120 s\nAbklingzeit: 480 s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
-        "drop": [
-            {
-                "name": "Kosma Cutter",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge"
     },
     "fr": {
         "item_name": "Forge De Combat",
         "description": "Réduit le Délai de récupération de la Forge de 120s\nTemps de recharge: 480s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
-        "drop": [
-            {
-                "name": "Kosma Cutter",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge"
     },
     "pt": {
         "item_name": "Forja De Combate",
         "description": "Reduz o Tempo de Recarga da Forja em 120s\nTempo de Recarga: 480s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
-        "drop": [
-            {
-                "name": "Kosma Cutter",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge"
     },
     "zh-hans": {
         "item_name": "战斗锻造",
         "description": "减少 120 秒锻造冷却时间\n冷却时间：480 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E6%96%97%E9%94%BB%E9%80%A0",
-        "drop": [
-            {
-                "name": "沃拉神锋战机",
-                "link": "https://warframe.huijiwiki.com/wiki/Vorac_Gox"
-            },
-            {
-                "name": "奥穆神锋战机",
-                "link": "https://warframe.huijiwiki.com/wiki/Orm_Gox"
-            },
-            {
-                "name": "回旋先驱战机",
-                "link": "https://warframe.huijiwiki.com/wiki/Gyre_Outrider"
-            },
-            {
-                "name": "邃域先驱战机",
-                "link": "https://warframe.huijiwiki.com/wiki/Exo_Outrider"
-            },
-            {
-                "name": "艾汐神锋战机",
-                "link": "https://warframe.huijiwiki.com/wiki/Axio_Gox"
-            },
-            {
-                "name": "深空先驱战机",
-                "link": "https://warframe.huijiwiki.com/wiki/Kosma_Outrider"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E6%96%97%E9%94%BB%E9%80%A0"
     },
     "zh-hant": {
         "item_name": "戰鬥鍛造",
         "description": "減少鍛造廠的冷卻時間 120 秒。\n冷卻時間：480 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E6%96%97%E9%94%BB%E9%80%A0",
-        "drop": [
-            {
-                "name": "沃瓦高克司號",
-                "link": "https://warframe.huijiwiki.com/wiki/Vorac_Gox"
-            },
-            {
-                "name": "奧姆高克司號",
-                "link": "https://warframe.huijiwiki.com/wiki/Orm_Gox"
-            },
-            {
-                "name": "鎮星先驅偵察機",
-                "link": "https://warframe.huijiwiki.com/wiki/Gyre_Outrider"
-            },
-            {
-                "name": "深空先驅偵察機",
-                "link": "https://warframe.huijiwiki.com/wiki/Exo_Outrider"
-            },
-            {
-                "name": "砹矽高克司號",
-                "link": "https://warframe.huijiwiki.com/wiki/Axio_Gox"
-            },
-            {
-                "name": "寰宇先驅偵察機",
-                "link": "https://warframe.huijiwiki.com/wiki/Kosma_Outrider"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E6%96%97%E9%94%BB%E9%80%A0"
     },
     "es": {
         "item_name": "Forja De Batalla",
         "description": "Reduce el tiempo de enfriamiento de la forja en 120s Tiempo de espera: 480s",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aviónica",
-        "drop": [
-            {
-                "name": "Cortador Kosma",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aviónica"
     },
     "it": {
         "item_name": "Battle Forge",
         "description": "Riduce il Tempo di Recupero della Forgia per 120s\nTempo di Ricarica: 480s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
-        "drop": [
-            {
-                "name": "Kosma Cutter",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge"
     },
     "pl": {
         "item_name": "Kuźnia Bitewna",
         "description": "Zmniejsza czas odnowienia Kuźni o 120s\nCzas odnowienia: 480s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge",
-        "drop": [
-            {
-                "name": "Kosma Cutter",
-                "link": null
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Forge"
     },
     "rarity": "uncommon",
     "max_rank": 5,

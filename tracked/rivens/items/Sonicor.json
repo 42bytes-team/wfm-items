@@ -3,9 +3,11 @@
     "url_name": "sonicor",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/sonicor.c2e7aba399d4ba904c4a4f83a75e9bd7.png",
-    "thumb": "icons/en/thumbs/sonicor.c2e7aba399d4ba904c4a4f83a75e9bd7.128x128.png",
+    "icon": "items/images/en/sonicor.c2e7aba399d4ba904c4a4f83a75e9bd7.png",
+    "thumb": "items/images/en/thumbs/sonicor.c2e7aba399d4ba904c4a4f83a75e9bd7.128x128.png",
     "icon_format": "land",
+    "disposition": 1.15,
+    "mastery_level": 2,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Pistols/CrpAirPistol/CrpAirPistolArray"
     },

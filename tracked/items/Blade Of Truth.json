@@ -1,13 +1,13 @@
 {
     "_id": "54a74454e779892d5e515645",
     "tags": [
-        "rare",
         "mod",
-        "weapons",
-        "melee"
+        "rare",
+        "melee",
+        "jaw_sword"
     ],
-    "icon": "icons/en/blade_of_truth.53d68caa8f7ae06642b2ed1fd8f3b6cd.png",
-    "thumb": "icons/en/thumbs/blade_of_truth.53d68caa8f7ae06642b2ed1fd8f3b6cd.128x128.png",
+    "icon": "items/images/en/blade_of_truth.53d68caa8f7ae06642b2ed1fd8f3b6cd.png",
+    "thumb": "items/images/en/thumbs/blade_of_truth.53d68caa8f7ae06642b2ed1fd8f3b6cd.128x128.png",
     "icon_format": "port",
     "url_name": "blade_of_truth",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Blade Of Truth",
         "description": "+100% Melee Damage\n+1 'Truth'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blade_of_Truth",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blade_of_Truth"
     },
     "ru": {
         "item_name": "Клинок Правды",
         "description": "+100% урона в ближнем бою\n+1 'Правды'",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BE%D0%BA_%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D1%8B",
-        "icon": "icons/ru/blade_of_truth.ec5d8d3a9200cb4e31f4269d60a676b4.png",
-        "thumb": "icons/ru/thumbs/blade_of_truth.ec5d8d3a9200cb4e31f4269d60a676b4.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/blade_of_truth.ec5d8d3a9200cb4e31f4269d60a676b4.png",
+        "thumb": "items/images/ru/thumbs/blade_of_truth.ec5d8d3a9200cb4e31f4269d60a676b4.128x128.png"
     },
     "ko": {
         "item_name": "블레이드 오브 트루스",
         "description": "+100% 근접 피해\n+1 '트루스'",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blade_of_Truth",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Blade_of_Truth"
     },
     "de": {
         "item_name": "Klinge Der Wahrheit",
         "description": "+100 % Nahkampfschaden\n+1 'Wahrheit '",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Klinge_der_Wahrheit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Klinge_der_Wahrheit"
     },
     "fr": {
         "item_name": "Lames De La Vérité",
         "description": "+100% de Dégâts en Mêlée\n+1 'Vérité'",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Lames_de_la_V%C3%A9rit%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Lames_de_la_V%C3%A9rit%C3%A9"
     },
     "pt": {
         "item_name": "Blade Of Truth",
         "description": "+100% de Dano Corpo a Corpo\n+1 \"Verdade\"",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blade_of_Truth",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Blade_of_Truth"
     },
     "zh-hans": {
         "item_name": "真相之刃",
         "description": "+100% 近战伤害\n+1 '真相'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blade_of_Truth",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blade_of_Truth"
     },
     "zh-hant": {
         "item_name": "真相之刃",
         "description": "+100% 近戰傷害\n+1 '真相'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blade_of_Truth",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blade_of_Truth"
     },
     "es": {
         "item_name": "Hoja De La Verdad",
         "description": "+100 % de daño cuerpo a cuerpo\n+1 'Verdad'",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Hoja_de_la_verdad",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Hoja_de_la_verdad"
     },
     "it": {
         "item_name": "Blade Of Truth",
         "description": "+100% Danno Corpo a Corpo\n+1 'Verità'",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blade_of_Truth",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Blade_of_Truth"
     },
     "pl": {
         "item_name": "Ostrze Prawdy",
         "description": "+100% Obrażeń w Walce Wręcz\n+1 \"Prawda\"",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ostrze_Prawdy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ostrze_Prawdy"
     },
     "rarity": "rare",
     "max_rank": 3,

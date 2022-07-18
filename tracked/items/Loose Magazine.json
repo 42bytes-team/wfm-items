@@ -2,12 +2,13 @@
     "_id": "567af35fcbfa8f05d076a51a",
     "tags": [
         "common",
-        "mod",
+        "secondary",
         "pvp",
-        "secondary"
+        "mod",
+        "pistol"
     ],
-    "icon": "icons/en/Loose_Magazine.0428fe78b8c7fa59ecd2861e1c3711b7.png",
-    "thumb": "icons/en/thumbs/Loose_Magazine.0428fe78b8c7fa59ecd2861e1c3711b7.128x128.png",
+    "icon": "items/images/en/loose_magazine.0428fe78b8c7fa59ecd2861e1c3711b7.png",
+    "thumb": "items/images/en/thumbs/loose_magazine.0428fe78b8c7fa59ecd2861e1c3711b7.128x128.png",
     "icon_format": "port",
     "url_name": "loose_magazine",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Loose Magazine",
         "description": "+50% Reload Speed\n+50% Weapon Recoil",
-        "wiki_link": "https://warframe.fandom.com/wiki/Loose_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Loose_Magazine"
     },
     "ru": {
         "item_name": "Скользящий Магазин",
         "description": "+50% к скорости перезарядки\n+50% к отдаче",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
-        "icon": "icons/ru/Loose_Magazine.ae5e050396ceac13a56e849ac3aebfb6.png",
-        "thumb": "icons/ru/thumbs/Loose_Magazine.ae5e050396ceac13a56e849ac3aebfb6.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/loose_magazine.ae5e050396ceac13a56e849ac3aebfb6.png",
+        "thumb": "items/images/ru/thumbs/loose_magazine.ae5e050396ceac13a56e849ac3aebfb6.128x128.png"
     },
     "ko": {
         "item_name": "루즈 매거진",
         "description": "+50% 재장전 속도\n+50% 반동",
-        "wiki_link": "https://warframe.fandom.com/wiki/Loose_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Loose_Magazine"
     },
     "de": {
         "item_name": "Lockeres Magazin",
         "description": "+50 % Nachladegeschwindigkeit\n+50 % Waffenrückstoss",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Lockeres_Magazin",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Lockeres_Magazin"
     },
     "fr": {
         "item_name": "Chargeur Bricolé",
         "description": "+50% de Vitesse de Recharge\n+50% de Recul de l'Arme",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chambre_Bricol%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chambre_Bricol%C3%A9"
     },
     "pt": {
         "item_name": "Loose Magazine",
         "description": "+50% de Velocidade de Recarga\n+50% de Recuo da Arma",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Polar_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Polar_Magazine"
     },
     "zh-hans": {
         "item_name": "松弛弹匣",
         "description": "+50% 装填速度\n+50% 武器后坐力",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loose_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loose_Magazine"
     },
     "zh-hant": {
         "item_name": "鬆弛彈匣",
         "description": "+50% 裝填速度\n+50% 武器後座力",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loose_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loose_Magazine"
     },
     "es": {
         "item_name": "Cargador Suelto",
         "description": "+50% de velocidad de recarga\n+50% retroceso",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_suelto",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_suelto"
     },
     "it": {
         "item_name": "Loose Magazine",
         "description": "+50% Velocità di ricarica\n+50% Rinculo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Magazine",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Loose_Magazine"
     },
     "pl": {
         "item_name": "Luźny Magazynek",
         "description": "+50% Prędkości Przeładowania\n+50% Odrzut Broni",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Polarny_Magazynek",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Polarny_Magazynek"
     },
     "rarity": "common",
     "max_rank": 5,

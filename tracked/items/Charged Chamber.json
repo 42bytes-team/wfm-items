@@ -3,11 +3,11 @@
     "tags": [
         "mod",
         "uncommon",
-        "rifle",
-        "primary"
+        "primary",
+        "sniper"
     ],
-    "icon": "icons/en/Charged_Chamber.1209236bfe82fa23232afcd4d1de0245.png",
-    "thumb": "icons/en/thumbs/Charged_Chamber.1209236bfe82fa23232afcd4d1de0245.128x128.png",
+    "icon": "items/images/en/charged_chamber.1209236bfe82fa23232afcd4d1de0245.png",
+    "thumb": "items/images/en/thumbs/charged_chamber.1209236bfe82fa23232afcd4d1de0245.128x128.png",
     "icon_format": "port",
     "url_name": "charged_chamber",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Charged Chamber",
         "description": "+40% Damage on first shot in Magazine",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Chamber"
     },
     "ru": {
         "item_name": "Заряженный Патронник",
         "description": "+40% урона у первого патрона в магазине",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA",
-        "icon": "icons/ru/Charged_Chamber.624da0ef1f45e397211a1b26f6af1e57.png",
-        "thumb": "icons/ru/thumbs/Charged_Chamber.624da0ef1f45e397211a1b26f6af1e57.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/charged_chamber.624da0ef1f45e397211a1b26f6af1e57.png",
+        "thumb": "items/images/ru/thumbs/charged_chamber.624da0ef1f45e397211a1b26f6af1e57.128x128.png"
     },
     "ko": {
         "item_name": "차지드 체임버",
         "description": "+40% 초탄 보너스 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Chamber"
     },
     "de": {
         "item_name": "Aufgeladene Kammer",
         "description": "+40 % Schaden beim ersten Schuss des Magazins",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Aufgeladene_Kammer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Aufgeladene_Kammer"
     },
     "fr": {
         "item_name": "Chambre Chargée",
         "description": "+40% de Dégâts lors du premier tir suivant le rechargement",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chambre_charg%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chambre_charg%C3%A9e"
     },
     "pt": {
         "item_name": "Charged Chamber",
         "description": "+40% de Dano no primeiro disparo do Carregador",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magma_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magma_Chamber"
     },
     "zh-hans": {
         "item_name": "蓄力装填",
         "description": "弹匣中第一发子弹 +40% 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Chamber"
     },
     "zh-hant": {
         "item_name": "蓄力裝填",
         "description": "彈匣中第一發子彈 +40% 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Chamber"
     },
     "es": {
         "item_name": "Cámara Cargada",
         "description": "+40% de daño en el primer tiro del cargador.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/C%C3%A1mara_cargada",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/C%C3%A1mara_cargada"
     },
     "it": {
         "item_name": "Charged Chamber",
         "description": "+40% Danno del primo colpo del caricatore",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Primed_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Primed_Chamber"
     },
     "pl": {
         "item_name": "Ładunek Dokomorowy",
         "description": "+40% Obrażeń przy pierwszym strzale z magazynka",
-        "wiki_link": "http://warframe.wikia.com/wiki/Charged_Chamber",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Charged_Chamber"
     },
     "rarity": "uncommon",
     "max_rank": 3,

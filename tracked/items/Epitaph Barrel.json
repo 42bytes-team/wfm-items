@@ -1,12 +1,11 @@
 {
     "_id": "60783dec84a7d703418582d1",
     "tags": [
-        "weapon",
         "component",
-        "secondary"
+        "weapon"
     ],
-    "icon": "icons/en/epitaph_set.b3a75cdcef1c7ba2971d2c550f8390e3.png",
-    "thumb": "icons/en/thumbs/epitaph_set.b3a75cdcef1c7ba2971d2c550f8390e3.128x128.png",
+    "icon": "items/images/en/epitaph_barrel.b3a75cdcef1c7ba2971d2c550f8390e3.png",
+    "thumb": "items/images/en/thumbs/epitaph_barrel.b3a75cdcef1c7ba2971d2c550f8390e3.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
     "url_name": "epitaph_barrel",
@@ -25,68 +24,57 @@
     "en": {
         "item_name": "Epitaph Barrel",
         "description": "A weapon-crafting component.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Эпитаф: Ствол",
         "description": "Компонент оружия.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "에피타프 배럴",
         "description": "무기 제작 부품입니다.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Epitaph: Lauf",
         "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Épitaphe - Canon",
         "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Epitaph: Cano",
         "description": "Um componente de fabricação de armas.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "葬铭 枪管",
         "description": "一个武器的制作部件。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "墓悼者 槍管",
         "description": "製作武器的部件。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Cañón De Epitaph",
         "description": "Un componente de fabricación de arma.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Epitaph - Canna",
         "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Epitaph: Lufa",
         "description": "Element wytwarzania Broni.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "mastery_level": 8,
     "trading_tax": 2000

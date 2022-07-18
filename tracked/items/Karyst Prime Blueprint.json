@@ -6,8 +6,8 @@
         "melee",
         "blueprint"
     ],
-    "icon": "icons/en/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.png",
-    "thumb": "icons/en/thumbs/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
+    "icon": "items/images/en/karyst_prime_blueprint.58e91b0780bc7f80077c7f08b6b55104.png",
+    "thumb": "items/images/en/thumbs/karyst_prime_blueprint.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "karyst_prime_blueprint",
@@ -26,431 +26,57 @@
     "en": {
         "item_name": "Karyst Prime Blueprint",
         "description": "This master blade is the heavier, oversized and far more lethal version of the signature weapon of an extinct order of Tenno assassins.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime",
-        "drop": [
-            {
-                "name": "Axi C6 Relic (Common)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "Axi K7 Relic (Common)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "Axi G6 Relic (Common)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "Neo S14 Relic (Common)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Neo P4 Relic (Common)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "Meso B5 Relic (Common)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Meso P3 Relic (Common)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "Meso I2 Relic (Common)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime"
     },
     "ru": {
-        "item_name": "Карист Прайм: Чертеж",
+        "item_name": "Карист Прайм (Чертеж)",
         "description": "Эта версия мастерского клинка тяжелее, больше и гораздо более смертоноснее фирменного оружия исчезнувшего ордена убийц Тэнно.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D1%81%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси C6 (Обычный)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "Реликвия Акси K7 (Обычный)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "Реликвия Акси G6 (Обычный)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "Реликвия Нео S14 (Обычный)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Реликвия Нео P4 (Обычный)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "Реликвия Мезо B5 (Обычный)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Реликвия Мезо P3 (Обычный)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "Реликвия Мезо I2 (Обычный)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D1%81%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "캐리스트 프라임 설계도",
         "description": "이 달인의 칼날은 이제는 사라진 텐노 암살 조직을 상징하는 무기를 더욱 무겁게, 크게, 그리고 더 치명적으로 개선한 버전입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime",
-        "drop": [
-            {
-                "name": "액시 C6 성유물 (커먼)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "액시 K7 성유물 (커먼)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "액시 G6 성유물 (커먼)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "네오 S14 성유물 (커먼)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "네오 P4 성유물 (커먼)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "메소 B5 성유물 (커먼)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "메소 P3 성유물 (커먼)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "메소 I2 성유물 (커먼)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime"
     },
     "de": {
-        "item_name": "Karyst Prime: Blaupause",
+        "item_name": "Karyst Prime Blaupause",
         "description": "Diese Meisterklinge ist die schwerere, größere und weitaus tödlichere Version einer bereits mächtigen Waffe. Sie war die bevorzugte Waffe eines untergegangenen Ordens von Tenno Attentätern.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Vasto_Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: C6 (Gewöhnlich)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "Axi-relikt: K7 (Gewöhnlich)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "Axi-relikt: G6 (Gewöhnlich)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "Neo-relikt: S14 (Gewöhnlich)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Neo-relikt: P4 (Gewöhnlich)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "Meso-relikt: B5 (Gewöhnlich)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Meso-relikt: P3 (Gewöhnlich)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "Meso-relikt: I2 (Gewöhnlich)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Vasto_Prime"
     },
     "fr": {
-        "item_name": "Karyst Prime - Schéma",
+        "item_name": "Karyst Prime (Schéma)",
         "description": "Cette lame magistrale est la version plus lourde, surdimensionnée et beaucoup plus meurtrière de l'arme emblématique d'un ancien ordre d'assassins Tenno.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Karyst_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi C6 (Commun)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "Relique Axi K7 (Commun)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "Relique Axi G6 (Commun)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "Relique Neo S14 (Commun)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Relique Neo P4 (Commun)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "Relique Meso B5 (Commun)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Relique Meso P3 (Commun)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "Relique Meso I2 (Commun)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Karyst_Prime"
     },
     "pt": {
-        "item_name": "Karyst Prime: Diagrama",
+        "item_name": "Karyst Prime (Diagrama)",
         "description": "Esta lâmina magnífica é uma versão maior, mais pesada e extremamente mais letal do que a versão padrão. Um artefato proveniente de uma ordem extinta de assassinos Tenno.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vasto_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi C6 (Comum)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "Relíquia Axi K7 (Comum)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "Relíquia Axi G6 (Comum)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "Relíquia Neo S14 (Comum)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Relíquia Neo P4 (Comum)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "Relíquia Meso B5 (Comum)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Relíquia Meso P3 (Comum)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "Relíquia Meso I2 (Comum)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vasto_Prime"
     },
     "zh-hans": {
         "item_name": "凯洛斯特 Prime 蓝图",
         "description": "（英文：KARYST PRIME）作为一群已绝迹的 Tenno 刺客的标志性武器，这把大师之刃比原版显得更厚重、更大，以及更为致命。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime",
-        "drop": [
-            {
-                "name": "后纪 C6 遗物 (常见)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "后纪 K7 遗物 (常见)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "后纪 G6 遗物 (常见)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "中纪 S14 遗物 (常见)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "中纪 P4 遗物 (常见)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "前纪 B5 遗物 (常见)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "前纪 P3 遗物 (常见)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "前纪 I2 遗物 (常见)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime"
     },
     "zh-hant": {
         "item_name": "凱洛斯特 Prime 藍圖",
         "description": "（英文：KARYST PRIME）這把大師之刃的原型來自早已滅絕的 Tenno 暗殺小隊的招牌武器，但屬於更厚重、更寬大且更加致命的版本。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime",
-        "drop": [
-            {
-                "name": "後紀 C6 遺物 (常見)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "後紀 K7 遺物 (常見)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "後紀 G6 遺物 (常見)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "中紀 S14 遺物 (常見)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "中紀 P4 遺物 (常見)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "前紀 B5 遺物 (常見)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "前紀 P3 遺物 (常見)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "前紀 I2 遺物 (常見)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Karyst_Prime"
     },
     "es": {
         "item_name": "Plano de Karyst Prime",
         "description": "Esta hoja maestra es la versión más pesada, más grande y mucho más letal del arma distintiva de una orden extinta de asesinos tenno.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Karyst_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi C6 (Común)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "Reliquia Axi K7 (Común)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "Reliquia Axi G6 (Común)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "Reliquia Neo S14 (Común)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Reliquia Neo P4 (Común)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "Reliquia Meso B5 (Común)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Reliquia Meso P3 (Común)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "Reliquia Meso I2 (Común)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Karyst_Prime"
     },
     "it": {
-        "item_name": "Karyst Prime Blueprint",
+        "item_name": "Karyst Prime (Schema)",
         "description": "Questa lama magistrale è la versione più pesante, grande e molto più letale dell'arma simbolo di un ordine estinto di assassini Tenno.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Vasto_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi C6 (Common)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "Reliquia Axi K7 (Common)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "Reliquia Axi G6 (Common)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "Reliquia Neo S14 (Common)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Reliquia Neo P4 (Common)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "Reliquia Meso B5 (Common)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Reliquia Meso P3 (Common)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "Reliquia Meso I2 (Common)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Vasto_Prime"
     },
     "pl": {
-        "item_name": "Karyst Prime: Schemat",
+        "item_name": "Karyst Prime - Schemat",
         "description": "To mistrzowskie ostrze jest cięższą, większą i znacznie bardziej śmiertelną wersją charakterystycznej broni wymarłego zakonu zabójców Tenno.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Karyst_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi C6 (Powszechny)",
-                "link": "axi_c6_relic"
-            },
-            {
-                "name": "Relikt Axi K7 (Powszechny)",
-                "link": "axi_k7_relic"
-            },
-            {
-                "name": "Relikt Axi G6 (Powszechny)",
-                "link": "axi_g6_relic"
-            },
-            {
-                "name": "Relikt Neo S14 (Powszechny)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Relikt Neo P4 (Powszechny)",
-                "link": "neo_p4_relic"
-            },
-            {
-                "name": "Relikt Meso B5 (Powszechny)",
-                "link": "meso_b5_relic"
-            },
-            {
-                "name": "Relikt Meso P3 (Powszechny)",
-                "link": "meso_p3_relic"
-            },
-            {
-                "name": "Relikt Meso I2 (Powszechny)",
-                "link": "meso_i2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Karyst_Prime"
     },
     "mastery_level": 12,
     "ducats": 15,

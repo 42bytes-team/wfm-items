@@ -3,9 +3,11 @@
     "url_name": "plinx",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/plinx.cf7698c478e44f83968e66f21a1558ae.png",
-    "thumb": "icons/en/thumbs/plinx.cf7698c478e44f83968e66f21a1558ae.128x128.png",
+    "icon": "items/images/en/plinx.cf7698c478e44f83968e66f21a1558ae.png",
+    "thumb": "items/images/en/thumbs/plinx.cf7698c478e44f83968e66f21a1558ae.128x128.png",
     "icon_format": "port",
+    "disposition": 1.2,
+    "mastery_level": 6,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon"
     },

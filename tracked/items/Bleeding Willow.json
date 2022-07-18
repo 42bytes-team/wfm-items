@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e51566c",
     "tags": [
         "mod",
+        "rare",
         "stance",
-        "rare"
+        "polearms"
     ],
-    "icon": "icons/en/Bleeding_Willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.png",
-    "thumb": "icons/en/thumbs/Bleeding_Willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.128x128.png",
+    "icon": "items/images/en/bleeding_willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.png",
+    "thumb": "items/images/en/thumbs/bleeding_willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.128x128.png",
     "icon_format": "port",
     "url_name": "bleeding_willow",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Bleeding Willow",
         "description": "A blend of strong and rapid strikes with leaping combos.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bleeding_Willow",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Bleeding_Willow"
     },
     "ru": {
         "item_name": "Лоза Кровотечения",
         "description": "Смесь сильных и быстрых ударов с комбинациями в прыжке.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%BE%D0%B7%D0%B0_%D0%9A%D1%80%D0%BE%D0%B2%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F",
-        "icon": "icons/ru/Bleeding_Willow.3f4ccf37c481420da79fe3bfcd7c5f1a.png",
-        "thumb": "icons/ru/thumbs/Bleeding_Willow.3f4ccf37c481420da79fe3bfcd7c5f1a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/bleeding_willow.3f4ccf37c481420da79fe3bfcd7c5f1a.png",
+        "thumb": "items/images/ru/thumbs/bleeding_willow.3f4ccf37c481420da79fe3bfcd7c5f1a.128x128.png"
     },
     "ko": {
         "item_name": "블리딩 윌로우",
         "description": "강한 공격과 빠른 공격이 조합된 점프 공격을 구사하는 연속기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bleeding_Willow",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Bleeding_Willow"
     },
     "de": {
         "item_name": "Blutende Weide",
         "description": "Ein Mix aus starken und schnellen Angriffen mit sprunghaften Kombos.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Blutende_Weide",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Blutende_Weide"
     },
     "fr": {
         "item_name": "Saule Saignant",
         "description": "Des coups puissants et rapides avec finale vrillée.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Saule_Saignant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Saule_Saignant"
     },
     "pt": {
         "item_name": "Bleeding Willow",
         "description": "Uma mistura de golpes fortes e rápidos com combos de salto.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bleeding_Willow",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Bleeding_Willow"
     },
     "zh-hans": {
         "item_name": "血色万柳",
         "description": "强大的和快速攻击与跳跃组合。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bleeding_Willow",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bleeding_Willow"
     },
     "zh-hant": {
         "item_name": "血色萬柳",
         "description": "強大的和快速攻擊與跳躍組合。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bleeding_Willow",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bleeding_Willow"
     },
     "es": {
         "item_name": "Sauce Sangrante",
         "description": "Una mezcla de ataques rápidos y fuertes con combos de salto.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sauce_sangrante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sauce_sangrante"
     },
     "it": {
         "item_name": "Bleeding Willow",
         "description": "Un mix di colpi rapidi e potenti con combo in salto.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bleeding_Willow",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Bleeding_Willow"
     },
     "pl": {
         "item_name": "Krwawiąca Wierzba",
         "description": "Mieszanka mocnych, błyskawicznych uderzeń i kombinacji z wyskoku.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krwawi%C4%85ca_Wierzba",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krwawi%C4%85ca_Wierzba"
     },
     "rarity": "rare",
     "max_rank": 3,

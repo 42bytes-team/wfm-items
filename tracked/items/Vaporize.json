@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e515668",
     "tags": [
         "mod",
+        "common",
         "sentinel",
-        "common"
+        "dethcube"
     ],
-    "icon": "icons/en/Vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
-    "thumb": "icons/en/thumbs/Vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png",
+    "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
+    "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png",
     "icon_format": "port",
     "url_name": "vaporize",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Vaporize",
         "description": "Sentinel will deal 600 Damage to an enemy within 30m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vaporize",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Vaporize"
     },
     "ru": {
         "item_name": "Испаритель",
-        "description": "Страж наносит 600 урона противнику в радиусе 30м.",
+        "description": "Страж наносит 600 урона противнику в радиусе 30 м.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D0%BF%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
-        "icon": "icons/ru/Vaporize.a90e337030a8bd33ac5783fb60fe2420.png",
-        "thumb": "icons/ru/thumbs/Vaporize.a90e337030a8bd33ac5783fb60fe2420.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/vaporize.a90e337030a8bd33ac5783fb60fe2420.png",
+        "thumb": "items/images/ru/thumbs/vaporize.a90e337030a8bd33ac5783fb60fe2420.128x128.png"
     },
     "ko": {
         "item_name": "베이포라이즈",
         "description": "센티넬이 30m 안에 들어온 적 하나에게 600 피해를 입힙니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vaporize",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Vaporize"
     },
     "de": {
         "item_name": "Verdampfen",
         "description": "Wächter verursacht 600 Schaden bei einem Gegner innerhalb von 30 m.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verdampfen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Verdampfen"
     },
     "fr": {
         "item_name": "Vaporisation",
         "description": "La Sentinelle inflige 600 points de Dégâts à un ennemi se trouvant dans un rayon de 30m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vaporisation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vaporisation"
     },
     "pt": {
         "item_name": "Vaporize",
         "description": "A Sentinela causará 600 de Dano a um inimigo em um raio de 30m.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vaporize",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Vaporize"
     },
     "zh-hans": {
         "item_name": "汽化",
         "description": "守护会对 30 米内的单一敌人造成 600 伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaporize",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaporize"
     },
     "zh-hant": {
         "item_name": "汽化",
         "description": "守護會對 30 公尺內的單一敵人造成 600 傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaporize",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaporize"
     },
     "es": {
         "item_name": "Vaporizar",
         "description": "El centinela tratará de producir 600 de daño a un enemigo dentro de un radio de 30m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Vaporizar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Vaporizar"
     },
     "it": {
         "item_name": "Vaporize",
         "description": "La Sentinella infliggerà 600 danni ad un nemico entro 30m.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vaporize",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Vaporize"
     },
     "pl": {
         "item_name": "Zwęglenie",
         "description": "Strażnik zada 600 obrażeń przeciwnikowi w zasięgu 30m.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zw%C4%99glenie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zw%C4%99glenie"
     },
     "rarity": "common",
     "max_rank": 5,

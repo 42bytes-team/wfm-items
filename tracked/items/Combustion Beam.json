@@ -5,8 +5,8 @@
         "primary",
         "rare"
     ],
-    "icon": "icons/en/Combustion_Beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.png",
-    "thumb": "icons/en/thumbs/Combustion_Beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.128x128.png",
+    "icon": "items/images/en/combustion_beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.png",
+    "thumb": "items/images/en/thumbs/combustion_beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.128x128.png",
     "icon_format": "port",
     "url_name": "combustion_beam",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Combustion Beam",
         "description": "Enemies killed explode, dealing 600 Damage shortly after death.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Combustion_Beam",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Combustion_Beam"
     },
     "ru": {
         "item_name": "Опаляющий Луч",
         "description": "Убитые враги взрываются, нанося 600 урона после смерти.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%BF%D0%B0%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%9B%D1%83%D1%87",
-        "icon": "icons/ru/Combustion_Beam.dbc026cf454e8549b4264a07d7e5cadf.png",
-        "thumb": "icons/ru/thumbs/Combustion_Beam.dbc026cf454e8549b4264a07d7e5cadf.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/combustion_beam.dbc026cf454e8549b4264a07d7e5cadf.png",
+        "thumb": "items/images/ru/thumbs/combustion_beam.dbc026cf454e8549b4264a07d7e5cadf.128x128.png"
     },
     "ko": {
         "item_name": "컴버스쳔 빔",
         "description": "적을 처치할 시 폭발하며, 주변에 600의 피해를 가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Combustion_Beam",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Combustion_Beam"
     },
     "de": {
         "item_name": "Zündstrahl",
         "description": "Getötete Gegner explodieren kurz nach ihrem Tod für 600 Schaden.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Z%C3%BCndstrahl",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Z%C3%BCndstrahl"
     },
     "fr": {
         "item_name": "Rayon À Combustion",
         "description": "Les ennemis tués explosent, infligeant 600 points de Dégâts après leur mort.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rayon_%C3%A0_Combustion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rayon_%C3%A0_Combustion"
     },
     "pt": {
         "item_name": "Combustion Beam",
         "description": "Inimigos mortos explodem, causando 600 de Dano logo após a morte.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Combustion_Beam",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Combustion_Beam"
     },
     "zh-hans": {
         "item_name": "灼热光束",
         "description": "被击杀的敌人不久后会爆炸，造成 600 伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Combustion_Beam",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Combustion_Beam"
     },
     "zh-hant": {
         "item_name": "灼熱光束",
         "description": "被擊殺的敵人不久後會爆炸，造成 600 傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Combustion_Beam",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Combustion_Beam"
     },
     "es": {
         "item_name": "Haz De Combustión",
         "description": "Los enemigos asesinados explotan, causando 600 de daño tras morir.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Haz_de_combusti%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Haz_de_combusti%C3%B3n"
     },
     "it": {
         "item_name": "Combustion Beam",
         "description": "I nemici uccisi esploderanno dopo poco tempo, infliggendo 600 danno.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Combustion_Beam",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Combustion_Beam"
     },
     "pl": {
         "item_name": "Promień Spalenia",
         "description": "Zabici wrogowie chwilę po śmierci eksplodują, zadając 600 punktów obrażeń.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Promie%C5%84_Spalenia",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Promie%C5%84_Spalenia"
     },
     "rarity": "rare",
     "max_rank": 5,

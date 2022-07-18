@@ -3,9 +3,11 @@
     "url_name": "miter",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/miter.6685ee070afd0ae6e10eff755ba6898b.png",
-    "thumb": "icons/en/thumbs/miter.6685ee070afd0ae6e10eff755ba6898b.128x128.png",
+    "icon": "items/images/en/miter.6685ee070afd0ae6e10eff755ba6898b.png",
+    "thumb": "items/images/en/thumbs/miter.6685ee070afd0ae6e10eff755ba6898b.128x128.png",
     "icon_format": "land",
+    "disposition": 1.5,
+    "mastery_level": 6,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun"
     },

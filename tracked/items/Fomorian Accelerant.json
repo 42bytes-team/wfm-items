@@ -1,13 +1,13 @@
 {
     "_id": "5729bd18cb59ed5a9b484e92",
     "tags": [
-        "shotgun",
         "mod",
         "uncommon",
-        "primary"
+        "primary",
+        "drakgoon"
     ],
-    "icon": "icons/en/Fomorian_Accelerant.703cc26fdc88d12f834c157eae51704e.png",
-    "thumb": "icons/en/thumbs/Fomorian_Accelerant.703cc26fdc88d12f834c157eae51704e.128x128.png",
+    "icon": "items/images/en/fomorian_accelerant.703cc26fdc88d12f834c157eae51704e.png",
+    "thumb": "items/images/en/thumbs/fomorian_accelerant.703cc26fdc88d12f834c157eae51704e.128x128.png",
     "icon_format": "port",
     "url_name": "fomorian_accelerant",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Fomorian Accelerant",
         "description": "Flak now bounces up to 4x and travels 60% faster.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fomorian_Accelerant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Fomorian_Accelerant"
     },
     "ru": {
         "item_name": "Фоморианский Ускоритель",
         "description": "Осколки отскакивают до 4х раз и летят на 60% быстрее.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A4%D0%BE%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
-        "icon": "icons/ru/Fomorian_Accelerant.fb204b57365f35992f679e56c1de6d0a.png",
-        "thumb": "icons/ru/thumbs/Fomorian_Accelerant.fb204b57365f35992f679e56c1de6d0a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/fomorian_accelerant.fb204b57365f35992f679e56c1de6d0a.png",
+        "thumb": "items/images/ru/thumbs/fomorian_accelerant.fb204b57365f35992f679e56c1de6d0a.128x128.png"
     },
     "ko": {
         "item_name": "포모리안 액셀러런트",
         "description": "대공포의 탄환이 4회 튕기며 탄속이 60% 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fomorian_Accelerant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Fomorian_Accelerant"
     },
     "de": {
         "item_name": "Fomorianer Beschleuniger",
         "description": "Flak prallt nun bis zu 4x ab und ist um 60 % schneller.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Fomorianer_Beschleuniger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Fomorianer_Beschleuniger"
     },
     "fr": {
         "item_name": "Poudre Fomorienne",
         "description": "Les projectiles rebondissent jusqu'à 4x et volent 60% plus vite.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Poudre_Fomorienne",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Poudre_Fomorienne"
     },
     "pt": {
         "item_name": "Fomorian Accelerant",
         "description": "Projéteis ricocheteiam 4x e viajam 60% mais rapidamente.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Flash_Accelerant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Flash_Accelerant"
     },
     "zh-hans": {
         "item_name": "巨人促进剂",
         "description": "高射炮弹片将反弹至多 4 次 并且速度加快 60%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fomorian_Accelerant",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fomorian_Accelerant"
     },
     "zh-hant": {
         "item_name": "巨人促進劑",
         "description": "彈片將彈跳至多 4 次並且速度加快 60%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fomorian_Accelerant",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fomorian_Accelerant"
     },
     "es": {
         "item_name": "Acelerante Fomoré",
         "description": "La metralla rebota hasta 4 veces y viaja 60% más rápida.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Acelerante_fomor%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Acelerante_fomor%C3%A9"
     },
     "it": {
         "item_name": "Fomorian Accelerant",
         "description": "I proiettili rimbalzano fino a 4x e la Velocità di Volo aumenta del 60%.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Fomorian_Accelerant",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Fomorian_Accelerant"
     },
     "pl": {
         "item_name": "Akcelerator Fomorian",
         "description": "Śrut odbije się do 4x razy oraz będzie poruszał się o 60% szybciej.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akcelerator_Fomorian",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akcelerator_Fomorian"
     },
     "rarity": "uncommon",
     "max_rank": 3,

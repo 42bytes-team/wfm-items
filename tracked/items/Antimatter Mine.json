@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "nova"
     ],
-    "icon": "icons/en/Antimatter_Mine.384adc9bfe518c61363ea6c5640c89ee.png",
-    "thumb": "icons/en/thumbs/Antimatter_Mine.384adc9bfe518c61363ea6c5640c89ee.128x128.png",
+    "icon": "items/images/en/antimatter_mine.384adc9bfe518c61363ea6c5640c89ee.png",
+    "thumb": "items/images/en/thumbs/antimatter_mine.384adc9bfe518c61363ea6c5640c89ee.128x128.png",
     "icon_format": "port",
     "url_name": "antimatter_mine",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Antimatter Mine",
         "description": "Antimatter Drop Augment: Creates a fully charged stationary orb that explodes after 6s or within enemy proximity.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Antimatter_Mine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Antimatter_Mine"
     },
     "ru": {
         "item_name": "Залежь Антивещества",
         "description": "Улучшение Сброса Антивещества: создает полностью заряженную неподвижную сферу, которая взрывается спустя 6с., либо же при контакте с врагом.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BB%D0%B5%D0%B6%D1%8C_%D0%90%D0%BD%D1%82%D0%B8%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0",
-        "icon": "icons/ru/Antimatter_Mine.6624d3cc9845a9b9060a02f2cf0b3172.png",
-        "thumb": "icons/ru/thumbs/Antimatter_Mine.6624d3cc9845a9b9060a02f2cf0b3172.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/antimatter_mine.6624d3cc9845a9b9060a02f2cf0b3172.png",
+        "thumb": "items/images/ru/thumbs/antimatter_mine.6624d3cc9845a9b9060a02f2cf0b3172.128x128.png"
     },
     "ko": {
         "item_name": "안티매터 마인",
         "description": "안티매터 드롭 개조: 완전히 충전된 상태이며, 적이 접근하거나 6초가 지나면 폭발하는 정지된 상태의 오브를 생성합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Antimatter_Mine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Antimatter_Mine"
     },
     "de": {
         "item_name": "Antimaterie-mine",
         "description": "Antimaterie- Tropfen Augment: Schafft eine vollaufgeladene, stationäre Kugel, die nach 6s oder bei Annäherung von Gegnern explodiert.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Antimaterie-Mine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Antimaterie-Mine"
     },
     "fr": {
         "item_name": "Mine À Antimatière",
         "description": "Augmentation de Lâcher d'Antimatière: Crée un orbe stationnaire complètement chargé qui explose après 6s ou si des ennemis s'approchent.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Antimatter_Mine",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Antimatter_Mine"
     },
     "pt": {
         "item_name": "Antimatter Mine",
         "description": "Ampliação Antimatter Drop: Cria um orbe estático, totalmente carregado, que explode depois de 6s ou com um inimigo próximo.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Antimatter_Drop",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Antimatter_Drop"
     },
     "zh-hans": {
         "item_name": "反物质地雷",
         "description": "反物质释放强化：制造一个完全充能完毕但无法移动的球体，在 6 秒后或敌人接近时引爆。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Antimatter_Mine",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Antimatter_Mine"
     },
     "zh-hant": {
         "item_name": "反物質地雷",
         "description": "反物質釋放強化：製造一個完全充能完畢但無法移動的球體，在 6 秒後或敵人接近時引爆。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Antimatter_Mine",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Antimatter_Mine"
     },
     "es": {
         "item_name": "Mina De Antimateria",
         "description": "Aumento de Gota de antimateria: crea un orbe estacionario completamente cargado que explota después de 6s o en proximidades enemigas.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mina_de_antimateria",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mina_de_antimateria"
     },
     "it": {
         "item_name": "Antimatter Mine",
         "description": "Potenziamento Antimatter Drop: Crea una sfera stazionaria completamente carica che esplode dopo 6s o in prossimità di nemici.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Antimatter_Drop",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Antimatter_Drop"
     },
     "pl": {
         "item_name": "Mina Antymaterii",
         "description": "Modyfikacja Kropli Antymaterii: Tworzy w pełni naładowaną stacjonarną kulę która eksploduje po upływie 6s lub gdy w jej pobliżu znajdzie się wróg.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mina_Antymaterii",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mina_Antymaterii"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -1,12 +1,10 @@
 {
     "_id": "56153734b66f836f976f5501",
     "tags": [
-        "kubrow",
-        "prime",
-        "band"
+        "prime"
     ],
-    "icon": "icons/en/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.png",
-    "thumb": "icons/en/thumbs/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+    "icon": "items/images/en/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.png",
+    "thumb": "items/images/en/thumbs/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/pets/prime_band_128x128.png",
     "url_name": "kavasa_prime_band",
@@ -25,387 +23,57 @@
     "en": {
         "item_name": "Kavasa Prime Band",
         "description": "A prime sentinel accessory-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Neo N12 Relic (Uncommon)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "Meso V3 Relic (Uncommon)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "Lith S6 Relic (Uncommon)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "Lith N2 Relic (Uncommon)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Lith L3 Relic (Uncommon)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "Lith C1 Relic (Uncommon)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "Lith S2 Relic (Uncommon)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Kavasa_Prime"
     },
     "ru": {
         "item_name": "Каваса Прайм: Лента",
         "description": "Прайм-компонент аксессуаров стража.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B2%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Нео N12 (Необычный)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "Реликвия Мезо V3 (Необычный)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "Реликвия Лит S6 (Необычный)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "Реликвия Лит N2 (Необычный)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Реликвия Лит L3 (Необычный)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "Реликвия Лит C1 (Необычный)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "Реликвия Лит S2 (Необычный)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B2%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "카바사 프라임 칼라 밴드",
         "description": "프라임 센티넬 액세서리 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kavasa_Prime",
-        "drop": [
-            {
-                "name": "네오 N12 성유물 (언커먼)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "메소 V3 성유물 (언커먼)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "리스 S6 성유물 (언커먼)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "리스 N2 성유물 (언커먼)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "리스 L3 성유물 (언커먼)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "리스 C1 성유물 (언커먼)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "리스 S2 성유물 (언커먼)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Kavasa_Prime"
     },
     "de": {
         "item_name": "Kavasa Prime: Band",
         "description": "Eine Komponente für die Herstellung von Prime Wächterzubehör.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Neo-relikt: N12 (Ungewöhnlich)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "Meso-relikt: V3 (Ungewöhnlich)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "Lith-relikt: S6 (Ungewöhnlich)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "Lith-relikt: N2 (Ungewöhnlich)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Lith-relikt: L3 (Ungewöhnlich)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "Lith-relikt: C1 (Ungewöhnlich)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "Lith-relikt: S2 (Ungewöhnlich)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Kavasa_Prime"
     },
     "fr": {
         "item_name": "Kavasa Prime - Lanière",
         "description": "Un composant servant à la fabrication d'accessoires de sentinelle Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Relique Neo N12 (Inhabituel)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "Relique Meso V3 (Inhabituel)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "Relique Lith S6 (Inhabituel)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "Relique Lith N2 (Inhabituel)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Relique Lith L3 (Inhabituel)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "Relique Lith C1 (Inhabituel)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "Relique Lith S2 (Inhabituel)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kavasa_Prime"
     },
     "pt": {
         "item_name": "Kavasa Prime: Faixa",
         "description": "Um componente de fabricação de acessórios Prime para Sentinelas.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nova_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Neo N12 (Incomum)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "Relíquia Meso V3 (Incomum)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "Relíquia Lith S6 (Incomum)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "Relíquia Lith N2 (Incomum)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Relíquia Lith L3 (Incomum)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "Relíquia Lith C1 (Incomum)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "Relíquia Lith S2 (Incomum)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nova_Prime"
     },
     "zh-hans": {
         "item_name": "喀婆萨 Prime 项圈带",
         "description": "一个 Prime 守护的零件制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kavasa_Prime",
-        "drop": [
-            {
-                "name": "中纪 N12 遗物 (罕见)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "前纪 V3 遗物 (罕见)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "古纪 S6 遗物 (罕见)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "古纪 N2 遗物 (罕见)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "古纪 L3 遗物 (罕见)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "古纪 C1 遗物 (罕见)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "古纪 S2 遗物 (罕见)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kavasa_Prime"
     },
     "zh-hant": {
         "item_name": "喀婆薩 Prime 庫狛項圈帶",
         "description": "製作 Prime 守護零件的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kavasa_Prime",
-        "drop": [
-            {
-                "name": "中紀 N12 遺物 (罕見)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "前紀 V3 遺物 (罕見)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "古紀 S6 遺物 (罕見)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "古紀 N2 遺物 (罕見)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "古紀 L3 遺物 (罕見)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "古紀 C1 遺物 (罕見)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "古紀 S2 遺物 (罕見)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kavasa_Prime"
     },
     "es": {
         "item_name": "Cinta Del Collar Kavasa Prime",
         "description": "Un componente de fabricación de accesorio prime de centinela.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Collar_Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo N12 (Poco Común)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "Reliquia Meso V3 (Poco Común)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "Reliquia Lith S6 (Poco Común)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "Reliquia Lith N2 (Poco Común)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Reliquia Lith L3 (Poco Común)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "Reliquia Lith C1 (Poco Común)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "Reliquia Lith S2 (Poco Común)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Collar_Kavasa_Prime"
     },
     "it": {
         "item_name": "Collare Kavasa Prime - Fascia",
         "description": "Un componente Prime per la costruzione di un accessorio per sentinelle.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Collare_Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo N12 (Uncommon)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "Reliquia Meso V3 (Uncommon)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "Reliquia Lith S6 (Uncommon)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "Reliquia Lith N2 (Uncommon)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Reliquia Lith L3 (Uncommon)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "Reliquia Lith C1 (Uncommon)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "Reliquia Lith S2 (Uncommon)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Collare_Kavasa_Prime"
     },
     "pl": {
         "item_name": "Kavasa Prime: Pasek",
         "description": "Element wytwarzania akcesoriów Prime Strażnika.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ivara_Prime",
-        "drop": [
-            {
-                "name": "Relikt Neo N12 (Nieprzeciętny)",
-                "link": "neo_n12_relic"
-            },
-            {
-                "name": "Relikt Meso V3 (Nieprzeciętny)",
-                "link": "meso_v3_relic"
-            },
-            {
-                "name": "Relikt Lith S6 (Nieprzeciętny)",
-                "link": "lith_s6_relic"
-            },
-            {
-                "name": "Relikt Lith N2 (Nieprzeciętny)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Relikt Lith L3 (Nieprzeciętny)",
-                "link": "lith_l3_relic"
-            },
-            {
-                "name": "Relikt Lith C1 (Nieprzeciętny)",
-                "link": "lith_c1_relic"
-            },
-            {
-                "name": "Relikt Lith S2 (Nieprzeciętny)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ivara_Prime"
     },
     "mastery_level": 0,
     "ducats": 45,

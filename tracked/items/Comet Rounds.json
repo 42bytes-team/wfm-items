@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a4cf",
     "tags": [
-        "mod",
+        "primary",
         "uncommon",
         "pvp",
-        "primary"
+        "rifle",
+        "mod"
     ],
-    "icon": "icons/en/Comet_Rounds.241aed9e2ba36e591104eda496da7cda.png",
-    "thumb": "icons/en/thumbs/Comet_Rounds.241aed9e2ba36e591104eda496da7cda.128x128.png",
+    "icon": "items/images/en/comet_rounds.241aed9e2ba36e591104eda496da7cda.png",
+    "thumb": "items/images/en/thumbs/comet_rounds.241aed9e2ba36e591104eda496da7cda.128x128.png",
     "icon_format": "port",
     "url_name": "comet_rounds",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Comet Rounds",
         "description": "20% of Damage converted into Impact",
-        "wiki_link": "https://warframe.fandom.com/wiki/Comet_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Comet_Rounds"
     },
     "ru": {
         "item_name": "Патроны Из Кометы",
         "description": "Преобразует 20% урона в ударный",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%B8%D0%B7_%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%8B",
-        "icon": "icons/ru/Comet_Rounds.028b5ff164b4003a81d051dd05e6eac5.png",
-        "thumb": "icons/ru/thumbs/Comet_Rounds.028b5ff164b4003a81d051dd05e6eac5.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/comet_rounds.028b5ff164b4003a81d051dd05e6eac5.png",
+        "thumb": "items/images/ru/thumbs/comet_rounds.028b5ff164b4003a81d051dd05e6eac5.128x128.png"
     },
     "ko": {
         "item_name": "코멧 라운즈",
         "description": "20%의 피해를 충격으로 전환합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Comet_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Comet_Rounds"
     },
     "de": {
         "item_name": "Kometenkugeln",
         "description": "Wandelt 20 % des Schadens in Einschlag um",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Kometenkugeln",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Kometenkugeln"
     },
     "fr": {
         "item_name": "Cartouches Comètes",
         "description": "Convertit 20% des Dégâts en Impact",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cartouches_Acides",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cartouches_Acides"
     },
     "pt": {
         "item_name": "Comet Rounds",
         "description": "20% de Dano convertido para Colisivo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Comet_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Comet_Rounds"
     },
     "zh-hans": {
         "item_name": "彗星弹头",
         "description": "将20% 的伤害转换为冲击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Comet_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Comet_Rounds"
     },
     "zh-hant": {
         "item_name": "彗星彈頭",
         "description": "將 20% 的傷害轉換為 衝擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Comet_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Comet_Rounds"
     },
     "es": {
         "item_name": "Balas Cósmicas",
         "description": "Convierte 20% de daño a daño de impacto",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Balas_c%C3%B3smicas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Balas_c%C3%B3smicas"
     },
     "it": {
         "item_name": "Comet Rounds",
         "description": "Converte in Impatto il 20% del Danno",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Cryo_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Cryo_Rounds"
     },
     "pl": {
         "item_name": "Pociski Kometowe",
         "description": "Przekształca 20% obrażeń na obrażenia Miażdżące",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pociski_Kometowe",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pociski_Kometowe"
     },
     "rarity": "uncommon",
     "max_rank": 3,

@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "uncommon",
-        "stance"
+        "stance",
+        "heavy_scythe"
     ],
-    "icon": "icons/en/galeforce_dawn.43b80804db2df60f946063545350586b.png",
-    "thumb": "icons/en/thumbs/galeforce_dawn.43b80804db2df60f946063545350586b.128x128.png",
+    "icon": "items/images/en/galeforce_dawn.43b80804db2df60f946063545350586b.png",
+    "thumb": "items/images/en/thumbs/galeforce_dawn.43b80804db2df60f946063545350586b.128x128.png",
     "icon_format": "port",
     "url_name": "galeforce_dawn",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Galeforce Dawn",
         "description": "Wide slashes and heavy strikes",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Штормовой Рассвет",
         "description": "Широкие разрезы и мощные удары",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "게일포스 던",
         "description": "넓은 베기와 강한 공격으로 구성된 연속기입니다.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Orkandämmerung",
         "description": "Ausladende Schnitte und schwere Schläge",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Bourrasque De L'aube",
         "description": "Larges entailles et frappes lourdes",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Galeforce Dawn",
         "description": "Cortes amplos e golpes pesados",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "狂风压境",
         "description": "横扫切割与重型打击",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "狂風破曉",
         "description": "寬廣切斬和重型打擊",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Vendaval Del Alba",
         "description": "Cortes extendidos y ataques pesados",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Galeforce Dawn",
         "description": "Ampi tagli e colpi pesanti",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Poranna Wichura",
         "description": "Szerokie cięcia i potężne uderzenia",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "uncommon",
     "max_rank": 3,

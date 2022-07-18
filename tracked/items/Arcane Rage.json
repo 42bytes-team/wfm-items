@@ -4,8 +4,8 @@
         "arcane_enhancement",
         "rare"
     ],
-    "icon": "icons/en/Arcane_Rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.png",
-    "thumb": "icons/en/thumbs/Arcane_Rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.128x128.png",
+    "icon": "items/images/en/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.png",
+    "thumb": "items/images/en/thumbs/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.128x128.png",
     "icon_format": "land",
     "url_name": "arcane_rage",
     "tradable": true,
@@ -14,69 +14,58 @@
     },
     "en": {
         "item_name": "Arcane Rage",
-        "description": "On Headshot:\n15% chance for +180% Damage to Primary Weapons for 24s\n+1 Arcane Revive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Rage",
-        "drop": []
+        "description": "On Headshot:\n15% chance for +180% Damage to Primary Weapons for 24s\n+1 Arcane Revive\n+1 Arcane Revive",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Rage"
     },
     "ru": {
         "item_name": "Мистический Гнев",
-        "description": "При попадании в голову:\n15% шанс +180% урона для основного оружия в течение 24c.\n+1 Мистическое Воскрешение",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%93%D0%BD%D0%B5%D0%B2",
-        "drop": []
+        "description": "При попадании в голову:\n15% шанс +180% урона для основного оружия в течение 24c.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%93%D0%BD%D0%B5%D0%B2"
     },
     "ko": {
         "item_name": "아케인 레이지",
-        "description": "헤드샷을 맞출 시:\n15% 확률로 24초 동안 주무기에 +180% 피해\n+1 아케인 부활",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Rage",
-        "drop": []
+        "description": "헤드샷을 맞출 시:\n15% 확률로 24초 동안 주무기에 +180% 피해\n+1 아케인 부활\n+1 아케인 부활",
+        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Rage"
     },
     "de": {
         "item_name": "Arkana: Rage",
-        "description": "Bei Kopfschuss:\n15 % Chance auf +180 % Schaden bei Primärwaffen für 24 s\n+1 Arkana Wiederbelebung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana_Rage",
-        "drop": []
+        "description": "Bei Kopfschuss:\n15 % Chance auf +180 % Schaden bei Primärwaffen für 24 s\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana_Rage"
     },
     "fr": {
         "item_name": "Arcane Rage",
-        "description": "Sur Tir à la tête:\n15% de chance pour +180% de Dégâts aux Armes Principales pendant 24s\n+1 Réanimation Arcane",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Rage",
-        "drop": []
+        "description": "Sur Tir à la tête:\n15% de chances de: +180% de Dégâts aux armes Principales pendant 24s\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Rage"
     },
     "pt": {
         "item_name": "Arcano: Ira",
-        "description": "No Acerto de Precisão:\n15% de chance de +180% de Dano para Armas Primárias durante 24s\n+1 Reanimação Arcana",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Grace",
-        "drop": []
+        "description": "No Acerto de Precisão:\n15% de chance de +180% de Dano para Armas Primárias durante 24s\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Grace"
     },
     "zh-hans": {
         "item_name": "愤怒 赋能",
-        "description": "造成爆头后：\n15% 几率在主要武器上附加 +180% 伤害 效果，持续 24 秒\n赋能复活次数 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Rage",
-        "drop": []
+        "description": "造成爆头后：\n15% 几率在主要武器上附加 +180% 伤害 效果，持续 24 秒\n赋能复活次数 +1\n赋能复活次数 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Rage"
     },
     "zh-hant": {
         "item_name": "憤怒賦能",
-        "description": "爆頭時：\n15% 機率在主要武器上附加 +180% 傷害 效果，持續 24 秒\n賦能復活次數 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Rage",
-        "drop": []
+        "description": "爆頭時：\n15% 機率在主要武器上附加 +180% 傷害 效果，持續 24 秒\n賦能復活次數 +1\n賦能復活次數 +1",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Rage"
     },
     "es": {
         "item_name": "Ira Arcana",
-        "description": "Al disparar a la cabeza:\n15% de probabilidad de +180% de daño para armas primarias durante 24s\n+1 Revivir Arcano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ira_arcana",
-        "drop": []
+        "description": "Al disparar a la cabeza:\n15% de probabilidad de +180% de daño para armas primarias durante 24s\n+1 Revivir Arcano\n+1 Revivir Arcano",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ira_arcana"
     },
     "it": {
         "item_name": "Arcane Rage",
-        "description": "Dopo un Colpo alla Testa:\n15% probabilità di +180% Danno alle Armi Primarie per 24s.\n+1 Rianimazione Arcane",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Arcane",
-        "drop": []
+        "description": "Dopo un Colpo alla Testa:\n15% probabilità di +180% Danno alle Armi Primarie per 24s.\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Arcane"
     },
     "pl": {
         "item_name": "Arkanum Gniewu",
-        "description": "Po trafieniu w głowę:\n15% szansy na +180% Obrażeń do Broni Głownej na 24s\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Gniewu",
-        "drop": []
+        "description": "Po trafieniu w głowę:\n15% szansy na +180% Obrażeń do Broni Głownej na 24s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Gniewu"
     },
     "rarity": "rare",
     "max_rank": 5,
