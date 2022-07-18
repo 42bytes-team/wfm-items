@@ -6,8 +6,8 @@
         "pistol",
         "secondary"
     ],
-    "icon": "icons/en/Sure_Shot.d6761f1901d2e4f8f44d2616ddbb8d57.png",
-    "thumb": "icons/en/thumbs/Sure_Shot.d6761f1901d2e4f8f44d2616ddbb8d57.128x128.png",
+    "icon": "items/images/en/sure_shot.d6761f1901d2e4f8f44d2616ddbb8d57.png",
+    "thumb": "items/images/en/thumbs/sure_shot.d6761f1901d2e4f8f44d2616ddbb8d57.128x128.png",
     "icon_format": "port",
     "url_name": "sure_shot",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Sure Shot",
         "description": "+90% Status Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sure_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sure_Shot"
     },
     "ru": {
         "item_name": "Точный Выстрел",
         "description": "+90% к шансу статуса",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "icon": "icons/ru/Sure_Shot.1a77821f0b863719bf103a66eeca901f.png",
-        "thumb": "icons/ru/thumbs/Sure_Shot.1a77821f0b863719bf103a66eeca901f.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/sure_shot.1a77821f0b863719bf103a66eeca901f.png",
+        "thumb": "items/images/ru/thumbs/sure_shot.1a77821f0b863719bf103a66eeca901f.128x128.png"
     },
     "ko": {
         "item_name": "슈어 샷",
         "description": "+90% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sure_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sure_Shot"
     },
     "de": {
         "item_name": "Sicherer Schuss",
         "description": "+90 % Statuschance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicherer_Schuss",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicherer_Schuss"
     },
     "fr": {
         "item_name": "Tir Assuré",
         "description": "+90% de Chances de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tir_Assur%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tir_Assur%C3%A9"
     },
     "pt": {
         "item_name": "Sure Shot",
         "description": "+90% de Chance de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sure_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sure_Shot"
     },
     "zh-hans": {
         "item_name": "准确射手",
         "description": "+90% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sure_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sure_Shot"
     },
     "zh-hant": {
         "item_name": "準確射手",
         "description": "+90% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sure_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sure_Shot"
     },
     "es": {
         "item_name": "Disparo Certero",
         "description": "+90% de probabilidad de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_certero",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_certero"
     },
     "it": {
         "item_name": "Sure Shot",
         "description": "+90% Probabilità Effetto",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sure_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Sure_Shot"
     },
     "pl": {
         "item_name": "Pewny Strzał",
         "description": "+90% Szansa Statusu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pewny_Strza%C5%82",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pewny_Strza%C5%82"
     },
     "rarity": "uncommon",
     "max_rank": 5,

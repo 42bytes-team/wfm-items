@@ -6,8 +6,8 @@
         "rifle",
         "primary"
     ],
-    "icon": "icons/en/Shred.268f7dec2759ea43457995ca16deae78.png",
-    "thumb": "icons/en/thumbs/Shred.268f7dec2759ea43457995ca16deae78.128x128.png",
+    "icon": "items/images/en/shred.268f7dec2759ea43457995ca16deae78.png",
+    "thumb": "items/images/en/thumbs/shred.268f7dec2759ea43457995ca16deae78.128x128.png",
     "icon_format": "port",
     "url_name": "shred",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Shred",
         "description": "+30% Fire Rate (x2 for Bows)\n+1.2 Punch Through",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shred",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shred"
     },
     "ru": {
         "item_name": "Кромсание",
         "description": "+30% к скорострельности (x2 для луков)\n+1.2 к пронзанию навылет",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Shred.7f6ffc1c32bfe0b356ec34222f4eeb88.png",
-        "thumb": "icons/ru/thumbs/Shred.7f6ffc1c32bfe0b356ec34222f4eeb88.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/shred.7f6ffc1c32bfe0b356ec34222f4eeb88.png",
+        "thumb": "items/images/ru/thumbs/shred.7f6ffc1c32bfe0b356ec34222f4eeb88.128x128.png"
     },
     "ko": {
         "item_name": "슈레드",
         "description": "+30% 연사력 (활 계열 무기에 2배)\n+1.2 두께 꿰뚫기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shred",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shred"
     },
     "de": {
         "item_name": "Zerfetzen",
         "description": "+30 % Feuerrate (x2 für Bögen)\n+1.2 Durchdringung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerfetzen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerfetzen"
     },
     "fr": {
         "item_name": "Charpie",
         "description": "+30% de Cadence de Tir (x2 pour les Arcs)\n+1.2 Pénétration",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Charpie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Charpie"
     },
     "pt": {
         "item_name": "Shred",
-        "description": "+30% de Cadência de Tiro (x2 em Arcos)\n+1.2 Penetração",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shred",
-        "drop": []
+        "description": "+30% de Cadência de Tiro (x2 em Arcos)\n+1.2 de Penetração",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shred"
     },
     "zh-hans": {
         "item_name": "撕裂",
         "description": "+30% 射速（弓类武器效果加倍）\n+1.2 穿透",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shred",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shred"
     },
     "zh-hant": {
         "item_name": "撕裂",
         "description": "+30% 射速（弓類武器效果加倍）\n+1.2 穿透",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shred",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shred"
     },
     "es": {
         "item_name": "Despedazar",
         "description": "+30% de cadencia de fuego (x2 para arcos)\n+1.2 de atravesar",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Despedazar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Despedazar"
     },
     "it": {
         "item_name": "Shred",
         "description": "+30% Cadenza di Tiro (x2 per Archi)\n+1.2 Attraversamento",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Shred",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Shred"
     },
     "pl": {
         "item_name": "Rozrywacz",
         "description": "+30% Szybkostrzelność (x2 dla Łuków)\n+1.2 Przeb. na wylot",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozrywacz",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozrywacz"
     },
     "rarity": "rare",
     "max_rank": 5,

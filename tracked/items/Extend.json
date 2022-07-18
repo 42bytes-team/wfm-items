@@ -1,15 +1,14 @@
 {
     "_id": "54a74454e779892d5e515683",
     "tags": [
-        "melee",
         "common",
+        "melee",
+        "mod",
         "archwing",
-        "arch-melee",
-        "archwing melee",
-        "mod"
+        "archmelee"
     ],
-    "icon": "icons/en/Extend.12e6d7c851dc98d1acee4856d59efa51.png",
-    "thumb": "icons/en/thumbs/Extend.12e6d7c851dc98d1acee4856d59efa51.128x128.png",
+    "icon": "items/images/en/extend.12e6d7c851dc98d1acee4856d59efa51.png",
+    "thumb": "items/images/en/thumbs/extend.12e6d7c851dc98d1acee4856d59efa51.128x128.png",
     "icon_format": "port",
     "url_name": "extend",
     "tradable": true,
@@ -19,70 +18,59 @@
     "en": {
         "item_name": "Extend",
         "description": "+100 Attraction Range (In Space)\n+3 Melee Range",
-        "wiki_link": "https://warframe.fandom.com/wiki/Extend",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Extend"
     },
     "ru": {
         "item_name": "Расширение",
         "description": "+100 радиус притяжения (в космосе)\n+3% к зоне поражения в ближнем бою",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Extend.b5a663a5cafdbb83b70d4cba7130972f.png",
-        "thumb": "icons/ru/thumbs/Extend.b5a663a5cafdbb83b70d4cba7130972f.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/extend.b5a663a5cafdbb83b70d4cba7130972f.png",
+        "thumb": "items/images/ru/thumbs/extend.b5a663a5cafdbb83b70d4cba7130972f.128x128.png"
     },
     "ko": {
         "item_name": "익스텐드",
         "description": "+100 유도 범위 (우주 공간 내)\n+3 근접 거리",
-        "wiki_link": "https://warframe.fandom.com/wiki/Extend",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Extend"
     },
     "de": {
         "item_name": "Verlängern",
         "description": "+100 Anziehungsbereich (im Weltraum)\n+3 Nahkampfreichweite",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verl%C3%A4ngern",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Verl%C3%A4ngern"
     },
     "fr": {
         "item_name": "Prolongement",
         "description": "Portée d'attraction : +100 (dans l'espace)\nPortée de Mêlée: +3",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Prolongement",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Prolongement"
     },
     "pt": {
         "item_name": "Extend",
         "description": "+100 Alcance da Atração (No Espaço)\n+3 Alcance Corpo a Corpo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Extend",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Extend"
     },
     "zh-hans": {
         "item_name": "延展",
         "description": "+100 吸引范围（太空）\n+3 近战范围",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Extend",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Extend"
     },
     "zh-hant": {
         "item_name": "延展",
         "description": "+100 吸引範圍（太空）\n+3 近戰攻擊範圍",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Extend",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Extend"
     },
     "es": {
         "item_name": "Ampliar",
         "description": "+100 rango de atracción (en el espacio)\n+3 de alcance cuerpo a cuerpo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ampliar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ampliar"
     },
     "it": {
         "item_name": "Extend",
         "description": "+100 Raggio d'Attrazione (Nello Spazio)\n+3 Portata Attacco Corpo a Corpo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Extend",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Extend"
     },
     "pl": {
         "item_name": "Wydłużenie",
         "description": "+100 Zasięg Przyciągania (W Kosmosie)\n+3 Zasięgu Broni białej",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyd%C5%82u%C5%BCenie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyd%C5%82u%C5%BCenie"
     },
     "rarity": "common",
     "max_rank": 3,

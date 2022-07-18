@@ -3,9 +3,11 @@
     "url_name": "scoliac",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/scoliac.6703c0d6787801aa4e743570e345e268.png",
-    "thumb": "icons/en/thumbs/scoliac.6703c0d6787801aa4e743570e345e268.128x128.png",
+    "icon": "items/images/en/scoliac.6703c0d6787801aa4e743570e345e268.png",
+    "thumb": "items/images/en/thumbs/scoliac.6703c0d6787801aa4e743570e345e268.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 6,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/Melee/Whip/InfestedWhip/InfestedWhipWeapon"
     },

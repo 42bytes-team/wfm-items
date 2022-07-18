@@ -1,15 +1,12 @@
 {
     "_id": "573b804f0ec44a47787a6917",
     "tags": [
-        "weapon",
-        "prime",
-        "pistol",
-        "receiver",
         "component",
-        "secondary"
+        "weapon",
+        "prime"
     ],
-    "icon": "icons/en/Akstiletto_Prime_Set.a88c0a1e43ba462af7cc44efd01a7044.png",
-    "thumb": "icons/en/thumbs/Akstiletto_Prime_Set.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
+    "icon": "items/images/en/akstiletto_prime_receiver.a88c0a1e43ba462af7cc44efd01a7044.png",
+    "thumb": "items/images/en/thumbs/akstiletto_prime_receiver.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
     "url_name": "akstiletto_prime_receiver",
@@ -29,299 +26,57 @@
     "en": {
         "item_name": "Akstiletto Prime Receiver",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Axi O1 Relic (Uncommon)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "Axi H1 Relic (Uncommon)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "Axi T1 Relic (Uncommon)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "Axi K1 Relic (Uncommon)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "Axi A7 Relic (Common)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime"
     },
     "ru": {
         "item_name": "Акстилетто Прайм: Приёмник",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D1%82%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси O1 (Необычный)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "Реликвия Акси H1 (Необычный)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "Реликвия Акси T1 (Необычный)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "Реликвия Акси K1 (Необычный)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "Реликвия Акси A7 (Обычный)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D1%82%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "아크스틸레토 프라임 리시버",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "액시 O1 성유물 (언커먼)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "액시 H1 성유물 (언커먼)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "액시 T1 성유물 (언커먼)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "액시 K1 성유물 (언커먼)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "액시 A7 성유물 (커먼)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime"
     },
     "de": {
         "item_name": "Akstiletto Prime: Gehäuse",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: O1 (Ungewöhnlich)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "Axi-relikt: H1 (Ungewöhnlich)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "Axi-relikt: T1 (Ungewöhnlich)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "Axi-relikt: K1 (Ungewöhnlich)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "Axi-relikt: A7 (Gewöhnlich)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Akstiletto_Prime"
     },
     "fr": {
         "item_name": "Akstiletto Prime - Culasse",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi O1 (Inhabituel)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "Relique Axi H1 (Inhabituel)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "Relique Axi T1 (Inhabituel)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "Relique Axi K1 (Inhabituel)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "Relique Axi A7 (Commun)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Akstiletto_Prime"
     },
     "pt": {
         "item_name": "Akstiletto Prime: Receptor",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi O1 (Incomum)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "Relíquia Axi H1 (Incomum)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "Relíquia Axi T1 (Incomum)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "Relíquia Axi K1 (Incomum)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "Relíquia Axi A7 (Comum)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akstiletto_Prime"
     },
     "zh-hans": {
         "item_name": "史提托双枪 Prime 枪机",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "后纪 O1 遗物 (罕见)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "后纪 H1 遗物 (罕见)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "后纪 T1 遗物 (罕见)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "后纪 K1 遗物 (罕见)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "后纪 A7 遗物 (常见)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime"
     },
     "zh-hant": {
         "item_name": "史提托雙槍 Prime 槍機",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "後紀 O1 遺物 (罕見)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "後紀 H1 遺物 (罕見)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "後紀 T1 遺物 (罕見)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "後紀 K1 遺物 (罕見)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "後紀 A7 遺物 (常見)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime"
     },
     "es": {
         "item_name": "Receptor De Akstiletto Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi O1 (Poco Común)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "Reliquia Axi H1 (Poco Común)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "Reliquia Axi T1 (Poco Común)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "Reliquia Axi K1 (Poco Común)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "Reliquia Axi A7 (Común)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Akstiletto_Prime"
     },
     "it": {
         "item_name": "Akstiletto Prime - Castello",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi O1 (Uncommon)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "Reliquia Axi H1 (Uncommon)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "Reliquia Axi T1 (Uncommon)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "Reliquia Axi K1 (Uncommon)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "Reliquia Axi A7 (Common)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Akstiletto_Prime"
     },
     "pl": {
         "item_name": "Akstiletto Prime: Korpus",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi O1 (Nieprzeciętny)",
-                "link": "axi_o1_relic"
-            },
-            {
-                "name": "Relikt Axi H1 (Nieprzeciętny)",
-                "link": "axi_h1_relic"
-            },
-            {
-                "name": "Relikt Axi T1 (Nieprzeciętny)",
-                "link": "axi_t1_relic"
-            },
-            {
-                "name": "Relikt Axi K1 (Nieprzeciętny)",
-                "link": "axi_k1_relic"
-            },
-            {
-                "name": "Relikt Axi A7 (Powszechny)",
-                "link": "axi_a7_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akstiletto_Prime"
     },
     "mastery_level": 10,
     "ducats": 45,

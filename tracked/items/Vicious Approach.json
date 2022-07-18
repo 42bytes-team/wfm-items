@@ -1,15 +1,14 @@
 {
     "_id": "5be5f5a13ffcc7038857f110",
     "tags": [
-        "mod",
         "sparring",
-        "conclave",
-        "pvp",
+        "uncommon",
         "stance",
-        "uncommon"
+        "pvp",
+        "mod"
     ],
-    "icon": "icons/en/Vicious_Approach.4ed4f3c55e9a8ec701ce0b61c7424de6.png",
-    "thumb": "icons/en/thumbs/Vicious_Approach.4ed4f3c55e9a8ec701ce0b61c7424de6.128x128.png",
+    "icon": "items/images/en/vicious_approach.4ed4f3c55e9a8ec701ce0b61c7424de6.png",
+    "thumb": "items/images/en/thumbs/vicious_approach.4ed4f3c55e9a8ec701ce0b61c7424de6.128x128.png",
     "icon_format": "port",
     "url_name": "vicious_approach",
     "tradable": true,
@@ -19,70 +18,59 @@
     "en": {
         "item_name": "Vicious Approach",
         "description": "Fighting form devised for Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vicious_Approach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Vicious_Approach"
     },
     "ru": {
         "item_name": "Порочное Нападение",
-        "description": "Форма боя, созданная для Конклава.",
+        "description": "Форма боя, созданная для конклава.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Vicious_Approach.3b6e1f8dd1cfc562542703bbe9e9461e.png",
-        "thumb": "icons/ru/thumbs/Vicious_Approach.3b6e1f8dd1cfc562542703bbe9e9461e.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/vicious_approach.3b6e1f8dd1cfc562542703bbe9e9461e.png",
+        "thumb": "items/images/ru/thumbs/vicious_approach.3b6e1f8dd1cfc562542703bbe9e9461e.128x128.png"
     },
     "ko": {
         "item_name": "비셔스 어프로치",
         "description": "콘클레이브를 위해 창안된 전투 자세입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vicious_Approach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Vicious_Approach"
     },
     "de": {
         "item_name": "Boshafte Annäherung",
         "description": "Gefechtsform, entwickelt für die Conclave.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Boshafte_Ann%C3%A4herung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Boshafte_Ann%C3%A4herung"
     },
     "fr": {
         "item_name": "Approche Vicieuse",
         "description": "Forme de combat réservée au Conclave.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Approche_Vicieuse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Approche_Vicieuse"
     },
     "pt": {
         "item_name": "Vicious Approach",
         "description": "Forma de combate elaborada para o Conclave.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vicious_Spread",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vicious_Spread"
     },
     "zh-hans": {
         "item_name": "凶途恶径",
         "description": "为武形秘仪设计的战斗形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vicious_Approach",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vicious_Approach"
     },
     "zh-hant": {
         "item_name": "兇惡途徑",
         "description": "為武形秘儀設計的戰鬥形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vicious_Approach",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vicious_Approach"
     },
     "es": {
         "item_name": "Acercamiento Cruel",
         "description": "Una forma de pelea creada para el Cónclave.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Acercamiento_cruel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Acercamiento_cruel"
     },
     "it": {
         "item_name": "Vicious Approach",
         "description": "Stile di combattimento ideato per il Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vicious_Approach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Vicious_Approach"
     },
     "pl": {
         "item_name": "Okrutne Zbliżenie",
         "description": "Styl walki stworzony na potrzeby Konklawe.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Okrutne_Zbli%C5%BCenie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Okrutne_Zbli%C5%BCenie"
     },
     "rarity": "uncommon",
     "max_rank": 3,

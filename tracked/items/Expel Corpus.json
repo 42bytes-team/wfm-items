@@ -6,8 +6,8 @@
         "pistol",
         "secondary"
     ],
-    "icon": "icons/en/Expel_Corpus.a5014be781ec3ac619fd3d7260e8fa36.png",
-    "thumb": "icons/en/thumbs/Expel_Corpus.a5014be781ec3ac619fd3d7260e8fa36.128x128.png",
+    "icon": "items/images/en/expel_corpus.a5014be781ec3ac619fd3d7260e8fa36.png",
+    "thumb": "items/images/en/thumbs/expel_corpus.a5014be781ec3ac619fd3d7260e8fa36.128x128.png",
     "icon_format": "port",
     "url_name": "expel_corpus",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Expel Corpus",
         "description": "+30% Damage to Corpus",
-        "wiki_link": "https://warframe.fandom.com/wiki/Expel_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Expel_Corpus"
     },
     "ru": {
         "item_name": "Изгнание: Корпус",
         "description": "+30% урона Корпусу",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B7%D0%B3%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81",
-        "icon": "icons/ru/Expel_Corpus.c512177b80b5cae68e3c1fa37543ad8a.png",
-        "thumb": "icons/ru/thumbs/Expel_Corpus.c512177b80b5cae68e3c1fa37543ad8a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/expel_corpus.c512177b80b5cae68e3c1fa37543ad8a.png",
+        "thumb": "items/images/ru/thumbs/expel_corpus.c512177b80b5cae68e3c1fa37543ad8a.128x128.png"
     },
     "ko": {
         "item_name": "익스펠 코퍼스",
         "description": "코퍼스에 대한 피해 +30%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Expel_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Expel_Corpus"
     },
     "de": {
         "item_name": "Corpus Verjagen",
         "description": "+30 % Schaden gegen Corpus",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Corpus_Verjagen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Corpus_Verjagen"
     },
     "fr": {
         "item_name": "Expulse-corpus",
         "description": "+30% de Dégâts aux Corpus",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Expulse-Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Expulse-Corpus"
     },
     "pt": {
         "item_name": "Expel Corpus",
         "description": "+30% de Dano em Corpus",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Expel_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Expel_Corpus"
     },
     "zh-hans": {
         "item_name": "驱逐 Corpus",
         "description": "+30% 对 Corpus 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Expel_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Expel_Corpus"
     },
     "zh-hant": {
         "item_name": "驅逐 Corpus",
         "description": "+30% 對 Corpus 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Expel_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Expel_Corpus"
     },
     "es": {
         "item_name": "Expeler Corpus",
         "description": "+30% de daño a los corpus",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Expeler_corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Expeler_corpus"
     },
     "it": {
         "item_name": "Expel Corpus",
         "description": "+30% Danno su Corpus",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Expel_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Expel_Corpus"
     },
     "pl": {
         "item_name": "Zagłada Corpus",
         "description": "+30% Obrażeń zadawanych Corpus",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Corpus",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Corpus"
     },
     "rarity": "uncommon",
     "max_rank": 5,

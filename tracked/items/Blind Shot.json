@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a505",
     "tags": [
-        "mod",
-        "rare",
+        "secondary",
         "pvp",
-        "secondary"
+        "rare",
+        "mod",
+        "pistol"
     ],
-    "icon": "icons/en/Blind_Shot.5d5b866f41a1395ae506007edefbd5d8.png",
-    "thumb": "icons/en/thumbs/Blind_Shot.5d5b866f41a1395ae506007edefbd5d8.128x128.png",
+    "icon": "items/images/en/blind_shot.5d5b866f41a1395ae506007edefbd5d8.png",
+    "thumb": "items/images/en/thumbs/blind_shot.5d5b866f41a1395ae506007edefbd5d8.128x128.png",
     "icon_format": "port",
     "url_name": "blind_shot",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Blind Shot",
         "description": "+40% Projectile Speed\n-4% Accuracy",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blind_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blind_Shot"
     },
     "ru": {
         "item_name": "Слепящий Выстрел",
         "description": "+40% к скорости полёта снаряда\n-4% к точности",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BB%D0%B5%D0%BF%D1%8F%D1%89%D0%B8%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "icon": "icons/ru/Blind_Shot.ec255cb6eba3de52cb4d8242da3647a9.png",
-        "thumb": "icons/ru/thumbs/Blind_Shot.ec255cb6eba3de52cb4d8242da3647a9.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/blind_shot.ec255cb6eba3de52cb4d8242da3647a9.png",
+        "thumb": "items/images/ru/thumbs/blind_shot.ec255cb6eba3de52cb4d8242da3647a9.128x128.png"
     },
     "ko": {
         "item_name": "블라인드 샷",
         "description": "+40% 발사체 속도\n-4% 정확도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blind_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blind_Shot"
     },
     "de": {
         "item_name": "Blinder Schuss",
         "description": "+40 % Projektilgeschwindigkeit\n-4 % Genauigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Bleibender_Stich",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Bleibender_Stich"
     },
     "fr": {
         "item_name": "Tir Aveugle",
         "description": "+40% de Vitesse des Projectiles\n-4% de Précision",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Col%C3%A8re_Aveugle",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Col%C3%A8re_Aveugle"
     },
     "pt": {
         "item_name": "Blind Shot",
         "description": "+40% de Velocidade do Projétil\n-4% de Precisão",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blind_Shot",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Blind_Shot"
     },
     "zh-hans": {
         "item_name": "盲目射击",
         "description": "+40% 投射物速度\n-4% 精准度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blind_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blind_Shot"
     },
     "zh-hant": {
         "item_name": "盲目射擊",
         "description": "+40% 投射物速度\n-4% 精準",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blind_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blind_Shot"
     },
     "es": {
         "item_name": "Tiro A Ciegas",
         "description": "+40% de velocidad de proyectil\n-4% de precisión",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tiro_a_ciegas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Tiro_a_ciegas"
     },
     "it": {
         "item_name": "Blind Shot",
         "description": "+40% Velocità Proiettile\n-4% Precisione",
-        "wiki_link": "http://warframe.wikia.com/wiki/Blind_Shot",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Blind_Shot"
     },
     "pl": {
         "item_name": "Ślepy Strzał",
         "description": "+40% Prędkość Pocisku\n-4% Celności",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pewny_Strza%C5%82",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pewny_Strza%C5%82"
     },
     "rarity": "rare",
     "max_rank": 3,

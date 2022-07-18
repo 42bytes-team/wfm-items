@@ -1,12 +1,11 @@
 {
     "_id": "59b2a2468d62f4b743a21f31",
     "tags": [
-        "void trader",
-        "secondary",
-        "weapon"
+        "weapon",
+        "secondary"
     ],
-    "icon": "icons/en/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.png",
-    "thumb": "icons/en/thumbs/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.128x128.png",
+    "icon": "items/images/en/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.png",
+    "thumb": "items/images/en/thumbs/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.128x128.png",
     "icon_format": "land",
     "url_name": "prisma_angstrum",
     "tradable": true,
@@ -16,68 +15,57 @@
     "en": {
         "item_name": "Prisma Angstrum",
         "description": "Imbued with the finest Prisma crystal, this refined Angstrum features boosted charge and reload speeds.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Angstrum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Angstrum"
     },
     "ru": {
         "item_name": "Ангстрем Призма",
         "description": "Украшенный лучшими призматическими кристаллами, этот Ангстрем имеет увеличенные скорости накопления заряда и перезарядки.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BD%D0%B3%D1%81%D1%82%D1%80%D0%B5%D0%BC_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BD%D0%B3%D1%81%D1%82%D1%80%D0%B5%D0%BC_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0"
     },
     "ko": {
         "item_name": "프리즈마 앙스트럼",
         "description": "최상급의 프리즈마 크리스탈로 꽉 채워 제련된 이 앙스트럼은 기존보다 한층 향상된 충전 및 재장전 속도를 자랑합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Angstrum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Angstrum"
     },
     "de": {
         "item_name": "Prisma Angstrum",
         "description": "Getränkt in feinsten Prisma-Kristallen, bietet diese verfeinerte Angstrum verbesserte Aufladung und Nachladegeschwindigkeit.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Prisma_Angstrum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Prisma_Angstrum"
     },
     "fr": {
         "item_name": "Angstrum Prisma",
         "description": "Imprégné des plus fins cristaux Prisma, cet Angstrum raffiné possède une vitesse de charge et de rechargement améliorée.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Angstrum_Prisma",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Angstrum_Prisma"
     },
     "pt": {
         "item_name": "Angstrum Prisma",
         "description": "Imbuída com os cristais prisma mais finos que há, esta Angstrum refinada apresenta um aumento no tempo de carregamento de disparo e em sua Velocidade de Recarga.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Angstrum",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Angstrum"
     },
     "zh-hans": {
         "item_name": "棱晶 安格斯壮",
         "description": "（英文：PRISMA ANGSTRUM）灌注了最出色的棱晶，这款经过精制后的安格斯壮的特点是具有更快的蓄力和装填速度。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Angstrum",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Angstrum"
     },
     "zh-hant": {
         "item_name": "棱晶 安格斯壯",
         "description": "（英文：PRISMA ANGSTRUM）灌注了最出色的棱晶水晶，這款經過精製後的安格斯壯的特點是具有更快的蓄力和裝填速度。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Angstrum",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Angstrum"
     },
     "es": {
         "item_name": "Angstrum Prisma",
         "description": "Imbuida con el cristal prisma más fino, esta Angstrum refinada se caracteriza por tener una velocidad de recarga y carga mejorada.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Angstrum_Prisma",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Angstrum_Prisma"
     },
     "it": {
         "item_name": "Prisma Angstrum",
         "description": "Permeato con il cristallo Prisma più bello, questo raffinato Angstrum offre velocità di carica e di ricarica aumentati.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Angstrum",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Angstrum"
     },
     "pl": {
         "item_name": "Angstrum Prisma",
         "description": "Przepojony najwyższej jakości kryształami Prisma, ten wyrafinowany Angstrum cechuje się poprawionym czasem ładowania i prędkością przeładowania.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Angstrum_Prisma",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Angstrum_Prisma"
     },
     "mastery_level": 8,
     "trading_tax": 2000

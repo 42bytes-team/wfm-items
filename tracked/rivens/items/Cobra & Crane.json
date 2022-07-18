@@ -3,9 +3,11 @@
     "url_name": "cobra_and_crane",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/cobra_and_crane.41a0914a2e6890b42e7ab2175a8d9c1c.png",
-    "thumb": "icons/en/thumbs/cobra_and_crane.41a0914a2e6890b42e7ab2175a8d9c1c.128x128.png",
+    "icon": "items/images/en/cobra_and_crane.41a0914a2e6890b42e7ab2175a8d9c1c.png",
+    "thumb": "items/images/en/thumbs/cobra_and_crane.41a0914a2e6890b42e7ab2175a8d9c1c.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/PacifistShieldAndSword/PacifistShieldSword"
     },

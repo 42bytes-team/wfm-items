@@ -1,13 +1,13 @@
 {
     "_id": "54a74454e779892d5e5155b4",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "nyx"
     ],
-    "icon": "icons/en/Pacifying_Bolts.32b252d058ca581b2d51bc487a6d1679.png",
-    "thumb": "icons/en/thumbs/Pacifying_Bolts.32b252d058ca581b2d51bc487a6d1679.128x128.png",
+    "icon": "items/images/en/pacifying_bolts.32b252d058ca581b2d51bc487a6d1679.png",
+    "thumb": "items/images/en/thumbs/pacifying_bolts.32b252d058ca581b2d51bc487a6d1679.128x128.png",
     "icon_format": "port",
     "url_name": "pacifying_bolts",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Pacifying Bolts",
         "description": "Psychic Bolts Augment: Affected enemies will be confused for 10s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pacifying_Bolts",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pacifying_Bolts"
     },
     "ru": {
         "item_name": "Пацифицирующие Заряды",
         "description": "Улучшение способности «Псионические Заряды»: враги будут оглушены на 10 c.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%86%D0%B8%D1%84%D0%B8%D1%86%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
-        "icon": "icons/ru/Pacifying_Bolts.7e1f6261c40a3f1251bc6abc1daad6d2.png",
-        "thumb": "icons/ru/thumbs/Pacifying_Bolts.7e1f6261c40a3f1251bc6abc1daad6d2.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/pacifying_bolts.7e1f6261c40a3f1251bc6abc1daad6d2.png",
+        "thumb": "items/images/ru/thumbs/pacifying_bolts.7e1f6261c40a3f1251bc6abc1daad6d2.128x128.png"
     },
     "ko": {
         "item_name": "패시파잉 볼츠",
         "description": "사이킥 볼츠 개조: 영향을 받은 적이 10초 동안 혼란 상태에 빠집니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pacifying_Bolts",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pacifying_Bolts"
     },
     "de": {
         "item_name": "Befriedende Bolzen",
         "description": "Psychische Bolzen Augment: Betroffene Gegner werden für 10 s verwirrt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Befriedende_Bolzen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Befriedende_Bolzen"
     },
     "fr": {
         "item_name": "Carreaux Pacificateurs",
         "description": "Augmentation de Carreaux Psychiques: Les ennemis touchés seront confus et désorientés pendant 10s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Carreaux_Pacificateurs",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Carreaux_Pacificateurs"
     },
     "pt": {
         "item_name": "Pacifying Bolts",
         "description": "Ampliação Psychic Bolts: Inimigos afetados ficarão confusos durante 10s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pacifying_Bolts",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Pacifying_Bolts"
     },
     "zh-hans": {
         "item_name": "抚慰之风",
         "description": "精神飞刃强化：受攻击的敌人将陷入 10 秒困惑状态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pacifying_Bolts",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pacifying_Bolts"
     },
     "zh-hant": {
         "item_name": "撫慰之風",
         "description": "精神飛刃強化：受攻擊的敵人將陷入 10 秒困惑狀態。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pacifying_Bolts",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pacifying_Bolts"
     },
     "es": {
         "item_name": "Haces Pacificadores",
         "description": "Aumento de Haces psíquicos: los enemigos afectados estarán confundidos por 10s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Haces_pacificadores",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Haces_pacificadores"
     },
     "it": {
         "item_name": "Pacifying Bolts",
         "description": "Potenziamento Psychic Bolts: Stordisce i nemici colpiti per 10s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pacifying_Bolts",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Pacifying_Bolts"
     },
     "pl": {
         "item_name": "Ogłuszające Sztylety",
         "description": "Modyfikacja Psionicznych Sztyletów: Trafieni wrogowie będą zdezorientowani przez 10s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Og%C5%82uszaj%C4%85ce_Sztylety",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Og%C5%82uszaj%C4%85ce_Sztylety"
     },
     "rarity": "rare",
     "max_rank": 3,

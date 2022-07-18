@@ -1,14 +1,13 @@
 {
     "_id": "573b80450ec44a47787a6915",
     "tags": [
+        "weapon",
         "prime",
         "secondary",
-        "weapon",
-        "pistol",
         "blueprint"
     ],
-    "icon": "icons/en/Akstiletto_Prime_Set.a88c0a1e43ba462af7cc44efd01a7044.png",
-    "thumb": "icons/en/thumbs/Akstiletto_Prime_Set.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
+    "icon": "items/images/en/akstiletto_prime_blueprint.a88c0a1e43ba462af7cc44efd01a7044.png",
+    "thumb": "items/images/en/thumbs/akstiletto_prime_blueprint.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "akstiletto_prime_blueprint",
@@ -28,255 +27,57 @@
     "en": {
         "item_name": "Akstiletto Prime Blueprint",
         "description": "Stylish, discreet and accurate, perfect for the Tenno of distinction.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Neo A1 Relic (Rare)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Neo A4 Relic (Rare)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "Lith A2 Relic (Rare)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "Lith A1 Relic (Rare)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime"
     },
     "ru": {
-        "item_name": "Акстилетто Прайм: Чертеж",
+        "item_name": "Акстилетто Прайм (Чертеж)",
         "description": "Стильные, неброские и точные - идеально подходят выдающимся Тэнно.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D1%82%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Нео A1 (Редкий)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Реликвия Нео A4 (Редкий)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "Реликвия Лит A2 (Редкий)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "Реликвия Лит A1 (Редкий)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D1%82%D0%BE_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "아크스틸레토 프라임 설계도",
         "description": "절제되면서도 세련된 모습으로 정확한 탄환을 날리는 이 권총은 탁월한 텐노들에게 완벽하게 들어맞는 무기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "네오 A1 성유물 (레어)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "네오 A4 성유물 (레어)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "리스 A2 성유물 (레어)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "리스 A1 성유물 (레어)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Akstiletto_Prime"
     },
     "de": {
-        "item_name": "Akstiletto Prime: Blaupause",
+        "item_name": "Akstiletto Prime Blaupause",
         "description": "Stilvoll, diskret und präzise; perfekt für einen Tenno von Rang und Namen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Neo-relikt: A1 (Selten)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Neo-relikt: A4 (Selten)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "Lith-relikt: A2 (Selten)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "Lith-relikt: A1 (Selten)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Akstiletto_Prime"
     },
     "fr": {
-        "item_name": "Akstiletto Prime - Schéma",
+        "item_name": "Akstiletto Prime (Schéma)",
         "description": "Stylés, discrets et précis, parfaits pour les Tenno distingués.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Relique Neo A1 (Rare)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Relique Neo A4 (Rare)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "Relique Lith A2 (Rare)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "Relique Lith A1 (Rare)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Akstiletto_Prime"
     },
     "pt": {
-        "item_name": "Akstiletto Prime: Diagrama",
+        "item_name": "Akstiletto Prime (Diagrama)",
         "description": "Refinadas, discretas e precisas - perfeita para todos os Tennos.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Neo A1 (Raro)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Relíquia Neo A4 (Raro)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "Relíquia Lith A2 (Raro)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "Relíquia Lith A1 (Raro)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Akstiletto_Prime"
     },
     "zh-hans": {
         "item_name": "史提托双枪 Prime 蓝图",
         "description": "（英文：AKSTILETTO PRIME）时尚、稳定而精准，非常适合那些喜欢与众不同的 Tenno 们。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "中纪 A1 遗物 (稀有)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "中纪 A4 遗物 (稀有)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "古纪 A2 遗物 (稀有)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "古纪 A1 遗物 (稀有)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime"
     },
     "zh-hant": {
         "item_name": "史提托雙槍 Prime 藍圖",
         "description": "（英文：AKSTILETTO PRIME）格調高雅時尚、周到而且精準，非常適合給與眾不同的 Tenno 使用。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "中紀 A1 遺物 (稀有)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "中紀 A4 遺物 (稀有)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "古紀 A2 遺物 (稀有)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "古紀 A1 遺物 (稀有)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Akstiletto_Prime"
     },
     "es": {
         "item_name": "Plano de Akstiletto Prime",
         "description": "Elegante, discreta y precisa, perfecta para el tenno de distinción.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo A1 (Raro)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Reliquia Neo A4 (Raro)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "Reliquia Lith A2 (Raro)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "Reliquia Lith A1 (Raro)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Akstiletto_Prime"
     },
     "it": {
-        "item_name": "Akstiletto Prime Blueprint",
+        "item_name": "Akstiletto Prime (Schema)",
         "description": "Elegante, discreto ed accurato, perfetto per i Tenno di distinzione.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo A1 (Rare)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Reliquia Neo A4 (Rare)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "Reliquia Lith A2 (Rare)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "Reliquia Lith A1 (Rare)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Akstiletto_Prime"
     },
     "pl": {
-        "item_name": "Akstiletto Prime: Schemat",
+        "item_name": "Akstiletto Prime - Schemat",
         "description": "Stylowe, dyskretne i celne, doskonałe dla odznaczenia Tenno.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akstiletto_Prime",
-        "drop": [
-            {
-                "name": "Relikt Neo A1 (Rzadki)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Relikt Neo A4 (Rzadki)",
-                "link": "neo_a4_relic"
-            },
-            {
-                "name": "Relikt Lith A2 (Rzadki)",
-                "link": "lith_a2_relic"
-            },
-            {
-                "name": "Relikt Lith A1 (Rzadki)",
-                "link": "lith_a1_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Akstiletto_Prime"
     },
     "mastery_level": 10,
     "ducats": 100,

@@ -1,15 +1,12 @@
 {
     "_id": "5d93ca107ea27b0a87566f62",
     "tags": [
-        "sentinel",
-        "weapon",
-        "prime",
-        "cerebrum",
         "component",
-        "blueprint"
+        "weapon",
+        "prime"
     ],
-    "icon": "icons/en/dethcube_prime_cerebrum.47a0e82681bf367a015928558a9f133b.png",
-    "thumb": "icons/en/thumbs/dethcube_prime_cerebrum.47a0e82681bf367a015928558a9f133b.128x128.png",
+    "icon": "items/images/en/dethcube_prime_cerebrum.47a0e82681bf367a015928558a9f133b.png",
+    "thumb": "items/images/en/thumbs/dethcube_prime_cerebrum.47a0e82681bf367a015928558a9f133b.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/sentinel/prime_cerebrum_128x128.png",
     "url_name": "dethcube_prime_cerebrum",
@@ -29,255 +26,57 @@
     "en": {
         "item_name": "Dethcube Prime Cerebrum",
         "description": "A prime sentinel-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Dethcube_Prime",
-        "drop": [
-            {
-                "name": "Neo D2 Relic (Rare)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "Meso D6 Relic (Rare)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "Meso D4 Relic (Rare)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "Lith D2 Relic (Rare)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Dethcube_Prime"
     },
     "ru": {
         "item_name": "Куб Смерти Прайм: Мозг",
         "description": "Прайм-компонент стража.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D0%B1_%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Нео D2 (Редкий)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "Реликвия Мезо D6 (Редкий)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "Реликвия Мезо D4 (Редкий)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "Реликвия Лит D2 (Редкий)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D0%B1_%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B8_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "데스큐브 프라임 세레브럼",
         "description": "프라임 센티넬 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Dethcube_Prime",
-        "drop": [
-            {
-                "name": "네오 D2 성유물 (레어)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "메소 D6 성유물 (레어)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "메소 D4 성유물 (레어)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "리스 D2 성유물 (레어)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Dethcube_Prime"
     },
     "de": {
         "item_name": "Dethcube Prime: Cerebrum",
         "description": "Eine Komponente für die Herstellung von Prime Wächtern.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Dethcube",
-        "drop": [
-            {
-                "name": "Neo-relikt: D2 (Selten)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "Meso-relikt: D6 (Selten)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "Meso-relikt: D4 (Selten)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "Lith-relikt: D2 (Selten)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Dethcube"
     },
     "fr": {
         "item_name": "Dethcube Prime - Cerveau",
         "description": "Un composant servant à la fabrication de sentinelles Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dethcube_Prime",
-        "drop": [
-            {
-                "name": "Relique Neo D2 (Rare)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "Relique Meso D6 (Rare)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "Relique Meso D4 (Rare)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "Relique Lith D2 (Rare)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dethcube_Prime"
     },
     "pt": {
         "item_name": "Dethcube Prime: Cérebro",
         "description": "Um componente de fabricação de sentinelas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Dethcube_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Neo D2 (Raro)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "Relíquia Meso D6 (Raro)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "Relíquia Meso D4 (Raro)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "Relíquia Lith D2 (Raro)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Dethcube_Prime"
     },
     "zh-hans": {
         "item_name": "死亡魔方 Prime 头部",
         "description": "一个 Prime 守护的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dethcube_Prime",
-        "drop": [
-            {
-                "name": "中纪 D2 遗物 (稀有)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "前纪 D6 遗物 (稀有)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "前纪 D4 遗物 (稀有)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "古纪 D2 遗物 (稀有)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dethcube_Prime"
     },
     "zh-hant": {
         "item_name": "死亡魔方 Prime 頭部",
         "description": "製作 Prime 守護的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dethcube_Prime",
-        "drop": [
-            {
-                "name": "中紀 D2 遺物 (稀有)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "前紀 D6 遺物 (稀有)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "前紀 D4 遺物 (稀有)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "古紀 D2 遺物 (稀有)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dethcube_Prime"
     },
     "es": {
         "item_name": "Cerebro De Dethcube Prime",
         "description": "Un componente de fabricación de centinela prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Dethcube_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Neo D2 (Raro)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "Reliquia Meso D6 (Raro)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "Reliquia Meso D4 (Raro)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "Reliquia Lith D2 (Raro)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Dethcube_Prime"
     },
     "it": {
         "item_name": "Dethcube Prime - Cervello",
         "description": "Un componente Prime per la costruzione di una sentinella.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Dethcube",
-        "drop": [
-            {
-                "name": "Reliquia Neo D2 (Rare)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "Reliquia Meso D6 (Rare)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "Reliquia Meso D4 (Rare)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "Reliquia Lith D2 (Rare)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Dethcube"
     },
     "pl": {
         "item_name": "Dethcube Prime: Mózg",
         "description": "Element wytwarzania Strażników Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dethcube_Prime",
-        "drop": [
-            {
-                "name": "Relikt Neo D2 (Rzadki)",
-                "link": "neo_d2_relic"
-            },
-            {
-                "name": "Relikt Meso D6 (Rzadki)",
-                "link": "meso_d6_relic"
-            },
-            {
-                "name": "Relikt Meso D4 (Rzadki)",
-                "link": "meso_d4_relic"
-            },
-            {
-                "name": "Relikt Lith D2 (Rzadki)",
-                "link": "lith_d2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dethcube_Prime"
     },
     "mastery_level": 0,
     "ducats": 100,

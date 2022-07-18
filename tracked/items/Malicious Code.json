@@ -5,8 +5,8 @@
         "rare",
         "parazon"
     ],
-    "icon": "icons/en/malicious_code.4dd2ce62a4ad80921eec32295055d406.png",
-    "thumb": "icons/en/thumbs/malicious_code.4dd2ce62a4ad80921eec32295055d406.128x128.png",
+    "icon": "items/images/en/malicious_code.4dd2ce62a4ad80921eec32295055d406.png",
+    "thumb": "items/images/en/thumbs/malicious_code.4dd2ce62a4ad80921eec32295055d406.128x128.png",
     "icon_format": "port",
     "url_name": "malicious_code",
     "tradable": true,
@@ -15,69 +15,58 @@
     },
     "en": {
         "item_name": "Malicious Code",
-        "description": "50% chance for enemies within 15m to cower in fear for 8 seconds",
-        "wiki_link": null,
-        "drop": []
+        "description": "50% chance on Mercy Kill for enemies within 15m to cower in fear for 8s",
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Вредоносный Код",
-        "description": "50% шанса, что враги в радиусе 15м будут парализованы от страха на 8 сек.",
-        "wiki_link": null,
-        "drop": []
+        "description": "50% шанса, что при убийстве «Милосердием» враги в радиусе 15 м будут парализованы от страха на 8 сек.",
+        "wiki_link": null
     },
     "ko": {
         "item_name": "말리셔스 코드",
-        "description": "50% 확률로 15m 내의 적들에게 8초 동안 공포 상태 이상 효과 부여",
-        "wiki_link": null,
-        "drop": []
+        "description": "자비의 일격 시 50% 확률로 15m 내의 적들에게 8초 동안 공포 상태 이상 효과 부여",
+        "wiki_link": null
     },
     "de": {
         "item_name": "Schädlicher Code",
-        "description": "50 % Chance, dass Feinde innerhalb von 15 m vor Furcht für 8 s kauern",
-        "wiki_link": null,
-        "drop": []
+        "description": "50 % Chance bei Gnadenstoß, dass Feinde innerhalb von 15 m vor Furcht für 8 s kauern",
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Code Malicieux",
-        "description": "50% de chances que les ennemis à moins de 15m se recroquevillent de peur pendant 8 secondes",
-        "wiki_link": null,
-        "drop": []
+        "description": "50% de chances sur élimination par Miséricorde que les ennemis à moins de 15m se recroquevillent de peur pendant 8s",
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Malicious Code",
-        "description": "50% de chance de amedrontar os inimigos em um raio de 15m durante 8s",
-        "wiki_link": null,
-        "drop": []
+        "description": "50% de chance de executar Finalizações de Misericórdia nos inimigos em um raio de 15m durante 8s",
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "恶毒指令",
-        "description": "50% 几率使 15 米范围内的敌人进入恐惧状态 8 秒",
-        "wiki_link": null,
-        "drop": []
+        "description": "怜悯之击有 50% 几率使 15 米范围内的敌人进入恐惧状态 8 秒",
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "惡意荼害",
-        "description": "50% 的機率使 15 公尺內的敵人畏縮於恐懼之中，持續 8 秒",
-        "wiki_link": null,
-        "drop": []
+        "description": "慈悲斬殺時有 50% 的機率使 15 公尺內的敵人畏縮於恐懼之中，持續 8 秒",
+        "wiki_link": null
     },
     "es": {
         "item_name": "Código Malicioso",
-        "description": "50 % de probabilidad de que los enemigos que estén en un radio de 15 m retrocedan temerosos durante 8 segundos",
-        "wiki_link": null,
-        "drop": []
+        "description": "Asesinato de Misericordia tiene un 50 % de probabilidad de aterrorizar a los enemigos dentro de un radio de 15 m durante 8 s",
+        "wiki_link": null
     },
     "it": {
         "item_name": "Malicious Code",
-        "description": "50% probabilità che i nemici nel raggio di 15m indietreggino impauriti per 8 secondi",
-        "wiki_link": null,
-        "drop": []
+        "description": "50% di probabilità all'uccisione Mercy che i nemici nel raggio di 15m indietreggino impauriti per 8s",
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Złośliwe Oprogramowanie",
-        "description": "50% szansy, że wrogowie w promieniu 15m będą kulić się ze strachu przez 8 sekund",
-        "wiki_link": null,
-        "drop": []
+        "description": "Przy zabiciu Miłosierdziem: 50% szansy na sparaliżowanie strachem przeciwników w zasięgu 15 na 8s",
+        "wiki_link": null
     },
     "rarity": "rare",
     "trading_tax": 8000

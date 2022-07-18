@@ -1,14 +1,13 @@
 {
     "_id": "5655c4c7b66f832e1ad87d50",
     "tags": [
-        "prime",
         "mod",
         "legendary",
-        "rifle",
-        "primary"
+        "primary",
+        "assault_rifle"
     ],
-    "icon": "icons/en/Primed_Rifle_Ammo_Mutation.d7261c0bfbca0a7e8f26bf24257d172a.png",
-    "thumb": "icons/en/thumbs/Primed_Rifle_Ammo_Mutation.d7261c0bfbca0a7e8f26bf24257d172a.128x128.png",
+    "icon": "items/images/en/primed_rifle_ammo_mutation.d7261c0bfbca0a7e8f26bf24257d172a.png",
+    "thumb": "items/images/en/thumbs/primed_rifle_ammo_mutation.d7261c0bfbca0a7e8f26bf24257d172a.128x128.png",
     "icon_format": "port",
     "url_name": "primed_rifle_ammo_mutation",
     "tradable": true,
@@ -18,70 +17,59 @@
     "en": {
         "item_name": "Primed Rifle Ammo Mutation",
         "description": "Converts unused Ammo Pickups into Primary Weapon Ammo. Pistol <AMMO_MUTATION> 14 and Shotgun/Sniper <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Rifle_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Rifle_Ammo_Mutation"
     },
     "ru": {
         "item_name": "Мутатор Прайм: Винтовка",
-        "description": "Преобразует неиспользуемые боеприпасы в патроны для Основного оружия. Пистолет <AMMO_MUTATION> 14 и Дробовик/Снайпер. <AMMO_MUTATION> 28.",
+        "description": "Преобразует неиспользуемые боеприпасы в патроны для основного оружия. Пистолет <AMMO_MUTATION> 14 и дробовик/снайпер. <AMMO_MUTATION> 28.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC_%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B0",
-        "icon": "icons/ru/Primed_Rifle_Ammo_Mutation.e860d1ae213ab977dbf8b769b6c8e1af.png",
-        "thumb": "icons/ru/thumbs/Primed_Rifle_Ammo_Mutation.e860d1ae213ab977dbf8b769b6c8e1af.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/primed_rifle_ammo_mutation.e860d1ae213ab977dbf8b769b6c8e1af.png",
+        "thumb": "items/images/ru/thumbs/primed_rifle_ammo_mutation.e860d1ae213ab977dbf8b769b6c8e1af.128x128.png"
     },
     "ko": {
         "item_name": "프라임드 라이플 애모 뮤테이션",
         "description": "사용되지 않는 탄약 드롭 아이템을 주무기 탄약으로 변환합니다. 권총/소총 탄약 변환량: <AMMO_MUTATION>14, 산탄총/저격총 탄약 변환량: <AMMO_MUTATION>28.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Rifle_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Rifle_Ammo_Mutation"
     },
     "de": {
         "item_name": "Primed Munition-wandler: Gewehr",
         "description": "Wandelt unbenutzte Munition in Primärwaffenmunition um. Pistole <AMMO_MUTATION> 14 & Schrotflinte/Scharfschützengewehr <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Munitionswandler_Gewehr",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Munitionswandler_Gewehr"
     },
     "fr": {
         "item_name": "Mutation De Fusil Accrue",
         "description": "Convertit les munitions ramassées inutilisées en munitions pour arme Principale; <AMMO_MUTATION> 14 Pistolet et <AMMO_MUTATION> 28 Fusil à Pompe/Sniper.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mutation_de_Fusil_Accrue",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mutation_de_Fusil_Accrue"
     },
     "pt": {
         "item_name": "Primed Rifle Ammo Mutation",
         "description": "Converte coletáveis de munição em munição para Armas Primárias. Pistola <AMMO_MUTATION> 14 e Escopeta/Rifle de Precisão <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Pistol_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Pistol_Ammo_Mutation"
     },
     "zh-hans": {
         "item_name": "步枪弹药转换 Prime",
         "description": "将未使用的弹药转换成主要武器的弹药。手枪 <AMMO_MUTATION> 14 及霰弹枪/狙击枪 <AMMO_MUTATION> 28。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Rifle_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Rifle_Ammo_Mutation"
     },
     "zh-hant": {
         "item_name": "步槍彈藥轉換 Prime",
         "description": "將未使用的彈藥轉換成主武器的彈藥。手槍 <AMMO_MUTATION> 14 及霰彈槍/狙擊槍 <AMMO_MUTATION> 28。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Rifle_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Rifle_Ammo_Mutation"
     },
     "es": {
         "item_name": "Mutación De Munición De Rifle Prime",
         "description": "Convierte la munición recogida no utilizada en munición de arma primaria. Pistola <AMMO_MUTATION> 14 y escopeta/francotirador <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mutaci%C3%B3n_de_munici%C3%B3n_de_rifle_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Mutaci%C3%B3n_de_munici%C3%B3n_de_rifle_Prime"
     },
     "it": {
         "item_name": "Primed Rifle Ammo Mutation",
         "description": "Converte le munizioni inutilizzate raccolte in munizioni per l'arma Primaria. Pistola <AMMO_MUTATION> 14 e Fucile a Pompa/da Cecchino <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Pistol_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Pistol_Ammo_Mutation"
     },
     "pl": {
         "item_name": "Mutator Karabinowy Prime",
         "description": "Przekształca nieużywaną podniesioną amunicję w Amunicję Broni Głównej. Od Broni Bocznej daje <AMMO_MUTATION> 14, a od Strzelb/Specjalnej daje <AMMO_MUTATION> 28.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Rifle_Ammo_Mutation",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Rifle_Ammo_Mutation"
     },
     "rarity": "legendary",
     "max_rank": 10,

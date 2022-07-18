@@ -3,9 +3,11 @@
     "url_name": "prova",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/prova.81054da7c6c20e79abd36521923fa925.png",
-    "thumb": "icons/en/thumbs/prova.81054da7c6c20e79abd36521923fa925.128x128.png",
+    "icon": "items/images/en/prova.81054da7c6c20e79abd36521923fa925.png",
+    "thumb": "items/images/en/thumbs/prova.81054da7c6c20e79abd36521923fa925.128x128.png",
     "icon_format": "land",
+    "disposition": 1.4,
+    "mastery_level": 3,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/ClanTech/Energy/ElectroProd"
     },

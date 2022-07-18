@@ -1,14 +1,13 @@
 {
     "_id": "581d0c4ed5f9e290fa2e959f",
     "tags": [
-        "prime",
         "mod",
         "legendary",
-        "rifle",
-        "primary"
+        "primary",
+        "rifle"
     ],
-    "icon": "icons/en/Primed_Cryo_Rounds.6f4f3f7dd369e80de462cac282f21d63.png",
-    "thumb": "icons/en/thumbs/Primed_Cryo_Rounds.6f4f3f7dd369e80de462cac282f21d63.128x128.png",
+    "icon": "items/images/en/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.png",
+    "thumb": "items/images/en/thumbs/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.128x128.png",
     "icon_format": "port",
     "url_name": "primed_cryo_rounds",
     "tradable": true,
@@ -18,70 +17,59 @@
     "en": {
         "item_name": "Primed Cryo Rounds",
         "description": "+165% Cold",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Cryo_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Cryo_Rounds"
     },
     "ru": {
         "item_name": "Крио Патроны Прайм",
         "description": "+165% урона холодом",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D0%BE_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "icon": "icons/ru/Primed_Cryo_Rounds.3552affd29bcbdcc1bd0a9b1b1741479.png",
-        "thumb": "icons/ru/thumbs/Primed_Cryo_Rounds.3552affd29bcbdcc1bd0a9b1b1741479.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/primed_cryo_rounds.3552affd29bcbdcc1bd0a9b1b1741479.png",
+        "thumb": "items/images/ru/thumbs/primed_cryo_rounds.3552affd29bcbdcc1bd0a9b1b1741479.128x128.png"
     },
     "ko": {
         "item_name": "프라임드 크라이오 라운즈",
         "description": "+165% 냉기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Cryo_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Cryo_Rounds"
     },
     "de": {
         "item_name": "Primed Kryokugeln",
         "description": "+165 % Kälte",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Kryokugeln",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Kryokugeln"
     },
     "fr": {
         "item_name": "Balles Cryogéniques Accrues",
         "description": "+165% Glace",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Balles_Cryog%C3%A9niques_Accrues",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Balles_Cryog%C3%A9niques_Accrues"
     },
     "pt": {
         "item_name": "Primed Cryo Rounds",
         "description": "+165% de Glacial",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Cryo_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Cryo_Rounds"
     },
     "zh-hans": {
         "item_name": "低温弹头 Prime",
         "description": "+165% 冰冻伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Cryo_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Cryo_Rounds"
     },
     "zh-hant": {
         "item_name": "低溫彈頭 Prime",
         "description": "+165% 冰凍傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Cryo_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Cryo_Rounds"
     },
     "es": {
         "item_name": "Munición Criogénica Prime",
         "description": "+165% de frío",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Munici%C3%B3n_criog%C3%A9nica_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Munici%C3%B3n_criog%C3%A9nica_Prime"
     },
     "it": {
         "item_name": "Primed Cryo Rounds",
         "description": "+165% Ghiaccio",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Cryo_Rounds",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Cryo_Rounds"
     },
     "pl": {
         "item_name": "Krioamunicja Prime",
         "description": "+165% Obrażeń Zimna",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krioamunicja_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krioamunicja_Prime"
     },
     "rarity": "legendary",
     "max_rank": 10,

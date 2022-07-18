@@ -2,14 +2,13 @@
     "_id": "5eadc6c604d55c027d23a6e2",
     "tags": [
         "rare",
-        "archwing",
-        "arch-gun",
-        "archgun",
         "primary",
-        "mod"
+        "mod",
+        "archwing",
+        "archgun"
     ],
-    "icon": "icons/en/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.png",
-    "thumb": "icons/en/thumbs/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.128x128.png",
+    "icon": "items/images/en/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.png",
+    "thumb": "items/images/en/thumbs/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.128x128.png",
     "icon_format": "port",
     "url_name": "ballista_measure",
     "tradable": true,
@@ -19,68 +18,57 @@
     "en": {
         "item_name": "Ballista Measure",
         "description": "+20% Range",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure"
     },
     "ru": {
         "item_name": "Баллистическая Мера",
         "description": "+20% к дальность поражения",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%9C%D0%B5%D1%80%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%9C%D0%B5%D1%80%D0%B0"
     },
     "ko": {
         "item_name": "발리스타 메져",
         "description": "+20% 사거리",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure"
     },
     "de": {
         "item_name": "Ballistische Maßnahme",
         "description": "+20 % Reichweite",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Ballistische_Batterie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ballistische_Batterie"
     },
     "fr": {
         "item_name": "Mesure De Baliste",
         "description": "+20% de Portée",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure"
     },
     "pt": {
         "item_name": "Ballista Measure",
         "description": "+20% de Alcance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure"
     },
     "zh-hans": {
         "item_name": "弩炮测距",
         "description": "+20% 攻击范围",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballista_Measure",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballista_Measure"
     },
     "zh-hant": {
         "item_name": "弩砲測距",
         "description": "+20% 攻擊範圍",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballista_Measure",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ballista_Measure"
     },
     "es": {
         "item_name": "Calibrar La Ballesta",
         "description": "+20% de alcance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure"
     },
     "it": {
         "item_name": "Ballista Measure",
         "description": "+20% Portata",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ballista_Measure"
     },
     "pl": {
         "item_name": "Pomiar Balistyczny",
         "description": "+20% Zasięg",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Bateria_Balistyczna",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Bateria_Balistyczna"
     },
     "rarity": "rare",
     "max_rank": 3,

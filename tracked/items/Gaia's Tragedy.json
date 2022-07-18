@@ -2,11 +2,12 @@
     "_id": "561537e3b66f836f9fb6b4e8",
     "tags": [
         "mod",
+        "rare",
         "stance",
-        "rare"
+        "fists"
     ],
-    "icon": "icons/en/Gaia's_Tragedy.00ab7027cd3116017ba7758e21af423a.png",
-    "thumb": "icons/en/thumbs/Gaia's_Tragedy.00ab7027cd3116017ba7758e21af423a.128x128.png",
+    "icon": "items/images/en/gaias_tragedy.00ab7027cd3116017ba7758e21af423a.png",
+    "thumb": "items/images/en/thumbs/gaias_tragedy.00ab7027cd3116017ba7758e21af423a.128x128.png",
     "icon_format": "port",
     "url_name": "gaias_tragedy",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Gaia's Tragedy",
         "description": "Slow, powerful strikes.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gaia%27s_Tragedy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Gaia%27s_Tragedy"
     },
     "ru": {
         "item_name": "Трагедия Гайи",
         "description": "Медленные, сильные удары.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D1%8F_%D0%93%D0%B0%D0%B9%D0%B8",
-        "icon": "icons/ru/Gaia's_Tragedy.f0476080e5cd3607a380cf1967a60389.png",
-        "thumb": "icons/ru/thumbs/Gaia's_Tragedy.f0476080e5cd3607a380cf1967a60389.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/gaias_tragedy.f0476080e5cd3607a380cf1967a60389.png",
+        "thumb": "items/images/ru/thumbs/gaias_tragedy.f0476080e5cd3607a380cf1967a60389.128x128.png"
     },
     "ko": {
         "item_name": "가이아스 트라제디",
         "description": "느리고도 강력한 일격을 가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gaia%27s_Tragedy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Gaia%27s_Tragedy"
     },
     "de": {
         "item_name": "Gaia's Tragödie",
         "description": "Langsame, kraftvolle Schläge.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gaias_Trag%C3%B6die",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gaias_Trag%C3%B6die"
     },
     "fr": {
         "item_name": "Tragédie De Gaïa",
         "description": "Des coups lents, mais puissants.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Trag%C3%A9die_de_Ga%C3%AFa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Trag%C3%A9die_de_Ga%C3%AFa"
     },
     "pt": {
         "item_name": "Gaia's Tragedy",
         "description": "Ataques lentos e poderosos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gaia's_Tragedy",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Gaia's_Tragedy"
     },
     "zh-hans": {
         "item_name": "母神悲歌",
         "description": "缓慢而沉重的打击",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gaia%27s_Tragedy",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gaia%27s_Tragedy"
     },
     "zh-hant": {
         "item_name": "母神悲歌",
         "description": "緩慢而沉重的打擊",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gaia%27s_Tragedy",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gaia%27s_Tragedy"
     },
     "es": {
         "item_name": "Tragedia De Gaia",
         "description": "Lentos y poderosos ataques.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tragedia_de_Gaia",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Tragedia_de_Gaia"
     },
     "it": {
         "item_name": "Gaia's Tragedy",
         "description": "Colpi lenti e vigorosi.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gaia's_Tragedy",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Gaia's_Tragedy"
     },
     "pl": {
         "item_name": "Tragedia Gai",
         "description": "Powolne, potężne ciosy.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tragedia_Gai",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tragedia_Gai"
     },
     "rarity": "rare",
     "max_rank": 3,

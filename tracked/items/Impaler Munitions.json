@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a4da",
     "tags": [
-        "mod",
-        "uncommon",
+        "secondary",
         "pvp",
-        "secondary"
+        "uncommon",
+        "mod",
+        "pistol"
     ],
-    "icon": "icons/en/Impaler_Munitions.5bbb1a625def945ac6d5ca590f947fd6.png",
-    "thumb": "icons/en/thumbs/Impaler_Munitions.5bbb1a625def945ac6d5ca590f947fd6.128x128.png",
+    "icon": "items/images/en/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.png",
+    "thumb": "items/images/en/thumbs/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.128x128.png",
     "icon_format": "port",
     "url_name": "impaler_munitions",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Impaler Munitions",
         "description": "20% of Damage converted into Puncture",
-        "wiki_link": "https://warframe.fandom.com/wiki/Impaler_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Impaler_Munitions"
     },
     "ru": {
         "item_name": "Игольчатые Боеприпасы",
         "description": "Преобразует 20% урона в пронзающий",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B3%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D1%8B%D0%B5_%D0%B1%D0%BE%D0%B5%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%81%D1%8B",
-        "icon": "icons/ru/Impaler_Munitions.249de9b6a52ff0bfd6adab70b3b5b1b1.png",
-        "thumb": "icons/ru/thumbs/Impaler_Munitions.249de9b6a52ff0bfd6adab70b3b5b1b1.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/impaler_munitions.249de9b6a52ff0bfd6adab70b3b5b1b1.png",
+        "thumb": "items/images/ru/thumbs/impaler_munitions.249de9b6a52ff0bfd6adab70b3b5b1b1.128x128.png"
     },
     "ko": {
         "item_name": "임페일러 뮤니션즈",
         "description": "20%의 피해를 관통으로 전환합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Impaler_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Impaler_Munitions"
     },
     "de": {
         "item_name": "Pfähler-munition",
         "description": "20 % des Schadens wird in Durchschlagsschaden umgewandelt",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pf%C3%A4hler-Munition",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Pf%C3%A4hler-Munition"
     },
     "fr": {
         "item_name": "Munitions Empalantes",
         "description": "20% des Dégâts convertis en Perforation",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Munitions_Ensanglant%C3%A9es",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Munitions_Ensanglant%C3%A9es"
     },
     "pt": {
         "item_name": "Impaler Munitions",
         "description": "20% Dano convertido em Perfurante",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hunter_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hunter_Munitions"
     },
     "zh-hans": {
         "item_name": "穿刺弹药",
         "description": "20％的伤害转换为穿刺",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Impaler_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Impaler_Munitions"
     },
     "zh-hant": {
         "item_name": "穿刺彈藥",
         "description": "20% 的傷害轉換為穿刺",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Impaler_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Impaler_Munitions"
     },
     "es": {
         "item_name": "Municiones Empaladoras",
         "description": "20% del daño es convertido a perforación",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Municiones_empaladoras",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Municiones_empaladoras"
     },
     "it": {
         "item_name": "Impaler Munitions",
         "description": "20% del Danno convertito in Perforazione",
-        "wiki_link": "http://warframe.wikia.com/wiki/Impaler_Munitions",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Impaler_Munitions"
     },
     "pl": {
         "item_name": "Amunicja Palownika",
         "description": "20% Obrażeń jest przeliczone na Obrażenia Przebijające",
-        "wiki_link": "http://warframe.wikia.com/wiki/Impaler_Munitions",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Impaler_Munitions"
     },
     "rarity": "uncommon",
     "max_rank": 3,

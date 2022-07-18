@@ -3,11 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "pvp",
-        "warframe"
+        "warframe",
+        "volt"
     ],
-    "icon": "icons/en/Kinetic_Collision.167f9268ab9b025ea7c2c2c911d04ff6.png",
-    "thumb": "icons/en/thumbs/Kinetic_Collision.167f9268ab9b025ea7c2c2c911d04ff6.128x128.png",
+    "icon": "items/images/en/kinetic_collision.167f9268ab9b025ea7c2c2c911d04ff6.png",
+    "thumb": "items/images/en/thumbs/kinetic_collision.167f9268ab9b025ea7c2c2c911d04ff6.128x128.png",
     "icon_format": "port",
     "url_name": "kinetic_collision",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Kinetic Collision",
         "description": "Speed Augment: Running into an opponent increases the duration of Speed by 4s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kinetic_Collision",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Kinetic_Collision"
     },
     "ru": {
         "item_name": "Кинетическое Столкновение",
         "description": "Улучшение Ускорения: прохождение через оппонентов во время действия способности увеличит время действия на 4c.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Kinetic_Collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.png",
-        "thumb": "icons/ru/thumbs/Kinetic_Collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/kinetic_collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.png",
+        "thumb": "items/images/ru/thumbs/kinetic_collision.e7a710bf15c79f1f6b3cfc7cf8ba106d.128x128.png"
     },
     "ko": {
         "item_name": "키네틱 콜리젼",
         "description": "스피드 개조: 스피드의 영향을 받은 상태에서 적과 충돌하면 지속 시간이 4초 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kinetic_Collision",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Kinetic_Collision"
     },
     "de": {
         "item_name": "Kinetische Kollision",
         "description": "Geschwindigkeit Augment: In einen Verbündeten zu laufen erhöht die Dauer von Geschwindigkeit um 4 s.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Kinetische_Kollision",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Kinetische_Kollision"
     },
     "fr": {
         "item_name": "Collision Cinétique",
         "description": "Augmentation de Vitesse: Entrer en contact avec un adversaire ajoute 4s à la durée de Vitesse.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Collision_Cin%C3%A9tique",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Collision_Cin%C3%A9tique"
     },
     "pt": {
         "item_name": "Kinetic Collision",
         "description": "Ampliação Speed: Correr por um oponente aumenta a duração de Speed em 4s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Kinetic_Friction",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Kinetic_Friction"
     },
     "zh-hans": {
         "item_name": "动能碰撞",
         "description": "加速强化：每撞击到一名敌人可延长加速持续时间 4 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kinetic_Collision",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kinetic_Collision"
     },
     "zh-hant": {
         "item_name": "動能碰撞",
         "description": "加速強化：每撞擊到一名敵人可延長加速持續時間 4 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kinetic_Collision",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kinetic_Collision"
     },
     "es": {
         "item_name": "Choque Cinético",
         "description": "Aumento de Velocidad: toparse con un oponente aumenta la duración de velocidad por 4s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Choque_cin%C3%A9tico",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Choque_cin%C3%A9tico"
     },
     "it": {
         "item_name": "Kinetic Collision",
         "description": "Potenziamento Speed: Correre contro un avversario aumenta la durata di Speed di 4s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Collision",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Kinetic_Collision"
     },
     "pl": {
         "item_name": "Kolizja Kinetyczna",
         "description": "Modyfikacja Prędkości: Wpadnięcie na przeciwnika zwiększa czas trwania Prędkości o 4s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kolizja_Kinetyczna",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kolizja_Kinetyczna"
     },
     "rarity": "rare",
     "max_rank": 3,

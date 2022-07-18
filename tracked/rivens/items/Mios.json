@@ -3,9 +3,11 @@
     "url_name": "mios",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/mios.da75e577f209d8954d9b44c80994f32e.png",
-    "thumb": "icons/en/thumbs/mios.da75e577f209d8954d9b44c80994f32e.128x128.png",
+    "icon": "items/images/en/mios.da75e577f209d8954d9b44c80994f32e.png",
+    "thumb": "items/images/en/thumbs/mios.da75e577f209d8954d9b44c80994f32e.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/Melee/Swords/Mios/Mios"
     },

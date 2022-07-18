@@ -2,11 +2,12 @@
     "_id": "57c73be094b4b0f159ab5e15",
     "tags": [
         "mod",
+        "rare",
         "warframe",
-        "rare"
+        "ember"
     ],
-    "icon": "icons/en/immolated_radiance.8f20ac882e024bad8676d16c90f0f666.png",
-    "thumb": "icons/en/thumbs/immolated_radiance.8f20ac882e024bad8676d16c90f0f666.128x128.png",
+    "icon": "items/images/en/immolated_radiance.8f20ac882e024bad8676d16c90f0f666.png",
+    "thumb": "items/images/en/thumbs/immolated_radiance.8f20ac882e024bad8676d16c90f0f666.128x128.png",
     "icon_format": "port",
     "url_name": "immolated_radiance",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Immolated Radiance",
         "description": "Immolation Augment: Allies within Affinity range will receive 50% of Immolation's Damage Reduction.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Immolated_Radiance",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Immolated_Radiance"
     },
     "ru": {
         "item_name": "Сияние Самосожжения",
         "description": "Улучшение способности «Самосожжение»: союзники, находящиеся в пределах радиуса синтеза, получат 50% снижения урона от «Самосожжения».",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5_%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D0%BE%D0%B6%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5_%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D0%BE%D0%B6%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F"
     },
     "ko": {
         "item_name": "이몰레이티드 레이디언스",
         "description": "이몰레이션 개조: 숙련도 공유 범위 내의 아군들에게 이몰레이션이 부여하는 피해 감소의 50%가 적용됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Immolated_Radiance",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Immolated_Radiance"
     },
     "de": {
         "item_name": "Glänzendes Feueropfer",
         "description": "Feueropfer Augment: Verbündete in Reichweite zum Teilen von Erfahrung, erhalten 50 % der Schadensreduzierung von Feueropfer.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Immolated_Radiance",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Immolated_Radiance"
     },
     "fr": {
         "item_name": "Radiance Immolante",
         "description": "Augmentation Immolation: les alliés à portée d'Affinité bénéficieront de 50% de la Réduction des Dégâts d'Immolation.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Radiance_Immolante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Radiance_Immolante"
     },
     "pt": {
         "item_name": "Immolated Radiance",
         "description": "Ampliação Immolation: Aliados dentro do alcance da Afinidade receberão 50% da Redução de Dano da Immolation.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Immolated_Radiance",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Immolated_Radiance"
     },
     "zh-hans": {
         "item_name": "献祭之辉",
         "description": "浴火献祭强化：经验分享范围内的友军可获得 50% 的浴火献祭伤害减免。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Immolated_Radiance",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Immolated_Radiance"
     },
     "zh-hant": {
         "item_name": "獻祭光環",
-        "description": "獻祭強化：於經驗分享範圍內的盟友可獲得獻祭 50% 的傷害減免。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Immolated_Radiance",
-        "drop": []
+        "description": "獻祭強化：於經驗共享範圍內的盟友可獲得獻祭 50% 的傷害減免。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Immolated_Radiance"
     },
     "es": {
         "item_name": "Resplandor Inmolado",
         "description": "Aumento de Inmolación: los aliados dentro del rango de afinidad recibirán 50% de la reducción de daño de la Inmolación.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Resplandor_inmolado",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Resplandor_inmolado"
     },
     "it": {
         "item_name": "Immolated Radiance",
         "description": "Potenziamento Immolation: Gli alleati nel raggio di Affinità riceveranno 50% della riduzione del Danno di Immolation.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Immolated_Radiance",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Immolated_Radiance"
     },
     "pl": {
         "item_name": "Blask Samospalenia",
         "description": "Modyfikacja Samospalenia: Sojusznicy w zasięgu Dzielonej Biegłości otrzymają 50% Redukcji Obrażeń Samospalenia.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Samospalenie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Samospalenie"
     },
     "rarity": "rare",
     "max_rank": 3,

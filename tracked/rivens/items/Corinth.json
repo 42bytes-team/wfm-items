@@ -3,9 +3,11 @@
     "url_name": "corinth",
     "group": "primary",
     "riven_type": "shotgun",
-    "icon": "icons/en/corinth.1c30d611482746b4c0a4ef2d83be750c.png",
-    "thumb": "icons/en/thumbs/corinth.1c30d611482746b4c0a4ef2d83be750c.128x128.png",
+    "icon": "items/images/en/corinth.1c30d611482746b4c0a4ef2d83be750c.png",
+    "thumb": "items/images/en/thumbs/corinth.1c30d611482746b4c0a4ef2d83be750c.128x128.png",
     "icon_format": "land",
+    "disposition": 1.15,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/TnHeavyShotgun/TnHeavyShotgunGun"
     },

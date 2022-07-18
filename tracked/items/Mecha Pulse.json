@@ -5,8 +5,8 @@
         "warframe",
         "rare"
     ],
-    "icon": "icons/en/Mecha_Pulse.ef4fbfb1218faa280cece59aa493f4f8.png",
-    "thumb": "icons/en/thumbs/Mecha_Pulse.ef4fbfb1218faa280cece59aa493f4f8.128x128.png",
+    "icon": "items/images/en/mecha_pulse.ef4fbfb1218faa280cece59aa493f4f8.png",
+    "thumb": "items/images/en/thumbs/mecha_pulse.ef4fbfb1218faa280cece59aa493f4f8.128x128.png",
     "icon_format": "port",
     "url_name": "mecha_pulse",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Mecha Pulse",
         "description": "Killing a Marked Enemy grants +60% Armor for 20s for each enemy within 30m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Pulse"
     },
     "ru": {
         "item_name": "Мех-пульс",
         "description": "Убийство отмеченного врага добавит 60% брони на 20с за каждого врага в радиусе 30м.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B5%D1%85-%D0%9F%D1%83%D0%BB%D1%8C%D1%81",
-        "icon": "icons/ru/Mecha_Pulse.937c1a95bb7431bac07819cadc1a45a7.png",
-        "thumb": "icons/ru/thumbs/Mecha_Pulse.937c1a95bb7431bac07819cadc1a45a7.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/mecha_pulse.937c1a95bb7431bac07819cadc1a45a7.png",
+        "thumb": "items/images/ru/thumbs/mecha_pulse.937c1a95bb7431bac07819cadc1a45a7.128x128.png"
     },
     "ko": {
         "item_name": "메카 펄스",
         "description": "마킹된 적을 처치시 30m 안의 적 하나당 20초 동안 방어력이 +60% 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Pulse"
     },
     "de": {
         "item_name": "Mecha: Puls",
         "description": "Einen markierten Feind zu töten, gibt +60 % Rüstung für 20 s, für jeden Gegner innerhalb von 30 m.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Mecha:_Puls",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Mecha:_Puls"
     },
     "fr": {
         "item_name": "Pilonnage Mecha",
         "description": "Tuer un Ennemi Marqué donne +60% d'Armure pendant 20s pour chaque ennemi dans un rayon de 30m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pilonnage_Mecha",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pilonnage_Mecha"
     },
     "pt": {
         "item_name": "Mecha Pulse",
-        "description": "Matar um inimigo marcado concede +60% Armadura por 20s para cada inimigo no alcance de 30m.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mecha_Pulse",
-        "drop": []
+        "description": "Eliminar um inimigo marcado concederá +60% de Armadura durante 20s por cada inimigo em um raio de 30m.",
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mecha_Pulse"
     },
     "zh-hans": {
         "item_name": "机甲 脉冲",
         "description": "击杀被标记的敌人时，30 米内每有一名敌人，可使你获得+60% 护甲，持续 20 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mecha_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mecha_Pulse"
     },
     "zh-hant": {
         "item_name": "機甲 脈衝",
         "description": "擊殺被標記的敵人將依照 30 公尺內的敵人數量獲得持續 20 秒的 +60% 護甲加成。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mecha_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mecha_Pulse"
     },
     "es": {
         "item_name": "Pulso De Mecha",
         "description": "Asesinar un enemigo marcado otorga +60% de armadura durante 20s por cada enemigo en un radio de 30m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pulso_de_Meca",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pulso_de_Meca"
     },
     "it": {
         "item_name": "Mecha Pulse",
         "description": "Uccidere un Nemico Segnalato garantisce +60% Armatura per 20s per ogni nemico entro 30m.",
-        "wiki_link": "http://warframe.fandom.com/wiki/Mecha_Pulse",
-        "drop": []
+        "wiki_link": "http://warframe.fandom.com/wiki/Mecha_Pulse"
     },
     "pl": {
         "item_name": "Mecha Impuls",
         "description": "Zabicie oznaczonego wroga zapewnia +60% Pancerza na 20s, za każdego wroga w zasięgu 30m.",
-        "wiki_link": "http://warframe.fandom.com/wiki/Mecha_Pulse",
-        "drop": []
+        "wiki_link": "http://warframe.fandom.com/wiki/Mecha_Pulse"
     },
     "rarity": "rare",
     "max_rank": 3,

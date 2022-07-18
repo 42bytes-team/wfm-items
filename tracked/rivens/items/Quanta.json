@@ -3,9 +3,11 @@
     "url_name": "quanta",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/quanta.a1b49d5f5d5c3c46b7f0cd130369559a.png",
-    "thumb": "icons/en/thumbs/quanta.a1b49d5f5d5c3c46b7f0cd130369559a.128x128.png",
+    "icon": "items/images/en/quanta.a1b49d5f5d5c3c46b7f0cd130369559a.png",
+    "thumb": "items/images/en/thumbs/quanta.a1b49d5f5d5c3c46b7f0cd130369559a.128x128.png",
     "icon_format": "port",
+    "disposition": 1.4,
+    "mastery_level": 4,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle"
     },

@@ -2,11 +2,12 @@
     "_id": "54a74455e779892d5e5156dc",
     "tags": [
         "mod",
+        "rare",
         "stance",
-        "rare"
+        "scythes"
     ],
-    "icon": "icons/en/Stalking_Fan.a17c1259f9849fd88e1dabb9139ad84a.png",
-    "thumb": "icons/en/thumbs/Stalking_Fan.a17c1259f9849fd88e1dabb9139ad84a.128x128.png",
+    "icon": "items/images/en/stalking_fan.a17c1259f9849fd88e1dabb9139ad84a.png",
+    "thumb": "items/images/en/thumbs/stalking_fan.a17c1259f9849fd88e1dabb9139ad84a.128x128.png",
     "icon_format": "port",
     "url_name": "stalking_fan",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Stalking Fan",
         "description": "Lunging spirals and shattering combos.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stalking_Fan",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stalking_Fan"
     },
     "ru": {
         "item_name": "Настигающий Веер",
         "description": "Спиральные удары с плеча и раскалывающие комбинации.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%92%D0%B5%D0%B5%D1%80",
-        "icon": "icons/ru/Stalking_Fan.77ed2bf2ad533f13c33b48c07872006e.png",
-        "thumb": "icons/ru/thumbs/Stalking_Fan.77ed2bf2ad533f13c33b48c07872006e.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/stalking_fan.77ed2bf2ad533f13c33b48c07872006e.png",
+        "thumb": "items/images/ru/thumbs/stalking_fan.77ed2bf2ad533f13c33b48c07872006e.128x128.png"
     },
     "ko": {
         "item_name": "스토킹 팬",
         "description": "나선형을 그리면서 돌진을 이용해 상대를 산산조각내는 연속기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stalking_Fan",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stalking_Fan"
     },
     "de": {
         "item_name": "Schleichender Fächer",
         "description": "Ausfallende Wirbel und zerschmetternde Kombos.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schleichender_F%C3%A4cher",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schleichender_F%C3%A4cher"
     },
     "fr": {
         "item_name": "Éventail Harcelant",
         "description": "Fentes tournoyantes accompagnées de combos fracassants.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89ventail_Harcelant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89ventail_Harcelant"
     },
     "pt": {
         "item_name": "Stalking Fan",
         "description": "Espirais arremessados e combos despedaçadores.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stalking_Fan",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Stalking_Fan"
     },
     "zh-hans": {
         "item_name": "缠旋风切",
         "description": "毁灭性的冲刺螺旋连段。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stalking_Fan",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stalking_Fan"
     },
     "zh-hant": {
         "item_name": "纏旋風切",
         "description": "毀滅性的衝刺螺旋連段。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stalking_Fan",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stalking_Fan"
     },
     "es": {
         "item_name": "Abanico Acechante",
         "description": "Acometidas en espiral y combos aplastantes.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Abanico_acechante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Abanico_acechante"
     },
     "it": {
         "item_name": "Stalking Fan",
         "description": "Spirali aeree con combo dirompenti.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stalking_Fan",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Stalking_Fan"
     },
     "pl": {
         "item_name": "Myśliwski Wachlarz",
         "description": "Przedzierające spirale i roztrzaskujące kombinacje.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/My%C5%9Bliwski_Wachlarz",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/My%C5%9Bliwski_Wachlarz"
     },
     "rarity": "rare",
     "max_rank": 3,

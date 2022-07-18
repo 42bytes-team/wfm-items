@@ -3,9 +3,11 @@
     "url_name": "falcor",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/falcor.83897b2d4fbcbd312c70be4e25ea3b92.png",
-    "thumb": "icons/en/thumbs/falcor.83897b2d4fbcbd312c70be4e25ea3b92.128x128.png",
+    "icon": "items/images/en/falcor.83897b2d4fbcbd312c70be4e25ea3b92.png",
+    "thumb": "items/images/en/thumbs/falcor.83897b2d4fbcbd312c70be4e25ea3b92.128x128.png",
     "icon_format": "port",
+    "disposition": 1.3,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGlaive/CrpGlaive"
     },

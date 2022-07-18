@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "garuda"
     ],
-    "icon": "icons/en/blending_talons.fd671126fd4051e8e3addc13ae56d1f0.png",
-    "thumb": "icons/en/thumbs/blending_talons.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon": "items/images/en/blending_talons.fd671126fd4051e8e3addc13ae56d1f0.png",
+    "thumb": "items/images/en/thumbs/blending_talons.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
     "icon_format": "port",
     "url_name": "blending_talons",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Blending Talons",
         "description": "Seeking Talons Augment - Tap to perform a 9m AoE around Garuda. Garuda's Talons gain 100% additional Combo Count Chance when hitting targets affected by Bleed Status.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blending_Talons",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blending_Talons"
     },
     "ru": {
         "item_name": "Измельчающие Когти",
         "description": "Улучшение способности «Рыщущие Когти»: нажмите, чтобы произвести атаку по области в радиусе 9 м вокруг Гаруды. Когти Гаруды получают 100% к шансу увеличить счётчик комбо, если цель находится в статусе кровотечения.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B7%D0%BC%D0%B5%D0%BB%D1%8C%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%9A%D0%BE%D0%B3%D1%82%D0%B8",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B7%D0%BC%D0%B5%D0%BB%D1%8C%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%9A%D0%BE%D0%B3%D1%82%D0%B8"
     },
     "ko": {
         "item_name": "블렌딩 탈론즈",
         "description": "시킹 탈론즈 개조: 짧게 눌러 시전할 시 가루다 주위의 9m 내에 범위 공격을 가합니다. 또한 가루다의 탈론즈로 출혈 상태의 적을 공격할 시 100% 확률로 추가 연속기 카운트를 얻습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blending_Talons",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blending_Talons"
     },
     "de": {
         "item_name": "Fließende Klauen",
         "description": "Suchende Klauen Augment: Antippen, um einen 9 m Schadensbereich um Garuda zu schaffen. Garudas Klauen erhalten eine 100 % Chance auf einen zusätzlichen Kombo-Zähler, wenn sie Ziele treffen, die von Bluten betroffen sind.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sinkende_Klaue",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sinkende_Klaue"
     },
     "fr": {
         "item_name": "Serres Composées",
         "description": "Augmentation des Serres Possédées: Appuyez pour créer une zone d'effet de 9m autour de Garuda. Les Serres de Garuda gagnent 100% de Chances de Points de Combo supplémentaires en touchant des cibles affectées par un Effet de Statut de Saignement.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Serres_Compos%C3%A9es",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Serres_Compos%C3%A9es"
     },
     "pt": {
         "item_name": "Blending Talons",
         "description": "Ampliação Seeking Talons: pressione para realizar um Ataque de Área de 9m em torno da Garuda. As Garras da Garuda ganham 100% Chance de Contagem do Combo adicional ao atingir alvos afetados por Status de Sangramento.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Seeking_Talons",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Seeking_Talons"
     },
     "zh-hans": {
         "item_name": "混沌利爪",
         "description": "穿心利爪强化：点按以在 Garuda 周围进行 9 米的范围攻击。当击中受 流血状态影响的目标时，Garuda 的利爪可获得 100% 的额外连击数几率。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blending_Talons",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blending_Talons"
     },
     "zh-hant": {
         "item_name": "穿絞利爪",
         "description": "穿心利爪強化：輕按施放攻擊 Garuda 9 公尺範圍內的目標。以「Garuda 的利爪」攻擊受出血狀態的敵人，有 100% 的機率獲得額外連擊數。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blending_Talons",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blending_Talons"
     },
     "es": {
         "item_name": "Garras Rebanadoras",
         "description": "Aumento de Garras buscadoras: presiona para realizar un área de efecto de 9m alrededor de Garuda. Las garras de Garuda obtienen un 100% de probabilidad adicional de contador de combo cuando golpean objetivos afectados por estado de sangrado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Garras_buscadoras",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Garras_buscadoras"
     },
     "it": {
         "item_name": "Blending Talons",
         "description": "Potenziamento Seeking Talons: Premi per creare un'Area d'Effetto di 9m attorno a Garuda. Gli Artigli di Garuda guadagnano il 100% di Probabilità Contatore Combo aggiuntiva quando colpiscono dei nemici affetti da Effetto Sanguinamento.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blending_Talons",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blending_Talons"
     },
     "pl": {
         "item_name": "Siekające Szpony",
         "description": "Modyfikacja Poszukujących Szponów - Naciśnij, aby zadać obrażenia obszarowe w promieniu 9m dookoła Garudy. Szpony Garudy zyskują 100% szansy na dodatkowy punkt Licznika Kombo przy trafieniu celów znajdujących się pod efektem Statusu Krwawienia.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Poszukuj%C4%85ce_Szpony",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Poszukuj%C4%85ce_Szpony"
     },
     "rarity": "rare",
     "max_rank": 3,

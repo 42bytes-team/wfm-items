@@ -2,11 +2,12 @@
     "_id": "5740c1879d238d4a03d28518",
     "tags": [
         "mod",
+        "rare",
         "sentinel",
-        "rare"
+        "carrier"
     ],
-    "icon": "icons/en/Looter.eb87275b07df115d778c0b4540e62bca.png",
-    "thumb": "icons/en/thumbs/Looter.eb87275b07df115d778c0b4540e62bca.128x128.png",
+    "icon": "items/images/en/looter.eb87275b07df115d778c0b4540e62bca.png",
+    "thumb": "items/images/en/thumbs/looter.eb87275b07df115d778c0b4540e62bca.128x128.png",
     "icon_format": "port",
     "url_name": "looter",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Looter",
         "description": "Destroys loot crates within 12m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Looter",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Looter"
     },
     "ru": {
         "item_name": "Грабитель",
-        "description": "Уничтожает ящики в радиусе 12м.",
+        "description": "Уничтожает ящики в радиусе 12 м.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D0%B0%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
-        "icon": "icons/ru/Looter.8c8b5d356d30759d5cb0ad5f2ba3be36.png",
-        "thumb": "icons/ru/thumbs/Looter.8c8b5d356d30759d5cb0ad5f2ba3be36.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/looter.8c8b5d356d30759d5cb0ad5f2ba3be36.png",
+        "thumb": "items/images/ru/thumbs/looter.8c8b5d356d30759d5cb0ad5f2ba3be36.128x128.png"
     },
     "ko": {
         "item_name": "루터",
         "description": "12m 안에 있는 파괴 가능한 아이템 상자를 파괴합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Looter",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Looter"
     },
     "de": {
         "item_name": "Plünderer",
         "description": "Zerstört Beutekisten im Umkreis von 12 m.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pl%C3%BCnderer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Pl%C3%BCnderer"
     },
     "fr": {
         "item_name": "Pilleur",
         "description": "Détruit les caisses de butin dans un rayon de 12m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pilleur",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pilleur"
     },
     "pt": {
         "item_name": "Looter",
         "description": "Destrói contêineres de recursos em 12m de Alcance.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Looter",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Looter"
     },
     "zh-hans": {
         "item_name": "搜刮者",
         "description": "破坏 12 米范围内的战利品储存箱。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Looter",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Looter"
     },
     "zh-hant": {
         "item_name": "搜刮者",
         "description": "破壞 12 公尺範圍內的儲物箱。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Looter",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Looter"
     },
     "es": {
         "item_name": "Saqueador",
         "description": "Destruye las cajas de botín de alrededor, hasta una distancia de 12m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Saqueador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Saqueador"
     },
     "it": {
         "item_name": "Looter",
         "description": "Distrugge le casse di Risorse entro 12m.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Looter",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Looter"
     },
     "pl": {
         "item_name": "Łupieżca",
         "description": "Niszczy kontenery w zasięgu 12m.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Looter",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Looter"
     },
     "rarity": "rare",
     "max_rank": 5,

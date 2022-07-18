@@ -5,8 +5,8 @@
         "uncommon",
         "primary"
     ],
-    "icon": "icons/en/Hunter_Munitions.1c7942f9b55cb2f49605aa4037d98dfd.png",
-    "thumb": "icons/en/thumbs/Hunter_Munitions.1c7942f9b55cb2f49605aa4037d98dfd.128x128.png",
+    "icon": "items/images/en/hunter_munitions.1c7942f9b55cb2f49605aa4037d98dfd.png",
+    "thumb": "items/images/en/thumbs/hunter_munitions.1c7942f9b55cb2f49605aa4037d98dfd.128x128.png",
     "icon_format": "port",
     "url_name": "hunter_munitions",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Hunter Munitions",
         "description": "+30% chance to apply on Critical",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hunter_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hunter_Munitions"
     },
     "ru": {
         "item_name": "Боеприпасы Охотника",
         "description": "+30% к шансу наложить при критическом попадании",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B5%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%81%D1%8B_%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
-        "icon": "icons/ru/Hunter_Munitions.7bf7e38f0c95cd7ac02d2c37b773bc45.png",
-        "thumb": "icons/ru/thumbs/Hunter_Munitions.7bf7e38f0c95cd7ac02d2c37b773bc45.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/hunter_munitions.7bf7e38f0c95cd7ac02d2c37b773bc45.png",
+        "thumb": "items/images/ru/thumbs/hunter_munitions.7bf7e38f0c95cd7ac02d2c37b773bc45.128x128.png"
     },
     "ko": {
         "item_name": "헌터 뮤니션즈",
         "description": "치명타 시 +30% 확률로 베기 상태 이상 적용",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hunter_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hunter_Munitions"
     },
     "de": {
         "item_name": "Jäger: Munition",
         "description": "+30 % Chance bei Krit. Treffer zu verursachen",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/J%C3%A4ger:_Munition",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/J%C3%A4ger:_Munition"
     },
     "fr": {
         "item_name": "Munitions Du Chasseur",
         "description": "+30% de chances d'appliquer sur Critique",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Munitions_du_Chasseur",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Munitions_du_Chasseur"
     },
     "pt": {
         "item_name": "Hunter Munitions",
         "description": "+30% de Chance de aplicar no Acerto Crítico",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hunter_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hunter_Munitions"
     },
     "zh-hans": {
         "item_name": "猎人 战备",
         "description": "+30% 几率在暴击时造成",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter_Munitions"
     },
     "zh-hant": {
         "item_name": "獵者 戰備",
         "description": "+30% 機率在暴擊時造成 切割觸發。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter_Munitions",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter_Munitions"
     },
     "es": {
         "item_name": "Municiones Del Cazador",
         "description": "+30% de probabilidad de aplicar en críticos",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Municiones_del_cazador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Municiones_del_cazador"
     },
     "it": {
         "item_name": "Hunter Munitions",
         "description": "+30% Probabilità di Effetto Taglio con un colpo Critico",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Munitions",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Munitions"
     },
     "pl": {
         "item_name": "Myśliwskie Zaopatrzenie",
         "description": "+30% Szans na zadanie przy trafieniu krytycznym",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/My%C5%9Bliwskie_Zaopatrzenie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/My%C5%9Bliwskie_Zaopatrzenie"
     },
     "rarity": "uncommon",
     "max_rank": 5,

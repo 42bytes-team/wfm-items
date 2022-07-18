@@ -1,11 +1,10 @@
 {
     "_id": "57e91e5cc76eb74c087f492d",
     "tags": [
-        "ayatan_star",
-        "star"
+        "ayatan_star"
     ],
-    "icon": "icons/en/Amber_Ayatan_Star.9657dbb79cc82338d5b3caa62da3e934.png",
-    "thumb": "icons/en/thumbs/Amber_Ayatan_Star.9657dbb79cc82338d5b3caa62da3e934.128x128.png",
+    "icon": "items/images/en/ayatan_amber_star.9657dbb79cc82338d5b3caa62da3e934.png",
+    "thumb": "items/images/en/thumbs/ayatan_amber_star.9657dbb79cc82338d5b3caa62da3e934.128x128.png",
     "icon_format": "port",
     "url_name": "ayatan_amber_star",
     "redirect_from": [
@@ -18,255 +17,57 @@
     "en": {
         "item_name": "Ayatan Amber Star",
         "description": "Place these stars into Ayatan Sculptures to power their movement. May also be a source of Endo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ayatan_Amber_Star",
-        "drop": [
-            {
-                "name": "Requiem IV Relic (Common)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "Requiem III Relic (Common)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "Requiem II Relic (Common)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "Requiem I Relic (Common)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Ayatan_Amber_Star"
     },
     "ru": {
         "item_name": "Звезда Аятан: Янтарь",
         "description": "Поместите эти звезды в скульптуры Аятан, чтобы привести их в движение. Они также могут содержать Эндо.",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%8F%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D1%8B",
-        "drop": [
-            {
-                "name": "Реликвия Реквием IV (Обычный)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "Реликвия Реквием III (Обычный)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "Реликвия Реквием II (Обычный)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "Реликвия Реквием I (Обычный)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%90%D1%8F%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D1%8B"
     },
     "ko": {
         "item_name": "아야탄 앰버 별",
         "description": "이 별들을 아야탄 조각상에 채우면 조각을 움직이도록 만듭니다. 이 별은 엔도를 공급하는 데 사용할 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ayatan_Amber_Star",
-        "drop": [
-            {
-                "name": "레퀴엠 IV 성유물 (커먼)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "레퀴엠 III 성유물 (커먼)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "레퀴엠 II 성유물 (커먼)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "레퀴엠 I 성유물 (커먼)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Ayatan_Amber_Star"
     },
     "de": {
         "item_name": "Ayatan-stern: Amber",
         "description": "Platziere diese Sterne in Ayatan-Skulpturen, um ihre Bewegung zu schüren. Sie könnten auch eine Quelle an Endo sein.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture",
-        "drop": [
-            {
-                "name": "Requiem-relikt: IV (Gewöhnlich)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "Requiem-relikt: III (Gewöhnlich)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "Requiem-relikt: II (Gewöhnlich)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "Requiem-relikt: I (Gewöhnlich)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture"
     },
     "fr": {
         "item_name": "Étoile Ayatan Ambre",
         "description": "Placer ces étoiles dans des Sculptures Ayatan pour alimenter leur mouvement. Peut également être une source d'Endo.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89toile_Ayatan_Cyan",
-        "drop": [
-            {
-                "name": "Relique Requiem IV (Commun)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "Relique Requiem III (Commun)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "Relique Requiem II (Commun)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "Relique Requiem I (Commun)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89toile_Ayatan_Cyan"
     },
     "pt": {
         "item_name": "Estrela Ayatan: Âmbar",
         "description": "Coloque as estrelas em esculturas Ayatan para dar vida a elas. Ela também é uma fonte de Endo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture",
-        "drop": [
-            {
-                "name": "Relíquia Réquiem IV (Comum)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "Relíquia Réquiem III (Comum)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "Relíquia Réquiem II (Comum)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "Relíquia Réquiem I (Comum)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture"
     },
     "zh-hans": {
         "item_name": "阿耶檀识琥珀星",
         "description": "将这些星星置入阿耶檀识塑像之中为其提供动力。也可以作为内融核心的来源。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ayatan_Amber_Star",
-        "drop": [
-            {
-                "name": "安魂 IV 遗物 (常见)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "安魂 III 遗物 (常见)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "安魂 II 遗物 (常见)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "安魂 I 遗物 (常见)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ayatan_Amber_Star"
     },
     "zh-hant": {
         "item_name": "阿耶檀識琥珀星",
         "description": "將這些星星置入阿耶檀識塑像之中為其提供動力。也可以作為内融核心的來源。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ayatan_Amber_Star",
-        "drop": [
-            {
-                "name": "鎮魂 IV 遺物 (常見)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "鎮魂 III 遺物 (常見)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "鎮魂 II 遺物 (常見)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "鎮魂 I 遺物 (常見)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ayatan_Amber_Star"
     },
     "es": {
         "item_name": "Estrella Ayatan Ámbar",
         "description": "Inserta estas estrellas en esculturas Ayatan para estimular su movimiento. También puede ser una fuente de Endo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Estrella_Ayatan",
-        "drop": [
-            {
-                "name": "Reliquia Réquiem IV (Común)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "Reliquia Réquiem III (Común)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "Reliquia Réquiem II (Común)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "Reliquia Réquiem I (Común)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Estrella_Ayatan"
     },
     "it": {
         "item_name": "Stella Ayatan Ambra",
         "description": "Piazza queste stelle nelle Sculture Ayatan per permetterne il movimento. Può essere anche usata come fonte di Endo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture",
-        "drop": [
-            {
-                "name": "Reliquia Requiem IV (Common)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "Reliquia Requiem III (Common)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "Reliquia Requiem II (Common)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "Reliquia Requiem I (Common)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture"
     },
     "pl": {
-        "item_name": "Gwiazda Ayatan — Bursztyn",
+        "item_name": "Gwiazda Ayatan: Bursztyn",
         "description": "Umieść te gwiazdy w Rzeźbach Ayatan, by zasilić ich ruchy. Mogą stanowić także źródło Endo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture",
-        "drop": [
-            {
-                "name": "Relikt Requiem IV (Powszechny)",
-                "link": "requiem_iv_relic"
-            },
-            {
-                "name": "Relikt Requiem III (Powszechny)",
-                "link": "requiem_iii_relic"
-            },
-            {
-                "name": "Relikt Requiem II (Powszechny)",
-                "link": "requiem_ii_relic"
-            },
-            {
-                "name": "Relikt Requiem I (Powszechny)",
-                "link": "requiem_i_relic"
-            }
-        ]
+        "wiki_link": "http://warframe.wikia.com/wiki/Ayatan_Sculpture"
     },
     "trading_tax": 2000
 }

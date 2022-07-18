@@ -3,9 +3,11 @@
     "url_name": "tenet_agendus",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/tenet_agendus.7924a44df9935ad357f046212cc2a774.png",
-    "thumb": "icons/en/thumbs/tenet_agendus.7924a44df9935ad357f046212cc2a774.128x128.png",
+    "icon": "items/images/en/tenet_agendus.7924a44df9935ad357f046212cc2a774.png",
+    "thumb": "items/images/en/thumbs/tenet_agendus.7924a44df9935ad357f046212cc2a774.128x128.png",
     "icon_format": "land",
+    "disposition": 0.8,
+    "mastery_level": 14,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Melee/ShieldAndSword/CrpHammerShield/CrpHammerShield"
     },

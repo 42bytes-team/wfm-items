@@ -2,11 +2,12 @@
     "_id": "5754a30de701ef5844257da8",
     "tags": [
         "mod",
+        "rare",
         "warframe",
-        "rare"
+        "chroma"
     ],
-    "icon": "icons/en/Everlasting_Ward.30d6d7b879924d1cbaaf6e0c1063f2d7.png",
-    "thumb": "icons/en/thumbs/Everlasting_Ward.30d6d7b879924d1cbaaf6e0c1063f2d7.128x128.png",
+    "icon": "items/images/en/everlasting_ward.30d6d7b879924d1cbaaf6e0c1063f2d7.png",
+    "thumb": "items/images/en/thumbs/everlasting_ward.30d6d7b879924d1cbaaf6e0c1063f2d7.128x128.png",
     "icon_format": "port",
     "url_name": "everlasting_ward",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Everlasting Ward",
         "description": "Elemental Ward Augment: Allies that leave the radius will retain the effect for 100% of the remaining duration.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Everlasting_Ward",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Everlasting_Ward"
     },
     "ru": {
         "item_name": "Вечный Страж",
         "description": "Улучшение способности «Элементальный страж»: союзники, покинувшие зону действия способности, сохранят эффект на 100% от оставшегося времени действия способности.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D1%80%D0%B0%D0%B6",
-        "icon": "icons/ru/Everlasting_Ward.69449a39581c9d1070e10d5b6025baf5.png",
-        "thumb": "icons/ru/thumbs/Everlasting_Ward.69449a39581c9d1070e10d5b6025baf5.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/everlasting_ward.69449a39581c9d1070e10d5b6025baf5.png",
+        "thumb": "items/images/ru/thumbs/everlasting_ward.69449a39581c9d1070e10d5b6025baf5.128x128.png"
     },
     "ko": {
         "item_name": "에버라스팅 와드",
         "description": "엘리멘탈 와드 개조: 범위 밖으로 벗어난 아군에게 남은 지속 시간의 100%만큼 효과를 제공합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Everlasting_Ward",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Everlasting_Ward"
     },
     "de": {
         "item_name": "Ewige Abwehr",
         "description": "Elementare Abwehr Augment: Verbündete, die den Radius verlassen, behalten den Effekt für 100 % der verbleibenden Dauer bei.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Ewige_Abwehr",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ewige_Abwehr"
     },
     "fr": {
         "item_name": "Protection Éternelle",
         "description": "Augmentation de Protection Élémentaire: Les Alliés quittant le rayon d'effet conserveront l'effet pendant 100% de la durée restante",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Protection_%C3%89ternelle",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Protection_%C3%89ternelle"
     },
     "pt": {
         "item_name": "Everlasting Ward",
         "description": "Ampliação Elemental Ward: Os aliados que saírem do raio manterão o efeito por 100% de duração restante.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Everlasting_Ward",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Everlasting_Ward"
     },
     "zh-hans": {
         "item_name": "永恒之护",
         "description": "元素之护强化：队友在离开技能范围之后会保留其效果的 100% 剩余持续时间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Everlasting_Ward",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Everlasting_Ward"
     },
     "zh-hant": {
         "item_name": "永恆之護",
         "description": "元素之護強化：盟友在離開技能範圍之後會保留其效果的 100% 剩餘持續時間。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Everlasting_Ward",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Everlasting_Ward"
     },
     "es": {
         "item_name": "Protección Perpetua",
         "description": "Aumento de Protección elemental: los aliados que dejen el radio mantendrán el efecto durante el 100 % de la duración restante.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Protecci%C3%B3n_perpetua",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Protecci%C3%B3n_perpetua"
     },
     "it": {
         "item_name": "Everlasting Ward",
         "description": "Potenziamento Elemental Ward: Gli alleati che escono dal raggio di azione mantengono l'effetto per il 100% della durata rimanente.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Everlasting_Ward",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Everlasting_Ward"
     },
     "pl": {
         "item_name": "Wieczna Straż",
         "description": "Modyfikacja Strażnika Żywiołów: Sojusznicy, którzy opuszczą zasięg umiejętności, zachowają jej efekty na 100% pozostałego czasu trwania.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wieczna_Stra%C5%BC",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wieczna_Stra%C5%BC"
     },
     "rarity": "rare",
     "max_rank": 3,

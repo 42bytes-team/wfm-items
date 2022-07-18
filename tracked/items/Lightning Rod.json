@@ -5,8 +5,8 @@
         "warframe",
         "common"
     ],
-    "icon": "icons/en/Lightning_Rod.d7cb1098d167e8d17cadf6065eb99d34.png",
-    "thumb": "icons/en/thumbs/Lightning_Rod.d7cb1098d167e8d17cadf6065eb99d34.128x128.png",
+    "icon": "items/images/en/lightning_rod.d7cb1098d167e8d17cadf6065eb99d34.png",
+    "thumb": "items/images/en/thumbs/lightning_rod.d7cb1098d167e8d17cadf6065eb99d34.128x128.png",
     "icon_format": "port",
     "url_name": "lightning_rod",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Lightning Rod",
         "description": "+60% Electricity Resistance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lightning_Rod",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lightning_Rod"
     },
     "ru": {
         "item_name": "Громоотвод",
         "description": "+60% сопротивления электричеству",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%BE%D1%82%D0%B2%D0%BE%D0%B4",
-        "icon": "icons/ru/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.png",
-        "thumb": "icons/ru/thumbs/Lightning_Rod.bb0468d373994025bb9a8eafc72333b2.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/lightning_rod.bb0468d373994025bb9a8eafc72333b2.png",
+        "thumb": "items/images/ru/thumbs/lightning_rod.bb0468d373994025bb9a8eafc72333b2.128x128.png"
     },
     "ko": {
         "item_name": "라이트닝 로드",
         "description": "+60% 전기 저항",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lightning_Rod",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lightning_Rod"
     },
     "de": {
         "item_name": "Blitzableiter",
         "description": "+60 % Elektrizitätswiderstand",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Blitzableiter",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Blitzableiter"
     },
     "fr": {
         "item_name": "Paratonnerre",
         "description": "+60% de Résistance à l'Électricité",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Paratonnerre",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Paratonnerre"
     },
     "pt": {
         "item_name": "Lightning Rod",
         "description": "+60% de Resistência Elétrica",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lightning_Rod",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lightning_Rod"
     },
     "zh-hans": {
         "item_name": "避雷针",
         "description": "+60% 电击抗性",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lightning_Rod",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lightning_Rod"
     },
     "zh-hant": {
         "item_name": "避雷針",
         "description": "+60% 電擊抗性",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lightning_Rod",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lightning_Rod"
     },
     "es": {
         "item_name": "Pararrayos",
         "description": "+60% de resistencia a la electricidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pararrayos",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pararrayos"
     },
     "it": {
         "item_name": "Lightning Rod",
         "description": "+60% Resistenza Elettricità",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Lightning_Rod",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Lightning_Rod"
     },
     "pl": {
         "item_name": "Piorunochron",
         "description": "+60% Odporności na Obrażenia Elektryczne",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Piorunochron",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Piorunochron"
     },
     "rarity": "common",
     "max_rank": 5,

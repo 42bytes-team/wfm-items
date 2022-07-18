@@ -1,15 +1,14 @@
 {
     "_id": "54a74454e779892d5e515600",
     "tags": [
-        "archwing",
-        "arch-gun",
-        "archwing gun",
         "uncommon",
         "primary",
-        "mod"
+        "mod",
+        "archwing",
+        "archgun"
     ],
-    "icon": "icons/en/Polar_Magazine.b1ff9ac7249fcc44429a6fa9153236fb.png",
-    "thumb": "icons/en/thumbs/Polar_Magazine.b1ff9ac7249fcc44429a6fa9153236fb.128x128.png",
+    "icon": "items/images/en/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.png",
+    "thumb": "items/images/en/thumbs/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.128x128.png",
     "icon_format": "port",
     "url_name": "polar_magazine",
     "tradable": true,
@@ -19,70 +18,59 @@
     "en": {
         "item_name": "Polar Magazine",
         "description": "+120% Cold",
-        "wiki_link": "https://warframe.fandom.com/wiki/Polar_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Polar_Magazine"
     },
     "ru": {
         "item_name": "Полярный Магазин",
         "description": "+120% урона холодом",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
-        "icon": "icons/ru/Polar_Magazine.edad942e345b3cd0cd74a51ecd0529af.png",
-        "thumb": "icons/ru/thumbs/Polar_Magazine.edad942e345b3cd0cd74a51ecd0529af.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/polar_magazine.edad942e345b3cd0cd74a51ecd0529af.png",
+        "thumb": "items/images/ru/thumbs/polar_magazine.edad942e345b3cd0cd74a51ecd0529af.128x128.png"
     },
     "ko": {
         "item_name": "폴라 매거진",
         "description": "+120% 냉기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Polar_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Polar_Magazine"
     },
     "de": {
         "item_name": "Polarmagazin",
         "description": "+120 % Kälte",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Polarmagazin",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Polarmagazin"
     },
     "fr": {
-        "item_name": "Magasin Polaire",
+        "item_name": "Chargeur Polaire",
         "description": "+120% Glace",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magasin_Polaire",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magasin_Polaire"
     },
     "pt": {
         "item_name": "Polar Magazine",
         "description": "+120% de Glacial",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Polar_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Polar_Magazine"
     },
     "zh-hans": {
         "item_name": "极地弹仓",
         "description": "+120% 冰冻伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Polar_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Polar_Magazine"
     },
     "zh-hant": {
         "item_name": "極地彈倉",
         "description": "+120% 冰凍傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Polar_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Polar_Magazine"
     },
     "es": {
         "item_name": "Cargador Polar",
         "description": "+120% de frío",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_polar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_polar"
     },
     "it": {
         "item_name": "Polar Magazine",
         "description": "+120% Ghiaccio",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Slip_Magazine",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Slip_Magazine"
     },
     "pl": {
         "item_name": "Polarny Magazynek",
         "description": "+120% Obrażeń Zimna",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Polarny_Magazynek",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Polarny_Magazynek"
     },
     "rarity": "uncommon",
     "max_rank": 5,

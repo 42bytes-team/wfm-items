@@ -1,15 +1,14 @@
 {
     "_id": "54a74455e779892d5e5156db",
     "tags": [
-        "archwing",
-        "arch-gun",
-        "archwing gun",
         "uncommon",
         "primary",
-        "mod"
+        "mod",
+        "archwing",
+        "archgun"
     ],
-    "icon": "icons/en/Electrified_Barrel.4578f59f618c4033e9f3b00df2bbc921.png",
-    "thumb": "icons/en/thumbs/Electrified_Barrel.4578f59f618c4033e9f3b00df2bbc921.128x128.png",
+    "icon": "items/images/en/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.png",
+    "thumb": "items/images/en/thumbs/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.128x128.png",
     "icon_format": "port",
     "url_name": "electrified_barrel",
     "tradable": true,
@@ -19,70 +18,59 @@
     "en": {
         "item_name": "Electrified Barrel",
         "description": "+120% Electricity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Electrified_Barrel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Electrified_Barrel"
     },
     "ru": {
         "item_name": "Электрофицированный Ствол",
         "description": "+120% урона электричеством",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%A1%D1%82%D0%B2%D0%BE%D0%BB",
-        "icon": "icons/ru/Electrified_Barrel.00ebf4443bf4408fec5ebe46eb71a47d.png",
-        "thumb": "icons/ru/thumbs/Electrified_Barrel.00ebf4443bf4408fec5ebe46eb71a47d.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/electrified_barrel.00ebf4443bf4408fec5ebe46eb71a47d.png",
+        "thumb": "items/images/ru/thumbs/electrified_barrel.00ebf4443bf4408fec5ebe46eb71a47d.128x128.png"
     },
     "ko": {
         "item_name": "일렉트리파이드 배럴",
         "description": "+120% 전기",
-        "wiki_link": "http://warframe.wikia.com/wiki/Electrified_Barrel",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Electrified_Barrel"
     },
     "de": {
         "item_name": "Elektrisierter Lauf",
         "description": "+120 % Elektrizität",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Elektrifizierter_Lauf",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Elektrifizierter_Lauf"
     },
     "fr": {
         "item_name": "Canon Électrifié",
         "description": "+120% Électrique",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Canon_%C3%89lectrifi%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Canon_%C3%89lectrifi%C3%A9"
     },
     "pt": {
         "item_name": "Electrified Barrel",
         "description": "+120% de Elétrico",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Electrified_Barrel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Electrified_Barrel"
     },
     "zh-hans": {
         "item_name": "带电枪管",
         "description": "+120% 电击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Electrified_Barrel",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Electrified_Barrel"
     },
     "zh-hant": {
         "item_name": "帶電槍管",
         "description": "+120% 電擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Electrified_Barrel",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Electrified_Barrel"
     },
     "es": {
         "item_name": "Cañón Electrificado",
         "description": "+120% de electricidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ca%C3%B1%C3%B3n_electrificado",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ca%C3%B1%C3%B3n_electrificado"
     },
     "it": {
         "item_name": "Electrified Barrel",
         "description": "+120% Elettrico",
-        "wiki_link": "http://warframe.wikia.com/wiki/Electrified_Barrel",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Electrified_Barrel"
     },
     "pl": {
         "item_name": "Naelektryzowana Lufa",
         "description": "+120% Obrażeń Elektrycznych",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Naelektryzowana_Lufa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Naelektryzowana_Lufa"
     },
     "rarity": "uncommon",
     "max_rank": 5,

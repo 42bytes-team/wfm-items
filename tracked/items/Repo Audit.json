@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "sentinel"
+        "sentinel",
+        "hound"
     ],
-    "icon": "icons/en/repo_audit.2ec213871337071fee003cce84c8a64c.png",
-    "thumb": "icons/en/thumbs/repo_audit.2ec213871337071fee003cce84c8a64c.128x128.png",
+    "icon": "items/images/en/repo_audit.2ec213871337071fee003cce84c8a64c.png",
+    "thumb": "items/images/en/thumbs/repo_audit.2ec213871337071fee003cce84c8a64c.128x128.png",
     "icon_format": "port",
     "url_name": "repo_audit",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Repo Audit",
         "description": "Emits a magnetic pulse that disarms enemies within 30m.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Аудит Соглашения",
         "description": "Создаёт магнитный импульс, обезоруживающий врагов в радиусе 30 м.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "리포 오디트",
         "description": "30m 내의 적들을 무장 해제시키는 전자기 펄스를 방출합니다.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Prüfung: Sachpfändung",
         "description": "Sendet einen magnetischen Impuls aus, der Gegner innerhalb von 30 m entwaffnet.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Audit De Repo",
         "description": "Émet une impulsion magnétique qui désarme les ennemis à moins de 30m.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Repo Audit",
         "description": "Emite um pulso magnético que desarma os inimigos em um raio de 30m.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "回购审计",
         "description": "释放一道电磁脉冲，解除 30 米内敌人的武装。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "索回審核",
         "description": "釋放一道磁力脈衝來解除 30 公尺內敵人的武裝。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Inspección De Embargos",
         "description": "Emite un pulso magnético que desarma a los enemigos en un radio de 30 m.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Repo Audit",
         "description": "Emette un impulso magnetico che disarma i nemici entro 30m.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Audyt Windykacji",
         "description": "Emituje impuls magnetyczny, który rozbraja wrogów w zasięgu 30m.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "rare",
     "max_rank": 5,

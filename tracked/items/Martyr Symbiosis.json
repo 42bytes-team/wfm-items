@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "kavat"
+        "kavat",
+        "vulpaphyla"
     ],
-    "icon": "icons/en/martyr_symbiosis.fd671126fd4051e8e3addc13ae56d1f0.png",
-    "thumb": "icons/en/thumbs/martyr_symbiosis.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon": "items/images/en/martyr_symbiosis.fd671126fd4051e8e3addc13ae56d1f0.png",
+    "thumb": "items/images/en/thumbs/martyr_symbiosis.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
     "icon_format": "port",
     "url_name": "martyr_symbiosis",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Martyr Symbiosis",
         "description": "Drains and stores 20 Health from corpses within 25m up to 20% of their Master's Health. Sacrifices itself to heal their master if they fall below 10% Health.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis"
     },
     "ru": {
         "item_name": "Симбиоз Мученика",
         "description": "Вытягивает и накапливает 20 здоровья из трупов в радиусе 25 м, вплоть до 20% от здоровья хозяина. Если уровень здоровья хозяина падает ниже 10% - приносит себя в жертву, чтобы исцелить его.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%B7_%D0%9C%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%B7_%D0%9C%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0"
     },
     "ko": {
         "item_name": "마르터 심바이오시스",
         "description": "주위 25m 내에 있는 시체들로부터 20만큼의 체력을 흡수하여 주인 체력의 40%까지 저장해둡니다. 주인의 체력이 10% 아래로 떨어질 시 자신을 희생하여 주인을 회복시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis"
     },
     "de": {
         "item_name": "Märtyrer-symbiose",
         "description": "Entzieht und speichert 20 Gesundheit von Leichen innerhalb von 25 m, bis zu 20 % der max. Gesundheit des Meisters. Opfert sich selbst, um seinen Meister zu heilen, sollte seine Gesundheit unter 10 % fallen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis"
     },
     "fr": {
         "item_name": "Symbiose Martyre",
         "description": "Draine et stocke 20 points de Santé des cadavres à moins de 25m jusqu'à 20% de la Santé de leur maître. Il se sacrifie pour soigner son maître si sa Santé descend en dessous de 10%.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Symbiose_Martyre",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Symbiose_Martyre"
     },
     "pt": {
         "item_name": "Martyr Symbiosis",
         "description": "Drena e armazena 20 de Vida oriunda dos cadáveres que estão dentro de 25m, até um limite de 40% da Vida Máxima do seu Mestre. O mascote se sacrificará para preencher a Vida do seu Mestre, caso a Vida dele fique abaixo de 10%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis"
     },
     "zh-hans": {
         "item_name": "忠勇共生",
         "description": "从 25 米内的尸体处，吸取并存储 20 生命值，上限为其主人生命值的 40%。如果主人的生命值低于 10%，那么它会牺牲自己来治疗它的主人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Martyr_Symbiosis"
     },
     "zh-hant": {
         "item_name": "殉難共生",
         "description": "汲取並儲存 25 公尺內的屍體的 20 點生命值，上限為主人生命值的 40%。如果主人的生命值低於 10% 時，它會犧牲自己的生命以治癒主人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Martyr_Symbiosis"
     },
     "es": {
         "item_name": "Simbiosis Del Mártir",
         "description": "Drena y almacena 20 de salud de cadáveres dentro de 25 m hasta un 40 % de la salud de su maestro. Se sacrifica para curar a su maestro si su salud cae por debajo del 10 %.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis"
     },
     "it": {
         "item_name": "Martyr Symbiosis",
         "description": "Assorbe e immagazzina 20 Salute dai cadaveri entro 25m fino al 20% della Salute del loro Padrone. L'animale sacrificherà se stesso se il padrone scende al di sotto del 10% di Salute.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis"
     },
     "pl": {
         "item_name": "Symbioza Męczennika",
         "description": "Wysysa i zachowuje 20 Życia ze zwłok w promieniu 25m aż po 20% Maks. Życia swojego Tenno. Zwierzę poświęci się, jeśli Życie jego Pana spadnie poniżej 10%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Martyr_Symbiosis"
     },
     "rarity": "rare",
     "max_rank": 3,

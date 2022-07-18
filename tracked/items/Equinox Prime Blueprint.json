@@ -5,8 +5,8 @@
         "prime",
         "warframe"
     ],
-    "icon": "icons/en/Equinox_Prime_Set.1163c3dad7a8ffce02af7d475fc0ccd4.png",
-    "thumb": "icons/en/thumbs/Equinox_Prime_Set.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+    "icon": "items/images/en/equinox_prime_blueprint.1163c3dad7a8ffce02af7d475fc0ccd4.png",
+    "thumb": "items/images/en/thumbs/equinox_prime_blueprint.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "equinox_prime_blueprint",
@@ -26,299 +26,57 @@
     "en": {
         "item_name": "Equinox Prime Blueprint",
         "description": "Night and Day in final balance; the graceful perfection of the one that walks the borders.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Equinox_Prime",
-        "drop": [
-            {
-                "name": "Axi T4 Relic (Uncommon)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "Axi K5 Relic (Uncommon)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "Axi T3 Relic (Uncommon)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "Meso A2 Relic (Uncommon)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "Lith P4 Relic (Uncommon)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox_Prime"
     },
     "ru": {
-        "item_name": "Эквинокс Прайм: Чертеж",
+        "item_name": "Эквинокс Прайм (Чертеж)",
         "description": "День и ночь в своём наилучшем балансе; грациозное совершенство того, что ходит по грани.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%BD%D0%BE%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси T4 (Необычный)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "Реликвия Акси K5 (Необычный)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "Реликвия Акси T3 (Необычный)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "Реликвия Мезо A2 (Необычный)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "Реликвия Лит P4 (Необычный)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%BD%D0%BE%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "이쿼녹스 프라임 설계도",
         "description": "낮과 밤의 조화. 경계를 걷는 자의 우아한 완벽함.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Equinox_Prime",
-        "drop": [
-            {
-                "name": "액시 T4 성유물 (언커먼)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "액시 K5 성유물 (언커먼)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "액시 T3 성유물 (언커먼)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "메소 A2 성유물 (언커먼)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "리스 P4 성유물 (언커먼)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Equinox_Prime"
     },
     "de": {
-        "item_name": "Equinox Prime: Blaupause",
+        "item_name": "Equinox Prime Blaupause",
         "description": "Nacht und Tag endlich im Einklang; die anmutige Perfektion desjenigen, der auf den Grenzen schreitet.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Equinox/Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: T4 (Ungewöhnlich)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "Axi-relikt: K5 (Ungewöhnlich)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "Axi-relikt: T3 (Ungewöhnlich)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "Meso-relikt: A2 (Ungewöhnlich)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "Lith-relikt: P4 (Ungewöhnlich)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Equinox/Prime"
     },
     "fr": {
-        "item_name": "Equinox Prime - Schéma",
+        "item_name": "Equinox Prime (Schéma)",
         "description": "Le Jour et la Nuit dans leur forme parfaitement équilibrée, la grâce parfaite de l'être parcourant les lisière.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Equinox_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi T4 (Inhabituel)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "Relique Axi K5 (Inhabituel)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "Relique Axi T3 (Inhabituel)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "Relique Meso A2 (Inhabituel)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "Relique Lith P4 (Inhabituel)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Equinox_Prime"
     },
     "pt": {
-        "item_name": "Equinox Prime: Diagrama",
+        "item_name": "Equinox Prime (Diagrama)",
         "description": "O Dia e a Noite em harmonia absoluta. A plenitude honrosa para os que andam entre limites.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Equinox_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi T4 (Incomum)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "Relíquia Axi K5 (Incomum)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "Relíquia Axi T3 (Incomum)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "Relíquia Meso A2 (Incomum)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "Relíquia Lith P4 (Incomum)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Equinox_Prime"
     },
     "zh-hans": {
         "item_name": "Equinox Prime 蓝图",
         "description": "昼夜的最终平衡形态；行走于界线上的优美之型。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Equinox_Prime",
-        "drop": [
-            {
-                "name": "后纪 T4 遗物 (罕见)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "后纪 K5 遗物 (罕见)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "后纪 T3 遗物 (罕见)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "前纪 A2 遗物 (罕见)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "古纪 P4 遗物 (罕见)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Equinox_Prime"
     },
     "zh-hant": {
         "item_name": "Equinox Prime 藍圖",
         "description": "晝夜的最終平衡形態；行走於界線上的優美之型。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Equinox_Prime",
-        "drop": [
-            {
-                "name": "後紀 T4 遺物 (罕見)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "後紀 K5 遺物 (罕見)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "後紀 T3 遺物 (罕見)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "前紀 A2 遺物 (罕見)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "古紀 P4 遺物 (罕見)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Equinox_Prime"
     },
     "es": {
         "item_name": "Plano de Equinox Prime",
         "description": "Noche y día en un balance final; la gallarda perfección de aquel que camina en los límites.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Equinox_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi T4 (Poco Común)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "Reliquia Axi K5 (Poco Común)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "Reliquia Axi T3 (Poco Común)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "Reliquia Meso A2 (Poco Común)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "Reliquia Lith P4 (Poco Común)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Equinox_Prime"
     },
     "it": {
-        "item_name": "Equinox Prime Blueprint",
+        "item_name": "Equinox Prime (Schema)",
         "description": "Giorno e Notte in un definitivo bilanciamento; l'elegante perfezione di colei che cammina sui confini.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi T4 (Uncommon)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "Reliquia Axi K5 (Uncommon)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "Reliquia Axi T3 (Uncommon)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "Reliquia Meso A2 (Uncommon)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "Reliquia Lith P4 (Uncommon)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Prime"
     },
     "pl": {
-        "item_name": "Equinox Prime: Schemat",
+        "item_name": "Equinox Prime - Schemat",
         "description": "Dzień i noc w swej finalnej formie; pełna wdzięku perfekcja krocząca na granicy.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Equinox_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi T4 (Nieprzeciętny)",
-                "link": "axi_t4_relic"
-            },
-            {
-                "name": "Relikt Axi K5 (Nieprzeciętny)",
-                "link": "axi_k5_relic"
-            },
-            {
-                "name": "Relikt Axi T3 (Nieprzeciętny)",
-                "link": "axi_t3_relic"
-            },
-            {
-                "name": "Relikt Meso A2 (Nieprzeciętny)",
-                "link": "meso_a2_relic"
-            },
-            {
-                "name": "Relikt Lith P4 (Nieprzeciętny)",
-                "link": "lith_p4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Equinox_Prime"
     },
     "mastery_level": 5,
     "ducats": 45,

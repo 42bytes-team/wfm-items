@@ -3,9 +3,11 @@
     "url_name": "karak",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/karak.bbe0d895125d9c2b3b612c34a5e611f3.png",
-    "thumb": "icons/en/thumbs/karak.bbe0d895125d9c2b3b612c34a5e611f3.128x128.png",
+    "icon": "items/images/en/karak.bbe0d895125d9c2b3b612c34a5e611f3.png",
+    "thumb": "items/images/en/thumbs/karak.bbe0d895125d9c2b3b612c34a5e611f3.128x128.png",
     "icon_format": "land",
+    "disposition": 1.35,
+    "mastery_level": 1,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle"
     },

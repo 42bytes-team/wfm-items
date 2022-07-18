@@ -2,12 +2,11 @@
     "_id": "5dbe9b0d7ea27b0ffe3ca275",
     "tags": [
         "mod",
-        "warframe",
         "uncommon",
         "parazon"
     ],
-    "icon": "icons/en/auto_breach.84fc19699e6af7b4d32529aff017634c.png",
-    "thumb": "icons/en/thumbs/auto_breach.84fc19699e6af7b4d32529aff017634c.128x128.png",
+    "icon": "items/images/en/auto_breach.84fc19699e6af7b4d32529aff017634c.png",
+    "thumb": "items/images/en/thumbs/auto_breach.84fc19699e6af7b4d32529aff017634c.128x128.png",
     "icon_format": "port",
     "url_name": "auto_breach",
     "tradable": true,
@@ -17,70 +16,59 @@
     "en": {
         "item_name": "Auto Breach",
         "description": "+30% chance to auto complete Hacking",
-        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach"
     },
     "ru": {
         "item_name": "Автоматический Взлом",
         "description": "+30% к шансу автоматического завершения Взлома",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B7%D0%BB%D0%BE%D0%BC",
-        "icon": "icons/ru/auto_breach.c5d48eefa94597c8e87e40dea9e06df6.png",
-        "thumb": "icons/ru/thumbs/auto_breach.c5d48eefa94597c8e87e40dea9e06df6.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/auto_breach.c5d48eefa94597c8e87e40dea9e06df6.png",
+        "thumb": "items/images/ru/thumbs/auto_breach.c5d48eefa94597c8e87e40dea9e06df6.128x128.png"
     },
     "ko": {
         "item_name": "오토 브리치",
         "description": "+30% 확률로 자동 해킹",
-        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach"
     },
     "de": {
         "item_name": "Auto-hack",
         "description": "+30 % Chance den Hack automatisch abzuschließen",
-        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach"
     },
     "fr": {
         "item_name": "Piratage Auto",
         "description": "+30% de Chances de Piratage auto",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Piratage_Auto",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Piratage_Auto"
     },
     "pt": {
         "item_name": "Auto Breach",
         "description": "+30% de chance de completar a Invasão automaticamente",
-        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach"
     },
     "zh-hans": {
         "item_name": "自动破解",
         "description": "+30% 的几率自动完成入侵",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Auto_Breach",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Auto_Breach"
     },
     "zh-hant": {
         "item_name": "自動駭入",
         "description": "+30% 機率自動完成入侵",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Auto_Breach",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Auto_Breach"
     },
     "es": {
         "item_name": "Brecha Automática",
         "description": "+30% de probabilidad de autocompletar el hackeo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Brecha_autom%C3%A1tica",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Brecha_autom%C3%A1tica"
     },
     "it": {
         "item_name": "Auto Breach",
         "description": "+30% probabilità di Hack completato automaticamente",
-        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Auto_Breach"
     },
     "pl": {
         "item_name": "Automatyczny Włam",
         "description": "+30% szans na automatyczne zakończenie Hakowania",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Automatyczny_W%C5%82am",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Automatyczny_W%C5%82am"
     },
     "rarity": "uncommon",
     "trading_tax": 4000

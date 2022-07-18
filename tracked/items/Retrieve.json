@@ -2,11 +2,12 @@
     "_id": "5615432bb66f8371035bfa32",
     "tags": [
         "mod",
+        "common",
         "kubrow",
-        "common"
+        "chesa_kubrow"
     ],
-    "icon": "icons/en/Retrieve.c3364c6fe981f656c6398cdf231fd526.png",
-    "thumb": "icons/en/thumbs/Retrieve.c3364c6fe981f656c6398cdf231fd526.128x128.png",
+    "icon": "items/images/en/retrieve.c3364c6fe981f656c6398cdf231fd526.png",
+    "thumb": "items/images/en/thumbs/retrieve.c3364c6fe981f656c6398cdf231fd526.128x128.png",
     "icon_format": "port",
     "url_name": "retrieve",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Retrieve",
         "description": "Kubrow has 45% chance to scavenge additional loot from a fallen enemy or containers within 30m, every 10s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Retrieve",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Retrieve"
     },
     "ru": {
         "item_name": "Сбор Трофеев",
         "description": "Каждые 10с кубрау имеет шанс 45% найти дополнительный предмет у мёртвых противников или в контейнерах в радиусе 30м.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B1%D0%BE%D1%80_%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B5%D0%B2",
-        "icon": "icons/ru/Retrieve.8cd0fcfb2539030c4d77f7474e765c73.png",
-        "thumb": "icons/ru/thumbs/Retrieve.8cd0fcfb2539030c4d77f7474e765c73.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/retrieve.8cd0fcfb2539030c4d77f7474e765c73.png",
+        "thumb": "items/images/ru/thumbs/retrieve.8cd0fcfb2539030c4d77f7474e765c73.128x128.png"
     },
     "ko": {
         "item_name": "리트리브",
         "description": "쿠브로가 10초마다 45%의 확률로 30m 내의 쓰러진 적이나 상자에서 추가 아이템을 찾아냅니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Retrieve",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Retrieve"
     },
     "de": {
         "item_name": "Bring",
         "description": "Der Kubrow hat alle 10 s eine 45 % Chance zusätzliche Beute von gefallenen Gegnern oder Containern innerhalb von 30 m zu erhalten.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Retrieve",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Retrieve"
     },
     "fr": {
         "item_name": "Flair",
         "description": "Le Kubrow a 45% de chance de récupérer du butin supplémentaire d'un ennemi éliminé ou des conteneurs se trouvant dans un rayon de 30m, toutes les 10s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Flair",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Flair"
     },
     "pt": {
         "item_name": "Retrieve",
         "description": "A cada 10s, o Kubrow recebe 45% de chance de obter itens adicionais de inimigos abatidos ou de depósitos dentro de 30m.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Retrieve",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Retrieve"
     },
     "zh-hans": {
         "item_name": "嗅索取物",
         "description": "库狛有 45% 的几率在30米之内倒地的敌人或容器中挖掘出额外的战利品，每 10 秒冷却时间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Retrieve",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Retrieve"
     },
     "zh-hant": {
         "item_name": "嗅索取物",
         "description": "庫狛在 30 公尺之內有 45% 的機率對死亡的敵人或容器中挖掘出額外的戰利品，冷卻時間 10 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Retrieve",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Retrieve"
     },
     "es": {
         "item_name": "Recuperar",
         "description": "Los kubrow tienen 45 % de probabilidad de buscar botines adicionales de un enemigo caído o de contenedores dentro de 30 m, cada 10 s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Recuperar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Recuperar"
     },
     "it": {
         "item_name": "Retrieve",
         "description": "Il kubrow ha una probabilità del 45% di di recuperare una risorsa addizionale da un nemico abbattuto o da un contenitore nel raggio di 30m ogni 10s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Retrieve",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Retrieve"
     },
     "pl": {
         "item_name": "Szukaj",
         "description": "Kubrow ma 45% szans, aby zdobyć dodatkowe łupy z pokonanego wroga lub z pojemników w zasięgu 30m, co 10s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Retrieve",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Retrieve"
     },
     "rarity": "common",
     "max_rank": 5,

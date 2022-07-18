@@ -1,15 +1,14 @@
 {
     "_id": "54a74454e779892d5e5155ba",
     "tags": [
-        "melee",
         "rare",
+        "melee",
+        "mod",
         "archwing",
-        "arch-melee",
-        "archwing melee",
-        "mod"
+        "archmelee"
     ],
-    "icon": "icons/en/Searing_Steel.7aa193ba4e202d8f625e091aa243f50d.png",
-    "thumb": "icons/en/thumbs/Searing_Steel.7aa193ba4e202d8f625e091aa243f50d.128x128.png",
+    "icon": "items/images/en/searing_steel.7aa193ba4e202d8f625e091aa243f50d.png",
+    "thumb": "items/images/en/thumbs/searing_steel.7aa193ba4e202d8f625e091aa243f50d.128x128.png",
     "icon_format": "port",
     "url_name": "searing_steel",
     "tradable": true,
@@ -19,70 +18,59 @@
     "en": {
         "item_name": "Searing Steel",
         "description": "+60% Heat\n+60% Status Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Searing_Steel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Searing_Steel"
     },
     "ru": {
         "item_name": "Жгучая Сталь",
         "description": "+60% урона огнем\n+60% к шансу статуса",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%96%D0%B3%D1%83%D1%87%D0%B0%D1%8F_%D0%A1%D1%82%D0%B0%D0%BB%D1%8C",
-        "icon": "icons/ru/Searing_Steel.30003eecf38a8ff6f46e7ccaa51723e6.png",
-        "thumb": "icons/ru/thumbs/Searing_Steel.30003eecf38a8ff6f46e7ccaa51723e6.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/searing_steel.30003eecf38a8ff6f46e7ccaa51723e6.png",
+        "thumb": "items/images/ru/thumbs/searing_steel.30003eecf38a8ff6f46e7ccaa51723e6.128x128.png"
     },
     "ko": {
         "item_name": "시어링 스틸",
         "description": "+60% 화염\n+60% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Searing_Steel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Searing_Steel"
     },
     "de": {
         "item_name": "Sengender Stahl",
         "description": "+60 % Hitze\n+60 % Statuschance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sengender_Stahl",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sengender_Stahl"
     },
     "fr": {
         "item_name": "Acier Brûlant",
         "description": "+60% Feu\n+60% de Chances de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Acier_Br%C3%BBlant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Acier_Br%C3%BBlant"
     },
     "pt": {
         "item_name": "Searing Steel",
         "description": "+60% de Ígneo\n+60% de Chance de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Searing_Steel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Searing_Steel"
     },
     "zh-hans": {
         "item_name": "炽燃钢铁",
         "description": "+60% 火焰伤害\n+60% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Searing_Steel",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Searing_Steel"
     },
     "zh-hant": {
         "item_name": "熾燃鋼鐵",
         "description": "+60% 火焰傷害\n+60% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Searing_Steel",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Searing_Steel"
     },
     "es": {
         "item_name": "Acero Abrasador",
         "description": "+60% de calor\n+60% de probabilidad de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Acero_abrasador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Acero_abrasador"
     },
     "it": {
         "item_name": "Searing Steel",
         "description": "+60% Fuoco\n+60% Probabilità Effetto",
-        "wiki_link": "http://warframe.wikia.com/wiki/Searing_Steel",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Searing_Steel"
     },
     "pl": {
         "item_name": "Parząca Stal",
         "description": "+60% Obrażeń Ogniowych\n+60% Szansa Statusu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Parz%C4%85ca_Stal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Parz%C4%85ca_Stal"
     },
     "rarity": "rare",
     "max_rank": 3,

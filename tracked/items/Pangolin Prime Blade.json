@@ -1,14 +1,12 @@
 {
     "_id": "5e839494267539077b0dd6ba",
     "tags": [
-        "prime",
         "component",
         "weapon",
-        "blade",
-        "melee"
+        "prime"
     ],
-    "icon": "icons/en/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.png",
-    "thumb": "icons/en/thumbs/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png",
+    "icon": "items/images/en/pangolin_prime_blade.0b93ac58408417e3f8646ccf1fb5a77e.png",
+    "thumb": "items/images/en/thumbs/pangolin_prime_blade.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
     "url_name": "pangolin_prime_blade",
@@ -27,387 +25,57 @@
     "en": {
         "item_name": "Pangolin Prime Blade",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pangolin_Prime",
-        "drop": [
-            {
-                "name": "Axi G4 Relic (Uncommon)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "Axi A13 Relic (Uncommon)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "Axi A11 Relic (Uncommon)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "Axi T7 Relic (Uncommon)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Neo S14 Relic (Uncommon)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Lith N7 Relic (Uncommon)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "Lith S11 Relic (Uncommon)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pangolin_Prime"
     },
     "ru": {
         "item_name": "Панголин Прайм: Лезвие",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%BD_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси G4 (Необычный)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "Реликвия Акси A13 (Необычный)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "Реликвия Акси A11 (Необычный)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "Реликвия Акси T7 (Необычный)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Реликвия Нео S14 (Необычный)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Реликвия Лит N7 (Необычный)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "Реликвия Лит S11 (Необычный)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%BD_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "팽골린 프라임 블레이드",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pangolin_Prime",
-        "drop": [
-            {
-                "name": "액시 G4 성유물 (언커먼)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "액시 A13 성유물 (언커먼)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "액시 A11 성유물 (언커먼)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "액시 T7 성유물 (언커먼)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "네오 S14 성유물 (언커먼)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "리스 N7 성유물 (언커먼)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "리스 S11 성유물 (언커먼)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Pangolin_Prime"
     },
     "de": {
         "item_name": "Pangolin Prime: Klinge",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Fang_Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: G4 (Ungewöhnlich)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "Axi-relikt: A13 (Ungewöhnlich)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "Axi-relikt: A11 (Ungewöhnlich)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "Axi-relikt: T7 (Ungewöhnlich)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Neo-relikt: S14 (Ungewöhnlich)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Lith-relikt: N7 (Ungewöhnlich)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "Lith-relikt: S11 (Ungewöhnlich)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Fang_Prime"
     },
     "fr": {
         "item_name": "Pangolin Prime - Lame",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pangolin_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi G4 (Inhabituel)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "Relique Axi A13 (Inhabituel)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "Relique Axi A11 (Inhabituel)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "Relique Axi T7 (Inhabituel)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Relique Neo S14 (Inhabituel)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Relique Lith N7 (Inhabituel)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "Relique Lith S11 (Inhabituel)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pangolin_Prime"
     },
     "pt": {
         "item_name": "Pangolin Prime: Lâmina",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fang_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi G4 (Incomum)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "Relíquia Axi A13 (Incomum)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "Relíquia Axi A11 (Incomum)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "Relíquia Axi T7 (Incomum)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Relíquia Neo S14 (Incomum)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Relíquia Lith N7 (Incomum)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "Relíquia Lith S11 (Incomum)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fang_Prime"
     },
     "zh-hans": {
         "item_name": "鲮鲤剑 Prime 刀刃",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pangolin_Prime",
-        "drop": [
-            {
-                "name": "后纪 G4 遗物 (罕见)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "后纪 A13 遗物 (罕见)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "后纪 A11 遗物 (罕见)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "后纪 T7 遗物 (罕见)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "中纪 S14 遗物 (罕见)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "古纪 N7 遗物 (罕见)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "古纪 S11 遗物 (罕见)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pangolin_Prime"
     },
     "zh-hant": {
         "item_name": "鯪鯉劍 Prime 刀刃",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pangolin_Prime",
-        "drop": [
-            {
-                "name": "後紀 G4 遺物 (罕見)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "後紀 A13 遺物 (罕見)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "後紀 A11 遺物 (罕見)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "後紀 T7 遺物 (罕見)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "中紀 S14 遺物 (罕見)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "古紀 N7 遺物 (罕見)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "古紀 S11 遺物 (罕見)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pangolin_Prime"
     },
     "es": {
         "item_name": "Hoja De Pangolín Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pangol%C3%ADn_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi G4 (Poco Común)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "Reliquia Axi A13 (Poco Común)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "Reliquia Axi A11 (Poco Común)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "Reliquia Axi T7 (Poco Común)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Reliquia Neo S14 (Poco Común)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Reliquia Lith N7 (Poco Común)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "Reliquia Lith S11 (Poco Común)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pangol%C3%ADn_Prime"
     },
     "it": {
         "item_name": "Pangolin Prime - Lama",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Fang_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi G4 (Uncommon)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "Reliquia Axi A13 (Uncommon)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "Reliquia Axi A11 (Uncommon)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "Reliquia Axi T7 (Uncommon)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Reliquia Neo S14 (Uncommon)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Reliquia Lith N7 (Uncommon)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "Reliquia Lith S11 (Uncommon)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Fang_Prime"
     },
     "pl": {
         "item_name": "Pangolin Prime: Ostrze",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pangolin_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi G4 (Nieprzeciętny)",
-                "link": "axi_g4_relic"
-            },
-            {
-                "name": "Relikt Axi A13 (Nieprzeciętny)",
-                "link": "axi_a13_relic"
-            },
-            {
-                "name": "Relikt Axi A11 (Nieprzeciętny)",
-                "link": "axi_a11_relic"
-            },
-            {
-                "name": "Relikt Axi T7 (Nieprzeciętny)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Relikt Neo S14 (Nieprzeciętny)",
-                "link": "neo_s14_relic"
-            },
-            {
-                "name": "Relikt Lith N7 (Nieprzeciętny)",
-                "link": "lith_n7_relic"
-            },
-            {
-                "name": "Relikt Lith S11 (Nieprzeciętny)",
-                "link": "lith_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pangolin_Prime"
     },
     "mastery_level": 14,
     "ducats": 45,

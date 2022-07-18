@@ -3,9 +3,11 @@
     "url_name": "rumblejack",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/rumblejack.93665a0884f96782697b3c133be0302b.png",
-    "thumb": "icons/en/thumbs/rumblejack.93665a0884f96782697b3c133be0302b.128x128.png",
+    "icon": "items/images/en/rumblejack.93665a0884f96782697b3c133be0302b.png",
+    "thumb": "items/images/en/thumbs/rumblejack.93665a0884f96782697b3c133be0302b.128x128.png",
     "icon_format": "land",
+    "disposition": 1,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Operator/Melee/DrifterTazer/DrifterTazerPlayerWep"
     },

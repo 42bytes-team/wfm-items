@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a515",
     "tags": [
-        "mod",
-        "rare",
+        "primary",
         "pvp",
-        "primary"
+        "rare",
+        "mod",
+        "assault_rifle"
     ],
-    "icon": "icons/en/Hydraulic_Gauge.dd072c8d4744b9a456008a7f2adbee13.png",
-    "thumb": "icons/en/thumbs/Hydraulic_Gauge.dd072c8d4744b9a456008a7f2adbee13.128x128.png",
+    "icon": "items/images/en/hydraulic_gauge.dd072c8d4744b9a456008a7f2adbee13.png",
+    "thumb": "items/images/en/thumbs/hydraulic_gauge.dd072c8d4744b9a456008a7f2adbee13.128x128.png",
     "icon_format": "port",
     "url_name": "hydraulic_gauge",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Hydraulic Gauge",
         "description": "-60% Weapon Recoil\n-10% Magazine Capacity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hydraulic_Gauge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hydraulic_Gauge"
     },
     "ru": {
         "item_name": "Гидравлический Калибр",
         "description": "-60% к отдаче\n-10% к вместимости магазина",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80",
-        "icon": "icons/ru/Hydraulic_Gauge.281e512df99e4f89502ceeae61ec1e31.png",
-        "thumb": "icons/ru/thumbs/Hydraulic_Gauge.281e512df99e4f89502ceeae61ec1e31.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/hydraulic_gauge.281e512df99e4f89502ceeae61ec1e31.png",
+        "thumb": "items/images/ru/thumbs/hydraulic_gauge.281e512df99e4f89502ceeae61ec1e31.128x128.png"
     },
     "ko": {
         "item_name": "하이드롤릭 게이지",
         "description": "-60% 반동\n-10% 탄창 용량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hydraulic_Gauge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hydraulic_Gauge"
     },
     "de": {
         "item_name": "Hydraulische Anzeige",
         "description": "-60 % Waffenrückstoss\n-10 % Magazingröße",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge"
     },
     "fr": {
         "item_name": "Jauge Hydraulique",
         "description": "-60% de Recul de l'Arme\n-10% de Taille Du Chargeur",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9ticule_Hydraulique",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9ticule_Hydraulique"
     },
     "pt": {
         "item_name": "Hydraulic Gauge",
         "description": "-60% de Recuo da Arma\n-10% de Capacidade do Carregador",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge"
     },
     "zh-hans": {
         "item_name": "液压弹药",
         "description": "-60% 武器后坐力\n-10% 弹匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hydraulic_Gauge",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hydraulic_Gauge"
     },
     "zh-hant": {
         "item_name": "液壓彈藥",
         "description": "-60% 武器後座力\n-10% 彈匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hydraulic_Gauge",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hydraulic_Gauge"
     },
     "es": {
         "item_name": "Calibre Hidráulico",
         "description": "-60% retroceso\n-10% de capacidad de cargador",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Calibre_hidr%C3%A1ulico",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Calibre_hidr%C3%A1ulico"
     },
     "it": {
         "item_name": "Hydraulic Gauge",
         "description": "-60% Rinculo\n-10% Capienza Caricatore",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge"
     },
     "pl": {
         "item_name": "Wskaźnik Hydrauliczny",
         "description": "-60% Odrzut Broni\n-10% Pojemności Magazynka",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Hydraulic_Gauge"
     },
     "rarity": "rare",
     "max_rank": 3,

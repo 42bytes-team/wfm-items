@@ -3,9 +3,11 @@
     "url_name": "hystrix",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/hystrix.c4771631ef9eb250562012fbf407d439.png",
-    "thumb": "icons/en/thumbs/hystrix.c4771631ef9eb250562012fbf407d439.128x128.png",
+    "icon": "items/images/en/hystrix.c4771631ef9eb250562012fbf407d439.png",
+    "thumb": "items/images/en/thumbs/hystrix.c4771631ef9eb250562012fbf407d439.128x128.png",
     "icon_format": "port",
+    "disposition": 1.2,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon"
     },

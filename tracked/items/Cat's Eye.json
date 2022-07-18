@@ -2,11 +2,12 @@
     "_id": "5788fad84fff472f131a1361",
     "tags": [
         "mod",
+        "rare",
         "kavat",
-        "rare"
+        "adarza_kavat"
     ],
-    "icon": "icons/en/Cat's_Eye.ec8680ee8d86067156c3d818b72cb1e5.png",
-    "thumb": "icons/en/thumbs/Cat's_Eye.ec8680ee8d86067156c3d818b72cb1e5.128x128.png",
+    "icon": "items/images/en/cats_eye.ec8680ee8d86067156c3d818b72cb1e5.png",
+    "thumb": "items/images/en/thumbs/cats_eye.ec8680ee8d86067156c3d818b72cb1e5.128x128.png",
     "icon_format": "port",
     "url_name": "cats_eye",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Cat's Eye",
         "description": "Adarza Kavat grants 60% increased critical chance for 10s to allies within 25m every 20s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cat%27s_Eye",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cat%27s_Eye"
     },
     "ru": {
         "item_name": "Кошачий Глаз",
         "description": "Адарза Кават увеличивает шанс нанесения критического урона на 60% для всех союзников в радиусе 25м на 10с каждые 20секунд.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%88%D0%B0%D1%87%D0%B8%D0%B9_%D0%93%D0%BB%D0%B0%D0%B7",
-        "icon": "icons/ru/Cat's_Eye.252e312f634b867208abfc4cda61fb30.png",
-        "thumb": "icons/ru/thumbs/Cat's_Eye.252e312f634b867208abfc4cda61fb30.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/cats_eye.252e312f634b867208abfc4cda61fb30.png",
+        "thumb": "items/images/ru/thumbs/cats_eye.252e312f634b867208abfc4cda61fb30.128x128.png"
     },
     "ko": {
         "item_name": "캣츠 아이",
         "description": "아다르자 카밧이 20초 마다 주변 25m 안에 있는 아군들에게 치명타 확률 60%를 10초 동안 증가시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cat%27s_Eye",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cat%27s_Eye"
     },
     "de": {
         "item_name": "Katzenauge",
         "description": "Die Adarza Kavat gewährt 60 % erhöhte kritische Chance für 10 s für alliierte in 25 m alle 20 s.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Katzenauge",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Katzenauge"
     },
     "fr": {
         "item_name": "Œil De Chat",
         "description": "Le Kavat Adarza donne une augmentation de 60% de Chances de Critique pour 10s aux alliés à moins de 25m toutes les 20s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Oeil_de_Chat",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Oeil_de_Chat"
     },
     "pt": {
         "item_name": "Cat's Eye",
         "description": "O Adarza Kavat garante 60% aumento de Chance Crítica durante 10s para os aliados dentro de 25m de Alcance a cada 20s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Cat%27s_Eye",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Cat%27s_Eye"
     },
     "zh-hans": {
         "item_name": "猫眼",
         "description": "镜像型库娃每过 20 秒，便能为邻近 25 米范围内的友军提升 60% 暴击几率 10 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cat%27s_Eye",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cat%27s_Eye"
     },
     "zh-hant": {
         "item_name": "貓眼",
         "description": "鏡像型庫娃每過 20 秒，便能為鄰近 25 公尺範圍內的盟友提升 60% 暴擊率 10 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cat%27s_Eye",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cat%27s_Eye"
     },
     "es": {
         "item_name": "Ojo De Gato",
         "description": "El kavat Adarza concede un incremento del 60 % en la probabilidad crítica durante 10 s a todos los aliados en un radio de 25 m cada 20 s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ojo_de_gato",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ojo_de_gato"
     },
     "it": {
         "item_name": "Cat's Eye",
         "description": "Il Kavat Adarza aumenta la Probabilità Critico del 60% per 10s a tutti gli alleati entro 25m ogni 20s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Cat's_Eye",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Cat's_Eye"
     },
     "pl": {
         "item_name": "Kocie Oko",
         "description": "Kavat Adarza zwiększa Szansę Obrażeń Krytycznych o 60% na 10s dla sojuszników znajdujących się w zasięgu 25m co 20s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kocie_Oko",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kocie_Oko"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -2,11 +2,11 @@
     "_id": "5f498a209426ed00443bd0a4",
     "tags": [
         "necramech",
-        "engine",
-        "mech"
+        "component",
+        "damaged"
     ],
-    "icon": "icons/en/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.png",
-    "thumb": "icons/en/thumbs/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.128x128.png",
+    "icon": "items/images/en/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.png",
+    "thumb": "items/images/en/thumbs/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.128x128.png",
     "icon_format": "land",
     "url_name": "damaged_necramech_engine",
     "tradable": true,
@@ -24,68 +24,57 @@
     "en": {
         "item_name": "Damaged Necramech Engine",
         "description": "An engine designed for use in a Necramech. Unfortunately, it’s damaged.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "ru": {
         "item_name": "Повреждённый Двигатель Некрамеха",
         "description": "Двигатель, разработанный для использования Некрамехом. К сожалению, он поврежден.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85"
     },
     "ko": {
         "item_name": "손상된 네크라메크 엔진",
         "description": "네크라메크에 사용되도록 설계된 엔진입니다. 불행히도 손상되었습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "de": {
         "item_name": "Necramech: Beschädigter Antrieb",
         "description": "Ein Antrieb, für die Nutzung bei Necramechs entwickelt. Bedauerlicherweise beschädigt.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "fr": {
         "item_name": "Moteur De Necramech Endommagé",
         "description": "Un moteur conçu pour être utilisé dans un Necramech. Malheureusement, il est endommagé.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Necramech"
     },
     "pt": {
         "item_name": "Necramech: Motor Danificado",
         "description": "Um motor projetado para uso em um Necramech. Infelizmente, está danificado.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "zh-hans": {
         "item_name": "损坏的殁世机甲 引擎",
         "description": "为殁世机甲设计的引擎。遗憾的是，它处于损坏状态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech"
     },
     "zh-hant": {
         "item_name": "損毀的亡骸機甲引擎",
         "description": "設計給亡骸機甲使用的一台引擎。可惜，已損毀。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech"
     },
     "es": {
         "item_name": "Motor De Necramech Dañado",
         "description": "Un motor diseñado para usarse en un Necramech. Desafortunadamente, está dañado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Necramech"
     },
     "it": {
         "item_name": "Motore Necramech Danneggiato",
         "description": "Un motore progettato per essere utilizzato su un Necramech. Purtroppo è danneggiato.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
     },
     "pl": {
         "item_name": "Uszkodzony Silnik Nekramecha",
         "description": "Silnik przeznaczony do użytku w Nekramechu. Niestety jest uszkodzony.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "trading_tax": 2000
 }

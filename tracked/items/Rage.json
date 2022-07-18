@@ -5,8 +5,8 @@
         "warframe",
         "rare"
     ],
-    "icon": "icons/en/Rage.e63c2a75f7d14084b7a976c736cfcac8.png",
-    "thumb": "icons/en/thumbs/Rage.e63c2a75f7d14084b7a976c736cfcac8.128x128.png",
+    "icon": "items/images/en/rage.e63c2a75f7d14084b7a976c736cfcac8.png",
+    "thumb": "items/images/en/thumbs/rage.e63c2a75f7d14084b7a976c736cfcac8.128x128.png",
     "icon_format": "port",
     "url_name": "rage",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Rage",
         "description": "Convert +40% of Damage on Health to Energy",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rage",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rage"
     },
     "ru": {
         "item_name": "Гнев",
         "description": "Преобразует +40% урона здоровью в энергию",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%BD%D0%B5%D0%B2",
-        "icon": "icons/ru/Rage.53227ea426bf265cad81e949d40a2a0d.png",
-        "thumb": "icons/ru/thumbs/Rage.53227ea426bf265cad81e949d40a2a0d.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/rage.53227ea426bf265cad81e949d40a2a0d.png",
+        "thumb": "items/images/ru/thumbs/rage.53227ea426bf265cad81e949d40a2a0d.128x128.png"
     },
     "ko": {
         "item_name": "레이지",
         "description": "체력 피해 중 +40%를 에너지로 전환",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rage",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rage"
     },
     "de": {
         "item_name": "Zorn",
         "description": "Wandle +40 % des Gesundheitsschaden in Energie um",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zorn",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zorn"
     },
     "fr": {
         "item_name": "Rage",
         "description": "Convertit +40% des Dégâts sur la Santé en Énergie",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rage",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rage"
     },
     "pt": {
         "item_name": "Rage",
         "description": "+40% de Dano à Vida convertido em Energia",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rage",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rage"
     },
     "zh-hans": {
         "item_name": "狂暴化",
         "description": "转换 +40% 受到的生命值伤害为能量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rage",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rage"
     },
     "zh-hant": {
         "item_name": "狂暴化",
         "description": "轉換 +40% 受到的生命值傷害為能量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rage",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rage"
     },
     "es": {
         "item_name": "Ira",
         "description": "Convierte +40% del daño en tu salud a energía",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ira",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Ira"
     },
     "it": {
         "item_name": "Rage",
         "description": "Ripristina Energia pari al +40% del danno ricevuto alla Salute",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Rage",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rage"
     },
     "pl": {
         "item_name": "Szał",
         "description": "Przekształca +40% Obrażeń Otrzymanych w Punkty Życia na Energię",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sza%C5%82",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sza%C5%82"
     },
     "rarity": "rare",
     "max_rank": 3,

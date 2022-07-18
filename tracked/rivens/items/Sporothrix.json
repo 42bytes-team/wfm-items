@@ -3,9 +3,11 @@
     "url_name": "sporothrix",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/sporothrix.6f9948b1f4636d57a1bd613468ddc2b3.png",
-    "thumb": "icons/en/thumbs/sporothrix.6f9948b1f4636d57a1bd613468ddc2b3.128x128.png",
+    "icon": "items/images/en/sporothrix.6f9948b1f4636d57a1bd613468ddc2b3.png",
+    "thumb": "items/images/en/thumbs/sporothrix.6f9948b1f4636d57a1bd613468ddc2b3.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 13,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/InfSniperRifle"
     },

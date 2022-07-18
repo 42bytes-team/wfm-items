@@ -1,13 +1,13 @@
 {
     "_id": "559dacd3e779897ba8819969",
     "tags": [
-        "rare",
         "mod",
-        "kubrow",
-        "sentinel"
+        "rare",
+        "sentinel",
+        "companion"
     ],
-    "icon": "icons/en/Animal_Instinct.934c4722d6e4f4013aa14bc75a2d84b0.png",
-    "thumb": "icons/en/thumbs/Animal_Instinct.934c4722d6e4f4013aa14bc75a2d84b0.128x128.png",
+    "icon": "items/images/en/animal_instinct.934c4722d6e4f4013aa14bc75a2d84b0.png",
+    "thumb": "items/images/en/thumbs/animal_instinct.934c4722d6e4f4013aa14bc75a2d84b0.128x128.png",
     "icon_format": "port",
     "url_name": "animal_instinct",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Animal Instinct",
         "description": "+30 Loot Radar\n+18 Enemy Radar",
-        "wiki_link": "https://warframe.fandom.com/wiki/Animal_Instinct",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Animal_Instinct"
     },
     "ru": {
         "item_name": "Животный Инстинкт",
         "description": "Обнаружение добычи в радиусе +30м.\nОбнаружение противника в радиусе +18 м",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%98%D0%BD%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D1%82",
-        "icon": "icons/ru/Animal_Instinct.17e444aa73960f8406141ae7a9d4bfab.png",
-        "thumb": "icons/ru/thumbs/Animal_Instinct.17e444aa73960f8406141ae7a9d4bfab.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/animal_instinct.17e444aa73960f8406141ae7a9d4bfab.png",
+        "thumb": "items/images/ru/thumbs/animal_instinct.17e444aa73960f8406141ae7a9d4bfab.128x128.png"
     },
     "ko": {
         "item_name": "애니멀 인스팅트",
         "description": "+30 아이템 감지\n+18 적 감지",
-        "wiki_link": "https://warframe.fandom.com/wiki/Animal_Instinct",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Animal_Instinct"
     },
     "de": {
         "item_name": "Tierischer Instinkt",
         "description": "+30 Beuteradar\n+18 Feindradar",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Tierischer_Instinkt",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Tierischer_Instinkt"
     },
     "fr": {
         "item_name": "Instinct Animal",
         "description": "+30 Radar Butin\n+18 Radar Ennemi",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Instinct_Animal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Instinct_Animal"
     },
     "pt": {
         "item_name": "Animal Instinct",
         "description": "+30 Radar de Itens\n+18 Radar de Inimigos",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Animal_Instinct",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Animal_Instinct"
     },
     "zh-hans": {
         "item_name": "动物本能",
         "description": "+30 寻物雷达\n+18 侦敌雷达",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Animal_Instinct",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Animal_Instinct"
     },
     "zh-hant": {
         "item_name": "動物本能",
         "description": "+30 尋物雷達\n+18 偵敵雷達",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Animal_Instinct",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Animal_Instinct"
     },
     "es": {
         "item_name": "Instinto Animal",
         "description": "+30 de radar de saqueo\n+18 de radar enemigo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Instinto_animal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Instinto_animal"
     },
     "it": {
         "item_name": "Animal Instinct",
         "description": "+30 Radar Risorse\n+18 Radar Nemici",
-        "wiki_link": "http://warframe.wikia.com/wiki/Animal_Instinct",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Animal_Instinct"
     },
     "pl": {
         "item_name": "Zwierzęcy Instynkt",
         "description": "+30 Wykrywacz Łupu\n+18 Wykrywacz Wrogów",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zwierz%C4%99cy_Instynkt",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zwierz%C4%99cy_Instynkt"
     },
     "rarity": "rare",
     "max_rank": 5,

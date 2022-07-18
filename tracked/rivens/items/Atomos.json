@@ -3,9 +3,11 @@
     "url_name": "atomos",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/atomos.2f3af350060d4b7ff4adae2b12f97b0a.png",
-    "thumb": "icons/en/thumbs/atomos.2f3af350060d4b7ff4adae2b12f97b0a.128x128.png",
+    "icon": "items/images/en/atomos.2f3af350060d4b7ff4adae2b12f97b0a.png",
+    "thumb": "items/images/en/thumbs/atomos.2f3af350060d4b7ff4adae2b12f97b0a.128x128.png",
     "icon_format": "land",
+    "disposition": 0.95,
+    "mastery_level": 5,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun"
     },

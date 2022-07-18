@@ -1,14 +1,13 @@
 {
     "_id": "56900be253c8e91351672724",
     "tags": [
-        "prime",
         "mod",
         "legendary",
-        "rifle",
-        "primary"
+        "primary",
+        "rifle"
     ],
-    "icon": "icons/en/Primed_Bane_of_Infested.dfb6994085d676b00ca85cf63a082a61.png",
-    "thumb": "icons/en/thumbs/Primed_Bane_of_Infested.dfb6994085d676b00ca85cf63a082a61.128x128.png",
+    "icon": "items/images/en/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.png",
+    "thumb": "items/images/en/thumbs/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.128x128.png",
     "icon_format": "port",
     "url_name": "primed_bane_of_infested",
     "tradable": true,
@@ -18,70 +17,59 @@
     "en": {
         "item_name": "Primed Bane Of Infested",
         "description": "+55% Damage to Infested",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Bane_of_Infested",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Bane_of_Infested"
     },
     "ru": {
-        "item_name": "Погибель Прайм: Зараженные",
-        "description": "+55% урона Зараженным",
+        "item_name": "Погибель Прайм: Заражённые",
+        "description": "+55% урона Заражённым",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC:_%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5",
-        "icon": "icons/ru/Primed_Bane_of_Infested.3846d99c3d00292879e8b616a73b242e.png",
-        "thumb": "icons/ru/thumbs/Primed_Bane_of_Infested.3846d99c3d00292879e8b616a73b242e.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/primed_bane_of_infested.3846d99c3d00292879e8b616a73b242e.png",
+        "thumb": "items/images/ru/thumbs/primed_bane_of_infested.3846d99c3d00292879e8b616a73b242e.128x128.png"
     },
     "ko": {
         "item_name": "프라임드 베인 오브 인페스티드",
         "description": "인페스티드에 대한 피해 +55%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Bane_of_Infested",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Bane_of_Infested"
     },
     "de": {
         "item_name": "Primed Verderben Der Befallenen",
         "description": "+55 % Schaden gegen Befallene",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Verderben_der_Befallenen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Verderben_der_Befallenen"
     },
     "fr": {
         "item_name": "Fléau Des Infestés Accru",
         "description": "+55% de Dégâts aux Infestés",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fl%C3%A9au_des_Infest%C3%A9s_Accru",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fl%C3%A9au_des_Infest%C3%A9s_Accru"
     },
     "pt": {
         "item_name": "Primed Bane Of Infested",
         "description": "+55% de Dano em Infestados",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Bane_of_Infested",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Bane_of_Infested"
     },
     "zh-hans": {
         "item_name": "灭亡 Infested Prime",
         "description": "+55% 对 Infested 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Bane_of_Infested",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Bane_of_Infested"
     },
     "zh-hant": {
         "item_name": "滅亡 Infested Prime",
         "description": "+55% 對 Infested 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Bane_of_Infested",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Bane_of_Infested"
     },
     "es": {
         "item_name": "Perdición De Los Infestados Prime",
         "description": "+55% de daño a los infestados",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Perdici%C3%B3n_de_los_infestados_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Perdici%C3%B3n_de_los_infestados_Prime"
     },
     "it": {
         "item_name": "Primed Bane Of Infested",
         "description": "+55% Danno Su Infested",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Bane_of_Infested",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Bane_of_Infested"
     },
     "pl": {
         "item_name": "Zguba Plagi Prime",
         "description": "+55% Obrażeń zadawanych Zainfekowanym",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Plagi_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Plagi_Prime"
     },
     "rarity": "legendary",
     "max_rank": 10,

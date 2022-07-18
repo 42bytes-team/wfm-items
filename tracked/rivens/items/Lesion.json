@@ -3,9 +3,11 @@
     "url_name": "lesion",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/lesion.5e02a91a3896e5303279c0c929b8d5ec.png",
-    "thumb": "icons/en/thumbs/lesion.5e02a91a3896e5303279c0c929b8d5ec.128x128.png",
+    "icon": "items/images/en/lesion.5e02a91a3896e5303279c0c929b8d5ec.png",
+    "thumb": "items/images/en/thumbs/lesion.5e02a91a3896e5303279c0c929b8d5ec.128x128.png",
     "icon_format": "land",
+    "disposition": 0.8,
+    "mastery_level": 9,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/Melee/TipedoStaff/InfTipedoStaff"
     },

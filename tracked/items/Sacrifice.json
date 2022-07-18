@@ -5,8 +5,8 @@
         "sentinel",
         "rare"
     ],
-    "icon": "icons/en/Sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
-    "thumb": "icons/en/thumbs/Sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png",
+    "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
+    "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png",
     "icon_format": "port",
     "url_name": "sacrifice",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Sacrifice",
         "description": "Sentinel takes 4s to revive its downed owner to 100% health and shields, destroying itself after the process.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sacrifice",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sacrifice"
     },
     "ru": {
         "item_name": "Самопожертвование",
         "description": "Ценой своей жизни страж затрачивает 4с, чтобы воскресить своего хозяина с 100% щитов и здоровья.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Sacrifice.aec76bf5a575b21e9422fe3e43a3c8a7.png",
-        "thumb": "icons/ru/thumbs/Sacrifice.aec76bf5a575b21e9422fe3e43a3c8a7.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/sacrifice.aec76bf5a575b21e9422fe3e43a3c8a7.png",
+        "thumb": "items/images/ru/thumbs/sacrifice.aec76bf5a575b21e9422fe3e43a3c8a7.128x128.png"
     },
     "ko": {
         "item_name": "새크리파이스",
         "description": "센티넬의 주인이 쓰러졌을 경우 센티넬이 4초의 시간을 들여 주인을 100%의 체력과 실드를 가진 상태로 부활시키며, 부활 과정이 끝난 후 센티넬은 파괴됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sacrifice",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Sacrifice"
     },
     "de": {
         "item_name": "Aufopferung",
         "description": "Der Wächter benötigt 4 s, um seinen Besitzer mit 100 % Gesundheit und Schild wiederzubeleben und zerstört sich danach selbst.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sacrifice",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Sacrifice"
     },
     "fr": {
         "item_name": "Sacrifice",
-        "description": "La sentinelle prend 4s pour réanimer son propriétaire à terre à 100% de santé et bouclier, s'auto-détruisant ensuite.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sacrifice",
-        "drop": []
+        "description": "La Sentinelle prend 4s pour réanimer son propriétaire à terre à 100% de Santé et Bouclier, s'auto-détruisant ensuite.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sacrifice"
     },
     "pt": {
         "item_name": "Sacrifice",
         "description": "A sentinela leva 4s para levantar o seu mestre caído com 100% de Vida e Escudos, e se autodestrói após o processo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sacrifice",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Sacrifice"
     },
     "zh-hans": {
         "item_name": "牺牲",
         "description": "当主人倒地时，守护将花费 4 秒复活其主人 100% 的生命值和护盾值，并在此过程后将自己摧毁。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sacrifice",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sacrifice"
     },
     "zh-hant": {
         "item_name": "犧牲",
         "description": "當主人倒地時，守護將在4 秒內復活其主人 100% 的生命值和護盾值，並在此過程後將自己摧毀。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sacrifice",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sacrifice"
     },
     "es": {
         "item_name": "Sacrificio",
         "description": "El centinela toma 4s para revivir a su dueño caído a 100% de salud y escudos, destruyéndose a sí mismo en el proceso.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sacrificio",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sacrificio"
     },
     "it": {
         "item_name": "Sacrifice",
         "description": "La Sentinella impiegherà 4s per rianimare e curare il suo proprietario del 100% salute e scudi, distruggendosi dopo il processo.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sacrificio",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Sacrificio"
     },
     "pl": {
         "item_name": "Poświęcenie",
         "description": "Strażnikowi zajmie 4s, by uleczyć swego wykrwawiającego się pana do 100% poziomu życia i tarcz. Ulegnie samozniszczeniu po ukończeniu procesu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Po%C5%9Bwi%C4%99cenie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Po%C5%9Bwi%C4%99cenie"
     },
     "rarity": "rare",
     "max_rank": 3,

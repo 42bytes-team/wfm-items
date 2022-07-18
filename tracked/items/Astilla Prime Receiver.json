@@ -1,13 +1,12 @@
 {
     "_id": "60ad4a1cf1904300d012c706",
     "tags": [
+        "component",
         "weapon",
-        "prime",
-        "primary",
-        "component"
+        "prime"
     ],
-    "icon": "icons/en/astilla_prime_set.4ae0614ec9d624474bfa16aa30e954c7.png",
-    "thumb": "icons/en/thumbs/astilla_prime_set.4ae0614ec9d624474bfa16aa30e954c7.128x128.png",
+    "icon": "items/images/en/astilla_prime_receiver.4ae0614ec9d624474bfa16aa30e954c7.png",
+    "thumb": "items/images/en/thumbs/astilla_prime_receiver.4ae0614ec9d624474bfa16aa30e954c7.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
     "url_name": "astilla_prime_receiver",
@@ -27,255 +26,57 @@
     "en": {
         "item_name": "Astilla Prime Receiver",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi N7 Relic (Common)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "Lith N8 Relic (Common)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Lith H3 Relic (Common)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "Lith N12 Relic (Common)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Астилла Прайм: Приёмник",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Реликвия Акси N7 (Обычный)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "Реликвия Лит N8 (Обычный)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Реликвия Лит H3 (Обычный)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "Реликвия Лит N12 (Обычный)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ko": {
         "item_name": "아스틸라 프라임 리시버",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "액시 N7 성유물 (커먼)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "리스 N8 성유물 (커먼)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "리스 H3 성유물 (커먼)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "리스 N12 성유물 (커먼)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "de": {
         "item_name": "Astilla Prime: Gehäuse",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi-relikt: N7 (Gewöhnlich)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "Lith-relikt: N8 (Gewöhnlich)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Lith-relikt: H3 (Gewöhnlich)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "Lith-relikt: N12 (Gewöhnlich)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Astilla Prime - Culasse",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relique Axi N7 (Commun)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "Relique Lith N8 (Commun)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relique Lith H3 (Commun)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "Relique Lith N12 (Commun)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Astilla Prime: Receptor",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relíquia Axi N7 (Comum)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "Relíquia Lith N8 (Comum)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relíquia Lith H3 (Comum)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "Relíquia Lith N12 (Comum)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "碎裂者 Prime 枪机",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "后纪 N7 遗物 (常见)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "古纪 N8 遗物 (常见)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "古纪 H3 遗物 (常见)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "古纪 N12 遗物 (常见)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "碎裂者 Prime 槍機",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "後紀 N7 遺物 (常見)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "古紀 N8 遺物 (常見)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "古紀 H3 遺物 (常見)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "古紀 N12 遺物 (常見)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "es": {
         "item_name": "Receptor De Astilla Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi N7 (Común)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "Reliquia Lith N8 (Común)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Reliquia Lith H3 (Común)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "Reliquia Lith N12 (Común)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "it": {
         "item_name": "Astilla Prime - Castello",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi N7 (Common)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "Reliquia Lith N8 (Common)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Reliquia Lith H3 (Common)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "Reliquia Lith N12 (Common)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Astilla Prime: Korpus",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relikt Axi N7 (Powszechny)",
-                "link": "axi_n7_relic"
-            },
-            {
-                "name": "Relikt Lith N8 (Powszechny)",
-                "link": "lith_n8_relic"
-            },
-            {
-                "name": "Relikt Lith H3 (Powszechny)",
-                "link": "lith_h3_relic"
-            },
-            {
-                "name": "Relikt Lith N12 (Powszechny)",
-                "link": "lith_n12_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "mastery_level": 14,
     "ducats": 15,

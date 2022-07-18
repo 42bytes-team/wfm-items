@@ -2,10 +2,11 @@
     "_id": "622c032966a58f0048549b1a",
     "tags": [
         "mod",
-        "legendary"
+        "legendary",
+        "sniper"
     ],
-    "icon": "icons/en/primed_sniper_ammo_mutation.c03bd7dc7932247caeb35a1b2db935f0.png",
-    "thumb": "icons/en/thumbs/primed_sniper_ammo_mutation.c03bd7dc7932247caeb35a1b2db935f0.128x128.png",
+    "icon": "items/images/en/primed_sniper_ammo_mutation.c03bd7dc7932247caeb35a1b2db935f0.png",
+    "thumb": "items/images/en/thumbs/primed_sniper_ammo_mutation.c03bd7dc7932247caeb35a1b2db935f0.128x128.png",
     "icon_format": "port",
     "url_name": "primed_sniper_ammo_mutation",
     "tradable": true,
@@ -15,68 +16,57 @@
     "en": {
         "item_name": "Primed Sniper Ammo Mutation",
         "description": "Converts unused ammo pickups into Sniper ammo. Pistol/Rifle <AMMO_MUTATION> 14 and Shotgun <AMMO_MUTATION> 28.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Мутатор Прайм: Снайперская Винтовка",
-        "description": "Преобразует неиспользуемые боеприпасы в патроны для снайперской винтовки. Пистолет/Винтовка <AMMO_MUTATION> 14 и Дробовик <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80_%D0%A1%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B0",
-        "drop": []
+        "description": "Преобразует неиспользуемые боеприпасы в патроны для снайперской винтовки. Пистолет/винтовка <AMMO_MUTATION> 14 и дробовик <AMMO_MUTATION> 28.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80_%D0%A1%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B0"
     },
     "ko": {
         "item_name": "프라임드 스나이퍼 애모 뮤테이션",
         "description": "사용되지 않는 탄약 드롭 아이템을 저격총 탄약으로 변환합니다. 권총/소총 탄약 변환량: <AMMO_MUTATION>14, 산탄총 탄약 변환량: <AMMO_MUTATION>28.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Primed Munition-wandler: Gewehr",
         "description": "Ungenutzte Munition wird in Scharfschützenmunition umgewandelt. Pistolen/Gewehr <AMMO_MUTATION> 14 und Schrot <AMMO_MUTATION> 28.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Munitionswandler_Gewehr",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Munitionswandler_Gewehr"
     },
     "fr": {
         "item_name": "Mutation De Fusil De Sniper Accrue",
         "description": "Convertit les munitions ramassées inutilisées en munitions Sniper; <AMMO_MUTATION> 14 Pistolet/Fusil et <AMMO_MUTATION> 28 Fusil à Pompe.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Primed Sniper Ammo Mutation",
         "description": "Converte coletáveis de munição em munição de Rifle de Precisão. Pistola/Rifle <AMMO_MUTATION> 14 e Escopeta <AMMO_MUTATION> 28.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "狙击枪弹药转换 Prime",
         "description": "将未使用的弹药拾取转换成狙击枪弹药。手枪/步枪 <AMMO_MUTATION> 14 和霰弹枪 <AMMO_MUTATION> 28。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "狙擊槍彈藥轉換 Prime",
         "description": "將未使用的彈藥轉換成狙擊槍彈藥。手槍/步槍 <AMMO_MUTATION> 14 及霰彈槍 <AMMO_MUTATION> 28。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Mutación De Munición De Francotirador Prime",
         "description": "Convierte la munición recogida no utilizada en munición de francotirador. Pistola/rifle <AMMO_MUTATION> 14 y escopeta <AMMO_MUTATION> 28.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Primed Sniper Ammo Mutation",
         "description": "Converte le munizioni inutilizzate raccolte in Munizioni Fucile da Cecchino. Pistola/Fucile <AMMO_MUTATION> 14 e Fucile a Pompa <AMMO_MUTATION> 28.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Mutator Snajperski Prime",
         "description": "Przekształca nieużywaną podniesioną amunicję w Amunicję Specjalną. Od broni Bocznej/Głównej daje <AMMO_MUTATION> 14, a z Strzelb daje <AMMO_MUTATION> 28.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "legendary",
     "max_rank": 10,

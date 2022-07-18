@@ -1,11 +1,10 @@
 {
     "_id": "5f498a269426ed00443bd0d7",
     "tags": [
-        "gems",
         "gem"
     ],
-    "icon": "icons/en/purged_dagonic.1c0e451cdc247aad586725125e8161e0.png",
-    "thumb": "icons/en/thumbs/purged_dagonic.1c0e451cdc247aad586725125e8161e0.128x128.png",
+    "icon": "items/images/en/purged_dagonic.1c0e451cdc247aad586725125e8161e0.png",
+    "thumb": "items/images/en/thumbs/purged_dagonic.1c0e451cdc247aad586725125e8161e0.128x128.png",
     "icon_format": "port",
     "url_name": "purged_dagonic",
     "tradable": true,
@@ -15,68 +14,57 @@
     "en": {
         "item_name": "Purged Dagonic",
         "description": "Crystalline symmetry, a far cry from its corrupt origin.\nBlueprint sold by Otak in the Necralisk, Deimos.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Purged_Dagonic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Purged_Dagonic"
     },
     "ru": {
         "item_name": "Очищенный Дагоник",
         "description": "Идеальная кристаллическая симметрия, далёкая от ее испорченного происхождения.\nЧертёж можно купить у Отака в Некралиске на Деймосе.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%87%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%94%D0%B0%D0%B3%D0%BE%D0%BD%D0%B8%D0%BA",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%87%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%94%D0%B0%D0%B3%D0%BE%D0%BD%D0%B8%D0%BA"
     },
     "ko": {
         "item_name": "퍼지드 다고닉",
         "description": "수정같이 맑은 대칭형의 보석으로, 본래의 부정한 모습과는 천지 차이로 다릅니다.\n데이모스의 네크랄리스크에 있는 오탁에게서 설계도를 구매할 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Purged_Dagonic",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Purged_Dagonic"
     },
     "de": {
         "item_name": "Gereinigter Dagonik",
         "description": "Kristalline Symmetrie, weit entfernt von ihrem korrupten Ursprung.\nFundort: Blaupause erhältlich von Otak im Necralisk, Deimos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Purged_Dagonic",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Purged_Dagonic"
     },
     "fr": {
         "item_name": "Dagonique Purgée",
         "description": "Une symétrie cristalline, bien loin de son origine corrompue.\nSchéma vendu par Otak dans le Necralisk, Deimos.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dagonique_Purg%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dagonique_Purg%C3%A9e"
     },
     "pt": {
         "item_name": "Dagônica Expurgada",
         "description": "Simetria cristalina, muito distante de sua origem corrupta.\nSeu Diagrama pode ser obtido junto ao Otak, no Necralisk, em Deimos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Purged_Dagonic",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Purged_Dagonic"
     },
     "zh-hans": {
         "item_name": "净化达戈琥珀",
         "description": "与其肮脏的来源有天壤之别的对称晶体。\n来源：火卫二上殁世幽都的 Otak 出售的蓝图。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Purged_Dagonic",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Purged_Dagonic"
     },
     "zh-hant": {
         "item_name": "淨化大滾石",
         "description": "對稱型的結晶，與其腐敗的起源截然不同。\n來源：Otak 出售的藍圖（亡骸殿，火衛二）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Purged_Dagonic",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Purged_Dagonic"
     },
     "es": {
         "item_name": "Dagónica Purgada",
         "description": "Simetría cristalina, a pesar de su origen corrupto.\nEl plano lo vende Otak en el Necralisk, Deimos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Dag%C3%B3nica_purgada",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Dag%C3%B3nica_purgada"
     },
     "it": {
         "item_name": "Dagonic Epurata",
         "description": "Simmetria cristallina, molto lontana dalle sue corrotte origini.\nLo schema è acquistabile da Otak su Necralisk (Deimos).",
-        "wiki_link": "http://warframe.wikia.com/wiki/Purged_Dagonic",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Purged_Dagonic"
     },
     "pl": {
         "item_name": "Odkażony Dagonik",
         "description": "Krystaliczna symetria, zupełnie niepodobna do jej plugawego źródła.\nSchemat do kupienia u Otaka w Nekralisku, Deimos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Purged_Dagonic",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Purged_Dagonic"
     },
     "trading_tax": 2000
 }

@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "equinox"
     ],
-    "icon": "icons/en/Calm_&_Frenzy.c5528e92d2b6b52e8c6903cf7e453fe5.png",
-    "thumb": "icons/en/thumbs/Calm_&_Frenzy.c5528e92d2b6b52e8c6903cf7e453fe5.128x128.png",
+    "icon": "items/images/en/calm_and_frenzy.c5528e92d2b6b52e8c6903cf7e453fe5.png",
+    "thumb": "items/images/en/thumbs/calm_and_frenzy.c5528e92d2b6b52e8c6903cf7e453fe5.128x128.png",
     "icon_format": "port",
     "url_name": "calm_and_frenzy",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Calm & Frenzy",
         "description": "Rest & Rage Augment: Killing an affected enemy causes the effect to spread to enemies within 5m for 100% of the remaining duration.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Calm_%26_Frenzy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Calm_%26_Frenzy"
     },
     "ru": {
         "item_name": "Спокойствие И Безумство",
         "description": "Улучшение способности «Покой и ярость»: при убийстве врага, находящегося под этим эффектом, эффект перебрасывается на других врагов в радиусе 5 м на 100% от оставшегося времени действия способности.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D0%B8_%D0%91%D0%B5%D0%B7%D1%83%D0%BC%D1%81%D1%82%D0%B2%D0%BE",
-        "icon": "icons/ru/Calm_&_Frenzy.55a1c8897bdb98a7f2f6112c6e6dc3fb.png",
-        "thumb": "icons/ru/thumbs/Calm_&_Frenzy.55a1c8897bdb98a7f2f6112c6e6dc3fb.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/calm_and_frenzy.55a1c8897bdb98a7f2f6112c6e6dc3fb.png",
+        "thumb": "items/images/ru/thumbs/calm_and_frenzy.55a1c8897bdb98a7f2f6112c6e6dc3fb.128x128.png"
     },
     "ko": {
         "item_name": "캄 & 프렌지",
         "description": "레스트 & 레이지 개조: 영향 받은 적을 처치할 시 5m 내의 적에게 효과가 확산되며 남은 지속 시간의 100% 동안 유지됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Calm_%26_Frenzy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Calm_%26_Frenzy"
     },
     "de": {
         "item_name": "Gelassenheit & Raserei",
         "description": "Ruhe & Rage Augment: Das Töten eines betroffenen Gegners überträgt den Effekt auf Gegner innerhalb von 5 m für 100 % der verbleibenden Dauer.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gelassenheit_%26_Raserei",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gelassenheit_%26_Raserei"
     },
     "fr": {
         "item_name": "Calme & Frénésie",
         "description": "Augmentation de Obnubilation & Fulmination: Les ennemis affectés propagent, lorsque tués, l'effet de ce pouvoir dans un rayon de 5m avec 100% de la durée restante.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Calme_%26_Fr%C3%A9n%C3%A9sie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Calme_%26_Fr%C3%A9n%C3%A9sie"
     },
     "pt": {
         "item_name": "Calm & Frenzy",
         "description": "Ampliação Rest & Rage: Matar um inimigo afetado pela habilidade fará com que o efeito espalhe para os inimigos dentro de 5m durante 100% da duração restante.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Calm_%26_Frenzy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Calm_%26_Frenzy"
     },
     "zh-hans": {
         "item_name": "冷静与疯狂",
-        "description": "暂息 — 怒气强化：杀死一名受到技能影响的敌人会造成该技能的效果传播 5 米持续 100% 的剩余持续时间",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Calm_%26_Frenzy",
-        "drop": []
+        "description": "暂息－怒气强化：杀死一名受到技能影响的敌人会造成该技能的效果传播 5 米持续 100% 的剩余持续时间",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Calm_%26_Frenzy"
     },
     "zh-hant": {
         "item_name": "冷靜與瘋狂",
         "description": "暫息 & 怒氣強化：殺死一名受到技能影響的敵人會造成該技能的效果傳播 5 公尺並持續 100% 的剩餘持續時間。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Calm_%26_Frenzy",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Calm_%26_Frenzy"
     },
     "es": {
         "item_name": "Calma & Frenesí",
         "description": "Aumento de Descansar & Enfurecer: matar a un enemigo afectado causa que se propague el efecto dentro de 5m durante 100% de la duración restante.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Calma_%26_Frenes%C3%AD",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Calma_%26_Frenes%C3%AD"
     },
     "it": {
         "item_name": "Calm & Frenzy",
         "description": "Potenziamento Rest & Rage: Uccidere un nemico affetto dal potere causa la diffusione dell'effetto sui nemici circostanti entro 5m per il 100% della durata rimanente.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Calm_&_Frenzy",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Calm_&_Frenzy"
     },
     "pl": {
         "item_name": "Opanowanie I Amok",
         "description": "Modyfikacja Snu lub Wściekłości: Zabicie wroga pod wpływem mocy zainfekuje wrogów znajdujących się w zasięgu 5m, na 100% pozostałego czasu trwania mocy.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Opanowanie_i_Amok",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Opanowanie_i_Amok"
     },
     "rarity": "rare",
     "max_rank": 3,

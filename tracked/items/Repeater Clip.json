@@ -6,8 +6,8 @@
         "uncommon",
         "primary"
     ],
-    "icon": "icons/en/Repeater_Clip.83e327e168e4c91bc7d9c5ed0fbe1604.png",
-    "thumb": "icons/en/thumbs/Repeater_Clip.83e327e168e4c91bc7d9c5ed0fbe1604.128x128.png",
+    "icon": "items/images/en/repeater_clip.83e327e168e4c91bc7d9c5ed0fbe1604.png",
+    "thumb": "items/images/en/thumbs/repeater_clip.83e327e168e4c91bc7d9c5ed0fbe1604.128x128.png",
     "icon_format": "port",
     "url_name": "repeater_clip",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Repeater Clip",
         "description": "On Reload:\n+105% Fire Rate when Aiming for 9s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Repeater_Clip",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Repeater_Clip"
     },
     "ru": {
         "item_name": "Повторитель Магазина",
         "description": "При перезарядке:\n+105% к скорострельности при прицеливании в течение 9с",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0",
-        "icon": "icons/ru/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.png",
-        "thumb": "icons/ru/thumbs/Repeater_Clip.733d2b356f7f7bf661f4464853f8362d.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/repeater_clip.733d2b356f7f7bf661f4464853f8362d.png",
+        "thumb": "items/images/ru/thumbs/repeater_clip.733d2b356f7f7bf661f4464853f8362d.128x128.png"
     },
     "ko": {
         "item_name": "리피터 클립",
         "description": "재장전 시:\n9초 동안 조준 시 +105% 연사력",
-        "wiki_link": "https://warframe.fandom.com/wiki/Repeater_Clip",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Repeater_Clip"
     },
     "de": {
         "item_name": "Verstärkermagazin",
         "description": "Beim Nachladen:\n+105 % Feuerrate beim Zielen für 9s",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verst%C3%A4rkermagazin",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Verst%C3%A4rkermagazin"
     },
     "fr": {
         "item_name": "Chargeur À Répétition",
         "description": "Sur Recharge:\nPendant 9s, +105% de Cadence de Tir en Visant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chargeur_%C3%A0_R%C3%A9p%C3%A9tition",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chargeur_%C3%A0_R%C3%A9p%C3%A9tition"
     },
     "pt": {
         "item_name": "Repeater Clip",
         "description": "Ao Recarregar:\n+105% de Cadência de Tiro ao Mirar por 9s",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Repeater_Clip",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Repeater_Clip"
     },
     "zh-hans": {
         "item_name": "转轮弹匣",
         "description": "装弹时：\n瞄准时增加 +105% 射速，持续 9 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Repeater_Clip",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Repeater_Clip"
     },
     "zh-hant": {
         "item_name": "轉輪彈匣",
         "description": "裝彈時：\n瞄準時增加 +105% 射速，持續 9 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Repeater_Clip",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Repeater_Clip"
     },
     "es": {
         "item_name": "Cargador De Repetición",
         "description": "Al recargar:\n+105% de cadencia de fuego mientras apuntas por 9s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_de_repetici%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cargador_de_repetici%C3%B3n"
     },
     "it": {
         "item_name": "Repeater Clip",
         "description": "Dopo la Ricarica:\n+105% Cadenza di Tiro durante la mira per 9s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Repeater_Clip",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Repeater_Clip"
     },
     "pl": {
         "item_name": "Powtarzalny Ładownik",
         "description": "Przy przeładowaniu:\n+105% Szybkostrzelności podczas celowania przez 9s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Repeater_Clip",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Repeater_Clip"
     },
     "rarity": "uncommon",
     "max_rank": 5,

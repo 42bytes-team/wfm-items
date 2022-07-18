@@ -1,14 +1,11 @@
 {
     "_id": "5ee76f4d04d55c0a8197243c",
     "tags": [
-        "weapon",
-        "stock",
-        "primary",
         "component",
-        "weapons"
+        "weapon"
     ],
-    "icon": "icons/en/stahlta_set.30d7537c3158976f86998e5b9fa05f96.png",
-    "thumb": "icons/en/thumbs/stahlta_set.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+    "icon": "items/images/en/stahlta_stock.30d7537c3158976f86998e5b9fa05f96.png",
+    "thumb": "items/images/en/thumbs/stahlta_stock.30d7537c3158976f86998e5b9fa05f96.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
     "url_name": "stahlta_stock",
@@ -27,68 +24,57 @@
     "en": {
         "item_name": "Stahlta Stock",
         "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta"
     },
     "ru": {
         "item_name": "Стальта: Приклад",
         "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D1%82%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D1%82%D0%B0"
     },
     "ko": {
         "item_name": "스탈타 스톡",
         "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta"
     },
     "de": {
         "item_name": "Stahlta: Schaft",
         "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta"
     },
     "fr": {
         "item_name": "Stahlta - Crosse",
         "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stahlta"
     },
     "pt": {
         "item_name": "Stahlta: Coronha",
         "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta"
     },
     "zh-hans": {
         "item_name": "钢刃步枪 枪托",
         "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stahlta"
     },
     "zh-hant": {
         "item_name": "鋼砲步槍 槍托",
         "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stahlta"
     },
     "es": {
         "item_name": "Culata De Stahlta",
         "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Stahlta"
     },
     "it": {
         "item_name": "Stahlta - Calcio",
         "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stahlta"
     },
     "pl": {
         "item_name": "Stahlta: Kolba",
         "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Stahlta",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Stahlta"
     },
     "mastery_level": 10,
     "trading_tax": 2000

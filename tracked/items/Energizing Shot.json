@@ -3,11 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "pistol",
-        "secondary"
+        "secondary",
+        "pistol_(no_aoe)"
     ],
-    "icon": "icons/en/energizing_shot.8e0c1b01dba24357b770fe970d57c459.png",
-    "thumb": "icons/en/thumbs/energizing_shot.8e0c1b01dba24357b770fe970d57c459.128x128.png",
+    "icon": "items/images/en/energizing_shot.8e0c1b01dba24357b770fe970d57c459.png",
+    "thumb": "items/images/en/thumbs/energizing_shot.8e0c1b01dba24357b770fe970d57c459.128x128.png",
     "icon_format": "port",
     "url_name": "energizing_shot",
     "tradable": true,
@@ -17,68 +17,57 @@
     "en": {
         "item_name": "Energizing Shot",
         "description": "Shoot Energy Orbs to obtain them with +110% extra effect.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot"
     },
     "ru": {
         "item_name": "Бодрящий Выстрел",
         "description": "Стреляйте по сферам энергии, чтобы получить их с +110% доп. эффекта.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B4%D1%80%D1%8F%D1%89%D0%B8%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B4%D1%80%D1%8F%D1%89%D0%B8%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB"
     },
     "ko": {
         "item_name": "에너자이징 샷",
         "description": "에너지 오브를 쏠 시 +110%의 추가 효과와 함께 습득할 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot"
     },
     "de": {
         "item_name": "Energieschuss",
         "description": "Schieße auf Energiekugeln, um sie mit einem Bonus-Effekt von +110 % zu erhalten.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Energiefaust",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Energiefaust"
     },
     "fr": {
         "item_name": "Tir Énergisant",
         "description": "Tirez sur les Orbes d'Énergie pour les obtenir avec +110% d'effet en plus.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot"
     },
     "pt": {
         "item_name": "Energizing Shot",
         "description": "Atire em Orbes de Energia para obtê-las com +110% de efeito extra.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot"
     },
     "zh-hans": {
         "item_name": "充沛射击",
         "description": "通过射击能量球来捡取它们，并获得 +110% 的额外效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energizing_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energizing_Shot"
     },
     "zh-hant": {
         "item_name": "振能槍火",
         "description": "射擊能量球來獲取他們，並提升 +110% 額外效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energizing_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energizing_Shot"
     },
     "es": {
         "item_name": "Disparo Energizante",
         "description": "Dispara a orbes de energía para obtenerlas con un +110% de efecto adicional.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_energizante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_energizante"
     },
     "it": {
         "item_name": "Energizing Shot",
         "description": "Spara alle Sfere di Energia per ottenerle con il +110% di effetto extra.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot"
     },
     "pl": {
         "item_name": "Energetyzujący Strzał",
         "description": "Strzelaj do Kul Energii, aby pozyskać je z dodatkowym +110% efektem.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Energizing_Shot"
     },
     "rarity": "rare",
     "max_rank": 10,

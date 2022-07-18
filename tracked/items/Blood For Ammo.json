@@ -2,12 +2,11 @@
     "_id": "5dbe9b0b7ea27b0ffe3ca26f",
     "tags": [
         "mod",
-        "warframe",
         "common",
         "parazon"
     ],
-    "icon": "icons/en/blood_for_ammo.f06e780d82b900677e1d866ff661410f.png",
-    "thumb": "icons/en/thumbs/blood_for_ammo.f06e780d82b900677e1d866ff661410f.128x128.png",
+    "icon": "items/images/en/blood_for_ammo.f06e780d82b900677e1d866ff661410f.png",
+    "thumb": "items/images/en/thumbs/blood_for_ammo.f06e780d82b900677e1d866ff661410f.128x128.png",
     "icon_format": "port",
     "url_name": "blood_for_ammo",
     "tradable": true,
@@ -16,71 +15,60 @@
     },
     "en": {
         "item_name": "Blood For Ammo",
-        "description": "Mercy refills Primary and Secondary Magazine by 100%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo",
-        "drop": []
+        "description": "Mercy Kill refills Primary and Secondary Magazine by 100%",
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo"
     },
     "ru": {
         "item_name": "Кровь За Патроны",
-        "description": "Выполнение Милосердия пополняет магазины Основного и Вторичного оружия на 100%",
+        "description": "Выполнение убийства «Милосердием» пополняет магазины основного и вторичного оружия на 100%",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%BE%D0%B2%D1%8C_%D0%B7%D0%B0_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
-        "icon": "icons/ru/blood_for_ammo.0bc379f6fe9a7243e0617eab0209f1a2.png",
-        "thumb": "icons/ru/thumbs/blood_for_ammo.0bc379f6fe9a7243e0617eab0209f1a2.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/blood_for_ammo.0bc379f6fe9a7243e0617eab0209f1a2.png",
+        "thumb": "items/images/ru/thumbs/blood_for_ammo.0bc379f6fe9a7243e0617eab0209f1a2.128x128.png"
     },
     "ko": {
         "item_name": "블러드 포 애모",
         "description": "자비의 일격 시 주무기 및 보조 무기의 탄창을 100%만큼 충전",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo"
     },
     "de": {
         "item_name": "Blut Für Munition",
         "description": "Gnadenstöße füllen die Magazine der Primär- und Sekundärwaffe um 100 % auf",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo"
     },
     "fr": {
         "item_name": "Munitions Ensanglantées",
-        "description": "Les Miséricordes réapprovisionnent les Chargeurs des Armes Principales et Secondaires de 100%",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Munitions_Ensanglant%C3%A9es",
-        "drop": []
+        "description": "Les éliminations par Miséricorde réapprovisionnent les Chargeurs des Armes Principales et Secondaires de 100%",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Munitions_Ensanglant%C3%A9es"
     },
     "pt": {
         "item_name": "Blood For Ammo",
-        "description": "Misericórdia reabastece o Carregador da arma Primária e Secundária em 100%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo",
-        "drop": []
+        "description": "Finalizações de Misericórdia reabastecem o Carregador da Arma Primária e Secundária em 100%",
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo"
     },
     "zh-hans": {
         "item_name": "血易弹药",
         "description": "怜悯之击可装填主要武器和次要武器 100% 的弹匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_For_Ammo",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_For_Ammo"
     },
     "zh-hant": {
         "item_name": "血償火器",
         "description": "慈悲斬殺為當前武器重新裝填 100% 彈匣容量的彈藥",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_For_Ammo",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blood_For_Ammo"
     },
     "es": {
         "item_name": "Sangre Por Munición",
-        "description": "Misericordia rellena el cargador del arma primaria y secundaria por 100%",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sangre_por_munici%C3%B3n",
-        "drop": []
+        "description": "Asesinato de Misericordia rellena el cargador del arma primaria y secundaria en un 100 %",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Sangre_por_munici%C3%B3n"
     },
     "it": {
         "item_name": "Blood For Ammo",
-        "description": "Mercy ricarica il Caricatore delle armi Primarie e Secondarie del 100%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo",
-        "drop": []
+        "description": "L'uccisione Mercy ricarica il Caricatore delle armi Primarie e Secondarie del 100%",
+        "wiki_link": "https://warframe.fandom.com/wiki/Blood_For_Ammo"
     },
     "pl": {
         "item_name": "Krew Za Amunicję",
-        "description": "Miłosierdzie uzupełnia 100% Magazynka Broni Głównej i Bocznej",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krew_za_Amunicj%C4%99",
-        "drop": []
+        "description": "Zabicia Miłosierdziem uzupełniają 100% Magazynka Broni Głównej i Bocznej",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krew_za_Amunicj%C4%99"
     },
     "rarity": "common",
     "trading_tax": 2000

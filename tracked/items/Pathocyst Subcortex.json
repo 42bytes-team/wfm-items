@@ -1,14 +1,11 @@
 {
     "_id": "5d8f65b37ea27b0968b6e57a",
     "tags": [
-        "subcortex",
-        "weapon",
-        "melee",
         "component",
-        "glaive"
+        "weapon"
     ],
-    "icon": "icons/en/pathocyst_subcortex.f423b7a6a78d2e4780c1007f0f0fb464.png",
-    "thumb": "icons/en/thumbs/pathocyst_subcortex.f423b7a6a78d2e4780c1007f0f0fb464.128x128.png",
+    "icon": "items/images/en/pathocyst_subcortex.f423b7a6a78d2e4780c1007f0f0fb464.png",
+    "thumb": "items/images/en/thumbs/pathocyst_subcortex.f423b7a6a78d2e4780c1007f0f0fb464.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/weapon/generic_disc_128x128.png",
     "url_name": "pathocyst_subcortex",
@@ -27,68 +24,57 @@
     "en": {
         "item_name": "Pathocyst Subcortex",
         "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pathocyst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pathocyst"
     },
     "ru": {
         "item_name": "Патоцист: Вторичный Кортекс",
         "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%82%D0%BE%D1%86%D0%B8%D1%81%D1%82",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%82%D0%BE%D1%86%D0%B8%D1%81%D1%82"
     },
     "ko": {
         "item_name": "패소시스트 서브코텍스",
         "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pathocyst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pathocyst"
     },
     "de": {
         "item_name": "Pathocyst: Subkortex",
         "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pupacyst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Pupacyst"
     },
     "fr": {
         "item_name": "Pathocyste - Cortex Inférieur",
         "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pathocyst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pathocyst"
     },
     "pt": {
         "item_name": "Pathocyst: Subcórtex",
         "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pathocyst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pathocyst"
     },
     "zh-hans": {
         "item_name": "病囊飞刃 下皮层",
         "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pathocyst",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pathocyst"
     },
     "zh-hant": {
         "item_name": "病囊飛刃 下皮層",
         "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pathocyst",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pathocyst"
     },
     "es": {
         "item_name": "Subcorteza De Pathocyst",
         "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pathocyst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pathocyst"
     },
     "it": {
         "item_name": "Pathocyst - Sottocorteccia",
         "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Paracyst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Paracyst"
     },
     "pl": {
         "item_name": "Pathocyst: Podkora",
         "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pathocyst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pathocyst"
     },
     "mastery_level": 9,
     "trading_tax": 2000

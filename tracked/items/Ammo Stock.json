@@ -6,8 +6,8 @@
         "uncommon",
         "primary"
     ],
-    "icon": "icons/en/Ammo_Stock.f8a0f59f9f16bf21f5e70c45a03d62a9.png",
-    "thumb": "icons/en/thumbs/Ammo_Stock.f8a0f59f9f16bf21f5e70c45a03d62a9.128x128.png",
+    "icon": "items/images/en/ammo_stock.f8a0f59f9f16bf21f5e70c45a03d62a9.png",
+    "thumb": "items/images/en/thumbs/ammo_stock.f8a0f59f9f16bf21f5e70c45a03d62a9.128x128.png",
     "icon_format": "port",
     "url_name": "ammo_stock",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Ammo Stock",
         "description": "+60% Magazine Capacity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ammo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ammo"
     },
     "ru": {
         "item_name": "Патронташ",
         "description": "+60% к вместимости магазина",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%82%D0%B0%D1%88",
-        "icon": "icons/ru/Ammo_Stock.82cf7bea61f1c5d680d7300461cffa6a.png",
-        "thumb": "icons/ru/thumbs/Ammo_Stock.82cf7bea61f1c5d680d7300461cffa6a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/ammo_stock.82cf7bea61f1c5d680d7300461cffa6a.png",
+        "thumb": "items/images/ru/thumbs/ammo_stock.82cf7bea61f1c5d680d7300461cffa6a.128x128.png"
     },
     "ko": {
         "item_name": "애모 스톡",
         "description": "+60% 탄창 용량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ammo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ammo"
     },
     "de": {
         "item_name": "Magazinschaft",
         "description": "+60 % Magazingröße",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Magazinschaft",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Magazinschaft"
     },
     "fr": {
         "item_name": "Stock De Balles",
         "description": "+60% de Taille Du Chargeur",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stock_de_Balles",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stock_de_Balles"
     },
     "pt": {
         "item_name": "Ammo Stock",
         "description": "+60% de Capacidade do Carregador",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ammo_Stock",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ammo_Stock"
     },
     "zh-hans": {
         "item_name": "霰弹扩充",
         "description": "+60% 弹匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ammo",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ammo"
     },
     "zh-hant": {
         "item_name": "霰彈擴充",
         "description": "+60% 彈匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ammo",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ammo"
     },
     "es": {
         "item_name": "Reserva De Munición",
         "description": "+60% de capacidad de cargador",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Reserva_de_munici%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Reserva_de_munici%C3%B3n"
     },
     "it": {
         "item_name": "Ammo Stock",
         "description": "+60% Capienza Caricatore",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Ammo_Stock",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Ammo_Stock"
     },
     "pl": {
         "item_name": "Zapas Amunicji",
         "description": "+60% Pojemności Magazynka",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zapas_Amunicji",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zapas_Amunicji"
     },
     "rarity": "uncommon",
     "max_rank": 5,

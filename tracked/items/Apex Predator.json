@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a4ca",
     "tags": [
-        "mod",
+        "primary",
         "uncommon",
         "pvp",
-        "primary"
+        "rifle",
+        "mod"
     ],
-    "icon": "icons/en/Apex_Predator.2d037a2722b651e3cb5e86c1cc234a6e.png",
-    "thumb": "icons/en/thumbs/Apex_Predator.2d037a2722b651e3cb5e86c1cc234a6e.128x128.png",
+    "icon": "items/images/en/apex_predator.2d037a2722b651e3cb5e86c1cc234a6e.png",
+    "thumb": "items/images/en/thumbs/apex_predator.2d037a2722b651e3cb5e86c1cc234a6e.128x128.png",
     "icon_format": "port",
     "url_name": "apex_predator",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Apex Predator",
         "description": "On Hit: Reveals target on Minimap for +6s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Apex_Predator",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Apex_Predator"
     },
     "ru": {
         "item_name": "Охотник С Вершин",
         "description": "При попадании: Цель отображается на карте в течение +6с.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA_%D1%81_%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BD",
-        "icon": "icons/ru/Apex_Predator.3c9401878375b22d889d18a98808abed.png",
-        "thumb": "icons/ru/thumbs/Apex_Predator.3c9401878375b22d889d18a98808abed.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/apex_predator.3c9401878375b22d889d18a98808abed.png",
+        "thumb": "items/images/ru/thumbs/apex_predator.3c9401878375b22d889d18a98808abed.128x128.png"
     },
     "ko": {
         "item_name": "에이펙스 프레데터",
         "description": "명중 시: 대상을 미니맵에 +6초동안 표시",
-        "wiki_link": "https://warframe.fandom.com/wiki/Apex_Predator",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Apex_Predator"
     },
     "de": {
         "item_name": "Spitzenprädator",
         "description": "Bei Treffer: Enthüllt Ziel auf der Minikarte für +6 s.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Spitzenpr%C3%A4dator",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Spitzenpr%C3%A4dator"
     },
     "fr": {
         "item_name": "Grand Prédateur",
         "description": "Sur Coup: Affiche la cible sur la Minicarte pendant +6sec.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pr%C3%A9dateur",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pr%C3%A9dateur"
     },
     "pt": {
         "item_name": "Apex Predator",
         "description": "No acerto: Revela alvos no Minimapa por +6s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Apex_Predator",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Apex_Predator"
     },
     "zh-hans": {
         "item_name": "顶级掠食者",
         "description": "击中后： 在小地图中揭示目标 +6 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Apex_Predator",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Apex_Predator"
     },
     "zh-hant": {
         "item_name": "頂級掠食者",
         "description": "擊中後： 在小地圖中揭示目標 +6 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Apex_Predator",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Apex_Predator"
     },
     "es": {
         "item_name": "Superpredador",
         "description": "Al golpear: Revela al objetivo en el minimapa por +6s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Superpredador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Superpredador"
     },
     "it": {
         "item_name": "Apex Predator",
         "description": "Quando colpisce: Rivela bersagli sulla Minimappa per +6s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Apex_Predator",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Apex_Predator"
     },
     "pl": {
         "item_name": "Drapieżnik Alfa",
         "description": "Przy Trafieniu: Ujawnia cel na Minimapie na +6s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Drapie%C5%BCnik_Alfa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Drapie%C5%BCnik_Alfa"
     },
     "rarity": "uncommon",
     "max_rank": 5,

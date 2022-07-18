@@ -3,9 +3,11 @@
     "url_name": "mire",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/mire.4bc449120b1046c370d6fbca3b3c5f2a.png",
-    "thumb": "icons/en/thumbs/mire.4bc449120b1046c370d6fbca3b3c5f2a.128x128.png",
+    "icon": "items/images/en/mire.4bc449120b1046c370d6fbca3b3c5f2a.png",
+    "thumb": "items/images/en/thumbs/mire.4bc449120b1046c370d6fbca3b3c5f2a.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 5,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/Melee/Swords/Mire/MireSword"
     },

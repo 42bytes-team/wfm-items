@@ -2,12 +2,11 @@
     "_id": "5be701153ffcc703e462c70c",
     "tags": [
         "mod",
-        "k-drive",
         "common",
-        "---"
+        "k_drive"
     ],
-    "icon": "icons/en/Mag_Locks.276bba4eb302ed0a1f7e10e3ae05784b.png",
-    "thumb": "icons/en/thumbs/Mag_Locks.276bba4eb302ed0a1f7e10e3ae05784b.128x128.png",
+    "icon": "items/images/en/mag_locks.276bba4eb302ed0a1f7e10e3ae05784b.png",
+    "thumb": "items/images/en/thumbs/mag_locks.276bba4eb302ed0a1f7e10e3ae05784b.128x128.png",
     "icon_format": "port",
     "url_name": "mag_locks",
     "tradable": true,
@@ -17,70 +16,59 @@
     "en": {
         "item_name": "Mag Locks",
         "description": "+30% K-Drive Grind Magnetism",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Locks",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Locks"
     },
     "ru": {
         "item_name": "Магнитные Захваты",
         "description": "+30% к магнетизму грайнда К-драйва",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D1%8B%D0%B5_%D0%97%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D1%8B",
-        "icon": "icons/ru/Mag_Locks.3ddde5e04c01e46c3bf169093fdd48d4.png",
-        "thumb": "icons/ru/thumbs/Mag_Locks.3ddde5e04c01e46c3bf169093fdd48d4.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/mag_locks.3ddde5e04c01e46c3bf169093fdd48d4.png",
+        "thumb": "items/images/ru/thumbs/mag_locks.3ddde5e04c01e46c3bf169093fdd48d4.128x128.png"
     },
     "ko": {
         "item_name": "매그 락",
         "description": "+30% K-드라이브 그라인드 자성",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Locks",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Locks"
     },
     "de": {
         "item_name": "Mag-verschlüsse",
         "description": "+30 % K-Drive Grind-Magnetismus",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Mag-Verschl%C3%BCsse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Mag-Verschl%C3%BCsse"
     },
     "fr": {
         "item_name": "Verrouillages Mag",
         "description": "+30% Magnétisme de Grind K-Drive",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Verrouillages_Mag",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Verrouillages_Mag"
     },
     "pt": {
         "item_name": "Mag Locks",
         "description": "+30% de Magnetismo do K-Drive em Superfícies",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mag_Locks",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mag_Locks"
     },
     "zh-hans": {
         "item_name": "磁吸固锁",
         "description": "+30% K 式悬浮板卡杆吸附",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mag_Locks",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mag_Locks"
     },
     "zh-hant": {
         "item_name": "磁吸固鎖",
         "description": "+30% K 式懸浮板卡竿吸附",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mag_Locks",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mag_Locks"
     },
     "es": {
         "item_name": "Seguros Magnéticos",
         "description": "+30% magnetismo de grind para el K-Drive",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Seguros_Magn%C3%A9ticos",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Seguros_Magn%C3%A9ticos"
     },
     "it": {
         "item_name": "Mag Locks",
         "description": "+30% Magnetismo Grind sul K-Drive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Locks",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mag_Locks"
     },
     "pl": {
         "item_name": "Magnetyczny Rygiel",
         "description": "+30% Magnetyzmu Grindów K-Drive",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magnetyczny_Rygiel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magnetyczny_Rygiel"
     },
     "rarity": "common",
     "max_rank": 5,

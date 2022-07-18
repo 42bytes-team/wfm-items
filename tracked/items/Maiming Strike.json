@@ -5,8 +5,8 @@
         "melee",
         "rare"
     ],
-    "icon": "icons/en/Maiming_Strike.5f1cac479fe228788be880a41cfe11b7.png",
-    "thumb": "icons/en/thumbs/Maiming_Strike.5f1cac479fe228788be880a41cfe11b7.128x128.png",
+    "icon": "items/images/en/maiming_strike.5f1cac479fe228788be880a41cfe11b7.png",
+    "thumb": "items/images/en/thumbs/maiming_strike.5f1cac479fe228788be880a41cfe11b7.128x128.png",
     "icon_format": "port",
     "url_name": "maiming_strike",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Maiming Strike",
         "description": "+150% Critical Chance for Slide Attack",
-        "wiki_link": "https://warframe.fandom.com/wiki/Maiming_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Maiming_Strike"
     },
     "ru": {
         "item_name": "Калечащий Удар",
         "description": "+150% к Шансу Критического Урона при Атаках в Скольжении",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D1%87%D0%B0%D1%89%D0%B8%D0%B9_%D0%A3%D0%B4%D0%B0%D1%80",
-        "icon": "icons/ru/Maiming_Strike.0fae39fedd9c3c7e52e3436a1c3750ef.png",
-        "thumb": "icons/ru/thumbs/Maiming_Strike.0fae39fedd9c3c7e52e3436a1c3750ef.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/maiming_strike.0fae39fedd9c3c7e52e3436a1c3750ef.png",
+        "thumb": "items/images/ru/thumbs/maiming_strike.0fae39fedd9c3c7e52e3436a1c3750ef.128x128.png"
     },
     "ko": {
         "item_name": "메이밍 스트라이크",
         "description": "슬라이드 공격에 치명타 확률 +150% 추가",
-        "wiki_link": "https://warframe.fandom.com/wiki/Maiming_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Maiming_Strike"
     },
     "de": {
         "item_name": "Verstümmelnder Schlag",
         "description": "+150 % Kritische Chance für Rutschangriff",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verst%C3%BCmmelnder_Schlag",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Verst%C3%BCmmelnder_Schlag"
     },
     "fr": {
         "item_name": "Coup Mutilant",
         "description": "+150% de Chances de Critique pour l'Attaque Glissée",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coup_Mutilant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coup_Mutilant"
     },
     "pt": {
         "item_name": "Maiming Strike",
         "description": "+150% de Chance Crítica em Ataques Deslizantes",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Maiming_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Maiming_Strike"
     },
     "zh-hans": {
         "item_name": "致残突击",
         "description": "+150% 滑行攻击暴击几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Maiming_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Maiming_Strike"
     },
     "zh-hant": {
         "item_name": "致殘突擊",
         "description": "滑行攻擊 +150% 暴擊機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Maiming_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Maiming_Strike"
     },
     "es": {
         "item_name": "Golpe Mutilador",
         "description": "+150% de probabilidad crítica en ataque deslizante",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_mutilador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_mutilador"
     },
     "it": {
         "item_name": "Maiming Strike",
         "description": "Gli Attacchi in Scivolata hanno il +150% di Probabilità Critico",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Rending_Strike",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Rending_Strike"
     },
     "pl": {
         "item_name": "Okaleczający Cios",
         "description": "+150% Szansy Obr. Kryt. podczas Ataku w Ślizgu",
-        "wiki_link": "http://warframe.wikia.com/wiki/Maiming_Strike",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Maiming_Strike"
     },
     "rarity": "rare",
     "max_rank": 5,

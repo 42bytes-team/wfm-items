@@ -3,9 +3,11 @@
     "url_name": "gorgon",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/gorgon.322fd818e70763de4ba6bf3334c498fd.png",
-    "thumb": "icons/en/thumbs/gorgon.322fd818e70763de4ba6bf3334c498fd.128x128.png",
+    "icon": "items/images/en/gorgon.322fd818e70763de4ba6bf3334c498fd.png",
+    "thumb": "items/images/en/thumbs/gorgon.322fd818e70763de4ba6bf3334c498fd.128x128.png",
     "icon_format": "land",
+    "disposition": 1.4,
+    "mastery_level": 3,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Rifle/HeavyRifle"
     },

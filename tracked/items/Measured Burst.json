@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a51d",
     "tags": [
-        "mod",
-        "rare",
+        "primary",
         "pvp",
-        "primary"
+        "rare",
+        "tiberon",
+        "mod"
     ],
-    "icon": "icons/en/Measured_Burst.f125aa52c465d97d41f165fdc431d297.png",
-    "thumb": "icons/en/thumbs/Measured_Burst.f125aa52c465d97d41f165fdc431d297.128x128.png",
+    "icon": "items/images/en/measured_burst.f125aa52c465d97d41f165fdc431d297.png",
+    "thumb": "items/images/en/thumbs/measured_burst.f125aa52c465d97d41f165fdc431d297.128x128.png",
     "icon_format": "port",
     "url_name": "measured_burst",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Measured Burst",
         "description": "When Aiming: -60% Fire Rate\n+30% Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Measured_Burst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Measured_Burst"
     },
     "ru": {
         "item_name": "Размеренная Очередь",
         "description": "При прицеливании: -60% к скорострельности\n+30% урона",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C",
-        "icon": "icons/ru/Measured_Burst.192b17a29d8b173d48022441343b12e1.png",
-        "thumb": "icons/ru/thumbs/Measured_Burst.192b17a29d8b173d48022441343b12e1.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/measured_burst.192b17a29d8b173d48022441343b12e1.png",
+        "thumb": "items/images/ru/thumbs/measured_burst.192b17a29d8b173d48022441343b12e1.128x128.png"
     },
     "ko": {
         "item_name": "메져드 버스트",
         "description": "조준 시: -60% 연사력\n+30% 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Measured_Burst",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Measured_Burst"
     },
     "de": {
         "item_name": "Gemessener Stoß",
         "description": "Beim Zielen: -60 % Feuerrate\n+30 % Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gelassener_Sturm",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gelassener_Sturm"
     },
     "fr": {
         "item_name": "Rafale Contrôlée",
         "description": "En Visant: -60% Cadence de Tir\n+30% de Dégâts",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rafale_Contr%C3%B4l%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rafale_Contr%C3%B4l%C3%A9e"
     },
     "pt": {
         "item_name": "Measured Burst",
         "description": "Ao Mirar: -60% de Cadência de Tiro\n+30% de Dano",
-        "wiki_link": "http://warframe.wikia.com/wiki/Measured_Burst",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Measured_Burst"
     },
     "zh-hans": {
         "item_name": "精准爆发",
         "description": "当瞄准时， -60% 射速\n+30% 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Measured_Burst",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Measured_Burst"
     },
     "zh-hant": {
         "item_name": "爆破計算",
         "description": "當瞄準時， -60% 射速\n+30% 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Measured_Burst",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Measured_Burst"
     },
     "es": {
         "item_name": "Ráfaga Calculada",
         "description": "Cuando apuntas: -60% de cadencia de fuego\n+30% de daño",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/R%C3%A1faga_calculada",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/R%C3%A1faga_calculada"
     },
     "it": {
         "item_name": "Measured Burst",
         "description": "Durante la mira: -60% Cadenza di Tiro\n+30% Danno",
-        "wiki_link": "http://warframe.wikia.com/wiki/Measured_Burst",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Measured_Burst"
     },
     "pl": {
         "item_name": "Kontrolowana Seria",
         "description": "Podczas celowania: -60% Szybkostrzelności\n+30% Obrażeń",
-        "wiki_link": "http://warframe.wikia.com/wiki/Measured_Burst",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Measured_Burst"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -4,8 +4,8 @@
         "rare",
         "arcane_enhancement"
     ],
-    "icon": "icons/en/molt_efficiency.c7df478eb7dbcbb0ca7f168029389dec.png",
-    "thumb": "icons/en/thumbs/molt_efficiency.c7df478eb7dbcbb0ca7f168029389dec.128x128.png",
+    "icon": "items/images/en/molt_efficiency.c7df478eb7dbcbb0ca7f168029389dec.png",
+    "thumb": "items/images/en/thumbs/molt_efficiency.c7df478eb7dbcbb0ca7f168029389dec.128x128.png",
     "icon_format": "land",
     "url_name": "molt_efficiency",
     "tradable": true,
@@ -14,69 +14,58 @@
     },
     "en": {
         "item_name": "Molt Efficiency",
-        "description": "While Shields are Active: Gain 6% Ability Duration per second, up to a maximum of 36%",
-        "wiki_link": null,
-        "drop": []
+        "description": "While Shields are Active: Gain 6% Ability Duration per second, up to a maximum of 36% +1 Arcane Revive",
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Линька: Эффективность",
-        "description": "Пока активны щиты: получает +6% длительности способностей в секунду, максимум до 36%.",
-        "wiki_link": null,
-        "drop": []
+        "description": "Пока активны щиты: получает +6% длительности способностей в секунду, максимум до 36%.\n+1 Мистическое Воскрешение",
+        "wiki_link": null
     },
     "ko": {
         "item_name": "몰트 이피션시",
-        "description": "실드가 남아 있을 시: 초당 6%의 어빌리티 지속 시간을 최대 36%까지 추가 획득",
-        "wiki_link": null,
-        "drop": []
+        "description": "실드가 남아 있을 시: 초당 6%의 어빌리티 지속 시간을 최대 36%까지 추가 획득 +1 아케인 부활",
+        "wiki_link": null
     },
     "de": {
         "item_name": "Wechsel: Effizienz",
-        "description": "Wenn Schilde aktiv sind: Erhalte 6 % Fähigkeitsdauer pro Sekunde, bis zu 36 %.",
-        "wiki_link": null,
-        "drop": []
+        "description": "Wenn Schilde aktiv sind: Erhalte 6 % Fähigkeitsdauer pro Sekunde, bis zu 36 %.\n+1 Arkana Wiederbelebung",
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Efficacité De Mue",
-        "description": "Tant que les Boucliers sont actifs: gagnez 6% de Durée de Pouvoir par seconde, jusqu'à un maximum de 36%",
-        "wiki_link": null,
-        "drop": []
+        "description": "Tant que les Boucliers sont actifs: gagnez 6% de Durée de Pouvoir par seconde, jusqu'à un maximum de 36% +1 Réanimation Arcane",
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Exúvia: Eficiência",
-        "description": "Enquanto os Escudos estiverem Ativos, obtenha 6% de Duração da Habilidade por segundo, até um valor máximo de 36%",
-        "wiki_link": null,
-        "drop": []
+        "description": "Enquanto os Escudos estiverem Ativos, obtenha 6% de Duração da Habilidade por segundo, até um valor máximo de 36% +1 Reanimação Arcana",
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "蜕化 效能",
-        "description": "护盾激活时：每秒获得 6% 技能持续时间，最多获得 36%",
-        "wiki_link": null,
-        "drop": []
+        "description": "护盾激活时：每秒获得 6% 技能持续时间，最多获得 36%\n赋能复活次数 +1",
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "蛻變 效率",
-        "description": "護盾啟用時：每秒獲得 6% 技能持續時間，最多提升 36%",
-        "wiki_link": null,
-        "drop": []
+        "description": "護盾啟用時：每秒獲得 6% 技能持續時間，最多提升 36% 賦能復活次數 +1",
+        "wiki_link": null
     },
     "es": {
         "item_name": "Eficiencia De Muda",
-        "description": "Mientras los escudos están activos: gana 6 % de duración de habilidad por segundo, hasta un máximo de 36 %",
-        "wiki_link": null,
-        "drop": []
+        "description": "Mientras los escudos están activos: gana 6 % de duración de habilidad por segundo, hasta un máximo de 36 % +1 Revivir Arcano",
+        "wiki_link": null
     },
     "it": {
         "item_name": "Molt Efficiency",
-        "description": "Mentre gli Scudi sono Attivi: Ottieni il 6% di Durata Abilità al secondo, fino a un massimo del 36%",
-        "wiki_link": null,
-        "drop": []
+        "description": "Mentre gli Scudi sono Attivi: Ottieni il 6% di Durata Abilità al secondo, fino a un massimo del 36% +1 Rianimazione Arcane",
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Wzrost Wydajności",
-        "description": "Gdy Tarcze są aktywne: Zyskaj 6% Czasu trwania umiejętności na sekundę, aż do maks. 36%",
-        "wiki_link": null,
-        "drop": []
+        "description": "Gdy Tarcze są aktywne: Zyskaj 6% Czasu trwania umiejętności na sekundę, aż do maks. 36% +1 Wskrzeszenie Arkanum",
+        "wiki_link": null
     },
     "rarity": "rare",
     "max_rank": 5,

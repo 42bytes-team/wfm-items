@@ -1,13 +1,11 @@
 {
     "_id": "58f0efdfaa4b70452a173076",
     "tags": [
-        "weapon",
-        "melee",
         "component",
-        "blueprint"
+        "weapon"
     ],
-    "icon": "icons/en/Orvius_Disc.65c03b5b689ec5f70399b9a02f539994.png",
-    "thumb": "icons/en/thumbs/Orvius_Disc.65c03b5b689ec5f70399b9a02f539994.128x128.png",
+    "icon": "items/images/en/orvius_disc.65c03b5b689ec5f70399b9a02f539994.png",
+    "thumb": "items/images/en/thumbs/orvius_disc.65c03b5b689ec5f70399b9a02f539994.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_disc_128x128.png",
     "url_name": "orvius_disc",
@@ -18,68 +16,57 @@
     "en": {
         "item_name": "Orvius Disc",
         "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Orvius"
     },
     "ru": {
         "item_name": "Орвис: Диск",
         "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%80%D0%B2%D0%B8%D1%81",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%80%D0%B2%D0%B8%D1%81"
     },
     "ko": {
         "item_name": "오르비우스 디스크",
         "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Orvius"
     },
     "de": {
         "item_name": "Orvius: Scheibe",
         "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Orvius"
     },
     "fr": {
         "item_name": "Orvius - Disque",
         "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Orvius"
     },
     "pt": {
         "item_name": "Orvius: Disco",
         "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Orvius"
     },
     "zh-hans": {
         "item_name": "灵枢 圆盘",
         "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Orvius"
     },
     "zh-hant": {
         "item_name": "靈樞 圓盤",
         "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Orvius"
     },
     "es": {
         "item_name": "Disco De Orvius",
         "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Orvius"
     },
     "it": {
         "item_name": "Orvius - Disco",
         "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Orvius"
     },
     "pl": {
         "item_name": "Orvius: Dysk",
         "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Orvius",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Orvius"
     },
     "mastery_level": 6,
     "trading_tax": 2000

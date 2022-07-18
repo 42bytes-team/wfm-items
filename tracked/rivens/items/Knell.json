@@ -3,9 +3,11 @@
     "url_name": "knell",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/knell.9a97c9771a12c761b115a2db54c82481.png",
-    "thumb": "icons/en/thumbs/knell.9a97c9771a12c761b115a2db54c82481.128x128.png",
+    "icon": "items/images/en/knell.9a97c9771a12c761b115a2db54c82481.png",
+    "thumb": "items/images/en/thumbs/knell.9a97c9771a12c761b115a2db54c82481.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Pistols/TnPriestPistolScope/TnPriestPistolWeapon"
     },

@@ -5,8 +5,8 @@
         "melee",
         "rare"
     ],
-    "icon": "icons/en/Buzz_Kill.40ec58c4f4598e9f4d94aa7fc38c8e4b.png",
-    "thumb": "icons/en/thumbs/Buzz_Kill.40ec58c4f4598e9f4d94aa7fc38c8e4b.128x128.png",
+    "icon": "items/images/en/buzz_kill.40ec58c4f4598e9f4d94aa7fc38c8e4b.png",
+    "thumb": "items/images/en/thumbs/buzz_kill.40ec58c4f4598e9f4d94aa7fc38c8e4b.128x128.png",
     "icon_format": "port",
     "url_name": "buzz_kill",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Buzz Kill",
         "description": "+120% Slash",
-        "wiki_link": "https://warframe.fandom.com/wiki/Buzz_Kill",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Buzz_Kill"
     },
     "ru": {
         "item_name": "Убивающий Гул",
         "description": "+120% разрезающего урона",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B1%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%93%D1%83%D0%BB",
-        "icon": "icons/ru/Buzz_Kill.e059490d01d11b022d6a433ce69c2aa9.png",
-        "thumb": "icons/ru/thumbs/Buzz_Kill.e059490d01d11b022d6a433ce69c2aa9.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/buzz_kill.e059490d01d11b022d6a433ce69c2aa9.png",
+        "thumb": "items/images/ru/thumbs/buzz_kill.e059490d01d11b022d6a433ce69c2aa9.128x128.png"
     },
     "ko": {
         "item_name": "버즈 킬",
         "description": "+120% 베기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Buzz_Kill",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Buzz_Kill"
     },
     "de": {
         "item_name": "Sirrender Tod",
         "description": "+120 % Schnitt",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sirrender_Tod",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Sirrender_Tod"
     },
     "fr": {
         "item_name": "Rabat-joie",
         "description": "+120% Tranchant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rabat-joie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rabat-joie"
     },
     "pt": {
         "item_name": "Buzz Kill",
         "description": "+120% de Cortante",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Buzz_Kill",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Buzz_Kill"
     },
     "zh-hans": {
         "item_name": "败兴虐杀",
         "description": "+120% 切割伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Buzz_Kill",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Buzz_Kill"
     },
     "zh-hant": {
         "item_name": "敗興虐殺",
         "description": "+120% 切割傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Buzz_Kill",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Buzz_Kill"
     },
     "es": {
         "item_name": "Aguafiestas",
         "description": "+120% de cortante",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aguafiestas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aguafiestas"
     },
     "it": {
         "item_name": "Buzz Kill",
         "description": "+120% Taglio",
-        "wiki_link": "http://warframe.wikia.com/wiki/Buzz_Kill",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Buzz_Kill"
     },
     "pl": {
         "item_name": "Zabójczy Rój",
         "description": "+120% Obrażeń Tnących",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zab%C3%B3jczy_P%C4%99d",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zab%C3%B3jczy_P%C4%99d"
     },
     "rarity": "rare",
     "max_rank": 5,

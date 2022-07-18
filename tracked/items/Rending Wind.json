@@ -1,13 +1,14 @@
 {
     "_id": "5800c901c021d9dc0a9f891d",
     "tags": [
-        "mod",
-        "uncommon",
         "pvp",
-        "stance"
+        "uncommon",
+        "machetes",
+        "stance",
+        "mod"
     ],
-    "icon": "icons/en/Rending_Wind.a5712d17ddc13c130600bd4aace80eb5.png",
-    "thumb": "icons/en/thumbs/Rending_Wind.a5712d17ddc13c130600bd4aace80eb5.128x128.png",
+    "icon": "items/images/en/rending_wind.a5712d17ddc13c130600bd4aace80eb5.png",
+    "thumb": "items/images/en/thumbs/rending_wind.a5712d17ddc13c130600bd4aace80eb5.128x128.png",
     "icon_format": "port",
     "url_name": "rending_wind",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Rending Wind",
         "description": "Fighting form devised for Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rending_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rending_Wind"
     },
     "ru": {
         "item_name": "Разрывающий Ветер",
-        "description": "Форма боя, созданная для Конклава.",
+        "description": "Форма боя, созданная для конклава.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%92%D0%B5%D1%82%D0%B5%D1%80",
-        "icon": "icons/ru/Rending_Wind.cb912de83e69c057385d4d5146d72d04.png",
-        "thumb": "icons/ru/thumbs/Rending_Wind.cb912de83e69c057385d4d5146d72d04.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/rending_wind.cb912de83e69c057385d4d5146d72d04.png",
+        "thumb": "items/images/ru/thumbs/rending_wind.cb912de83e69c057385d4d5146d72d04.128x128.png"
     },
     "ko": {
         "item_name": "렌딩 윈드",
         "description": "콘클레이브를 위해 창안된 전투 자세입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rending_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Rending_Wind"
     },
     "de": {
         "item_name": "Zerfleischender Wind",
         "description": "Gefechtsform, entwickelt für die Conclave.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerfleischender_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerfleischender_Wind"
     },
     "fr": {
         "item_name": "Vent Violent",
         "description": "Forme de combat réservée au Conclave.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vent_Violent",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vent_Violent"
     },
     "pt": {
         "item_name": "Rending Wind",
         "description": "Forma de combate elaborada para o Conclave.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rending_Turn",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rending_Turn"
     },
     "zh-hans": {
         "item_name": "撕裂之风",
         "description": "为武形秘仪设计的战斗形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rending_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rending_Wind"
     },
     "zh-hant": {
         "item_name": "撕裂之風",
         "description": "為武形秘儀設計的戰鬥形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rending_Wind",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rending_Wind"
     },
     "es": {
         "item_name": "Viento Desgarrador",
         "description": "Una forma de pelea creada para el Cónclave.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Viento_desgarrador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Viento_desgarrador"
     },
     "it": {
         "item_name": "Rending Wind",
         "description": "Stile di combattimento ideato per il Conclave.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rending_Wind",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Rending_Wind"
     },
     "pl": {
         "item_name": "Rozdzierający Wiatr",
         "description": "Styl walki stworzony na potrzeby Konklawe.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozdzieraj%C4%85cy_Wiatr",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozdzieraj%C4%85cy_Wiatr"
     },
     "rarity": "uncommon",
     "max_rank": 3,

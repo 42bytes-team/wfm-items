@@ -1,13 +1,14 @@
 {
     "_id": "5800c901c021d9dc0a9f891b",
     "tags": [
-        "mod",
-        "uncommon",
         "pvp",
-        "stance"
+        "uncommon",
+        "stance",
+        "rapiers",
+        "mod"
     ],
-    "icon": "icons/en/Cunning_Aspect.e96626645e49485235fb748ede495988.png",
-    "thumb": "icons/en/thumbs/Cunning_Aspect.e96626645e49485235fb748ede495988.128x128.png",
+    "icon": "items/images/en/cunning_aspect.e96626645e49485235fb748ede495988.png",
+    "thumb": "items/images/en/thumbs/cunning_aspect.e96626645e49485235fb748ede495988.128x128.png",
     "icon_format": "port",
     "url_name": "cunning_aspect",
     "tradable": true,
@@ -17,70 +18,59 @@
     "en": {
         "item_name": "Cunning Aspect",
         "description": "Fighting form devised for Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cunning_Aspect",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cunning_Aspect"
     },
     "ru": {
         "item_name": "Хитрый Аспект",
-        "description": "Форма боя, созданная для Конклава.",
+        "description": "Форма боя, созданная для конклава.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D0%B8%D1%82%D1%80%D1%8B%D0%B9_%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82",
-        "icon": "icons/ru/Cunning_Aspect.c42a9b6107481e6a0d3dc3a038378c61.png",
-        "thumb": "icons/ru/thumbs/Cunning_Aspect.c42a9b6107481e6a0d3dc3a038378c61.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/cunning_aspect.c42a9b6107481e6a0d3dc3a038378c61.png",
+        "thumb": "items/images/ru/thumbs/cunning_aspect.c42a9b6107481e6a0d3dc3a038378c61.128x128.png"
     },
     "ko": {
         "item_name": "커닝 아스펙트",
         "description": "콘클레이브를 위해 창안된 전투 자세입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cunning_Aspect",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cunning_Aspect"
     },
     "de": {
         "item_name": "Listiger Aspekt",
         "description": "Gefechtsform, entwickelt für die Conclave.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Listiger_Aspekt",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Listiger_Aspekt"
     },
     "fr": {
         "item_name": "Aspect Rusé",
         "description": "Forme de combat réservée au Conclave.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Aspect_Rus%C3%A9",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Aspect_Rus%C3%A9"
     },
     "pt": {
         "item_name": "Cunning Aspect",
         "description": "Forma de combate elaborada para o Conclave.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Cunning_Aspect",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Cunning_Aspect"
     },
     "zh-hans": {
         "item_name": "狡诈面貌",
         "description": "为武形秘仪设计的战斗形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cunning_Aspect",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cunning_Aspect"
     },
     "zh-hant": {
         "item_name": "狡詐面貌",
         "description": "為武形秘儀設計的戰鬥形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cunning_Aspect",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cunning_Aspect"
     },
     "es": {
         "item_name": "Aspecto Engañoso",
         "description": "Una forma de pelea creada para el Cónclave.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aspecto_enga%C3%B1oso",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aspecto_enga%C3%B1oso"
     },
     "it": {
         "item_name": "Cunning Aspect",
         "description": "Stile di combattimento ideato per il Conclave.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Cunning_Aspect",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Cunning_Aspect"
     },
     "pl": {
         "item_name": "Przebiegły Aspekt",
         "description": "Styl walki stworzony na potrzeby Konklawe.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przebieg%C5%82y_Aspekt",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przebieg%C5%82y_Aspekt"
     },
     "rarity": "uncommon",
     "max_rank": 3,

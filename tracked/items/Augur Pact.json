@@ -2,12 +2,12 @@
     "_id": "59dfeb6c115f1d887cfd7ac1",
     "tags": [
         "mod",
-        "augur",
         "common",
-        "secondary"
+        "secondary",
+        "pistol"
     ],
-    "icon": "icons/en/Augur_Pact.7312d1969671f90bc54b84c87e1adb19.png",
-    "thumb": "icons/en/thumbs/Augur_Pact.7312d1969671f90bc54b84c87e1adb19.128x128.png",
+    "icon": "items/images/en/augur_pact.7312d1969671f90bc54b84c87e1adb19.png",
+    "thumb": "items/images/en/thumbs/augur_pact.7312d1969671f90bc54b84c87e1adb19.128x128.png",
     "icon_format": "port",
     "url_name": "augur_pact",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Augur Pact",
         "description": "+90% Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Augur_Pact",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Augur_Pact"
     },
     "ru": {
         "item_name": "Пакт Предвестника",
         "description": "+90% урона",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BA%D1%82_%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
-        "icon": "icons/ru/Augur_Pact.871e528266b37176e93af57a4bfeeff1.png",
-        "thumb": "icons/ru/thumbs/Augur_Pact.871e528266b37176e93af57a4bfeeff1.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/augur_pact.871e528266b37176e93af57a4bfeeff1.png",
+        "thumb": "items/images/ru/thumbs/augur_pact.871e528266b37176e93af57a4bfeeff1.128x128.png"
     },
     "ko": {
         "item_name": "어거 팩트",
         "description": "+90% 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Augur_Pact",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Augur_Pact"
     },
     "de": {
         "item_name": "Augur: Pakt",
         "description": "+90 % Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Augur:_Pakt",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Augur:_Pakt"
     },
     "fr": {
         "item_name": "Pacte De L'augure",
         "description": "+90% de Dégâts",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pacte_de_l%27Augure",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pacte_de_l%27Augure"
     },
     "pt": {
         "item_name": "Augur Pact",
         "description": "+90% de Dano",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Augur_Pact",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Augur_Pact"
     },
     "zh-hans": {
         "item_name": "预言 契约",
         "description": "+90% 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Augur_Pact",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Augur_Pact"
     },
     "zh-hant": {
         "item_name": "預言 契約",
         "description": "+90% 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Augur_Pact",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Augur_Pact"
     },
     "es": {
         "item_name": "Pacto De Augurio",
         "description": "+90% de daño",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pacto_de_augurio",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pacto_de_augurio"
     },
     "it": {
         "item_name": "Augur Pact",
         "description": "+90% Danno",
-        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Pact",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Augur_Pact"
     },
     "pl": {
         "item_name": "Wróżbiarski Pakt",
         "description": "+90% Obrażeń",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wr%C3%B3%C5%BCbiarski_Pakt",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wr%C3%B3%C5%BCbiarski_Pakt"
     },
     "rarity": "common",
     "max_rank": 5,

@@ -3,9 +3,11 @@
     "url_name": "ocucor",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/ocucor.c3f776ad9924de2782e8c0d36be4e5b4.png",
-    "thumb": "icons/en/thumbs/ocucor.c3f776ad9924de2782e8c0d36be4e5b4.128x128.png",
+    "icon": "items/images/en/ocucor.c3f776ad9924de2782e8c0d36be4e5b4.png",
+    "thumb": "items/images/en/thumbs/ocucor.c3f776ad9924de2782e8c0d36be4e5b4.128x128.png",
     "icon_format": "land",
+    "disposition": 1.2,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol"
     },

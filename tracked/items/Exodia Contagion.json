@@ -1,12 +1,11 @@
 {
     "_id": "5a26c31dc2c9e903a8381330",
     "tags": [
-        "zaw",
         "legendary",
         "arcane_enhancement"
     ],
-    "icon": "icons/en/Exodia_Contagion.f1cb19151ee32fa1ee23a778cba612a2.png",
-    "thumb": "icons/en/thumbs/Exodia_Contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png",
+    "icon": "items/images/en/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.png",
+    "thumb": "items/images/en/thumbs/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png",
     "icon_format": "land",
     "url_name": "exodia_contagion",
     "tradable": true,
@@ -16,68 +15,57 @@
     "en": {
         "item_name": "Exodia Contagion",
         "description": "After a Bullet Jump or Double Jump:\rMelee while Aim Gliding launches a projectile that explodes on impact",
-        "wiki_link": "https://warframe.fandom.com/wiki/Exodia_Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Exodia_Contagion"
     },
     "ru": {
         "item_name": "Заражение Эксодии",
         "description": "После прыжка-выстрела или двойного прыжка:\rУдар ближнего боя при управляемом полёте создаёт снаряд, взрывающийся при попадании",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%AD%D0%BA%D1%81%D0%BE%D0%B4%D0%B8%D0%B8",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%AD%D0%BA%D1%81%D0%BE%D0%B4%D0%B8%D0%B8"
     },
     "ko": {
         "item_name": "엑소디아 컨테이젼",
         "description": "불릿 점프 혹은 더블 점프 후:\n에임 글라이딩 중 근접 공격 시 닿으면 폭발하는 발사체를 발사",
-        "wiki_link": "https://warframe.fandom.com/wiki/Exodia_Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Exodia_Contagion"
     },
     "de": {
         "item_name": "Exodia: Infektion",
         "description": "Nach einem Projektil- oder Doppelsprung:\rNahkampfangriffe während des Zielgleitens verschießt ein Projektil, das bei Einschlag explodiert.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Contagion",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Contagion"
     },
     "fr": {
         "item_name": "Exodia Contagion",
         "description": "Après un Saut Propulsé ou un Double Saut:\rCombattre en mêlée pendant une Visée Planée lance un projectile qui explose à l'impact",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Exodia_Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Exodia_Contagion"
     },
     "pt": {
         "item_name": "Exodia: Contágio",
         "description": "Após o Salto Bala ou Pulo Duplo:\rAtacar com a arma Corpo a Corpo durante o Planar e Mirar dispara um projétil que explode no impacto",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Exodia_Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Exodia_Contagion"
     },
     "zh-hans": {
         "item_name": "神威 触染",
         "description": "旋身飞跃或二段跳后：\n飞身瞄准时进行近战会射出一个投射物，并在撞击后爆炸",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Exodia_Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Exodia_Contagion"
     },
     "zh-hant": {
         "item_name": "神威 觸染",
         "description": "旋身飛躍或二段跳躍後：\n飛身瞄準時進行近戰會射出一個投射物，並在撞擊後爆炸",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Exodia_Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Exodia_Contagion"
     },
     "es": {
         "item_name": "Contagio De Exodia",
         "description": "Tras realizar un salto-bala o doble salto:\rUn ataque cuerpo a cuerpo al planear lanza un proyectil que explota al impacto",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Contagio_de_Exodia",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Contagio_de_Exodia"
     },
     "it": {
         "item_name": "Exodia Contagion",
         "description": "Dopo un Bullet Jump o un Doppio Salto:\rUtilizzare l'arma Corpo a Corpo durante la Planata lancia un proiettile che esplode all'impatto",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Contagion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Contagion"
     },
     "pl": {
         "item_name": "Eksodia Zakażenia",
         "description": "Po Balistycznym lub Podwójnym Skoku:\rPodczas Celowania w Locie Broń biała wystrzeliwuje pocisk, który wybucha przy uderzeniu",
-        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Contagion",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Exodia_Contagion"
     },
     "rarity": "legendary",
     "max_rank": 3,

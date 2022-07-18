@@ -1,12 +1,11 @@
 {
     "_id": "5a0475096c4655012038ddc4",
     "tags": [
-        "operator",
-        "arcane_enhancement",
-        "rare"
+        "rare",
+        "arcane_enhancement"
     ],
-    "icon": "icons/en/Magus_Nourish.a33f07304a72500072d20d13258e119b.png",
-    "thumb": "icons/en/thumbs/Magus_Nourish.a33f07304a72500072d20d13258e119b.128x128.png",
+    "icon": "items/images/en/magus_nourish.a33f07304a72500072d20d13258e119b.png",
+    "thumb": "items/images/en/thumbs/magus_nourish.a33f07304a72500072d20d13258e119b.128x128.png",
     "icon_format": "land",
     "url_name": "magus_nourish",
     "tradable": true,
@@ -15,69 +14,58 @@
     },
     "en": {
         "item_name": "Magus Nourish",
-        "description": "On Transference Out:\nRestores 35 Health/s to Warframe.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Nourish",
-        "drop": []
+        "description": "While An Operator:\nRestores 35 Health/s to Warframe.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Nourish"
     },
     "ru": {
         "item_name": "Подпитка Волхва",
-        "description": "При переносе наружу:\nВосстанавливает 35 здоровья/с варфрейму.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%82%D0%BA%D0%B0_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0",
-        "drop": []
+        "description": "Как оператор:\nВосстанавливает 35 здоровья/с варфрейму.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%82%D0%BA%D0%B0_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
     },
     "ko": {
         "item_name": "마구스 노리쉬",
-        "description": "전이체 이탈 시:\n워프레임의 체력을 초당 35씩 회복",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Nourish",
-        "drop": []
+        "description": "오퍼레이터 상태에서:\n워프레임의 체력을 초당 35씩 회복",
+        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Nourish"
     },
     "de": {
         "item_name": "Magus: Pflegen",
-        "description": "Bei inaktiver Transferenz:\nStellt 35 Gesundheit/s beim Warframe wieder her.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Nourish",
-        "drop": []
+        "description": "Als Operator:\nStellt 35 Gesundheit/s beim Warframe wieder her.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Nourish"
     },
     "fr": {
         "item_name": "Magus Sustentation",
-        "description": "En sortie de Transférence:\nRestaure 35 Santé/s sur la Warframe.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Sustentation",
-        "drop": []
+        "description": "En mode Opérateur:\nRestaure 35 Santé/s sur la Warframe.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Sustentation"
     },
     "pt": {
         "item_name": "Magus: Abastecimento",
-        "description": "Ao sair da Transferência:\nRestaura 35 Vida/s para o Warframe.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Nourish",
-        "drop": []
+        "description": "No Modo Operador:\nRestaura 35 Vida/s para o Warframe.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Nourish"
     },
     "zh-hans": {
         "item_name": "魔导 滋养",
-        "description": "在传识出战甲后：\n战甲回复 35 生命值/秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Nourish",
-        "drop": []
+        "description": "作为指挥官时：\n战甲回复 35 生命值/秒。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Nourish"
     },
     "zh-hant": {
         "item_name": "魔導 滋養",
-        "description": "在結束傳識後：\n戰甲回復 35 生命值／秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Nourish",
-        "drop": []
+        "description": "作為指揮官時：\n戰甲回復 35 生命值／秒。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Nourish"
     },
     "es": {
         "item_name": "Vigorización Del Mago",
-        "description": "Al salir de la transferencia:\nRestaura 35 de salud/s al warframe.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Vigorizaci%C3%B3n_del_mago",
-        "drop": []
+        "description": "Como operador:\nRestaura 35 de salud/s al warframe.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Vigorizaci%C3%B3n_del_mago"
     },
     "it": {
         "item_name": "Magus Nourish",
-        "description": "All'Uscita della Trasferenza:\nRecupera 35 Salute/s del Warframe.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Nourish",
-        "drop": []
+        "description": "Come Operatore:\nRecupera 35 Salute/s del Warframe.",
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Nourish"
     },
     "pl": {
         "item_name": "Magus Wzrostu",
-        "description": "Przy wyjściu z Transferencji:\nOdnawia 35 Życia/s Warframe'owi.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Wzrostu",
-        "drop": []
+        "description": "Jako Operator:\nOdnawia 35 Życia/s Warframe'owi.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Wzrostu"
     },
     "rarity": "rare",
     "max_rank": 5,

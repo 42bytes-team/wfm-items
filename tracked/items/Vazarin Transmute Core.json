@@ -2,12 +2,10 @@
     "_id": "5678722e9906166591f69a9c",
     "tags": [
         "mod",
-        "rare",
-        "transmute core",
-        "---"
+        "rare"
     ],
-    "icon": "icons/en/Vazarin_Transmute_Core.6ffe9f46821c5f74f31505452e02f314.png",
-    "thumb": "icons/en/thumbs/Vazarin_Transmute_Core.6ffe9f46821c5f74f31505452e02f314.128x128.png",
+    "icon": "items/images/en/vazarin_transmute_core.6ffe9f46821c5f74f31505452e02f314.png",
+    "thumb": "items/images/en/thumbs/vazarin_transmute_core.6ffe9f46821c5f74f31505452e02f314.128x128.png",
     "icon_format": "port",
     "url_name": "vazarin_transmute_core",
     "tradable": true,
@@ -17,70 +15,59 @@
     "en": {
         "item_name": "Vazarin Transmute Core",
         "description": "Ensures transmuted mod is of Vazarin polarity and eliminates credit cost.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Transmute_Core",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Transmute_Core"
     },
     "ru": {
         "item_name": "Ядро Трансмутации: Вазарин",
         "description": "Обеспечивает мод полярностью Вазарин и убирает потребность в кредитах.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8_%D0%B2%D0%B0%D0%B7%D0%B0%D1%80%D0%B8%D0%BD",
-        "icon": "icons/ru/Vazarin_Transmute_Core.cbab4c300e96ba1505f1f588604fd382.png",
-        "thumb": "icons/ru/thumbs/Vazarin_Transmute_Core.cbab4c300e96ba1505f1f588604fd382.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/vazarin_transmute_core.cbab4c300e96ba1505f1f588604fd382.png",
+        "thumb": "items/images/ru/thumbs/vazarin_transmute_core.cbab4c300e96ba1505f1f588604fd382.128x128.png"
     },
     "ko": {
         "item_name": "바자린 트랜스뮤트 코어",
         "description": "변환에 사용되는 크레딧 소모를 없애고 바자린 극성을 가진 모드가 나옵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Transmute_Core",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Transmute_Core"
     },
     "de": {
         "item_name": "Umwandlungskern: Vazarin",
         "description": "Garantiert, dass die aus der Umwandlung resultierende Mod Vazarin-Polarität hat und beseitigt Credit-Kosten.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Umwandlungskern",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Umwandlungskern"
     },
     "fr": {
         "item_name": "Cœur De Transmutation Vazarin",
         "description": "Garantit que le Mod transmuté aura la polarité Vazarin et élimine le coût en Crédits de la transmutation.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coeur_de_Transmutation_Vazarin",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coeur_de_Transmutation_Vazarin"
     },
     "pt": {
         "item_name": "Núcleo De Transmutação Vazarin",
         "description": "Garante que o Mod transmutado seja de polaridade Vazarin e elimina o custo de créditos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vazarin_Transmute_Core",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Vazarin_Transmute_Core"
     },
     "zh-hans": {
         "item_name": "Vazarin 转换核心",
         "description": "使转换过程无须消耗现金，并确保获得的 MOD 为 Vazarin 极性。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vazarin_Transmute_Core",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vazarin_Transmute_Core"
     },
     "zh-hant": {
         "item_name": "Vazarin 轉換核心",
         "description": "使轉換過程無須消耗現金，並確保獲得的 MOD 為 Vazarin 極性。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vazarin_Transmute_Core",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vazarin_Transmute_Core"
     },
     "es": {
         "item_name": "Núcleo De Transmutación Vazarin",
         "description": "Asegura que el Mod transmutado sea de la polaridad Vazarin y elimina el costo de créditos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/N%C3%BAcleo_de_Transmutaci%C3%B3n_Vazarin",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/N%C3%BAcleo_de_Transmutaci%C3%B3n_Vazarin"
     },
     "it": {
         "item_name": "Vazarin Transmute Core",
         "description": "Assicura che la polarità del mod trasmutato sia Vazarin ed elimina il costo in crediti.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vazarin_Transmute_Core",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Vazarin_Transmute_Core"
     },
     "pl": {
         "item_name": "Rdzeń Transmutacyjny Vazarin",
         "description": "Zapewnia, że otrzymany w transmutacji Mod będzie miał polaryzację Vazarin i eliminuje koszt w kredytach.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rdze%C5%84_Transmutacyjny_Vazarin",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rdze%C5%84_Transmutacyjny_Vazarin"
     },
     "rarity": "rare",
     "trading_tax": 8000

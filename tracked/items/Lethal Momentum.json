@@ -6,8 +6,8 @@
         "pistol",
         "secondary"
     ],
-    "icon": "icons/en/Lethal_Momentum.57735b942d4a18ef42c0a81891926b4b.png",
-    "thumb": "icons/en/thumbs/Lethal_Momentum.57735b942d4a18ef42c0a81891926b4b.128x128.png",
+    "icon": "items/images/en/lethal_momentum.57735b942d4a18ef42c0a81891926b4b.png",
+    "thumb": "items/images/en/thumbs/lethal_momentum.57735b942d4a18ef42c0a81891926b4b.128x128.png",
     "icon_format": "port",
     "url_name": "lethal_momentum",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Lethal Momentum",
         "description": "+40% Projectile Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lethal_Momentum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lethal_Momentum"
     },
     "ru": {
         "item_name": "Летальный Момент",
         "description": "+40% к скорости полёта снаряда",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%9C%D0%BE%D0%BC%D0%B5%D0%BD%D1%82",
-        "icon": "icons/ru/Lethal_Momentum.44edca401960988600f88ac546460ba7.png",
-        "thumb": "icons/ru/thumbs/Lethal_Momentum.44edca401960988600f88ac546460ba7.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/lethal_momentum.44edca401960988600f88ac546460ba7.png",
+        "thumb": "items/images/ru/thumbs/lethal_momentum.44edca401960988600f88ac546460ba7.128x128.png"
     },
     "ko": {
         "item_name": "리썰 모멘텀",
         "description": "+40% 발사체 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lethal_Momentum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lethal_Momentum"
     },
     "de": {
         "item_name": "Tödlicher Schwung",
         "description": "+40 % Projektilgeschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/T%C3%B6dlicher_Schwung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/T%C3%B6dlicher_Schwung"
     },
     "fr": {
         "item_name": "Inertie Létale",
         "description": "+40% de Vitesse des Projectiles",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Inertie_L%C3%A9tale",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Inertie_L%C3%A9tale"
     },
     "pt": {
         "item_name": "Lethal Momentum",
         "description": "+40% de Velocidade do Projétil",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lethal_Momentum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lethal_Momentum"
     },
     "zh-hans": {
         "item_name": "致命动量",
         "description": "+40% 投射物速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lethal_Momentum",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lethal_Momentum"
     },
     "zh-hant": {
         "item_name": "致命動量",
         "description": "+40% 投射物速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lethal_Momentum",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lethal_Momentum"
     },
     "es": {
         "item_name": "Impulso Letal",
         "description": "+40% de velocidad de proyectil",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Impulso_letal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Impulso_letal"
     },
     "it": {
         "item_name": "Lethal Momentum",
         "description": "+40% Velocità Proiettile",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Lethal_Torrent",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Lethal_Torrent"
     },
     "pl": {
         "item_name": "Zabójczy Pęd",
         "description": "+40% Prędkość Pocisku",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zab%C3%B3jczy_P%C4%99d",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zab%C3%B3jczy_P%C4%99d"
     },
     "rarity": "uncommon",
     "max_rank": 3,

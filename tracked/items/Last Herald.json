@@ -1,15 +1,14 @@
 {
     "_id": "5be5f5a23ffcc7038857f121",
     "tags": [
-        "mod",
-        "sword and shield",
-        "conclave",
         "pvp",
+        "uncommon",
         "stance",
-        "uncommon"
+        "mod",
+        "sword_and_shield"
     ],
-    "icon": "icons/en/Last_Herald.28f1e9ce1b932b290d2feb5c53bdd6a1.png",
-    "thumb": "icons/en/thumbs/Last_Herald.28f1e9ce1b932b290d2feb5c53bdd6a1.128x128.png",
+    "icon": "items/images/en/last_herald.28f1e9ce1b932b290d2feb5c53bdd6a1.png",
+    "thumb": "items/images/en/thumbs/last_herald.28f1e9ce1b932b290d2feb5c53bdd6a1.128x128.png",
     "icon_format": "port",
     "url_name": "last_herald",
     "tradable": true,
@@ -19,68 +18,57 @@
     "en": {
         "item_name": "Last Herald",
         "description": "Fighting form devised for Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald"
     },
     "ru": {
         "item_name": "Последний Герольд",
-        "description": "Форма боя, созданная для Конклава.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B3%D0%B5%D1%80%D0%BE%D0%BB%D1%8C%D0%B4",
-        "drop": []
+        "description": "Форма боя, созданная для конклава.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B3%D0%B5%D1%80%D0%BE%D0%BB%D1%8C%D0%B4"
     },
     "ko": {
         "item_name": "라스트 해럴드",
         "description": "콘클레이브를 위해 창안된 전투 자세입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald"
     },
     "de": {
         "item_name": "Letzter Verkünder",
         "description": "Gefechtsform, entwickelt für die Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald"
     },
     "fr": {
         "item_name": "Dernier Héraut",
         "description": "Forme de combat réservée au Conclave.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dernier_H%C3%A9raut",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dernier_H%C3%A9raut"
     },
     "pt": {
         "item_name": "Last Herald",
         "description": "Forma de combate elaborada para o Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald"
     },
     "zh-hans": {
         "item_name": "终末使者",
         "description": "为武形秘仪设计的战斗形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Last_Herald",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Last_Herald"
     },
     "zh-hant": {
         "item_name": "終末使者",
         "description": "為武形秘儀設計的戰鬥形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Last_Herald",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Last_Herald"
     },
     "es": {
         "item_name": "Último Heraldo",
         "description": "Una forma de pelea creada para el Cónclave.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/%C3%9Altimo_heraldo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/%C3%9Altimo_heraldo"
     },
     "it": {
         "item_name": "Last Herald",
         "description": "Stile di combattimento ideato per il Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Last_Herald"
     },
     "pl": {
         "item_name": "Ostatni Herold",
         "description": "Styl walki stworzony na potrzeby Konklawe.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ostatni_Herald",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ostatni_Herald"
     },
     "rarity": "uncommon",
     "max_rank": 3,

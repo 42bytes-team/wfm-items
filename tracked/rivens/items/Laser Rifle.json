@@ -3,9 +3,11 @@
     "url_name": "laser_rifle",
     "group": "sentinel",
     "riven_type": "rifle",
-    "icon": "icons/en/laser_rifle.1be6c8b6ae0b5d7067871992fac7cfdd.png",
-    "thumb": "icons/en/thumbs/laser_rifle.1be6c8b6ae0b5d7067871992fac7cfdd.128x128.png",
+    "icon": "items/images/en/laser_rifle.1be6c8b6ae0b5d7067871992fac7cfdd.png",
+    "thumb": "items/images/en/thumbs/laser_rifle.1be6c8b6ae0b5d7067871992fac7cfdd.128x128.png",
     "icon_format": "land",
+    "disposition": 1.21,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelWeapons/LaserRifle"
     },

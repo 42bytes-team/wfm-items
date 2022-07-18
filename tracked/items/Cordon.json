@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "common",
-        "sentinel"
+        "sentinel",
+        "nautilus"
     ],
-    "icon": "icons/en/cordon.76aa1dcb061e2e0fea2e9265b2f5e95e.png",
-    "thumb": "icons/en/thumbs/cordon.76aa1dcb061e2e0fea2e9265b2f5e95e.128x128.png",
+    "icon": "items/images/en/cordon.76aa1dcb061e2e0fea2e9265b2f5e95e.png",
+    "thumb": "items/images/en/thumbs/cordon.76aa1dcb061e2e0fea2e9265b2f5e95e.128x128.png",
     "icon_format": "port",
     "url_name": "cordon",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Cordon",
         "description": "Nautilus forces enemies within 30m of the target into clusters for easier targeting. Cooldown: 15s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Кордон",
         "description": "Наутилус принуждает врагов в пределах 30м от цели собираться в группы, что облегчает наведение на цель. Восстановление: 15 с.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "코르돈",
         "description": "노틸러스가 목표의 30m 내에 있는 적들을 강제로 끌어모아 쉽게 조준할 수 있도록 합니다. 재사용 대기 시간: 15초",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Einzingeln",
         "description": "Nautilus zieht Feinde innerhalb von 30 m um das Ziel zu Gruppen zusammen und erleichtert damit das Zielen. Abklingzeit: 15 s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Cordon",
         "description": "Nautilus rassemble les ennemis à moins de 30m de la cible pour faciliter le ciblage. Temps de rechargement: 15s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Cordon",
         "description": "Nautilus faz com que inimigos dentro de 30m de seu alvo se agrupem, facilitando a mira de seu Mestre. Tempo de Recarga: 15s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "防线封锁",
         "description": "鹦鹉螺把目标范围 30 米内的敌人强行聚集以便于瞄准。冷却时间：15 秒。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "隔斷",
         "description": "鸚鵡螺將 30 公尺內的敵人強拉成群，更便於瞄準。冷卻時間：15 秒。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Acordonar",
         "description": "Nautilus obliga a los enemigos dentro de 30 m del objetivo a agruparse para que sea más fácil apuntarles. Tiempo de espera: 15 s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Cordon",
         "description": "Nautilus costringe i nemici entro 30m dal bersaglio a raggrupparsi per una mira più facile. Tempo di ricarica: 15s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Kordon",
         "description": "Nautilus zmusza wrogów w promieniu 30m od celu do zebrania się w grupę, aby ułatwić namierzanie. Czas Odnowienia: 15 sekund.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "common",
     "max_rank": 5,

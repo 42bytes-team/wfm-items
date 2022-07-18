@@ -1,13 +1,13 @@
 {
     "_id": "54a74454e779892d5e5155a6",
     "tags": [
-        "rare",
         "mod",
-        "weapons",
-        "primary"
+        "rare",
+        "primary",
+        "sobek"
     ],
-    "icon": "icons/en/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.png",
-    "thumb": "icons/en/thumbs/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.128x128.png",
+    "icon": "items/images/en/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.png",
+    "thumb": "items/images/en/thumbs/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.128x128.png",
     "icon_format": "port",
     "url_name": "shattering_justice",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Shattering Justice",
         "description": "+90% Status Chance\n+1 'Justice'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shattering_Justice",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shattering_Justice"
     },
     "ru": {
         "item_name": "Раскалывающая Справедливость",
         "description": "+90% к шансу статуса\n+1 'Справедливости'",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/shattering_justice.a37eb70d577eea758df3c927c5187f09.png",
-        "thumb": "icons/ru/thumbs/shattering_justice.a37eb70d577eea758df3c927c5187f09.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/shattering_justice.a37eb70d577eea758df3c927c5187f09.png",
+        "thumb": "items/images/ru/thumbs/shattering_justice.a37eb70d577eea758df3c927c5187f09.128x128.png"
     },
     "ko": {
         "item_name": "섀터링 저스티스",
         "description": "+90% 상태 이상 확률\n+1 '저스티스'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shattering_Justice",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Shattering_Justice"
     },
     "de": {
         "item_name": "Zerschmetternde Gerechtigkeit",
         "description": "+90 % Statuschance\n+1 'Gerechtigkeit'",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerschmetternde_Gerechtigkeit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerschmetternde_Gerechtigkeit"
     },
     "fr": {
         "item_name": "Justice Accablante",
         "description": "+90% de Chances de Statut\n+1 'Justice'",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Justice_Accablante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Justice_Accablante"
     },
     "pt": {
         "item_name": "Shattering Justice",
         "description": "+90% de Chance de Status\n+1 \"Justiça\"",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Justice",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Justice"
     },
     "zh-hans": {
         "item_name": "破碎正义",
         "description": "+90% 触发几率\n+1 '正义'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shattering_Justice",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shattering_Justice"
     },
     "zh-hant": {
         "item_name": "破碎正義",
         "description": "+90% 觸發機率\n+1 '正義'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shattering_Justice",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shattering_Justice"
     },
     "es": {
         "item_name": "Justicia Resquebrajadora",
         "description": "+90% de probabilidad de estado\n+1 'Justicia'",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Justicia_resquebrajadora",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Justicia_resquebrajadora"
     },
     "it": {
         "item_name": "Shattering Justice",
         "description": "+90% Probabilità Effetto\n+1 'Giustizia'",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Justice",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Shattering_Justice"
     },
     "pl": {
         "item_name": "Miażdżąca Sprawiedliwość",
         "description": "+90% Szansa Statusu\n+1 \"Sprawiedliwość\"",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mia%C5%BCd%C5%BC%C4%85ca_Sprawiedliwo%C5%9B%C4%87",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mia%C5%BCd%C5%BC%C4%85ca_Sprawiedliwo%C5%9B%C4%87"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e515607",
     "tags": [
         "mod",
+        "common",
         "sentinel",
-        "common"
+        "djinn"
     ],
-    "icon": "icons/en/Thumper.e357cdd92fb471cd5743fafdee3fa63b.png",
-    "thumb": "icons/en/thumbs/Thumper.e357cdd92fb471cd5743fafdee3fa63b.128x128.png",
+    "icon": "items/images/en/thumper.e357cdd92fb471cd5743fafdee3fa63b.png",
+    "thumb": "items/images/en/thumbs/thumper.e357cdd92fb471cd5743fafdee3fa63b.128x128.png",
     "icon_format": "port",
     "url_name": "thumper",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Thumper",
         "description": "Djinn will attack the first visible enemy within 60m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thumper",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Thumper"
     },
     "ru": {
         "item_name": "Колотун",
         "description": "Джинн будет атаковать первого видимого в радиусе 60м врага.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D0%BD",
-        "icon": "icons/ru/Thumper.6a008b0187c69f052af1fd9f694b12a2.png",
-        "thumb": "icons/ru/thumbs/Thumper.6a008b0187c69f052af1fd9f694b12a2.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/thumper.6a008b0187c69f052af1fd9f694b12a2.png",
+        "thumb": "items/images/ru/thumbs/thumper.6a008b0187c69f052af1fd9f694b12a2.128x128.png"
     },
     "ko": {
         "item_name": "썸퍼",
         "description": "진이 60m 안에 들어온 적을 공격합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thumper",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Thumper"
     },
     "de": {
         "item_name": "Schläger",
         "description": "Djinn greift den ersten sichtbaren Feind innerhalb von 60 m an.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schildtr%C3%A4ger",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schildtr%C3%A4ger"
     },
     "fr": {
         "item_name": "Cogneur",
         "description": "Djinn va attaquer le premier ennemi visible dans un rayon de 60m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cogneur",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cogneur"
     },
     "pt": {
         "item_name": "Thumper",
         "description": "Djinn atacará o primeiro inimigo visível dentro de 60m.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Thumper",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Thumper"
     },
     "zh-hans": {
         "item_name": "重击者",
         "description": "引灵会攻击 60 米范围内的第一名可视敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thumper",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thumper"
     },
     "zh-hant": {
         "item_name": "重擊者",
         "description": "引靈會攻擊 60 公尺範圍內看見的第一名敵人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thumper",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thumper"
     },
     "es": {
         "item_name": "Golpeador",
         "description": "Djinn atacará al primer enemigo visible en un radio de 60m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Golpeador",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Golpeador"
     },
     "it": {
         "item_name": "Thumper",
         "description": "Djinn attaccherà il primo nemico visibile entro 60m.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Thumper",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Thumper"
     },
     "pl": {
         "item_name": "Dudnik",
         "description": "Djinn zaatakuje pierwszego dostrzeżonego przeciwnika w zasięgu 60m.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dudnik",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dudnik"
     },
     "rarity": "common",
     "max_rank": 5,

@@ -1,13 +1,14 @@
 {
     "_id": "567af35fcbfa8f05d076a524",
     "tags": [
-        "mod",
-        "rare",
+        "primary",
+        "burston",
         "pvp",
-        "primary"
+        "rare",
+        "mod"
     ],
-    "icon": "icons/en/triple_tap.76f19f65c3581449abc56f3d8d743b6e.png",
-    "thumb": "icons/en/thumbs/triple_tap.76f19f65c3581449abc56f3d8d743b6e.128x128.png",
+    "icon": "items/images/en/triple_tap.76f19f65c3581449abc56f3d8d743b6e.png",
+    "thumb": "items/images/en/thumbs/triple_tap.76f19f65c3581449abc56f3d8d743b6e.128x128.png",
     "icon_format": "port",
     "url_name": "triple_tap",
     "tradable": true,
@@ -17,71 +18,60 @@
     "en": {
         "item_name": "Triple Tap",
         "description": "On 2 Hits within 0.02s:\n+40% Damage for 0.2s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Triple_Tap",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Triple_Tap"
     },
     "ru": {
         "item_name": "Тройное Касание",
         "description": "При 2 попаданиях в течение 0.02с:\n+40% урона в течение 0.2с",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BA%D0%B0%D1%81%D0%B0%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/triple_tap.8051f59b39c0b93ee3fa85396d48ffa6.png",
+        "icon": "items/images/ru/triple_tap.8051f59b39c0b93ee3fa85396d48ffa6.png",
         "icon_format": "land",
-        "thumb": "icons/ru/thumbs/triple_tap.8051f59b39c0b93ee3fa85396d48ffa6.128x128.png",
-        "drop": []
+        "thumb": "items/images/ru/thumbs/triple_tap.8051f59b39c0b93ee3fa85396d48ffa6.128x128.png"
     },
     "ko": {
         "item_name": "트리플 탭",
         "description": "0.02초 내에 2번 타격할 시:\n0.2초 동안 +40% 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Triple_Tap",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Triple_Tap"
     },
     "de": {
         "item_name": "Dreifach-treffer",
         "description": "Bei 2 Treffern innerhalb von 0,02 s:\n+40 % Schaden für 0.2s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Triple_Tap",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Triple_Tap"
     },
     "fr": {
         "item_name": "Triple Coup",
         "description": "Sur 2 Coups en 0,02s:\nPendant 0.2s, +40% de Dégâts",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Triple_Coup",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Triple_Coup"
     },
     "pt": {
         "item_name": "Triple Tap",
         "description": "Em 2 Acertos dentro de 0,02s:\n+40% de Dano por 0.2s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Triple_Tap",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Triple_Tap"
     },
     "zh-hans": {
         "item_name": "三重连击",
         "description": "0.02 秒内命中 2 发：\n+40% 伤害，持续 0.2 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Triple_Tap",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Triple_Tap"
     },
     "zh-hant": {
         "item_name": "三重連擊",
         "description": "0.02 秒內命中 2 發：\n+40% 傷害，持續 0.2 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Triple_Tap",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Triple_Tap"
     },
     "es": {
         "item_name": "Triple Disparo",
         "description": "Al golpear 2 veces dentro de 0.02 s:\n+40% de daño por 0.2s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Triple_disparo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Triple_disparo"
     },
     "it": {
         "item_name": "Triple Tap",
         "description": "Con 2 Colpi entro 0.02s:\n+40% Danno per 0.2s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Triple_Tap",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Triple_Tap"
     },
     "pl": {
         "item_name": "Potrójny Strzał",
         "description": "Co 2 trafienia w ciągu 0.02s:\n+40% Obrażeń przez 0.2s",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Precyzyjny_Strza%C5%82",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Precyzyjny_Strza%C5%82"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -3,9 +3,11 @@
     "url_name": "keratinos",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/keratinos.48005cdde13b283b6bf2ecc70b8e866c.png",
-    "thumb": "icons/en/thumbs/keratinos.48005cdde13b283b6bf2ecc70b8e866c.128x128.png",
+    "icon": "items/images/en/keratinos.48005cdde13b283b6bf2ecc70b8e866c.png",
+    "thumb": "items/images/en/thumbs/keratinos.48005cdde13b283b6bf2ecc70b8e866c.128x128.png",
     "icon_format": "land",
+    "disposition": 1.05,
+    "mastery_level": 9,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/Melee/InfTransformClaw/InfTransformClawsWeapon"
     },

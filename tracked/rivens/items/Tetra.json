@@ -3,9 +3,11 @@
     "url_name": "tetra",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/tetra.f86faf40614dc3d227cdd7766b27fddc.png",
-    "thumb": "icons/en/thumbs/tetra.f86faf40614dc3d227cdd7766b27fddc.128x128.png",
+    "icon": "items/images/en/tetra.f86faf40614dc3d227cdd7766b27fddc.png",
+    "thumb": "items/images/en/thumbs/tetra.f86faf40614dc3d227cdd7766b27fddc.128x128.png",
     "icon_format": "land",
+    "disposition": 1.5,
+    "mastery_level": 3,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP"
     },

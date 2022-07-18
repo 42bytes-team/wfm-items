@@ -2,11 +2,10 @@
     "_id": "5c1bda1314a8e4006b1dad81",
     "tags": [
         "common",
-        "arcane_enhancement",
-        "operator"
+        "arcane_enhancement"
     ],
-    "icon": "icons/en/Magus_Anomaly.3f06b6fc67779e08e0f55c9d04db0da2.png",
-    "thumb": "icons/en/thumbs/Magus_Anomaly.3f06b6fc67779e08e0f55c9d04db0da2.128x128.png",
+    "icon": "items/images/en/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.png",
+    "thumb": "items/images/en/thumbs/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.128x128.png",
     "icon_format": "land",
     "url_name": "magus_anomaly",
     "tradable": true,
@@ -16,68 +15,57 @@
     "en": {
         "item_name": "Magus Anomaly",
         "description": "On Transference In:\nEnemies within 30m are pulled towards Warframe.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Anomaly",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Anomaly"
     },
     "ru": {
         "item_name": "Аномалия Волхва",
         "description": "При переносе внутрь:\nВраги в радиусе 30м притягиваются к варфрейму.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D1%8F_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D1%8F_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
     },
     "ko": {
         "item_name": "마구스 어노말리",
         "description": "전이체 합체 시:\n30m 내의 적들이 워프레임 쪽으로 끌려옵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Anomaly",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Anomaly"
     },
     "de": {
         "item_name": "Magus: Anomalie",
         "description": "Bei Transferenz in:\nFeinde innerhalb von 30 m werden in Richtung Warframe gezogen.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Anomaly",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Anomaly"
     },
     "fr": {
         "item_name": "Magus Anomalie",
         "description": "Sur entrée de Transférence:\nLes ennemis dans un rayon de 30m sont attirés vers la Warframe.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Anomalie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Anomalie"
     },
     "pt": {
         "item_name": "Magus: Anomalia",
         "description": "Ao ativar a Transferência:\nInimigos dentro de 30m são puxados em direção do Warframe.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magus_Anomaly",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magus_Anomaly"
     },
     "zh-hans": {
         "item_name": "魔导 近点",
         "description": "向内传识时：\n距离 30 米内的敌人被拉向战甲。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Anomaly",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Anomaly"
     },
     "zh-hant": {
         "item_name": "魔導 近點",
         "description": "向內傳識時：\n距離 30 公尺內的敵人被拉向戰甲。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Anomaly",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Anomaly"
     },
     "es": {
         "item_name": "Anomalía Del Mago",
         "description": "Al entrar en la transferencia:\nLos enemigos dentro de 30m son halados hacia el warframe.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Anomal%C3%ADa_del_mago",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Anomal%C3%ADa_del_mago"
     },
     "it": {
         "item_name": "Magus Anomaly",
         "description": "All'Entrata della Trasferenza:\nI nemici entro 30m vengono attirati verso il Warframe.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Anomaly",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Anomaly"
     },
     "pl": {
         "item_name": "Magus Anomalii",
         "description": "Przy wejściu w Transferencję:\nWrogowie w zasięgu 30m są ściągani w pobliże Twojego Warframe'a.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Anomalii",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Anomalii"
     },
     "rarity": "common",
     "max_rank": 5,

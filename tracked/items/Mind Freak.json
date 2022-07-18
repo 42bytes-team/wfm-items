@@ -1,13 +1,13 @@
 {
     "_id": "54e644ffe779897594fa68ce",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "nyx"
     ],
-    "icon": "icons/en/Mind_Freak.9fa9ad270ea0f0f491a1c49b20e621a6.png",
-    "thumb": "icons/en/thumbs/Mind_Freak.9fa9ad270ea0f0f491a1c49b20e621a6.128x128.png",
+    "icon": "items/images/en/mind_freak.9fa9ad270ea0f0f491a1c49b20e621a6.png",
+    "thumb": "items/images/en/thumbs/mind_freak.9fa9ad270ea0f0f491a1c49b20e621a6.128x128.png",
     "icon_format": "port",
     "url_name": "mind_freak",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Mind Freak",
         "description": "Mind Control Augment: Controlled target inflicts +500% Damage.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mind_Freak",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mind_Freak"
     },
     "ru": {
         "item_name": "Каприз Разума",
         "description": "Улучшение способности «Контроль Разума»: подчинённая цель наносит на 500% больше урона.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%B8%D0%B7_%D0%A0%D0%B0%D0%B7%D1%83%D0%BC%D0%B0",
-        "icon": "icons/ru/Mind_Freak.b8add81c1b98946fab58c13d83c07a3e.png",
-        "thumb": "icons/ru/thumbs/Mind_Freak.b8add81c1b98946fab58c13d83c07a3e.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/mind_freak.b8add81c1b98946fab58c13d83c07a3e.png",
+        "thumb": "items/images/ru/thumbs/mind_freak.b8add81c1b98946fab58c13d83c07a3e.128x128.png"
     },
     "ko": {
         "item_name": "마인드 프리크",
         "description": "마인드 컨트롤 개조: 조종당하는 대상이 가하는 피해가 500%만큼 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mind_Freak",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Mind_Freak"
     },
     "de": {
         "item_name": "Gedankenfreak",
         "description": "Gedankenkontrolle Augment: Kontrolliertes Ziel verursacht 500 % mehr Schaden.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gedankenfreak",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gedankenfreak"
     },
     "fr": {
         "item_name": "Caprice Mental",
         "description": "Augmentation de Contrôle Mental: La cible contrôlée inflige +500% de Dégâts.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Caprice_Mental",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Caprice_Mental"
     },
     "pt": {
         "item_name": "Mind Freak",
         "description": "Ampliação Mind Control: O alvo controlado causa 500% Dano extra.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Mind_Freak",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Mind_Freak"
     },
     "zh-hans": {
         "item_name": "精神狂怒",
         "description": "精神控制强化：被控制的敌人造成伤害增加 500%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mind_Freak",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mind_Freak"
     },
     "zh-hant": {
         "item_name": "精神狂怒",
         "description": "精神控制強化：被控制的敵人造成傷害增加 500%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mind_Freak",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mind_Freak"
     },
     "es": {
         "item_name": "Monstruo Mental",
         "description": "Aumento de Control mental: el objetivo controlado causa +500% de daño.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Monstruo_mental",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Monstruo_mental"
     },
     "it": {
         "item_name": "Mind Freak",
         "description": "Potenziamento Mind Control: Il bersaglio controllato infligge il 500% del Danno in più.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Mind_Freak",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Mind_Freak"
     },
     "pl": {
         "item_name": "Psychoza",
         "description": "Modyfikacja Kontroli Umysłu: Kontrolowany cel zadaje obrażenia większe o 500%.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Psychoza",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Psychoza"
     },
     "rarity": "rare",
     "max_rank": 3,

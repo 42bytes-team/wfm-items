@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "uncommon",
-        "melee"
+        "melee",
+        "thrown_melee"
     ],
-    "icon": "icons/en/volatile_quick_return.fd671126fd4051e8e3addc13ae56d1f0.png",
-    "thumb": "icons/en/thumbs/volatile_quick_return.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon": "items/images/en/volatile_quick_return.fd671126fd4051e8e3addc13ae56d1f0.png",
+    "thumb": "items/images/en/thumbs/volatile_quick_return.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
     "icon_format": "port",
     "url_name": "volatile_quick_return",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Volatile Quick Return",
         "description": "-4 Bounce\n+3 Blast Radius\n+100% Chance to explode on Bounce (Disables Punch Through)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Quick_Return",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Quick_Return"
     },
     "ru": {
         "item_name": "Нестабильное Быстрое Возвращение",
         "description": "-4 отскок\n+3 к радиусу взрыва\n+100% к шансу взорваться при отскоке (пронзание навылет отсутствует)",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5_%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5_%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5"
     },
     "ko": {
         "item_name": "볼래틸 퀵 리턴",
         "description": "-4 튕김 횟수\n+3 폭발 범위\n+100% 튕길 시 폭발 확률 (두께 꿰뚫기 비활성화)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Quick_Return",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Quick_Return"
     },
     "de": {
         "item_name": "Flüchtige Schnelle Rückkehr",
         "description": "-4 Abpraller\n+3 Explosionsradius\n+100 % Chance beim Abprallen zu explodieren (Deaktiviert Durchdringung)",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Fl%C3%BCchtige_schnelle_R%C3%BCckkehr",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Fl%C3%BCchtige_schnelle_R%C3%BCckkehr"
     },
     "fr": {
         "item_name": "Retour Rapide Volatil",
         "description": "-4 Rebond\nRayon d'Explosion : +3\n+100% de chances d'exploser au Rebond (retire la Pénétration)",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Retour_Rapide_Volatil",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Retour_Rapide_Volatil"
     },
     "pt": {
         "item_name": "Volatile Quick Return",
         "description": "-4 Ricochete(s)\n+3 Raio da Explosão\n+100% de Chance de Explodir ao Ricochetear (Desabilita a Penetração)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Quick_Return",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Quick_Return"
     },
     "zh-hans": {
         "item_name": "易爆速返",
         "description": "-4 弹跳\n+3 爆炸半径\n+100% 几率在反弹时爆炸（禁用穿透效果）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Quick_Return",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Quick_Return"
     },
     "zh-hant": {
         "item_name": "易爆即返",
         "description": "-4 額外彈跳次數\n+3 爆炸半徑\n+100% 彈跳時爆炸機率（停用穿透）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Quick_Return",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Quick_Return"
     },
     "es": {
         "item_name": "Devolución Rápida Volátil",
         "description": "-4 rebote\n+3 de radio de explosión\n+100% de probabilidad de explotar al rebotar (desactiva Atravesar)",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Devoluci%C3%B3n_r%C3%A1pida",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Devoluci%C3%B3n_r%C3%A1pida"
     },
     "it": {
         "item_name": "Volatile Quick Return",
         "description": "-4 Rimbalzo\n+3 Raggio Esplosione\n+100% di Probabilità di esplodere al Rimbalzo (Disattiva l'Attraversamento)",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Quick_Return",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Quick_Return"
     },
     "pl": {
         "item_name": "Lotny Szybki Powrót",
         "description": "-4 Odbicie\n+3 Promień wybuchu\n+100% Szansy na eksplozję przy Odbiciu (Usuwa Przebicie na wylot)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Quick_Return",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Quick_Return"
     },
     "rarity": "uncommon",
     "max_rank": 3,

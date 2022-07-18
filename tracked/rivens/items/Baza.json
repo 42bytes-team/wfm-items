@@ -3,9 +3,11 @@
     "url_name": "baza",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/baza.e6765564311125de7ff2d24fa1c5f6cc.png",
-    "thumb": "icons/en/thumbs/baza.e6765564311125de7ff2d24fa1c5f6cc.128x128.png",
+    "icon": "items/images/en/baza.e6765564311125de7ff2d24fa1c5f6cc.png",
+    "thumb": "items/images/en/thumbs/baza.e6765564311125de7ff2d24fa1c5f6cc.128x128.png",
     "icon_format": "land",
+    "disposition": 1.05,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/TnSMG/TnSMGWeapon"
     },

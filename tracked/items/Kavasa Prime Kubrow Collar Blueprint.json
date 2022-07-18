@@ -1,13 +1,12 @@
 {
     "_id": "56153727b66f836f91a8e849",
     "tags": [
-        "kubrow",
         "prime",
         "skin",
         "blueprint"
     ],
-    "icon": "icons/en/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.png",
-    "thumb": "icons/en/thumbs/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+    "icon": "items/images/en/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.png",
+    "thumb": "items/images/en/thumbs/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "kavasa_prime_kubrow_collar_blueprint",
@@ -26,299 +25,57 @@
     "en": {
         "item_name": "Kavasa Prime Kubrow Collar Blueprint",
         "description": "Records the genetic memory and DNA sequence of a Kubrow, allowing it to be reconstructed in the Incubator.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kavasa_Prime_Collar",
-        "drop": [
-            {
-                "name": "Axi S7 Relic (Uncommon)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "Axi G1 Relic (Uncommon)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "Neo N1 Relic (Uncommon)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "Meso P6 Relic (Uncommon)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "Lith S4 Relic (Uncommon)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Kavasa_Prime_Collar"
     },
     "ru": {
-        "item_name": "Ошейник Кубрау: Каваса Прайм: Чертеж",
+        "item_name": "Ошейник Кубрау: Каваса Прайм (Чертеж)",
         "description": "Записывает генетическую память и последовательность ДНК Кубрау, позволяя воспроизвести их в инкубаторе.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%88%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA_%D0%9A%D0%B0%D0%B2%D0%B0%D1%81%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси S7 (Необычный)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "Реликвия Акси G1 (Необычный)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "Реликвия Нео N1 (Необычный)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "Реликвия Мезо P6 (Необычный)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "Реликвия Лит S4 (Необычный)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%88%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA_%D0%9A%D0%B0%D0%B2%D0%B0%D1%81%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "카바사 프라임 쿠브로 칼라 설계도",
         "description": "쿠브로의 유전 기억과 DNA 염기 순서를 기록하여 인큐베이터를 통해 다시 복원할 수 있도록 합니다.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar",
-        "drop": [
-            {
-                "name": "액시 S7 성유물 (언커먼)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "액시 G1 성유물 (언커먼)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "네오 N1 성유물 (언커먼)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "메소 P6 성유물 (언커먼)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "리스 S4 성유물 (언커먼)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar"
     },
     "de": {
-        "item_name": "Kubrow-halsband: Kavasa Prime: Blaupause",
+        "item_name": "Kubrow-halsband: Kavasa Prime Blaupause",
         "description": "Zeichnet das genetische Gedächtnis und die DNA-Sequenz eines Kubrow auf und erlaubt, diese im Inkubator zu rekonstruieren.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar",
-        "drop": [
-            {
-                "name": "Axi-relikt: S7 (Ungewöhnlich)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "Axi-relikt: G1 (Ungewöhnlich)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "Neo-relikt: N1 (Ungewöhnlich)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "Meso-relikt: P6 (Ungewöhnlich)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "Lith-relikt: S4 (Ungewöhnlich)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar"
     },
     "fr": {
-        "item_name": "Collier Kubrow Kavasa Prime - Schéma",
+        "item_name": "Collier Kubrow Kavasa Prime (Schéma)",
         "description": "Enregistre la mémoire génétique ainsi que la séquence d'ADN d'un Kubrow, permettant sa reconstruction dans un Incubateur.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Collier_Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi S7 (Inhabituel)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "Relique Axi G1 (Inhabituel)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "Relique Neo N1 (Inhabituel)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "Relique Meso P6 (Inhabituel)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "Relique Lith S4 (Inhabituel)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Collier_Kavasa_Prime"
     },
     "pt": {
-        "item_name": "Kavasa Prime: Coleira Kubrow: Diagrama",
+        "item_name": "Kavasa Prime: Coleira Kubrow (Diagrama)",
         "description": "Grava a memória genética e a sequência de DNA de um Kubrow, permitindo sua reconstrução na Incubadora.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar",
-        "drop": [
-            {
-                "name": "Relíquia Axi S7 (Incomum)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "Relíquia Axi G1 (Incomum)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "Relíquia Neo N1 (Incomum)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "Relíquia Meso P6 (Incomum)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "Relíquia Lith S4 (Incomum)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "http://warframe.wikia.com/wiki/Kavasa_Prime_Collar"
     },
     "zh-hans": {
         "item_name": "喀婆萨 Prime 库狛项圈 蓝图",
         "description": "记录一只库狛的遗传记忆与DNA序列，使它能够在孵化器中被重建。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kavasa_Prime_Collar",
-        "drop": [
-            {
-                "name": "后纪 S7 遗物 (罕见)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "后纪 G1 遗物 (罕见)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "中纪 N1 遗物 (罕见)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "前纪 P6 遗物 (罕见)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "古纪 S4 遗物 (罕见)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kavasa_Prime_Collar"
     },
     "zh-hant": {
         "item_name": "喀婆薩 Prime 庫狛項圈 藍圖",
         "description": "記錄一隻庫狛的遺傳記憶與DNA序列，使它能夠在孵化器中被重建。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kavasa_Prime_Collar",
-        "drop": [
-            {
-                "name": "後紀 S7 遺物 (罕見)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "後紀 G1 遺物 (罕見)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "中紀 N1 遺物 (罕見)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "前紀 P6 遺物 (罕見)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "古紀 S4 遺物 (罕見)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kavasa_Prime_Collar"
     },
     "es": {
         "item_name": "Plano de Collar Kavasa Prime De Kubrow",
         "description": "Registra la memoria genética y la secuencia del ADN de un kubrow, lo que le permite ser reconstruido en el SEGMENTO DE INCUBADORA.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Collar_Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi S7 (Poco Común)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "Reliquia Axi G1 (Poco Común)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "Reliquia Neo N1 (Poco Común)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "Reliquia Meso P6 (Poco Común)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "Reliquia Lith S4 (Poco Común)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Collar_Kavasa_Prime"
     },
     "it": {
-        "item_name": "Collare Kubrow Kavasa Prime Blueprint",
+        "item_name": "Collare Kubrow Kavasa Prime (Schema)",
         "description": "Registra la memoria genetica e la sequenza del DNA di un Kubrow, permettendo così che possa essere riprodotto nell'Incubatrice.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Collare_Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi S7 (Uncommon)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "Reliquia Axi G1 (Uncommon)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "Reliquia Neo N1 (Uncommon)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "Reliquia Meso P6 (Uncommon)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "Reliquia Lith S4 (Uncommon)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Collare_Kavasa_Prime"
     },
     "pl": {
-        "item_name": "Kubrow: Obroża Kavasa Prime: Schemat",
+        "item_name": "Kubrow: Obroża Kavasa Prime - Schemat",
         "description": "Zapisuje pamięć genetyczną i sekwencję DNA Kubrowa, pozwalając na jego odtworzenie w INKUBATORZE.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Obro%C5%BCa_Kavasa_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi S7 (Nieprzeciętny)",
-                "link": "axi_s7_relic"
-            },
-            {
-                "name": "Relikt Axi G1 (Nieprzeciętny)",
-                "link": "axi_g1_relic"
-            },
-            {
-                "name": "Relikt Neo N1 (Nieprzeciętny)",
-                "link": "neo_n1_relic"
-            },
-            {
-                "name": "Relikt Meso P6 (Nieprzeciętny)",
-                "link": "meso_p6_relic"
-            },
-            {
-                "name": "Relikt Lith S4 (Nieprzeciętny)",
-                "link": "lith_s4_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Obro%C5%BCa_Kavasa_Prime"
     },
     "mastery_level": 0,
     "ducats": 45,

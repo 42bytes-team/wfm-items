@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e515660",
     "tags": [
         "mod",
+        "common",
         "sentinel",
-        "common"
+        "shade"
     ],
-    "icon": "icons/en/Ghost.9c61a624b07663f8d4d710a3331cccce.png",
-    "thumb": "icons/en/thumbs/Ghost.9c61a624b07663f8d4d710a3331cccce.128x128.png",
+    "icon": "items/images/en/ghost.9c61a624b07663f8d4d710a3331cccce.png",
+    "thumb": "items/images/en/thumbs/ghost.9c61a624b07663f8d4d710a3331cccce.128x128.png",
     "icon_format": "port",
     "url_name": "ghost",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Ghost",
         "description": "Cloaks owner when enemies are within 10m. The cloak is disrupted if owner attacks.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghost"
     },
     "ru": {
         "item_name": "Призрак",
         "description": "Делает хозяина невидимым, если в радиусе 10м есть враги. Невидимость отключается, когда хозяин атакует.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA",
-        "icon": "icons/ru/Ghost.af1ac0c228fe4a086de87eeaf9db75ed.png",
-        "thumb": "icons/ru/thumbs/Ghost.af1ac0c228fe4a086de87eeaf9db75ed.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/ghost.af1ac0c228fe4a086de87eeaf9db75ed.png",
+        "thumb": "items/images/ru/thumbs/ghost.af1ac0c228fe4a086de87eeaf9db75ed.128x128.png"
     },
     "ko": {
         "item_name": "고스트",
         "description": "소유자와 적의 거리가 10m 이하인 경우 투명화 상태가 되며, 사용자가 공격을 시도하는 경우 투명화가 풀립니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghost",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Ghost"
     },
     "de": {
         "item_name": "Geist",
         "description": "Tarnt den Besitzer wenn Feinde innerhalb von 10 m sind. Tarnung wird aufgehoben, wenn der Besitzer angreift.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Geist",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Geist"
     },
     "fr": {
         "item_name": "Fantôme",
         "description": "Camoufle son propriétaire quand l'ennemi s'approche à moins de 10m. Le camouflage est désactivé si le propriétaire attaque.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fant%C3%B4me",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fant%C3%B4me"
     },
     "pt": {
         "item_name": "Ghost",
         "description": "Camufla seu mestre quando os inimigos estão dentro de 10m. A camuflagem é interrompida caso o mestre ataque.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ghost",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Ghost"
     },
     "zh-hans": {
         "item_name": "幽灵",
         "description": "当敌人靠近至 10 米范围内时自动隐匿主人，若攻击将会中断隐匿。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ghost",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ghost"
     },
     "zh-hant": {
         "item_name": "幽靈",
         "description": "當敵人靠近至 10 公尺範圍內時自動隱匿主人，若攻擊將會中斷隱匿。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ghost",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ghost"
     },
     "es": {
         "item_name": "Fantasma",
         "description": "Oculta al propietario cuando los enemigos están dentro de un rango de 10m. La ocultación se interrumpe si el propietario ataca.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fantasma",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Fantasma"
     },
     "it": {
         "item_name": "Ghost",
         "description": "Rende invisibile il possessore quando vi sono nemici entro i 10m. L'invisibilità è interrotta se il possessore attacca.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ghost",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Ghost"
     },
     "pl": {
         "item_name": "Duch",
         "description": "Maskuje właściciela, kiedy wrogowie znajdują się w zasięgu 10m. Maskowanie zniknie, kiedy właściciel zaatakuje.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Duch",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Duch"
     },
     "rarity": "common",
     "max_rank": 5,

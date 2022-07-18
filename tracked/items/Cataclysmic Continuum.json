@@ -1,13 +1,13 @@
 {
     "_id": "5615432cb66f8371035bfa33",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "limbo"
     ],
-    "icon": "icons/en/Cataclysmic_Continuum.97b3de0d31396da2b920bef226ea8791.png",
-    "thumb": "icons/en/thumbs/Cataclysmic_Continuum.97b3de0d31396da2b920bef226ea8791.128x128.png",
+    "icon": "items/images/en/cataclysmic_continuum.97b3de0d31396da2b920bef226ea8791.png",
+    "thumb": "items/images/en/thumbs/cataclysmic_continuum.97b3de0d31396da2b920bef226ea8791.128x128.png",
     "icon_format": "port",
     "url_name": "cataclysmic_continuum",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Cataclysmic Continuum",
         "description": "Cataclysm Augment: Duration increased by 1s for each enemy killed.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cataclysmic_Continuum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cataclysmic_Continuum"
     },
     "ru": {
         "item_name": "Континуум Катаклизмов",
         "description": "Улучшение способности «Катаклизм»: время действия увеличивается на 1 с за каждого убитого врага.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D1%83%D1%83%D0%BC_%D0%9A%D0%B0%D1%82%D0%B0%D0%BA%D0%BB%D0%B8%D0%B7%D0%BC%D0%BE%D0%B2",
-        "icon": "icons/ru/Cataclysmic_Continuum.fc66c0da903fd57e32417c4eba09a6f0.png",
-        "thumb": "icons/ru/thumbs/Cataclysmic_Continuum.fc66c0da903fd57e32417c4eba09a6f0.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/cataclysmic_continuum.fc66c0da903fd57e32417c4eba09a6f0.png",
+        "thumb": "items/images/ru/thumbs/cataclysmic_continuum.fc66c0da903fd57e32417c4eba09a6f0.128x128.png"
     },
     "ko": {
         "item_name": "카타클리즈믹 컨티뉴엄",
         "description": "카타클리즘 개조: 카타클리즘 안에서 적이 죽을 때마다 1초 만큼 지속 시간이 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Cataclysmic_Continuum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Cataclysmic_Continuum"
     },
     "de": {
         "item_name": "Kataklysmus Kontinuum",
         "description": "Kataklysmus Augment: Dauer erhöht sich um 1 s für jeden getöteten Feind.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Kataklysmus_Kontinuum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Kataklysmus_Kontinuum"
     },
     "fr": {
         "item_name": "Continuum Cataclysmique",
         "description": "Augmentation de Cataclysme: La durée est augmentée de 1s pour chaque ennemi tué.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Continuum_Cataclysmique",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Continuum_Cataclysmique"
     },
     "pt": {
         "item_name": "Cataclysmic Continuum",
         "description": "Ampliaçao Cataclysm: Duração aumenta em 1s por cada inimigo morto.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Cataclysmic_Continuum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Cataclysmic_Continuum"
     },
     "zh-hans": {
         "item_name": "灾变连连",
         "description": "灾变强化：每击杀一名敌人，持续时间延长 1 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cataclysmic_Continuum",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cataclysmic_Continuum"
     },
     "zh-hant": {
         "item_name": "災變連連",
         "description": "災變強化：每擊殺一名敵人，持續時間延長 1 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cataclysmic_Continuum",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Cataclysmic_Continuum"
     },
     "es": {
         "item_name": "Cataclismo Continuo",
         "description": "Aumento de Cataclismo: la duración aumenta por 1s por cada enemigo asesinado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cataclismo_continuo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Cataclismo_continuo"
     },
     "it": {
         "item_name": "Cataclysmic Continuum",
         "description": "Potenziamento Cataclysm: Aumenta la durata di 1s per ogni nemico ucciso.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Cataclysmic_Continuum",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Cataclysmic_Continuum"
     },
     "pl": {
         "item_name": "Kataklistyczne Kontinuum",
         "description": "Modyfikacja Kataklizmu: Zwiększa czas działania o 1s za każdego zabitego przeciwnika.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kataklistyczne_Kontinuum",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kataklistyczne_Kontinuum"
     },
     "rarity": "rare",
     "max_rank": 3,

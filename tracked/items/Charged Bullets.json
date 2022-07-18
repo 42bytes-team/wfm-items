@@ -2,13 +2,13 @@
     "_id": "5c1bda0114a8e4006b1dad56",
     "tags": [
         "rare",
-        "archwing",
         "primary",
-        "arch-gun",
-        "mod"
+        "mod",
+        "archwing",
+        "archgun"
     ],
-    "icon": "icons/en/Charged_Bullets.dd3cc7b19745157ec71fab293822b75d.png",
-    "thumb": "icons/en/thumbs/Charged_Bullets.dd3cc7b19745157ec71fab293822b75d.128x128.png",
+    "icon": "items/images/en/charged_bullets.dd3cc7b19745157ec71fab293822b75d.png",
+    "thumb": "items/images/en/thumbs/charged_bullets.dd3cc7b19745157ec71fab293822b75d.128x128.png",
     "icon_format": "port",
     "url_name": "charged_bullets",
     "tradable": true,
@@ -18,70 +18,59 @@
     "en": {
         "item_name": "Charged Bullets",
         "description": "+60% Electricity\n+60% Status Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Bullets"
     },
     "ru": {
         "item_name": "Заряженные Пули",
         "description": "+60% урона электричеством\n+60% к шансу статуса",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%9F%D1%83%D0%BB%D0%B8",
-        "icon": "icons/ru/Charged_Bullets.5cd93b52cc0e062701d84560c9970f3b.png",
-        "thumb": "icons/ru/thumbs/Charged_Bullets.5cd93b52cc0e062701d84560c9970f3b.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/charged_bullets.5cd93b52cc0e062701d84560c9970f3b.png",
+        "thumb": "items/images/ru/thumbs/charged_bullets.5cd93b52cc0e062701d84560c9970f3b.128x128.png"
     },
     "ko": {
         "item_name": "차지드 불릿",
         "description": "+60% 전기\n+60% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Bullets"
     },
     "de": {
         "item_name": "Geladene Kugeln",
         "description": "+60 % Elektrizität\n+60 % Statuschance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Bullets"
     },
     "fr": {
         "item_name": "Balles Chargées",
         "description": "+60% Électrique\n+60% de Chances de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Balles_Charg%C3%A9es",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Balles_Charg%C3%A9es"
     },
     "pt": {
         "item_name": "Charged Bullets",
         "description": "+60% de Elétrico\n+60% de Chance de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sharpened_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sharpened_Bullets"
     },
     "zh-hans": {
         "item_name": "带电子弹",
         "description": "+60% 电击伤害\n+60% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Bullets"
     },
     "zh-hant": {
         "item_name": "帶電子彈",
         "description": "+60% 電擊傷害\n+60% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Bullets",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Bullets"
     },
     "es": {
         "item_name": "Balas Cargadas",
         "description": "+60% de electricidad\n+60% de probabilidad de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Balas_cargadas",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Balas_cargadas"
     },
     "it": {
         "item_name": "Charged Bullets",
         "description": "+60% Elettrico\n+60% Probabilità Effetto",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Charged_Shell",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Charged_Shell"
     },
     "pl": {
         "item_name": "Naładowane Pociski",
         "description": "+60% Obrażeń Elektrycznych\n+60% Szansa Statusu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Podw%C3%B3jne_Pociski",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Podw%C3%B3jne_Pociski"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -5,8 +5,8 @@
         "blueprint",
         "prime"
     ],
-    "icon": "icons/en/harrow_prime_set.58e3852c1e6974710dc7cd72cc76e95a.png",
-    "thumb": "icons/en/thumbs/harrow_prime_set.58e3852c1e6974710dc7cd72cc76e95a.128x128.png",
+    "icon": "items/images/en/harrow_prime_blueprint.58e3852c1e6974710dc7cd72cc76e95a.png",
+    "thumb": "items/images/en/thumbs/harrow_prime_blueprint.58e3852c1e6974710dc7cd72cc76e95a.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "harrow_prime_blueprint",
@@ -26,123 +26,57 @@
     "en": {
         "item_name": "Harrow Prime Blueprint",
         "description": "The Inquisitor Eternal arises, hallowed by the Void, preaching a gospel of iron and flame.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi K6 Relic (Uncommon)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ru": {
-        "item_name": "Харроу Прайм: Чертеж",
+        "item_name": "Харроу Прайм (Чертеж)",
         "description": "Бессмертный Инквизитор является, освященный Бездной, проповедующий Евангелие огня и металла.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Реликвия Акси K6 (Необычный)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ko": {
         "item_name": "해로우 프라임 설계도",
         "description": "보이드로 하여금 축성받은 영원의 심판관이 죽은 자들 가운데서 일어나 강철과 불꽃의 복음을 설파합니다.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "액시 K6 성유물 (언커먼)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "de": {
-        "item_name": "Harrow Prime: Blaupause",
+        "item_name": "Harrow Prime Blaupause",
         "description": "Der ewige Inquisitor erhebt sich, geheiligt vom Void, und predigt ein Evangelium des Eisens und der Flammen.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi-relikt: K6 (Ungewöhnlich)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "fr": {
-        "item_name": "Harrow Prime - Schéma",
+        "item_name": "Harrow Prime (Schéma)",
         "description": "L'Inquisiteur Éternel se lève, sanctifié par le Néant, prêchant un évangile de fer et de flamme.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relique Axi K6 (Inhabituel)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pt": {
-        "item_name": "Harrow Prime: Diagrama",
+        "item_name": "Harrow Prime (Diagrama)",
         "description": "O Inquisidor Eterno surge, santificado pelo Void, pregando um evangelho de ferro e fogo.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relíquia Axi K6 (Incomum)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "Harrow Prime 蓝图",
         "description": "永恒的审判官已经崛起，受虚空洗礼，吟诵铁与火的福音。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "后纪 K6 遗物 (罕见)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "Harrow Prime 藍圖",
         "description": "永恆的審訊官崛起，由虛空神聖化，傳播著一篇鋼鐵與火焰的福音。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "後紀 K6 遺物 (罕見)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "es": {
         "item_name": "Plano de Harrow Prime",
         "description": "El eterno inquisidor se levanta, consagrado por el Vacío, predicando un evangelio de hierro y fuego.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi K6 (Poco Común)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "it": {
-        "item_name": "Harrow Prime Blueprint",
+        "item_name": "Harrow Prime (Schema)",
         "description": "L'Inquisitore Eterno sorge, consacrato dal Void, predicando un vangelo di ferro e fuoco.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi K6 (Uncommon)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pl": {
-        "item_name": "Harrow Prime: Schemat",
+        "item_name": "Harrow Prime - Schemat",
         "description": "Powstaje Wieczny Inkwizytor, uświęcony przez Pustkę, głosząc ewangelię żelaza i płomienia.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relikt Axi K6 (Nieprzeciętny)",
-                "link": "axi_k6_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "mastery_level": 0,
     "ducats": 45,

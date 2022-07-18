@@ -3,9 +3,11 @@
     "url_name": "ghoulsaw",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/ghoulsaw.f9a355d3f35098841d346d536abd801c.png",
-    "thumb": "icons/en/thumbs/ghoulsaw.f9a355d3f35098841d346d536abd801c.128x128.png",
+    "icon": "items/images/en/ghoulsaw.f9a355d3f35098841d346d536abd801c.png",
+    "thumb": "items/images/en/thumbs/ghoulsaw.f9a355d3f35098841d346d536abd801c.128x128.png",
     "icon_format": "land",
+    "disposition": 1,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Melee/GrnGhoulSaw/GrnGhoulSawPlayer"
     },

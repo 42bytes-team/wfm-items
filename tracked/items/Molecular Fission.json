@@ -7,8 +7,8 @@
         "warframe",
         "mod"
     ],
-    "icon": "icons/en/Molecular_Fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.png",
-    "thumb": "icons/en/thumbs/Molecular_Fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.128x128.png",
+    "icon": "items/images/en/molecular_fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.png",
+    "thumb": "items/images/en/thumbs/molecular_fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.128x128.png",
     "icon_format": "port",
     "url_name": "molecular_fission",
     "tradable": true,
@@ -18,70 +18,59 @@
     "en": {
         "item_name": "Molecular Fission",
         "description": "Molecular Prime Augment: When killed, primed enemies will restore a Null Star charge and have a 100% chance of restoring an additional one.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission"
     },
     "ru": {
         "item_name": "Молекулярное Деление",
         "description": "Улучшение способности «Молекулярный Заряд»: при смерти, враги будут восстанавливать заряд Звезды Пустоты и могут восстановить дополнительный заряд с шансом 100%.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5_%D0%94%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "icons/ru/Molecular_Fission.3c39011c65b495c1e1b4019a06d27e8e.png",
-        "thumb": "icons/ru/thumbs/Molecular_Fission.3c39011c65b495c1e1b4019a06d27e8e.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/molecular_fission.3c39011c65b495c1e1b4019a06d27e8e.png",
+        "thumb": "items/images/ru/thumbs/molecular_fission.3c39011c65b495c1e1b4019a06d27e8e.128x128.png"
     },
     "ko": {
         "item_name": "몰레큘러 피션",
         "description": "몰레큘러 프라임 개조: 몰레큘러 프라임의 영향을 받은 적을 처치 시, 널 스타 차지 하나를 회복하며, 100%의 확률로 또 하나가 추가로 회복됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission"
     },
     "de": {
         "item_name": "Molekulare Spaltung",
         "description": "Molekulare Sättigung Augment: Primed Gegner stellen eine Nullstern-Ladung wieder her, wenn sie getötet werden und haben eine 100 % Chance, eine weitere wiederherzustellen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Molekulare_Wandlung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Molekulare_Wandlung"
     },
     "fr": {
         "item_name": "Fission Moléculaire",
         "description": "Augmentation Amorce moléculaire: Une fois éliminés, les ennemis marqués redonneront une charge d'étoile vide et 100% de chances d'en récupérer une supplémentaire.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Conversion_Mol%C3%A9culaire",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Conversion_Mol%C3%A9culaire"
     },
     "pt": {
         "item_name": "Molecular Fission",
         "description": "Ampliação Molecular Prime: Ao serem abatidos, os inimigos afetados pela habilidade restaurarão uma carga da Null Star, e terão 100% de chance de fornecer uma carga adicional.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission"
     },
     "zh-hans": {
         "item_name": "分子裂变",
         "description": "分子填充强化：当击杀被分子填充影响的敌人时会生成一个湮灭流星群粒子，并且有 100% 几率将额外生成另一个。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Molecular_Fission",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Molecular_Fission"
     },
     "zh-hant": {
         "item_name": "分子裂變",
         "description": "分子填充強化：當擊殺被分子填充影響的敵人時會生成一個湮滅流星群粒子，並且有 100% 機率將額外生成另一個。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Molecular_Fission",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Molecular_Fission"
     },
     "es": {
         "item_name": "Fisión Molecular",
         "description": "Aumento de Impregnación molecular: al morir, los enemigos impregnados restaurarán una carga de Estrella nula y tendrán un 100% de probabilidad de restaurar una adicional.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fisi%C3%B3n_molecular",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Fisi%C3%B3n_molecular"
     },
     "it": {
         "item_name": "Molecular Fission",
         "description": "Molecular Prime Augment: Quando uccisi, i nemici primed ripristineranno una carica null star e avranno la possibilità di ripristinarne un'altra al 100% .",
-        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Molecular_Fission"
     },
     "pl": {
         "item_name": "Molekularne Rozszczepienie",
         "description": "Modyfikacja Molekularnego Naznaczenia: Po zabiciu, naznaczeni przeciwnicy zwracają ładunek Gwiazdy Pustki i mają 100% szansy na przywrócenie kolejnego.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Molekularne_Naznaczenie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Molekularne_Naznaczenie"
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -1,13 +1,12 @@
 {
     "_id": "5f498a209426ed00443bd0a6",
     "tags": [
-        "common",
         "mod",
-        "necramech",
-        "---"
+        "common",
+        "necramech"
     ],
-    "icon": "icons/en/necramech_redirection.2b8d7d243fd2af120ab54fa8f123691e.png",
-    "thumb": "icons/en/thumbs/necramech_redirection.2b8d7d243fd2af120ab54fa8f123691e.128x128.png",
+    "icon": "items/images/en/necramech_redirection.2b8d7d243fd2af120ab54fa8f123691e.png",
+    "thumb": "items/images/en/thumbs/necramech_redirection.2b8d7d243fd2af120ab54fa8f123691e.128x128.png",
     "icon_format": "port",
     "url_name": "necramech_redirection",
     "tradable": true,
@@ -17,68 +16,57 @@
     "en": {
         "item_name": "Necramech Redirection",
         "description": "+220% Shield Capacity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection"
     },
     "ru": {
         "item_name": "Перенаправление Некрамеха",
         "description": "+220% к мощности щита",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
     },
     "ko": {
         "item_name": "네크라메크 리다이렉션",
         "description": "+220% 최대 실드량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection"
     },
     "de": {
         "item_name": "Necramech: Umlenkung",
         "description": "+220 % Schildkapazität",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection"
     },
     "fr": {
         "item_name": "Redirection Du Necramech",
         "description": "+220% de capacité des Boucliers",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Redirection_du_Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Redirection_du_Necramech"
     },
     "pt": {
         "item_name": "Necramech Redirection",
         "description": "+220% de Capacidade do Escudo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection"
     },
     "zh-hans": {
         "item_name": "殁世机甲 蓄能重划",
         "description": "+220% 护盾容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Redirection",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Redirection"
     },
     "zh-hant": {
         "item_name": "亡骸機甲 蓄能重劃",
         "description": "+220% 護盾容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Redirection",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Redirection"
     },
     "es": {
         "item_name": "Redirección Necramech",
         "description": "+220% de capacidad de escudo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Redirecci%C3%B3n_Necramech",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Redirecci%C3%B3n_Necramech"
     },
     "it": {
         "item_name": "Necramech Redirection",
         "description": "+220% Capienza Scudo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Redirection"
     },
     "pl": {
         "item_name": "Nekramechowe Przekierowanie",
         "description": "+220% Wytrzymałość Tarcz",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Obliczone_Przekierowanie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Obliczone_Przekierowanie"
     },
     "rarity": "common",
     "max_rank": 10,

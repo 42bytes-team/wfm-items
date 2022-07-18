@@ -1,13 +1,13 @@
 {
     "_id": "54a74455e779892d5e5156b9",
     "tags": [
-        "rare",
         "mod",
-        "weapons",
-        "melee"
+        "rare",
+        "melee",
+        "dual_cleavers"
     ],
-    "icon": "icons/en/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.png",
-    "thumb": "icons/en/thumbs/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.128x128.png",
+    "icon": "items/images/en/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.png",
+    "thumb": "items/images/en/thumbs/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.128x128.png",
     "icon_format": "port",
     "url_name": "justice_blades",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Justice Blades",
         "description": "+100% Melee Damage\n+1 'Justice'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Justice",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Justice"
     },
     "ru": {
         "item_name": "Лезвия Справедливости",
         "description": "+100% урона в ближнем бою\n+1 'Справедливости'",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/justice_blades.8a6c3482b8e0cd8c85c8a5097f3c9784.png",
-        "thumb": "icons/ru/thumbs/justice_blades.8a6c3482b8e0cd8c85c8a5097f3c9784.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/justice_blades.8a6c3482b8e0cd8c85c8a5097f3c9784.png",
+        "thumb": "items/images/ru/thumbs/justice_blades.8a6c3482b8e0cd8c85c8a5097f3c9784.128x128.png"
     },
     "ko": {
         "item_name": "저스티스 블레이드",
         "description": "+100% 근접 피해\n+1 '저스티스'",
-        "wiki_link": "https://warframe.fandom.com/wiki/Justice",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Justice"
     },
     "de": {
         "item_name": "Gerechtigkeits-klinge",
         "description": "+100 % Nahkampfschaden\n+1 'Gerechtigkeit'",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gerechtigkeit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Gerechtigkeit"
     },
     "fr": {
         "item_name": "Lames Justicières",
         "description": "+100% de Dégâts en Mêlée\n+1 'Justice'",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Lames_Justici%C3%A8res",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Lames_Justici%C3%A8res"
     },
     "pt": {
         "item_name": "Justice Blades",
         "description": "+100% de Dano Corpo a Corpo\n+1 \"Justiça\"",
-        "wiki_link": "http://warframe.wikia.com/wiki/Justice_Blades",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Justice_Blades"
     },
     "zh-hans": {
         "item_name": "正义刀锋",
         "description": "+100% 近战伤害\n+1 '正义'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Justice",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Justice"
     },
     "zh-hant": {
         "item_name": "正義刀鋒",
         "description": "+100% 近戰傷害\n+1 '正義'",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Justice",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Justice"
     },
     "es": {
         "item_name": "Hojas De Justicia",
         "description": "+100 % de daño cuerpo a cuerpo\n+1 'Justicia'",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Hojas_de_justicia",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Hojas_de_justicia"
     },
     "it": {
         "item_name": "Justice Blades",
         "description": "+100% Danno Corpo a Corpo\n+1 'Giustizia'",
-        "wiki_link": "http://warframe.wikia.com/wiki/Justice_Blades",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Justice_Blades"
     },
     "pl": {
         "item_name": "Ostrza Sprawiedliwości",
         "description": "+100% Obrażeń w Walce Wręcz\n+1 \"Sprawiedliwość\"",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ostrza_Sprawiedliwo%C5%9Bci",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ostrza_Sprawiedliwo%C5%9Bci"
     },
     "rarity": "rare",
     "max_rank": 3,

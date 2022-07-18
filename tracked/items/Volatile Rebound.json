@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "melee"
+        "melee",
+        "thrown_melee"
     ],
-    "icon": "icons/en/volatile_rebound.fd671126fd4051e8e3addc13ae56d1f0.png",
-    "thumb": "icons/en/thumbs/volatile_rebound.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+    "icon": "items/images/en/volatile_rebound.fd671126fd4051e8e3addc13ae56d1f0.png",
+    "thumb": "items/images/en/thumbs/volatile_rebound.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
     "icon_format": "port",
     "url_name": "volatile_rebound",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Volatile Rebound",
         "description": "+100% Chance to explode on Bounce (Disables Punch Through)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound"
     },
     "ru": {
         "item_name": "Нестабильный Рикошет",
         "description": "+100% к шансу взорваться при отскоке (пронзание навылет отсутствует)",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%A0%D0%B8%D0%BA%D0%BE%D1%88%D0%B5%D1%82",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%A0%D0%B8%D0%BA%D0%BE%D1%88%D0%B5%D1%82"
     },
     "ko": {
         "item_name": "볼래틸 리바운드",
         "description": "+100% 튕길 시 폭발 확률 (두께 꿰뚫기 비활성화)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound"
     },
     "de": {
         "item_name": "Flüchtiger Abpraller",
         "description": "+100 % Chance beim Abprallen zu explodieren (Deaktiviert Durchdringung)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound"
     },
     "fr": {
         "item_name": "Rebond Volatil",
         "description": "+100% de chances d'exploser au Rebond (retire la Pénétration)",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rebond_Volatil",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rebond_Volatil"
     },
     "pt": {
         "item_name": "Volatile Rebound",
         "description": "+100% de Chance de Explodir ao Ricochetear (Desabilita a Penetração)",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Volatile_Runner",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Volatile_Runner"
     },
     "zh-hans": {
         "item_name": "易爆反弹",
         "description": "+100% 几率在反弹时爆炸（禁用穿透效果）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Rebound",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Rebound"
     },
     "zh-hant": {
         "item_name": "易爆反彈",
         "description": "+100% 彈跳時爆炸機率（停用穿透）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Rebound",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Rebound"
     },
     "es": {
         "item_name": "Rebote Volátil",
         "description": "+100% de probabilidad de explotar al rebotar (desactiva Atravesar)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound"
     },
     "it": {
         "item_name": "Volatile Rebound",
         "description": "+100% di Probabilità di esplodere al Rimbalzo (Disattiva l'Attraversamento)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Rebound"
     },
     "pl": {
         "item_name": "Lotny Rykoszet",
         "description": "+100% Szansy na eksplozję przy Odbiciu (Usuwa Przebicie na wylot)",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kinetyczny_Rykoszet",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kinetyczny_Rykoszet"
     },
     "rarity": "rare",
     "max_rank": 3,

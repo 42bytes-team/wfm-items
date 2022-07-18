@@ -3,9 +3,11 @@
     "url_name": "despair",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/despair.dcdb6297c9579cb1457bd0b8d46dc52e.png",
-    "thumb": "icons/en/thumbs/despair.dcdb6297c9579cb1457bd0b8d46dc52e.128x128.png",
+    "icon": "items/images/en/despair.dcdb6297c9579cb1457bd0b8d46dc52e.png",
+    "thumb": "items/images/en/thumbs/despair.dcdb6297c9579cb1457bd0b8d46dc52e.128x128.png",
     "icon_format": "port",
+    "disposition": 1.3,
+    "mastery_level": 4,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/ThrowingWeapons/StalkerKunai"
     },

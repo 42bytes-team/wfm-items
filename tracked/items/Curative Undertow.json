@@ -1,13 +1,13 @@
 {
     "_id": "54a74455e779892d5e5156d7",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "hydroid"
     ],
-    "icon": "icons/en/Curative_Undertow.fa308482fddacdfa8814c5625d5e0284.png",
-    "thumb": "icons/en/thumbs/Curative_Undertow.fa308482fddacdfa8814c5625d5e0284.128x128.png",
+    "icon": "items/images/en/curative_undertow.fa308482fddacdfa8814c5625d5e0284.png",
+    "thumb": "items/images/en/thumbs/curative_undertow.fa308482fddacdfa8814c5625d5e0284.128x128.png",
     "icon_format": "port",
     "url_name": "curative_undertow",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Curative Undertow",
         "description": "Undertow Augment: Allies can stand in the pool to regain 30% Health every 1.5s. Hydroid will restore 10% Health.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Curative_Undertow",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Curative_Undertow"
     },
     "ru": {
         "item_name": "Лечебный Отлив",
         "description": "Улучшение способности «Отлив»: союзники могут стоять в бассейне, чтобы восстановить 30% здоровья каждые 1.5 с. Гидроид восстанавливает 10% здоровья.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%9E%D1%82%D0%BB%D0%B8%D0%B2",
-        "icon": "icons/ru/Curative_Undertow.c7cdf9bf8d91d97dd1d0d18cacf9ff46.png",
-        "thumb": "icons/ru/thumbs/Curative_Undertow.c7cdf9bf8d91d97dd1d0d18cacf9ff46.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/curative_undertow.c7cdf9bf8d91d97dd1d0d18cacf9ff46.png",
+        "thumb": "items/images/ru/thumbs/curative_undertow.c7cdf9bf8d91d97dd1d0d18cacf9ff46.128x128.png"
     },
     "ko": {
         "item_name": "큐러티브 언더토",
         "description": "언더토 개조: 범위 내에 서 있는 아군은 매 1.5초마다 30%의 체력을 회복할 수 있습니다. 하이드로이드는 10%의 체력을 자가 회복합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Curative_Undertow",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Curative_Undertow"
     },
     "de": {
         "item_name": "Heilendes Kielholen",
         "description": "Kielholen Augment: Verbündete können im Pool verbleiben, um alle 1.5 s 30 % Gesundheit wiederherzustellen. Hydroid stellt 10 % Gesundheit wieder her.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Heilendes_Kielholen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Heilendes_Kielholen"
     },
     "fr": {
         "item_name": "Courant Curatif",
         "description": "Augmentation de Contre-courant: Les alliés peuvent rester dans la zone pour regagner 30% de Santé toutes les 1.5s. Hydroid restaurera 10% de sa Santé.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Courant_Curatif",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Courant_Curatif"
     },
     "pt": {
         "item_name": "Curative Undertow",
         "description": "Ampliação Undertow: Aliados podem ficar em cima da poça para recuperar 30% de Vida a cada 1.5s. O Hydroid restaurará 10% da própria Vida.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Curative_Undertow",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Curative_Undertow"
     },
     "zh-hans": {
         "item_name": "疗愈漩涡",
         "description": "水漩涡强化：队友站在漩涡池中每 1.5 秒可恢复 30% 生命值。Hydroid 将恢复 10% 的生命值。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Curative_Undertow",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Curative_Undertow"
     },
     "zh-hant": {
         "item_name": "療癒漩渦",
         "description": "水漩渦強化：在漩渦池內的隊友每 1.5 秒恢復 30% 生命值，Hydroid 將恢復 10% 生命。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Curative_Undertow",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Curative_Undertow"
     },
     "es": {
         "item_name": "Resaca Curativa",
         "description": "Aumento de Resaca: los aliados pueden permanecer en el charco para recuperar 30 % de salud cada 1.5 s. Hydroid restaurará el 10 % de salud.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Resaca_curativa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Resaca_curativa"
     },
     "it": {
         "item_name": "Curative Undertow",
         "description": "Potenziamento Undertow: Gli alleati che restano nella zona della pozza recuperano il 30% di Salute ogni 1.5s. Hydroid ripristinerà la propria Salute del 10%.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Curative_Undertow",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Curative_Undertow"
     },
     "pl": {
         "item_name": "Uzdrawiająca Woda",
         "description": "Modyfikacja Pułapki Wodnej: Sojusznicy mogą stać w Pułapce Wodnej, by odzyskać 30% Życia co 1.5s. Hydroid odzyskuje 10% Życia.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Uzdrawiaj%C4%85ca_Woda",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Uzdrawiaj%C4%85ca_Woda"
     },
     "rarity": "rare",
     "max_rank": 3,

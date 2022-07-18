@@ -2,12 +2,11 @@
     "_id": "61bb64fd3132ff00482b5fc5",
     "tags": [
         "component",
-        "primary",
         "weapon",
         "prime"
     ],
-    "icon": "icons/en/scourge_prime_set.1bcc3aeb8372c8e04e9b4f348673ab98.png",
-    "thumb": "icons/en/thumbs/scourge_prime_set.1bcc3aeb8372c8e04e9b4f348673ab98.128x128.png",
+    "icon": "items/images/en/scourge_prime_barrel.1bcc3aeb8372c8e04e9b4f348673ab98.png",
+    "thumb": "items/images/en/thumbs/scourge_prime_barrel.1bcc3aeb8372c8e04e9b4f348673ab98.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
     "url_name": "scourge_prime_barrel",
@@ -27,167 +26,57 @@
     "en": {
         "item_name": "Scourge Prime Barrel",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi S10 Relic (Rare)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "Meso S11 Relic (Rare)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Кара Прайм: Ствол",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси S10 (Редкий)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "Реликвия Мезо S11 (Редкий)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "스커지 프라임 배럴",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "액시 S10 성유물 (레어)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "메소 S11 성유물 (레어)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "de": {
         "item_name": "Scourge Prime: Lauf",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Axi-relikt: S10 (Selten)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "Meso-relikt: S11 (Selten)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Scourge Prime - Canon",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relique Axi S10 (Rare)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "Relique Meso S11 (Rare)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Scourge Prime: Cano",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relíquia Axi S10 (Raro)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "Relíquia Meso S11 (Raro)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "祸根 Prime 枪管",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "后纪 S10 遗物 (稀有)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "前纪 S11 遗物 (稀有)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "禍根 Prime 槍管",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "後紀 S10 遺物 (稀有)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "前紀 S11 遺物 (稀有)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "es": {
         "item_name": "Cañón De Scourge Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi S10 (Raro)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "Reliquia Meso S11 (Raro)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "it": {
         "item_name": "Scourge Prime - Canna",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Reliquia Axi S10 (Rare)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "Reliquia Meso S11 (Rare)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Scourge Prime: Lufa",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": null,
-        "drop": [
-            {
-                "name": "Relikt Axi S10 (Rzadki)",
-                "link": "axi_s10_relic"
-            },
-            {
-                "name": "Relikt Meso S11 (Rzadki)",
-                "link": "meso_s11_relic"
-            }
-        ]
+        "wiki_link": null
     },
     "mastery_level": 14,
     "ducats": 100,

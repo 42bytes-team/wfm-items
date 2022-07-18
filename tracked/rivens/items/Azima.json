@@ -3,9 +3,11 @@
     "url_name": "azima",
     "group": "secondary",
     "riven_type": "pistol",
-    "icon": "icons/en/azima.8bb80c4b17a8fcbde5ef298c463d84e2.png",
-    "thumb": "icons/en/thumbs/azima.8bb80c4b17a8fcbde5ef298c463d84e2.128x128.png",
+    "icon": "items/images/en/azima.8bb80c4b17a8fcbde5ef298c463d84e2.png",
+    "thumb": "items/images/en/thumbs/azima.8bb80c4b17a8fcbde5ef298c463d84e2.128x128.png",
     "icon_format": "port",
+    "disposition": 1.25,
+    "mastery_level": 6,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Pistols/SundialGun/SundialPistol"
     },

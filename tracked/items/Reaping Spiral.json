@@ -1,13 +1,13 @@
 {
     "_id": "54a74455e779892d5e5156f0",
     "tags": [
-        "stance",
         "mod",
         "rare",
-        "uncommon"
+        "stance",
+        "scythes"
     ],
-    "icon": "icons/en/Reaping_Spiral.77e9198edff9f980f9afba221e5431dc.png",
-    "thumb": "icons/en/thumbs/Reaping_Spiral.77e9198edff9f980f9afba221e5431dc.128x128.png",
+    "icon": "items/images/en/reaping_spiral.77e9198edff9f980f9afba221e5431dc.png",
+    "thumb": "items/images/en/thumbs/reaping_spiral.77e9198edff9f980f9afba221e5431dc.128x128.png",
     "icon_format": "port",
     "url_name": "reaping_spiral",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Reaping Spiral",
         "description": "Far flung attacks and multi-hit combos.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Reaping_Spiral",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Reaping_Spiral"
     },
     "ru": {
         "item_name": "Пожинающая Спираль",
         "description": "Атаки с широкой зоной поражения и комбо, наносящие несколько ударов за раз.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B6%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%A1%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D1%8C",
-        "icon": "icons/ru/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.png",
-        "thumb": "icons/ru/thumbs/Reaping_Spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/reaping_spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.png",
+        "thumb": "items/images/ru/thumbs/reaping_spiral.c95a51ba8e2c8fcb4c9c8e39f2d3601e.128x128.png"
     },
     "ko": {
         "item_name": "리핑 스파이럴",
         "description": "긴 사거리의 공격과 다중 타격 연속기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Reaping_Spiral",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Reaping_Spiral"
     },
     "de": {
         "item_name": "Mähender Wirbel",
         "description": "Weit ausgreifende Angriffe mit Multi-Treffer-Kombos.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/M%C3%A4hender_Wirbel",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/M%C3%A4hender_Wirbel"
     },
     "fr": {
         "item_name": "Fauchage Tournoyant",
         "description": "Attaques précipitées à grande portée et combos à coups multiples.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fauchage_Tournoyant",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fauchage_Tournoyant"
     },
     "pt": {
         "item_name": "Reaping Spiral",
         "description": "Ataques distantes, combo de acertos múltiplos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Spiral",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Spiral"
     },
     "zh-hans": {
         "item_name": "收割螺旋",
         "description": "大范围的挥动攻击与多次命中的连段。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reaping_Spiral",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reaping_Spiral"
     },
     "zh-hant": {
         "item_name": "收割螺旋",
         "description": "大範圍的揮動攻擊與多次命中的連段。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reaping_Spiral",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reaping_Spiral"
     },
     "es": {
         "item_name": "Espiral Segadora",
         "description": "Ataques a distancia y combos de múltiples impactos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Espiral_segadora",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Espiral_segadora"
     },
     "it": {
         "item_name": "Reaping Spiral",
         "description": "Attacchi ad ampio raggio e combo da multiattacco.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Spiral",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Reaping_Spiral"
     },
     "pl": {
         "item_name": "Rżnąca Spirala",
         "description": "Ataki o dużym zasięgu i kombinacje zadające wiele trafień.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/R%C5%BCn%C4%85ca_Spirala",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/R%C5%BCn%C4%85ca_Spirala"
     },
     "rarity": "rare",
     "max_rank": 3,

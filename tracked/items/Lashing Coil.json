@@ -1,15 +1,14 @@
 {
     "_id": "5be5f5a13ffcc7038857f10b",
     "tags": [
-        "mod",
-        "conclave",
         "pvp",
-        "whips",
+        "uncommon",
         "stance",
-        "uncommon"
+        "whips",
+        "mod"
     ],
-    "icon": "icons/en/Lashing_Coil.865c7d854f031a1eb28d8ca6a17b2ec1.png",
-    "thumb": "icons/en/thumbs/Lashing_Coil.865c7d854f031a1eb28d8ca6a17b2ec1.128x128.png",
+    "icon": "items/images/en/lashing_coil.865c7d854f031a1eb28d8ca6a17b2ec1.png",
+    "thumb": "items/images/en/thumbs/lashing_coil.865c7d854f031a1eb28d8ca6a17b2ec1.128x128.png",
     "icon_format": "port",
     "url_name": "lashing_coil",
     "tradable": true,
@@ -19,68 +18,57 @@
     "en": {
         "item_name": "Lashing Coil",
         "description": "Fighting form devised for Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil"
     },
     "ru": {
         "item_name": "Секущий Виток",
-        "description": "Форма боя, созданная для Конклава.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D1%82%D0%BE%D0%BA",
-        "drop": []
+        "description": "Форма боя, созданная для конклава.",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D1%82%D0%BE%D0%BA"
     },
     "ko": {
         "item_name": "래슁 코일",
         "description": "콘클레이브를 위해 창안된 전투 자세입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil"
     },
     "de": {
         "item_name": "Geißelndes Winden",
         "description": "Gefechtsform, entwickelt für die Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil"
     },
     "fr": {
         "item_name": "Volute Fustigeante",
         "description": "Forme de combat réservée au Conclave.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Volute_Fustigeante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Volute_Fustigeante"
     },
     "pt": {
         "item_name": "Lashing Coil",
         "description": "Forma de combate elaborada para o Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil"
     },
     "zh-hans": {
         "item_name": "盘旋鞭笞",
         "description": "为武形秘仪设计的战斗形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lashing_Coil",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lashing_Coil"
     },
     "zh-hant": {
         "item_name": "盤旋鞭笞",
         "description": "為武形秘儀設計的戰鬥形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lashing_Coil",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Lashing_Coil"
     },
     "es": {
         "item_name": "Azotamiento Arrollado",
         "description": "Una forma de pelea creada para el Cónclave.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Azotamiento_arrollado",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Azotamiento_arrollado"
     },
     "it": {
         "item_name": "Lashing Coil",
         "description": "Stile di combattimento ideato per il Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Lashing_Coil"
     },
     "pl": {
         "item_name": "Smagająca Cewka",
         "description": "Styl walki stworzony na potrzeby Konklawe.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Smagaj%C4%85ca_Cewka",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Smagaj%C4%85ca_Cewka"
     },
     "rarity": "uncommon",
     "max_rank": 3,

@@ -3,9 +3,11 @@
     "url_name": "gazal_machete",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/gazal_machete.a9fc381acf6ba7519b812cf9f4e8954b.png",
-    "thumb": "icons/en/thumbs/gazal_machete.a9fc381acf6ba7519b812cf9f4e8954b.128x128.png",
+    "icon": "items/images/en/gazal_machete.a9fc381acf6ba7519b812cf9f4e8954b.png",
+    "thumb": "items/images/en/thumbs/gazal_machete.a9fc381acf6ba7519b812cf9f4e8954b.128x128.png",
     "icon_format": "land",
+    "disposition": 1.4,
+    "mastery_level": 5,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/PersianMachete/DjinnMachete"
     },

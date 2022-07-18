@@ -3,9 +3,11 @@
     "url_name": "glaive",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/glaive.7b1c251b4f1fcc0afe64ce5233a39891.png",
-    "thumb": "icons/en/thumbs/glaive.7b1c251b4f1fcc0afe64ce5233a39891.128x128.png",
+    "icon": "items/images/en/glaive.7b1c251b4f1fcc0afe64ce5233a39891.png",
+    "thumb": "items/images/en/thumbs/glaive.7b1c251b4f1fcc0afe64ce5233a39891.128x128.png",
     "icon_format": "port",
+    "disposition": 1.3,
+    "mastery_level": 1,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Glaives/LightGlaive/LightGlaiveWeapon"
     },

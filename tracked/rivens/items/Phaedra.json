@@ -3,9 +3,11 @@
     "url_name": "phaedra",
     "group": "archgun",
     "riven_type": "rifle",
-    "icon": "icons/en/phaedra.990089ecdb2751f628e24bfe0493059e.png",
-    "thumb": "icons/en/thumbs/phaedra.990089ecdb2751f628e24bfe0493059e.128x128.png",
+    "icon": "items/images/en/phaedra.990089ecdb2751f628e24bfe0493059e.png",
+    "thumb": "items/images/en/thumbs/phaedra.990089ecdb2751f628e24bfe0493059e.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 3,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle"
     },

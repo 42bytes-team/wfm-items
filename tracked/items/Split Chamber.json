@@ -6,8 +6,8 @@
         "rifle",
         "primary"
     ],
-    "icon": "icons/en/Split_Chamber.2cb0a97bd2c5e9d75a505a153e8230cc.png",
-    "thumb": "icons/en/thumbs/Split_Chamber.2cb0a97bd2c5e9d75a505a153e8230cc.128x128.png",
+    "icon": "items/images/en/split_chamber.2cb0a97bd2c5e9d75a505a153e8230cc.png",
+    "thumb": "items/images/en/thumbs/split_chamber.2cb0a97bd2c5e9d75a505a153e8230cc.128x128.png",
     "icon_format": "port",
     "url_name": "split_chamber",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Split Chamber",
         "description": "+90% Multishot",
-        "wiki_link": "https://warframe.fandom.com/wiki/Split_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Split_Chamber"
     },
     "ru": {
         "item_name": "Раздельный Патронник",
         "description": "+90% мультивыстрел",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA",
-        "icon": "icons/ru/Split_Chamber.f4d4221ac77691d925e10d636a63b28a.png",
-        "thumb": "icons/ru/thumbs/Split_Chamber.f4d4221ac77691d925e10d636a63b28a.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/split_chamber.f4d4221ac77691d925e10d636a63b28a.png",
+        "thumb": "items/images/ru/thumbs/split_chamber.f4d4221ac77691d925e10d636a63b28a.128x128.png"
     },
     "ko": {
         "item_name": "스플릿 체임버",
         "description": "+90% 멀티샷",
-        "wiki_link": "https://warframe.fandom.com/wiki/Split_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Split_Chamber"
     },
     "de": {
         "item_name": "Geteilte Kammer",
         "description": "+90 % Mehrfachschuss",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Geteilte_Kammer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Geteilte_Kammer"
     },
     "fr": {
         "item_name": "Chambre Divisée",
         "description": "+90% de Tir Multiple",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chambre_divis%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chambre_divis%C3%A9e"
     },
     "pt": {
         "item_name": "Split Chamber",
         "description": "+90% de Tiro Múltiplo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Split_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Split_Chamber"
     },
     "zh-hans": {
         "item_name": "分裂膛室",
         "description": "+90% 多重射击",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Split_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Split_Chamber"
     },
     "zh-hant": {
         "item_name": "分裂膛室",
         "description": "+90% 多重射擊",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Split_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Split_Chamber"
     },
     "es": {
         "item_name": "Cámara Dividida",
         "description": "+90% de multidisparo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/C%C3%A1mara_dividida",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/C%C3%A1mara_dividida"
     },
     "it": {
         "item_name": "Split Chamber",
         "description": "+90% Sparo Multiplo",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Split_Chamber",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Split_Chamber"
     },
     "pl": {
         "item_name": "Dzielona Komora",
         "description": "+90% Wielostrzału",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dzielona_Komora",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dzielona_Komora"
     },
     "rarity": "rare",
     "max_rank": 5,

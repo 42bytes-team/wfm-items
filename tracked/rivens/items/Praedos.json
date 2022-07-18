@@ -3,9 +3,11 @@
     "url_name": "praedos",
     "group": "melee",
     "riven_type": "melee",
-    "icon": "icons/en/praedos.e1da5767a0e93a169cc678f1a8bff20f.png",
-    "thumb": "icons/en/thumbs/praedos.e1da5767a0e93a169cc678f1a8bff20f.128x128.png",
+    "icon": "items/images/en/praedos.e1da5767a0e93a169cc678f1a8bff20f.png",
+    "thumb": "items/images/en/thumbs/praedos.e1da5767a0e93a169cc678f1a8bff20f.128x128.png",
     "icon_format": "land",
+    "disposition": 0.55,
+    "mastery_level": 14,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Zariman/Melee/Tonfas/ZarimanTonfaWeapon"
     },
@@ -26,7 +28,7 @@
         "wiki_link": null
     },
     "fr": {
-        "item_name": "Prædos",
+        "item_name": "Praedos",
         "wiki_link": null
     },
     "pt": {

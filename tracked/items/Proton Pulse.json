@@ -5,8 +5,8 @@
         "mod",
         "warframe"
     ],
-    "icon": "icons/en/Proton_Pulse.1421f759fe461d981591d55621cba142.png",
-    "thumb": "icons/en/thumbs/Proton_Pulse.1421f759fe461d981591d55621cba142.128x128.png",
+    "icon": "items/images/en/proton_pulse.1421f759fe461d981591d55621cba142.png",
+    "thumb": "items/images/en/thumbs/proton_pulse.1421f759fe461d981591d55621cba142.128x128.png",
     "icon_format": "port",
     "url_name": "proton_pulse",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Proton Pulse",
         "description": "Wall Dashing grants +100% Bullet Jump Speed.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse"
     },
     "ru": {
         "item_name": "Ритм Протона",
         "description": "Бег по стене увеличивает скорость прыжка-выстрела на 100%.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B8%D1%82%D0%BC_%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B0",
-        "icon": "icons/ru/Proton_Pulse.f297229d5ea28d558990b8f6afebb5de.png",
-        "thumb": "icons/ru/thumbs/Proton_Pulse.f297229d5ea28d558990b8f6afebb5de.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/proton_pulse.f297229d5ea28d558990b8f6afebb5de.png",
+        "thumb": "items/images/ru/thumbs/proton_pulse.f297229d5ea28d558990b8f6afebb5de.128x128.png"
     },
     "ko": {
         "item_name": "프로톤 펄스",
         "description": "월 대쉬가 +100% 불릿 점프 속도를 부여합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse"
     },
     "de": {
         "item_name": "Proton: Reaktion",
         "description": "Wandlauf verleiht +100 % Projektilsprung-Geschwindigkeit.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse"
     },
     "fr": {
         "item_name": "Impulsion Proton",
         "description": "Les Sauts Muraux octroient +100% de Vitesse de Sauts Propulsés.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Impulsion_Proton",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Impulsion_Proton"
     },
     "pt": {
         "item_name": "Proton Pulse",
         "description": "Correr nas Paredes fornecerá +100% de Velocidade do Salto-Bala",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse"
     },
     "zh-hans": {
         "item_name": "质子 脉动",
         "description": "+100% 壁面攀附后旋身飞跃的速度。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proton_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proton_Pulse"
     },
     "zh-hant": {
         "item_name": "質子 脈衝",
         "description": "牆面衝刺獲得 +100% 旋身飛躍速度。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proton_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proton_Pulse"
     },
     "es": {
         "item_name": "Pulso De Protón",
         "description": "Correr por la pared otorga +100% de velocidad de salto-bala.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pulso_de_Prot%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Pulso_de_Prot%C3%B3n"
     },
     "it": {
         "item_name": "Proton Pulse",
         "description": "Scattando sul muro ottieni +100%  di velocità nel Bullet Jump.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse"
     },
     "pl": {
         "item_name": "Protonowe Manewry",
         "description": "Bieg po ścianie doda +100% Prędkości Skoku Balistycznego.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Proton_Pulse"
     },
     "rarity": "common",
     "max_rank": 3,

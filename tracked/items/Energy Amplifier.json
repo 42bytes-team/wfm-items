@@ -5,8 +5,8 @@
         "archwing",
         "uncommon"
     ],
-    "icon": "icons/en/Energy_Amplifier.0c629d8c3ce1edff377a8760c90741f1.png",
-    "thumb": "icons/en/thumbs/Energy_Amplifier.0c629d8c3ce1edff377a8760c90741f1.128x128.png",
+    "icon": "items/images/en/energy_amplifier.0c629d8c3ce1edff377a8760c90741f1.png",
+    "thumb": "items/images/en/thumbs/energy_amplifier.0c629d8c3ce1edff377a8760c90741f1.128x128.png",
     "icon_format": "port",
     "url_name": "energy_amplifier",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Energy Amplifier",
         "description": "+60% Ability Range",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Amplifier",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Amplifier"
     },
     "ru": {
         "item_name": "Усилитель Энергии",
         "description": "+60% к зоне поражения",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8",
-        "icon": "icons/ru/Energy_Amplifier.aacc77ae72fefc482e60e98f9db5208c.png",
-        "thumb": "icons/ru/thumbs/Energy_Amplifier.aacc77ae72fefc482e60e98f9db5208c.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/energy_amplifier.aacc77ae72fefc482e60e98f9db5208c.png",
+        "thumb": "items/images/ru/thumbs/energy_amplifier.aacc77ae72fefc482e60e98f9db5208c.128x128.png"
     },
     "ko": {
         "item_name": "에너지 앰플리파이어",
         "description": "+60% 어빌리티 거리",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Amplifier",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Amplifier"
     },
     "de": {
         "item_name": "Energieverstärker",
         "description": "+60 % Fähigkeitsreichweite",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Energieverst%C3%A4rker",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Energieverst%C3%A4rker"
     },
     "fr": {
         "item_name": "Amplificateur D'énergie",
         "description": "+60% Portée de Pouvoir",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Amplificateur_d%27%C3%89nergie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Amplificateur_d%27%C3%89nergie"
     },
     "pt": {
         "item_name": "Energy Amplifier",
         "description": "+60% de Alcance da Habilidade",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Energy_Vampire",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Energy_Vampire"
     },
     "zh-hans": {
         "item_name": "能量扩散",
         "description": "+60% 技能范围",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Amplifier",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Amplifier"
     },
     "zh-hant": {
         "item_name": "能量擴散",
         "description": "+60% 技能範圍",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Amplifier",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Amplifier"
     },
     "es": {
         "item_name": "Amplificador De Energía",
         "description": "+60% Rango de habilidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Amplificador_de_energ%C3%ADa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Amplificador_de_energ%C3%ADa"
     },
     "it": {
         "item_name": "Energy Amplifier",
         "description": "+60% Portata Abilità",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Energy_Vampire",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Energy_Vampire"
     },
     "pl": {
         "item_name": "Wzmacniacz Energii",
         "description": "+60% Zasięg Umiejętności",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wzmacniacz_Energii",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wzmacniacz_Energii"
     },
     "rarity": "uncommon",
     "max_rank": 5,

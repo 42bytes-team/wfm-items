@@ -1,14 +1,12 @@
 {
     "_id": "559daad8e779897b4f59525f",
     "tags": [
-        "sentinel",
-        "prime",
         "component",
         "weapon",
-        "systems"
+        "prime"
     ],
-    "icon": "icons/en/carrier_prime_systems.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
-    "thumb": "icons/en/thumbs/carrier_prime_systems.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+    "icon": "items/images/en/carrier_prime_systems.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+    "thumb": "items/images/en/thumbs/carrier_prime_systems.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/sentinel/prime_systems_128x128.png",
     "url_name": "carrier_prime_systems",
@@ -28,387 +26,57 @@
     "en": {
         "item_name": "Carrier Prime Systems",
         "description": "A prime sentinel-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "Axi V1 Relic (Common)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "Axi A7 Relic (Common)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "Neo A1 Relic (Common)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Neo V3 Relic (Common)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "Lith N2 Relic (Common)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Lith S3 Relic (Common)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Lith S2 Relic (Common)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Carrier_Prime"
     },
     "ru": {
         "item_name": "Носитель Прайм: Система",
         "description": "Прайм-компонент стража.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси V1 (Обычный)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "Реликвия Акси A7 (Обычный)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "Реликвия Нео A1 (Обычный)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Реликвия Нео V3 (Обычный)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "Реликвия Лит N2 (Обычный)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Реликвия Лит S3 (Обычный)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Реликвия Лит S2 (Обычный)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "캐리어 프라임 시스템",
         "description": "프라임 센티넬 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "액시 V1 성유물 (커먼)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "액시 A7 성유물 (커먼)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "네오 A1 성유물 (커먼)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "네오 V3 성유물 (커먼)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "리스 N2 성유물 (커먼)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "리스 S3 성유물 (커먼)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "리스 S2 성유물 (커먼)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Carrier_Prime"
     },
     "de": {
         "item_name": "Carrier Prime: Systeme",
         "description": "Eine Komponente für die Herstellung von Prime Wächtern.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: V1 (Gewöhnlich)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "Axi-relikt: A7 (Gewöhnlich)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "Neo-relikt: A1 (Gewöhnlich)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Neo-relikt: V3 (Gewöhnlich)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "Lith-relikt: N2 (Gewöhnlich)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Lith-relikt: S3 (Gewöhnlich)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Lith-relikt: S2 (Gewöhnlich)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Carrier_Prime"
     },
     "fr": {
         "item_name": "Carrier Prime - Systèmes",
         "description": "Un composant servant à la fabrication de sentinelles Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi V1 (Commun)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "Relique Axi A7 (Commun)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "Relique Neo A1 (Commun)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Relique Neo V3 (Commun)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "Relique Lith N2 (Commun)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Relique Lith S3 (Commun)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Relique Lith S2 (Commun)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Carrier_Prime"
     },
     "pt": {
         "item_name": "Carrier Prime: Sistemas",
         "description": "Um componente de fabricação de sentinelas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi V1 (Comum)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "Relíquia Axi A7 (Comum)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "Relíquia Neo A1 (Comum)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Relíquia Neo V3 (Comum)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "Relíquia Lith N2 (Comum)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Relíquia Lith S3 (Comum)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Relíquia Lith S2 (Comum)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Carrier_Prime"
     },
     "zh-hans": {
         "item_name": "搬运者 Prime 系统",
         "description": "一个 Prime 守护的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "后纪 V1 遗物 (常见)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "后纪 A7 遗物 (常见)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "中纪 A1 遗物 (常见)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "中纪 V3 遗物 (常见)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "古纪 N2 遗物 (常见)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "古纪 S3 遗物 (常见)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "古纪 S2 遗物 (常见)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carrier_Prime"
     },
     "zh-hant": {
         "item_name": "搬運者 Prime 系統",
         "description": "製作 Prime 守護的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "後紀 V1 遺物 (常見)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "後紀 A7 遺物 (常見)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "中紀 A1 遺物 (常見)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "中紀 V3 遺物 (常見)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "古紀 N2 遺物 (常見)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "古紀 S3 遺物 (常見)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "古紀 S2 遺物 (常見)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carrier_Prime"
     },
     "es": {
         "item_name": "Sistemas De Carrier Prime",
         "description": "Un componente de fabricación de centinela prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi V1 (Común)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "Reliquia Axi A7 (Común)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "Reliquia Neo A1 (Común)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Reliquia Neo V3 (Común)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "Reliquia Lith N2 (Común)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Reliquia Lith S3 (Común)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Reliquia Lith S2 (Común)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Carrier_Prime"
     },
     "it": {
         "item_name": "Carrier Prime - Sistemi",
         "description": "Un componente Prime per la costruzione di una sentinella.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Paris_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi V1 (Common)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "Reliquia Axi A7 (Common)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "Reliquia Neo A1 (Common)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Reliquia Neo V3 (Common)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "Reliquia Lith N2 (Common)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Reliquia Lith S3 (Common)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Reliquia Lith S2 (Common)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Paris_Prime"
     },
     "pl": {
         "item_name": "Carrier Prime: Systemy",
         "description": "Element wytwarzania Strażników Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Carrier_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi V1 (Powszechny)",
-                "link": "axi_v1_relic"
-            },
-            {
-                "name": "Relikt Axi A7 (Powszechny)",
-                "link": "axi_a7_relic"
-            },
-            {
-                "name": "Relikt Neo A1 (Powszechny)",
-                "link": "neo_a1_relic"
-            },
-            {
-                "name": "Relikt Neo V3 (Powszechny)",
-                "link": "neo_v3_relic"
-            },
-            {
-                "name": "Relikt Lith N2 (Powszechny)",
-                "link": "lith_n2_relic"
-            },
-            {
-                "name": "Relikt Lith S3 (Powszechny)",
-                "link": "lith_s3_relic"
-            },
-            {
-                "name": "Relikt Lith S2 (Powszechny)",
-                "link": "lith_s2_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Carrier_Prime"
     },
     "mastery_level": 0,
     "ducats": 15,

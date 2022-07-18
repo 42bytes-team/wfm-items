@@ -1,0 +1,80 @@
+{
+    "_id": "62af145d5d2dab005422903e",
+    "tags": [
+        "blueprint"
+    ],
+    "icon": "items/images/en/scimitar_blueprint.c8644ada3c4381efbe9a11b55c58b0a7.png",
+    "thumb": "items/images/en/thumbs/scimitar_blueprint.c8644ada3c4381efbe9a11b55c58b0a7.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "scimitar_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/BlueSky/BlueSkyBlueprint"
+    },
+    "part_of_set": [
+        "scimitar_avionics",
+        "scimitar_blueprint",
+        "scimitar_engines",
+        "scimitar_fuselage",
+        "scimitar_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Scimitar Blueprint",
+        "description": "This blade-like landing craft is armed with Carpet Bomb air-support.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+    },
+    "ru": {
+        "item_name": "Скимитар (Чертеж)",
+        "description": "Этот саблеподобный челнок оборудован системой поддержки с воздуха типа \"Ковровая Бомбардировка\".",
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%80"
+    },
+    "ko": {
+        "item_name": "시미터 설계도",
+        "description": "융단 폭격 공중 지원 능력으로 무장한 검과 같은 형태의 착륙정입니다.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+    },
+    "de": {
+        "item_name": "Scimitar Blaupause",
+        "description": "Dieses klingenartige Landungsschiff bietet Luftdeckung mit Flächenbombardement.",
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Scimitar"
+    },
+    "fr": {
+        "item_name": "Scimitar (Schéma)",
+        "description": "Ce vaisseau de débarquement semblable à une lame de fond peut larguer un tapis de bombes en support aérien.",
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Scimitar"
+    },
+    "pt": {
+        "item_name": "Scimitar (Diagrama)",
+        "description": "Esta nave de pouso, com um modelo inspirado em lâminas, é armada com o apoio aéreo de Bombardeio Ofensivo.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+    },
+    "zh-hans": {
+        "item_name": "Scimitar 蓝图",
+        "description": "这艘像刀刃一样的登陆艇装备了地毯式轰炸空中支援系统。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scimitar"
+    },
+    "zh-hant": {
+        "item_name": "Scimitar 藍圖",
+        "description": "這艘像刀刃一樣的登陸艇裝載了地毯式轟炸空中支援系統。",
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scimitar"
+    },
+    "es": {
+        "item_name": "Plano de Scimitar",
+        "description": "Esta nave de desembarco con apariencia de hoja esta armada con apoyo aéreo de bombardeo en alfombra.",
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Scimitar"
+    },
+    "it": {
+        "item_name": "Scimitar (Schema)",
+        "description": "Una navicella simile ad una lama è armata con supporto di un Bombardamento a Tappeto.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+    },
+    "pl": {
+        "item_name": "Scimitar - Schemat",
+        "description": "Wsparciem z powietrza tego przypominającego ostrze statku desantowego jest Nalot Dywanowy.",
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Scimitar"
+    },
+    "trading_tax": 2000
+}

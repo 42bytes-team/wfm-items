@@ -3,9 +3,11 @@
     "url_name": "amprex",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/amprex.96d41f4e6b7c4f8483f90c44683ba2bf.png",
-    "thumb": "icons/en/thumbs/amprex.96d41f4e6b7c4f8483f90c44683ba2bf.128x128.png",
+    "icon": "items/images/en/amprex.96d41f4e6b7c4f8483f90c44683ba2bf.png",
+    "thumb": "items/images/en/thumbs/amprex.96d41f4e6b7c4f8483f90c44683ba2bf.128x128.png",
     "icon_format": "land",
+    "disposition": 0.85,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle"
     },

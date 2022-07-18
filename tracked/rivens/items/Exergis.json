@@ -3,9 +3,11 @@
     "url_name": "exergis",
     "group": "primary",
     "riven_type": "shotgun",
-    "icon": "icons/en/exergis.c9432d140c7138d21b9c275ba54eeecc.png",
-    "thumb": "icons/en/thumbs/exergis.c9432d140c7138d21b9c275ba54eeecc.128x128.png",
+    "icon": "items/images/en/exergis.c9432d140c7138d21b9c275ba54eeecc.png",
+    "thumb": "items/images/en/thumbs/exergis.c9432d140c7138d21b9c275ba54eeecc.128x128.png",
     "icon_format": "land",
+    "disposition": 1.1,
+    "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CrpShapeBlast/CrpShapeBlastShotgun"
     },

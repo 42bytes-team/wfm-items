@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "sentinel"
+        "sentinel",
+        "hound"
     ],
-    "icon": "icons/en/evasive_denial.b72d1c6306e9491932392eb59abe7310.png",
-    "thumb": "icons/en/thumbs/evasive_denial.b72d1c6306e9491932392eb59abe7310.128x128.png",
+    "icon": "items/images/en/evasive_denial.b72d1c6306e9491932392eb59abe7310.png",
+    "thumb": "items/images/en/thumbs/evasive_denial.b72d1c6306e9491932392eb59abe7310.128x128.png",
     "icon_format": "port",
     "url_name": "evasive_denial",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Evasive Denial",
         "description": "Teleports a safe distance away and engages a displacement field gaining 75% chance to dodge enemy fire for 8s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Непрямое Отрицание",
         "description": "Телепортируется на безопасное расстояние и активирует поле искажения, давая 75% шанс уклониться от вражеского огня в течение 8 сек.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "이베이시브 디나이얼",
         "description": "안전한 거리까지 텔레포트 후 변위 필드를 전개하여 75%의 확률로 8초 동안 적의 사격을 회피합니다.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Negierung: Ausweichen",
         "description": "Teleportiert sich in eine sichere Entfernung und setzt ein Verdrängungsfeld ein, welches eine 75 % Chance gewährt gegnerischem Feuer für 8 s auszuweichen.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Déni Évasif",
         "description": "Se téléporte plus loin pour vous mettre à l'abri et engage un champ de force donnant 75% de chances d'esquiver les tirs ennemis pendant 8s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Evasive Denial",
         "description": "Teleporta para uma distância segura dos inimigos e ativa um campo de força de deslocamento, recebendo 75% de chance de se esquivar dos disparos dos inimigos durante 8s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "推诿否认",
         "description": "传送到安全距离外并部署一个位移场，获得 75% 的几率来躲避敌人的射击，持续 8 秒。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "閃避否決",
         "description": "傳送到一段安全距離外並豎起一道位移力場，獲得 75% 機率閃避敵人砲火，持續 8 秒。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Negación Evasiva",
         "description": "Se teletransporta a una distancia segura y activa un campo de desplazamiento, adquiriendo un 75 % de probabilidad de esquivar el fuego enemigo durante 8 s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Evasive Denial",
         "description": "Si teletrasporta a distanza di sicurezza e attiva un campo di spostamento ottenendo il 75% di probabilità di schivare il fuoco nemico per 8s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Wymijająca Odmowa",
         "description": "Teleportuje się na bezpieczną odległość i aktywuje pole przemieszczenia, zyskując 75% szansy na uniknięcie wrogiego ognia przez 8s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "rare",
     "max_rank": 5,

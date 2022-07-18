@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "kavat"
+        "kavat",
+        "vasca_kavat"
     ],
-    "icon": "icons/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
-    "thumb": "icons/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png",
+    "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
+    "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png",
     "icon_format": "port",
     "url_name": "transfusion",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Transfusion",
         "description": "When its Master is bleeding out, the Vasca Kavat sacrifices 20% of its Health to raise them.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Transfusion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Transfusion"
     },
     "ru": {
         "item_name": "Переливание",
         "description": "Когда его хозяин ранен, Кават Васка жертвует 20% своего здоровья, чтобы поднять его.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"
     },
     "ko": {
         "item_name": "트랜스퓨전",
         "description": "주인이 출혈 중일 시, 바스카 카밧은 자신의 체력 20%를 희생하여 주인을 소생시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Transfusion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Transfusion"
     },
     "de": {
         "item_name": "Transfusion",
         "description": "Blutet ihr Meister aus, opfert die Vasca Kavat 20 % ihrer Gesundheit, um ihn zu heilen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Transmutation",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Transmutation"
     },
     "fr": {
         "item_name": "Transfusion",
         "description": "Lorsque son maître est blessé, le Kavat Vasca sacrifie 20% de sa Santé pour le relever.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Transfusion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Transfusion"
     },
     "pt": {
         "item_name": "Transfusion",
         "description": "Quando seu Mestre está sangrando, o Vasca Kavat sacrifica 20% de sua Vida para revivê-lo.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Transfusion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Transfusion"
     },
     "zh-hans": {
         "item_name": "血注",
         "description": "当主人出血濒死时，噬血型库娃会牺牲它 20% 的生命值来救起他们。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Transfusion",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Transfusion"
     },
     "zh-hant": {
         "item_name": "血注",
         "description": "當主人處於瀕死狀態時，噬血型庫娃會犧牲自身 20% 生命值來復活主人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Transfusion",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Transfusion"
     },
     "es": {
         "item_name": "Transfusión",
         "description": "Cuando su amo se está desangrando, el kavat Vasca sacrifica 20% de su salud para levantarlo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Transfusi%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Transfusi%C3%B3n"
     },
     "it": {
         "item_name": "Transfusion",
         "description": "Quando il suo Padrone è in dissanguamento, il Vasca Kavat sacrifica il 20% della sua Salute per rianimarlo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Transfusion",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Transfusion"
     },
     "pl": {
         "item_name": "Transfuzja",
         "description": "Kiedy jego Właściciel się wykrwawia, Kavat Vasca poświęca 20% własnego Życia, żeby go podnieść.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Transmutacja",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Transmutacja"
     },
     "rarity": "rare",
     "max_rank": 3,

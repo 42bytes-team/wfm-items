@@ -5,8 +5,8 @@
         "kavat",
         "uncommon"
     ],
-    "icon": "icons/en/Pounce.3ab83e349347ec39631b9f203e5ec42c.png",
-    "thumb": "icons/en/thumbs/Pounce.3ab83e349347ec39631b9f203e5ec42c.128x128.png",
+    "icon": "items/images/en/pounce.3ab83e349347ec39631b9f203e5ec42c.png",
+    "thumb": "items/images/en/thumbs/pounce.3ab83e349347ec39631b9f203e5ec42c.128x128.png",
     "icon_format": "port",
     "url_name": "pounce",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Pounce",
         "description": "The Kavat pounces at an enemy, dealing 90% Damage and stunning them for a short duration.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pounce",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pounce"
     },
     "ru": {
         "item_name": "Наскок",
         "description": "Кават набрасывается на врага, нанося 90% урона и оглушая его на короткий промежуток времени.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B0%D1%81%D0%BA%D0%BE%D0%BA",
-        "icon": "icons/ru/Pounce.e87f3425fffab3a27319469e08ea8855.png",
-        "thumb": "icons/ru/thumbs/Pounce.e87f3425fffab3a27319469e08ea8855.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/pounce.e87f3425fffab3a27319469e08ea8855.png",
+        "thumb": "items/images/ru/thumbs/pounce.e87f3425fffab3a27319469e08ea8855.128x128.png"
     },
     "ko": {
         "item_name": "파운스",
         "description": "카밧이 적을 덮쳐 90%의 피해를 입히며 짧은 기간 동안 기절시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pounce",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Pounce"
     },
     "de": {
         "item_name": "Sprung",
         "description": "Kavats springen ihre Feinde an, verursachen 90 % Schaden und betäuben sie für kurze Zeit.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/St%C3%B6rung",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/St%C3%B6rung"
     },
     "fr": {
         "item_name": "Bond",
         "description": "Le Kavat bondit sur un ennemi, lui infligeant 90% de points de Dégâts et l'étourdissant pour une courte durée.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Bond",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Bond"
     },
     "pt": {
         "item_name": "Pounce",
         "description": "O Kavat se lança em um inimigo, causando 90% de Dano e atordoando eles por um curto período.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pounce",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pounce"
     },
     "zh-hans": {
         "item_name": "猛扑",
         "description": "库娃扑向一名敌人，造成 90% 伤害及短暂晕眩。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pounce",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pounce"
     },
     "zh-hant": {
         "item_name": "猛撲",
         "description": "庫娃撲向一名敵人，造成 90% 傷害及短暫暈眩。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pounce",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pounce"
     },
     "es": {
         "item_name": "Precipitarse",
         "description": "El kavat salta sobre un enemigo, causando 90% de daño y lo aturde por un corto periodo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Precipitarse",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Precipitarse"
     },
     "it": {
         "item_name": "Pounce",
         "description": "Il Kavat si avventa su un nemico, infliggendo 90% di Danno e li stordisce per un breve periodo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pounce",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Pounce"
     },
     "pl": {
         "item_name": "Pazur",
         "description": "Kavat rzuca się na przeciwnika, zadając 90% Obrażeń i ogłuszając go na krótki czas.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pounce",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Pounce"
     },
     "rarity": "uncommon",
     "max_rank": 3,

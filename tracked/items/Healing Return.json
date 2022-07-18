@@ -5,8 +5,8 @@
         "melee",
         "rare"
     ],
-    "icon": "icons/en/Healing_Return.13b2e24d7cb121e2b64c8b4eb7c71d7e.png",
-    "thumb": "icons/en/thumbs/Healing_Return.13b2e24d7cb121e2b64c8b4eb7c71d7e.128x128.png",
+    "icon": "items/images/en/healing_return.13b2e24d7cb121e2b64c8b4eb7c71d7e.png",
+    "thumb": "items/images/en/thumbs/healing_return.13b2e24d7cb121e2b64c8b4eb7c71d7e.128x128.png",
     "icon_format": "port",
     "url_name": "healing_return",
     "tradable": true,
@@ -16,68 +16,57 @@
     "en": {
         "item_name": "Healing Return",
         "description": "Restores 11 Health per Status Type affecting the target.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Healing_Return",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Healing_Return"
     },
     "ru": {
         "item_name": "Ответное Лечение",
         "description": "Исцеление на 11 здоровья за каждый действующий на цель эффект статуса.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%9B%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%9B%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5"
     },
     "ko": {
         "item_name": "힐링 리턴",
         "description": "목표물에게 걸린 각 상태 이상마다 11 체력 회복",
-        "wiki_link": "https://warframe.fandom.com/wiki/Healing_Return",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Healing_Return"
     },
     "de": {
         "item_name": "Heilende Rückkehr",
         "description": "Pro wirkendem Statuseffekt auf dem Ziel wird 11 Gesundheit wiederhergestellt",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Heilende_R%C3%BCckkehr",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Heilende_R%C3%BCckkehr"
     },
     "fr": {
         "item_name": "Renvoi Guérisseur",
         "description": "Restaure 11 points de Santé par Type de Statut affectant la cible",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Renvoi_Gu%C3%A9risseur",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Renvoi_Gu%C3%A9risseur"
     },
     "pt": {
         "item_name": "Healing Return",
         "description": "Restaura 11 de Vida para cada Efeito de Status que afeta o alvo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Healing_Return",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Healing_Return"
     },
     "zh-hans": {
         "item_name": "治愈归复",
         "description": "目标身上的每种异常状态可恢复 11 点生命值",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Healing_Return",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Healing_Return"
     },
     "zh-hant": {
         "item_name": "治癒歸復",
         "description": "攻擊受狀態觸發影響的目標將恢復 11 點生命",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Healing_Return",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Healing_Return"
     },
     "es": {
         "item_name": "Regreso Curativo",
         "description": "Restaura 11 de salud por cada tipo de estado afectando al objetivo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Regreso_curativo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Regreso_curativo"
     },
     "it": {
         "item_name": "Healing Return",
         "description": "Ripristina 11 di Salute per ogni tipo di Effetto che affligge il bersaglio.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Healing_Return",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Healing_Return"
     },
     "pl": {
         "item_name": "Leczniczy Powrót",
         "description": "Odnawia 11 Życia za każdą Zmianę Statusową wpływającą na cel.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Healing_Return",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Healing_Return"
     },
     "rarity": "rare",
     "max_rank": 10,

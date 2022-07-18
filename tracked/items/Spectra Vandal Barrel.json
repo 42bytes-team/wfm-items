@@ -2,14 +2,10 @@
     "_id": "5dfea13f1456970294aff371",
     "tags": [
         "component",
-        "secondary",
-        "barrel",
-        "modular",
-        "weapon",
-        "vandal"
+        "weapon"
     ],
-    "icon": "icons/en/spectra_vandal_set.fe39f6aee4576d50c445d4203ee91db2.png",
-    "thumb": "icons/en/thumbs/spectra_vandal_set.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+    "icon": "items/images/en/spectra_vandal_barrel.fe39f6aee4576d50c445d4203ee91db2.png",
+    "thumb": "items/images/en/thumbs/spectra_vandal_barrel.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
     "url_name": "spectra_vandal_barrel",
@@ -29,68 +25,57 @@
     "en": {
         "item_name": "Spectra Vandal Barrel",
         "description": "The barrel component of the Spectra Vandal.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Spectra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Spectra_Vandal"
     },
     "ru": {
         "item_name": "Спектра Вандал: Ствол",
         "description": "Компонент Спектра Вандал: ствол.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0_%D0%92%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0_%D0%92%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB"
     },
     "ko": {
         "item_name": "스펙트라 반달 배럴",
         "description": "스펙트라 반달의 배럴 부분입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Spectra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Spectra_Vandal"
     },
     "de": {
         "item_name": "Spectra Vandal: Lauf",
         "description": "Lauf-Komponente der Spectra Vandal.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Supra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Supra_Vandal"
     },
     "fr": {
         "item_name": "Spectra Vandal - Canon",
         "description": "Le composant Canon du Spectra Vandal.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Spectra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Spectra_Vandal"
     },
     "pt": {
         "item_name": "Spectra Vandalizada: Cano",
         "description": "O cano componente da Spectra Vandalizada.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Spectra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Spectra_Vandal"
     },
     "zh-hans": {
         "item_name": "光谱切割器 破坏者 枪管",
         "description": "光谱切割器 破坏者的枪管部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Spectra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Spectra_Vandal"
     },
     "zh-hant": {
         "item_name": "光譜切割器 破壞者 槍管",
         "description": "光譜切割器 破壞者的槍管部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Spectra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Spectra_Vandal"
     },
     "es": {
         "item_name": "Cañón De Spectra Vándalo",
         "description": "El componente cañón de la Spectra Vándalo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Spectra_V%C3%A1ndalo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Spectra_V%C3%A1ndalo"
     },
     "it": {
         "item_name": "Spectra Vandal - Canna",
         "description": "Il componente canna dell'arma Spectra Vandal.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Supra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Supra_Vandal"
     },
     "pl": {
         "item_name": "Spectra Vandal: Lufa",
         "description": "Część będąca lufą Spectry Vandal.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Spectra_Vandal",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Spectra_Vandal"
     },
     "mastery_level": 10,
     "trading_tax": 2000

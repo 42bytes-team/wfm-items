@@ -3,9 +3,11 @@
     "url_name": "quellor",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/quellor.4a72101e1ef7e50287d619e68a44d97e.png",
-    "thumb": "icons/en/thumbs/quellor.4a72101e1ef7e50287d619e68a44d97e.128x128.png",
+    "icon": "items/images/en/quellor.4a72101e1ef7e50287d619e68a44d97e.png",
+    "thumb": "items/images/en/thumbs/quellor.4a72101e1ef7e50287d619e68a44d97e.128x128.png",
     "icon_format": "land",
+    "disposition": 1.15,
+    "mastery_level": 12,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/TnRailjackRifle/RailjackRifleGun"
     },

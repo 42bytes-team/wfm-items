@@ -3,9 +3,11 @@
     "url_name": "sweeper",
     "group": "sentinel",
     "riven_type": "shotgun",
-    "icon": "icons/en/sweeper.75089120a61fac27357466d9dee19d8f.png",
-    "thumb": "icons/en/thumbs/sweeper.75089120a61fac27357466d9dee19d8f.128x128.png",
+    "icon": "items/images/en/sweeper.75089120a61fac27357466d9dee19d8f.png",
+    "thumb": "items/images/en/thumbs/sweeper.75089120a61fac27357466d9dee19d8f.128x128.png",
     "icon_format": "land",
+    "disposition": 1,
+    "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun"
     },

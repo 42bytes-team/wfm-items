@@ -2,12 +2,11 @@
     "_id": "5655c4e5b66f832e25b8ce7b",
     "tags": [
         "mod",
-        "archwing",
-        "prime",
-        "legendary"
+        "legendary",
+        "archwing"
     ],
-    "icon": "icons/en/Primed_Morphic_Transformer.d9aafc2cca4aed29c725c5b131874ffe.png",
-    "thumb": "icons/en/thumbs/Primed_Morphic_Transformer.d9aafc2cca4aed29c725c5b131874ffe.128x128.png",
+    "icon": "items/images/en/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.png",
+    "thumb": "items/images/en/thumbs/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.128x128.png",
     "icon_format": "port",
     "url_name": "primed_morphic_transformer",
     "tradable": true,
@@ -17,70 +16,59 @@
     "en": {
         "item_name": "Primed Morphic Transformer",
         "description": "+55% Ability Strength",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Morphic_Transformer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Morphic_Transformer"
     },
     "ru": {
         "item_name": "Морф-трансформер Прайм",
         "description": "+55% к силе способности",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%BE%D1%80%D1%84-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
-        "icon": "icons/ru/Primed_Morphic_Transformer.9f6144506a10214f2764beb801287b38.png",
-        "thumb": "icons/ru/thumbs/Primed_Morphic_Transformer.9f6144506a10214f2764beb801287b38.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/primed_morphic_transformer.9f6144506a10214f2764beb801287b38.png",
+        "thumb": "items/images/ru/thumbs/primed_morphic_transformer.9f6144506a10214f2764beb801287b38.128x128.png"
     },
     "ko": {
         "item_name": "프라임드 모르픽 트랜스포머",
         "description": "+55% 어빌리티 위력",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Morphic_Transformer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Morphic_Transformer"
     },
     "de": {
         "item_name": "Primed Morphid-umformer",
         "description": "+55 % Fähigkeitsstärke",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Morphid-Umformer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Morphid-Umformer"
     },
     "fr": {
         "item_name": "Transformateur De Morphic Accru",
         "description": "+55% Puissance de Pouvoir",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Transformateur_de_Morphic_Accru",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Transformateur_de_Morphic_Accru"
     },
     "pt": {
         "item_name": "Primed Morphic Transformer",
         "description": "+55% de Força da Habilidade",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Morphic_Transformer",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Morphic_Transformer"
     },
     "zh-hans": {
         "item_name": "非晶变压器 Prime",
         "description": "+55% 技能强度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Morphic_Transformer",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Morphic_Transformer"
     },
     "zh-hant": {
         "item_name": "非晶變壓器 Prime",
         "description": "+55% 技能強度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Morphic_Transformer",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Morphic_Transformer"
     },
     "es": {
         "item_name": "Transformador Mórfico Prime",
         "description": "+55% Fuerza de habilidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Transformador_m%C3%B3rfico_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Transformador_m%C3%B3rfico_Prime"
     },
     "it": {
         "item_name": "Primed Morphic Transformer",
         "description": "+55% Potenza Abilità",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Morphic_Transformer",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Morphic_Transformer"
     },
     "pl": {
         "item_name": "Transformator Morficzny Prime",
         "description": "+55% Siła Umiejętności",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Transformator_Morficzny_Prime",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Transformator_Morficzny_Prime"
     },
     "rarity": "legendary",
     "max_rank": 10,

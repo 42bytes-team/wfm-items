@@ -3,9 +3,11 @@
     "url_name": "battacor",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/battacor.141ff25ce24ea93a83a523dda7e94011.png",
-    "thumb": "icons/en/thumbs/battacor.141ff25ce24ea93a83a523dda7e94011.128x128.png",
+    "icon": "items/images/en/battacor.141ff25ce24ea93a83a523dda7e94011.png",
+    "thumb": "items/images/en/thumbs/battacor.141ff25ce24ea93a83a523dda7e94011.128x128.png",
     "icon_format": "land",
+    "disposition": 1.1,
+    "mastery_level": 10,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CrpSentExperimentRifle/CrpSentExperimentRifle"
     },

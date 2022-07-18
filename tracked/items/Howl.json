@@ -2,11 +2,12 @@
     "_id": "54a74454e779892d5e51565e",
     "tags": [
         "mod",
+        "rare",
         "kubrow",
-        "rare"
+        "raksa_kubrow"
     ],
-    "icon": "icons/en/Howl.2ee2ca32433b9f7f46f6c7162f8465a9.png",
-    "thumb": "icons/en/thumbs/Howl.2ee2ca32433b9f7f46f6c7162f8465a9.128x128.png",
+    "icon": "items/images/en/howl.2ee2ca32433b9f7f46f6c7162f8465a9.png",
+    "thumb": "items/images/en/thumbs/howl.2ee2ca32433b9f7f46f6c7162f8465a9.128x128.png",
     "icon_format": "port",
     "url_name": "howl",
     "tradable": true,
@@ -16,70 +17,59 @@
     "en": {
         "item_name": "Howl",
         "description": "The kubrow cries out with a blood-curdling howl that strikes fear into 15 enemies within 24m for 16s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Howl",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Howl"
     },
     "ru": {
         "item_name": "Вой",
-        "description": "Кубрау издает леденящий кровь вопль, приводящий в страх 15 противников в радиусе 24м на 16с.",
+        "description": "Кубрау издает леденящий кровь вопль, приводящий в страх 15 противников в радиусе 24 м на 16 с.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D0%B9",
-        "icon": "icons/ru/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.png",
-        "thumb": "icons/ru/thumbs/Howl.1ea13cda68dc8dfe2cc69e265fa07f01.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/howl.1ea13cda68dc8dfe2cc69e265fa07f01.png",
+        "thumb": "items/images/ru/thumbs/howl.1ea13cda68dc8dfe2cc69e265fa07f01.128x128.png"
     },
     "ko": {
         "item_name": "하울",
         "description": "쿠브로가 피가 얼어붙는 듯한 울음소리를 내어, 24m 안에 있는 15체의 적을 16초 동안 공포 상태로 만듭니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Howl",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Howl"
     },
     "de": {
         "item_name": "Heulen",
         "description": "Der Kubrow jault mit einem blutrünstigen Heulen, das 15 Feinden innerhalb von 24 m für 16 s in Angst versetzt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Heulen",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Heulen"
     },
     "fr": {
         "item_name": "Hurlement",
         "description": "Le kubrow lance un hurlement à glacer le sang, frappant d'effroi 15 ennemis dans un rayon de 24m pour une durée de 16s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Hurlement",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Hurlement"
     },
     "pt": {
         "item_name": "Howl",
         "description": "O kubrow emite um uivo horripilante que causa medo em 15 inimigos dentro de 24m durante 16s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Howl",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Howl"
     },
     "zh-hans": {
         "item_name": "嚎声",
         "description": "库狛发出令人毛骨悚然的嚎叫，对 24 米范围的15 名敌人心中烙下长达16 秒的恐惧。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Howl",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Howl"
     },
     "zh-hant": {
         "item_name": "嚎聲",
         "description": "庫狛發出令人毛骨悚然的嚎叫，對 24 公尺範圍的15 名敵人心中烙下長達16 秒的恐懼。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Howl",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Howl"
     },
     "es": {
         "item_name": "Aullido",
         "description": "El kubrow emite un aullido escalofriante, causando terror sobre 15 enemigos en un radio de 24m durante 16s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aullido",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Aullido"
     },
     "it": {
         "item_name": "Howl",
         "description": "Il Kubrow instilla terrore in 15 nemici con un ululato grondante di sangue entro 24m per 16s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Howl",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Howl"
     },
     "pl": {
         "item_name": "Wycie",
         "description": "Kubrow wyje przeraźliwie, wpędzając w panikę 15 wrogów w zasięgu 24m na 16s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wybicie",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wybicie"
     },
     "rarity": "rare",
     "max_rank": 5,

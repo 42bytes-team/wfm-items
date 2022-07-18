@@ -1,13 +1,13 @@
 {
     "_id": "5526aec1e779896af9418260",
     "tags": [
-        "pve",
         "mod",
         "rare",
-        "warframe"
+        "warframe",
+        "loki"
     ],
-    "icon": "icons/en/Hushed_Invisibility.d13d04f2ee52db1b892c0246cbbe8a80.png",
-    "thumb": "icons/en/thumbs/Hushed_Invisibility.d13d04f2ee52db1b892c0246cbbe8a80.128x128.png",
+    "icon": "items/images/en/hushed_invisibility.d13d04f2ee52db1b892c0246cbbe8a80.png",
+    "thumb": "items/images/en/thumbs/hushed_invisibility.d13d04f2ee52db1b892c0246cbbe8a80.128x128.png",
     "icon_format": "port",
     "url_name": "hushed_invisibility",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Hushed Invisibility",
         "description": "Invisibility Augment: Weapon noise is reduced by 100% while invisible.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hushed_Invisibility",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hushed_Invisibility"
     },
     "ru": {
         "item_name": "Тихая Невидимость",
         "description": "Улучшение способности «Невидимость»: в невидимом состоянии громкость выстрела уменьшена на 100%.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D1%85%D0%B0%D1%8F_%D0%9D%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C",
-        "icon": "icons/ru/Hushed_Invisibility.0df52f0f024218dfdb866fc04dfe1933.png",
-        "thumb": "icons/ru/thumbs/Hushed_Invisibility.0df52f0f024218dfdb866fc04dfe1933.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/hushed_invisibility.0df52f0f024218dfdb866fc04dfe1933.png",
+        "thumb": "items/images/ru/thumbs/hushed_invisibility.0df52f0f024218dfdb866fc04dfe1933.128x128.png"
     },
     "ko": {
         "item_name": "허쉬드 인비지빌리티",
         "description": "인비지빌리티 개조: 은신 상태에서 100%만큼 소음이 감소됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hushed_Invisibility",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hushed_Invisibility"
     },
     "de": {
         "item_name": "Gedämpfte Unsichtbarkeit",
         "description": "Unsichtbarkeit Augment: Waffengeräusche werden während der Unsichtbarkeit um 100 % reduziert.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Ged%C3%A4mpfte_Unsichtbarkeit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Ged%C3%A4mpfte_Unsichtbarkeit"
     },
     "fr": {
         "item_name": "Invisibilité Feutrée",
         "description": "Augmentation d'Invisibilité: Lorsque active, le bruit des armes est réduit de 100%.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Invisibilit%C3%A9_Feutr%C3%A9e",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Invisibilit%C3%A9_Feutr%C3%A9e"
     },
     "pt": {
         "item_name": "Hushed Invisibility",
         "description": "Ampliação Invisibility: Barulho da arma é reduzido em 100% enquanto invisível.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hushed_Invisibility",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hushed_Invisibility"
     },
     "zh-hans": {
         "item_name": "静谧无踪",
         "description": "隐形强化：隐形状态中，武器噪音减少 100%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hushed_Invisibility",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hushed_Invisibility"
     },
     "zh-hant": {
         "item_name": "靜謐無蹤",
         "description": "隱形強化：隱形狀態中，武器噪音減少 100%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hushed_Invisibility",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hushed_Invisibility"
     },
     "es": {
         "item_name": "Invisibilidad Silenciosa",
         "description": "Aumento de Invisibilidad: el sonido del arma se reduce en un 100 % mientras está invisible.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Invisibilidad_silenciosa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Invisibilidad_silenciosa"
     },
     "it": {
         "item_name": "Hushed Invisibility",
         "description": "Potenziamento Invisibility: Il rumore delle armi viene ridotto del 100% durante l'invisibilità.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Invisibility",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Invisibility"
     },
     "pl": {
         "item_name": "Wyciszona Niewidzialność",
         "description": "Modyfikacja Niewidzialności: Hałas broni jest zredukowany o 100% podczas używania Niewidzialności.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyciszona_Niewidzialno%C5%9B%C4%87",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyciszona_Niewidzialno%C5%9B%C4%87"
     },
     "rarity": "rare",
     "max_rank": 3,

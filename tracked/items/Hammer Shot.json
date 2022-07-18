@@ -6,8 +6,8 @@
         "rifle",
         "primary"
     ],
-    "icon": "icons/en/Hammer_Shot.fb11fe7457d821871f4c92b9acea585e.png",
-    "thumb": "icons/en/thumbs/Hammer_Shot.fb11fe7457d821871f4c92b9acea585e.128x128.png",
+    "icon": "items/images/en/hammer_shot.fb11fe7457d821871f4c92b9acea585e.png",
+    "thumb": "items/images/en/thumbs/hammer_shot.fb11fe7457d821871f4c92b9acea585e.128x128.png",
     "icon_format": "port",
     "url_name": "hammer_shot",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Hammer Shot",
         "description": "+60% Critical Damage\n+80% Status Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hammer_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hammer_Shot"
     },
     "ru": {
         "item_name": "Мощный Выстрел",
         "description": "+60% крит. урона\n+80% к шансу статуса",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D1%8B%D0%B9_%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB",
-        "icon": "icons/ru/Hammer_Shot.1d819ba330c77d084fdfbe22961558f1.png",
-        "thumb": "icons/ru/thumbs/Hammer_Shot.1d819ba330c77d084fdfbe22961558f1.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/hammer_shot.1d819ba330c77d084fdfbe22961558f1.png",
+        "thumb": "items/images/ru/thumbs/hammer_shot.1d819ba330c77d084fdfbe22961558f1.128x128.png"
     },
     "ko": {
         "item_name": "해머 샷",
         "description": "+60% 치명타 피해\n+80% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hammer_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Hammer_Shot"
     },
     "de": {
         "item_name": "Hammerschuss",
         "description": "+60 % Krit. Schaden\n+80 % Statuschance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Hammerschuss",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Hammerschuss"
     },
     "fr": {
         "item_name": "Marteau-pilon",
         "description": "+60% de Dégâts Critiques\n+80% de Chances de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Marteau_pilon",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Marteau_pilon"
     },
     "pt": {
         "item_name": "Hammer Shot",
         "description": "+60% de Dano Crítico\n+80% de Chance de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hammer_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hammer_Shot"
     },
     "zh-hans": {
         "item_name": "重锤射击",
         "description": "+60% 暴击伤害\n+80% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hammer_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hammer_Shot"
     },
     "zh-hant": {
         "item_name": "重錘射擊",
         "description": "+60% 暴擊傷害\n+80% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hammer_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hammer_Shot"
     },
     "es": {
         "item_name": "Disparo Martillo",
         "description": "+60% de daño crítico\n+80% de probabilidad de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_martillo",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_martillo"
     },
     "it": {
         "item_name": "Hammer Shot",
         "description": "+60% Danno Critico\n+80% Probabilità Effetto",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Hammer_Shot",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Hammer_Shot"
     },
     "pl": {
         "item_name": "Uderzenie Młota",
         "description": "+60% Obrażeń Krytycznych\n+80% Szansa Statusu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Uderzenie_M%C5%82ota",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Uderzenie_M%C5%82ota"
     },
     "rarity": "rare",
     "max_rank": 3,

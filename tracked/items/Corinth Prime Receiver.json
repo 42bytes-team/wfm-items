@@ -1,14 +1,12 @@
 {
     "_id": "5e839494267539077b0dd6b5",
     "tags": [
-        "prime",
-        "receiver",
         "component",
-        "primary",
-        "weapon"
+        "weapon",
+        "prime"
     ],
-    "icon": "icons/en/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.png",
-    "thumb": "icons/en/thumbs/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
+    "icon": "items/images/en/corinth_prime_receiver.1f73bc83dd117b5e0295b90ed0cccc8d.png",
+    "thumb": "items/images/en/thumbs/corinth_prime_receiver.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
     "url_name": "corinth_prime_receiver",
@@ -28,343 +26,57 @@
     "en": {
         "item_name": "Corinth Prime Receiver",
         "description": "A prime weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime",
-        "drop": [
-            {
-                "name": "Axi P4 Relic (Uncommon)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Axi T7 Relic (Uncommon)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Neo R4 Relic (Uncommon)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "Neo T5 Relic (Uncommon)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "Meso P4 Relic (Uncommon)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "Lith D3 Relic (Uncommon)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime"
     },
     "ru": {
         "item_name": "Коринф Прайм: Приёмник",
         "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%84_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "drop": [
-            {
-                "name": "Реликвия Акси P4 (Необычный)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Реликвия Акси T7 (Необычный)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Реликвия Нео R4 (Необычный)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "Реликвия Нео T5 (Необычный)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "Реликвия Мезо P4 (Необычный)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "Реликвия Лит D3 (Необычный)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%84_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
         "item_name": "코린트 프라임 리시버",
         "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime",
-        "drop": [
-            {
-                "name": "액시 P4 성유물 (언커먼)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "액시 T7 성유물 (언커먼)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "네오 R4 성유물 (언커먼)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "네오 T5 성유물 (언커먼)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "메소 P4 성유물 (언커먼)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "리스 D3 성유물 (언커먼)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime"
     },
     "de": {
         "item_name": "Corinth Prime: Gehäuse",
         "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime",
-        "drop": [
-            {
-                "name": "Axi-relikt: P4 (Ungewöhnlich)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Axi-relikt: T7 (Ungewöhnlich)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Neo-relikt: R4 (Ungewöhnlich)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "Neo-relikt: T5 (Ungewöhnlich)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "Meso-relikt: P4 (Ungewöhnlich)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "Lith-relikt: D3 (Ungewöhnlich)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime"
     },
     "fr": {
         "item_name": "Corinth Prime - Culasse",
         "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Corinth_Prime",
-        "drop": [
-            {
-                "name": "Relique Axi P4 (Inhabituel)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Relique Axi T7 (Inhabituel)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Relique Neo R4 (Inhabituel)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "Relique Neo T5 (Inhabituel)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "Relique Meso P4 (Inhabituel)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "Relique Lith D3 (Inhabituel)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Corinth_Prime"
     },
     "pt": {
         "item_name": "Corinth Prime: Receptor",
         "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime",
-        "drop": [
-            {
-                "name": "Relíquia Axi P4 (Incomum)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Relíquia Axi T7 (Incomum)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Relíquia Neo R4 (Incomum)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "Relíquia Neo T5 (Incomum)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "Relíquia Meso P4 (Incomum)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "Relíquia Lith D3 (Incomum)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime"
     },
     "zh-hans": {
         "item_name": "科林斯 Prime 枪机",
         "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime",
-        "drop": [
-            {
-                "name": "后纪 P4 遗物 (罕见)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "后纪 T7 遗物 (罕见)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "中纪 R4 遗物 (罕见)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "中纪 T5 遗物 (罕见)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "前纪 P4 遗物 (罕见)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "古纪 D3 遗物 (罕见)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime"
     },
     "zh-hant": {
         "item_name": "科林斯 Prime 槍機",
         "description": "製作 Prime 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime",
-        "drop": [
-            {
-                "name": "後紀 P4 遺物 (罕見)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "後紀 T7 遺物 (罕見)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "中紀 R4 遺物 (罕見)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "中紀 T5 遺物 (罕見)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "前紀 P4 遺物 (罕見)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "古紀 D3 遺物 (罕見)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime"
     },
     "es": {
         "item_name": "Receptor De Corinth Prime",
         "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Corinth_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi P4 (Poco Común)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Reliquia Axi T7 (Poco Común)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Reliquia Neo R4 (Poco Común)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "Reliquia Neo T5 (Poco Común)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "Reliquia Meso P4 (Poco Común)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "Reliquia Lith D3 (Poco Común)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Corinth_Prime"
     },
     "it": {
         "item_name": "Corinth Prime - Castello",
         "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Orthos_Prime",
-        "drop": [
-            {
-                "name": "Reliquia Axi P4 (Uncommon)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Reliquia Axi T7 (Uncommon)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Reliquia Neo R4 (Uncommon)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "Reliquia Neo T5 (Uncommon)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "Reliquia Meso P4 (Uncommon)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "Reliquia Lith D3 (Uncommon)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Orthos_Prime"
     },
     "pl": {
         "item_name": "Corinth Prime: Korpus",
         "description": "Element wytwarzania broni Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Corinth_Prime",
-        "drop": [
-            {
-                "name": "Relikt Axi P4 (Nieprzeciętny)",
-                "link": "axi_p4_relic"
-            },
-            {
-                "name": "Relikt Axi T7 (Nieprzeciętny)",
-                "link": "axi_t7_relic"
-            },
-            {
-                "name": "Relikt Neo R4 (Nieprzeciętny)",
-                "link": "neo_r4_relic"
-            },
-            {
-                "name": "Relikt Neo T5 (Nieprzeciętny)",
-                "link": "neo_t5_relic"
-            },
-            {
-                "name": "Relikt Meso P4 (Nieprzeciętny)",
-                "link": "meso_p4_relic"
-            },
-            {
-                "name": "Relikt Lith D3 (Nieprzeciętny)",
-                "link": "lith_d3_relic"
-            }
-        ]
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Corinth_Prime"
     },
     "mastery_level": 14,
     "ducats": 45,

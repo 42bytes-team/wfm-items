@@ -1,14 +1,11 @@
 {
     "_id": "57962daf19aaba0b00a9b1b3",
     "tags": [
-        "weapon",
-        "rifle",
-        "stock",
-        "primary",
-        "component"
+        "component",
+        "weapon"
     ],
-    "icon": "icons/en/Latron_Wraith_Set.57295b3f36571ea8ea47471d7a70caea.png",
-    "thumb": "icons/en/thumbs/Latron_Wraith_Set.57295b3f36571ea8ea47471d7a70caea.128x128.png",
+    "icon": "items/images/en/latron_wraith_stock.57295b3f36571ea8ea47471d7a70caea.png",
+    "thumb": "items/images/en/thumbs/latron_wraith_stock.57295b3f36571ea8ea47471d7a70caea.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
     "url_name": "latron_wraith_stock",
@@ -28,68 +25,57 @@
     "en": {
         "item_name": "Latron Wraith Stock",
         "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Wraith"
     },
     "ru": {
         "item_name": "Латрон Призрак: Приклад",
         "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D1%82%D1%80%D0%BE%D0%BD_%D0%BF%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D1%82%D1%80%D0%BE%D0%BD_%D0%BF%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA"
     },
     "ko": {
         "item_name": "래트론 레이스 스톡",
         "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Wraith"
     },
     "de": {
         "item_name": "Latron Wraith: Schaft",
         "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Latron_Wraith"
     },
     "fr": {
         "item_name": "Latron Wraith - Crosse",
         "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Latron_Wraith"
     },
     "pt": {
         "item_name": "Latron Quimérica: Coronha",
         "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Latron_Wraith"
     },
     "zh-hans": {
         "item_name": "拉特昂 亡魂 枪托",
         "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Wraith"
     },
     "zh-hant": {
         "item_name": "拉特昂 亡魂 槍托",
         "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Wraith"
     },
     "es": {
         "item_name": "Culata De Latron Fantasma",
         "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Latron_Fantasma",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Latron_Fantasma"
     },
     "it": {
         "item_name": "Latron Wraith - Calcio",
         "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Latron_Wraith"
     },
     "pl": {
         "item_name": "Latron Wraith: Kolba",
         "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Latron_Wraith",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Latron_Wraith"
     },
     "mastery_level": 7,
     "trading_tax": 2000

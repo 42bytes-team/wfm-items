@@ -2,12 +2,11 @@
     "_id": "5be701133ffcc703e462c707",
     "tags": [
         "mod",
-        "k-drive",
         "common",
-        "---"
+        "k_drive"
     ],
-    "icon": "icons/en/Air_Time.96ed33912d85f25e3a47296e6a0dbc65.png",
-    "thumb": "icons/en/thumbs/Air_Time.96ed33912d85f25e3a47296e6a0dbc65.128x128.png",
+    "icon": "items/images/en/air_time.96ed33912d85f25e3a47296e6a0dbc65.png",
+    "thumb": "items/images/en/thumbs/air_time.96ed33912d85f25e3a47296e6a0dbc65.128x128.png",
     "icon_format": "port",
     "url_name": "air_time",
     "tradable": true,
@@ -17,70 +16,59 @@
     "en": {
         "item_name": "Air Time",
         "description": "-20% Gravity while Falling Down",
-        "wiki_link": "https://warframe.fandom.com/wiki/Air_Time",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Air_Time"
     },
     "ru": {
         "item_name": "Время Воздуха",
         "description": "-20% к воздействию гравитации при снижении",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%80%D0%B5%D0%BC%D1%8F_%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%B0",
-        "icon": "icons/ru/Air_Time.a7c83ea8bd0da8ffe091bc4410034933.png",
-        "thumb": "icons/ru/thumbs/Air_Time.a7c83ea8bd0da8ffe091bc4410034933.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/air_time.a7c83ea8bd0da8ffe091bc4410034933.png",
+        "thumb": "items/images/ru/thumbs/air_time.a7c83ea8bd0da8ffe091bc4410034933.128x128.png"
     },
     "ko": {
         "item_name": "에어 타임",
         "description": "낙하 중 중력 -20%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Air_Time",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Air_Time"
     },
     "de": {
         "item_name": "Schwerelos",
         "description": "-20 % Schwerkraft beim Fallen",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schwerelos",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Schwerelos"
     },
     "fr": {
         "item_name": "Temps De Vol",
         "description": "Gravité à -20% durant une chute",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Temps_de_Vol",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Temps_de_Vol"
     },
     "pt": {
         "item_name": "Air Time",
         "description": "-20% de Gravidade enquanto estiver em Queda",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Air_Time",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Air_Time"
     },
     "zh-hans": {
         "item_name": "乘空时间",
         "description": "坠落时-20％重力",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Air_Time",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Air_Time"
     },
     "zh-hant": {
         "item_name": "乘空時間",
         "description": "墜落時 -20% 重力",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Air_Time",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Air_Time"
     },
     "es": {
         "item_name": "Hora De Volar",
         "description": "-20% de gravedad al descender",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Hora_de_volar",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Hora_de_volar"
     },
     "it": {
         "item_name": "Air Time",
         "description": "-20% Gravità durante la Caduta",
-        "wiki_link": "https://warframe.fandom.com/wiki/Air_Time",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Air_Time"
     },
     "pl": {
         "item_name": "Czas W Powietrzu",
         "description": "-20% Grawitacji w czasie spadania",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Czas_w_Powietrzu",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Czas_w_Powietrzu"
     },
     "rarity": "common",
     "max_rank": 3,

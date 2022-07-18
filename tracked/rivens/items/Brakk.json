@@ -3,9 +3,11 @@
     "url_name": "brakk",
     "group": "secondary",
     "riven_type": "shotgun",
-    "icon": "icons/en/brakk.db24dd1bc4fe5bba11129bbbfc9de5b7.png",
-    "thumb": "icons/en/thumbs/brakk.db24dd1bc4fe5bba11129bbbfc9de5b7.128x128.png",
+    "icon": "items/images/en/brakk.db24dd1bc4fe5bba11129bbbfc9de5b7.png",
+    "thumb": "items/images/en/thumbs/brakk.db24dd1bc4fe5bba11129bbbfc9de5b7.128x128.png",
     "icon_format": "land",
+    "disposition": 1.25,
+    "mastery_level": 6,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon"
     },

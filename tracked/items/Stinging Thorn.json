@@ -2,12 +2,12 @@
     "_id": "59e23a55115f1d887cfd7ac7",
     "tags": [
         "mod",
-        "dagger",
+        "rare",
         "stance",
-        "rare"
+        "daggers"
     ],
-    "icon": "icons/en/Stinging_Thorn.a76015e252170dda1dbda4abae153fe4.png",
-    "thumb": "icons/en/thumbs/Stinging_Thorn.a76015e252170dda1dbda4abae153fe4.128x128.png",
+    "icon": "items/images/en/stinging_thorn.a76015e252170dda1dbda4abae153fe4.png",
+    "thumb": "items/images/en/thumbs/stinging_thorn.a76015e252170dda1dbda4abae153fe4.128x128.png",
     "icon_format": "port",
     "url_name": "stinging_thorn",
     "tradable": true,
@@ -17,70 +17,59 @@
     "en": {
         "item_name": "Stinging Thorn",
         "description": "Vigorous slashes with forceful stabs.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stinging_Thorn",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stinging_Thorn"
     },
     "ru": {
         "item_name": "Жалящий Шип",
         "description": "Безжалостные взмахи и мощные выпады.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%96%D0%B0%D0%BB%D1%8F%D1%89%D0%B8%D0%B9_%D0%A8%D0%B8%D0%BF",
-        "icon": "icons/ru/Stinging_Thorn.9bcd25f113fff060b02fd4bd17721b06.png",
-        "thumb": "icons/ru/thumbs/Stinging_Thorn.9bcd25f113fff060b02fd4bd17721b06.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/stinging_thorn.9bcd25f113fff060b02fd4bd17721b06.png",
+        "thumb": "items/images/ru/thumbs/stinging_thorn.9bcd25f113fff060b02fd4bd17721b06.128x128.png"
     },
     "ko": {
         "item_name": "스팅잉 쏜",
         "description": "격렬한 베기와 힘있는 찌르기로 구성된 공격입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stinging_Thorn",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Stinging_Thorn"
     },
     "de": {
         "item_name": "Stechender Dorn",
         "description": "Dynamische Schnitte mit kräftigen Stichen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Stechender_Zorn",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Stechender_Zorn"
     },
     "fr": {
         "item_name": "Épine Cinglante",
         "description": "Taillades vigoureuses avec de puissants poignardements.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89pine_Cinglante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89pine_Cinglante"
     },
     "pt": {
         "item_name": "Stinging Thorn",
         "description": "Cortes vigorosos com estocadas potentes.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lingering_Torment",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lingering_Torment"
     },
     "zh-hans": {
         "item_name": "螫刺狂棘",
         "description": "带有强力刺击的凶猛挥砍",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stinging_Thorn",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stinging_Thorn"
     },
     "zh-hant": {
         "item_name": "蟄刺狂棘",
         "description": "帶有強力刺擊的兇猛揮砍",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stinging_Thorn",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stinging_Thorn"
     },
     "es": {
         "item_name": "Espina Punzante",
         "description": "Enérgicas cuchilladas con poderosas puñaladas.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Espina_Punzante",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Espina_Punzante"
     },
     "it": {
         "item_name": "Stinging Thorn",
         "description": "Tagli vigorosi con potenti pugnalate.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stinging_Thorn",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Stinging_Thorn"
     },
     "pl": {
         "item_name": "Kłujący Cierń",
         "description": "Żywiołowe cięcia z energicznymi pchnięciami.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/K%C5%82uj%C4%85cy_Cier%C5%84",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/K%C5%82uj%C4%85cy_Cier%C5%84"
     },
     "rarity": "rare",
     "max_rank": 3,

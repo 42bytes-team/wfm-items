@@ -3,9 +3,11 @@
     "url_name": "hema",
     "group": "primary",
     "riven_type": "rifle",
-    "icon": "icons/en/hema.4cc3a2ff4a815c7dfdb07a514a883b82.png",
-    "thumb": "icons/en/thumbs/hema.4cc3a2ff4a815c7dfdb07a514a883b82.128x128.png",
+    "icon": "items/images/en/hema.4cc3a2ff4a815c7dfdb07a514a883b82.png",
+    "thumb": "items/images/en/thumbs/hema.4cc3a2ff4a815c7dfdb07a514a883b82.128x128.png",
     "icon_format": "land",
+    "disposition": 1.3,
+    "mastery_level": 7,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Infested/LongGuns/InfWFAccompanyingPri/InfestedBurstRifle"
     },

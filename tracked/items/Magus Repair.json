@@ -1,12 +1,11 @@
 {
     "_id": "5c1bda1b14a8e4006b1dad92",
     "tags": [
-        "operator",
         "uncommon",
         "arcane_enhancement"
     ],
-    "icon": "icons/en/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.png",
-    "thumb": "icons/en/thumbs/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.128x128.png",
+    "icon": "items/images/en/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.png",
+    "thumb": "items/images/en/thumbs/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.128x128.png",
     "icon_format": "land",
     "url_name": "magus_repair",
     "tradable": true,
@@ -16,68 +15,57 @@
     "en": {
         "item_name": "Magus Repair",
         "description": "On Void Mode:\nHeal Warframes within 30m by 25% Health/s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Repair",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Repair"
     },
     "ru": {
         "item_name": "Ремонт Волхва",
         "description": "В режиме бездны:\nВосстанавливает варфреймам в радиусе 30м 25% здоровья/с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
     },
     "ko": {
         "item_name": "마구스 리페어",
         "description": "보이드 모드 시:\n30m 내에 있는 워프레임들의 체력을 초당 25%만큼 회복합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Repair",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Repair"
     },
     "de": {
         "item_name": "Magus: Reparatur",
         "description": "Bei Void-Modus:\nHeilt Warframes innerhalb von 30 m um 25 % Gesundheit/s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Repair",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Repair"
     },
     "fr": {
         "item_name": "Magus Réparation",
         "description": "Sur Mode Néant:\nSoigne de 25% Santé/s les Warframes dans un rayon de 30m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_R%C3%A9paration",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_R%C3%A9paration"
     },
     "pt": {
         "item_name": "Magus: Reparo",
         "description": "Ao ativar o Void Mode:\nCura Warframes dentro de 30m com 25% de Vida/s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magus_Repair",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magus_Repair"
     },
     "zh-hans": {
         "item_name": "魔导 修复",
         "description": "在虚空模式时：\n治疗 30 米内的战甲生命值，每秒恢复 25% 。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Repair",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Repair"
     },
     "zh-hant": {
         "item_name": "魔導 修復",
         "description": "在虛空模式時：\n治療 30 公尺內的戰甲生命值，每秒恢復 25% 。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Repair",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Repair"
     },
     "es": {
         "item_name": "Reparación Del Mago",
         "description": "En modo del vacío:\nSana a los warframes dentro de 30 m un 25 % de salud/s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Reparaci%C3%B3n_del_mago",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/Reparaci%C3%B3n_del_mago"
     },
     "it": {
         "item_name": "Magus Repair",
         "description": "Durante la Modalità Void:\nCura i Warframe entro 30m del 25% di Salute/s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Repair",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Repair"
     },
     "pl": {
         "item_name": "Magus Naprawy",
         "description": "Podczas Trybu Pustki:\nLeczy 25% życia/s każdemu Warframe'owi w promieniu 30m.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Naprawy",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Naprawy"
     },
     "rarity": "uncommon",
     "max_rank": 5,

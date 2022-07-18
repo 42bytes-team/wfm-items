@@ -3,10 +3,11 @@
     "tags": [
         "mod",
         "common",
-        "sentinel"
+        "sentinel",
+        "nautilus"
     ],
-    "icon": "icons/en/auto_omni.87bf9b3a39e78d394edbebe9ccd3f6e9.png",
-    "thumb": "icons/en/thumbs/auto_omni.87bf9b3a39e78d394edbebe9ccd3f6e9.128x128.png",
+    "icon": "items/images/en/auto_omni.87bf9b3a39e78d394edbebe9ccd3f6e9.png",
+    "thumb": "items/images/en/thumbs/auto_omni.87bf9b3a39e78d394edbebe9ccd3f6e9.128x128.png",
     "icon_format": "port",
     "url_name": "auto_omni",
     "tradable": true,
@@ -16,68 +17,57 @@
     "en": {
         "item_name": "Auto Omni",
         "description": "Nautilus has 100% chance to repair nearby Railjack hull damages and extinguishes fires on Railjack. Cooldown: 20s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ru": {
         "item_name": "Авто Омни",
         "description": "Наутилус имеет 100% шанс отремонтировать ближайшие повреждения фюзеляжа Рэйлджека и тушит пожары в Рэйлджеке. Восстановление: 20 с.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "ko": {
         "item_name": "오토 옴니",
         "description": "노틸러스가 100%의 확률로 근처 레일잭의 선체 손상을 수리하고 선내 화재들을 진압합니다. 재사용 대기 시간: 20초",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "de": {
         "item_name": "Auto-omni",
         "description": "Nautilus hat eine 100 % Chance, in der Umgebung Schäden an der Hülle zu reparieren und Feuer auf dem Railjack zu löschen. Abklingzeit: 20 s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "fr": {
         "item_name": "Auto Omni",
         "description": "Nautilus a 100% de chance de réparer les avaries de la coque du Railjack à proximité et d'éteindre les incendies. Temps de rechargement: 20s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pt": {
         "item_name": "Auto Omni",
         "description": "Nautilus apresenta 100% de chance de reparar danos à fuselagem da Railjack e de extinguir incêndios. Tempo de Recarga: 20s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hans": {
         "item_name": "万用自修",
         "description": "鹦鹉螺有 100% 的几率修复附近的航道星舰舰体损伤并扑灭航道星舰上的火灾。冷却时间：20 秒。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "zh-hant": {
         "item_name": "奧寧自修",
         "description": "鸚鵡螺有 100% 的機率修復附近的銳捷號船身損壞處，並撲滅銳捷號上的起火點。冷卻時間：20秒。",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "es": {
         "item_name": "Omni Automática",
         "description": "Nautilus tiene 100 % de probabilidad de reparar daños del casco del Railjack cercano y extinguir fuegos en el Railjack. Tiempo de espera: 20 s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "it": {
         "item_name": "Auto Omni",
         "description": "Nautilus ha il 100% di probabilità di riparare i danni allo scafo del Railjack nelle vicinanze e spegnere gli incendi. Tempo di ricarica: 20s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "pl": {
         "item_name": "Automatyczne Omni",
         "description": "Nautilus ma 100% szansy na naprawienie pobliskich uszkodzeń kadłuba Railjacka i ugaszenie pożarów. Czas odnowienia: 20s.",
-        "wiki_link": null,
-        "drop": []
+        "wiki_link": null
     },
     "rarity": "common",
     "max_rank": 5,

@@ -5,8 +5,8 @@
         "warframe",
         "common"
     ],
-    "icon": "icons/en/Thief's_Wit.b861b939df1689692ce5371fbe2d1e2d.png",
-    "thumb": "icons/en/thumbs/Thief's_Wit.b861b939df1689692ce5371fbe2d1e2d.128x128.png",
+    "icon": "items/images/en/thiefs_wit.b861b939df1689692ce5371fbe2d1e2d.png",
+    "thumb": "items/images/en/thumbs/thiefs_wit.b861b939df1689692ce5371fbe2d1e2d.128x128.png",
     "icon_format": "port",
     "url_name": "thiefs_wit",
     "tradable": true,
@@ -16,70 +16,59 @@
     "en": {
         "item_name": "Thief's Wit",
         "description": "Highlights mods through the environment as well as the Minimap. +42 Loot Radar",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thief%27s_Wit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Thief%27s_Wit"
     },
     "ru": {
         "item_name": "Чутье Вора",
         "description": "Подсвечивает моды сквозь препятствия и на миникарте. Обнаружение добычи в радиусе +42м.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A7%D1%83%D1%82%D1%8C%D0%B5_%D0%92%D0%BE%D1%80%D0%B0",
-        "icon": "icons/ru/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.png",
-        "thumb": "icons/ru/thumbs/Thief's_Wit.f7c7204689b104fb69dafb78193fc531.128x128.png",
-        "drop": []
+        "icon": "items/images/ru/thiefs_wit.f7c7204689b104fb69dafb78193fc531.png",
+        "thumb": "items/images/ru/thumbs/thiefs_wit.f7c7204689b104fb69dafb78193fc531.128x128.png"
     },
     "ko": {
         "item_name": "시브즈 위트",
         "description": "미니맵 표시 뿐만 아니라 주변 지형을 투사하여 모드가 있는 위치를 알려줍니다. +42 아이템 감지",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thief%27s_Wit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Thief%27s_Wit"
     },
     "de": {
         "item_name": "Diebesgespür",
         "description": "Hebt Mods in der Umgebung und auf der Minikarte hervor. +42 Beuteradar",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Diebesgesp%C3%BCr",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Diebesgesp%C3%BCr"
     },
     "fr": {
         "item_name": "Astuce Du Voleur",
         "description": "Surligne les Mods au travers de l'environnement ainsi que sur la mini-carte. +42 Radar Butin",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Astuce_du_voleur",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/fr/wiki/Astuce_du_voleur"
     },
     "pt": {
         "item_name": "Thief's Wit",
         "description": "Destaca mods no ambiente e no Minimapa. +42 Radar de Itens",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Thief%27s_Wit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Thief%27s_Wit"
     },
     "zh-hans": {
         "item_name": "盗贼天赋",
         "description": "把MOD标记在小地图及墙后 +42 寻物雷达",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thief%27s_Wit",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thief%27s_Wit"
     },
     "zh-hant": {
         "item_name": "盜賊天賦",
         "description": "將附近的 MOD 和物品標記起來並顯示在小地圖上。 +42 尋物雷達",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thief%27s_Wit",
-        "drop": []
+        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thief%27s_Wit"
     },
     "es": {
         "item_name": "El Saber Del Ladrón",
         "description": "Resalta mods en el entorno así como en el minimapa. +42 de radar de saqueo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/El_saber_del_ladr%C3%B3n",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/es/wiki/El_saber_del_ladr%C3%B3n"
     },
     "it": {
         "item_name": "Thief's Wit",
         "description": "Evidenzia i mod nell'ambiente e nella Minimappa. +42 Radar Risorse",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Thief%27s_Wit",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Thief%27s_Wit"
     },
     "pl": {
         "item_name": "Złodziejski Zmysł",
         "description": "Podświetla mody w okolicy i na minimapie. +42 Wykrywacz Łupu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Z%C5%82odziejski_Zmys%C5%82",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Z%C5%82odziejski_Zmys%C5%82"
     },
     "rarity": "common",
     "max_rank": 5,

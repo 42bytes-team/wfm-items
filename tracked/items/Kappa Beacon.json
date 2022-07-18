@@ -1,11 +1,10 @@
 {
     "_id": "598b06b4ab6b61be6fec0fb4",
     "tags": [
-        "beacon",
-        "collectible"
+        "misc"
     ],
-    "icon": "icons/en/Kappa_Beacon.dc1feec4f846fdd1254943ddcdac9856.png",
-    "thumb": "icons/en/thumbs/Kappa_Beacon.dc1feec4f846fdd1254943ddcdac9856.128x128.png",
+    "icon": "items/images/en/kappa_beacon.dc1feec4f846fdd1254943ddcdac9856.png",
+    "thumb": "items/images/en/thumbs/kappa_beacon.dc1feec4f846fdd1254943ddcdac9856.128x128.png",
     "icon_format": "land",
     "url_name": "kappa_beacon",
     "tradable": true,
@@ -15,68 +14,57 @@
     "en": {
         "item_name": "Kappa Beacon",
         "description": "Locator beacon broadcasting on the kappa frequency",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kappa_Beacon",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Kappa_Beacon"
     },
     "ru": {
         "item_name": "Маяк Каппа",
         "description": "Маяк, транслирующий на частоте каппа",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D1%8F%D0%BA%D0%B8",
-        "drop": []
+        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%B0%D1%8F%D0%BA%D0%B8"
     },
     "ko": {
         "item_name": "카파 비컨",
         "description": "카파 주파수를 보내고 있는 위치 신호기 입니다",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kappa_Beacon",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/wiki/Kappa_Beacon"
     },
     "de": {
         "item_name": "Kappa-signalfeuer",
         "description": "Ein Signalfeuer, das auf der Kappa-Frequenz sendet",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Signalfeuer",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/de/wiki/Signalfeuer"
     },
     "fr": {
         "item_name": "Balise Kappa",
         "description": "Balise de localisation émettant sur la fréquence Kappa",
-        "wiki_link": "http://warframe.wikia.com/wiki/Beacons",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Beacons"
     },
     "pt": {
         "item_name": "Transmissor Kappa",
         "description": "Transceptor Localizador Delta transmitindo na frequência Kappa",
-        "wiki_link": "http://warframe.wikia.com/wiki/Beacons",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Beacons"
     },
     "zh-hans": {
         "item_name": "Kappa 信标",
         "description": "持续发送出 Kappa 频率的信标定位装置",
-        "wiki_link": "http://warframe.wikia.com/wiki/Beacons",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Beacons"
     },
     "zh-hant": {
         "item_name": "Kappa 信標",
         "description": "持續發送出 Kappa 頻率的信標定位裝置",
-        "wiki_link": "http://warframe.wikia.com/wiki/Beacons",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Beacons"
     },
     "es": {
         "item_name": "Baliza Kappa",
         "description": "Baliza de localización emitiendo en frecuencia kappa",
-        "wiki_link": "http://warframe.wikia.com/wiki/Beacons",
-        "drop": []
+        "wiki_link": "http://warframe.wikia.com/wiki/Beacons"
     },
     "it": {
         "item_name": "Localizzatore Kappa",
         "description": "Localizzatore che trasmette sulla frequenza Kappa",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Localizzatore",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/it/wiki/Localizzatore"
     },
     "pl": {
         "item_name": "Boja Radiowa Kappa",
         "description": "Boja radiowa nadająca na częstotliwości Kappa",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Boja_Kappa",
-        "drop": []
+        "wiki_link": "https://warframe.fandom.com/pl/wiki/Boja_Kappa"
     },
     "trading_tax": 2000
 }
