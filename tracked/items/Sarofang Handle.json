@@ -1,0 +1,80 @@
+{
+    "_id": "63886517e7c988007b5bd513",
+    "tags": [
+        "component",
+        "weapon"
+    ],
+    "icon": "items/images/en/sarofang_handle.b9dddab4cdb3312fa7a7bf8c78d82246.png",
+    "thumb": "items/images/en/thumbs/sarofang_handle.b9dddab4cdb3312fa7a7bf8c78d82246.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/generic_handle_128x128.png",
+    "url_name": "sarofang_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/WolfFrameAxeWeaponHandle"
+    },
+    "part_of_set": [
+        "sarofang_blade",
+        "sarofang_handle",
+        "sarofang_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Sarofang Handle",
+        "description": "A weapon-crafting component.",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Сарофанг: Рукоять",
+        "description": "Компонент оружия.",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "사로팡 핸들",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Sarofang: Griff",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Sarofang - Manche",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Sarofang: Cabo",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "沙罗之牙 握柄",
+        "description": "一个武器的制作部件。",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "闇牙 握柄",
+        "description": "製作武器的部件。",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Empuñadura De Sarofang",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Sarofang - Manico",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Sarofang: Chwyt",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": null
+    },
+    "mastery_level": 8,
+    "trading_tax": 2000
+}

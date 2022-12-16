@@ -1,9 +1,10 @@
 {
     "_id": "5cc4816afc2db2099c1804cd",
     "tags": [
-        "common",
+        "mod",
         "riven_mod",
-        "mod"
+        "common",
+        "veiled_riven"
     ],
     "icon": "items/images/en/archgun_riven_mod_(veiled).fd671126fd4051e8e3addc13ae56d1f0.png",
     "thumb": "items/images/en/thumbs/archgun_riven_mod_(veiled).fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
@@ -70,5 +71,9 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
     },
     "rarity": "common",
+    "subtypes": [
+        "unrevealed",
+        "revealed"
+    ],
     "trading_tax": 2000
 }

@@ -1,0 +1,81 @@
+{
+    "_id": "63886518e7c988007b5bd517",
+    "tags": [
+        "component",
+        "weapon"
+    ],
+    "icon": "items/images/en/perigale_receiver.679b0e40d7651d8a117e07d1c7039886.png",
+    "thumb": "items/images/en/thumbs/perigale_receiver.679b0e40d7651d8a117e07d1c7039886.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+    "url_name": "perigale_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnQuadSniperRifleReceiver"
+    },
+    "part_of_set": [
+        "perigale_barrel",
+        "perigale_receiver",
+        "perigale_set",
+        "perigale_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Perigale Receiver",
+        "description": "A weapon-crafting component.",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Перигаль: Приёмник",
+        "description": "Компонент оружия.",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "페리게일 리시버",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Perigale: Gehäuse",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Perigale - Culasse",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Perigale: Receptor",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "月面狂风 枪机",
+        "description": "一个武器的制作部件。",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "肆飆 槍機",
+        "description": "製作武器的部件。",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Receptor De Perigale",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Perigale - Castello",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Perigale: Korpus",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": null
+    },
+    "mastery_level": 8,
+    "trading_tax": 2000
+}

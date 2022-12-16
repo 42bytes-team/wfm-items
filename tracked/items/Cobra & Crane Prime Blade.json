@@ -1,0 +1,84 @@
+{
+    "_id": "639a941d74b02f0088877850",
+    "tags": [
+        "prime",
+        "component",
+        "weapon"
+    ],
+    "icon": "items/images/en/cobra_and_crane_prime_blade.6b5c3042fd61b299d54eaa1b1357bb56.png",
+    "thumb": "items/images/en/thumbs/cobra_and_crane_prime_blade.6b5c3042fd61b299d54eaa1b1357bb56.128x128.png",
+    "icon_format": "land",
+    "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
+    "url_name": "cobra_and_crane_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/CobraCranePrimeBlade"
+    },
+    "part_of_set": [
+        "cobra_and_crane_prime_blade",
+        "cobra_and_crane_prime_blueprint",
+        "cobra_and_crane_prime_guard",
+        "cobra_and_crane_prime_hilt",
+        "cobra_and_crane_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Cobra & Crane Prime Blade",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Кобра И Журавль Прайм: Лезвие",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "코브라 & 크레인 프라임 블레이드",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Cobra & Crane Prime: Klinge",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Cobra & Crane Prime - Lame",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Cobra & Crane Prime: Lâmina",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "眼镜蛇 & 鹤 Prime 刀刃",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "眼鏡蛇 & 鶴 Prime 刀刃",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Hoja De Cobra & Crane Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Cobra & Crane Prime - Lama",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Cobra I Crane Prime: Ostrze",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": null
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

@@ -1,0 +1,84 @@
+{
+    "_id": "639a941d74b02f008887784d",
+    "tags": [
+        "prime",
+        "component",
+        "weapon"
+    ],
+    "icon": "items/images/en/afuris_prime_link.9414de2fe47f675df12a9c1acfecba2c.png",
+    "thumb": "items/images/en/thumbs/afuris_prime_link.9414de2fe47f675df12a9c1acfecba2c.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/weapon/prime_link_128x128.png",
+    "url_name": "afuris_prime_link",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeLink"
+    },
+    "part_of_set": [
+        "afuris_prime_barrel",
+        "afuris_prime_blueprint",
+        "afuris_prime_link",
+        "afuris_prime_receiver",
+        "afuris_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Afuris Prime Link",
+        "description": "A prime weapon-crafting component.",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Афурис Прайм: Связь",
+        "description": "Прайм-компонент оружия.",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "아퓨리스 프라임 링크",
+        "description": "프라임 무기 제작 부품입니다.",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Afuris Prime: Verbindung",
+        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Afuris Prime - Lien",
+        "description": "Un composant servant à la fabrication d'armes Prime.",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Afuris Prime: Conexão",
+        "description": "Um componente de fabricação de Armas Prime.",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "盗贼双枪 Prime 连接器",
+        "description": "一个 Prime 武器的制作部件。",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "盜賊雙槍 Prime 連接器",
+        "description": "製作 Prime 武器的部件。",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Enlace De Afuris Prime",
+        "description": "Un componente de fabricación de arma prime.",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Afuris Prime - Collegamento",
+        "description": "Un componente Prime per la costruzione di un'arma.",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Afuris Prime: Połączenie",
+        "description": "Element wytwarzania broni Prime.",
+        "wiki_link": null
+    },
+    "mastery_level": 12,
+    "ducats": 45,
+    "trading_tax": 2000
+}

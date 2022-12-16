@@ -1,9 +1,10 @@
 {
     "_id": "584160cd43e4267b5b699191",
     "tags": [
-        "common",
+        "mod",
         "riven_mod",
-        "mod"
+        "common",
+        "veiled_riven"
     ],
     "icon": "items/images/en/rifle_riven_mod_(veiled).efa7515ed4b28b90fcde3b230701034b.png",
     "thumb": "items/images/en/thumbs/rifle_riven_mod_(veiled).efa7515ed4b28b90fcde3b230701034b.128x128.png",
@@ -72,6 +73,10 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
     },
     "rarity": "common",
+    "subtypes": [
+        "unrevealed",
+        "revealed"
+    ],
     "mastery_level": 8,
     "trading_tax": 2000
 }
