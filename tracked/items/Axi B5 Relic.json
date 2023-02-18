@@ -67,11 +67,17 @@
         "description": "Artefakt zawierający sekrety Orokin. Tylko wykorzystując energię Pustki, można go otworzyć.",
         "wiki_link": null
     },
+    "uk": {
+        "item_name": "Реліквія Аксі B5",
+        "description": "Артефакт, що приховує секрети орокінів. Можна відкрити лише енергією Порожнечі.",
+        "wiki_link": null
+    },
     "subtypes": [
         "intact",
         "exceptional",
         "flawless",
         "radiant"
     ],
+    "vaulted": false,
     "trading_tax": 2000
 }

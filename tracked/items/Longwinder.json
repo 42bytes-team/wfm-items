@@ -71,10 +71,15 @@
         "description": "Naprawia nieszczelności i usuwa blokady w systemach wodnych. Można go znaleźć w jeziorze na Wenus.",
         "wiki_link": "https://warframe.fandom.com/pl/wiki/D%C5%82ugowij"
     },
+    "uk": {
+        "item_name": "Довгов’юн",
+        "description": "Усуває витоки та засмічення в аквасистемах. Трапляється в озерах Венери.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Longwinder"
+    },
     "subtypes": [
-        "small",
-        "medium",
-        "large"
+        "basic",
+        "adorned",
+        "magnificent"
     ],
     "trading_tax": 2000
 }

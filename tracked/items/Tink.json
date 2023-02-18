@@ -23,7 +23,7 @@
     },
     "ru": {
         "item_name": "Тинк",
-        "description": "Ремонтирует поврежденную робототехнику в водных системах. Можно найти в прудах Венеры.",
+        "description": "Ремонтирует повреждённую робототехнику в водных системах. Можно найти в прудах Венеры.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%BD%D0%BA"
     },
     "ko": {
@@ -71,10 +71,15 @@
         "description": "Naprawia roboty, które zepsuły się w systemach wodnych. Można go znaleźć w stawach wokół Wenus.",
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Tynk"
     },
+    "uk": {
+        "item_name": "Лагодник",
+        "description": "Лагодить пошкоджену робототехніку в аквасисемах. Трапляється в ставках Венери.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Tink"
+    },
     "subtypes": [
-        "small",
-        "medium",
-        "large"
+        "basic",
+        "adorned",
+        "magnificent"
     ],
     "trading_tax": 2000
 }

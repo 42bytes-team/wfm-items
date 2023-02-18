@@ -49,7 +49,7 @@
     },
     "zh-hant": {
         "item_name": "蛻變效率",
-        "description": "護盾啟用時：每秒獲得 6% 技能持續時間，最多提升 36% 賦能復活次數 +1",
+        "description": "護盾啟用時：每秒獲得 6% 技能持續時間，最多增加 36%\n賦能復活次數 +1",
         "wiki_link": null
     },
     "es": {
@@ -65,6 +65,11 @@
     "pl": {
         "item_name": "Wzrost Wydajności",
         "description": "Gdy Tarcze są aktywne: Zyskaj 6% Czasu trwania umiejętności na sekundę, aż do maks. 36% +1 Wskrzeszenie Arkanum",
+        "wiki_link": null
+    },
+    "uk": {
+        "item_name": "Дієвість Линяння",
+        "description": "Поки діють щити: щосекунди на 6% збільшує тривалість дії здібності, максимум на 36%.\n+1 містичне зцілення.",
         "wiki_link": null
     },
     "rarity": "rare",

@@ -50,7 +50,7 @@
     },
     "zh-hant": {
         "item_name": "汲能釋放",
-        "description": "100% 的機率使下一次施放技能的強度提升 50%",
+        "description": "100% 的機率使下一次施放技能的強度增加 50%",
         "wiki_link": null
     },
     "es": {
@@ -66,6 +66,11 @@
     "pl": {
         "item_name": "Drenaż Mocy",
         "description": "100% szansy na uzyskanie +50% Siły Umiejętności dla następnej użytej umiejętności",
+        "wiki_link": null
+    },
+    "uk": {
+        "item_name": "Витягування Енергії",
+        "description": "100% до ймовірності отримати +50% до потужності наступної здібності.",
         "wiki_link": null
     },
     "rarity": "uncommon",

@@ -71,10 +71,15 @@
         "description": "Ułatwia komunikację na duże odległości między robotami wdrażanymi w systemach wodnych. Można go znaleźć w zbiornikach wodnych i w jaskiniach na Wenus.",
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Monter"
     },
+    "uk": {
+        "item_name": "Транслятка",
+        "description": "Спрощує дальню комунікацію між механізмами в аквасистемі. Трапляється в ставках Венери.",
+        "wiki_link": "https://warframe.fandom.com/wiki/Recaster"
+    },
     "subtypes": [
-        "small",
-        "medium",
-        "large"
+        "basic",
+        "adorned",
+        "magnificent"
     ],
     "trading_tax": 2000
 }
