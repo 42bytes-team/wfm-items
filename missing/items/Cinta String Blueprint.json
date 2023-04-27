@@ -1,0 +1,86 @@
+{
+    "tags": [
+        "component",
+        "weapon",
+        "blueprint"
+    ],
+    "icon": "items/icons/DaxDuviriAsymmetricalLongBow.png",
+    "sub_icon": "sub_icons/weapon/generic_string_128x128.png",
+    "url_name": "cinta_string_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/DaxDuviriAsymmetricalLongBowStringBlueprint"
+    },
+    "part_of_set": [
+        "cinta_set",
+        "cinta_string_blueprint",
+        "cinta_grip_blueprint",
+        "cinta_upper_limb_blueprint",
+        "cinta_lower_limb_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Cinta String Blueprint",
+        "description": "A weapon-crafting component.",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Синта: Тетива (Чертеж)",
+        "description": "Компонент оружия.",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "신타 스트링 설계도",
+        "description": "무기 제작 부품입니다.",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Cinta: Sehne Blaupause",
+        "description": "Eine Komponente für die Herstellung von Waffen.",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Cinta - Corde (Schéma)",
+        "description": "Un composant servant à la fabrication d'armes.",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Cinta: Cordão (Diagrama)",
+        "description": "Um componente de fabricação de armas.",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "遂心 弓弦 蓝图",
+        "description": "一个武器的制作部件。",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "如意弓弦 藍圖",
+        "description": "製作武器的部件。",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Plano de Cuerda De Cinta",
+        "description": "Un componente de fabricación de arma.",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Cinta - Corda (Schema)",
+        "description": "Un componente per la costruzione di un'arma.",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Cinta: Cięciwa - Schemat",
+        "description": "Element wytwarzania Broni.",
+        "wiki_link": null
+    },
+    "uk": {
+        "item_name": "Цінта: Тятива (креслення)",
+        "description": "Деталь зброї.",
+        "wiki_link": null
+    },
+    "mastery_level": 6,
+    "trading_tax": 2000,
+    "subtypes": ["crafted", "blueprint"]
+}

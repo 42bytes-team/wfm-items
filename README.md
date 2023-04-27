@@ -55,7 +55,7 @@ From a remote source:
 `"icon": "https://vignette.wikia.nocookie.net/warframe/images/6/6d/Hind.png"`
 
 From the icon folder:  
-`"icon": "icons/<icon_file>"`
+`"icon": "items/icons/<icon_file>"`
 
 ## File structure
 
