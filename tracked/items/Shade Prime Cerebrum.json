@@ -1,0 +1,88 @@
+{
+    "_id": "641263e07d179f02100c6d48",
+    "tags": [
+        "component",
+        "weapon",
+        "prime"
+    ],
+    "icon": "items/images/en/shade_prime_cerebrum.d4376af3d68e873e85f81f456c83b261.png",
+    "thumb": "items/images/en/thumbs/shade_prime_cerebrum.d4376af3d68e873e85f81f456c83b261.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/weapon/prime_cerebrum_128x128.png",
+    "url_name": "shade_prime_cerebrum",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeCerebrum"
+    },
+    "part_of_set": [
+        "shade_prime_blueprint",
+        "shade_prime_carapace",
+        "shade_prime_cerebrum",
+        "shade_prime_set",
+        "shade_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "en": {
+        "item_name": "Shade Prime Cerebrum",
+        "description": "A prime sentinel-crafting component.",
+        "wiki_link": null
+    },
+    "ru": {
+        "item_name": "Шейд Прайм: Мозг",
+        "description": "Прайм-компонент стража.",
+        "wiki_link": null
+    },
+    "ko": {
+        "item_name": "셰이드 프라임 세레브럼",
+        "description": "프라임 센티넬 제작 부품입니다.",
+        "wiki_link": null
+    },
+    "de": {
+        "item_name": "Shade Prime: Cerebrum",
+        "description": "Eine Komponente für die Herstellung von Prime Wächtern.",
+        "wiki_link": null
+    },
+    "fr": {
+        "item_name": "Shade Prime - Cerveau",
+        "description": "Un composant servant à la fabrication de sentinelles Prime.",
+        "wiki_link": null
+    },
+    "pt": {
+        "item_name": "Shade Prime: Cérebro",
+        "description": "Um componente de fabricação de sentinelas Prime.",
+        "wiki_link": null
+    },
+    "zh-hans": {
+        "item_name": "阴影 Prime 头部",
+        "description": "一个 Prime 守护的制作部件。",
+        "wiki_link": null
+    },
+    "zh-hant": {
+        "item_name": "陰影 Prime 頭部",
+        "description": "製作 Prime 守護的部件。",
+        "wiki_link": null
+    },
+    "es": {
+        "item_name": "Cerebro De Shade Prime",
+        "description": "Un componente de fabricación de centinela prime.",
+        "wiki_link": null
+    },
+    "it": {
+        "item_name": "Shade Prime - Cervello",
+        "description": "Un componente Prime per la costruzione di una sentinella.",
+        "wiki_link": null
+    },
+    "pl": {
+        "item_name": "Shade Prime: Mózg",
+        "description": "Element wytwarzania Strażników Prime.",
+        "wiki_link": null
+    },
+    "uk": {
+        "item_name": "Тінь-прайм: Мозок",
+        "description": "Деталь прайм-вартового.",
+        "wiki_link": null
+    },
+    "ducats": 15,
+    "trading_tax": 2000
+}
