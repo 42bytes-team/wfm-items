@@ -5,8 +5,8 @@
         "weapon",
         "prime"
     ],
-    "icon": "items/images/en/tenora_prime_barrel.193d6f74a7daf0e8184e145e275a34fc.png",
-    "thumb": "items/images/en/thumbs/tenora_prime_barrel.193d6f74a7daf0e8184e145e275a34fc.128x128.png",
+    "icon": "items/images/en/tenora_prime_barrel.cdda299ba3526be64a78df20883fd173.png",
+    "thumb": "items/images/en/thumbs/tenora_prime_barrel.cdda299ba3526be64a78df20883fd173.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
     "url_name": "tenora_prime_barrel",
@@ -15,11 +15,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TenoraPrimeBarrel"
     },
     "part_of_set": [
+        "tenora_prime_barrel",
         "tenora_prime_blueprint",
         "tenora_prime_receiver",
-        "tenora_prime_stock",
-        "tenora_prime_barrel",
-        "tenora_prime_set"
+        "tenora_prime_set",
+        "tenora_prime_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -79,7 +79,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Tenora_Prime"
     },
     "uk": {
-        "item_name": "Тенора-прайм: Ствол",
+        "item_name": "Тенора-Прайм: Ствол",
         "description": "Деталь прайм-зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Tenora_Prime"
     },

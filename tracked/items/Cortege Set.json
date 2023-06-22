@@ -6,8 +6,8 @@
         "weapon",
         "set"
     ],
-    "icon": "items/images/en/cortege_set.43d64ff76b4ba103ce70e49d1e3acc97.png",
-    "thumb": "items/images/en/thumbs/cortege_set.43d64ff76b4ba103ce70e49d1e3acc97.128x128.png",
+    "icon": "items/images/en/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.png",
+    "thumb": "items/images/en/thumbs/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.128x128.png",
     "icon_format": "land",
     "url_name": "cortege_set",
     "tradable": true,
@@ -18,8 +18,8 @@
     "part_of_set": [
         "cortege_barrel",
         "cortege_receiver",
-        "cortege_stock",
-        "cortege_set"
+        "cortege_set",
+        "cortege_stock"
     ],
     "set_root": true,
     "en": {
@@ -29,7 +29,7 @@
     },
     "ru": {
         "item_name": "Кортеж: Комплект",
-        "description": "Древнее оружие для Некрамехов, разработанное Энтрати. Основной режим огня высасывает жизненную энергию противника, накапливая заряд для разрушительного вторичного режима огня. Тяжелый огнемет с внушительной дальностью поражения. Вторичный режим огня запускает три снаряда по схеме веер, которые взрываются, нанося урон по области в течение короткого периода времени.",
+        "description": "Древнее оружие для некрамехов, разработанное Энтрати. Основной режим огня высасывает жизненную энергию противника, накапливая заряд для разрушительного вторичного режима огня. Тяжёлый огнемёт с внушительной дальностью поражения. Вторичный режим огня запускает три снаряда по схеме веер, которые взрываются, нанося урон по области в течение короткого периода времени.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D1%82%D0%B5%D0%B6"
     },
     "ko": {

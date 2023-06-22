@@ -5,8 +5,8 @@
         "weapon",
         "prime"
     ],
-    "icon": "items/images/en/karyst_prime_handle.58e91b0780bc7f80077c7f08b6b55104.png",
-    "thumb": "items/images/en/thumbs/karyst_prime_handle.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
+    "icon": "items/images/en/karyst_prime_handle.4ac2616227b5e4e2e42e44473acf9a91.png",
+    "thumb": "items/images/en/thumbs/karyst_prime_handle.4ac2616227b5e4e2e42e44473acf9a91.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
     "url_name": "karyst_prime_handle",
@@ -15,10 +15,10 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/KarystPrimeHandle"
     },
     "part_of_set": [
-        "karyst_prime_set",
-        "karyst_prime_handle",
+        "karyst_prime_blade",
         "karyst_prime_blueprint",
-        "karyst_prime_blade"
+        "karyst_prime_handle",
+        "karyst_prime_set"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Karyst_Prime"
     },
     "uk": {
-        "item_name": "Карист-прайм: Руків’я",
+        "item_name": "Карист-Прайм: Руків’я",
         "description": "Деталь прайм-зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime"
     },

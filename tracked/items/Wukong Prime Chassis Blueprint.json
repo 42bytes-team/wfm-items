@@ -16,11 +16,11 @@
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeChassisBlueprint"
     },
     "part_of_set": [
-        "wukong_prime_set",
-        "wukong_prime_chassis",
         "wukong_prime_blueprint",
-        "wukong_prime_systems",
-        "wukong_prime_neuroptics"
+        "wukong_prime_chassis",
+        "wukong_prime_neuroptics",
+        "wukong_prime_set",
+        "wukong_prime_systems"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -80,7 +80,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Wukong_Prime"
     },
     "uk": {
-        "item_name": "Вукон-прайм: Каркас (креслення)",
+        "item_name": "Вукон-Прайм: Каркас (креслення)",
         "description": "Деталі каркаса для ворфрейма Вукона-прайм.",
         "wiki_link": "https://warframe.fandom.com/wiki/Wukong_Prime"
     },

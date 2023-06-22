@@ -6,8 +6,8 @@
         "set",
         "melee"
     ],
-    "icon": "items/images/en/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.png",
-    "thumb": "items/images/en/thumbs/karyst_prime_set.58e91b0780bc7f80077c7f08b6b55104.128x128.png",
+    "icon": "items/images/en/karyst_prime_set.4ac2616227b5e4e2e42e44473acf9a91.png",
+    "thumb": "items/images/en/thumbs/karyst_prime_set.4ac2616227b5e4e2e42e44473acf9a91.128x128.png",
     "icon_format": "land",
     "url_name": "karyst_prime_set",
     "tradable": true,
@@ -16,10 +16,10 @@
         "type": "set"
     },
     "part_of_set": [
-        "karyst_prime_set",
-        "karyst_prime_handle",
+        "karyst_prime_blade",
         "karyst_prime_blueprint",
-        "karyst_prime_blade"
+        "karyst_prime_handle",
+        "karyst_prime_set"
     ],
     "set_root": true,
     "en": {
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Karyst_Prime"
     },
     "uk": {
-        "item_name": "Карист-прайм (комплект)",
+        "item_name": "Карист-Прайм (комплект)",
         "description": "Цей майстерно зроблений кинджал — важча, більша й смертоносніша версія зброї зниклого ордену Тенно-асасинів.",
         "wiki_link": "https://warframe.fandom.com/wiki/Karyst_Prime"
     },

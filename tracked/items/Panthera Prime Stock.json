@@ -5,8 +5,8 @@
         "weapon",
         "prime"
     ],
-    "icon": "items/images/en/panthera_prime_stock.980cf8bd4a4edde8d3af901ef3fad4cf.png",
-    "thumb": "items/images/en/thumbs/panthera_prime_stock.980cf8bd4a4edde8d3af901ef3fad4cf.128x128.png",
+    "icon": "items/images/en/panthera_prime_stock.7a4ebdc3f85ef877a6ffce8790660e30.png",
+    "thumb": "items/images/en/thumbs/panthera_prime_stock.7a4ebdc3f85ef877a6ffce8790660e30.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
     "url_name": "panthera_prime_stock",
@@ -15,11 +15,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PantheraPrimeStock"
     },
     "part_of_set": [
-        "panthera_prime_set",
-        "panthera_prime_stock",
         "panthera_prime_barrel",
+        "panthera_prime_blueprint",
         "panthera_prime_receiver",
-        "panthera_prime_blueprint"
+        "panthera_prime_set",
+        "panthera_prime_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -79,7 +79,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Panthera_Prime"
     },
     "uk": {
-        "item_name": "Пантера-прайм: Ложе",
+        "item_name": "Пантера-Прайм: Ложе",
         "description": "Деталь прайм-зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Panthera_Prime"
     },

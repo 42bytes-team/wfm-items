@@ -16,10 +16,10 @@
         "type": "set"
     },
     "part_of_set": [
-        "tekko_prime_set",
-        "tekko_prime_gauntlet",
         "tekko_prime_blade",
-        "tekko_prime_blueprint"
+        "tekko_prime_blueprint",
+        "tekko_prime_gauntlet",
+        "tekko_prime_set"
     ],
     "set_root": true,
     "en": {
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Tekko_Prime"
     },
     "uk": {
-        "item_name": "Текко-прайм (комплект)",
+        "item_name": "Текко-Прайм (комплект)",
         "description": "Нещадні й незламні кастети, мов сам Атлас-прайм. Трощать ворога з тектонічною силою.",
         "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime"
     },

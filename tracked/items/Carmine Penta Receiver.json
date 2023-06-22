@@ -14,11 +14,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/CarminePentaReceiver"
     },
     "part_of_set": [
-        "carmine_penta_receiver",
-        "carmine_penta_stock",
         "carmine_penta_barrel",
         "carmine_penta_blueprint",
-        "carmine_penta_set"
+        "carmine_penta_receiver",
+        "carmine_penta_set",
+        "carmine_penta_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Penta_Carmine"
     },
     "uk": {
-        "item_name": "Пента-кармін: Ствольна Коробка",
+        "item_name": "Пента-Кармін: Ствольна Коробка",
         "description": "Деталь зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
     },

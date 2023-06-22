@@ -5,8 +5,8 @@
         "weapon",
         "prime"
     ],
-    "icon": "items/images/en/astilla_prime_barrel.4ae0614ec9d624474bfa16aa30e954c7.png",
-    "thumb": "items/images/en/thumbs/astilla_prime_barrel.4ae0614ec9d624474bfa16aa30e954c7.128x128.png",
+    "icon": "items/images/en/astilla_prime_barrel.4bad71b95376c38d100a5d8caa581266.png",
+    "thumb": "items/images/en/thumbs/astilla_prime_barrel.4bad71b95376c38d100a5d8caa581266.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
     "url_name": "astilla_prime_barrel",
@@ -15,11 +15,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AstillaPrimeBarrel"
     },
     "part_of_set": [
+        "astilla_prime_barrel",
         "astilla_prime_blueprint",
         "astilla_prime_receiver",
-        "astilla_prime_barrel",
-        "astilla_prime_stock",
-        "astilla_prime_set"
+        "astilla_prime_set",
+        "astilla_prime_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -79,7 +79,7 @@
         "wiki_link": null
     },
     "uk": {
-        "item_name": "Астіла-прайм: Ствол",
+        "item_name": "Астіла-Прайм: Ствол",
         "description": "Деталь прайм-зброї.",
         "wiki_link": null
     },

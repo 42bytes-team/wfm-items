@@ -6,8 +6,8 @@
         "primary",
         "blueprint"
     ],
-    "icon": "items/images/en/astilla_prime_blueprint.4ae0614ec9d624474bfa16aa30e954c7.png",
-    "thumb": "items/images/en/thumbs/astilla_prime_blueprint.4ae0614ec9d624474bfa16aa30e954c7.128x128.png",
+    "icon": "items/images/en/astilla_prime_blueprint.4bad71b95376c38d100a5d8caa581266.png",
+    "thumb": "items/images/en/thumbs/astilla_prime_blueprint.4bad71b95376c38d100a5d8caa581266.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/blueprint_128x128.png",
     "url_name": "astilla_prime_blueprint",
@@ -16,11 +16,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/AstillaPrimeBlueprint"
     },
     "part_of_set": [
+        "astilla_prime_barrel",
         "astilla_prime_blueprint",
         "astilla_prime_receiver",
-        "astilla_prime_barrel",
-        "astilla_prime_stock",
-        "astilla_prime_set"
+        "astilla_prime_set",
+        "astilla_prime_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -80,7 +80,7 @@
         "wiki_link": null
     },
     "uk": {
-        "item_name": "Астіла-прайм (креслення)",
+        "item_name": "Астіла-Прайм (креслення)",
         "description": "Визначна рушниця Ґари у своїй найліпшій формі. Стріляє вибуховими скляними снарядами, що шматують ворогів.",
         "wiki_link": null
     },

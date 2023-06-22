@@ -15,11 +15,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TiberonPrimeBarrel"
     },
     "part_of_set": [
-        "tiberon_prime_set",
-        "tiberon_prime_blueprint",
         "tiberon_prime_barrel",
-        "tiberon_prime_stock",
-        "tiberon_prime_receiver"
+        "tiberon_prime_blueprint",
+        "tiberon_prime_receiver",
+        "tiberon_prime_set",
+        "tiberon_prime_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -79,7 +79,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Tiberon_Prime"
     },
     "uk": {
-        "item_name": "Тіберон-прайм: Ствол",
+        "item_name": "Тіберон-Прайм: Ствол",
         "description": "Деталь прайм-зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Tiberon_Prime"
     },

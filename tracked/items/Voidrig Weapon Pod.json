@@ -13,11 +13,11 @@
         "uniq_name": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem"
     },
     "part_of_set": [
-        "voidrig_casing",
         "voidrig_capsule",
+        "voidrig_casing",
         "voidrig_engine",
-        "voidrig_weapon_pod",
-        "voidrig_set"
+        "voidrig_set",
+        "voidrig_weapon_pod"
     ],
     "set_root": false,
     "en": {
@@ -41,7 +41,7 @@
         "wiki_link": "https://warframe.fandom.com/de/wiki/Void"
     },
     "fr": {
-        "item_name": "Voidrig - Nacelle D'armes",
+        "item_name": "Voidrig - Nacelle D'Armes",
         "description": "Le composant Nacelle d'arme du Necramech Voidrig.",
         "wiki_link": "https://warframe.fandom.com/fr/wiki/Voidrig"
     },

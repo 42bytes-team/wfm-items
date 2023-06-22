@@ -15,10 +15,10 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/KogakePrimeGauntlet"
     },
     "part_of_set": [
-        "kogake_prime_set",
-        "kogake_prime_boot",
         "kogake_prime_blueprint",
-        "kogake_prime_gauntlet"
+        "kogake_prime_boot",
+        "kogake_prime_gauntlet",
+        "kogake_prime_set"
     ],
     "set_root": false,
     "quantity_for_set": 2,
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Kogake_Prime"
     },
     "uk": {
-        "item_name": "Коґаке-прайм: Рукавиця",
+        "item_name": "Коґаке-Прайм: Рукавиця",
         "description": "Деталь прайм-зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Kogake_Prime"
     },

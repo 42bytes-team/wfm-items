@@ -15,11 +15,11 @@
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeBlueprint"
     },
     "part_of_set": [
-        "mirage_prime_set",
-        "mirage_prime_systems",
         "mirage_prime_blueprint",
         "mirage_prime_chassis",
-        "mirage_prime_neuroptics"
+        "mirage_prime_neuroptics",
+        "mirage_prime_set",
+        "mirage_prime_systems"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -79,7 +79,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Mirage_Prime"
     },
     "uk": {
-        "item_name": "Міраж-прайм (креслення)",
+        "item_name": "Міраж-Прайм (креслення)",
         "description": "Золотиста майстриня ілюзій і хаосу, що заплутує ворогів. Має змінені полярності комірок модифікаторів задля гнучкості удосконалення.",
         "wiki_link": "https://warframe.fandom.com/wiki/Mirage_Prime"
     },

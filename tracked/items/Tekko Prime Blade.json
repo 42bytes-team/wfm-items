@@ -15,10 +15,10 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TekkoPrimeBlade"
     },
     "part_of_set": [
-        "tekko_prime_set",
-        "tekko_prime_gauntlet",
         "tekko_prime_blade",
-        "tekko_prime_blueprint"
+        "tekko_prime_blueprint",
+        "tekko_prime_gauntlet",
+        "tekko_prime_set"
     ],
     "set_root": false,
     "quantity_for_set": 2,
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Tekko_Prime"
     },
     "uk": {
-        "item_name": "Текко-прайм: Клинок",
+        "item_name": "Текко-Прайм: Клинок",
         "description": "Деталь прайм-зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Tekko_Prime"
     },

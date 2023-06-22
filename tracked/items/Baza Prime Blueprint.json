@@ -16,11 +16,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/BazaPrimeBlueprint"
     },
     "part_of_set": [
-        "baza_prime_set",
-        "baza_prime_blueprint",
-        "baza_prime_stock",
         "baza_prime_barrel",
-        "baza_prime_receiver"
+        "baza_prime_blueprint",
+        "baza_prime_receiver",
+        "baza_prime_set",
+        "baza_prime_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -80,7 +80,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Baza_Prime"
     },
     "uk": {
-        "item_name": "База-прайм (креслення)",
+        "item_name": "База-Прайм (креслення)",
         "description": "Класична швидкострільна гвинтівка орокінського виготовлення, втілює визначення тихої та влучної смертельної небезпеки.",
         "wiki_link": "https://warframe.fandom.com/wiki/Baza_Prime"
     },

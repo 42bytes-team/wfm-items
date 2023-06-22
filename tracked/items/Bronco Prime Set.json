@@ -16,10 +16,10 @@
         "type": "set"
     },
     "part_of_set": [
-        "bronco_prime_set",
         "bronco_prime_barrel",
         "bronco_prime_blueprint",
-        "bronco_prime_receiver"
+        "bronco_prime_receiver",
+        "bronco_prime_set"
     ],
     "set_root": true,
     "en": {
@@ -44,7 +44,7 @@
     },
     "fr": {
         "item_name": "Bronco Prime - Set",
-        "description": "Le Bronco Prime est une arme très efficace enrichie d'alliages Orokin. Le chargeur et les dégâts améliorés sont contrebalancés par une cadence de tir plus faible.",
+        "description": "Le Bronco Prime est une arme très efficace enrichie d'alliages Orokins rares. Le chargeur et les dégâts améliorés sont contrebalancés par une cadence de tir plus faible.",
         "wiki_link": "https://warframe.fandom.com/fr/wiki/Bronco_Prime"
     },
     "pt": {
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Bronco_Prime"
     },
     "uk": {
-        "item_name": "Бронко-прайм (комплект)",
+        "item_name": "Бронко-Прайм (комплект)",
         "description": "Модифікована версія пістолета-гармати «Бронко». Створений із рідкісних орокінських сплавів. Має збільшену шкоду та місткість магазину, але поступається швидкострільністю.",
         "wiki_link": "https://warframe.fandom.com/wiki/Bronco_Prime"
     },

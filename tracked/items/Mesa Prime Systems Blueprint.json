@@ -16,11 +16,11 @@
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/MesaPrimeSystemsBlueprint"
     },
     "part_of_set": [
-        "mesa_prime_set",
-        "mesa_prime_neuroptics",
         "mesa_prime_blueprint",
-        "mesa_prime_systems",
-        "mesa_prime_chassis"
+        "mesa_prime_chassis",
+        "mesa_prime_neuroptics",
+        "mesa_prime_set",
+        "mesa_prime_systems"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -80,7 +80,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Mesa_Prime"
     },
     "uk": {
-        "item_name": "Меса-прайм: Системи (креслення)",
+        "item_name": "Меса-Прайм: Системи (креслення)",
         "description": "Деталі систем для ворфрейма Меси-прайм.",
         "wiki_link": "https://warframe.fandom.com/wiki/Mesa_Prime"
     },

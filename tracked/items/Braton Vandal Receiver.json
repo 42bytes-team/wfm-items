@@ -14,11 +14,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/BratonVandalReceiver"
     },
     "part_of_set": [
-        "braton_vandal_set",
         "braton_vandal_barrel",
+        "braton_vandal_blueprint",
         "braton_vandal_receiver",
-        "braton_vandal_stock",
-        "braton_vandal_blueprint"
+        "braton_vandal_set",
+        "braton_vandal_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Braton_Vandal"
     },
     "uk": {
-        "item_name": "Братон-вандал: Ствольна Коробка",
+        "item_name": "Братон-Вандал: Ствольна Коробка",
         "description": "Деталь зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Braton_Vandal"
     },

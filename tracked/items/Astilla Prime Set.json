@@ -6,8 +6,8 @@
         "set",
         "primary"
     ],
-    "icon": "items/images/en/astilla_prime_set.4ae0614ec9d624474bfa16aa30e954c7.png",
-    "thumb": "items/images/en/thumbs/astilla_prime_set.4ae0614ec9d624474bfa16aa30e954c7.128x128.png",
+    "icon": "items/images/en/astilla_prime_set.4bad71b95376c38d100a5d8caa581266.png",
+    "thumb": "items/images/en/thumbs/astilla_prime_set.4bad71b95376c38d100a5d8caa581266.128x128.png",
     "icon_format": "land",
     "url_name": "astilla_prime_set",
     "tradable": true,
@@ -16,11 +16,11 @@
         "type": "set"
     },
     "part_of_set": [
+        "astilla_prime_barrel",
         "astilla_prime_blueprint",
         "astilla_prime_receiver",
-        "astilla_prime_barrel",
-        "astilla_prime_stock",
-        "astilla_prime_set"
+        "astilla_prime_set",
+        "astilla_prime_stock"
     ],
     "set_root": true,
     "en": {
@@ -79,7 +79,7 @@
         "wiki_link": null
     },
     "uk": {
-        "item_name": "Астіла-прайм (комплект)",
+        "item_name": "Астіла-Прайм (комплект)",
         "description": "Визначна рушниця Ґари у своїй найліпшій формі. Стріляє вибуховими скляними снарядами, що шматують ворогів.",
         "wiki_link": null
     },

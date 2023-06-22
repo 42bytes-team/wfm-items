@@ -15,10 +15,10 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/LatoVandalBlueprint"
     },
     "part_of_set": [
-        "lato_vandal_set",
-        "lato_vandal_blueprint",
         "lato_vandal_barrel",
-        "lato_vandal_receiver"
+        "lato_vandal_blueprint",
+        "lato_vandal_receiver",
+        "lato_vandal_set"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Lato_Vandal"
     },
     "uk": {
-        "item_name": "Лато-вандал (креслення)",
+        "item_name": "Лато-Вандал (креслення)",
         "description": "Особлива модифікація звичайного пістолета «Лато». Має повільнішу швидкострільність, але збільшену шкоду й влучність. Пофарбована в синьо-зелений і прикрашена знаком Лотос на ложі.",
         "wiki_link": "https://warframe.fandom.com/wiki/Lato_Vandal"
     },

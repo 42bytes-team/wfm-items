@@ -15,11 +15,11 @@
         "type": "set"
     },
     "part_of_set": [
-        "limbo_prime_set",
         "limbo_prime_blueprint",
+        "limbo_prime_chassis",
         "limbo_prime_neuroptics",
-        "limbo_prime_systems",
-        "limbo_prime_chassis"
+        "limbo_prime_set",
+        "limbo_prime_systems"
     ],
     "set_root": true,
     "en": {
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Limbo_Prime"
     },
     "uk": {
-        "item_name": "Лімбо-прайм (комплект)",
+        "item_name": "Лімбо-Прайм (комплект)",
         "description": "Золотосяйний мандрівник між вимірами. Має змінені полярності комірок модифікаторів задля гнучкості удосконалення.",
         "wiki_link": "https://warframe.fandom.com/wiki/Limbo_Prime"
     },

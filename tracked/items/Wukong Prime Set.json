@@ -15,11 +15,11 @@
         "type": "set"
     },
     "part_of_set": [
-        "wukong_prime_set",
-        "wukong_prime_chassis",
         "wukong_prime_blueprint",
-        "wukong_prime_systems",
-        "wukong_prime_neuroptics"
+        "wukong_prime_chassis",
+        "wukong_prime_neuroptics",
+        "wukong_prime_set",
+        "wukong_prime_systems"
     ],
     "set_root": true,
     "en": {
@@ -29,7 +29,7 @@
     },
     "ru": {
         "item_name": "Вуконг Прайм: Комплект",
-        "description": "Воин-трикстер в своем мощнейшем воплощении.",
+        "description": "Воин-трикстер в своём мощнейшем воплощении.",
         "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%83%D0%BA%D0%BE%D0%BD%D0%B3_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
     },
     "ko": {
@@ -78,7 +78,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Wukong_Prime"
     },
     "uk": {
-        "item_name": "Вукон-прайм (комплект)",
+        "item_name": "Вукон-Прайм (комплект)",
         "description": "Воїн, хитрун і спритник у найбездоганнішому своєму втіленні.",
         "wiki_link": "https://warframe.fandom.com/wiki/Wukong_Prime"
     },

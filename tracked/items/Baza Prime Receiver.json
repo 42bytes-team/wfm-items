@@ -15,11 +15,11 @@
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/BazaPrimeReceiver"
     },
     "part_of_set": [
-        "baza_prime_set",
-        "baza_prime_blueprint",
-        "baza_prime_stock",
         "baza_prime_barrel",
-        "baza_prime_receiver"
+        "baza_prime_blueprint",
+        "baza_prime_receiver",
+        "baza_prime_set",
+        "baza_prime_stock"
     ],
     "set_root": false,
     "quantity_for_set": 1,
@@ -79,7 +79,7 @@
         "wiki_link": "https://warframe.fandom.com/pl/wiki/Baza_Prime"
     },
     "uk": {
-        "item_name": "База-прайм: Ствольна Коробка",
+        "item_name": "База-Прайм: Ствольна Коробка",
         "description": "Деталь прайм-зброї.",
         "wiki_link": "https://warframe.fandom.com/wiki/Baza_Prime"
     },
