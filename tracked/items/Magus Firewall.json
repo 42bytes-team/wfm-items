@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/DamageReductionOnVoidMode"
     },
-    "en": {
-        "item_name": "Magus Firewall",
-        "description": "On Void Mode:\rGenerate Void Particles every 1s up to 6 particles, each granting 12.5% Damage Reduction for 60s. Taking damage consumes a particle.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Firewall"
-    },
-    "ru": {
-        "item_name": "Барьер Волхва",
-        "description": "В режиме бездны:\rКаждые 1с создаёт частицы Бездны, вплоть до 6 частиц, при этом каждая из них даёт 12.5% сопротивление урону на 60с. Получение урона расходует частицу.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D1%80%D1%8C%D0%B5%D1%80_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
-    },
-    "ko": {
-        "item_name": "마구스 파이어월",
-        "description": "보이드 모드 시:\r보이드 입자를 1초마다 최대 6개까지 생성합니다. 입자 하나당 12.5%의 피해 저항을 부여하며, 60초 동안 지속됩니다. 피해를 입을 시 입자 하나가 소모됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Firewall"
-    },
-    "de": {
-        "item_name": "Magus: Feuerwand",
-        "description": "Bei Void-Modus:\nGeneriert Void Partikel alle 1 s, bis zu einem Maximum von 6 Partikeln. Jeder verleiht 12.5 % Schadensreduktion für 60 s. Schaden zu nehmen verbraucht einen Partikel.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Firewall"
-    },
-    "fr": {
-        "item_name": "Magus Pare-Feu",
-        "description": "Sur Mode Néant:\rGénère une Particule du Néant toutes les 1s jusqu'à un maximum de 6, chacune offrant 12.5% de réduction de dégâts pour 60s. Subir des dégâts consomme une particule.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Pare-Feu"
-    },
-    "pt": {
-        "item_name": "Barreira Do Mago",
-        "description": "Ao ativar o Void Mode:\r6 Particulas do Void são Geradas a cada 1s, cada uma oferecendo 12.5% de Redução de Dano durante 60s. Receber dano consome uma particula.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Firewall"
-    },
-    "zh-hans": {
-        "item_name": "魔导·防火墙",
-        "description": "在虚空模式时：\n每 1 秒生成一颗虚空粒子，至多 6 颗。每颗粒子可获得 12.5% 伤害减免并持续 60秒。受到伤害时消耗一颗粒子。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Firewall"
-    },
-    "zh-hant": {
-        "item_name": "魔導防火牆",
-        "description": "在虛空模式時：\n每 1 秒生成一顆虛空粒子，最多 6 顆。每顆粒子可獲得 12.5% 傷害減免並持續 60 秒。受到傷害時將消耗一顆粒子。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Firewall"
-    },
-    "es": {
-        "item_name": "Muro De Fuego Del Mago",
-        "description": "En modo del vacío:\nGenera partículas del Vacío cada 1 s hasta 6 partículas, cada una otorgando 12.5 % de reducción de daño por 60 s. Recibir daño consume una partícula.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Muro_de_fuego_del_mago"
-    },
-    "it": {
-        "item_name": "Magus Firewall",
-        "description": "Durante la Modalità Void:\rGenera Particelle Void ogni 1s fino a 6 particelle, ognuna delle quali garantisce 12.5% riduzione del danno per 60s. Ricevere del danno consuma una particella.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Firewall"
-    },
-    "pl": {
-        "item_name": "Magus Zapory",
-        "description": "Podczas Trybu Pustki:\rCo 1s wygeneruje Cząstkę Pustki, do maksymalnej ilości 6. Każda cząstka zapewnia 12.5% Redukcji Obrażeń i trwa przez 60s. Otrzymanie obrażeń zużywa jedną cząstkę.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_%C5%9Aciany-Ognia"
-    },
-    "uk": {
-        "item_name": "Маґус «Заслін»",
-        "description": "У разі переходу в Порожнечу:\nКожні 1 с генерує до 6 часток Порожнечі, кожна з яких дає 12.5% до опору шкоді на 60 с. Отримання шкоди забирає частку.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Firewall"
+    "i18n": {
+        "en": {
+            "item_name": "Magus Firewall",
+            "description": "On Void Mode:\rGenerate Void Particles every 1s up to 6 particles, each granting 12.5% Damage Reduction for 60s. Taking damage consumes a particle.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Firewall",
+            "icon": "items/images/en/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.png",
+            "thumb": "items/images/en/thumbs/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.128x128.png"
+        },
+        "ru": {
+            "item_name": "Барьер Волхва",
+            "description": "В режиме бездны:\rКаждые 1с создаёт частицы Бездны, вплоть до 6 частиц, при этом каждая из них даёт 12.5% сопротивление урону на 60с. Получение урона расходует частицу.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D1%80%D1%8C%D0%B5%D1%80_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
+        },
+        "ko": {
+            "item_name": "마구스 파이어월",
+            "description": "보이드 모드 시:\r보이드 입자를 1초마다 최대 6개까지 생성합니다. 입자 하나당 12.5%의 피해 저항을 부여하며, 60초 동안 지속됩니다. 피해를 입을 시 입자 하나가 소모됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Firewall"
+        },
+        "de": {
+            "item_name": "Magus: Feuerwand",
+            "description": "Bei Void-Modus:\nGeneriert Void Partikel alle 1 s, bis zu einem Maximum von 6 Partikeln. Jeder verleiht 12.5 % Schadensreduktion für 60 s. Schaden zu nehmen verbraucht einen Partikel.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magus_Firewall"
+        },
+        "fr": {
+            "item_name": "Magus Pare-Feu",
+            "description": "Sur Mode Néant:\rGénère une Particule du Néant toutes les 1s jusqu'à un maximum de 6, chacune offrant 12.5% de réduction de dégâts pour 60s. Subir des dégâts consomme une particule.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Pare-Feu"
+        },
+        "pt": {
+            "item_name": "Barreira Do Mago",
+            "description": "Ao ativar o Void Mode:\r6 Particulas do Void são Geradas a cada 1s, cada uma oferecendo 12.5% de Redução de Dano durante 60s. Receber dano consome uma particula.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magus_Firewall"
+        },
+        "zh-hans": {
+            "item_name": "魔导·防火墙",
+            "description": "在虚空模式时：\n每 1 秒生成一颗虚空粒子，至多 6 颗。每颗粒子可获得 12.5% 伤害减免并持续 60秒。受到伤害时消耗一颗粒子。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Firewall"
+        },
+        "zh-hant": {
+            "item_name": "魔導防火牆",
+            "description": "在虛空模式時：\n每 1 秒生成一顆虛空粒子，最多 6 顆。每顆粒子可獲得 12.5% 傷害減免並持續 60 秒。受到傷害時將消耗一顆粒子。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Firewall"
+        },
+        "es": {
+            "item_name": "Muro De Fuego Del Mago",
+            "description": "En modo del vacío:\nGenera partículas del Vacío cada 1 s hasta 6 partículas, cada una otorgando 12.5 % de reducción de daño por 60 s. Recibir daño consume una partícula.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Muro_de_fuego_del_mago"
+        },
+        "it": {
+            "item_name": "Magus Firewall",
+            "description": "Durante la Modalità Void:\rGenera Particelle Void ogni 1s fino a 6 particelle, ognuna delle quali garantisce 12.5% riduzione del danno per 60s. Ricevere del danno consuma una particella.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magus_Firewall"
+        },
+        "pl": {
+            "item_name": "Magus Zapory",
+            "description": "Podczas Trybu Pustki:\rCo 1s wygeneruje Cząstkę Pustki, do maksymalnej ilości 6. Każda cząstka zapewnia 12.5% Redukcji Obrażeń i trwa przez 60s. Otrzymanie obrażeń zużywa jedną cząstkę.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_%C5%9Aciany-Ognia"
+        },
+        "uk": {
+            "item_name": "Маґус «Заслін»",
+            "description": "У разі переходу в Порожнечу:\nКожні 1 с генерує до 6 часток Порожнечі, кожна з яких дає 12.5% до опору шкоді на 60 с. Отримання шкоди забирає частку.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Firewall"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

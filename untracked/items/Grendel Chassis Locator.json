@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": null
     },
-    "en": {
-        "item_name": "Grendel Chassis Locator",
-        "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
-    },
-    "ru": {
-        "item_name": "Локатор: Каркас Гренделя",
-        "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
-    },
-    "ko": {
-        "item_name": "그렌델 섀시 로케이터",
-        "description": "그렌델 섀시 로케이터는 15 웨이브 방어 미션인 리다의 빙원을 해금합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
-    },
-    "de": {
-        "item_name": "Detektor: Grendel Chassis",
-        "description": "Der Grendel Chassis Detector schaltet das Eisfeld von Riddah, eine 15-Wellen-Verteidigungsmission, frei.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Grendel"
-    },
-    "fr": {
-        "item_name": "Grendel Chassis Locator",
-        "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
-    },
-    "pt": {
-        "item_name": "Grendel Chassis Locator",
-        "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
-    },
-    "zh-hans": {
-        "item_name": "Grendel 机体定位装置",
-        "description": "揭示欧罗巴星球上有可能存在Grendel部件蓝图的所在地",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Grendel"
-    },
-    "zh-hant": {
-        "item_name": "Grendel 機體定位裝置",
-        "description": "揭示歐羅巴星球上有可能存在Grendel部件藍圖的所在地。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Grendel"
-    },
-    "es": {
-        "item_name": "Localizador de chasis de Grendel",
-        "description": "El localizador de chasis Grendel desbloquea los campos de hielo de Riddah, una mision de defensa de 15 rondas.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Grendel/Habilidades"
-    },
-    "it": {
-        "item_name": "Grendel Chassis Locator",
-        "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
-    },
-    "pl": {
-        "item_name": "Grendel Chassis Locator",
-        "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
-    },
-    "uk": {
-        "item_name": "Ґрендель: каркас — координати",
-        "description": "Викриває місця на Європі, де, імовірно, розташовані креслення частин до ворфрейма Ґрендель. Відкриває завдання «Крижані поля Рідди» (оборона, 15 хвиль).",
-        "wiki_link": "https://warframe.fandom.com/uk/wiki/Ґрендель"
+    "i18n": {
+        "en": {
+            "item_name": "Grendel Chassis Locator",
+            "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Grendel",
+            "icon": "items/images/en/grendel_chassis_locator.3151b210788d44e935bbf361a9ccef80.png",
+            "thumb": "items/images/en/thumbs/grendel_chassis_locator.3151b210788d44e935bbf361a9ccef80.128x128.png"
+        },
+        "ru": {
+            "item_name": "Локатор: Каркас Гренделя",
+            "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
+        },
+        "ko": {
+            "item_name": "그렌델 섀시 로케이터",
+            "description": "그렌델 섀시 로케이터는 15 웨이브 방어 미션인 리다의 빙원을 해금합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
+        },
+        "de": {
+            "item_name": "Detektor: Grendel Chassis",
+            "description": "Der Grendel Chassis Detector schaltet das Eisfeld von Riddah, eine 15-Wellen-Verteidigungsmission, frei.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Grendel"
+        },
+        "fr": {
+            "item_name": "Grendel Chassis Locator",
+            "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
+        },
+        "pt": {
+            "item_name": "Grendel Chassis Locator",
+            "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
+        },
+        "zh-hans": {
+            "item_name": "Grendel 机体定位装置",
+            "description": "揭示欧罗巴星球上有可能存在Grendel部件蓝图的所在地",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Grendel"
+        },
+        "zh-hant": {
+            "item_name": "Grendel 機體定位裝置",
+            "description": "揭示歐羅巴星球上有可能存在Grendel部件藍圖的所在地。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Grendel"
+        },
+        "es": {
+            "item_name": "Localizador de chasis de Grendel",
+            "description": "El localizador de chasis Grendel desbloquea los campos de hielo de Riddah, una mision de defensa de 15 rondas.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Grendel/Habilidades"
+        },
+        "it": {
+            "item_name": "Grendel Chassis Locator",
+            "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
+        },
+        "pl": {
+            "item_name": "Grendel Chassis Locator",
+            "description": "The Grendel Chassis Locator unlocks the Icefields of Riddah, a 15-wave Defense mission.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Grendel"
+        },
+        "uk": {
+            "item_name": "Ґрендель: каркас — координати",
+            "description": "Викриває місця на Європі, де, імовірно, розташовані креслення частин до ворфрейма Ґрендель. Відкриває завдання «Крижані поля Рідди» (оборона, 15 хвиль).",
+            "wiki_link": "https://warframe.fandom.com/uk/wiki/Ґрендель"
+        }
     },
     "trading_tax": 2000
 }

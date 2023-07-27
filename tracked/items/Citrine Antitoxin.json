@@ -11,65 +11,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin"
     },
-    "en": {
-        "item_name": "Citrine Antitoxin",
-        "description": "This is a moderately effective antitoxin.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Citrine_Antitoxin"
-    },
-    "ru": {
-        "item_name": "Антитоксин: Цитрин",
-        "description": "Это антитоксин средней эффективности.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BD"
-    },
-    "ko": {
-        "item_name": "시트린 안티톡신",
-        "description": "적당한 효과의 해독제입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Citrine_Antitoxin"
-    },
-    "de": {
-        "item_name": "Citrine Gegengift",
-        "description": "Dies ist ein mäßig effektives Gegengift.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Antitoxin_(Gear)"
-    },
-    "fr": {
-        "item_name": "Antitoxine Citrine",
-        "description": "Il s'agit d'une antitoxine moyennement efficace.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Antitoxine"
-    },
-    "pt": {
-        "item_name": "Antitoxina Citrino",
-        "description": "Esta é uma antitoxina moderadamente eficaz.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Antitoxina"
-    },
-    "zh-hans": {
-        "item_name": "黄水晶解毒剂",
-        "description": "这是一个比较有效的解毒剂。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Citrine_Antitoxin"
-    },
-    "zh-hant": {
-        "item_name": "黃水晶解毒劑",
-        "description": "這是一個比較有效的解毒劑。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Citrine_Antitoxin"
-    },
-    "es": {
-        "item_name": "Antitoxina Citrino",
-        "description": "Es una antitoxina moderadamente efectiva.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Antitoxina_Citrino"
-    },
-    "it": {
-        "item_name": "Antitossina Citrine",
-        "description": "Questa antitossina è moderatamente efficace.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Antitossine"
-    },
-    "pl": {
-        "item_name": "Antytoksyna Citrine",
-        "description": "Jest to umiarkowanie skuteczna antytoksyna.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Antytoksyna_Citrine"
-    },
-    "uk": {
-        "item_name": "Протиотрута «Цитрин»",
-        "description": "Помірна протиотрута.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Citrine_Antitoxin"
+    "i18n": {
+        "en": {
+            "item_name": "Citrine Antitoxin",
+            "description": "This is a moderately effective antitoxin.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Citrine_Antitoxin",
+            "icon": "items/images/en/citrine_antitoxin.effed3d566b5a242f37dc82985cbc83c.png",
+            "thumb": "items/images/en/thumbs/citrine_antitoxin.effed3d566b5a242f37dc82985cbc83c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Антитоксин: Цитрин",
+            "description": "Это антитоксин средней эффективности.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BD"
+        },
+        "ko": {
+            "item_name": "시트린 안티톡신",
+            "description": "적당한 효과의 해독제입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Citrine_Antitoxin"
+        },
+        "de": {
+            "item_name": "Citrine Gegengift",
+            "description": "Dies ist ein mäßig effektives Gegengift.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Antitoxin_(Gear)"
+        },
+        "fr": {
+            "item_name": "Antitoxine Citrine",
+            "description": "Il s'agit d'une antitoxine moyennement efficace.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Antitoxine"
+        },
+        "pt": {
+            "item_name": "Antitoxina Citrino",
+            "description": "Esta é uma antitoxina moderadamente eficaz.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Antitoxina"
+        },
+        "zh-hans": {
+            "item_name": "黄水晶解毒剂",
+            "description": "这是一个比较有效的解毒剂。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Citrine_Antitoxin"
+        },
+        "zh-hant": {
+            "item_name": "黃水晶解毒劑",
+            "description": "這是一個比較有效的解毒劑。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Citrine_Antitoxin"
+        },
+        "es": {
+            "item_name": "Antitoxina Citrino",
+            "description": "Es una antitoxina moderadamente efectiva.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Antitoxina_Citrino"
+        },
+        "it": {
+            "item_name": "Antitossina Citrine",
+            "description": "Questa antitossina è moderatamente efficace.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Antitossine"
+        },
+        "pl": {
+            "item_name": "Antytoksyna Citrine",
+            "description": "Jest to umiarkowanie skuteczna antytoksyna.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Antytoksyna_Citrine"
+        },
+        "uk": {
+            "item_name": "Протиотрута «Цитрин»",
+            "description": "Помірна протиотрута.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Citrine_Antitoxin"
+        }
     },
     "trading_tax": 2000
 }

@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Syndicates/SteelMeridian/Melee/SMSydon"
     },
-    "en": {
-        "item_name": "Vaykor Sydon",
-        "description": "Justice blinds. Block hits to charge a Radial Blind, when fully charged Block+Heavy Attack to unleash it.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vaykor_Sydon"
-    },
-    "ru": {
-        "item_name": "Вэйкор Сидон",
-        "description": "Правосудие ослепляет. Блокируйте удары для подготовки ослепляющего света, а при полной зарядке используйте комбинацию «блокировать + тяжелая атака», чтобы применить его.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8D%D0%B9%D0%BA%D0%BE%D1%80_%D1%81%D0%B8%D0%B4%D0%BE%D0%BD"
-    },
-    "ko": {
-        "item_name": "베이코어 사이돈",
-        "description": "정의는 그 찬란함으로 눈을 멀게 하는 법. 타격을 막을 시 레이디얼 블라인드를 충전하며, 완전히 충전될 시 막기+강 공격으로 발산시킬 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vaykor_Sydon"
-    },
-    "de": {
-        "item_name": "Vaykor Sydon",
-        "description": "Gerechtigkeit blendet. Blocke Schläge ab, um Radiale Blendung aufzuladen und wenn sie voll aufgeladen ist, drück Blocken + Schweren Angriff, um sie einzusetzen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Vaykor_Sydon"
-    },
-    "fr": {
-        "item_name": "Sydon Vaykor",
-        "description": "La justice aveugle. Bloquez des coups pour charger Aveuglement Radial, puis déclenchez-le en activant le Blocage combiné avec une Attaque Lourde.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sydon_Vaykor"
-    },
-    "pt": {
-        "item_name": "Sydon Vaykor",
-        "description": "Justiça cega. Bloqueie ataques para carregar um Radial Blind, quando totalmente carregado pressione o botão de Bloqueio+Ataque Pesado para liberar seu efeito.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vaykor_Sydon"
-    },
-    "zh-hans": {
-        "item_name": "勇气·恶龙",
-        "description": "（英文：Vaykor Sydon）正义会让人失明。每一次被格挡的攻击会为致盲充能，当充满时用格挡+重击来释放它。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaykor_Sydon"
-    },
-    "zh-hant": {
-        "item_name": "勇氣 惡龍",
-        "description": "（英文：VAYKOR SYDON）正義會蒙蔽雙目。每次所格擋的攻擊會為致盲充能，充滿時可使用格擋+重擊來釋放致盲。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaykor_Sydon"
-    },
-    "es": {
-        "item_name": "Sydon Vaykor",
-        "description": "La justicia ciega. Bloquea ataques para cargar un Destello radial, cuando esté totalmente cargado, pulsa bloquear + ataque pesado para liberarlo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sydon_Vaykor"
-    },
-    "it": {
-        "item_name": "Vaykor Sydon",
-        "description": "La giustizia acceca. Blocca i colpi per caricare un Accecamento Radiale, quando il caricamento è completo, premi Blocca+Attacco Pesante per liberarlo.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Vaykor_Sydon"
-    },
-    "pl": {
-        "item_name": "Sydon Vaykor",
-        "description": "Sprawiedliwość oślepia. Każdy zablokowany atak ładuje Obszarowe Oślepienie, kiedy ładunek będzie pełny, wyzwól go używając razem Bloku i Ciężkiego Ataku.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sydon_Vaykor"
-    },
-    "uk": {
-        "item_name": "Сейдон-Вейкор",
-        "description": "Тризуб, що уособлює сліпе правосуддя. Блокуйте влучання, щоби зарядити здібність «Променевий спалах» та застосуйте «Блок»+«Потужний удар», щоби застосувати її.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vaykor_Sydon"
+    "i18n": {
+        "en": {
+            "item_name": "Vaykor Sydon",
+            "description": "Justice blinds. Block hits to charge a Radial Blind, when fully charged Block+Heavy Attack to unleash it.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vaykor_Sydon",
+            "icon": "items/images/en/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.png",
+            "thumb": "items/images/en/thumbs/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.128x128.png"
+        },
+        "ru": {
+            "item_name": "Вэйкор Сидон",
+            "description": "Правосудие ослепляет. Блокируйте удары для подготовки ослепляющего света, а при полной зарядке используйте комбинацию «блокировать + тяжелая атака», чтобы применить его.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8D%D0%B9%D0%BA%D0%BE%D1%80_%D1%81%D0%B8%D0%B4%D0%BE%D0%BD"
+        },
+        "ko": {
+            "item_name": "베이코어 사이돈",
+            "description": "정의는 그 찬란함으로 눈을 멀게 하는 법. 타격을 막을 시 레이디얼 블라인드를 충전하며, 완전히 충전될 시 막기+강 공격으로 발산시킬 수 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vaykor_Sydon"
+        },
+        "de": {
+            "item_name": "Vaykor Sydon",
+            "description": "Gerechtigkeit blendet. Blocke Schläge ab, um Radiale Blendung aufzuladen und wenn sie voll aufgeladen ist, drück Blocken + Schweren Angriff, um sie einzusetzen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Vaykor_Sydon"
+        },
+        "fr": {
+            "item_name": "Sydon Vaykor",
+            "description": "La justice aveugle. Bloquez des coups pour charger Aveuglement Radial, puis déclenchez-le en activant le Blocage combiné avec une Attaque Lourde.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Sydon_Vaykor"
+        },
+        "pt": {
+            "item_name": "Sydon Vaykor",
+            "description": "Justiça cega. Bloqueie ataques para carregar um Radial Blind, quando totalmente carregado pressione o botão de Bloqueio+Ataque Pesado para liberar seu efeito.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vaykor_Sydon"
+        },
+        "zh-hans": {
+            "item_name": "勇气·恶龙",
+            "description": "（英文：Vaykor Sydon）正义会让人失明。每一次被格挡的攻击会为致盲充能，当充满时用格挡+重击来释放它。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaykor_Sydon"
+        },
+        "zh-hant": {
+            "item_name": "勇氣 惡龍",
+            "description": "（英文：VAYKOR SYDON）正義會蒙蔽雙目。每次所格擋的攻擊會為致盲充能，充滿時可使用格擋+重擊來釋放致盲。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaykor_Sydon"
+        },
+        "es": {
+            "item_name": "Sydon Vaykor",
+            "description": "La justicia ciega. Bloquea ataques para cargar un Destello radial, cuando esté totalmente cargado, pulsa bloquear + ataque pesado para liberarlo.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sydon_Vaykor"
+        },
+        "it": {
+            "item_name": "Vaykor Sydon",
+            "description": "La giustizia acceca. Blocca i colpi per caricare un Accecamento Radiale, quando il caricamento è completo, premi Blocca+Attacco Pesante per liberarlo.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Vaykor_Sydon"
+        },
+        "pl": {
+            "item_name": "Sydon Vaykor",
+            "description": "Sprawiedliwość oślepia. Każdy zablokowany atak ładuje Obszarowe Oślepienie, kiedy ładunek będzie pełny, wyzwól go używając razem Bloku i Ciężkiego Ataku.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Sydon_Vaykor"
+        },
+        "uk": {
+            "item_name": "Сейдон-Вейкор",
+            "description": "Тризуб, що уособлює сліпе правосуддя. Блокуйте влучання, щоби зарядити здібність «Променевий спалах» та застосуйте «Блок»+«Потужний удар», щоби застосувати її.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vaykor_Sydon"
+        }
     },
     "mastery_level": 11,
     "trading_tax": 2000

@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/Melee/KickAndPunch/PrismaObex"
     },
-    "en": {
-        "item_name": "Prisma Obex",
-        "description": "Dazzle, distract and destroy with these sparring weapons of impossibly hard prisma crystal.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Obex"
-    },
-    "ru": {
-        "item_name": "Обекс Призма",
-        "description": "Ослепляйте, отвлекайте и уничтожайте с этими перчатками из невероятно твёрдого призматического кристалла.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B1%D0%B5%D0%BA%D1%81_%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0"
-    },
-    "ko": {
-        "item_name": "프리즈마 오벡스",
-        "description": "믿기지 않을 정도로 단단한 프리즈마 크리스탈로 만들어진 이 눈부신 스파링 무기로 적의 눈을 홀린 뒤 파괴해 보세요!",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Obex"
-    },
-    "de": {
-        "item_name": "Prisma Obex",
-        "description": "Blende, lenke ab und zerstöre mit diesen Kickbox-Waffen aus unfassbar hartem Prismakristall.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Prisma_Obex"
-    },
-    "fr": {
-        "item_name": "Obex Prisma",
-        "description": "Éblouissez, surprenez et détruisez avec ces armes composées de pur cristal prisma.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Obex_Prisma"
-    },
-    "pt": {
-        "item_name": "Obex Prisma",
-        "description": "Deslumbre, distraia e destrua com estas armas feitas com um cristal prisma super-resistente.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lex_Prime"
-    },
-    "zh-hans": {
-        "item_name": "棱晶·奥比克斯",
-        "description": "（英文：PRISMA OBEX）用这件由无比坚硬的棱晶所打造的搏击武器，打出令人眼花缭乱的招式，进而摧毁敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Obex"
-    },
-    "zh-hant": {
-        "item_name": "棱晶 奧比克斯",
-        "description": "（英文：PRISMA OBEX）用這件由無比堅硬的棱晶所打造的搏擊武器，打出令人眼花繚亂的招式，進而摧毀敵人",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Obex"
-    },
-    "es": {
-        "item_name": "Obex Prisma",
-        "description": "Desorienta, distrae y destruye con estas armas de puños y pies de prisma cristalino tremendamente duro.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Obex_Prisma"
-    },
-    "it": {
-        "item_name": "Prisma Obex",
-        "description": "Abbaglia, distrai e distruggi con queste armi per calci e pugni fatte di cristalli prismatici induriti.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Obex"
-    },
-    "pl": {
-        "item_name": "Obex Prisma",
-        "description": "Olśnij, rozprosz i niszcz pięściami wzmocnionymi niesamowicie twardymi kryształami prisma.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Obex_Prisma"
-    },
-    "uk": {
-        "item_name": "Обекс-Призма",
-        "description": "Рукавиці й носаки з надтвердого призмового кристала, що дають змогу завдавати нищівних ударів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Obex"
+    "i18n": {
+        "en": {
+            "item_name": "Prisma Obex",
+            "description": "Dazzle, distract and destroy with these sparring weapons of impossibly hard prisma crystal.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Obex",
+            "icon": "items/images/en/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.png",
+            "thumb": "items/images/en/thumbs/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.128x128.png"
+        },
+        "ru": {
+            "item_name": "Обекс Призма",
+            "description": "Ослепляйте, отвлекайте и уничтожайте с этими перчатками из невероятно твёрдого призматического кристалла.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B1%D0%B5%D0%BA%D1%81_%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0"
+        },
+        "ko": {
+            "item_name": "프리즈마 오벡스",
+            "description": "믿기지 않을 정도로 단단한 프리즈마 크리스탈로 만들어진 이 눈부신 스파링 무기로 적의 눈을 홀린 뒤 파괴해 보세요!",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Obex"
+        },
+        "de": {
+            "item_name": "Prisma Obex",
+            "description": "Blende, lenke ab und zerstöre mit diesen Kickbox-Waffen aus unfassbar hartem Prismakristall.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Prisma_Obex"
+        },
+        "fr": {
+            "item_name": "Obex Prisma",
+            "description": "Éblouissez, surprenez et détruisez avec ces armes composées de pur cristal prisma.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Obex_Prisma"
+        },
+        "pt": {
+            "item_name": "Obex Prisma",
+            "description": "Deslumbre, distraia e destrua com estas armas feitas com um cristal prisma super-resistente.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lex_Prime"
+        },
+        "zh-hans": {
+            "item_name": "棱晶·奥比克斯",
+            "description": "（英文：PRISMA OBEX）用这件由无比坚硬的棱晶所打造的搏击武器，打出令人眼花缭乱的招式，进而摧毁敌人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Obex"
+        },
+        "zh-hant": {
+            "item_name": "棱晶 奧比克斯",
+            "description": "（英文：PRISMA OBEX）用這件由無比堅硬的棱晶所打造的搏擊武器，打出令人眼花繚亂的招式，進而摧毀敵人",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Obex"
+        },
+        "es": {
+            "item_name": "Obex Prisma",
+            "description": "Desorienta, distrae y destruye con estas armas de puños y pies de prisma cristalino tremendamente duro.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Obex_Prisma"
+        },
+        "it": {
+            "item_name": "Prisma Obex",
+            "description": "Abbaglia, distrai e distruggi con queste armi per calci e pugni fatte di cristalli prismatici induriti.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Prisma_Obex"
+        },
+        "pl": {
+            "item_name": "Obex Prisma",
+            "description": "Olśnij, rozprosz i niszcz pięściami wzmocnionymi niesamowicie twardymi kryształami prisma.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Obex_Prisma"
+        },
+        "uk": {
+            "item_name": "Обекс-Призма",
+            "description": "Рукавиці й носаки з надтвердого призмового кристала, що дають змогу завдавати нищівних ударів.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Obex"
+        }
     },
     "mastery_level": 10,
     "trading_tax": 2000

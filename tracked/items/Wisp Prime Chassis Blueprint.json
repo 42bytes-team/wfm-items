@@ -1,0 +1,94 @@
+{
+    "_id": "64c2aa1466456704eba6ba2d",
+    "tags": [
+        "prime",
+        "component",
+        "warframe",
+        "blueprint"
+    ],
+    "icon": "items/images/en/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+    "thumb": "items/images/en/thumbs/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+    "url_name": "wisp_prime_chassis_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "wisp_prime_blueprint",
+        "wisp_prime_chassis_blueprint",
+        "wisp_prime_neuroptics_blueprint",
+        "wisp_prime_set",
+        "wisp_prime_systems_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Wisp Prime Chassis Blueprint",
+            "description": "Chassis component of the Wisp Prime Warframe.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Wisp_Prime",
+            "icon": "items/images/en/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+            "thumb": "items/images/en/thumbs/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png"
+        },
+        "ru": {
+            "item_name": "Висп Прайм: Каркас (Чертеж)",
+            "description": "Компонент варфрейма Висп Прайм: Каркас.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "위습 프라임 섀시 설계도",
+            "description": "위습 프라임 워프레임의 섀시 부분입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Wisp Prime: Chassis Blaupause",
+            "description": "Chassis-Komponente für den Wisp Prime Warframe.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Wisp Prime - Châssis (Schéma)",
+            "description": "Le composant Châssis de la Warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Wisp Prime: Chassi (Diagrama)",
+            "description": "Chassi componente do Warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "Wisp Prime 机体 蓝图",
+            "description": "Wisp Prime 战甲的机体组件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Wisp Prime 機體 藍圖",
+            "description": "Wisp Prime Warframe 的機體組件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Chasis De Wisp Prime",
+            "description": "Componente del chasis del warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Wisp Prime - Chassis (Schema)",
+            "description": "Il componente Chassis per il Warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Wisp Prime: Powłoka - Schemat",
+            "description": "Powłoka dla Warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Вісп-Прайм: Каркас (креслення)",
+            "description": "Деталі каркаса для ворфрейма Вісп-прайм.",
+            "wiki_link": null
+        }
+    },
+    "mastery_level": 0,
+    "ducats": 100,
+    "trading_tax": 2000
+}

@@ -14,65 +14,69 @@
         "uniq_name": "/Lotus/Types/Game/KubrowPet/RetrieverKubrowPetPowerSuit",
         "type": "imprint"
     },
-    "en": {
-        "item_name": "Chesa Kubrow Imprint",
-        "description": "This Kubrow will disarm adversaries and retrieve the spoils of battle.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chesa_Kubrow"
-    },
-    "ru": {
-        "item_name": "Чеса Кубрау: Отпечаток",
-        "description": "Этот кубрау будет обезоруживать врагов и собирать трофеи на поле боя.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A7%D0%B5%D1%81%D0%B0_%D0%9A%D1%83%D0%B1%D1%80%D0%B0%D1%83"
-    },
-    "ko": {
-        "item_name": "체사 쿠브로 임프린트",
-        "description": "이 쿠브로는 적들의 무장을 해제하고 전장에서 흘린 물품을 회수해줍니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chesa_Kubrow"
-    },
-    "de": {
-        "item_name": "Chesa Kubrow (Genetischer Abdruck)",
-        "description": "Dieser Kubrow entwaffnet Gegner und apportiert die Beute des Kampfes.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Chesa_Kubrow"
-    },
-    "fr": {
-        "item_name": "Kubrow Chesa (Empreinte)",
-        "description": "Ce Kubrow désarmera les adversaires et récupérera le butin du champ de bataille.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kubrow_Chesa"
-    },
-    "pt": {
-        "item_name": "Kubrow Chesa (Código Genético)",
-        "description": "Este Kubrow desarmará e recuperará espólios deixados por inimigos no campo de batalha.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kubrow#Chesa"
-    },
-    "zh-hans": {
-        "item_name": "寻猎型库狛 基因印记",
-        "description": "此品种的库狛能将敌人缴械，并取回掉落于战场上的战利品。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chesa_Kubrow"
-    },
-    "zh-hant": {
-        "item_name": "尋獵型庫狛 基因印記",
-        "description": "此品種的庫狛能將敵人繳械，並取回掉落於戰場上的戰利品。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chesa_Kubrow"
-    },
-    "es": {
-        "item_name": "Impronta de Kubrow Chesa",
-        "description": "Este kubrow desarmará a los adversarios y recupera el botín de batalla.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Kubrow_Chesa"
-    },
-    "it": {
-        "item_name": "Chesa Kubrow Imprint",
-        "description": "Questo Kubrow disarma gli avversari e recupera il bottino della battaglia.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kubrow#Chesa"
-    },
-    "pl": {
-        "item_name": "Kubrow Chesa: Genotyp",
-        "description": "Ten Kubrow jest w stanie rozbroić wroga, a także przynieść łupy wojenne swojemu panu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kubrow_Chesa"
-    },
-    "uk": {
-        "item_name": "Відбиток: Куброу Чеса",
-        "description": "Ці куброу обеззброюватимуть ворогів і збиратимуть бойові трофеї.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chesa_Kubrow"
+    "i18n": {
+        "en": {
+            "item_name": "Chesa Kubrow Imprint",
+            "description": "This Kubrow will disarm adversaries and retrieve the spoils of battle.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chesa_Kubrow",
+            "icon": "items/images/en/chesa_kubrow_imprint.8848a6f725133c4b2a1394414a443bc8.png",
+            "thumb": "items/images/en/thumbs/chesa_kubrow_imprint.8848a6f725133c4b2a1394414a443bc8.128x128.png"
+        },
+        "ru": {
+            "item_name": "Чеса Кубрау: Отпечаток",
+            "description": "Этот кубрау будет обезоруживать врагов и собирать трофеи на поле боя.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A7%D0%B5%D1%81%D0%B0_%D0%9A%D1%83%D0%B1%D1%80%D0%B0%D1%83"
+        },
+        "ko": {
+            "item_name": "체사 쿠브로 임프린트",
+            "description": "이 쿠브로는 적들의 무장을 해제하고 전장에서 흘린 물품을 회수해줍니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chesa_Kubrow"
+        },
+        "de": {
+            "item_name": "Chesa Kubrow (Genetischer Abdruck)",
+            "description": "Dieser Kubrow entwaffnet Gegner und apportiert die Beute des Kampfes.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Chesa_Kubrow"
+        },
+        "fr": {
+            "item_name": "Kubrow Chesa (Empreinte)",
+            "description": "Ce Kubrow désarmera les adversaires et récupérera le butin du champ de bataille.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Kubrow_Chesa"
+        },
+        "pt": {
+            "item_name": "Kubrow Chesa (Código Genético)",
+            "description": "Este Kubrow desarmará e recuperará espólios deixados por inimigos no campo de batalha.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Kubrow#Chesa"
+        },
+        "zh-hans": {
+            "item_name": "寻猎型库狛 基因印记",
+            "description": "此品种的库狛能将敌人缴械，并取回掉落于战场上的战利品。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Chesa_Kubrow"
+        },
+        "zh-hant": {
+            "item_name": "尋獵型庫狛 基因印記",
+            "description": "此品種的庫狛能將敵人繳械，並取回掉落於戰場上的戰利品。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Chesa_Kubrow"
+        },
+        "es": {
+            "item_name": "Impronta de Kubrow Chesa",
+            "description": "Este kubrow desarmará a los adversarios y recupera el botín de batalla.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Kubrow_Chesa"
+        },
+        "it": {
+            "item_name": "Chesa Kubrow Imprint",
+            "description": "Questo Kubrow disarma gli avversari e recupera il bottino della battaglia.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Kubrow#Chesa"
+        },
+        "pl": {
+            "item_name": "Kubrow Chesa: Genotyp",
+            "description": "Ten Kubrow jest w stanie rozbroić wroga, a także przynieść łupy wojenne swojemu panu.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Kubrow_Chesa"
+        },
+        "uk": {
+            "item_name": "Відбиток: Куброу Чеса",
+            "description": "Ці куброу обеззброюватимуть ворогів і збиратимуть бойові трофеї.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chesa_Kubrow"
+        }
     },
     "trading_tax": 2000
 }

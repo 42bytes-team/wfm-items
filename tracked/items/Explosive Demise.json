@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Melee/ExplodeOnMeleeDeath"
     },
-    "en": {
-        "item_name": "Explosive Demise",
-        "description": "Enemies killed explode, dealing 300 Damage shortly after death.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Explosive_Demise"
-    },
-    "ru": {
-        "item_name": "Взрывное Наследство",
-        "description": "Убитые враги взрываются, нанося 300 урона после смерти.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
-        "icon": "items/images/ru/explosive_demise.141943ded5d9215fd9490b1819bfc607.png",
-        "thumb": "items/images/ru/thumbs/explosive_demise.141943ded5d9215fd9490b1819bfc607.128x128.png"
-    },
-    "ko": {
-        "item_name": "익스플로시브 디마이즈",
-        "description": "적을 처치할 시 폭발하며, 주변에 300의 피해를 가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Explosive_Demise"
-    },
-    "de": {
-        "item_name": "Explosiver Niedergang",
-        "description": "Getötete Gegner explodieren kurz nach ihrem Tod für 300 Schaden.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Explosiver_Niedergang"
-    },
-    "fr": {
-        "item_name": "Fin Explosive",
-        "description": "Les ennemis tués explosent, infligeant 300 points de Dégâts après leur mort.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Grenade_Explosive"
-    },
-    "pt": {
-        "item_name": "Explosive Demise",
-        "description": "Inimigos abatidos explodirão, causando 300 de Dano logo após a morte.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Demise"
-    },
-    "zh-hans": {
-        "item_name": "爆散消亡",
-        "description": "被击杀的敌人不久后会爆炸，造成 300 伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Explosive_Demise"
-    },
-    "zh-hant": {
-        "item_name": "爆散消亡",
-        "description": "被擊殺的敵人不久後會爆炸，造成 300 傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Explosive_Demise"
-    },
-    "es": {
-        "item_name": "Desaparición Explosiva",
-        "description": "Los enemigos asesinados explotan, causando 300 de daño tras morir.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Desaparici%C3%B3n_explosiva"
-    },
-    "it": {
-        "item_name": "Explosive Demise",
-        "description": "I nemici uccisi esploderanno dopo poco tempo, infliggendo 300 danno.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Demise"
-    },
-    "pl": {
-        "item_name": "Wybuchowy Zgon",
-        "description": "Zabici wrogowie chwilę po śmierci eksplodują, zadając 300 punktów obrażeń.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Demise"
-    },
-    "uk": {
-        "item_name": "Вибухова Загибель",
-        "description": "Убиті вороги вибухають, завдаючи 300 шкоди згодом після смерті.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Explosive_Demise"
+    "i18n": {
+        "en": {
+            "item_name": "Explosive Demise",
+            "description": "Enemies killed explode, dealing 300 Damage shortly after death.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Explosive_Demise",
+            "icon": "items/images/en/explosive_demise.b10b3c3c0c794946cc6c8078c220138c.png",
+            "thumb": "items/images/en/thumbs/explosive_demise.b10b3c3c0c794946cc6c8078c220138c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Взрывное Наследство",
+            "description": "Убитые враги взрываются, нанося 300 урона после смерти.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+            "icon": "items/images/ru/explosive_demise.141943ded5d9215fd9490b1819bfc607.png",
+            "thumb": "items/images/ru/thumbs/explosive_demise.141943ded5d9215fd9490b1819bfc607.128x128.png"
+        },
+        "ko": {
+            "item_name": "익스플로시브 디마이즈",
+            "description": "적을 처치할 시 폭발하며, 주변에 300의 피해를 가합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Explosive_Demise"
+        },
+        "de": {
+            "item_name": "Explosiver Niedergang",
+            "description": "Getötete Gegner explodieren kurz nach ihrem Tod für 300 Schaden.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Explosiver_Niedergang"
+        },
+        "fr": {
+            "item_name": "Fin Explosive",
+            "description": "Les ennemis tués explosent, infligeant 300 points de Dégâts après leur mort.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Grenade_Explosive"
+        },
+        "pt": {
+            "item_name": "Explosive Demise",
+            "description": "Inimigos abatidos explodirão, causando 300 de Dano logo após a morte.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Demise"
+        },
+        "zh-hans": {
+            "item_name": "爆散消亡",
+            "description": "被击杀的敌人不久后会爆炸，造成 300 伤害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Explosive_Demise"
+        },
+        "zh-hant": {
+            "item_name": "爆散消亡",
+            "description": "被擊殺的敵人不久後會爆炸，造成 300 傷害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Explosive_Demise"
+        },
+        "es": {
+            "item_name": "Desaparición Explosiva",
+            "description": "Los enemigos asesinados explotan, causando 300 de daño tras morir.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Desaparici%C3%B3n_explosiva"
+        },
+        "it": {
+            "item_name": "Explosive Demise",
+            "description": "I nemici uccisi esploderanno dopo poco tempo, infliggendo 300 danno.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Demise"
+        },
+        "pl": {
+            "item_name": "Wybuchowy Zgon",
+            "description": "Zabici wrogowie chwilę po śmierci eksplodują, zadając 300 punktów obrażeń.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Explosive_Demise"
+        },
+        "uk": {
+            "item_name": "Вибухова Загибель",
+            "description": "Убиті вороги вибухають, завдаючи 300 шкоди згодом після смерті.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Explosive_Demise"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

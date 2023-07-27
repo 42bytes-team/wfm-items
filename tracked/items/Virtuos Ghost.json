@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot"
     },
-    "en": {
-        "item_name": "Virtuos Ghost",
-        "description": "On Headshot:\n40% chance for +60% Status Chance for 12s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Ghost"
-    },
-    "ru": {
-        "item_name": "Виртуозный Призрак",
-        "description": "При попадании в голову:\n40% шанс +60% к шансу статуса в течение 12c.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA"
-    },
-    "ko": {
-        "item_name": "버츄오스 고스트",
-        "description": "헤드샷을 맞출 시:\n40% 확률로 12초 동안 +60% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Ghost"
-    },
-    "de": {
-        "item_name": "Virtuos: Geist",
-        "description": "Bei Kopfschuss:\n40 % Chance auf +60 % Statuschance für 12 s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
-    },
-    "fr": {
-        "item_name": "Virtuos Fantôme",
-        "description": "Sur Tir à la tête:\n40% de chances de: +60% de Chances de Statut pendant 12s",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Virtuos_Fant%C3%B4me"
-    },
-    "pt": {
-        "item_name": "Aparição Virtuosa",
-        "description": "No Acerto de Precisão:\n40% de chance de +60% de Chance de Status durante 12s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
-    },
-    "zh-hans": {
-        "item_name": "正直·鬼魅",
-        "description": "造成爆头后：\n40% 几率得到 +60% 触发几率，持续 12 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Virtuos_Ghost"
-    },
-    "zh-hant": {
-        "item_name": "正直鬼魅",
-        "description": "爆頭時：\n40% 機率得到 +60% 觸發機率 效果，持續 12 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Virtuos_Ghost"
-    },
-    "es": {
-        "item_name": "Fantasma Virtuoso",
-        "description": "Al disparar a la cabeza:\n40% de probabilidad de +60% de probabilidad de estado durante 12s",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fantasma_virtuoso"
-    },
-    "it": {
-        "item_name": "Virtuos Ghost",
-        "description": "Dopo un Colpo alla Testa:\n40% probabilità di +60% Probabilità Effetto per 12s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
-    },
-    "pl": {
-        "item_name": "Wirtuoz Ducha",
-        "description": "Po trafieniu w głowę:\n40% szans na +60% Szansa Statusu przez 12s",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Virtuos_Ducha"
-    },
-    "uk": {
-        "item_name": "Віртус «Примара»",
-        "description": "У разі влучання в голову:\n40% імовірності на 12 с отримати +60% до ймовірності застосування ефекту стану.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Ghost"
+    "i18n": {
+        "en": {
+            "item_name": "Virtuos Ghost",
+            "description": "On Headshot:\n40% chance for +60% Status Chance for 12s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Ghost",
+            "icon": "items/images/en/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.png",
+            "thumb": "items/images/en/thumbs/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.128x128.png"
+        },
+        "ru": {
+            "item_name": "Виртуозный Призрак",
+            "description": "При попадании в голову:\n40% шанс +60% к шансу статуса в течение 12c.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA"
+        },
+        "ko": {
+            "item_name": "버츄오스 고스트",
+            "description": "헤드샷을 맞출 시:\n40% 확률로 12초 동안 +60% 상태 이상 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Ghost"
+        },
+        "de": {
+            "item_name": "Virtuos: Geist",
+            "description": "Bei Kopfschuss:\n40 % Chance auf +60 % Statuschance für 12 s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
+        },
+        "fr": {
+            "item_name": "Virtuos Fantôme",
+            "description": "Sur Tir à la tête:\n40% de chances de: +60% de Chances de Statut pendant 12s",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Virtuos_Fant%C3%B4me"
+        },
+        "pt": {
+            "item_name": "Aparição Virtuosa",
+            "description": "No Acerto de Precisão:\n40% de chance de +60% de Chance de Status durante 12s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
+        },
+        "zh-hans": {
+            "item_name": "正直·鬼魅",
+            "description": "造成爆头后：\n40% 几率得到 +60% 触发几率，持续 12 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Virtuos_Ghost"
+        },
+        "zh-hant": {
+            "item_name": "正直鬼魅",
+            "description": "爆頭時：\n40% 機率得到 +60% 觸發機率 效果，持續 12 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Virtuos_Ghost"
+        },
+        "es": {
+            "item_name": "Fantasma Virtuoso",
+            "description": "Al disparar a la cabeza:\n40% de probabilidad de +60% de probabilidad de estado durante 12s",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Fantasma_virtuoso"
+        },
+        "it": {
+            "item_name": "Virtuos Ghost",
+            "description": "Dopo un Colpo alla Testa:\n40% probabilità di +60% Probabilità Effetto per 12s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Ghost"
+        },
+        "pl": {
+            "item_name": "Wirtuoz Ducha",
+            "description": "Po trafieniu w głowę:\n40% szans na +60% Szansa Statusu przez 12s",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Virtuos_Ducha"
+        },
+        "uk": {
+            "item_name": "Віртус «Примара»",
+            "description": "У разі влучання в голову:\n40% імовірності на 12 с отримати: +60% до ймовірності накладання ефекту стану.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Ghost"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

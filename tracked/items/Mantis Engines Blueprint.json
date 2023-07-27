@@ -20,65 +20,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Mantis Engines Blueprint",
-        "description": "Engines component of the Mantis landing craft.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
-    },
-    "ru": {
-        "item_name": "Мантис: Двигатели (Чертеж)",
-        "description": "Компонент корабля 'Мантис': Двигатели.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B8%D1%81"
-    },
-    "ko": {
-        "item_name": "맨티스 엔진 설계도",
-        "description": "맨티스 착륙정의 엔진 부분입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
-    },
-    "de": {
-        "item_name": "Mantis: Triebwerke Blaupause",
-        "description": "Die Triebwerk-Komponente für das Mantis Landungsschiff.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Mantis"
-    },
-    "fr": {
-        "item_name": "Mantis - Moteurs (Schéma)",
-        "description": "Le composant Moteurs du Mantis.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mantis"
-    },
-    "pt": {
-        "item_name": "Mantis: Motores (Diagrama)",
-        "description": "Motores componentes da Nave de Pouso Mantis.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
-    },
-    "zh-hans": {
-        "item_name": "Mantis 引擎 蓝图",
-        "description": "Mantis 登陆艇的引擎部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis"
-    },
-    "zh-hant": {
-        "item_name": "Mantis 引擎 藍圖",
-        "description": "Mantis 登陸艇的引擎部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis"
-    },
-    "es": {
-        "item_name": "Plano de Motores De Mantis",
-        "description": "Componente de los motores de la nave de desembarco Mantis.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mantis"
-    },
-    "it": {
-        "item_name": "Mantis - Motori (Schema)",
-        "description": "Componente Motori della navicella Mantis.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
-    },
-    "pl": {
-        "item_name": "Mantis: Silniki - Schemat",
-        "description": "Silniki statku desantowego Mantis.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mantis"
-    },
-    "uk": {
-        "item_name": "Богомол: Рушії (креслення)",
-        "description": "Деталі рушіїв для десантного судна «Богомол».",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+    "i18n": {
+        "en": {
+            "item_name": "Mantis Engines Blueprint",
+            "description": "Engines component of the Mantis landing craft.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis",
+            "icon": "items/images/en/mantis_engines.d4716b0defc2695308eb9b5a4b18d935.png",
+            "thumb": "items/images/en/thumbs/mantis_engines.d4716b0defc2695308eb9b5a4b18d935.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мантис: Двигатели (Чертеж)",
+            "description": "Компонент корабля 'Мантис': Двигатели.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B8%D1%81"
+        },
+        "ko": {
+            "item_name": "맨티스 엔진 설계도",
+            "description": "맨티스 착륙정의 엔진 부분입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+        },
+        "de": {
+            "item_name": "Mantis: Triebwerke Blaupause",
+            "description": "Die Triebwerk-Komponente für das Mantis Landungsschiff.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Mantis"
+        },
+        "fr": {
+            "item_name": "Mantis - Moteurs (Schéma)",
+            "description": "Le composant Moteurs du Mantis.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Mantis"
+        },
+        "pt": {
+            "item_name": "Mantis: Motores (Diagrama)",
+            "description": "Motores componentes da Nave de Pouso Mantis.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+        },
+        "zh-hans": {
+            "item_name": "Mantis 引擎 蓝图",
+            "description": "Mantis 登陆艇的引擎部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis"
+        },
+        "zh-hant": {
+            "item_name": "Mantis 引擎 藍圖",
+            "description": "Mantis 登陸艇的引擎部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis"
+        },
+        "es": {
+            "item_name": "Plano de Motores De Mantis",
+            "description": "Componente de los motores de la nave de desembarco Mantis.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Mantis"
+        },
+        "it": {
+            "item_name": "Mantis - Motori (Schema)",
+            "description": "Componente Motori della navicella Mantis.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+        },
+        "pl": {
+            "item_name": "Mantis: Silniki - Schemat",
+            "description": "Silniki statku desantowego Mantis.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Mantis"
+        },
+        "uk": {
+            "item_name": "Богомол: Рушії (креслення)",
+            "description": "Деталі рушіїв для десантного судна «Богомол».",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+        }
     },
     "trading_tax": 2000
 }

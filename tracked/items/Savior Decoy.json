@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Loki/DecoyAugmentCard"
     },
-    "en": {
-        "item_name": "Savior Decoy",
-        "description": "Decoy Augment: If Loki takes fatal damage, Decoy absorbs the damage and swaps locations. Also increases Casting Speed of Decoy by 50%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Savior_Decoy"
-    },
-    "ru": {
-        "item_name": "Спасительная Приманка",
-        "description": "Улучшение способности «Приманка»: если Локи получает смертельный урон, «Приманка» поглощает его и автоматически производит транспозицию. Также повышает скорость активации «Приманки» на 50%",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0"
-    },
-    "ko": {
-        "item_name": "세이비어 디코이",
-        "description": "디코이 개조: 로키가 사망에 이르는 피해를 입을 경우, 디코이가 해당 피해를 흡수하고 서로 위치를 바꿉니다. 또한 디코이 시전 속도가 50% 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Savior_Decoy"
-    },
-    "de": {
-        "item_name": "Rettender Köder",
-        "description": "Köder Augment: Wenn Loki fatalen Schaden erleidet, absorbiert Köder den Schaden und tauscht Positionen. Erhöht Aktivierungsgeschwindigkeit für Köder um 50 %.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Rettender_K%C3%B6der"
-    },
-    "fr": {
-        "item_name": "Leurre Protecteur",
-        "description": "Augmentation de Leurre: Si Loki subit des dégâts fatals, le Leurre absorbe les dégâts et échange de position. Augmente également la Vitesse de Lancement de Leurre de 50%.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Leurre_Protecteur"
-    },
-    "pt": {
-        "item_name": "Savior Decoy",
-        "description": "Ampliação Decoy: caso o Loki receba um Dano fatal, a sua Decoy absorverá o Dano e trocará de lugar com ele. Aumenta, ainda, a Velocidade de Conjuração da Decoy em 50%",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Savior_Decoy"
-    },
-    "zh-hans": {
-        "item_name": "救星诱饵",
-        "description": "诱饵强化: 如果 Loki 受到致命伤害，诱饵会吸收该伤害并互相调换位置。同时提升了诱饵技能 50% 的施放速度。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Savior_Decoy"
-    },
-    "zh-hant": {
-        "item_name": "救星誘餌",
-        "description": "誘餌強化：如果 Loki 受到致命傷害，誘餌會吸收該傷害並互相調換位置。同時提升了誘餌技能 50% 的施放速度。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Savior_Decoy"
-    },
-    "es": {
-        "item_name": "Señuelo Salvador",
-        "description": "Aumento de Señuelo: si Loki recibe daño fatal, el señuelo absorbe el daño y cambiarán de lugar. También aumenta la velocidad de lanzamiento de Señuelo en un 50 %",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Se%C3%B1uelo_salvador"
-    },
-    "it": {
-        "item_name": "Savior Decoy",
-        "description": "Potenziamento Decoy: Se Loki riceve danni mortali, Decoy assorbe il danno e scambia di posto. Inoltre aumenta la Velocità di Attivazione di Decoy del 50%",
-        "wiki_link": "http://warframe.wikia.com/wiki/Savior_Decoy"
-    },
-    "pl": {
-        "item_name": "Zbawicielska Przynęta",
-        "description": "Modyfikacja Przynęty: Jeżeli Loki otrzyma zabójcze obrażenia, Przynęta zaabsorbuje je i zamieni się miejscami z użytkownikiem. Dodatkowo zwiększa prędkość użycia Przynęty o 50%",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zbawicielska_Przyn%C4%99ta"
-    },
-    "uk": {
-        "item_name": "Рятівна Принада",
-        "description": "Розширення здібності «Принада»: якщо Локі отримує смертельне поранення, принада приймає удар на себе й міняється з Локі місцями. Також збільшує швидкість застосування здібності на 50%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Savior_Decoy"
+    "i18n": {
+        "en": {
+            "item_name": "Savior Decoy",
+            "description": "Decoy Augment: If Loki takes fatal damage, Decoy absorbs the damage and swaps locations. Also increases Casting Speed of Decoy by 50%",
+            "wiki_link": "https://warframe.fandom.com/wiki/Savior_Decoy",
+            "icon": "items/images/en/savior_decoy.3b7d00bb0966017aa4b8bcb50803069c.png",
+            "thumb": "items/images/en/thumbs/savior_decoy.3b7d00bb0966017aa4b8bcb50803069c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Спасительная Приманка",
+            "description": "Улучшение способности «Приманка»: если Локи получает смертельный урон, «Приманка» поглощает его и автоматически производит транспозицию. Также повышает скорость активации «Приманки» на 50%",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0"
+        },
+        "ko": {
+            "item_name": "세이비어 디코이",
+            "description": "디코이 개조: 로키가 사망에 이르는 피해를 입을 경우, 디코이가 해당 피해를 흡수하고 서로 위치를 바꿉니다. 또한 디코이 시전 속도가 50% 증가합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Savior_Decoy"
+        },
+        "de": {
+            "item_name": "Rettender Köder",
+            "description": "Köder Augment: Wenn Loki fatalen Schaden erleidet, absorbiert Köder den Schaden und tauscht Positionen. Erhöht Aktivierungsgeschwindigkeit für Köder um 50 %.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Rettender_K%C3%B6der"
+        },
+        "fr": {
+            "item_name": "Leurre Protecteur",
+            "description": "Augmentation de Leurre: Si Loki subit des dégâts fatals, le Leurre absorbe les dégâts et échange de position. Augmente également la Vitesse de Lancement de Leurre de 50%.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Leurre_Protecteur"
+        },
+        "pt": {
+            "item_name": "Savior Decoy",
+            "description": "Ampliação Decoy: caso o Loki receba um Dano fatal, a sua Decoy absorverá o Dano e trocará de lugar com ele. Aumenta, ainda, a Velocidade de Conjuração da Decoy em 50%",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Savior_Decoy"
+        },
+        "zh-hans": {
+            "item_name": "救星诱饵",
+            "description": "诱饵强化: 如果 Loki 受到致命伤害，诱饵会吸收该伤害并互相调换位置。同时提升了诱饵技能 50% 的施放速度。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Savior_Decoy"
+        },
+        "zh-hant": {
+            "item_name": "救星誘餌",
+            "description": "誘餌強化：如果 Loki 受到致命傷害，誘餌會吸收該傷害並互相調換位置。同時提升了誘餌技能 50% 的施放速度。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Savior_Decoy"
+        },
+        "es": {
+            "item_name": "Señuelo Salvador",
+            "description": "Aumento de Señuelo: si Loki recibe daño fatal, el señuelo absorbe el daño y cambiarán de lugar. También aumenta la velocidad de lanzamiento de Señuelo en un 50 %",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Se%C3%B1uelo_salvador"
+        },
+        "it": {
+            "item_name": "Savior Decoy",
+            "description": "Potenziamento Decoy: Se Loki riceve danni mortali, Decoy assorbe il danno e scambia di posto. Inoltre aumenta la Velocità di Attivazione di Decoy del 50%",
+            "wiki_link": "http://warframe.wikia.com/wiki/Savior_Decoy"
+        },
+        "pl": {
+            "item_name": "Zbawicielska Przynęta",
+            "description": "Modyfikacja Przynęty: Jeżeli Loki otrzyma zabójcze obrażenia, Przynęta zaabsorbuje je i zamieni się miejscami z użytkownikiem. Dodatkowo zwiększa prędkość użycia Przynęty o 50%",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zbawicielska_Przyn%C4%99ta"
+        },
+        "uk": {
+            "item_name": "Рятівна Принада",
+            "description": "Розширення здібності «Принада»: якщо Локі отримує смертельне поранення, принада приймає удар на себе й міняється з Локі місцями. Також збільшує швидкість застосування здібності на 50%.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Savior_Decoy"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

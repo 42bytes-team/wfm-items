@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Immortal/ImmortalOneMod"
     },
-    "en": {
-        "item_name": "Lohk",
-        "description": "From brooding gulfs are we beheld\nBy that which bears no name",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lohk"
-    },
-    "ru": {
-        "item_name": "Лок",
-        "description": "За нами наблюдает из заливов уныния\nТо, что не имеет имени",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%BE%D0%BA",
-        "icon": "items/images/ru/lohk.c23ce7d2996cc854837bd89783ea116e.png",
-        "thumb": "items/images/ru/thumbs/lohk.c23ce7d2996cc854837bd89783ea116e.128x128.png"
-    },
-    "ko": {
-        "item_name": "로크",
-        "description": "음울한 심연 속 이름 없는 자들은\n그 눈으로 우리들을 바라본다",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lohk"
-    },
-    "de": {
-        "item_name": "Lohk",
-        "description": "Angeblickt aus dunklen Kluften\nVon jenem Ding ohne Namen",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Loki"
-    },
-    "fr": {
-        "item_name": "Lohk",
-        "description": "Son nom jamais nul n'ose prononcer; il se Replie et nous épie, depuis les abysses.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Loki"
-    },
-    "pt": {
-        "item_name": "Lohk",
-        "description": "Das profundezas do abismo, somos vigiados\nPor aquele que não deve ser nomeado",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Loki"
-    },
-    "zh-hans": {
-        "item_name": "Lohk",
-        "description": "来自沉思之渊的视线，落在了我们身上\n其源头为无名之物",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loki"
-    },
-    "zh-hant": {
-        "item_name": "Lohk",
-        "description": "深陷兇險鴻溝的我們，被暗中注視著\n那不具名之物",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Loki"
-    },
-    "es": {
-        "item_name": "Lohk",
-        "description": "Desde los profundos abismos hemos sido observados\nPor aquel a quien un nombre no ha sido otorgado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Loki"
-    },
-    "it": {
-        "item_name": "Lohk",
-        "description": "Dai minacciosi abissi siamo contemplati\nDa ciò che non ha nome",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Loki"
-    },
-    "pl": {
-        "item_name": "Lohk",
-        "description": "Z tajemniczej przepaści jesteśmy widziani\nPrzez to, co nie nosi imienia",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Loki"
-    },
-    "uk": {
-        "item_name": "Лоук",
-        "description": "Скорботним поглядом за нами\nщось безіменне спогляда.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Lohk"
+    "i18n": {
+        "en": {
+            "item_name": "Lohk",
+            "description": "From brooding gulfs are we beheld\nBy that which bears no name",
+            "wiki_link": "https://warframe.fandom.com/wiki/Lohk",
+            "icon": "items/images/en/lohk.2217e77e1166afee23e7293d85b970db.png",
+            "thumb": "items/images/en/thumbs/lohk.2217e77e1166afee23e7293d85b970db.128x128.png"
+        },
+        "ru": {
+            "item_name": "Лок",
+            "description": "За нами наблюдает из заливов уныния\nТо, что не имеет имени",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%BE%D0%BA",
+            "icon": "items/images/ru/lohk.c23ce7d2996cc854837bd89783ea116e.png",
+            "thumb": "items/images/ru/thumbs/lohk.c23ce7d2996cc854837bd89783ea116e.128x128.png"
+        },
+        "ko": {
+            "item_name": "로크",
+            "description": "음울한 심연 속 이름 없는 자들은\n그 눈으로 우리들을 바라본다",
+            "wiki_link": "https://warframe.fandom.com/wiki/Lohk"
+        },
+        "de": {
+            "item_name": "Lohk",
+            "description": "Angeblickt aus dunklen Kluften\nVon jenem Ding ohne Namen",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Loki"
+        },
+        "fr": {
+            "item_name": "Lohk",
+            "description": "Son nom jamais nul n'ose prononcer; il se Replie et nous épie, depuis les abysses.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Loki"
+        },
+        "pt": {
+            "item_name": "Lohk",
+            "description": "Das profundezas do abismo, somos vigiados\nPor aquele que não deve ser nomeado",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Loki"
+        },
+        "zh-hans": {
+            "item_name": "Lohk",
+            "description": "来自沉思之渊的视线，落在了我们身上\n其源头为无名之物",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Loki"
+        },
+        "zh-hant": {
+            "item_name": "Lohk",
+            "description": "深陷兇險鴻溝的我們，被暗中注視著\n那不具名之物",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Loki"
+        },
+        "es": {
+            "item_name": "Lohk",
+            "description": "Desde los profundos abismos hemos sido observados\nPor aquel a quien un nombre no ha sido otorgado",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Loki"
+        },
+        "it": {
+            "item_name": "Lohk",
+            "description": "Dai minacciosi abissi siamo contemplati\nDa ciò che non ha nome",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Loki"
+        },
+        "pl": {
+            "item_name": "Lohk",
+            "description": "Z tajemniczej przepaści jesteśmy widziani\nPrzez to, co nie nosi imienia",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Loki"
+        },
+        "uk": {
+            "item_name": "Лоук",
+            "description": "Скорботним поглядом за нами\nщось безіменне спогляда.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Lohk"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Warframe/RagdollImmunityMod"
     },
-    "en": {
-        "item_name": "Armored Recovery",
-        "description": "+50% Damage Resistance when knocked down\n-20% Slide",
-        "wiki_link": "https://warframe.fandom.com/wiki/Armored_Recovery"
-    },
-    "ru": {
-        "item_name": "Бронированное Восстановление",
-        "description": "+50% к сопротивлению урону, при активном эффекте \"Опрокидывание\"\n-20% к скольжению",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/armored_recovery.144344ea0b48a0bf96ee92ed3c67dec4.png",
-        "thumb": "items/images/ru/thumbs/armored_recovery.144344ea0b48a0bf96ee92ed3c67dec4.128x128.png"
-    },
-    "ko": {
-        "item_name": "아머드 리커버리",
-        "description": "넘어진 상태에서 피해 +50% 감소 및\n-20% 슬라이드",
-        "wiki_link": "https://warframe.fandom.com/wiki/Armored_Recovery"
-    },
-    "de": {
-        "item_name": "Gepanzerte Erholung",
-        "description": "+50 % Schadensresistenz, wenn niedergeschlagen\n-20 % Rutschen",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gepanzerte_Erholung"
-    },
-    "fr": {
-        "item_name": "Récupération Blindée",
-        "description": "+50% de Résistance aux Dégâts lorsque Renversé\n-20% de Glissade",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9ration_Infest%C3%A9e"
-    },
-    "pt": {
-        "item_name": "Armored Recovery",
-        "description": "+50% de Resistência a Dano ao ser Abatido\n-20% de Velocidade do Deslizar",
-        "wiki_link": "http://warframe.wikia.com/wiki/Armored_Recovery"
-    },
-    "zh-hans": {
-        "item_name": "复原装甲",
-        "description": "被击倒时抵抗 +50%伤害，\n-20% 滑行",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Armored_Recovery"
-    },
-    "zh-hant": {
-        "item_name": "復原裝甲",
-        "description": "被擊倒時抵抗 +50%傷害，\n-20% 滑行距離",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Armored_Recovery"
-    },
-    "es": {
-        "item_name": "Recuperación Blindada",
-        "description": "+50% de resistencia al daño mientras estas derribado\n-20% deslizamiento",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Recuperaci%C3%B3n_blindada"
-    },
-    "it": {
-        "item_name": "Armored Recovery",
-        "description": "+50% Resistenza Danni durante Atterramento\n-20% Scivolata",
-        "wiki_link": "http://warframe.wikia.com/wiki/Armored_Recovery"
-    },
-    "pl": {
-        "item_name": "Opancerzona Odnowa",
-        "description": "+50% Odporność na obrażenia podczas powalenia\n-20% Ślizg",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Opancerzona_Odnowa"
-    },
-    "uk": {
-        "item_name": "Броньоване Відновлення",
-        "description": "+50% до опору шкоді, коли вас збивають із ніг.\n-20% до ковзання.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Armored_Recovery"
+    "i18n": {
+        "en": {
+            "item_name": "Armored Recovery",
+            "description": "+50% Damage Resistance when knocked down\n-20% Slide",
+            "wiki_link": "https://warframe.fandom.com/wiki/Armored_Recovery",
+            "icon": "items/images/en/armored_recovery.ca5e0f617d60d6227b4499bfcffb898b.png",
+            "thumb": "items/images/en/thumbs/armored_recovery.ca5e0f617d60d6227b4499bfcffb898b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Бронированное Восстановление",
+            "description": "+50% к сопротивлению урону, при активном эффекте \"Опрокидывание\"\n-20% к скольжению",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/armored_recovery.144344ea0b48a0bf96ee92ed3c67dec4.png",
+            "thumb": "items/images/ru/thumbs/armored_recovery.144344ea0b48a0bf96ee92ed3c67dec4.128x128.png"
+        },
+        "ko": {
+            "item_name": "아머드 리커버리",
+            "description": "넘어진 상태에서 피해 +50% 감소 및\n-20% 슬라이드",
+            "wiki_link": "https://warframe.fandom.com/wiki/Armored_Recovery"
+        },
+        "de": {
+            "item_name": "Gepanzerte Erholung",
+            "description": "+50 % Schadensresistenz, wenn niedergeschlagen\n-20 % Rutschen",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gepanzerte_Erholung"
+        },
+        "fr": {
+            "item_name": "Récupération Blindée",
+            "description": "+50% de Résistance aux Dégâts lorsque Renversé\n-20% de Glissade",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9ration_Infest%C3%A9e"
+        },
+        "pt": {
+            "item_name": "Armored Recovery",
+            "description": "+50% de Resistência a Dano ao ser Abatido\n-20% de Velocidade do Deslizar",
+            "wiki_link": "http://warframe.wikia.com/wiki/Armored_Recovery"
+        },
+        "zh-hans": {
+            "item_name": "复原装甲",
+            "description": "被击倒时抵抗 +50%伤害，\n-20% 滑行",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Armored_Recovery"
+        },
+        "zh-hant": {
+            "item_name": "復原裝甲",
+            "description": "被擊倒時抵抗 +50%傷害，\n-20% 滑行距離",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Armored_Recovery"
+        },
+        "es": {
+            "item_name": "Recuperación Blindada",
+            "description": "+50% de resistencia al daño mientras estas derribado\n-20% deslizamiento",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Recuperaci%C3%B3n_blindada"
+        },
+        "it": {
+            "item_name": "Armored Recovery",
+            "description": "+50% Resistenza Danni durante Atterramento\n-20% Scivolata",
+            "wiki_link": "http://warframe.wikia.com/wiki/Armored_Recovery"
+        },
+        "pl": {
+            "item_name": "Opancerzona Odnowa",
+            "description": "+50% Odporność na obrażenia podczas powalenia\n-20% Ślizg",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Opancerzona_Odnowa"
+        },
+        "uk": {
+            "item_name": "Броньоване Відновлення",
+            "description": "+50% до опору шкоді, коли вас збивають із ніг\n-20% до ковзання",
+            "wiki_link": "https://warframe.fandom.com/wiki/Armored_Recovery"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

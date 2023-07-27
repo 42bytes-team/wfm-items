@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideDamageMod"
     },
-    "en": {
-        "item_name": "Necramech Blitz",
-        "description": "+80% Slide Attack Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
-    },
-    "ru": {
-        "item_name": "Блиц Некрамеха",
-        "description": "+80% к урону при атаке в скольжении",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BB%D0%B8%D1%86_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
-    },
-    "ko": {
-        "item_name": "네크라메크 블릿츠",
-        "description": "+80% 슬라이드 공격 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
-    },
-    "de": {
-        "item_name": "Necramech: Blitz",
-        "description": "+80 % Rutschangriff-Schaden",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
-    },
-    "fr": {
-        "item_name": "Assaut Du Necramech",
-        "description": "+80% de Dégâts d'Attaque Glissée",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Assaut_du_Necramech"
-    },
-    "pt": {
-        "item_name": "Necramech Blitz",
-        "description": "+80% de Dano do Ataque Deslizante",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
-    },
-    "zh-hans": {
-        "item_name": "殁世机甲 闪击",
-        "description": "+80% 滑行攻击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Blitz"
-    },
-    "zh-hant": {
-        "item_name": "亡骸機甲 閃襲",
-        "description": "+80% 滑行攻擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Blitz"
-    },
-    "es": {
-        "item_name": "Relámpago Necramech",
-        "description": "+80% de daño de ataque deslizante",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Rel%C3%A1mpago_Necramech"
-    },
-    "it": {
-        "item_name": "Necramech Blitz",
-        "description": "+80% Danno Attacco in Scivolata",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
-    },
-    "pl": {
-        "item_name": "Nekramechowy Cios",
-        "description": "+80% Obrażeń podczas Ataku w Ślizgu",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
-    },
-    "uk": {
-        "item_name": "Бліц Некрамеха",
-        "description": "+80% до шкоди від атаки під час ковзання.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
+    "i18n": {
+        "en": {
+            "item_name": "Necramech Blitz",
+            "description": "+80% Slide Attack Damage",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz",
+            "icon": "items/images/en/necramech_blitz.9bb602da20c4207a0d2cf79009279756.png",
+            "thumb": "items/images/en/thumbs/necramech_blitz.9bb602da20c4207a0d2cf79009279756.128x128.png"
+        },
+        "ru": {
+            "item_name": "Блиц Некрамеха",
+            "description": "+80% к урону при атаке в скольжении",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BB%D0%B8%D1%86_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
+        },
+        "ko": {
+            "item_name": "네크라메크 블릿츠",
+            "description": "+80% 슬라이드 공격 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
+        },
+        "de": {
+            "item_name": "Necramech: Blitz",
+            "description": "+80 % Rutschangriff-Schaden",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
+        },
+        "fr": {
+            "item_name": "Assaut Du Necramech",
+            "description": "+80% de Dégâts d'Attaque Glissée",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Assaut_du_Necramech"
+        },
+        "pt": {
+            "item_name": "Necramech Blitz",
+            "description": "+80% de Dano do Ataque Deslizante",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
+        },
+        "zh-hans": {
+            "item_name": "殁世机甲 闪击",
+            "description": "+80% 滑行攻击伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Blitz"
+        },
+        "zh-hant": {
+            "item_name": "亡骸機甲 閃襲",
+            "description": "+80% 滑行攻擊傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Blitz"
+        },
+        "es": {
+            "item_name": "Relámpago Necramech",
+            "description": "+80% de daño de ataque deslizante",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Rel%C3%A1mpago_Necramech"
+        },
+        "it": {
+            "item_name": "Necramech Blitz",
+            "description": "+80% Danno Attacco in Scivolata",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
+        },
+        "pl": {
+            "item_name": "Nekramechowy Cios",
+            "description": "+80% Obrażeń podczas Ataku w Ślizgu",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
+        },
+        "uk": {
+            "item_name": "Бліц Некрамеха",
+            "description": "+80% до шкоди від атаки під час ковзання",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Blitz"
+        }
     },
     "rarity": "common",
     "max_rank": 3,

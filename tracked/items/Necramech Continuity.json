@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityDurationMod"
     },
-    "en": {
-        "item_name": "Necramech Continuity",
-        "description": "+30% Ability Duration",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
-    },
-    "ru": {
-        "item_name": "Непрерывность Некрамеха",
-        "description": "+30% к длительности",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
-    },
-    "ko": {
-        "item_name": "네크라메크 컨티뉴어티",
-        "description": "+30% 어빌리티 지속 시간",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
-    },
-    "de": {
-        "item_name": "Necramech: Kontinuität",
-        "description": "+30 % Fähigkeitsdauer",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Prime_Kontinuit%C3%A4t"
-    },
-    "fr": {
-        "item_name": "Continuité Du Necramech",
-        "description": "+30% Durée de Pouvoir",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Continuit%C3%A9_du_Necramech"
-    },
-    "pt": {
-        "item_name": "Necramech Continuity",
-        "description": "+30% de Duração da Habilidade",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Continuity"
-    },
-    "zh-hans": {
-        "item_name": "殁世机甲 持久力",
-        "description": "+30% 技能持续时间",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Continuity"
-    },
-    "zh-hant": {
-        "item_name": "亡骸機甲 持久力",
-        "description": "+30% 技能持續時間",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Continuity"
-    },
-    "es": {
-        "item_name": "Continuidad Necramech",
-        "description": "+30% Duración de habilidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Continuidad_Necramech"
-    },
-    "it": {
-        "item_name": "Necramech Continuity",
-        "description": "+30% Durata Abilità",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
-    },
-    "pl": {
-        "item_name": "Nekramechowa Ciągłość",
-        "description": "+30% Czas Trwania Umiejętności",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
-    },
-    "uk": {
-        "item_name": "Безперервність Некрамеха",
-        "description": "+30% до тривалості дії здібностей.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
+    "i18n": {
+        "en": {
+            "item_name": "Necramech Continuity",
+            "description": "+30% Ability Duration",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity",
+            "icon": "items/images/en/necramech_continuity.9d2574a325182ce7a355a1cf652e8b22.png",
+            "thumb": "items/images/en/thumbs/necramech_continuity.9d2574a325182ce7a355a1cf652e8b22.128x128.png"
+        },
+        "ru": {
+            "item_name": "Непрерывность Некрамеха",
+            "description": "+30% к длительности",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
+        },
+        "ko": {
+            "item_name": "네크라메크 컨티뉴어티",
+            "description": "+30% 어빌리티 지속 시간",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
+        },
+        "de": {
+            "item_name": "Necramech: Kontinuität",
+            "description": "+30 % Fähigkeitsdauer",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Prime_Kontinuit%C3%A4t"
+        },
+        "fr": {
+            "item_name": "Continuité Du Necramech",
+            "description": "+30% Durée de Pouvoir",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Continuit%C3%A9_du_Necramech"
+        },
+        "pt": {
+            "item_name": "Necramech Continuity",
+            "description": "+30% de Duração da Habilidade",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Primed_Continuity"
+        },
+        "zh-hans": {
+            "item_name": "殁世机甲 持久力",
+            "description": "+30% 技能持续时间",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Continuity"
+        },
+        "zh-hant": {
+            "item_name": "亡骸機甲 持久力",
+            "description": "+30% 技能持續時間",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Continuity"
+        },
+        "es": {
+            "item_name": "Continuidad Necramech",
+            "description": "+30% Duración de habilidad",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Continuidad_Necramech"
+        },
+        "it": {
+            "item_name": "Necramech Continuity",
+            "description": "+30% Durata Abilità",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
+        },
+        "pl": {
+            "item_name": "Nekramechowa Ciągłość",
+            "description": "+30% Czas Trwania Umiejętności",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
+        },
+        "uk": {
+            "item_name": "Безперервність Некрамеха",
+            "description": "+30% до тривалості дії здібностей",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Continuity"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

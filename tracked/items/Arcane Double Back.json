@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/DamageResistanceStacksOverTime"
     },
-    "en": {
-        "item_name": "Arcane Double Back",
-        "description": "Gain +25% damage resistance for 4s per Dodge, Double Jump and Bullet Jump. Stacks up to 3x.\n+1 Arcane Revive",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Мистическое Запутывание",
-        "description": "+25% к сопротивлению урону на 4 сек. за каждое уклонение, двойной прыжок и прыжок-выстрел. Складывается до 3 раз.\n+1 Мистическое Воскрешение",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "아케인 더블 백",
-        "description": "회피, 더블 점프 및 불릿 점프 한 번당 4초 간 +25% 피해 저항을 획득합니다. 최대 3회 중첩됩니다.\n+1 아케인 부활",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Arkana: Kehrtwende",
-        "description": "Erhalte +25 % Schadensresistenz für 4 s pro Ausweichen, Doppelsprung und Projektilsprung. Stapelbar bis zu 3 x.\n+1 Arkana Wiederbelebung",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Arcane Repli",
-        "description": "Gagnez +25% de résistance aux dégâts pendant 4s par Esquive, Double Saut et Saut Propulsé. Cumulable jusqu'à 3x.\n+1 Réanimation Arcane",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Evasão Arcana",
-        "description": "Fornecerá +25% de Resistência a Dano durante 4s ao Esquivar, realizar Pulos Duplos e Saltos-Bala. Acumula até 3.\n+1 Reanimação Arcana",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "赋能·回返",
-        "description": "每次闪避，二段跳或旋身飞跃时，获得 +25% 伤害抗性，持续 4 秒。最多叠加 3 层。\n赋能复活次数 +1",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "頑抗賦能",
-        "description": "每次閃避、二段跳躍，以及旋身飛躍獲得 +25% 傷害抗性，持續 4 秒。最多疊加 3 次。\n賦能復活次數 +1",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Evasión Arcana",
-        "description": "Obtén +25 % de resistencia al daño por 4 s al esquivar, dar salto doble y salto-bala. Se acumula hasta 3 veces.\n+1 Revivir Arcano",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Arcane Double Back",
-        "description": "Ottieni +25% di resistenza al danno per 4s per Schivata, Doppio Salto e Bullet Jump. Si accumula fino a 3x.\n+1 Rianimazione Arcane",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Arkanum Nietykalnego Akrobaty",
-        "description": "Zyskaj +25% odporności na obrażenia przez 4 sekund po Uniku, Podwójnym Skoku, lub Skoku Balistycznym. Kumuluje się do 3 razy.\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Містичне Прикриття",
-        "description": "Отримайте +25% опору шкоді впродовж 4 с за кожне ухилення, подвійний чи гвинтовий стрибок. Сумується до х3.\n+1 містичне відродження.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Double Back",
+            "description": "Gain +25% damage resistance for 4s per Dodge, Double Jump and Bullet Jump. Stacks up to 3x.\n+1 Arcane Revive",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_double_back.1ed9a591a41ea6c610f532f30b31ae22.png",
+            "thumb": "items/images/en/thumbs/arcane_double_back.1ed9a591a41ea6c610f532f30b31ae22.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мистическое Запутывание",
+            "description": "+25% к сопротивлению урону на 4 сек. за каждое уклонение, двойной прыжок и прыжок-выстрел. Складывается до 3 раз.\n+1 Мистическое Воскрешение",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "아케인 더블 백",
+            "description": "회피, 더블 점프 및 불릿 점프 한 번당 4초 간 +25% 피해 저항을 획득합니다. 최대 3회 중첩됩니다.\n+1 아케인 부활",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Arkana: Kehrtwende",
+            "description": "Erhalte +25 % Schadensresistenz für 4 s pro Ausweichen, Doppelsprung und Projektilsprung. Stapelbar bis zu 3 x.\n+1 Arkana Wiederbelebung",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Arcane Repli",
+            "description": "Gagnez +25% de résistance aux dégâts pendant 4s par Esquive, Double Saut et Saut Propulsé. Cumulable jusqu'à 3x.\n+1 Réanimation Arcane",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Evasão Arcana",
+            "description": "Fornecerá +25% de Resistência a Dano durante 4s ao Esquivar, realizar Pulos Duplos e Saltos-Bala. Acumula até 3.\n+1 Reanimação Arcana",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "赋能·回返",
+            "description": "每次闪避，二段跳或旋身飞跃时，获得 +25% 伤害抗性，持续 4 秒。最多叠加 3 层。\n赋能复活次数 +1",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "頑抗賦能",
+            "description": "每次閃避、二段跳躍，以及旋身飛躍獲得 +25% 傷害抗性，持續 4 秒。最多疊加 3 次。\n賦能復活次數 +1",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Evasión Arcana",
+            "description": "Obtén +25 % de resistencia al daño por 4 s al esquivar, dar salto doble y salto-bala. Se acumula hasta 3 veces.\n+1 Revivir Arcano",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Arcane Double Back",
+            "description": "Ottieni +25% di resistenza al danno per 4s per Schivata, Doppio Salto e Bullet Jump. Si accumula fino a 3x.\n+1 Rianimazione Arcane",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Arkanum Nietykalnego Akrobaty",
+            "description": "Zyskaj +25% odporności na obrażenia przez 4 sekund po Uniku, Podwójnym Skoku, lub Skoku Balistycznym. Kumuluje się do 3 razy.\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Містичне Прикриття",
+            "description": "Отримайте +25% опору шкоді впродовж 4 с за кожне ухилення, подвійний чи гвинтовий стрибок. Сумується до х3.\n+1 містичне відродження.",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

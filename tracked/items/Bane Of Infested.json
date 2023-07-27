@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageInfested"
     },
-    "en": {
-        "item_name": "Bane Of Infested",
-        "description": "+30% Damage to Infested",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Infested"
-    },
-    "ru": {
-        "item_name": "Погибель: Заражённые",
-        "description": "+30% урона Заражённым",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C_%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5",
-        "icon": "items/images/ru/bane_of_infested.6637d1ccc49d065ac2240346180b755b.png",
-        "thumb": "items/images/ru/thumbs/bane_of_infested.6637d1ccc49d065ac2240346180b755b.128x128.png"
-    },
-    "ko": {
-        "item_name": "베인 오브 인페스티드",
-        "description": "인페스티드에 대한 피해 +30%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Infested"
-    },
-    "de": {
-        "item_name": "Verderben Der Befallenen",
-        "description": "+30 % Schaden gegen Befallene",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verderben_der_Befallenen"
-    },
-    "fr": {
-        "item_name": "Fléau Des Infestés",
-        "description": "+30% de Dégâts aux Infestés",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fl%C3%A9au_des_Infest%C3%A9s"
-    },
-    "pt": {
-        "item_name": "Bane Of Infested",
-        "description": "+30% de Dano em Infestados",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Bane_of_Infested"
-    },
-    "zh-hans": {
-        "item_name": "灭亡 Infested",
-        "description": "+30% 对 Infested 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bane_of_Infested"
-    },
-    "zh-hant": {
-        "item_name": "滅亡 Infested",
-        "description": "+30% 對 Infested 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bane_of_Infested"
-    },
-    "es": {
-        "item_name": "Perdición De Los Infestados",
-        "description": "+30% de daño a los infestados",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Perdici%C3%B3n_de_los_infestados"
-    },
-    "it": {
-        "item_name": "Bane Of Infested",
-        "description": "+30% Danno Su Infested",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Cleanse_Infested"
-    },
-    "pl": {
-        "item_name": "Zguba Plagi",
-        "description": "+30% Obrażeń zadawanych Zainfekowanym",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Plagi"
-    },
-    "uk": {
-        "item_name": "Погибель Заражених",
-        "description": "+30% до завдаваної шкоди зараженим.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Infested"
+    "i18n": {
+        "en": {
+            "item_name": "Bane Of Infested",
+            "description": "+30% Damage to Infested",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Infested",
+            "icon": "items/images/en/bane_of_infested.9e952c43d499b268f9e6b3136e470ad4.png",
+            "thumb": "items/images/en/thumbs/bane_of_infested.9e952c43d499b268f9e6b3136e470ad4.128x128.png"
+        },
+        "ru": {
+            "item_name": "Погибель: Заражённые",
+            "description": "+30% урона Заражённым",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C_%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5",
+            "icon": "items/images/ru/bane_of_infested.6637d1ccc49d065ac2240346180b755b.png",
+            "thumb": "items/images/ru/thumbs/bane_of_infested.6637d1ccc49d065ac2240346180b755b.128x128.png"
+        },
+        "ko": {
+            "item_name": "베인 오브 인페스티드",
+            "description": "인페스티드에 대한 피해 +30%",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Infested"
+        },
+        "de": {
+            "item_name": "Verderben Der Befallenen",
+            "description": "+30 % Schaden gegen Befallene",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Verderben_der_Befallenen"
+        },
+        "fr": {
+            "item_name": "Fléau Des Infestés",
+            "description": "+30% de Dégâts aux Infestés",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Fl%C3%A9au_des_Infest%C3%A9s"
+        },
+        "pt": {
+            "item_name": "Bane Of Infested",
+            "description": "+30% de Dano em Infestados",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Bane_of_Infested"
+        },
+        "zh-hans": {
+            "item_name": "灭亡 Infested",
+            "description": "+30% 对 Infested 伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bane_of_Infested"
+        },
+        "zh-hant": {
+            "item_name": "滅亡 Infested",
+            "description": "+30% 對 Infested 傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bane_of_Infested"
+        },
+        "es": {
+            "item_name": "Perdición De Los Infestados",
+            "description": "+30% de daño a los infestados",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Perdici%C3%B3n_de_los_infestados"
+        },
+        "it": {
+            "item_name": "Bane Of Infested",
+            "description": "+30% Danno Su Infested",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Cleanse_Infested"
+        },
+        "pl": {
+            "item_name": "Zguba Plagi",
+            "description": "+30% Obrażeń zadawanych Zainfekowanym",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zguba_Plagi"
+        },
+        "uk": {
+            "item_name": "Погибель Заражених",
+            "description": "+30% до завдаваної шкоди зараженим",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bane_of_Infested"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

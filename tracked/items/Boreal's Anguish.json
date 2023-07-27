@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Boreal/BorealExilusMod"
     },
-    "en": {
-        "item_name": "Boreal's Anguish",
-        "description": "-75% Gravity while Aim Gliding\n+60% Aim Glide/Wall Latch Duration",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Мучения Бореаля",
-        "description": "-75% к гравитации при управляемом полёте\n+60% кo времени управляемого полета/фиксации на стене",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "보리얼 앵귀시",
-        "description": "에임 글라이드 중 -75% 중력 감소\n+60% 에임 글라이드/월 래치 지속 시간",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Boreals Pein",
-        "description": "-75 % Schwerkraft beim Zielgleiten\n+60 % Zielgleiten-/Wandhalten-Dauer",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Angoisse De Boréal",
-        "description": "-75% de Gravité en Visée Planée\n+60% de Durée de la Visée Planée/Prise Murale",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Angústia Do Boreal",
-        "description": "-75% de Gravidade durante o Planar e Mirar\n+60% de Duração ao Planar e Mirar/Segurar na Parede",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "诡文枭主之苦",
-        "description": "飞身瞄准时重力变为 -75%\n+60% 飞身瞄准/壁面攀附持续时间",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "玻瑞爾的痛苦",
-        "description": "飛身瞄準時 -75% 重力\n+60% 飛身瞄準/壁面攀附持續時間",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Angustia De Boreal",
-        "description": "-75 % de gravedad mientras planeas\n+60% de duración de planear/posarse",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Boreal's Anguish",
-        "description": "-75% Gravità durante la Planata\n+60% Durata Planata/Aggrappata",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Rozpacz Boreala",
-        "description": "-75% Grawitacji podczas Celowania w locie\n+60% Czasu Trwania Celowania w locie / Przywarcia do Ściany",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Туга Бореаля",
-        "description": "-75% до дії гравітації під час прицілювання в повітрі.\n+60% до тривалості прицілювання в повітрі/утримування на стіні.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Boreal's Anguish",
+            "description": "-75% Gravity while Aim Gliding\n+60% Aim Glide/Wall Latch Duration",
+            "wiki_link": null,
+            "icon": "items/images/en/boreals_anguish.ae0eb69e47835a77fea6a004619445a7.png",
+            "thumb": "items/images/en/thumbs/boreals_anguish.ae0eb69e47835a77fea6a004619445a7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мучения Бореаля",
+            "description": "-75% к гравитации при управляемом полёте\n+60% кo времени управляемого полета/фиксации на стене",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "보리얼 앵귀시",
+            "description": "에임 글라이드 중 -75% 중력 감소\n+60% 에임 글라이드/월 래치 지속 시간",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Boreals Pein",
+            "description": "-75 % Schwerkraft beim Zielgleiten\n+60 % Zielgleiten-/Wandhalten-Dauer",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Angoisse De Boréal",
+            "description": "-75% de Gravité en Visée Planée\n+60% de Durée de la Visée Planée/Prise Murale",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Angústia Do Boreal",
+            "description": "-75% de Gravidade durante o Planar e Mirar\n+60% de Duração ao Planar e Mirar/Segurar na Parede",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "诡文枭主之苦",
+            "description": "飞身瞄准时重力变为 -75%\n+60% 飞身瞄准/壁面攀附持续时间",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "玻瑞爾的痛苦",
+            "description": "飛身瞄準時 -75% 重力\n+60% 飛身瞄準/壁面攀附持續時間",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Angustia De Boreal",
+            "description": "-75 % de gravedad mientras planeas\n+60% de duración de planear/posarse",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Boreal's Anguish",
+            "description": "-75% Gravità durante la Planata\n+60% Durata Planata/Aggrappata",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Rozpacz Boreala",
+            "description": "-75% Grawitacji podczas Celowania w locie\n+60% Czasu Trwania Celowania w locie / Przywarcia do Ściany",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Туга Бореаля",
+            "description": "-75% до дії гравітації під час прицілювання в повітрі.\n+60% до тривалості прицілювання в повітрі/утримування на стіні.",
+            "wiki_link": null
+        }
     },
     "rarity": "common",
     "max_rank": 5,

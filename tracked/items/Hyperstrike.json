@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarGunnerWeaponDamage"
     },
-    "en": {
-        "item_name": "Hyperstrike",
-        "description": "+112.5% Turret Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hyperstrike"
-    },
-    "ru": {
-        "item_name": "Гиператака",
-        "description": "+112.5% к урону турели",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B0%D0%BA%D0%B0"
-    },
-    "ko": {
-        "item_name": "하이퍼스트라이크",
-        "description": "+112.5% 포탑 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hyperstrike"
-    },
-    "de": {
-        "item_name": "Hyperschlag",
-        "description": "+112.5 % Geschützschaden",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Hyperstrike"
-    },
-    "fr": {
-        "item_name": "Hyperstrike",
-        "description": "+112.5% de Dégâts de Tourelles",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Hyperstrike"
-    },
-    "pt": {
-        "item_name": "Hiperataque",
-        "description": "+112.5% de Dano das Torres",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Hyperstrike"
-    },
-    "zh-hans": {
-        "item_name": "超量打击",
-        "description": "+112.5% 炮台伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hyperstrike"
-    },
-    "zh-hant": {
-        "item_name": "超強打擊",
-        "description": "+112.5% 砲塔傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hyperstrike"
-    },
-    "es": {
-        "item_name": "Hiperataque",
-        "description": "+112.5 % de daño de torreta",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Hiperataque"
-    },
-    "it": {
-        "item_name": "Hyperstrike",
-        "description": "+112.5% Danno Torretta",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Hyperstrike"
-    },
-    "pl": {
-        "item_name": "Hiperostrzał",
-        "description": "+112.5% Obrażeń Wieżyczek",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Hyperstrike"
-    },
-    "uk": {
-        "item_name": "Гіперпостріл",
-        "description": "+112.5% до шкоди від турелей.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hyperstrike"
+    "i18n": {
+        "en": {
+            "item_name": "Hyperstrike",
+            "description": "+112.5% Turret Damage",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hyperstrike",
+            "icon": "items/images/en/hyperstrike.8e979c19582e3918a672ae72cf61f5ac.png",
+            "thumb": "items/images/en/thumbs/hyperstrike.8e979c19582e3918a672ae72cf61f5ac.128x128.png"
+        },
+        "ru": {
+            "item_name": "Гиператака",
+            "description": "+112.5% к урону турели",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B0%D0%BA%D0%B0"
+        },
+        "ko": {
+            "item_name": "하이퍼스트라이크",
+            "description": "+112.5% 포탑 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hyperstrike"
+        },
+        "de": {
+            "item_name": "Hyperschlag",
+            "description": "+112.5 % Geschützschaden",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Hyperstrike"
+        },
+        "fr": {
+            "item_name": "Hyperstrike",
+            "description": "+112.5% de Dégâts de Tourelles",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Hyperstrike"
+        },
+        "pt": {
+            "item_name": "Hiperataque",
+            "description": "+112.5% de Dano das Torres",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Hyperstrike"
+        },
+        "zh-hans": {
+            "item_name": "超量打击",
+            "description": "+112.5% 炮台伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hyperstrike"
+        },
+        "zh-hant": {
+            "item_name": "超強打擊",
+            "description": "+112.5% 砲塔傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hyperstrike"
+        },
+        "es": {
+            "item_name": "Hiperataque",
+            "description": "+112.5 % de daño de torreta",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Hiperataque"
+        },
+        "it": {
+            "item_name": "Hyperstrike",
+            "description": "+112.5% Danno Torretta",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Hyperstrike"
+        },
+        "pl": {
+            "item_name": "Hiperostrzał",
+            "description": "+112.5% Obrażeń Wieżyczek",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Hyperstrike"
+        },
+        "uk": {
+            "item_name": "Гіперпостріл",
+            "description": "+112.5% до шкоди від турелей.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hyperstrike"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

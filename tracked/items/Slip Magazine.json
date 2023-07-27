@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/WeaponClipMaxMod"
     },
-    "en": {
-        "item_name": "Slip Magazine",
-        "description": "+30% Magazine Capacity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Slip_Magazine"
-    },
-    "ru": {
-        "item_name": "Скользящий Магазин",
-        "description": "+30% к вместимости магазина",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
-        "icon": "items/images/ru/slip_magazine.60531544cf2700bfc3c9f9f5f7f7ba34.png",
-        "thumb": "items/images/ru/thumbs/slip_magazine.60531544cf2700bfc3c9f9f5f7f7ba34.128x128.png"
-    },
-    "ko": {
-        "item_name": "슬립 매거진",
-        "description": "+30% 탄창 용량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Slip_Magazine"
-    },
-    "de": {
-        "item_name": "Streifenmagazin",
-        "description": "+30 % Magazingröße",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Streifenmagazin"
-    },
-    "fr": {
-        "item_name": "Chargeur Glissant",
-        "description": "+30% de Taille Du Chargeur",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chargeur_glissant"
-    },
-    "pt": {
-        "item_name": "Slip Magazine",
-        "description": "+30% de Capacidade do Carregador",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Slip_Magazine"
-    },
-    "zh-hans": {
-        "item_name": "串联弹匣",
-        "description": "+30% 弹匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Slip_Magazine"
-    },
-    "zh-hant": {
-        "item_name": "串聯彈匣",
-        "description": "+30% 彈匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Slip_Magazine"
-    },
-    "es": {
-        "item_name": "Desliz De Cargador",
-        "description": "+30% de capacidad de cargador",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Desliz_de_cargador"
-    },
-    "it": {
-        "item_name": "Slip Magazine",
-        "description": "+30% Capienza Caricatore",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Slip_Magazine"
-    },
-    "pl": {
-        "item_name": "Magazynek Ślizgowy",
-        "description": "+30% Pojemności Magazynka",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magazynek_%C5%81ukowy"
-    },
-    "uk": {
-        "item_name": "Гнучкий Магазин",
-        "description": "+30% до місткості магазину.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Slip_Magazine"
+    "i18n": {
+        "en": {
+            "item_name": "Slip Magazine",
+            "description": "+30% Magazine Capacity",
+            "wiki_link": "https://warframe.fandom.com/wiki/Slip_Magazine",
+            "icon": "items/images/en/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.png",
+            "thumb": "items/images/en/thumbs/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.128x128.png"
+        },
+        "ru": {
+            "item_name": "Скользящий Магазин",
+            "description": "+30% к вместимости магазина",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+            "icon": "items/images/ru/slip_magazine.60531544cf2700bfc3c9f9f5f7f7ba34.png",
+            "thumb": "items/images/ru/thumbs/slip_magazine.60531544cf2700bfc3c9f9f5f7f7ba34.128x128.png"
+        },
+        "ko": {
+            "item_name": "슬립 매거진",
+            "description": "+30% 탄창 용량",
+            "wiki_link": "https://warframe.fandom.com/wiki/Slip_Magazine"
+        },
+        "de": {
+            "item_name": "Streifenmagazin",
+            "description": "+30 % Magazingröße",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Streifenmagazin"
+        },
+        "fr": {
+            "item_name": "Chargeur Glissant",
+            "description": "+30% de Taille Du Chargeur",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Chargeur_glissant"
+        },
+        "pt": {
+            "item_name": "Slip Magazine",
+            "description": "+30% de Capacidade do Carregador",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Slip_Magazine"
+        },
+        "zh-hans": {
+            "item_name": "串联弹匣",
+            "description": "+30% 弹匣容量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Slip_Magazine"
+        },
+        "zh-hant": {
+            "item_name": "串聯彈匣",
+            "description": "+30% 彈匣容量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Slip_Magazine"
+        },
+        "es": {
+            "item_name": "Desliz De Cargador",
+            "description": "+30% de capacidad de cargador",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Desliz_de_cargador"
+        },
+        "it": {
+            "item_name": "Slip Magazine",
+            "description": "+30% Capienza Caricatore",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Slip_Magazine"
+        },
+        "pl": {
+            "item_name": "Magazynek Ślizgowy",
+            "description": "+30% Pojemności Magazynka",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Magazynek_%C5%81ukowy"
+        },
+        "uk": {
+            "item_name": "Гнучкий Магазин",
+            "description": "+30% до місткості магазину",
+            "wiki_link": "https://warframe.fandom.com/wiki/Slip_Magazine"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

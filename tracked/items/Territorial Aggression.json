@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowMarkTerritoryPrecept"
     },
-    "en": {
-        "item_name": "Territorial Aggression",
-        "description": "The Kavat marks their territory, pacifying any wild creature within 40m for 15s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Territorial_Aggression"
-    },
-    "ru": {
-        "item_name": "Территориальная Агрессия",
-        "description": "Кават помечает свою территорию, сводя на нет агрессию диких животных в радиусе 40 м в течение 15 с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%90%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F",
-        "icon": "items/images/ru/territorial_aggression.c0fb989aae3f68fa02d12049a02509bb.png",
-        "thumb": "items/images/ru/thumbs/territorial_aggression.c0fb989aae3f68fa02d12049a02509bb.128x128.png"
-    },
-    "ko": {
-        "item_name": "테리토리얼 어그레션",
-        "description": "카밧이 자신의 영역을 표시하며 40m 내의 야생 동물들을 15초 동안 진정시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Territorial_Aggression"
-    },
-    "de": {
-        "item_name": "Territoriale Aggression",
-        "description": "Kavats markieren ihr Revier und befrieden damit jegliche Wildtiere innerhalb von 40 m für 15 s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression"
-    },
-    "fr": {
-        "item_name": "Agression Territoriale",
-        "description": "Le Kavat marque son territoire, apaisant toute créature sauvage se trouvant à une distance de 40m ou moins pendant 15s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Agression_Territoriale"
-    },
-    "pt": {
-        "item_name": "Territorial Aggression",
-        "description": "O Kavat marca seu território, pacificando qualquer forma de vida selvagem em um raio de 40m durante 15s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Territorial_Aggression"
-    },
-    "zh-hans": {
-        "item_name": "侵略领土",
-        "description": "库娃标记自己的领域，安抚 40 米内的任何野生动物 15 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Territorial_Aggression"
-    },
-    "zh-hant": {
-        "item_name": "侵略領土",
-        "description": "庫娃標記自己的領域，安撫 40 公尺內的任何野生動物 15 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Territorial_Aggression"
-    },
-    "es": {
-        "item_name": "Agresión Territorial",
-        "description": "El kavat marca su territorio, pacificando a cualquier criatura salvaje dentro de 40m por 15s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Agresi%C3%B3n_territorial"
-    },
-    "it": {
-        "item_name": "Territorial Aggression",
-        "description": "Il Kavat marca il suo territorio, tranquilizza tutte le creature selvaggie nel raggio di 40m per 15s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression"
-    },
-    "pl": {
-        "item_name": "Agresja Terytorialna",
-        "description": "Kavat znaczy swoje terytorium, pacyfikując każde dzikie zwierzę w zasięgu 40m przez 15s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression"
-    },
-    "uk": {
-        "item_name": "Захист Території",
-        "description": "Кават помічає територію та вгамовує будь-яке дике створіння в межах 40 м упродовж 15 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Territorial_Aggression"
+    "i18n": {
+        "en": {
+            "item_name": "Territorial Aggression",
+            "description": "The Kavat marks their territory, pacifying any wild creature within 40m for 15s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Territorial_Aggression",
+            "icon": "items/images/en/territorial_aggression.fe5b1085fb610c35d7318fb07524b81c.png",
+            "thumb": "items/images/en/thumbs/territorial_aggression.fe5b1085fb610c35d7318fb07524b81c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Территориальная Агрессия",
+            "description": "Кават помечает свою территорию, сводя на нет агрессию диких животных в радиусе 40 м в течение 15 с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%90%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F",
+            "icon": "items/images/ru/territorial_aggression.c0fb989aae3f68fa02d12049a02509bb.png",
+            "thumb": "items/images/ru/thumbs/territorial_aggression.c0fb989aae3f68fa02d12049a02509bb.128x128.png"
+        },
+        "ko": {
+            "item_name": "테리토리얼 어그레션",
+            "description": "카밧이 자신의 영역을 표시하며 40m 내의 야생 동물들을 15초 동안 진정시킵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Territorial_Aggression"
+        },
+        "de": {
+            "item_name": "Territoriale Aggression",
+            "description": "Kavats markieren ihr Revier und befrieden damit jegliche Wildtiere innerhalb von 40 m für 15 s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression"
+        },
+        "fr": {
+            "item_name": "Agression Territoriale",
+            "description": "Le Kavat marque son territoire, apaisant toute créature sauvage se trouvant à une distance de 40m ou moins pendant 15s.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Agression_Territoriale"
+        },
+        "pt": {
+            "item_name": "Territorial Aggression",
+            "description": "O Kavat marca seu território, pacificando qualquer forma de vida selvagem em um raio de 40m durante 15s.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Territorial_Aggression"
+        },
+        "zh-hans": {
+            "item_name": "侵略领土",
+            "description": "库娃标记自己的领域，安抚 40 米内的任何野生动物 15 秒。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Territorial_Aggression"
+        },
+        "zh-hant": {
+            "item_name": "侵略領土",
+            "description": "庫娃標記自己的領域，安撫 40 公尺內的任何野生動物 15 秒。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Territorial_Aggression"
+        },
+        "es": {
+            "item_name": "Agresión Territorial",
+            "description": "El kavat marca su territorio, pacificando a cualquier criatura salvaje dentro de 40m por 15s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Agresi%C3%B3n_territorial"
+        },
+        "it": {
+            "item_name": "Territorial Aggression",
+            "description": "Il Kavat marca il suo territorio, tranquilizza tutte le creature selvaggie nel raggio di 40m per 15s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression"
+        },
+        "pl": {
+            "item_name": "Agresja Terytorialna",
+            "description": "Kavat znaczy swoje terytorium, pacyfikując każde dzikie zwierzę w zasięgu 40m przez 15s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Territorial_Aggression"
+        },
+        "uk": {
+            "item_name": "Захист Території",
+            "description": "Кават помічає територію та вгамовує будь-яке дике створіння в межах 40 м упродовж 15 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Territorial_Aggression"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/YinYang/YinYangSwitchPvPAugmentCard"
     },
-    "en": {
-        "item_name": "Push & Pull",
-        "description": "Metamorphosis Augment: Switching to Day-form staggers enemies within 6m and knocks them down when switching to Night-form.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Push_%26_Pull"
-    },
-    "ru": {
-        "item_name": "Натиск И Рывок",
-        "description": "Улучшение Метаморфозы: переключение на Дневную форму ошеломляет врагов в радиусе 6м. и опрокидывает их при переключении на Ночную форму.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B0%D1%82%D0%B8%D1%81%D0%BA_%D0%B8_%D1%80%D1%8B%D0%B2%D0%BE%D0%BA",
-        "icon": "items/images/ru/push_and_pull.d457540b4324dbc4cb21dd6681e047ec.png",
-        "thumb": "items/images/ru/thumbs/push_and_pull.d457540b4324dbc4cb21dd6681e047ec.128x128.png"
-    },
-    "ko": {
-        "item_name": "푸쉬 & 풀",
-        "description": "메타모르포시스 개조: 낮 형태로 바꿀 경우 6m 내의 적을 비틀거리게 만들고 밤 형태로 바꿀 경우 적을 넘어트립니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Push_%26_Pull"
-    },
-    "de": {
-        "item_name": "Drücken & Ziehen",
-        "description": "Metamorphose Augment: Wechseln zur Tagform lässt Gegner in 6 m taumeln und schlägt diese nieder, wenn zur Nachtform gewechselt wird.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Dr%C3%BCcken_%26_Ziehen"
-    },
-    "fr": {
-        "item_name": "Collision & Attraction",
-        "description": "Augmentation de Métamorphose: Basculer sur la Forme Diurne étourdit les ennemis à moins de 6m et les renverse lorsque la Forme Nocturne est activée.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Collision_%26_Attraction"
-    },
-    "pt": {
-        "item_name": "Push & Pull",
-        "description": "Ampliação Metamorphosis: alternar para a forma Diurna atordoará os inimigos enquanto a forma noturna os derrubará ao estarem no raio de 6m da Equinox.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Push_&_Pull"
-    },
-    "zh-hans": {
-        "item_name": "探推－挽拉",
-        "description": "昼夜交替强化：切换至白昼形态时造成 6 米内的敌人失衡，切换至黑夜形态时则为击倒敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Push_%26_Pull"
-    },
-    "zh-hant": {
-        "item_name": "探推－挽拉",
-        "description": "晝夜交替強化：切換至白晝型態時造成 6 公尺內的敵人失衡，切換至黑夜型態時則為擊倒敵人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Push_%26_Pull"
-    },
-    "es": {
-        "item_name": "Empujar & Halar",
-        "description": "Aumento de Metamorfosis: cambiar a forma diurna desequilibra a los enemigos dentro de 6m y los derriba cuando cambia a forma nocturna.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Empujar_%26_Halar"
-    },
-    "it": {
-        "item_name": "Push & Pull",
-        "description": "Potenziamento Metamorphosis: Cambiare nella forma Diurna fa tentennare i nemici entro 6m e li atterra quando cambia nella forma Notturna.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Push_&_Pull"
-    },
-    "pl": {
-        "item_name": "Dynamika Ruchu",
-        "description": "Modyfikacja Metamorfozy: Podczas zmiany Aspektu, wrogowie w obszarze 6m od gracza zostają: w Aspekcie Dnia ogłuszeni, w Aspekcie Nocy przewróceni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dynamika_Ruchu"
-    },
-    "uk": {
-        "item_name": "Відштовхування І Притягування",
-        "description": "Розширення здібності «Перевтілення»: зміна на денну форму змушує ворогів у межах 6 м похитнутися, а зміна на нічну форму збиває з ніг.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Push_%26_Pull"
+    "i18n": {
+        "en": {
+            "item_name": "Push & Pull",
+            "description": "Metamorphosis Augment: Switching to Day-form staggers enemies within 6m and knocks them down when switching to Night-form.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Push_%26_Pull",
+            "icon": "items/images/en/push_and_pull.390046aef411e9647af281f85d990c2f.png",
+            "thumb": "items/images/en/thumbs/push_and_pull.390046aef411e9647af281f85d990c2f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Натиск И Рывок",
+            "description": "Улучшение Метаморфозы: переключение на Дневную форму ошеломляет врагов в радиусе 6м. и опрокидывает их при переключении на Ночную форму.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B0%D1%82%D0%B8%D1%81%D0%BA_%D0%B8_%D1%80%D1%8B%D0%B2%D0%BE%D0%BA",
+            "icon": "items/images/ru/push_and_pull.d457540b4324dbc4cb21dd6681e047ec.png",
+            "thumb": "items/images/ru/thumbs/push_and_pull.d457540b4324dbc4cb21dd6681e047ec.128x128.png"
+        },
+        "ko": {
+            "item_name": "푸쉬 & 풀",
+            "description": "메타모르포시스 개조: 낮 형태로 바꿀 경우 6m 내의 적을 비틀거리게 만들고 밤 형태로 바꿀 경우 적을 넘어트립니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Push_%26_Pull"
+        },
+        "de": {
+            "item_name": "Drücken & Ziehen",
+            "description": "Metamorphose Augment: Wechseln zur Tagform lässt Gegner in 6 m taumeln und schlägt diese nieder, wenn zur Nachtform gewechselt wird.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Dr%C3%BCcken_%26_Ziehen"
+        },
+        "fr": {
+            "item_name": "Collision & Attraction",
+            "description": "Augmentation de Métamorphose: Basculer sur la Forme Diurne étourdit les ennemis à moins de 6m et les renverse lorsque la Forme Nocturne est activée.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Collision_%26_Attraction"
+        },
+        "pt": {
+            "item_name": "Push & Pull",
+            "description": "Ampliação Metamorphosis: alternar para a forma Diurna atordoará os inimigos enquanto a forma noturna os derrubará ao estarem no raio de 6m da Equinox.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Push_&_Pull"
+        },
+        "zh-hans": {
+            "item_name": "探推－挽拉",
+            "description": "昼夜交替强化：切换至白昼形态时造成 6 米内的敌人失衡，切换至黑夜形态时则为击倒敌人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Push_%26_Pull"
+        },
+        "zh-hant": {
+            "item_name": "探推－挽拉",
+            "description": "晝夜交替強化：切換至白晝型態時造成 6 公尺內的敵人失衡，切換至黑夜型態時則為擊倒敵人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Push_%26_Pull"
+        },
+        "es": {
+            "item_name": "Empujar & Halar",
+            "description": "Aumento de Metamorfosis: cambiar a forma diurna desequilibra a los enemigos dentro de 6m y los derriba cuando cambia a forma nocturna.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Empujar_%26_Halar"
+        },
+        "it": {
+            "item_name": "Push & Pull",
+            "description": "Potenziamento Metamorphosis: Cambiare nella forma Diurna fa tentennare i nemici entro 6m e li atterra quando cambia nella forma Notturna.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Push_&_Pull"
+        },
+        "pl": {
+            "item_name": "Dynamika Ruchu",
+            "description": "Modyfikacja Metamorfozy: Podczas zmiany Aspektu, wrogowie w obszarze 6m od gracza zostają: w Aspekcie Dnia ogłuszeni, w Aspekcie Nocy przewróceni.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Dynamika_Ruchu"
+        },
+        "uk": {
+            "item_name": "Відштовхування І Притягування",
+            "description": "Розширення здібності «Перевтілення»: зміна на денну форму змушує ворогів у межах 6 м похитнутися, а зміна на нічну форму збиває з ніг.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Push_%26_Pull"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

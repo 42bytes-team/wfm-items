@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsCBlueprint"
     },
-    "en": {
-        "item_name": "Zubb Bracket Blueprint",
-        "description": "",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Лапки: Зубб (Чертеж)",
-        "description": "",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "저브 브라켓 설계도",
-        "description": "",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Träger: Zubb Blaupause",
-        "description": "",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Support Zubb (Schéma)",
-        "description": "",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Suporte: Zubb (Diagrama)",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "乍布脚架 蓝图",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "諸柏腳架 藍圖",
-        "description": "",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Soporte Zubb",
-        "description": "",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Zubb - Supporto (Schema)",
-        "description": "",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Wspornik Zubb - Schemat",
-        "description": "",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Лапи «Зубб» (креслення)",
-        "description": "",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Zubb Bracket Blueprint",
+            "description": "",
+            "wiki_link": null,
+            "icon": "items/images/en/zubb_bracket_blueprint.ab48daa9caa1e0779d86ae8a6674edd2.png",
+            "thumb": "items/images/en/thumbs/zubb_bracket_blueprint.ab48daa9caa1e0779d86ae8a6674edd2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Лапки: Зубб (Чертеж)",
+            "description": "",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "저브 브라켓 설계도",
+            "description": "",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Träger: Zubb Blaupause",
+            "description": "",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Support Zubb (Schéma)",
+            "description": "",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Suporte: Zubb (Diagrama)",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "乍布脚架 蓝图",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "諸柏腳架 藍圖",
+            "description": "",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Soporte Zubb",
+            "description": "",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Zubb - Supporto (Schema)",
+            "description": "",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Wspornik Zubb - Schemat",
+            "description": "",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Лапи «Зубб» (креслення)",
+            "description": "",
+            "wiki_link": null
+        }
     },
     "mastery_level": 0,
     "trading_tax": 2000

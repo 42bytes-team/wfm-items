@@ -24,65 +24,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Tiberon Prime Blueprint",
-        "description": "Art meets ingenuity with this beautifully deadly rifle.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tiberon_Prime"
-    },
-    "ru": {
-        "item_name": "Тайберон Прайм (Чертеж)",
-        "description": "Искусство переплетается с искусностью в этой смертоносно красивой винтовке.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B0%D0%B9%D0%B1%D0%B5%D1%80%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "티버론 프라임 설계도",
-        "description": "예술과 독창성이 이 아름답고도 치명적인 소총을 통해 만납니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tiberon_Prime"
-    },
-    "de": {
-        "item_name": "Tiberon Prime Blaupause",
-        "description": "Kunst trifft auf Findigkeit bei diesem kunstvollen, tödlichen Gewehr.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Tiberon_Prime"
-    },
-    "fr": {
-        "item_name": "Tiberon Prime (Schéma)",
-        "description": "Art et ingéniosité se combinent avec ce Fusil aussi magnifique que mortel.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tiberon_Prime"
-    },
-    "pt": {
-        "item_name": "Tiberon Prime (Diagrama)",
-        "description": "A arte encontra a ingenuidade com este rifle lindamente mortal.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tiberon_Prime"
-    },
-    "zh-hans": {
-        "item_name": "狂鲨 Prime 蓝图",
-        "description": "（英文：TIBERON PRIME）在这柄美丽而又致命的步枪里，艺术与精巧的设计不期而遇。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tiberon_Prime"
-    },
-    "zh-hant": {
-        "item_name": "狂鯊 Prime 藍圖",
-        "description": "（英文：TIBERON PRIME）在這柄美麗而又致命的步槍裡，藝術與精巧的設計不期而遇。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tiberon_Prime"
-    },
-    "es": {
-        "item_name": "Plano de Tiberon Prime",
-        "description": "El arte y la ingenuidad se combinan en este bello y mortífero rifle.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tiberon_Prime"
-    },
-    "it": {
-        "item_name": "Tiberon Prime (Schema)",
-        "description": "L'arte incontra l'inventiva con questo fucile meravigliosamente mortale.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Oberon_Prime"
-    },
-    "pl": {
-        "item_name": "Tiberon Prime - Schemat",
-        "description": "Sztuka łączy pomysłowość z tym pięknie śmiercionośnym karabinem.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tiberon_Prime"
-    },
-    "uk": {
-        "item_name": "Тіберон-Прайм (креслення)",
-        "description": "Чарівна смертельна гвинтівка, в якій мистецтво переплітається з майстерністю.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tiberon_Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Tiberon Prime Blueprint",
+            "description": "Art meets ingenuity with this beautifully deadly rifle.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tiberon_Prime",
+            "icon": "items/images/en/tiberon_prime_blueprint.53f3cf1c68314c0555fbb7020d01f001.png",
+            "thumb": "items/images/en/thumbs/tiberon_prime_blueprint.53f3cf1c68314c0555fbb7020d01f001.128x128.png"
+        },
+        "ru": {
+            "item_name": "Тайберон Прайм (Чертеж)",
+            "description": "Искусство переплетается с искусностью в этой смертоносно красивой винтовке.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B0%D0%B9%D0%B1%D0%B5%D1%80%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "티버론 프라임 설계도",
+            "description": "예술과 독창성이 이 아름답고도 치명적인 소총을 통해 만납니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tiberon_Prime"
+        },
+        "de": {
+            "item_name": "Tiberon Prime Blaupause",
+            "description": "Kunst trifft auf Findigkeit bei diesem kunstvollen, tödlichen Gewehr.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Tiberon_Prime"
+        },
+        "fr": {
+            "item_name": "Tiberon Prime (Schéma)",
+            "description": "Art et ingéniosité se combinent avec ce Fusil aussi magnifique que mortel.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Tiberon_Prime"
+        },
+        "pt": {
+            "item_name": "Tiberon Prime (Diagrama)",
+            "description": "A arte encontra a ingenuidade com este rifle lindamente mortal.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tiberon_Prime"
+        },
+        "zh-hans": {
+            "item_name": "狂鲨 Prime 蓝图",
+            "description": "（英文：TIBERON PRIME）在这柄美丽而又致命的步枪里，艺术与精巧的设计不期而遇。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tiberon_Prime"
+        },
+        "zh-hant": {
+            "item_name": "狂鯊 Prime 藍圖",
+            "description": "（英文：TIBERON PRIME）在這柄美麗而又致命的步槍裡，藝術與精巧的設計不期而遇。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tiberon_Prime"
+        },
+        "es": {
+            "item_name": "Plano de Tiberon Prime",
+            "description": "El arte y la ingenuidad se combinan en este bello y mortífero rifle.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tiberon_Prime"
+        },
+        "it": {
+            "item_name": "Tiberon Prime (Schema)",
+            "description": "L'arte incontra l'inventiva con questo fucile meravigliosamente mortale.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Oberon_Prime"
+        },
+        "pl": {
+            "item_name": "Tiberon Prime - Schemat",
+            "description": "Sztuka łączy pomysłowość z tym pięknie śmiercionośnym karabinem.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Tiberon_Prime"
+        },
+        "uk": {
+            "item_name": "Тіберон-Прайм (креслення)",
+            "description": "Чарівна смертельна гвинтівка, в якій мистецтво переплітається з майстерністю.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tiberon_Prime"
+        }
     },
     "mastery_level": 14,
     "ducats": 25,

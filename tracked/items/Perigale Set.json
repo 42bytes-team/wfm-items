@@ -21,65 +21,69 @@
         "perigale_stock"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Perigale Set",
-        "description": "Like a breath of wind, shots fired by this multi-barrel sniper are felt but never seen by its targets. Headshots in quick succession increase the Perigale’s ammo efficiency. When the Perigale is wielded by Voruna, its ammo pool increases.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Perigale"
-    },
-    "ru": {
-        "item_name": "Перигаль: Комплект",
-        "description": "Подобно дуновению ветра, выстрелы этой многоствольной снайперской винтовки ощущаются, но невидимы для целей. Выстрелы в голову в быстрой последовательности увеличивают эффективность боеприпасов Перигаля. Когда Перигаль находится в руках Воруны, его обойма увеличивается.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "페리게일 세트",
-        "description": "한 줄기의 바람처럼, 이 다연장 저격총이 목표물을 향해 발사하는 총격은 느낄 수는 있으되 눈으로 볼 수는 없습니다. 연속으로 빠르게 헤드샷을 명중시킬 시 페리게일의 탄약 효율이 증가합니다. 보루나가 페리게일을 장착하고 있을 시, 최대 탄약량이 증가합니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Perigale: Set",
-        "description": "Wie ein Windhauch werden die Schüsse dieses mehrläufigen Scharfschützengewehrs von den Zielen gefühlt, aber nicht gesehen. Kopfschüsse in schneller Abfolge erhöhen die Munitionseffizienz des Perigale. Wenn das Perigale von Voruna geführt wird, erhöht sich sein Munitionspool.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Perigale - Set",
-        "description": "Les tirs de cette arme de précision à canons multiples sont ressentis mais jamais détectés par ses cibles. Les Tirs à la Tête en succession rapide augmentent l'efficacité des munitions du Perigale. Lorsque le Perigale est utilisé par Voruna, sa réserve de munitions augmente.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Perigale: Conjunto",
-        "description": "Assim como uma brisa, os tiros disparados por este Rifle de Precisão com múltiplos canos são sentidos, mas nunca vistos por seus alvos. Acertos de Precisão em rápida sucessão aumentam a Eficiência da Munição do Perigale. A Capacidade de Munição é ampliada quando o Perigale é utilizado pela Voruna.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "月面狂风 一套",
-        "description": "（英文：PERIGALE）就像一阵风，这把多管狙击枪发射的子弹能被它的目标感觉到，却从未被看到。快速连续爆头可提高月面狂风的弹药效率。当 Voruna 手持月面狂风时，它的弹药库会因此增加。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Perigale"
-    },
-    "zh-hant": {
-        "item_name": "肆飆 一套",
-        "description": "（英文：PERIGALE）宛如一陣風，這個多管狙擊槍發射的子彈可以被其目標感覺到卻無法被看到。快速的接連爆頭射擊增加肆飆的彈藥效率。Voruna 握持肆飆時，彈藥池增加。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Perigale"
-    },
-    "es": {
-        "item_name": "Set de Perigale",
-        "description": "Como un soplo de viento, los disparos de este rifle de francotirador de múltiples cañones se sienten pero no son vistos por sus objetivos. Los disparos a la cabeza en rápida sucesión aumentan la eficiencia de munición del Perigale. Cuando Voruna usa el Perigale, su reserva de munición aumenta.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Perigale Set",
-        "description": "Come un soffio di vento, i colpi sparati da questo cecchino a più canne vengono percepiti ma i suoi bersagli non li vedono. I colpi alla testa in rapida successione aumentano l'efficienza munizioni del Perigale. Quando brandito da Voruna, la sua riserva di munizioni aumenta.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Perigale: Zestaw",
-        "description": "Strzały oddane przez tą wielolufową snajperkę są odczuwalne niczym powiew wiatru, ale niewidziane przez cele, do których zmierzają. Szybkie strzały w głowę zwiększają wydajność amunicji Perigale. Kiedy Voruna używa Perigale, zwiększa się pula amunicji tej broni.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Периґейл (комплект)",
-        "description": "Постріли цієї багатоствольної снайперської гвинтівки наче порив вітру — можна відчути, але не побачити. Точні швидкі влучання в голову підвищують дієвість набоїв Периґейл. У руках Воруни гвинтівка має збільшену кількість набоїв.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Perigale"
+    "i18n": {
+        "en": {
+            "item_name": "Perigale Set",
+            "description": "Like a breath of wind, shots fired by this multi-barrel sniper are felt but never seen by its targets. Headshots in quick succession increase the Perigale’s ammo efficiency. When the Perigale is wielded by Voruna, its ammo pool increases.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Perigale",
+            "icon": "items/images/en/perigale_set.679b0e40d7651d8a117e07d1c7039886.png",
+            "thumb": "items/images/en/thumbs/perigale_set.679b0e40d7651d8a117e07d1c7039886.128x128.png"
+        },
+        "ru": {
+            "item_name": "Перигаль: Комплект",
+            "description": "Подобно дуновению ветра, выстрелы этой многоствольной снайперской винтовки ощущаются, но невидимы для целей. Выстрелы в голову в быстрой последовательности увеличивают эффективность боеприпасов Перигаля. Когда Перигаль находится в руках Воруны, его обойма увеличивается.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "페리게일 세트",
+            "description": "한 줄기의 바람처럼, 이 다연장 저격총이 목표물을 향해 발사하는 총격은 느낄 수는 있으되 눈으로 볼 수는 없습니다. 연속으로 빠르게 헤드샷을 명중시킬 시 페리게일의 탄약 효율이 증가합니다. 보루나가 페리게일을 장착하고 있을 시, 최대 탄약량이 증가합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Perigale: Set",
+            "description": "Wie ein Windhauch werden die Schüsse dieses mehrläufigen Scharfschützengewehrs von den Zielen gefühlt, aber nicht gesehen. Kopfschüsse in schneller Abfolge erhöhen die Munitionseffizienz des Perigale. Wenn das Perigale von Voruna geführt wird, erhöht sich sein Munitionspool.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Perigale - Set",
+            "description": "Les tirs de cette arme de précision à canons multiples sont ressentis mais jamais détectés par ses cibles. Les Tirs à la Tête en succession rapide augmentent l'efficacité des munitions du Perigale. Lorsque le Perigale est utilisé par Voruna, sa réserve de munitions augmente.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Perigale: Conjunto",
+            "description": "Assim como uma brisa, os tiros disparados por este Rifle de Precisão com múltiplos canos são sentidos, mas nunca vistos por seus alvos. Acertos de Precisão em rápida sucessão aumentam a Eficiência da Munição do Perigale. A Capacidade de Munição é ampliada quando o Perigale é utilizado pela Voruna.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "月面狂风 一套",
+            "description": "（英文：PERIGALE）就像一阵风，这把多管狙击枪发射的子弹能被它的目标感觉到，却从未被看到。快速连续爆头可提高月面狂风的弹药效率。当 Voruna 手持月面狂风时，它的弹药库会因此增加。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Perigale"
+        },
+        "zh-hant": {
+            "item_name": "肆飆 一套",
+            "description": "（英文：PERIGALE）宛如一陣風，這個多管狙擊槍發射的子彈可以被其目標感覺到卻無法被看到。快速的接連爆頭射擊增加肆飆的彈藥效率。Voruna 握持肆飆時，彈藥池增加。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Perigale"
+        },
+        "es": {
+            "item_name": "Set de Perigale",
+            "description": "Como un soplo de viento, los disparos de este rifle de francotirador de múltiples cañones se sienten pero no son vistos por sus objetivos. Los disparos a la cabeza en rápida sucesión aumentan la eficiencia de munición del Perigale. Cuando Voruna usa el Perigale, su reserva de munición aumenta.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Perigale Set",
+            "description": "Come un soffio di vento, i colpi sparati da questo cecchino a più canne vengono percepiti ma i suoi bersagli non li vedono. I colpi alla testa in rapida successione aumentano l'efficienza munizioni del Perigale. Quando brandito da Voruna, la sua riserva di munizioni aumenta.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Perigale: Zestaw",
+            "description": "Strzały oddane przez tą wielolufową snajperkę są odczuwalne niczym powiew wiatru, ale niewidziane przez cele, do których zmierzają. Szybkie strzały w głowę zwiększają wydajność amunicji Perigale. Kiedy Voruna używa Perigale, zwiększa się pula amunicji tej broni.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Периґейл (комплект)",
+            "description": "Постріли цієї багатоствольної снайперської гвинтівки наче порив вітру — можна відчути, але не побачити. Точні швидкі влучання в голову підвищують дієвість набоїв Периґейл. У руках Воруни гвинтівка має збільшену кількість набоїв.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Perigale"
+        }
     },
     "mastery_level": 8,
     "trading_tax": 6000

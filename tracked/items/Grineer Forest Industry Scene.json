@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/MiscItems/PhotoboothTileGrineerForestIntermediateB"
     },
-    "en": {
-        "item_name": "Grineer Forest Industry Scene",
-        "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Captura"
-    },
-    "ru": {
-        "item_name": "Сцена: Лесная Фабрика Гринир",
-        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0"
-    },
-    "ko": {
-        "item_name": "그리니어 숲 작업장 배경",
-        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Captura"
-    },
-    "de": {
-        "item_name": "Photora-Szene: Grineer Wald Industrie",
-        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Captura"
-    },
-    "fr": {
-        "item_name": "Scène Industrie De La Forêt Grineer",
-        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Captura"
-    },
-    "pt": {
-        "item_name": "Cena: Indústria Grineer Florestal",
-        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Captura"
-    },
-    "zh-hans": {
-        "item_name": "Grineer 森林工业场景",
-        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Captura"
-    },
-    "zh-hant": {
-        "item_name": "Grineer 森林工業場景",
-        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Captura"
-    },
-    "es": {
-        "item_name": "Escena De Industria Del Bosque Grineer",
-        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Estudio"
-    },
-    "it": {
-        "item_name": "Scenario Industria Grineer Nella Foresta",
-        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Captura"
-    },
-    "pl": {
-        "item_name": "Scena: Przemysł Lasu Grineer",
-        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Captura"
-    },
-    "uk": {
-        "item_name": "Панорама: Ґрінерський Ліс — Промислові Будівлі",
-        "description": "Розблоковує цю панораму для використання у cвітлописці (клацніть «Змінити вигляд» у зброярні).",
-        "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+    "i18n": {
+        "en": {
+            "item_name": "Grineer Forest Industry Scene",
+            "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Captura",
+            "icon": "items/images/en/grineer_forest_industry_scene.c07de36b4524d5758e6fbb1f14f637c2.png",
+            "thumb": "items/images/en/thumbs/grineer_forest_industry_scene.c07de36b4524d5758e6fbb1f14f637c2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сцена: Лесная Фабрика Гринир",
+            "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0"
+        },
+        "ko": {
+            "item_name": "그리니어 숲 작업장 배경",
+            "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+        },
+        "de": {
+            "item_name": "Photora-Szene: Grineer Wald Industrie",
+            "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+        },
+        "fr": {
+            "item_name": "Scène Industrie De La Forêt Grineer",
+            "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Captura"
+        },
+        "pt": {
+            "item_name": "Cena: Indústria Grineer Florestal",
+            "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Captura"
+        },
+        "zh-hans": {
+            "item_name": "Grineer 森林工业场景",
+            "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Captura"
+        },
+        "zh-hant": {
+            "item_name": "Grineer 森林工業場景",
+            "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Captura"
+        },
+        "es": {
+            "item_name": "Escena De Industria Del Bosque Grineer",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Estudio"
+        },
+        "it": {
+            "item_name": "Scenario Industria Grineer Nella Foresta",
+            "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+        },
+        "pl": {
+            "item_name": "Scena: Przemysł Lasu Grineer",
+            "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+        },
+        "uk": {
+            "item_name": "Панорама: Ґрінерський Ліс — Промислові Будівлі",
+            "description": "Розблоковує цю панораму для використання у cвітлописці (клацніть «Змінити вигляд» у зброярні).",
+            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+        }
     },
     "trading_tax": 2000
 }

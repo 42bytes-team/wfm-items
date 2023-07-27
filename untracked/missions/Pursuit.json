@@ -6,40 +6,42 @@
     "url_name": "pursuit",
     "icon": "missions/images/pursuit.89abfc217773ad8dda28d1a2efa0811f.png",
     "thumb": "missions/images/thumbs/pursuit.89abfc217773ad8dda28d1a2efa0811f.128x128.png",
-    "en": {
-        "name": "Pursuit"
-    },
-    "ru": {
-        "name": "Pursuit"
-    },
-    "ko": {
-        "name": "Pursuit"
-    },
-    "de": {
-        "name": "Verfolgung"
-    },
-    "fr": {
-        "name": "Pursuit"
-    },
-    "pt": {
-        "name": "Pursuit"
-    },
-    "zh-hans": {
-        "name": "追击"
-    },
-    "zh-hant": {
-        "name": "追擊"
-    },
-    "es": {
-        "name": "Pursuit"
-    },
-    "it": {
-        "name": "Pursuit"
-    },
-    "pl": {
-        "name": "Pursuit"
-    },
-    "uk": {
-        "name": "Погоня"
+    "i18n": {
+        "en": {
+            "name": "Pursuit"
+        },
+        "ru": {
+            "name": "Pursuit"
+        },
+        "ko": {
+            "name": "Pursuit"
+        },
+        "de": {
+            "name": "Verfolgung"
+        },
+        "fr": {
+            "name": "Pursuit"
+        },
+        "pt": {
+            "name": "Pursuit"
+        },
+        "zh-hans": {
+            "name": "追击"
+        },
+        "zh-hant": {
+            "name": "追擊"
+        },
+        "es": {
+            "name": "Pursuit"
+        },
+        "it": {
+            "name": "Pursuit"
+        },
+        "pl": {
+            "name": "Pursuit"
+        },
+        "uk": {
+            "name": "Погоня"
+        }
     }
 }

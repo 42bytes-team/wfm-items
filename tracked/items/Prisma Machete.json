@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaMachete"
     },
-    "en": {
-        "item_name": "Prisma Machete",
-        "description": "The addition of Prisma Crystal allows this otherwise barbaric weapon to elegantly hack through any foe.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
-    },
-    "ru": {
-        "item_name": "Мачете Призма",
-        "description": "Инкрустрация призматических кристаллов позволяет этому оружию варваров элегантно прорываться сквозь любого врага.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
-    },
-    "ko": {
-        "item_name": "프리즈마 마체테",
-        "description": "이 야만적인 무기는 프리즈마 크리스탈을 더한 것 만으로 어떤 적이던 우아하게 베어 넘길 수 있게 되었습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
-    },
-    "de": {
-        "item_name": "Prisma Machete",
-        "description": "Das Hinzufügen von Prismakristallen erlaubt es dieser sonst barbarischen Waffe, jeden Gegner auf elegante Weise zu zerlegen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Prisma_Machete"
-    },
-    "fr": {
-        "item_name": "Machette Prisma",
-        "description": "L'ajout d'un Cristal Prisma permet à cette arme normalement barbare de tailler élégamment en pièce tout ennemi.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
-    },
-    "pt": {
-        "item_name": "Facão Prisma",
-        "description": "A adição do Cristal Prisma permite que esta arma antes bárbara acabe com os inimigos de forma sutil.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
-    },
-    "zh-hans": {
-        "item_name": "棱晶·马谢特砍刀",
-        "description": "（英文：PRISMA MACHETE）这把原本野蛮的武器在融入棱晶后能优雅的斩杀任何敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Machete"
-    },
-    "zh-hant": {
-        "item_name": "棱晶 馬謝特",
-        "description": "（英文：PRISMA MACHETE）這把原本野蠻的武器在融入棱水晶後能優雅的斬殺闖過任何敵人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Machete"
-    },
-    "es": {
-        "item_name": "Machete Prisma",
-        "description": "La adición de cristales prisma le otorga a esta arma, de otra manera barbárica, la habilidad de cortar elegantemente a cualquier enemigo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Machete_Prisma"
-    },
-    "it": {
-        "item_name": "Prisma Machete",
-        "description": "L'aggiunta di Cristalli di Prisma permette a questa altrimenti barbarica arma di affettare elegantemente qualsiasi nemico.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
-    },
-    "pl": {
-        "item_name": "Maczeta Prisma",
-        "description": "Dodatek Kryształów Prisma, pozwala tej (w innym wypadku) barbarzyńskiej broni, na ścinanie wrogów z większą gracją.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Maczeta_Prisma"
-    },
-    "uk": {
-        "item_name": "Мачете-Призма",
-        "description": "Варварський мачете, оздоблений призмовим кристалом. Це дозволяє йому розрізати будь-якого супротивника.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
+    "i18n": {
+        "en": {
+            "item_name": "Prisma Machete",
+            "description": "The addition of Prisma Crystal allows this otherwise barbaric weapon to elegantly hack through any foe.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete",
+            "icon": "items/images/en/prisma_machete.077ffe0833496d83db56de828d5b45ec.png",
+            "thumb": "items/images/en/thumbs/prisma_machete.077ffe0833496d83db56de828d5b45ec.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мачете Призма",
+            "description": "Инкрустрация призматических кристаллов позволяет этому оружию варваров элегантно прорываться сквозь любого врага.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
+        },
+        "ko": {
+            "item_name": "프리즈마 마체테",
+            "description": "이 야만적인 무기는 프리즈마 크리스탈을 더한 것 만으로 어떤 적이던 우아하게 베어 넘길 수 있게 되었습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
+        },
+        "de": {
+            "item_name": "Prisma Machete",
+            "description": "Das Hinzufügen von Prismakristallen erlaubt es dieser sonst barbarischen Waffe, jeden Gegner auf elegante Weise zu zerlegen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Prisma_Machete"
+        },
+        "fr": {
+            "item_name": "Machette Prisma",
+            "description": "L'ajout d'un Cristal Prisma permet à cette arme normalement barbare de tailler élégamment en pièce tout ennemi.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
+        },
+        "pt": {
+            "item_name": "Facão Prisma",
+            "description": "A adição do Cristal Prisma permite que esta arma antes bárbara acabe com os inimigos de forma sutil.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
+        },
+        "zh-hans": {
+            "item_name": "棱晶·马谢特砍刀",
+            "description": "（英文：PRISMA MACHETE）这把原本野蛮的武器在融入棱晶后能优雅的斩杀任何敌人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Machete"
+        },
+        "zh-hant": {
+            "item_name": "棱晶 馬謝特",
+            "description": "（英文：PRISMA MACHETE）這把原本野蠻的武器在融入棱水晶後能優雅的斬殺闖過任何敵人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Machete"
+        },
+        "es": {
+            "item_name": "Machete Prisma",
+            "description": "La adición de cristales prisma le otorga a esta arma, de otra manera barbárica, la habilidad de cortar elegantemente a cualquier enemigo.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Machete_Prisma"
+        },
+        "it": {
+            "item_name": "Prisma Machete",
+            "description": "L'aggiunta di Cristalli di Prisma permette a questa altrimenti barbarica arma di affettare elegantemente qualsiasi nemico.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
+        },
+        "pl": {
+            "item_name": "Maczeta Prisma",
+            "description": "Dodatek Kryształów Prisma, pozwala tej (w innym wypadku) barbarzyńskiej broni, na ścinanie wrogów z większą gracją.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Maczeta_Prisma"
+        },
+        "uk": {
+            "item_name": "Мачете-Призма",
+            "description": "Варварський мачете, оздоблений призмовим кристалом. Це дозволяє йому розрізати будь-якого супротивника.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Machete"
+        }
     },
     "mastery_level": 7,
     "trading_tax": 2000

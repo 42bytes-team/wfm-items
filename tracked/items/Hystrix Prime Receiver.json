@@ -22,65 +22,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Hystrix Prime Receiver",
-        "description": "A prime weapon-crafting component.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Хистрикс Прайм: Приёмник",
-        "description": "Прайм-компонент оружия.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "히스트릭스 프라임 리시버",
-        "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Hystrix Prime: Gehäuse",
-        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Hystrix Prime - Culasse",
-        "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Hystrix Prime: Receptor",
-        "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "豪猪 Prime 枪机",
-        "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "豪豬 Prime 槍機",
-        "description": "製作 Prime 武器的部件。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Receptor De Hystrix Prime",
-        "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Hystrix Prime - Castello",
-        "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Hystrix Prime: Korpus",
-        "description": "Element wytwarzania broni Prime.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Гістрікс-Прайм: Ствольна Коробка",
-        "description": "Деталь прайм-зброї.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Hystrix Prime Receiver",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.png",
+            "thumb": "items/images/en/thumbs/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Хистрикс Прайм: Приёмник",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "히스트릭스 프라임 리시버",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Hystrix Prime: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Hystrix Prime - Culasse",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Hystrix Prime: Receptor",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "豪猪 Prime 枪机",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "豪豬 Prime 槍機",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Receptor De Hystrix Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Hystrix Prime - Castello",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Hystrix Prime: Korpus",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Гістрікс-Прайм: Ствольна Коробка",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 12,
     "ducats": 100,

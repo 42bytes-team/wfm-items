@@ -23,65 +23,69 @@
         "corinth_prime_stock"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Corinth Prime Set",
-        "description": "Heavy in the hand with a bone-crunching kickback. This Prime version of this shotgun adds remote detonation of the weapon's airburst round.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime"
-    },
-    "ru": {
-        "item_name": "Коринф Прайм: Комплект",
-        "description": "Тяжелый в руке, с отдачей до хруста в костях. Эта прайм-версия дробовика добавляет дистанционную детонацию патронов, которыми он стреляет.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%84_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "코린트 프라임 세트",
-        "description": "뼈를 으스러뜨리는 반동이 손 안에 육중하게 감겨옵니다. 이 프라임 버전의 산탄총은 에어버스트 탄환을 원격 폭파시킬 수 있는 추가 기능을 갖추고 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime"
-    },
-    "de": {
-        "item_name": "Corinth Prime: Set",
-        "description": "Liegt schwer in der Hand, mit knochenbrechendem Rückstoß. Diese Prime-Version erweitert die Granatfunktion um eine Fernzündung.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime"
-    },
-    "fr": {
-        "item_name": "Corinth Prime - Set",
-        "description": "Un allié de poids avec un recul non négligeable. La version Prime de ce Fusil à pompe comporte une fonction de détonation à distance des projectiles explosifs.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Corinth_Prime"
-    },
-    "pt": {
-        "item_name": "Corinth Prime: Conjunto",
-        "description": "Um instrumento pesado, com um recuo capaz de quebrar qualquer osso. Esta versão Prime desta escopeta possibilita a detonação remota de seu Disparo Explosivo.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime"
-    },
-    "zh-hans": {
-        "item_name": "科林斯 Prime 一套",
-        "description": "（英文：CORINTH PRIME）份量不轻且具有相当的后坐力。这种霰弹枪的 Prime 版本可以将武器射出的空爆弹远程引爆。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime"
-    },
-    "zh-hant": {
-        "item_name": "科林斯 Prime 一套",
-        "description": "（英文：CORINTH PRIME）擁有碎骨般的反彈力道且沉重有力的握感。這把 Prime 版本的霰彈槍為武器的空爆彈增加了遠端引爆。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime"
-    },
-    "es": {
-        "item_name": "Set de Corinth Prime",
-        "description": "Pesada en la mano con un contragolpe demoledor. La versión Prime de esta escopeta añade una detonación remota de sus proyectiles explosivos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Corinth_Prime"
-    },
-    "it": {
-        "item_name": "Corinth Prime Set",
-        "description": "Un'arma pesante con un contraccolpo frantuma-ossa. La versione Prime di questo fucile a pompa aggiunge una detonazione remota dei suoi proiettili esplosivi.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Orthos_Prime"
-    },
-    "pl": {
-        "item_name": "Corinth Prime: Zestaw",
-        "description": "Cięży w ręce z miażdżącym kości odrzutem. Wersja Prime tej strzelby dodaje zdalną detonacje pocisku wybuchowego.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Corinth_Prime"
-    },
-    "uk": {
-        "item_name": "Коринф-Прайм (комплект)",
-        "description": "Важка рушниця з кісткодробильною віддачею. Поліпшена модель має віддалену детонацію набоїв.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Corinth Prime Set",
+            "description": "Heavy in the hand with a bone-crunching kickback. This Prime version of this shotgun adds remote detonation of the weapon's airburst round.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime",
+            "icon": "items/images/en/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.png",
+            "thumb": "items/images/en/thumbs/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Коринф Прайм: Комплект",
+            "description": "Тяжелый в руке, с отдачей до хруста в костях. Эта прайм-версия дробовика добавляет дистанционную детонацию патронов, которыми он стреляет.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%84_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "코린트 프라임 세트",
+            "description": "뼈를 으스러뜨리는 반동이 손 안에 육중하게 감겨옵니다. 이 프라임 버전의 산탄총은 에어버스트 탄환을 원격 폭파시킬 수 있는 추가 기능을 갖추고 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime"
+        },
+        "de": {
+            "item_name": "Corinth Prime: Set",
+            "description": "Liegt schwer in der Hand, mit knochenbrechendem Rückstoß. Diese Prime-Version erweitert die Granatfunktion um eine Fernzündung.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Trinity_Prime"
+        },
+        "fr": {
+            "item_name": "Corinth Prime - Set",
+            "description": "Un allié de poids avec un recul non négligeable. La version Prime de ce Fusil à pompe comporte une fonction de détonation à distance des projectiles explosifs.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Corinth_Prime"
+        },
+        "pt": {
+            "item_name": "Corinth Prime: Conjunto",
+            "description": "Um instrumento pesado, com um recuo capaz de quebrar qualquer osso. Esta versão Prime desta escopeta possibilita a detonação remota de seu Disparo Explosivo.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trinity_Prime"
+        },
+        "zh-hans": {
+            "item_name": "科林斯 Prime 一套",
+            "description": "（英文：CORINTH PRIME）份量不轻且具有相当的后坐力。这种霰弹枪的 Prime 版本可以将武器射出的空爆弹远程引爆。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime"
+        },
+        "zh-hant": {
+            "item_name": "科林斯 Prime 一套",
+            "description": "（英文：CORINTH PRIME）擁有碎骨般的反彈力道且沉重有力的握感。這把 Prime 版本的霰彈槍為武器的空爆彈增加了遠端引爆。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Corinth_Prime"
+        },
+        "es": {
+            "item_name": "Set de Corinth Prime",
+            "description": "Pesada en la mano con un contragolpe demoledor. La versión Prime de esta escopeta añade una detonación remota de sus proyectiles explosivos.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Corinth_Prime"
+        },
+        "it": {
+            "item_name": "Corinth Prime Set",
+            "description": "Un'arma pesante con un contraccolpo frantuma-ossa. La versione Prime di questo fucile a pompa aggiunge una detonazione remota dei suoi proiettili esplosivi.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Orthos_Prime"
+        },
+        "pl": {
+            "item_name": "Corinth Prime: Zestaw",
+            "description": "Cięży w ręce z miażdżącym kości odrzutem. Wersja Prime tej strzelby dodaje zdalną detonacje pocisku wybuchowego.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Corinth_Prime"
+        },
+        "uk": {
+            "item_name": "Коринф-Прайм (комплект)",
+            "description": "Важка рушниця з кісткодробильною віддачею. Поліпшена модель має віддалену детонацію набоїв.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Corinth_Prime"
+        }
     },
     "mastery_level": 14,
     "ducats": 260,

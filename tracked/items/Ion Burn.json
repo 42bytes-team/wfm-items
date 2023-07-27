@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiBoostSpeed"
     },
-    "en": {
-        "item_name": "Ion Burn",
-        "description": "+67.5% Boost Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ion_Burn"
-    },
-    "ru": {
-        "item_name": "Ионное Горение",
-        "description": "+67.5% к ускорению",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%93%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5"
-    },
-    "ko": {
-        "item_name": "이온 번",
-        "description": "+67.5% 부스트 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ion_Burn"
-    },
-    "de": {
-        "item_name": "Ionenbrand",
-        "description": "+67.5 % Geschwindigkeitsboost",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Ion_Burn"
-    },
-    "fr": {
-        "item_name": "Brûlure Ionique",
-        "description": "+67.5% de Vitesse de Boost",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Br%C3%BBlure_Ionique"
-    },
-    "pt": {
-        "item_name": "Ardência Iônica",
-        "description": "+67.5% de Velocidade do Turbo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Ion_Burn"
-    },
-    "zh-hans": {
-        "item_name": "离子燃烧",
-        "description": "+67.5% 助推速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ion_Burn"
-    },
-    "zh-hant": {
-        "item_name": "離子爆燃",
-        "description": "+67.5% 推進速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ion_Burn"
-    },
-    "es": {
-        "item_name": "Quemadura Iónica",
-        "description": "+67.5 % de velocidad de impulso",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Quemadura_i%C3%B3nica"
-    },
-    "it": {
-        "item_name": "Ion Burn",
-        "description": "+67.5% Boost Velocità",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Ion_Burn"
-    },
-    "pl": {
-        "item_name": "Jonowe Spalanie",
-        "description": "+67.5% Prędkości Przyspieszenia",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Ion_Burn"
-    },
-    "uk": {
-        "item_name": "Іонізатор",
-        "description": "+67.5% до сили пришвидшення.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ion_Burn"
+    "i18n": {
+        "en": {
+            "item_name": "Ion Burn",
+            "description": "+67.5% Boost Speed",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ion_Burn",
+            "icon": "items/images/en/ion_burn.89135105caf28d092f7990aedfdf8e81.png",
+            "thumb": "items/images/en/thumbs/ion_burn.89135105caf28d092f7990aedfdf8e81.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ионное Горение",
+            "description": "+67.5% к ускорению",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%93%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5"
+        },
+        "ko": {
+            "item_name": "이온 번",
+            "description": "+67.5% 부스트 속도",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ion_Burn"
+        },
+        "de": {
+            "item_name": "Ionenbrand",
+            "description": "+67.5 % Geschwindigkeitsboost",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Ion_Burn"
+        },
+        "fr": {
+            "item_name": "Brûlure Ionique",
+            "description": "+67.5% de Vitesse de Boost",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Br%C3%BBlure_Ionique"
+        },
+        "pt": {
+            "item_name": "Ardência Iônica",
+            "description": "+67.5% de Velocidade do Turbo",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Ion_Burn"
+        },
+        "zh-hans": {
+            "item_name": "离子燃烧",
+            "description": "+67.5% 助推速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ion_Burn"
+        },
+        "zh-hant": {
+            "item_name": "離子爆燃",
+            "description": "+67.5% 推進速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ion_Burn"
+        },
+        "es": {
+            "item_name": "Quemadura Iónica",
+            "description": "+67.5 % de velocidad de impulso",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Quemadura_i%C3%B3nica"
+        },
+        "it": {
+            "item_name": "Ion Burn",
+            "description": "+67.5% Boost Velocità",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Ion_Burn"
+        },
+        "pl": {
+            "item_name": "Jonowe Spalanie",
+            "description": "+67.5% Prędkości Przyspieszenia",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Ion_Burn"
+        },
+        "uk": {
+            "item_name": "Іонізатор",
+            "description": "+67.5% до сили пришвидшення.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ion_Burn"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

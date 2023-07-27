@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponImpactDamageMod"
     },
-    "en": {
-        "item_name": "Rupture",
-        "description": "+30% Impact",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rupture"
-    },
-    "ru": {
-        "item_name": "Разрыв",
-        "description": "+30% ударного урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2",
-        "icon": "items/images/ru/rupture.5290f8991b54823669a470be5c23cea9.png",
-        "thumb": "items/images/ru/thumbs/rupture.5290f8991b54823669a470be5c23cea9.128x128.png"
-    },
-    "ko": {
-        "item_name": "럽쳐",
-        "description": "+30% 충격",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rupture"
-    },
-    "de": {
-        "item_name": "Ruptur",
-        "description": "+30 % Einschlag",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Ruptur"
-    },
-    "fr": {
-        "item_name": "Rupture",
-        "description": "+30% Impact",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rupture"
-    },
-    "pt": {
-        "item_name": "Rupture",
-        "description": "+30% de Colisivo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rupture"
-    },
-    "zh-hans": {
-        "item_name": "破裂",
-        "description": "+30% 冲击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rupture"
-    },
-    "zh-hant": {
-        "item_name": "破裂",
-        "description": "+30% 衝擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rupture"
-    },
-    "es": {
-        "item_name": "Rotura",
-        "description": "+30% de impacto",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ruptura"
-    },
-    "it": {
-        "item_name": "Rupture",
-        "description": "+30% Impatto",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rupture"
-    },
-    "pl": {
-        "item_name": "Pęknięcie",
-        "description": "+30% Obrażeń Miażdżących",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/P%C4%99kni%C4%99cie"
-    },
-    "uk": {
-        "item_name": "Пробій",
-        "description": "+30% до ударної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rupture"
+    "i18n": {
+        "en": {
+            "item_name": "Rupture",
+            "description": "+90% Impact",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rupture",
+            "icon": "items/images/en/rupture.630bd87001b46e7542217517d61eb74f.png",
+            "thumb": "items/images/en/thumbs/rupture.630bd87001b46e7542217517d61eb74f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Разрыв",
+            "description": "+90% ударного урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2",
+            "icon": "items/images/ru/rupture.5290f8991b54823669a470be5c23cea9.png",
+            "thumb": "items/images/ru/thumbs/rupture.5290f8991b54823669a470be5c23cea9.128x128.png"
+        },
+        "ko": {
+            "item_name": "럽쳐",
+            "description": "+90% 충격",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rupture"
+        },
+        "de": {
+            "item_name": "Ruptur",
+            "description": "+90 % Einschlag",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Ruptur"
+        },
+        "fr": {
+            "item_name": "Rupture",
+            "description": "+90% Impact",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Rupture"
+        },
+        "pt": {
+            "item_name": "Rupture",
+            "description": "+90% de Colisivo",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rupture"
+        },
+        "zh-hans": {
+            "item_name": "破裂",
+            "description": "+90% 冲击伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rupture"
+        },
+        "zh-hant": {
+            "item_name": "破裂",
+            "description": "+90% 衝擊傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rupture"
+        },
+        "es": {
+            "item_name": "Rotura",
+            "description": "+90% de impacto",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Ruptura"
+        },
+        "it": {
+            "item_name": "Rupture",
+            "description": "+90% Impatto",
+            "wiki_link": "http://warframe.wikia.com/wiki/Rupture"
+        },
+        "pl": {
+            "item_name": "Pęknięcie",
+            "description": "+90% Obrażeń Miażdżących",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/P%C4%99kni%C4%99cie"
+        },
+        "uk": {
+            "item_name": "Пробій",
+            "description": "+90% до ударної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rupture"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

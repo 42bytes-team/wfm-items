@@ -13,68 +13,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Warframe/AvatarGroundFireDmgMod"
     },
-    "en": {
-        "item_name": "Provoked",
-        "description": "+110% Damage during Bleedout",
-        "wiki_link": "https://warframe.fandom.com/wiki/Provoked"
-    },
-    "ru": {
-        "item_name": "Спровоцированный",
-        "description": "+110% к урону при кровотечении",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9",
-        "icon": "items/images/ru/provoked.14f3fb01098e99ed454369ede09d56ba.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/provoked.14f3fb01098e99ed454369ede09d56ba.128x128.png"
-    },
-    "ko": {
-        "item_name": "프로보크드",
-        "description": "+110% 출혈 중 적에게 주는 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Provoked"
-    },
-    "de": {
-        "item_name": "Provozieren",
-        "description": "+110 % Schaden während Ausbluten",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Provozieren"
-    },
-    "fr": {
-        "item_name": "Provocation",
-        "description": "+110% de Dégâts durant l'Agonie",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Provocation"
-    },
-    "pt": {
-        "item_name": "Provoked",
-        "description": "+110% de Dano durante o Sangramento",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Provoked"
-    },
-    "zh-hans": {
-        "item_name": "激怒",
-        "description": "+110% 倒地时伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Provoked"
-    },
-    "zh-hant": {
-        "item_name": "激怒",
-        "description": "+110% 瀕死時傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Provoked"
-    },
-    "es": {
-        "item_name": "Provocado",
-        "description": "+110% de daño durante desangrado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Provocado"
-    },
-    "it": {
-        "item_name": "Provoked",
-        "description": "+110% Danno durante il Sanguinamento",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Provoked"
-    },
-    "pl": {
-        "item_name": "Prowokacja",
-        "description": "+110% Obrażenia w czasie wykrwawiania",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Prowokacja"
-    },
-    "uk": {
-        "item_name": "Провокація",
-        "description": "+110% до шкоди під час втрати дієздатності.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Provoked"
+    "i18n": {
+        "en": {
+            "item_name": "Provoked",
+            "description": "+110% Damage during Bleedout",
+            "wiki_link": "https://warframe.fandom.com/wiki/Provoked",
+            "icon": "items/images/en/provoked.d03668dd7faa355653d8c8b691520299.png",
+            "thumb": "items/images/en/thumbs/provoked.d03668dd7faa355653d8c8b691520299.128x128.png"
+        },
+        "ru": {
+            "item_name": "Спровоцированный",
+            "description": "+110% к урону при кровотечении",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9",
+            "icon": "items/images/ru/provoked.14f3fb01098e99ed454369ede09d56ba.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/provoked.14f3fb01098e99ed454369ede09d56ba.128x128.png"
+        },
+        "ko": {
+            "item_name": "프로보크드",
+            "description": "+110% 출혈 중 적에게 주는 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Provoked"
+        },
+        "de": {
+            "item_name": "Provozieren",
+            "description": "+110 % Schaden während Ausbluten",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Provozieren"
+        },
+        "fr": {
+            "item_name": "Provocation",
+            "description": "+110% de Dégâts durant l'Agonie",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Provocation"
+        },
+        "pt": {
+            "item_name": "Provoked",
+            "description": "+110% de Dano durante o Sangramento",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Provoked"
+        },
+        "zh-hans": {
+            "item_name": "激怒",
+            "description": "+110% 倒地时伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Provoked"
+        },
+        "zh-hant": {
+            "item_name": "激怒",
+            "description": "+110% 瀕死時傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Provoked"
+        },
+        "es": {
+            "item_name": "Provocado",
+            "description": "+110% de daño durante desangrado",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Provocado"
+        },
+        "it": {
+            "item_name": "Provoked",
+            "description": "+110% Danno durante il Sanguinamento",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Provoked"
+        },
+        "pl": {
+            "item_name": "Prowokacja",
+            "description": "+110% Obrażenia w czasie wykrwawiania",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Prowokacja"
+        },
+        "uk": {
+            "item_name": "Провокація",
+            "description": "+110% до шкоди під час втрати дієздатності",
+            "wiki_link": "https://warframe.fandom.com/wiki/Provoked"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 10,

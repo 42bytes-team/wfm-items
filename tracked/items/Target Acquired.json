@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/SniperHeadshotMultiplierMod"
     },
-    "en": {
-        "item_name": "Target Acquired",
-        "description": "+60% to Headshot Multiplier",
-        "wiki_link": "https://warframe.fandom.com/wiki/Target_Acquired"
-    },
-    "ru": {
-        "item_name": "Цель Получена",
-        "description": "+60% к множителю урона в голову",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A6%D0%B5%D0%BB%D1%8C_%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B0",
-        "icon": "items/images/ru/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.png",
-        "thumb": "items/images/ru/thumbs/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.128x128.png"
-    },
-    "ko": {
-        "item_name": "타겟 어콰이어드",
-        "description": "+60% 헤드샷 피해 증가",
-        "wiki_link": "https://warframe.fandom.com/wiki/Target_Acquired"
-    },
-    "de": {
-        "item_name": "Ziel Erfasst",
-        "description": "+60 % zu Kopfschuss Multiplikator",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Ziel_erfasst"
-    },
-    "fr": {
-        "item_name": "Cible Acquise",
-        "description": "+60% au Multi. de Tir à la tête",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cible_Acquise"
-    },
-    "pt": {
-        "item_name": "Target Acquired",
-        "description": "+60% de Multiplicador de Acertos de Precisão",
-        "wiki_link": "http://warframe.wikia.com/wiki/Target_Acquired"
-    },
-    "zh-hans": {
-        "item_name": "锁定目标",
-        "description": "+60% 爆头倍率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Target_Acquired"
-    },
-    "zh-hant": {
-        "item_name": "鎖定目標",
-        "description": "+60% 爆頭倍率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Target_Acquired"
-    },
-    "es": {
-        "item_name": "Objetivo Adquirido",
-        "description": "+60% al multiplicador de disparo a la cabeza",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Objetivo_localizado"
-    },
-    "it": {
-        "item_name": "Target Acquired",
-        "description": "+60% Moltiplicatore Colpo alla Testa",
-        "wiki_link": "http://warframe.wikia.com/wiki/Target_Acquired"
-    },
-    "pl": {
-        "item_name": "Potwierdzony Cel",
-        "description": "+60% do Mnożnika trafienia w Głowę",
-        "wiki_link": "http://warframe.wikia.com/wiki/Target_Acquired"
-    },
-    "uk": {
-        "item_name": "Визначена Ціль",
-        "description": "+60% до множника влучань у голову.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Target_Acquired"
+    "i18n": {
+        "en": {
+            "item_name": "Target Acquired",
+            "description": "+60% to Headshot Multiplier",
+            "wiki_link": "https://warframe.fandom.com/wiki/Target_Acquired",
+            "icon": "items/images/en/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.png",
+            "thumb": "items/images/en/thumbs/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.128x128.png"
+        },
+        "ru": {
+            "item_name": "Цель Получена",
+            "description": "+60% к множителю урона в голову",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A6%D0%B5%D0%BB%D1%8C_%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B0",
+            "icon": "items/images/ru/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.png",
+            "thumb": "items/images/ru/thumbs/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.128x128.png"
+        },
+        "ko": {
+            "item_name": "타겟 어콰이어드",
+            "description": "+60% 헤드샷 피해 증가",
+            "wiki_link": "https://warframe.fandom.com/wiki/Target_Acquired"
+        },
+        "de": {
+            "item_name": "Ziel Erfasst",
+            "description": "+60 % zu Kopfschuss Multiplikator",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Ziel_erfasst"
+        },
+        "fr": {
+            "item_name": "Cible Acquise",
+            "description": "+60% au Multi. de Tir à la tête",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Cible_Acquise"
+        },
+        "pt": {
+            "item_name": "Target Acquired",
+            "description": "+60% de Multiplicador de Acertos de Precisão",
+            "wiki_link": "http://warframe.wikia.com/wiki/Target_Acquired"
+        },
+        "zh-hans": {
+            "item_name": "锁定目标",
+            "description": "+60% 爆头倍率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Target_Acquired"
+        },
+        "zh-hant": {
+            "item_name": "鎖定目標",
+            "description": "+60% 爆頭倍率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Target_Acquired"
+        },
+        "es": {
+            "item_name": "Objetivo Adquirido",
+            "description": "+60% al multiplicador de disparo a la cabeza",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Objetivo_localizado"
+        },
+        "it": {
+            "item_name": "Target Acquired",
+            "description": "+60% Moltiplicatore Colpo alla Testa",
+            "wiki_link": "http://warframe.wikia.com/wiki/Target_Acquired"
+        },
+        "pl": {
+            "item_name": "Potwierdzony Cel",
+            "description": "+60% do Mnożnika trafienia w Głowę",
+            "wiki_link": "http://warframe.wikia.com/wiki/Target_Acquired"
+        },
+        "uk": {
+            "item_name": "Визначена Ціль",
+            "description": "+60% до множника влучань у голову",
+            "wiki_link": "https://warframe.fandom.com/wiki/Target_Acquired"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

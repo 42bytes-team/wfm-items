@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionBlindMod"
     },
-    "en": {
-        "item_name": "Out Of Sight",
-        "description": "Blinds enemies within 18m on Mercy Kill",
-        "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
-    },
-    "ru": {
-        "item_name": "Вне Поля Зрения",
-        "description": "Ослепляет врагов в радиусе 18м при выполнении убийства «Милосердием»",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BD%D0%B5_%D0%9F%D0%BE%D0%BB%D1%8F_%D0%97%D1%80%D0%B5%D0%BD%D0%B8%D1%8F",
-        "icon": "items/images/ru/out_of_sight.3fd48ca6e6f60baf55a79faea2301475.png",
-        "thumb": "items/images/ru/thumbs/out_of_sight.3fd48ca6e6f60baf55a79faea2301475.128x128.png"
-    },
-    "ko": {
-        "item_name": "아웃 오브 사이트",
-        "description": "자비의 일격 시 18m 내의 적 실명",
-        "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
-    },
-    "de": {
-        "item_name": "Aus Den Augen",
-        "description": "Blende bei einem Gnadenstoß Gegner innerhalb von 18 m",
-        "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
-    },
-    "fr": {
-        "item_name": "Hors De Vue",
-        "description": "Aveugle les ennemis dans un rayon de 18m lors d'une élimination par Miséricorde",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Hors_de_Vue"
-    },
-    "pt": {
-        "item_name": "Out Of Sight",
-        "description": "Cega inimigos dentro de 18m durante Finalizações de Misericórdia",
-        "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
-    },
-    "zh-hans": {
-        "item_name": "视野之外",
-        "description": "怜悯之击时致盲 18 米范围内的敌人",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Out_Of_Sight"
-    },
-    "zh-hant": {
-        "item_name": "有眼如盲",
-        "description": "慈悲斬殺時將 18 公尺內的敵人致盲",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Out_Of_Sight"
-    },
-    "es": {
-        "item_name": "Fuera De Vista",
-        "description": "Ciega a los enemigos dentro de 18 m en un asesinato de Misericordia",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fuera_de_vista"
-    },
-    "it": {
-        "item_name": "Out Of Sight",
-        "description": "Acceca i nemici entro 18m eseguendo un'uccisione Mercy",
-        "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
-    },
-    "pl": {
-        "item_name": "Poza Zasięgiem Wzroku",
-        "description": "Oślep wrogów w zasięgu 18m po zabiciu Miłosierdziem",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Poza_Zasi%C4%99giem_Wzroku"
-    },
-    "uk": {
-        "item_name": "Геть З Очей",
-        "description": "Вороги у межах 18 м від добитого паразоном ворога сліпнуть.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
+    "i18n": {
+        "en": {
+            "item_name": "Out Of Sight",
+            "description": "Blinds enemies within 18m on Mercy Kill",
+            "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight",
+            "icon": "items/images/en/out_of_sight.5464b7b84606865045dec7b82112fc58.png",
+            "thumb": "items/images/en/thumbs/out_of_sight.5464b7b84606865045dec7b82112fc58.128x128.png"
+        },
+        "ru": {
+            "item_name": "Вне Поля Зрения",
+            "description": "Ослепляет врагов в радиусе 18м при выполнении убийства «Милосердием»",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BD%D0%B5_%D0%9F%D0%BE%D0%BB%D1%8F_%D0%97%D1%80%D0%B5%D0%BD%D0%B8%D1%8F",
+            "icon": "items/images/ru/out_of_sight.3fd48ca6e6f60baf55a79faea2301475.png",
+            "thumb": "items/images/ru/thumbs/out_of_sight.3fd48ca6e6f60baf55a79faea2301475.128x128.png"
+        },
+        "ko": {
+            "item_name": "아웃 오브 사이트",
+            "description": "자비의 일격 시 18m 내의 적 실명",
+            "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
+        },
+        "de": {
+            "item_name": "Aus Den Augen",
+            "description": "Blende bei einem Gnadenstoß Gegner innerhalb von 18 m",
+            "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
+        },
+        "fr": {
+            "item_name": "Hors De Vue",
+            "description": "Aveugle les ennemis dans un rayon de 18m lors d'une élimination par Miséricorde",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Hors_de_Vue"
+        },
+        "pt": {
+            "item_name": "Out Of Sight",
+            "description": "Cega inimigos dentro de 18m durante Finalizações de Misericórdia",
+            "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
+        },
+        "zh-hans": {
+            "item_name": "视野之外",
+            "description": "怜悯之击时致盲 18 米范围内的敌人",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Out_Of_Sight"
+        },
+        "zh-hant": {
+            "item_name": "有眼如盲",
+            "description": "慈悲斬殺時將 18 公尺內的敵人致盲",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Out_Of_Sight"
+        },
+        "es": {
+            "item_name": "Fuera De Vista",
+            "description": "Ciega a los enemigos dentro de 18 m en un asesinato de Misericordia",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Fuera_de_vista"
+        },
+        "it": {
+            "item_name": "Out Of Sight",
+            "description": "Acceca i nemici entro 18m eseguendo un'uccisione Mercy",
+            "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
+        },
+        "pl": {
+            "item_name": "Poza Zasięgiem Wzroku",
+            "description": "Oślep wrogów w zasięgu 18m po zabiciu Miłosierdziem",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Poza_Zasi%C4%99giem_Wzroku"
+        },
+        "uk": {
+            "item_name": "Геть З Очей",
+            "description": "Вороги у межах 18 м від добитого паразоном ворога сліпнуть.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Out_Of_Sight"
+        }
     },
     "rarity": "rare",
     "trading_tax": 8000

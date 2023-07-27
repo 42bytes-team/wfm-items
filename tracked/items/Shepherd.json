@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Aura/WarframeAuraLoyalHerdMod"
     },
-    "en": {
-        "item_name": "Shepherd",
-        "description": "Increases Companion Health and Armor. +300 Health\n+180 Armor",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
-    },
-    "ru": {
-        "item_name": "Пастырь",
-        "description": "Увеличивает Здоровье и Броню компаньона. +300 здоровья\n+180 к броне",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
-    },
-    "ko": {
-        "item_name": "셰퍼드",
-        "description": "동반자의 체력 및 방어력을 증가시킵니다. +300 체력\n+180 방어력",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
-    },
-    "de": {
-        "item_name": "Schäfer",
-        "description": "Erhöht Gesundheit und Rüstung von Begleitern. +300 Leben\n+180 Rüstung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sch%C3%B6pfer"
-    },
-    "fr": {
-        "item_name": "Dresseur",
-        "description": "Augmente la Santé et l'Armure des Compagnons. +300 Santé\n+180 Armure",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Dresseur"
-    },
-    "pt": {
-        "item_name": "Shepherd",
-        "description": "Aumentará a Vida e a Armadura de Companheiros. +300 Vida\n+180 Armadura",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
-    },
-    "zh-hans": {
-        "item_name": "牧羊人",
-        "description": "提升同伴的生命值与护甲。 +300 生命值\n+180 护甲",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shepherd"
-    },
-    "zh-hant": {
-        "item_name": "牧羊人",
-        "description": "提升同伴的生命值與護甲。 +300 生命值\n+180 護甲",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shepherd"
-    },
-    "es": {
-        "item_name": "Pastor",
-        "description": "Aumenta la salud y la armadura del compañero. +300 de salud\n+180 de armadura",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pastor"
-    },
-    "it": {
-        "item_name": "Shepherd",
-        "description": "Aumenta la Salute e l'Armatura del Compagno. +300 Salute\n+180 Armatura",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
-    },
-    "pl": {
-        "item_name": "Pasterz",
-        "description": "Zwiększa Życie i Pancerz Towarzysza. +300 Życie\n+180 Pancerza",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pancerz"
-    },
-    "uk": {
-        "item_name": "Пастух",
-        "description": "Збільшується здоров’я та захист супутника. +300 до здоров’я.\n+180 до захисту.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
+    "i18n": {
+        "en": {
+            "item_name": "Shepherd",
+            "description": "Increases Companion Health and Armor. +300 Health\n+180 Armor",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shepherd",
+            "icon": "items/images/en/shepherd.f34b2a53b877927bfc4356ebe15ea9f7.png",
+            "thumb": "items/images/en/thumbs/shepherd.f34b2a53b877927bfc4356ebe15ea9f7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Пастырь",
+            "description": "Увеличивает Здоровье и Броню компаньона. +300 здоровья\n+180 к броне",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+        },
+        "ko": {
+            "item_name": "셰퍼드",
+            "description": "동반자의 체력 및 방어력을 증가시킵니다. +300 체력\n+180 방어력",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
+        },
+        "de": {
+            "item_name": "Schäfer",
+            "description": "Erhöht Gesundheit und Rüstung von Begleitern. +300 Leben\n+180 Rüstung",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Sch%C3%B6pfer"
+        },
+        "fr": {
+            "item_name": "Dresseur",
+            "description": "Augmente la Santé et l'Armure des Compagnons. +300 Santé\n+180 Armure",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Dresseur"
+        },
+        "pt": {
+            "item_name": "Shepherd",
+            "description": "Aumentará a Vida e a Armadura de Companheiros. +300 Vida\n+180 Armadura",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
+        },
+        "zh-hans": {
+            "item_name": "牧羊人",
+            "description": "提升同伴的生命值与护甲。 +300 生命值\n+180 护甲",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Shepherd"
+        },
+        "zh-hant": {
+            "item_name": "牧羊人",
+            "description": "提升同伴的生命值與護甲。 +300 生命值\n+180 護甲",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Shepherd"
+        },
+        "es": {
+            "item_name": "Pastor",
+            "description": "Aumenta la salud y la armadura del compañero. +300 de salud\n+180 de armadura",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Pastor"
+        },
+        "it": {
+            "item_name": "Shepherd",
+            "description": "Aumenta la Salute e l'Armatura del Compagno. +300 Salute\n+180 Armatura",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
+        },
+        "pl": {
+            "item_name": "Pasterz",
+            "description": "Zwiększa Życie i Pancerz Towarzysza. +300 Życie\n+180 Pancerza",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Pancerz"
+        },
+        "uk": {
+            "item_name": "Пастух",
+            "description": "Збільшується здоров’я та захист супутника. +300 до здоров’я\n+180 до захисту",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shepherd"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

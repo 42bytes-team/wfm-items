@@ -14,65 +14,69 @@
         "uniq_name": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
         "type": "imprint"
     },
-    "en": {
-        "item_name": "Smeeta Kavat Imprint",
-        "description": "This sly feline is playful yet devious.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smeeta_Kavat"
-    },
-    "ru": {
-        "item_name": "Кават: Смита: Отпечаток",
-        "description": "Это хитрое существо из семейства кошачьих игриво, но настолько же и коварно.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BC%D0%B8%D1%82%D0%B0_%D0%9A%D0%B0%D0%B2%D0%B0%D1%82"
-    },
-    "ko": {
-        "item_name": "스미타 카밧 임프린트",
-        "description": "이 교활한 고양잇과 동물은 장난기가 많고 의뭉스럽습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smeeta_Kavat"
-    },
-    "de": {
-        "item_name": "Smeeta Kavat (Genetischer Abdruck)",
-        "description": "Diese gerissene Kavat ist spielerisch und doch listig.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Smeeta_Kavat"
-    },
-    "fr": {
-        "item_name": "Kavat Smeeta (Empreinte)",
-        "description": "Ce malicieux félin est joueur, mais sournois.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kavat_Smeeta"
-    },
-    "pt": {
-        "item_name": "Kavat Smeeta (Código Genético)",
-        "description": "Este felino sagaz é brincalhão, porém astuto.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kavat#Smeeta%20Kavat"
-    },
-    "zh-hans": {
-        "item_name": "笑面型库娃 基因印记",
-        "description": "这只狡猾的猫既好玩又诡诈。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smeeta_Kavat"
-    },
-    "zh-hant": {
-        "item_name": "笑面型庫娃 基因印記",
-        "description": "這隻狡猾的貓既好玩又詭詐。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smeeta_Kavat"
-    },
-    "es": {
-        "item_name": "Impronta de Kavat Smeeta",
-        "description": "Este felino es juguetón pero astuto.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Kavat_Smeeta"
-    },
-    "it": {
-        "item_name": "Smeeta Kavat Imprint",
-        "description": "Questo scaltro felino è giocoso ma subdolo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kavat#Smeeta%20Kavat"
-    },
-    "pl": {
-        "item_name": "Kavat Smeeta: Genotyp",
-        "description": "Ten figlarny kotowaty jest skory do zabaw, jednak pozostając niebezpiecznym.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kavat_Smeeta"
-    },
-    "uk": {
-        "item_name": "Відбиток: Смітовий Кават",
-        "description": "Хоч цей представник роду котячих і грайливий, та все ж підступний.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smeeta_Kavat"
+    "i18n": {
+        "en": {
+            "item_name": "Smeeta Kavat Imprint",
+            "description": "This sly feline is playful yet devious.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smeeta_Kavat",
+            "icon": "items/images/en/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.png",
+            "thumb": "items/images/en/thumbs/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кават: Смита: Отпечаток",
+            "description": "Это хитрое существо из семейства кошачьих игриво, но настолько же и коварно.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BC%D0%B8%D1%82%D0%B0_%D0%9A%D0%B0%D0%B2%D0%B0%D1%82"
+        },
+        "ko": {
+            "item_name": "스미타 카밧 임프린트",
+            "description": "이 교활한 고양잇과 동물은 장난기가 많고 의뭉스럽습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smeeta_Kavat"
+        },
+        "de": {
+            "item_name": "Smeeta Kavat (Genetischer Abdruck)",
+            "description": "Diese gerissene Kavat ist spielerisch und doch listig.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Smeeta_Kavat"
+        },
+        "fr": {
+            "item_name": "Kavat Smeeta (Empreinte)",
+            "description": "Ce malicieux félin est joueur, mais sournois.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Kavat_Smeeta"
+        },
+        "pt": {
+            "item_name": "Kavat Smeeta (Código Genético)",
+            "description": "Este felino sagaz é brincalhão, porém astuto.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Kavat#Smeeta%20Kavat"
+        },
+        "zh-hans": {
+            "item_name": "笑面型库娃 基因印记",
+            "description": "这只狡猾的猫既好玩又诡诈。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Smeeta_Kavat"
+        },
+        "zh-hant": {
+            "item_name": "笑面型庫娃 基因印記",
+            "description": "這隻狡猾的貓既好玩又詭詐。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Smeeta_Kavat"
+        },
+        "es": {
+            "item_name": "Impronta de Kavat Smeeta",
+            "description": "Este felino es juguetón pero astuto.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Kavat_Smeeta"
+        },
+        "it": {
+            "item_name": "Smeeta Kavat Imprint",
+            "description": "Questo scaltro felino è giocoso ma subdolo.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Kavat#Smeeta%20Kavat"
+        },
+        "pl": {
+            "item_name": "Kavat Smeeta: Genotyp",
+            "description": "Ten figlarny kotowaty jest skory do zabaw, jednak pozostając niebezpiecznym.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Kavat_Smeeta"
+        },
+        "uk": {
+            "item_name": "Відбиток: Смітовий Кават",
+            "description": "Хоч цей представник роду котячих і грайливий, та все ж підступний.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smeeta_Kavat"
+        }
     },
     "trading_tax": 2000
 }

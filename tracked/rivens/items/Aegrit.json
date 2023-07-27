@@ -5,57 +5,59 @@
     "riven_type": "pistol",
     "icon": "riven_item/images/aegrit.3c6f1892e31ea35858cd3961b7618757.png",
     "thumb": "riven_item/images/thumbs/aegrit.3c6f1892e31ea35858cd3961b7618757.128x128.png",
-    "disposition": 0.65,
+    "disposition": 0.75,
     "mastery_level": 11,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb"
     },
-    "en": {
-        "item_name": "Aegrit",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Эгрит",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "아에그리트",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Aegrit",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Aegrit",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Aegrit",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "骇敌榴弹",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "威膽",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Aegrit",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Aegrit",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Aegrit",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Еґріт",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Aegrit",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Эгрит",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "아에그리트",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Aegrit",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Aegrit",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Aegrit",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "骇敌榴弹",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "威膽",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Aegrit",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Aegrit",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Aegrit",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Еґріт",
+            "wiki_link": null
+        }
     }
 }

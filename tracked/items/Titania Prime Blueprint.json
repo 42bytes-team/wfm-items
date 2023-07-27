@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Titania Prime Blueprint",
-        "description": "Tempting and terrifying, this is Titania in her ultimate form.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime"
-    },
-    "ru": {
-        "item_name": "Титания Прайм (Чертеж)",
-        "description": "Царственна и наводящая ужас - Титания в форме совершенства.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "티타니아 프라임 설계도",
-        "description": "매혹적이면서도 공포스러운, 티타니아의 궁극적인 모습입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime"
-    },
-    "de": {
-        "item_name": "Titania Prime Blaupause",
-        "description": "Versuchend und erschreckend, dies ist Titania in ihrer ultimativen Form.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Nikana_Prime"
-    },
-    "fr": {
-        "item_name": "Titania Prime (Schéma)",
-        "description": "Envoûtante et terrifiante, voici Titania dans sa forme ultime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Titania_Prime"
-    },
-    "pt": {
-        "item_name": "Titania Prime (Diagrama)",
-        "description": "Encantadora e aterrorizante, esta é a Titania em sua forma final.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nikana_Prime"
-    },
-    "zh-hans": {
-        "item_name": "Titania Prime 蓝图",
-        "description": "诱人而又令人恐惧，这就是 Titania 的终极形态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Titania_Prime"
-    },
-    "zh-hant": {
-        "item_name": "Titania Prime 藍圖",
-        "description": "誘人且駭人，這是 Titania 的最終形態。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Titania_Prime"
-    },
-    "es": {
-        "item_name": "Plano de Titania Prime",
-        "description": "Tentadora y aterradora, esta es Titania en su forma definitiva.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Titania_Prime"
-    },
-    "it": {
-        "item_name": "Titania Prime (Schema)",
-        "description": "Allettante e terrificante, questa è Titania nella sua forma definitiva.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Nikana_Prime"
-    },
-    "pl": {
-        "item_name": "Titania Prime - Schemat",
-        "description": "Kusząca i przerażająca jest Titania w swojej ostatecznej formie.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Titania_Prime"
-    },
-    "uk": {
-        "item_name": "Титанія-Прайм (креслення)",
-        "description": "Смертоносна й жахлива королева фей у своїй бездоганній формі.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Titania Prime Blueprint",
+            "description": "Tempting and terrifying, this is Titania in her ultimate form.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime",
+            "icon": "items/images/en/titania_prime_blueprint.d783da2b4926bc3760d50bba21eff7db.png",
+            "thumb": "items/images/en/thumbs/titania_prime_blueprint.d783da2b4926bc3760d50bba21eff7db.128x128.png"
+        },
+        "ru": {
+            "item_name": "Титания Прайм (Чертеж)",
+            "description": "Царственна и наводящая ужас - Титания в форме совершенства.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "티타니아 프라임 설계도",
+            "description": "매혹적이면서도 공포스러운, 티타니아의 궁극적인 모습입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime"
+        },
+        "de": {
+            "item_name": "Titania Prime Blaupause",
+            "description": "Versuchend und erschreckend, dies ist Titania in ihrer ultimativen Form.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Nikana_Prime"
+        },
+        "fr": {
+            "item_name": "Titania Prime (Schéma)",
+            "description": "Envoûtante et terrifiante, voici Titania dans sa forme ultime.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Titania_Prime"
+        },
+        "pt": {
+            "item_name": "Titania Prime (Diagrama)",
+            "description": "Encantadora e aterrorizante, esta é a Titania em sua forma final.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Nikana_Prime"
+        },
+        "zh-hans": {
+            "item_name": "Titania Prime 蓝图",
+            "description": "诱人而又令人恐惧，这就是 Titania 的终极形态。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Titania_Prime"
+        },
+        "zh-hant": {
+            "item_name": "Titania Prime 藍圖",
+            "description": "誘人且駭人，這是 Titania 的最終形態。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Titania_Prime"
+        },
+        "es": {
+            "item_name": "Plano de Titania Prime",
+            "description": "Tentadora y aterradora, esta es Titania en su forma definitiva.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Titania_Prime"
+        },
+        "it": {
+            "item_name": "Titania Prime (Schema)",
+            "description": "Allettante e terrificante, questa è Titania nella sua forma definitiva.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Nikana_Prime"
+        },
+        "pl": {
+            "item_name": "Titania Prime - Schemat",
+            "description": "Kusząca i przerażająca jest Titania w swojej ostatecznej formie.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Titania_Prime"
+        },
+        "uk": {
+            "item_name": "Титанія-Прайм (креслення)",
+            "description": "Смертоносна й жахлива королева фей у своїй бездоганній формі.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Titania_Prime"
+        }
     },
     "mastery_level": 0,
     "ducats": 45,

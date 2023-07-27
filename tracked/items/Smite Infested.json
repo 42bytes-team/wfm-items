@@ -13,68 +13,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageInfested"
     },
-    "en": {
-        "item_name": "Smite Infested",
-        "description": "+30% Damage to Infested",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smite_Infested"
-    },
-    "ru": {
-        "item_name": "Крушитель: Заражённые",
-        "description": "+30% урона Заражённым",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5",
-        "icon": "items/images/ru/smite_infested.51cb8b8098f6c41fb5c25f148464d124.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/smite_infested.51cb8b8098f6c41fb5c25f148464d124.128x128.png"
-    },
-    "ko": {
-        "item_name": "스마이트 인페스티드",
-        "description": "인페스티드에 대한 피해 +30%",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smite_Infested"
-    },
-    "de": {
-        "item_name": "Befallene Bestrafen",
-        "description": "+30 % Schaden gegen Befallene",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Befallene_Bestrafen"
-    },
-    "fr": {
-        "item_name": "Châtie-Infestés",
-        "description": "+30% de Dégâts aux Infestés",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ch%C3%A2tie-Infest%C3%A9s"
-    },
-    "pt": {
-        "item_name": "Smite Infested",
-        "description": "+30% de Dano em Infestados",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Smite_Infusion"
-    },
-    "zh-hans": {
-        "item_name": "毁灭 Infested",
-        "description": "+30% 对 Infested 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smite_Infested"
-    },
-    "zh-hant": {
-        "item_name": "毀滅 Infested",
-        "description": "+30% 對 Infested 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smite_Infested"
-    },
-    "es": {
-        "item_name": "Castiga Infestados",
-        "description": "+30% de daño a los infestados",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Castiga_infestados"
-    },
-    "it": {
-        "item_name": "Smite Infested",
-        "description": "+30% Danno Su Infested",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Smite_Infested"
-    },
-    "pl": {
-        "item_name": "Rozpruwacz Plagi",
-        "description": "+30% Obrażeń zadawanych Zainfekowanym",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozrywacz_Prime"
-    },
-    "uk": {
-        "item_name": "Вирізання Заражених",
-        "description": "+30% до завдаваної шкоди зараженим.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smite_Infested"
+    "i18n": {
+        "en": {
+            "item_name": "Smite Infested",
+            "description": "+30% Damage to Infested",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smite_Infested",
+            "icon": "items/images/en/smite_infested.bfacf65757f7f50af83415cc4a441706.png",
+            "thumb": "items/images/en/thumbs/smite_infested.bfacf65757f7f50af83415cc4a441706.128x128.png"
+        },
+        "ru": {
+            "item_name": "Крушитель: Заражённые",
+            "description": "+30% урона Заражённым",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C:_%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5",
+            "icon": "items/images/ru/smite_infested.51cb8b8098f6c41fb5c25f148464d124.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/smite_infested.51cb8b8098f6c41fb5c25f148464d124.128x128.png"
+        },
+        "ko": {
+            "item_name": "스마이트 인페스티드",
+            "description": "인페스티드에 대한 피해 +30%",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smite_Infested"
+        },
+        "de": {
+            "item_name": "Befallene Bestrafen",
+            "description": "+30 % Schaden gegen Befallene",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Befallene_Bestrafen"
+        },
+        "fr": {
+            "item_name": "Châtie-Infestés",
+            "description": "+30% de Dégâts aux Infestés",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Ch%C3%A2tie-Infest%C3%A9s"
+        },
+        "pt": {
+            "item_name": "Smite Infested",
+            "description": "+30% de Dano em Infestados",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Smite_Infusion"
+        },
+        "zh-hans": {
+            "item_name": "毁灭 Infested",
+            "description": "+30% 对 Infested 伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Smite_Infested"
+        },
+        "zh-hant": {
+            "item_name": "毀滅 Infested",
+            "description": "+30% 對 Infested 傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Smite_Infested"
+        },
+        "es": {
+            "item_name": "Castiga Infestados",
+            "description": "+30% de daño a los infestados",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Castiga_infestados"
+        },
+        "it": {
+            "item_name": "Smite Infested",
+            "description": "+30% Danno Su Infested",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Smite_Infested"
+        },
+        "pl": {
+            "item_name": "Rozpruwacz Plagi",
+            "description": "+30% Obrażeń zadawanych Zainfekowanym",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozrywacz_Prime"
+        },
+        "uk": {
+            "item_name": "Вирізання Заражених",
+            "description": "+30% до завдаваної шкоди зараженим",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smite_Infested"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

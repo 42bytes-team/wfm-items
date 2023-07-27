@@ -12,67 +12,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/TransmuteCores/AttackTransmuteCore"
     },
-    "en": {
-        "item_name": "Madurai Transmute Core",
-        "description": "Ensures transmuted mod is of Madurai polarity and eliminates credit cost.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Madurai_Transmute_Core"
-    },
-    "ru": {
-        "item_name": "Ядро Трансмутации: Мадурай",
-        "description": "Обеспечивает мод полярностью «Мадурай» и убирает потребность в кредитах.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8_%D0%BC%D0%B0%D0%B4%D1%83%D1%80%D0%B0%D0%B9",
-        "icon": "items/images/ru/madurai_transmute_core.8f4227abcb6607935fb63c9905c96473.png",
-        "thumb": "items/images/ru/thumbs/madurai_transmute_core.8f4227abcb6607935fb63c9905c96473.128x128.png"
-    },
-    "ko": {
-        "item_name": "마두라이 트랜스뮤트 코어",
-        "description": "변환에 사용되는 크레딧 소모를 없애고 마두라이 극성을 가진 모드가 나옵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Madurai_Transmute_Core"
-    },
-    "de": {
-        "item_name": "Umwandlungskern: Madurai",
-        "description": "Garantiert, dass die aus der Umwandlung resultierende Mod Madurai-Polarität hat und beseitigt Credit-Kosten.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Umwandlungskern"
-    },
-    "fr": {
-        "item_name": "Cœur De Transmutation Madurai",
-        "description": "Garantit que le Mod transmuté aura la polarité Madurai et élimine le coût en Crédits de la transmutation.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Coeur_de_Transmutation_Madurai"
-    },
-    "pt": {
-        "item_name": "Núcleo De Transmutação Madurai",
-        "description": "Garante que o Mod transmutado seja de polaridade Madurai e elimina o custo de créditos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Madurai_Transmute_Core"
-    },
-    "zh-hans": {
-        "item_name": "Madurai 转换核心",
-        "description": "使转换过程无须消耗现金，并确保获得的 MOD 为 Madurai 极性。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Madurai_Transmute_Core"
-    },
-    "zh-hant": {
-        "item_name": "Madurai 轉換核心",
-        "description": "使轉換過程無須消耗現金，並確保獲得的 MOD 為 Madurai 極性。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Madurai_Transmute_Core"
-    },
-    "es": {
-        "item_name": "Núcleo De Transmutación Madurai",
-        "description": "Asegura que el Mod transmutado sea de la polaridad Madurai y elimina el costo de créditos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/N%C3%BAcleo_de_Transmutaci%C3%B3n_Madurai"
-    },
-    "it": {
-        "item_name": "Madurai Transmute Core",
-        "description": "Assicura che la polarità del mod trasmutato sia Madurai ed elimina il costo in crediti.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Madurai_Transmute_Core"
-    },
-    "pl": {
-        "item_name": "Rdzeń Transmutacyjny Madurai",
-        "description": "Zapewnia, że otrzymany w transmutacji Mod będzie miał polaryzację Madurai i eliminuje koszt w kredytach.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rdze%C5%84_Transmutacyjny_Madurai"
-    },
-    "uk": {
-        "item_name": "Ядро Перетворення Мадурай",
-        "description": "Процес перетворення відбувається задарма, новий модифікатор отримує полярність Мадурай.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Madurai_Transmute_Core"
+    "i18n": {
+        "en": {
+            "item_name": "Madurai Transmute Core",
+            "description": "Ensures transmuted mod is of Madurai polarity and eliminates credit cost.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Madurai_Transmute_Core",
+            "icon": "items/images/en/madurai_transmute_core.4550b0b0a7749bc7d89773b220b0c60d.png",
+            "thumb": "items/images/en/thumbs/madurai_transmute_core.4550b0b0a7749bc7d89773b220b0c60d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ядро Трансмутации: Мадурай",
+            "description": "Обеспечивает мод полярностью «Мадурай» и убирает потребность в кредитах.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8_%D0%BC%D0%B0%D0%B4%D1%83%D1%80%D0%B0%D0%B9",
+            "icon": "items/images/ru/madurai_transmute_core.8f4227abcb6607935fb63c9905c96473.png",
+            "thumb": "items/images/ru/thumbs/madurai_transmute_core.8f4227abcb6607935fb63c9905c96473.128x128.png"
+        },
+        "ko": {
+            "item_name": "마두라이 트랜스뮤트 코어",
+            "description": "변환에 사용되는 크레딧 소모를 없애고 마두라이 극성을 가진 모드가 나옵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Madurai_Transmute_Core"
+        },
+        "de": {
+            "item_name": "Umwandlungskern: Madurai",
+            "description": "Garantiert, dass die aus der Umwandlung resultierende Mod Madurai-Polarität hat und beseitigt Credit-Kosten.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Umwandlungskern"
+        },
+        "fr": {
+            "item_name": "Cœur De Transmutation Madurai",
+            "description": "Garantit que le Mod transmuté aura la polarité Madurai et élimine le coût en Crédits de la transmutation.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Coeur_de_Transmutation_Madurai"
+        },
+        "pt": {
+            "item_name": "Núcleo De Transmutação Madurai",
+            "description": "Garante que o Mod transmutado seja de polaridade Madurai e elimina o custo de créditos.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Madurai_Transmute_Core"
+        },
+        "zh-hans": {
+            "item_name": "Madurai 转换核心",
+            "description": "使转换过程无须消耗现金，并确保获得的 MOD 为 Madurai 极性。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Madurai_Transmute_Core"
+        },
+        "zh-hant": {
+            "item_name": "Madurai 轉換核心",
+            "description": "使轉換過程無須消耗現金，並確保獲得的 MOD 為 Madurai 極性。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Madurai_Transmute_Core"
+        },
+        "es": {
+            "item_name": "Núcleo De Transmutación Madurai",
+            "description": "Asegura que el Mod transmutado sea de la polaridad Madurai y elimina el costo de créditos.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/N%C3%BAcleo_de_Transmutaci%C3%B3n_Madurai"
+        },
+        "it": {
+            "item_name": "Madurai Transmute Core",
+            "description": "Assicura che la polarità del mod trasmutato sia Madurai ed elimina il costo in crediti.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Madurai_Transmute_Core"
+        },
+        "pl": {
+            "item_name": "Rdzeń Transmutacyjny Madurai",
+            "description": "Zapewnia, że otrzymany w transmutacji Mod będzie miał polaryzację Madurai i eliminuje koszt w kredytach.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Rdze%C5%84_Transmutacyjny_Madurai"
+        },
+        "uk": {
+            "item_name": "Ядро Перетворення Мадурай",
+            "description": "Процес перетворення відбувається задарма, новий модифікатор отримує полярність Мадурай.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Madurai_Transmute_Core"
+        }
     },
     "rarity": "rare",
     "trading_tax": 8000

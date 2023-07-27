@@ -22,65 +22,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Fluctus Stock",
-        "description": "An Archwing weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fluctus"
-    },
-    "ru": {
-        "item_name": "Флактус: Приклад",
-        "description": "Компонент оружия арчвинга.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A4%D0%BB%D0%B0%D0%BA%D1%82%D1%83%D1%81"
-    },
-    "ko": {
-        "item_name": "플럭투스 스톡",
-        "description": "아크윙 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fluctus"
-    },
-    "de": {
-        "item_name": "Fluctus: Schaft",
-        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Fluctus"
-    },
-    "fr": {
-        "item_name": "Fluctus - Crosse",
-        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fluctus"
-    },
-    "pt": {
-        "item_name": "Fluctus: Coronha",
-        "description": "Um componente de fabricação de armas Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fluctus"
-    },
-    "zh-hans": {
-        "item_name": "巨浪 枪托",
-        "description": "一个 Archwing 武器制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fluctus"
-    },
-    "zh-hant": {
-        "item_name": "巨浪 槍托",
-        "description": "製作 Archwing 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fluctus"
-    },
-    "es": {
-        "item_name": "Culata De Fluctus",
-        "description": "Un componente de fabricación de arma de archwing.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fluctus"
-    },
-    "it": {
-        "item_name": "Fluctus - Calcio",
-        "description": "Un componente per la costruzione di un'arma Archwing.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Fluctus"
-    },
-    "pl": {
-        "item_name": "Fluctus: Kolba",
-        "description": "Element wytwarzania broni Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Fluctus"
-    },
-    "uk": {
-        "item_name": "Флукт: Ложе",
-        "description": "Деталь зброї арквінґа.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fluctus"
+    "i18n": {
+        "en": {
+            "item_name": "Fluctus Stock",
+            "description": "An Archwing weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Fluctus",
+            "icon": "items/images/en/fluctus_stock.764b2148dde0c8969f748d6e0b80f957.png",
+            "thumb": "items/images/en/thumbs/fluctus_stock.764b2148dde0c8969f748d6e0b80f957.128x128.png"
+        },
+        "ru": {
+            "item_name": "Флактус: Приклад",
+            "description": "Компонент оружия арчвинга.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A4%D0%BB%D0%B0%D0%BA%D1%82%D1%83%D1%81"
+        },
+        "ko": {
+            "item_name": "플럭투스 스톡",
+            "description": "아크윙 무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Fluctus"
+        },
+        "de": {
+            "item_name": "Fluctus: Schaft",
+            "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Fluctus"
+        },
+        "fr": {
+            "item_name": "Fluctus - Crosse",
+            "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Fluctus"
+        },
+        "pt": {
+            "item_name": "Fluctus: Coronha",
+            "description": "Um componente de fabricação de armas Archwing.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fluctus"
+        },
+        "zh-hans": {
+            "item_name": "巨浪 枪托",
+            "description": "一个 Archwing 武器制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Fluctus"
+        },
+        "zh-hant": {
+            "item_name": "巨浪 槍托",
+            "description": "製作 Archwing 武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Fluctus"
+        },
+        "es": {
+            "item_name": "Culata De Fluctus",
+            "description": "Un componente de fabricación de arma de archwing.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Fluctus"
+        },
+        "it": {
+            "item_name": "Fluctus - Calcio",
+            "description": "Un componente per la costruzione di un'arma Archwing.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Fluctus"
+        },
+        "pl": {
+            "item_name": "Fluctus: Kolba",
+            "description": "Element wytwarzania broni Archwing.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Fluctus"
+        },
+        "uk": {
+            "item_name": "Флукт: Ложе",
+            "description": "Деталь зброї арквінґа.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Fluctus"
+        }
     },
     "mastery_level": 2,
     "trading_tax": 2000

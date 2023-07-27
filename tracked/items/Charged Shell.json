@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponElectricityDamageMod"
     },
-    "en": {
-        "item_name": "Charged Shell",
-        "description": "+90% Electricity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Shell"
-    },
-    "ru": {
-        "item_name": "Заряженные Снаряды",
-        "description": "+90% урона электричеством",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
-        "icon": "items/images/ru/charged_shell.d9f8950c54259b3cecb99f31968250c0.png",
-        "thumb": "items/images/ru/thumbs/charged_shell.d9f8950c54259b3cecb99f31968250c0.128x128.png"
-    },
-    "ko": {
-        "item_name": "차지드 쉘",
-        "description": "+90% 전기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Shell"
-    },
-    "de": {
-        "item_name": "Geladene Patrone",
-        "description": "+90 % Elektrizität",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Geladene_Patrone"
-    },
-    "fr": {
-        "item_name": "Cartouche Chargée",
-        "description": "+90% Électrique",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cartouche_charg%C3%A9e"
-    },
-    "pt": {
-        "item_name": "Charged Shell",
-        "description": "+90% de Elétrico",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Charged_Shell"
-    },
-    "zh-hans": {
-        "item_name": "充电弹头",
-        "description": "+90% 电击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Shell"
-    },
-    "zh-hant": {
-        "item_name": "充電彈頭",
-        "description": "+90% 電擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Shell"
-    },
-    "es": {
-        "item_name": "Cartucho Cargado",
-        "description": "+90% de electricidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cartucho_cargado"
-    },
-    "it": {
-        "item_name": "Charged Shell",
-        "description": "+90% Elettrico",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Charged_Shell"
-    },
-    "pl": {
-        "item_name": "Elektryczny Nabój",
-        "description": "+90% Obrażeń Elektrycznych",
-        "wiki_link": "http://warframe.wikia.com/wiki/Charged_Shell"
-    },
-    "uk": {
-        "item_name": "Заряджені Набої",
-        "description": "+90% до електричної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charged_Shell"
+    "i18n": {
+        "en": {
+            "item_name": "Charged Shell",
+            "description": "+90% Electricity",
+            "wiki_link": "https://warframe.fandom.com/wiki/Charged_Shell",
+            "icon": "items/images/en/charged_shell.5e627f996728de50e552e7f82fce18a1.png",
+            "thumb": "items/images/en/thumbs/charged_shell.5e627f996728de50e552e7f82fce18a1.128x128.png"
+        },
+        "ru": {
+            "item_name": "Заряженные Снаряды",
+            "description": "+90% урона электричеством",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B",
+            "icon": "items/images/ru/charged_shell.d9f8950c54259b3cecb99f31968250c0.png",
+            "thumb": "items/images/ru/thumbs/charged_shell.d9f8950c54259b3cecb99f31968250c0.128x128.png"
+        },
+        "ko": {
+            "item_name": "차지드 쉘",
+            "description": "+90% 전기",
+            "wiki_link": "https://warframe.fandom.com/wiki/Charged_Shell"
+        },
+        "de": {
+            "item_name": "Geladene Patrone",
+            "description": "+90 % Elektrizität",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Geladene_Patrone"
+        },
+        "fr": {
+            "item_name": "Cartouche Chargée",
+            "description": "+90% Électrique",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Cartouche_charg%C3%A9e"
+        },
+        "pt": {
+            "item_name": "Charged Shell",
+            "description": "+90% de Elétrico",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Charged_Shell"
+        },
+        "zh-hans": {
+            "item_name": "充电弹头",
+            "description": "+90% 电击伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Shell"
+        },
+        "zh-hant": {
+            "item_name": "充電彈頭",
+            "description": "+90% 電擊傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Charged_Shell"
+        },
+        "es": {
+            "item_name": "Cartucho Cargado",
+            "description": "+90% de electricidad",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Cartucho_cargado"
+        },
+        "it": {
+            "item_name": "Charged Shell",
+            "description": "+90% Elettrico",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Charged_Shell"
+        },
+        "pl": {
+            "item_name": "Elektryczny Nabój",
+            "description": "+90% Obrażeń Elektrycznych",
+            "wiki_link": "http://warframe.wikia.com/wiki/Charged_Shell"
+        },
+        "uk": {
+            "item_name": "Заряджені Набої",
+            "description": "+90% до електричної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Charged_Shell"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

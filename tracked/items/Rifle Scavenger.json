@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Aura/PlayerRifleAmmoAuraMod"
     },
-    "en": {
-        "item_name": "Rifle Scavenger",
-        "description": "Increased Rifle Ammo recovery. +150% Ammo Pickup",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Scavenger"
-    },
-    "ru": {
-        "item_name": "Добытчик: Винтовки",
-        "description": "Увеличивает количество собираемых патронов для винтовок. +150% поднятых боеприпасов",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA_%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B8",
-        "icon": "items/images/ru/rifle_scavenger.7a4fd7cbac7cdbb62266d504bd954fc7.png",
-        "thumb": "items/images/ru/thumbs/rifle_scavenger.7a4fd7cbac7cdbb62266d504bd954fc7.128x128.png"
-    },
-    "ko": {
-        "item_name": "라이플 스케빈져",
-        "description": "소총 탄약의 획득량을 증가시킵니다. +150% 탄약 습득량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Scavenger"
-    },
-    "de": {
-        "item_name": "Gewehrplünderer",
-        "description": "Mehr Munition für Gewehre erhalten. +150 % Munitionsaufnahme",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gewehrpl%C3%BCnderer"
-    },
-    "fr": {
-        "item_name": "Récupérateur De Fusil",
-        "description": "Récupération accrue de munitions de Fusil. +150% de Munitions Ramassées",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9rateur_de_Fusil"
-    },
-    "pt": {
-        "item_name": "Rifle Scavenger",
-        "description": "Maior recuperação de Munição de Rifle. +150% de Coleta de Munição",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rifle_Scavenger"
-    },
-    "zh-hans": {
-        "item_name": "步枪弹药搜集者",
-        "description": "增加拾起的步枪弹药 +150% 弹药拾取",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rifle_Scavenger"
-    },
-    "zh-hant": {
-        "item_name": "步槍彈藥蒐集者",
-        "description": "增加拾起的步槍彈藥 +150% 彈藥拾取",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rifle_Scavenger"
-    },
-    "es": {
-        "item_name": "Carroñero De Rifle",
-        "description": "Recuperación de munición de rifle aumentada. +150% de recogida de munición",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Carro%C3%B1ero_de_rifle"
-    },
-    "it": {
-        "item_name": "Rifle Scavenger",
-        "description": "Recupero munizioni per fucile aumentato. +150% Munizioni Raccolte",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sniper_Scavenger"
-    },
-    "pl": {
-        "item_name": "Szabrowanie Amunicji Karabinowej",
-        "description": "Zwiększenie odzysku amunicji karabinowej. +150% Zbieranie Amunicji",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szabrowanie_Amunicji_Karabinowej"
-    },
-    "uk": {
-        "item_name": "Збирач Із Гвинтівкою",
-        "description": "Збільшує кількість підібраних набоїв до гвинтівок. +150% до підбирання боєприпасів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Scavenger"
+    "i18n": {
+        "en": {
+            "item_name": "Rifle Scavenger",
+            "description": "Increased Rifle Ammo recovery. +150% Ammo Pickup",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Scavenger",
+            "icon": "items/images/en/rifle_scavenger.ed6f40912a4c031cf930152ce241e7c8.png",
+            "thumb": "items/images/en/thumbs/rifle_scavenger.ed6f40912a4c031cf930152ce241e7c8.128x128.png"
+        },
+        "ru": {
+            "item_name": "Добытчик: Винтовки",
+            "description": "Увеличивает количество собираемых патронов для винтовок. +150% поднятых боеприпасов",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%BE%D0%B1%D1%8B%D1%82%D1%87%D0%B8%D0%BA_%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BA%D0%B8",
+            "icon": "items/images/ru/rifle_scavenger.7a4fd7cbac7cdbb62266d504bd954fc7.png",
+            "thumb": "items/images/ru/thumbs/rifle_scavenger.7a4fd7cbac7cdbb62266d504bd954fc7.128x128.png"
+        },
+        "ko": {
+            "item_name": "라이플 스케빈져",
+            "description": "소총 탄약의 획득량을 증가시킵니다. +150% 탄약 습득량",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Scavenger"
+        },
+        "de": {
+            "item_name": "Gewehrplünderer",
+            "description": "Mehr Munition für Gewehre erhalten. +150 % Munitionsaufnahme",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gewehrpl%C3%BCnderer"
+        },
+        "fr": {
+            "item_name": "Récupérateur De Fusil",
+            "description": "Récupération accrue de munitions de Fusil. +150% de Munitions Ramassées",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9rateur_de_Fusil"
+        },
+        "pt": {
+            "item_name": "Rifle Scavenger",
+            "description": "Maior recuperação de Munição de Rifle. +150% de Coleta de Munição",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rifle_Scavenger"
+        },
+        "zh-hans": {
+            "item_name": "步枪弹药搜集者",
+            "description": "增加拾起的步枪弹药 +150% 弹药拾取",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rifle_Scavenger"
+        },
+        "zh-hant": {
+            "item_name": "步槍彈藥蒐集者",
+            "description": "增加拾起的步槍彈藥 +150% 彈藥拾取",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rifle_Scavenger"
+        },
+        "es": {
+            "item_name": "Carroñero De Rifle",
+            "description": "Recuperación de munición de rifle aumentada. +150% de recogida de munición",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Carro%C3%B1ero_de_rifle"
+        },
+        "it": {
+            "item_name": "Rifle Scavenger",
+            "description": "Recupero munizioni per fucile aumentato. +150% Munizioni Raccolte",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Sniper_Scavenger"
+        },
+        "pl": {
+            "item_name": "Szabrowanie Amunicji Karabinowej",
+            "description": "Zwiększenie odzysku amunicji karabinowej. +150% Zbieranie Amunicji",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Szabrowanie_Amunicji_Karabinowej"
+        },
+        "uk": {
+            "item_name": "Збирач Із Гвинтівкою",
+            "description": "Збільшує кількість підібраних набоїв до гвинтівок. +150% до підбирання боєприпасів.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rifle_Scavenger"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

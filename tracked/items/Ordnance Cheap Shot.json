@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanFreeOrdnanceAmmo"
     },
-    "en": {
-        "item_name": "Ordnance Cheap Shot",
-        "description": "Ordnance weapons have a +90% chance to not consume Munitions",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "ru": {
-        "item_name": "Хитрое Орудие",
-        "description": "Артиллерийские орудия с шансом в +90% не расходуют боеприпасы",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D0%B8%D1%82%D1%80%D0%BE%D0%B5_%D0%9E%D1%80%D1%83%D0%B4%D0%B8%D0%B5"
-    },
-    "ko": {
-        "item_name": "오드넌스 칩 샷",
-        "description": "대포 무기 사용 시 +90% 확률로 뮤니션을 소모하지 않음",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "de": {
-        "item_name": "Günstige Bewaffnung",
-        "description": "Die Bewaffnung hat eine +90 % Chance keine Munition zu verbrauchen",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "fr": {
-        "item_name": "Calamité Facile",
-        "description": "Les armes de Tir Calamité ont +90% de chances de ne consommer aucune munition",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "pt": {
-        "item_name": "Tiro Reserva De Armaria",
-        "description": "+90% de chance de não consumir Munições com um acerto bem-sucedido da Armaria",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "zh-hans": {
-        "item_name": "高效火炮",
-        "description": "火炮武器有 +90% 的几率不消耗火炮弹药",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "zh-hant": {
-        "item_name": "火砲回扣",
-        "description": "火砲武器有 +90% 機率不消耗任何軍火",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "es": {
-        "item_name": "Disparo Optimizado De Artillería",
-        "description": "Las armas de artillería tienen un +90% de probabilidad de no consumir municiones",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_optimizado_de_artiller%C3%ADa"
-    },
-    "it": {
-        "item_name": "Ordnance Cheap Shot",
-        "description": "Gli Armamenti hanno il +90% probabilità di non consumare Munizioni",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "pl": {
-        "item_name": "Tani Strzał Uzbrojenia",
-        "description": "Bronie Uzbrojenia mają +90% szansy, aby nie użyć Municji",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
-    },
-    "uk": {
-        "item_name": "Дешевий Гарматний Постріл",
-        "description": "Гармати з імовірністю у +90% не використовують боєприпасів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
+    "i18n": {
+        "en": {
+            "item_name": "Ordnance Cheap Shot",
+            "description": "Ordnance weapons have a +90% chance to not consume Munitions",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot",
+            "icon": "items/images/en/ordnance_cheap_shot.6c5251bcc013440c63e47dcb1f2887b6.png",
+            "thumb": "items/images/en/thumbs/ordnance_cheap_shot.6c5251bcc013440c63e47dcb1f2887b6.128x128.png"
+        },
+        "ru": {
+            "item_name": "Хитрое Орудие",
+            "description": "Артиллерийские орудия с шансом в +90% не расходуют боеприпасы",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D0%B8%D1%82%D1%80%D0%BE%D0%B5_%D0%9E%D1%80%D1%83%D0%B4%D0%B8%D0%B5"
+        },
+        "ko": {
+            "item_name": "오드넌스 칩 샷",
+            "description": "대포 무기 사용 시 +90% 확률로 뮤니션을 소모하지 않음",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
+        },
+        "de": {
+            "item_name": "Günstige Bewaffnung",
+            "description": "Die Bewaffnung hat eine +90 % Chance keine Munition zu verbrauchen",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
+        },
+        "fr": {
+            "item_name": "Calamité Facile",
+            "description": "Les armes de Tir Calamité ont +90% de chances de ne consommer aucune munition",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
+        },
+        "pt": {
+            "item_name": "Tiro Reserva De Armaria",
+            "description": "+90% de chance de não consumir Munições com um acerto bem-sucedido da Armaria",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
+        },
+        "zh-hans": {
+            "item_name": "高效火炮",
+            "description": "火炮武器有 +90% 的几率不消耗火炮弹药",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ordnance_Cheap_Shot"
+        },
+        "zh-hant": {
+            "item_name": "火砲回扣",
+            "description": "火砲武器有 +90% 機率不消耗任何軍火",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ordnance_Cheap_Shot"
+        },
+        "es": {
+            "item_name": "Disparo Optimizado De Artillería",
+            "description": "Las armas de artillería tienen un +90% de probabilidad de no consumir municiones",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_optimizado_de_artiller%C3%ADa"
+        },
+        "it": {
+            "item_name": "Ordnance Cheap Shot",
+            "description": "Gli Armamenti hanno il +90% probabilità di non consumare Munizioni",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
+        },
+        "pl": {
+            "item_name": "Tani Strzał Uzbrojenia",
+            "description": "Bronie Uzbrojenia mają +90% szansy, aby nie użyć Municji",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
+        },
+        "uk": {
+            "item_name": "Дешевий Гарматний Постріл",
+            "description": "Гармати з імовірністю у +90% не використовують боєприпасів.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ordnance_Cheap_Shot"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

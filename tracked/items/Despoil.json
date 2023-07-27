@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Necro/SearchTheDeadAugmentCard"
     },
-    "en": {
-        "item_name": "Despoil",
-        "description": "Desecrate Augment: No longer consumes Energy, but consumes 10 Health per corpse instead.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Despoil"
-    },
-    "ru": {
-        "item_name": "Лишение",
-        "description": "Улучшение способности «Осквернение»: способность более не расходует энергию, но поглощает 10 единиц здоровья за каждое оскверненное тело.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/despoil.a13144018fd22ac0d13257bf4a391dbc.png",
-        "thumb": "items/images/ru/thumbs/despoil.a13144018fd22ac0d13257bf4a391dbc.128x128.png"
-    },
-    "ko": {
-        "item_name": "디스포일",
-        "description": "데시크레이트 개조: 더 이상 에너지를 소비하지 않는 대신 시체당 10의 체력을 소비합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Despoil"
-    },
-    "de": {
-        "item_name": "Ausrauben",
-        "description": "Entweihen Augment: Es wird nicht länger Energie, sondern 10 Gesundheit pro Leiche verbraucht.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Ausrauben"
-    },
-    "fr": {
-        "item_name": "Exhumation",
-        "description": "Augmentation de Profanation: Ne consomme plus d'énergie, mais 10 points de Santé par corps à la place.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Exhumation"
-    },
-    "pt": {
-        "item_name": "Despoil",
-        "description": "Ampliação Desecrate: consumirá 10 Vida por cadáver, no lugar de consumir Energia.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Despoil"
-    },
-    "zh-hans": {
-        "item_name": "掠夺",
-        "description": "亵渎强化：不再消耗能量，但每具尸体会消耗 10 血量。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Despoil"
-    },
-    "zh-hant": {
-        "item_name": "掠奪",
-        "description": "褻瀆強化：不再消耗能量，但每具屍體會消耗 10 血量。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Despoil"
-    },
-    "es": {
-        "item_name": "Despojar",
-        "description": "Aumento de Profanar: ya no consume energía, pero consume 10 de salud por cadáver.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Despojar"
-    },
-    "it": {
-        "item_name": "Despoil",
-        "description": "Potenziamento Desecrate: Non consuma più energia, ma 10 Salute per cadavere.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Despair"
-    },
-    "pl": {
-        "item_name": "Zepsucie",
-        "description": "Modyfikacja Desakracji: Nie zużywa Energii, w zamian zużywa 10 Życia za każde zwłoki, na które zadziała umiejętność.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zepsucie"
-    },
-    "uk": {
-        "item_name": "Грабіж",
-        "description": "Розширення здібності «Наруга»: замість споживання енергії витягує 10 здоров’я за труп.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Despoil"
+    "i18n": {
+        "en": {
+            "item_name": "Despoil",
+            "description": "Desecrate Augment: No longer consumes Energy, but consumes 10 Health per corpse instead.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Despoil",
+            "icon": "items/images/en/despoil.2633a2c7793d85b21d22cb4c4a0b70cf.png",
+            "thumb": "items/images/en/thumbs/despoil.2633a2c7793d85b21d22cb4c4a0b70cf.128x128.png"
+        },
+        "ru": {
+            "item_name": "Лишение",
+            "description": "Улучшение способности «Осквернение»: способность более не расходует энергию, но поглощает 10 единиц здоровья за каждое оскверненное тело.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/despoil.a13144018fd22ac0d13257bf4a391dbc.png",
+            "thumb": "items/images/ru/thumbs/despoil.a13144018fd22ac0d13257bf4a391dbc.128x128.png"
+        },
+        "ko": {
+            "item_name": "디스포일",
+            "description": "데시크레이트 개조: 더 이상 에너지를 소비하지 않는 대신 시체당 10의 체력을 소비합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Despoil"
+        },
+        "de": {
+            "item_name": "Ausrauben",
+            "description": "Entweihen Augment: Es wird nicht länger Energie, sondern 10 Gesundheit pro Leiche verbraucht.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Ausrauben"
+        },
+        "fr": {
+            "item_name": "Exhumation",
+            "description": "Augmentation de Profanation: Ne consomme plus d'énergie, mais 10 points de Santé par corps à la place.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Exhumation"
+        },
+        "pt": {
+            "item_name": "Despoil",
+            "description": "Ampliação Desecrate: consumirá 10 Vida por cadáver, no lugar de consumir Energia.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Despoil"
+        },
+        "zh-hans": {
+            "item_name": "掠夺",
+            "description": "亵渎强化：不再消耗能量，但每具尸体会消耗 10 血量。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Despoil"
+        },
+        "zh-hant": {
+            "item_name": "掠奪",
+            "description": "褻瀆強化：不再消耗能量，但每具屍體會消耗 10 血量。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Despoil"
+        },
+        "es": {
+            "item_name": "Despojar",
+            "description": "Aumento de Profanar: ya no consume energía, pero consume 10 de salud por cadáver.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Despojar"
+        },
+        "it": {
+            "item_name": "Despoil",
+            "description": "Potenziamento Desecrate: Non consuma più energia, ma 10 Salute per cadavere.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Despair"
+        },
+        "pl": {
+            "item_name": "Zepsucie",
+            "description": "Modyfikacja Desakracji: Nie zużywa Energii, w zamian zużywa 10 Życia za każde zwłoki, na które zadziała umiejętność.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zepsucie"
+        },
+        "uk": {
+            "item_name": "Грабіж",
+            "description": "Розширення здібності «Наруга»: замість споживання енергії витягує 10 здоров’я за труп.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Despoil"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

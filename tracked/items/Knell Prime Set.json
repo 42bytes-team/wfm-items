@@ -22,65 +22,69 @@
         "knell_prime_set"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Knell Prime Set",
-        "description": "Ring a funeral toll upon enemy skulls with Harrow Prime's signature pistol.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Предвестник Прайм: Комплект",
-        "description": "Погребальный перезвон вражеских черепов слышится при виде этого особого пистолета Харроу Прайм.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "넬 프라임 세트",
-        "description": "해로우 프라임의 이 특징적인 권총과 함께 적들의 두개골로 장례의 종소리를 울려 보세요.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Knell Prime: Set",
-        "description": "Läute das Begräbnis feindlicher Schädel mit Harrows Primes bevorzugter Pistole ein.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Knell Prime - Set",
-        "description": "Jouez l'absoute sur les crânes des ennemis avec le Pistolet emblématique de Harrow Prime.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Knell Prime: Conjunto",
-        "description": "Toque os crânios dos inimigos como se fosse um sino fúnebre com a pistola tradicional do Harrow Prime.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "丧钟 Prime 一套",
-        "description": "（英文：KNELL PRIME）用 Harrow Prime 的标志性手枪在敌人的头颅上敲响葬礼的钟声。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "喪鐘 Prime 一套",
-        "description": "（英文：KNELL PRIME）使用 Harrow Prime 的標誌性手槍來在敵人的頭顱上打響葬儀的鳴鐘。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Set de Knell Prime",
-        "description": "Haz sonar la campanada fúnebre sobre los cráneos de los enemigos con la pistola distintiva de Harrow Prime.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Knell Prime Set",
-        "description": "Suona un tributo funebre sui crani dei nemici con la pistola distintiva di Harrow Prime.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Knell Prime: Zestaw",
-        "description": "Zadzwoń na czaszkach wrogów jak dzwonem pogrzebowym dzięki charakterystycznemu pistoletowi Harrowa Prime.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Вісник Смерті-Прайм (комплект)",
-        "description": "Визначний пістолет Гарроу-прайма, постріли якого звучатимуть поховальним маршем для ворогів.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Knell Prime Set",
+            "description": "Ring a funeral toll upon enemy skulls with Harrow Prime's signature pistol.",
+            "wiki_link": null,
+            "icon": "items/images/en/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.png",
+            "thumb": "items/images/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png"
+        },
+        "ru": {
+            "item_name": "Предвестник Прайм: Комплект",
+            "description": "Погребальный перезвон вражеских черепов слышится при виде этого особого пистолета Харроу Прайм.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "넬 프라임 세트",
+            "description": "해로우 프라임의 이 특징적인 권총과 함께 적들의 두개골로 장례의 종소리를 울려 보세요.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Knell Prime: Set",
+            "description": "Läute das Begräbnis feindlicher Schädel mit Harrows Primes bevorzugter Pistole ein.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Knell Prime - Set",
+            "description": "Jouez l'absoute sur les crânes des ennemis avec le Pistolet emblématique de Harrow Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Knell Prime: Conjunto",
+            "description": "Toque os crânios dos inimigos como se fosse um sino fúnebre com a pistola tradicional do Harrow Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "丧钟 Prime 一套",
+            "description": "（英文：KNELL PRIME）用 Harrow Prime 的标志性手枪在敌人的头颅上敲响葬礼的钟声。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "喪鐘 Prime 一套",
+            "description": "（英文：KNELL PRIME）使用 Harrow Prime 的標誌性手槍來在敵人的頭顱上打響葬儀的鳴鐘。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Set de Knell Prime",
+            "description": "Haz sonar la campanada fúnebre sobre los cráneos de los enemigos con la pistola distintiva de Harrow Prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Knell Prime Set",
+            "description": "Suona un tributo funebre sui crani dei nemici con la pistola distintiva di Harrow Prime.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Knell Prime: Zestaw",
+            "description": "Zadzwoń na czaszkach wrogów jak dzwonem pogrzebowym dzięki charakterystycznemu pistoletowi Harrowa Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Вісник Смерті-Прайм (комплект)",
+            "description": "Визначний пістолет Гарроу-прайма, постріли якого звучатимуть поховальним маршем для ворогів.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 14,
     "ducats": 160,

@@ -5,57 +5,59 @@
     "riven_type": "melee",
     "icon": "riven_item/images/corufell.1361201225387534bc5dd7896424974c.png",
     "thumb": "riven_item/images/thumbs/corufell.1361201225387534bc5dd7896424974c.128x128.png",
-    "disposition": 0.55,
+    "disposition": 0.65,
     "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Archwing/Melee/ExaltedArchScythe/ExaltedAWScytheWeapon"
     },
-    "en": {
-        "item_name": "Corufell",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Коруфелл",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "코루펠",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Corufell",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Corufell",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Corufell",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "闪劫",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "輝伐",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Corufell",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Corufell",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Corufell",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Коруфел",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Corufell",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Коруфелл",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "코루펠",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Corufell",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Corufell",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Corufell",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "闪劫",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "輝伐",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Corufell",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Corufell",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Corufell",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Коруфел",
+            "wiki_link": null
+        }
     }
 }

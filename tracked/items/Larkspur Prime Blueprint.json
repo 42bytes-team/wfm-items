@@ -25,65 +25,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Larkspur Prime Blueprint",
-        "description": "Embrace pandemonium. Chainfire and explosive potential meet in Larkspur Prime. Hildryn packs more ammo when she wields this mighty weapon.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Ларкспур Прайм (Чертеж)",
-        "description": "Встречайте кромешный ад. Непрерывный огонь и взрывоопасный потенциал объединяются, чтобы создать Ларкспур Прайм.\nКогда это мощное оружие находится в руках Хильдрин, боезапас оружия увеличивается.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "라크스퍼 프라임 설계도",
-        "description": "대혼란과 일심동체가 되어보세요. 연쇄 타격과 폭발적인 잠재력이 라크스퍼 프라임 안에서 하나가 됩니다. 힐드린이 이 강력한 무기를 다룰 때엔 더 많은 탄약을 예비할 수 있습니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Larkspur Prime Blaupause",
-        "description": "Öffne dich dem Chaos. Kettenfeuer und explosives Potenzial treffen in der Larkspur Prime aufeinander. Wenn Hildryn diese Waffe nutzt, trägt sie mehr Munition mit sich.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Larkspur Prime (Schéma)",
-        "description": "Répandez le chaos. Tirs en chaîne et potentiel explosif se rencontrent avec le Larkspur Prime. Hildryn emporte plus de munitions lorsqu'elle utilise cette arme puissante.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Larkspur Prime (Diagrama)",
-        "description": "Incorpore o pandemônio. Disparos contínuos e potencial explosivo se unem na Larkspur Prime. A Hildryn carrega mais munição ao empunhar esta poderosa arma.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "翠雀 Prime 蓝图",
-        "description": "（英文：Larkspur Prime）迎接混乱的到来吧。连锁攻击和爆炸潜能在翠雀 Prime 身上相遇。当 Hildryn 使用这件强大的武器时，她会携带更多的弹药。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "翠雀 Prime 藍圖",
-        "description": "（英文：LARKSPUR PRIME）感受大混亂的氛圍，將連鎖火力和爆炸的威力結合於翠雀 Prime 之中。由 Hildryn 使用這把強力的武器時可裝載更多彈藥。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Larkspur Prime",
-        "description": "Acepta el caos. Los disparos en cadena y el potencial explosivo se combinan en el Larkspur Prime. Hildryn lleva más munición cuando empuña esta poderosa arma.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Larkspur Prime (Schema)",
-        "description": "Accogli il pandemonio. I colpi a catena e il potenziale esplosivo si incontrano nel Larkspur Prime. Hildryn accumula più munizioni quando utilizza questa potente arma.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Larkspur Prime - Schemat",
-        "description": "Ujarzmij pandemoniom. Ogień ciągły i wybuchowy potencjał łączą się, by stworzyć Larkspur Prime.\nKiedy ta potężna broń jest dzierżona przez Hildryn, zwiększa się jej rezerwa amunicji.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Сокирка-Прайм (креслення)",
-        "description": "Вітайте сум’яття. Черги пострілів та вибуховий потенціал зустрілися в Сокирці-прайм. Гілдрина може вкласти набагато більше набоїв в цю могутню зброю.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Larkspur Prime Blueprint",
+            "description": "Embrace pandemonium. Chainfire and explosive potential meet in Larkspur Prime. Hildryn packs more ammo when she wields this mighty weapon.",
+            "wiki_link": null,
+            "icon": "items/images/en/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.png",
+            "thumb": "items/images/en/thumbs/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ларкспур Прайм (Чертеж)",
+            "description": "Встречайте кромешный ад. Непрерывный огонь и взрывоопасный потенциал объединяются, чтобы создать Ларкспур Прайм.\nКогда это мощное оружие находится в руках Хильдрин, боезапас оружия увеличивается.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "라크스퍼 프라임 설계도",
+            "description": "대혼란과 일심동체가 되어보세요. 연쇄 타격과 폭발적인 잠재력이 라크스퍼 프라임 안에서 하나가 됩니다. 힐드린이 이 강력한 무기를 다룰 때엔 더 많은 탄약을 예비할 수 있습니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Larkspur Prime Blaupause",
+            "description": "Öffne dich dem Chaos. Kettenfeuer und explosives Potenzial treffen in der Larkspur Prime aufeinander. Wenn Hildryn diese Waffe nutzt, trägt sie mehr Munition mit sich.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Larkspur Prime (Schéma)",
+            "description": "Répandez le chaos. Tirs en chaîne et potentiel explosif se rencontrent avec le Larkspur Prime. Hildryn emporte plus de munitions lorsqu'elle utilise cette arme puissante.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Larkspur Prime (Diagrama)",
+            "description": "Incorpore o pandemônio. Disparos contínuos e potencial explosivo se unem na Larkspur Prime. A Hildryn carrega mais munição ao empunhar esta poderosa arma.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "翠雀 Prime 蓝图",
+            "description": "（英文：Larkspur Prime）迎接混乱的到来吧。连锁攻击和爆炸潜能在翠雀 Prime 身上相遇。当 Hildryn 使用这件强大的武器时，她会携带更多的弹药。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "翠雀 Prime 藍圖",
+            "description": "（英文：LARKSPUR PRIME）感受大混亂的氛圍，將連鎖火力和爆炸的威力結合於翠雀 Prime 之中。由 Hildryn 使用這把強力的武器時可裝載更多彈藥。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Larkspur Prime",
+            "description": "Acepta el caos. Los disparos en cadena y el potencial explosivo se combinan en el Larkspur Prime. Hildryn lleva más munición cuando empuña esta poderosa arma.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Larkspur Prime (Schema)",
+            "description": "Accogli il pandemonio. I colpi a catena e il potenziale esplosivo si incontrano nel Larkspur Prime. Hildryn accumula più munizioni quando utilizza questa potente arma.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Larkspur Prime - Schemat",
+            "description": "Ujarzmij pandemoniom. Ogień ciągły i wybuchowy potencjał łączą się, by stworzyć Larkspur Prime.\nKiedy ta potężna broń jest dzierżona przez Hildryn, zwiększa się jej rezerwa amunicji.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Сокирка-Прайм (креслення)",
+            "description": "Вітайте сум’яття. Черги пострілів та вибуховий потенціал зустрілися в Сокирці-прайм. Гілдрина може вкласти набагато більше набоїв в цю могутню зброю.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 8,
     "ducats": 15,

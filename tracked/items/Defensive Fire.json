@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Engineering/LavanMaxShieldOnKill"
     },
-    "en": {
-        "item_name": "Defensive Fire",
-        "description": "+13.5% Maximum Shields per enemy killed for 10s (Maximum 10 stacks)",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Оборонительный Огонь",
-        "description": "+13.5% к максимуму щитов за каждого убитого врага в течение 10с (складывается до 10 раз)",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "디펜시브 파이어",
-        "description": "10초 동안 처치한 적 당 +13.5% 최대 실드량 증가 (최대 10회 중첩)",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Schützendes Feuer",
-        "description": "+13.5 % max. Schilde pro getötetem Gegner für 10 s (max. 10 Stapel)",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Tir Défensif",
-        "description": "+13.5% Boucliers max par ennemi éliminé pendant 10s (se cumule jusqu'à 10x)",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Disparo Defensivo",
-        "description": "Aumenta os Escudos Máximos em +13.5% durante 10s para cada inimigo destruído (limite de 10 acúmulos)",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "防御火力",
-        "description": "每击落一个敌方单位，最大护盾增加 13.5%，持续 10 秒（最多叠加 10 次）",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "抵禦火力",
-        "description": "每擊殺一名敵人，最大護盾值增加 13.5%，持續 10 秒（最多疊加 10 次）",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Fuego Defensivo",
-        "description": "+13.5 % a escudos máximos por cada enemigo asesinado durante 10 s (se acumula un máximo de 10)",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Defensive Fire",
-        "description": "+13.5% Scudi Massimi per ogni nemico ucciso per 10s (si accumula fino a 10 volte)",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Ogień Zaporowy",
-        "description": "+13.5% Maksymalnych Tarcz za każdego zabitego wroga na 10s (kumuluje się do 10 razy)",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Захисний Вогонь",
-        "description": "+13.5% до максимуму щитів за кожного вбитого ворога на 10 с (сумується до х10).",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Defensive Fire",
+            "description": "+13.5% Maximum Shields per enemy killed for 10s (Maximum 10 stacks)",
+            "wiki_link": null,
+            "icon": "items/images/en/defensive_fire.647277a72e91904d4d8a54aec86927a1.png",
+            "thumb": "items/images/en/thumbs/defensive_fire.647277a72e91904d4d8a54aec86927a1.128x128.png"
+        },
+        "ru": {
+            "item_name": "Оборонительный Огонь",
+            "description": "+13.5% к максимуму щитов за каждого убитого врага в течение 10с (складывается до 10 раз)",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "디펜시브 파이어",
+            "description": "10초 동안 처치한 적 당 +13.5% 최대 실드량 증가 (최대 10회 중첩)",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Schützendes Feuer",
+            "description": "+13.5 % max. Schilde pro getötetem Gegner für 10 s (max. 10 Stapel)",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Tir Défensif",
+            "description": "+13.5% Boucliers max par ennemi éliminé pendant 10s (se cumule jusqu'à 10x)",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Disparo Defensivo",
+            "description": "Aumenta os Escudos Máximos em +13.5% durante 10s para cada inimigo destruído (limite de 10 acúmulos)",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "防御火力",
+            "description": "每击落一个敌方单位，最大护盾增加 13.5%，持续 10 秒（最多叠加 10 次）",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "抵禦火力",
+            "description": "每擊殺一名敵人，最大護盾值增加 13.5%，持續 10 秒（最多疊加 10 次）",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Fuego Defensivo",
+            "description": "+13.5 % a escudos máximos por cada enemigo asesinado durante 10 s (se acumula un máximo de 10)",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Defensive Fire",
+            "description": "+13.5% Scudi Massimi per ogni nemico ucciso per 10s (si accumula fino a 10 volte)",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Ogień Zaporowy",
+            "description": "+13.5% Maksymalnych Tarcz za każdego zabitego wroga na 10s (kumuluje się do 10 razy)",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Захисний Вогонь",
+            "description": "+13.5% до максимуму щитів за кожного вбитого ворога на 10 с (сумується до х10).",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

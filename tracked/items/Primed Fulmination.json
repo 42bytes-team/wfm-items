@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/Expert/SecondaryExplosionRadiusModExpert"
     },
-    "en": {
-        "item_name": "Primed Fulmination",
-        "description": "Improves the Blast Radius of weapons with Radial Attacks. +44% Blast Radius",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
-    },
-    "ru": {
-        "item_name": "Инициирование Прайм",
-        "description": "Увеличивает радиус взрыва снарядов оружия с атакой по площади. +44% радиус взрыва",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BD%D0%B8%D1%86%D0%B8%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "프라임드 펄미네이션",
-        "description": "범위 공격 무기의 폭발 반경을 향상시킵니다. +44% 폭발 범위 증가",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
-    },
-    "de": {
-        "item_name": "Primed Detonation",
-        "description": "Verbessert den Explosionsradius von Waffen mit radialen Angriffen. +44 % Explosionsradius",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
-    },
-    "fr": {
-        "item_name": "Fulmination Accrue",
-        "description": "Améliore le rayon d'explosion des armes avec attaques radiales. +44% de Rayon d'Explosion",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fulmination_Accrue"
-    },
-    "pt": {
-        "item_name": "Primed Fulmination",
-        "description": "Melhorará o Raio da Explosão das armas com Ataques Radiais. +44% de Raio da Explosão",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
-    },
-    "zh-hans": {
-        "item_name": "猛烈爆发 Prime",
-        "description": "提高范围攻击武器的爆炸半径。 +44% 爆炸半径",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Fulmination"
-    },
-    "zh-hant": {
-        "item_name": "猛烈爆發 Prime",
-        "description": "增加範圍攻擊武器的爆裂半徑。 +44% 爆炸半徑",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Fulmination"
-    },
-    "es": {
-        "item_name": "Fulminación Prime",
-        "description": "Mejora el radio de explosión de las armas con ataques radiales. +44% de radio de explosión",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fulminaci%C3%B3n"
-    },
-    "it": {
-        "item_name": "Primed Fulmination",
-        "description": "Migliora il Raggio di Esplosione delle armi con Attacchi Radiali. +44% Raggio Esplosione",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
-    },
-    "pl": {
-        "item_name": "Fulminacja Prime",
-        "description": "Zwiększa Zasięg Wybuchu broni z Atakiem Radialnym. +44% Promienia Rażenia",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Furia_Prime"
-    },
-    "uk": {
-        "item_name": "Праймована Блискавиця",
-        "description": "Збільшує радіус вибуху зброї, яка має атаку по площі. +44% до радіуса вибуху.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
+    "i18n": {
+        "en": {
+            "item_name": "Primed Fulmination",
+            "description": "Improves the Blast Radius of weapons with Radial Attacks. +44% Blast Radius",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination",
+            "icon": "items/images/en/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.png",
+            "thumb": "items/images/en/thumbs/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Инициирование Прайм",
+            "description": "Увеличивает радиус взрыва снарядов оружия с атакой по площади. +44% радиус взрыва",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BD%D0%B8%D1%86%D0%B8%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "프라임드 펄미네이션",
+            "description": "범위 공격 무기의 폭발 반경을 향상시킵니다. +44% 폭발 범위 증가",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
+        },
+        "de": {
+            "item_name": "Primed Detonation",
+            "description": "Verbessert den Explosionsradius von Waffen mit radialen Angriffen. +44 % Explosionsradius",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
+        },
+        "fr": {
+            "item_name": "Fulmination Accrue",
+            "description": "Améliore le rayon d'explosion des armes avec attaques radiales. +44% de Rayon d'Explosion",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Fulmination_Accrue"
+        },
+        "pt": {
+            "item_name": "Primed Fulmination",
+            "description": "Melhorará o Raio da Explosão das armas com Ataques Radiais. +44% de Raio da Explosão",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
+        },
+        "zh-hans": {
+            "item_name": "猛烈爆发 Prime",
+            "description": "提高范围攻击武器的爆炸半径。 +44% 爆炸半径",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Fulmination"
+        },
+        "zh-hant": {
+            "item_name": "猛烈爆發 Prime",
+            "description": "增加範圍攻擊武器的爆裂半徑。 +44% 爆炸半徑",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Fulmination"
+        },
+        "es": {
+            "item_name": "Fulminación Prime",
+            "description": "Mejora el radio de explosión de las armas con ataques radiales. +44% de radio de explosión",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Fulminaci%C3%B3n"
+        },
+        "it": {
+            "item_name": "Primed Fulmination",
+            "description": "Migliora il Raggio di Esplosione delle armi con Attacchi Radiali. +44% Raggio Esplosione",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
+        },
+        "pl": {
+            "item_name": "Fulminacja Prime",
+            "description": "Zwiększa Zasięg Wybuchu broni z Atakiem Radialnym. +44% Promienia Rażenia",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Furia_Prime"
+        },
+        "uk": {
+            "item_name": "Праймована Блискавиця",
+            "description": "Збільшує радіус вибуху зброї, яка має атаку по площі. +44% до дальності вибуху",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Fulmination"
+        }
     },
     "rarity": "legendary",
     "max_rank": 10,

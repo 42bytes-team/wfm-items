@@ -9,52 +9,54 @@
     "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
     "min_level": 3,
     "max_level": 5,
-    "en": {
-        "node_name": "E Gate",
-        "system_name": "Venus"
-    },
-    "ru": {
-        "node_name": "E Gate",
-        "system_name": "Венера"
-    },
-    "ko": {
-        "node_name": "E Gate",
-        "system_name": "금성"
-    },
-    "de": {
-        "node_name": "E Gate",
-        "system_name": "Venus"
-    },
-    "fr": {
-        "node_name": "E Gate",
-        "system_name": "Vénus"
-    },
-    "pt": {
-        "node_name": "E Gate",
-        "system_name": "Vênus"
-    },
-    "zh-hans": {
-        "node_name": "E Gate",
-        "system_name": "金星"
-    },
-    "zh-hant": {
-        "node_name": "E Gate",
-        "system_name": "金星"
-    },
-    "es": {
-        "node_name": "E Gate",
-        "system_name": "Venus"
-    },
-    "it": {
-        "node_name": "E Gate",
-        "system_name": "Venere"
-    },
-    "pl": {
-        "node_name": "E Gate",
-        "system_name": "Wenus"
-    },
-    "uk": {
-        "node_name": "Брама Е",
-        "system_name": "Венера"
+    "i18n": {
+        "en": {
+            "node_name": "E Gate",
+            "system_name": "Venus"
+        },
+        "ru": {
+            "node_name": "E Gate",
+            "system_name": "Венера"
+        },
+        "ko": {
+            "node_name": "E Gate",
+            "system_name": "금성"
+        },
+        "de": {
+            "node_name": "E Gate",
+            "system_name": "Venus"
+        },
+        "fr": {
+            "node_name": "E Gate",
+            "system_name": "Vénus"
+        },
+        "pt": {
+            "node_name": "E Gate",
+            "system_name": "Vênus"
+        },
+        "zh-hans": {
+            "node_name": "E Gate",
+            "system_name": "金星"
+        },
+        "zh-hant": {
+            "node_name": "E Gate",
+            "system_name": "金星"
+        },
+        "es": {
+            "node_name": "E Gate",
+            "system_name": "Venus"
+        },
+        "it": {
+            "node_name": "E Gate",
+            "system_name": "Venere"
+        },
+        "pl": {
+            "node_name": "E Gate",
+            "system_name": "Wenus"
+        },
+        "uk": {
+            "node_name": "Брама Е",
+            "system_name": "Венера"
+        }
     }
 }

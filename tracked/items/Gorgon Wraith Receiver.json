@@ -22,65 +22,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Gorgon Wraith Receiver",
-        "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gorgon_Wraith"
-    },
-    "ru": {
-        "item_name": "Горгона Призрак: Приёмник",
-        "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%BE%D1%80%D0%B3%D0%BE%D0%BD%D0%B0_%D0%BF%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA"
-    },
-    "ko": {
-        "item_name": "고르곤 레이스 리시버",
-        "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gorgon_Wraith"
-    },
-    "de": {
-        "item_name": "Gorgon Wraith: Gehäuse",
-        "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gorgon_Wraith"
-    },
-    "fr": {
-        "item_name": "Gorgon Wraith - Culasse",
-        "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Gorgon_Wraith"
-    },
-    "pt": {
-        "item_name": "Gorgon Quimérica: Receptor",
-        "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Gorgon_Wraith"
-    },
-    "zh-hans": {
-        "item_name": "蛇发女妖·亡魂 枪机",
-        "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gorgon_Wraith"
-    },
-    "zh-hant": {
-        "item_name": "蛇髮女妖 亡魂 槍機",
-        "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gorgon_Wraith"
-    },
-    "es": {
-        "item_name": "Receptor De Gorgon Fantasma",
-        "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Gorgon_Fantasma"
-    },
-    "it": {
-        "item_name": "Gorgon Wraith - Castello",
-        "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Gorgon_Wraith"
-    },
-    "pl": {
-        "item_name": "Gorgon Wraith: Korpus",
-        "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gorgon_Wraith"
-    },
-    "uk": {
-        "item_name": "Горгона-Примара: Ствольна Коробка",
-        "description": "Деталь зброї.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gorgon_Wraith"
+    "i18n": {
+        "en": {
+            "item_name": "Gorgon Wraith Receiver",
+            "description": "A weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Gorgon_Wraith",
+            "icon": "items/images/en/gorgon_wraith_receiver.2fe2c6cae89adbecbba049aafcd664d7.png",
+            "thumb": "items/images/en/thumbs/gorgon_wraith_receiver.2fe2c6cae89adbecbba049aafcd664d7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Горгона Призрак: Приёмник",
+            "description": "Компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%BE%D1%80%D0%B3%D0%BE%D0%BD%D0%B0_%D0%BF%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA"
+        },
+        "ko": {
+            "item_name": "고르곤 레이스 리시버",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Gorgon_Wraith"
+        },
+        "de": {
+            "item_name": "Gorgon Wraith: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gorgon_Wraith"
+        },
+        "fr": {
+            "item_name": "Gorgon Wraith - Culasse",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Gorgon_Wraith"
+        },
+        "pt": {
+            "item_name": "Gorgon Quimérica: Receptor",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Gorgon_Wraith"
+        },
+        "zh-hans": {
+            "item_name": "蛇发女妖·亡魂 枪机",
+            "description": "一个武器的制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Gorgon_Wraith"
+        },
+        "zh-hant": {
+            "item_name": "蛇髮女妖 亡魂 槍機",
+            "description": "製作武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Gorgon_Wraith"
+        },
+        "es": {
+            "item_name": "Receptor De Gorgon Fantasma",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Gorgon_Fantasma"
+        },
+        "it": {
+            "item_name": "Gorgon Wraith - Castello",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Gorgon_Wraith"
+        },
+        "pl": {
+            "item_name": "Gorgon Wraith: Korpus",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Gorgon_Wraith"
+        },
+        "uk": {
+            "item_name": "Горгона-Примара: Ствольна Коробка",
+            "description": "Деталь зброї.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Gorgon_Wraith"
+        }
     },
     "mastery_level": 7,
     "trading_tax": 2000

@@ -5,57 +5,59 @@
     "riven_type": "shotgun",
     "icon": "riven_item/images/rauta.cbe84e8e7131f82a5af0e4964dbbde79.png",
     "thumb": "riven_item/images/thumbs/rauta.cbe84e8e7131f82a5af0e4964dbbde79.128x128.png",
-    "disposition": 0.5,
+    "disposition": 0.6,
     "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/PaxDuviricusShotgun/PaxDuviricusShotgun"
     },
-    "en": {
-        "item_name": "Rauta",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Раута",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "라우타",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Rauta",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Rauta",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Rauta",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "锐铁",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "牢銕",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Rauta",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Rauta",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Rauta",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Раута",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Rauta",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Раута",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "라우타",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Rauta",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Rauta",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Rauta",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "锐铁",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "牢銕",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Rauta",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Rauta",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Rauta",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Раута",
+            "wiki_link": null
+        }
     }
 }

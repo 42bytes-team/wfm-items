@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneRadialEnergyOnEnergyPickup"
     },
-    "en": {
-        "item_name": "Arcane Energize",
-        "description": "On Energy Pickup:\n60% chance to replenish 150 Energy to self and allies within 15m\n15s cooldown\n+1 Arcane Revive\n+1 Arcane Revive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Energize"
-    },
-    "ru": {
-        "item_name": "Мистическая Зарядка",
-        "description": "При взятии сферы энергии:\n60% шанс восполнить 150 энергии себе и союзникам, находящимся в радиусе 15 м\nВосстановление: 15 с\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0"
-    },
-    "ko": {
-        "item_name": "아케인 에너자이즈",
-        "description": "에너지 오브를 획득 시:\n60% 확률로 15m 내의 자신 및 아군 에너지 150 회복\n재사용 대기 시간: 15초\n+1 아케인 부활\n+1 아케인 부활",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Energize"
-    },
-    "de": {
-        "item_name": "Arkana: Antrieb",
-        "description": "Beim Aufsammeln von Energie:\n60 % Chance, 150 Energie für Verbündete und Selbst innerhalb von 15 m wieder aufzufüllen\n15 s Abklingzeit\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_Antrieb"
-    },
-    "fr": {
-        "item_name": "Arcane Énergétique",
-        "description": "Sur Ramassage d'Énergie:\n60% de chances de restaurer 150 points d'Énergie à vous-même et aux alliés à moins de 15m\n15s de temps de recharge\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_%C3%89nerg%C3%A9tique"
-    },
-    "pt": {
-        "item_name": "Energização Arcana",
-        "description": "Ao Coletar Energia:\n60% de chance de restaurar 150 de Energia para si e para aliados dentro de um raio de 15m\n15s de tempo de recarga\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Energize"
-    },
-    "zh-hans": {
-        "item_name": "赋能·充沛",
-        "description": "拾起能量时：\n60% 几率为自己和 15 米内的友军恢复 150 能量\n冷却时间 15 秒\n赋能复活次数 +1\n赋能复活次数 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Energize"
-    },
-    "zh-hant": {
-        "item_name": "充沛賦能",
-        "description": "拾起能量後：\n60% 機率給自己和 15 公尺內友軍補充 150 能量\n15 秒冷卻時間\n賦能復活次數 +1\n賦能復活次數 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Energize"
-    },
-    "es": {
-        "item_name": "Energizar Arcano",
-        "description": "Al recoger energía:\n60 % de probabilidad de reponer 150 de energía a sí mismo y a los aliados en un radio de 15 m\n15 s de tiempo de recarga\n+1 Revivir Arcano\n+1 Revivir Arcano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Energizar_arcano"
-    },
-    "it": {
-        "item_name": "Arcane Energize",
-        "description": "Al Raccoglimento Energia:\n60% probabilità di ripristinare 150 della propria Energia e degli alleati nel raggio di 15m\nTempo di Ricarica: 15s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
-        "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Energize"
-    },
-    "pl": {
-        "item_name": "Arkanum Pobudzenia",
-        "description": "Po podniesieniu energii:\n60% szansy na odnowienie 150 Energii sobie oraz sojusznikom w zasięgu 15m\nCzas odnowienia: 15s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Pobudzenia"
-    },
-    "uk": {
-        "item_name": "Містичне Підживлення",
-        "description": "У разі підбирання згустків енергії:\n60% імовірності відновити 150 енергії собі й союзникам у межах 15 м.\nПерезаряджання: 15 с.\n+1 містичне відродження.\n+1 містичне відродження.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Energize"
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Energize",
+            "description": "On Energy Pickup:\n60% chance to replenish 150 Energy to self and allies within 15m\n15s cooldown\n+1 Arcane Revive\n+1 Arcane Revive",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Energize",
+            "icon": "items/images/en/arcane_energize.e5f85590ceb29db89c6753dfdf823485.png",
+            "thumb": "items/images/en/thumbs/arcane_energize.e5f85590ceb29db89c6753dfdf823485.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мистическая Зарядка",
+            "description": "При взятии сферы энергии:\n60% шанс восполнить 150 энергии себе и союзникам, находящимся в радиусе 15 м\nВосстановление: 15 с\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0"
+        },
+        "ko": {
+            "item_name": "아케인 에너자이즈",
+            "description": "에너지 오브를 획득 시:\n60% 확률로 15m 내의 자신 및 아군 에너지 150 회복\n재사용 대기 시간: 15초\n+1 아케인 부활\n+1 아케인 부활",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Energize"
+        },
+        "de": {
+            "item_name": "Arkana: Antrieb",
+            "description": "Beim Aufsammeln von Energie:\n60 % Chance, 150 Energie für Verbündete und Selbst innerhalb von 15 m wieder aufzufüllen\n15 s Abklingzeit\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_Antrieb"
+        },
+        "fr": {
+            "item_name": "Arcane Énergétique",
+            "description": "Sur Ramassage d'Énergie:\n60% de chances de restaurer 150 points d'Énergie à vous-même et aux alliés à moins de 15m\n15s de temps de recharge\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_%C3%89nerg%C3%A9tique"
+        },
+        "pt": {
+            "item_name": "Energização Arcana",
+            "description": "Ao Coletar Energia:\n60% de chance de restaurar 150 de Energia para si e para aliados dentro de um raio de 15m\n15s de tempo de recarga\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Energize"
+        },
+        "zh-hans": {
+            "item_name": "赋能·充沛",
+            "description": "拾起能量时：\n60% 几率为自己和 15 米内的友军恢复 150 能量\n冷却时间 15 秒\n赋能复活次数 +1\n赋能复活次数 +1",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Energize"
+        },
+        "zh-hant": {
+            "item_name": "充沛賦能",
+            "description": "拾起能量後：\n60% 機率給自己和 15 公尺內友軍補充 150 能量\n15 秒冷卻時間\n賦能復活次數 +1\n賦能復活次數 +1",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Energize"
+        },
+        "es": {
+            "item_name": "Energizar Arcano",
+            "description": "Al recoger energía:\n60 % de probabilidad de reponer 150 de energía a sí mismo y a los aliados en un radio de 15 m\n15 s de tiempo de recarga\n+1 Revivir Arcano\n+1 Revivir Arcano",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Energizar_arcano"
+        },
+        "it": {
+            "item_name": "Arcane Energize",
+            "description": "Al Raccoglimento Energia:\n60% probabilità di ripristinare 150 della propria Energia e degli alleati nel raggio di 15m\nTempo di Ricarica: 15s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+            "wiki_link": "http://warframe.wikia.com/wiki/Arcane_Energize"
+        },
+        "pl": {
+            "item_name": "Arkanum Pobudzenia",
+            "description": "Po podniesieniu energii:\n60% szansy na odnowienie 150 Energii sobie oraz sojusznikom w zasięgu 15m\nCzas odnowienia: 15s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Pobudzenia"
+        },
+        "uk": {
+            "item_name": "Містичне Підживлення",
+            "description": "У разі підбирання згустків енергії:\n60% імовірності відновити 150 енергії собі й союзникам у межах 15 м.\nПерезаряджання: 15 с.\n+1 містичне відродження.\n+1 містичне відродження.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Energize"
+        }
     },
     "rarity": "legendary",
     "max_rank": 5,

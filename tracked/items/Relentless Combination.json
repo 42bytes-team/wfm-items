@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeComboChanceFromDot"
     },
-    "en": {
-        "item_name": "Relentless Combination",
-        "description": "+100% chance to increase Melee Combo Counter when Slash Status deals damage.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Relentless_Combination"
-    },
-    "ru": {
-        "item_name": "Неустанная Комбинация",
-        "description": "+100% шанс увеличить счетчик комбо при нанесении урона статусом Разрез.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F"
-    },
-    "ko": {
-        "item_name": "릴렌트리스 컴비네이션",
-        "description": "베기 상태 이상 피해를 가할 시 +100%의 확률로 근접 연속기 카운터가 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Relentless_Combination"
-    },
-    "de": {
-        "item_name": "Unerbittliche Kombination",
-        "description": "+100 % Chance, den Nahkampfkombo-Zähler zu erhöhen, wenn Schaden durch Schnitt-Status verursacht wird.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Unerbitterliche_Kombination"
-    },
-    "fr": {
-        "item_name": "Combinaison Incessante",
-        "description": "+100% de chances d'augmenter le Compteur de Combo de Mêlée lorsque le Statut Tranchant inflige des Dégâts.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Combinaison_Incessante"
-    },
-    "pt": {
-        "item_name": "Relentless Combination",
-        "description": "+100% chance de aumentar o Contador do Combo Corpo a Corpo quando o Status Cortante causa dano.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination"
-    },
-    "zh-hans": {
-        "item_name": "残酷组合",
-        "description": "切割触发造成伤害时有 +100% 的几率增加近战连击数。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Relentless_Combination"
-    },
-    "zh-hant": {
-        "item_name": "殘酷組合",
-        "description": "當 切割觸發效果造成傷害時，+100% 機率增加近戰連擊數。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Relentless_Combination"
-    },
-    "es": {
-        "item_name": "Combinación Implacable",
-        "description": "+100% de probabilidad de incrementar el contador de combo cuerpo a cuerpo cuando un estado cortante hace daño.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Combinaci%C3%B3n_implacable"
-    },
-    "it": {
-        "item_name": "Relentless Combination",
-        "description": "+100% di probabilità di aumentare il Moltiplicatore Combo Corpo a Corpo quando l'effetto Taglio infligge danno.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination"
-    },
-    "pl": {
-        "item_name": "Bezwzględna Kombinacja",
-        "description": "+100% szansy zwiększenia Licznika Kombo Broni białej, kiedy Krwawienie zada obrażenia.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination"
-    },
-    "uk": {
-        "item_name": "Невпинна Серія",
-        "description": "+100% до ймовірності збільшення лічильника серії ударів холодною зброєю під час завданої різальною шкодою кровотечі ворога.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Relentless_Combination"
+    "i18n": {
+        "en": {
+            "item_name": "Relentless Combination",
+            "description": "+100% chance to increase Melee Combo Counter when Slash Status deals damage.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Relentless_Combination",
+            "icon": "items/images/en/relentless_combination.1c8cacce7f4d841b2471013085cde633.png",
+            "thumb": "items/images/en/thumbs/relentless_combination.1c8cacce7f4d841b2471013085cde633.128x128.png"
+        },
+        "ru": {
+            "item_name": "Неустанная Комбинация",
+            "description": "+100% шанс увеличить счетчик комбо при нанесении урона статусом Разрез.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%B5%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F"
+        },
+        "ko": {
+            "item_name": "릴렌트리스 컴비네이션",
+            "description": "베기 상태 이상 피해를 가할 시 +100%의 확률로 근접 연속기 카운터가 증가합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Relentless_Combination"
+        },
+        "de": {
+            "item_name": "Unerbittliche Kombination",
+            "description": "+100 % Chance, den Nahkampfkombo-Zähler zu erhöhen, wenn Schaden durch Schnitt-Status verursacht wird.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Unerbitterliche_Kombination"
+        },
+        "fr": {
+            "item_name": "Combinaison Incessante",
+            "description": "+100% de chances d'augmenter le Compteur de Combo de Mêlée lorsque le Statut Tranchant inflige des Dégâts.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Combinaison_Incessante"
+        },
+        "pt": {
+            "item_name": "Relentless Combination",
+            "description": "+100% chance de aumentar o Contador do Combo Corpo a Corpo quando o Status Cortante causa dano.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination"
+        },
+        "zh-hans": {
+            "item_name": "残酷组合",
+            "description": "切割触发造成伤害时有 +100% 的几率增加近战连击数。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Relentless_Combination"
+        },
+        "zh-hant": {
+            "item_name": "殘酷組合",
+            "description": "當 切割觸發效果造成傷害時，+100% 機率增加近戰連擊數。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Relentless_Combination"
+        },
+        "es": {
+            "item_name": "Combinación Implacable",
+            "description": "+100% de probabilidad de incrementar el contador de combo cuerpo a cuerpo cuando un estado cortante hace daño.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Combinaci%C3%B3n_implacable"
+        },
+        "it": {
+            "item_name": "Relentless Combination",
+            "description": "+100% di probabilità di aumentare il Moltiplicatore Combo Corpo a Corpo quando l'effetto Taglio infligge danno.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination"
+        },
+        "pl": {
+            "item_name": "Bezwzględna Kombinacja",
+            "description": "+100% szansy zwiększenia Licznika Kombo Broni białej, kiedy Krwawienie zada obrażenia.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Relentless_Combination"
+        },
+        "uk": {
+            "item_name": "Невпинна Серія",
+            "description": "+100% до ймовірності збільшення лічильника серії ударів холодною зброєю під час завданої різальною шкодою кровотечі ворога.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Relentless_Combination"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

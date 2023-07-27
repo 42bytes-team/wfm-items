@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Ranger/RangerControlAugmentCard"
     },
-    "en": {
-        "item_name": "Piercing Navigator",
-        "description": "Navigator Augment: Each hit increases the projectile's Critical Chance by 10% up to a max of 50%.\n+3 Projectile Punch Through.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Navigator"
-    },
-    "ru": {
-        "item_name": "Сквозной Навигатор",
-        "description": "Улучшение способности «Навигатор»: каждое попадание увеличивает шанс нанесения критического урона этим снарядом на 10% вплоть до максимума в 50%.\n+3 пронзание навылет для снарядов.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B2%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9_%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80",
-        "icon": "items/images/ru/piercing_navigator.3b63501d4b93211816138795cc778463.png",
-        "thumb": "items/images/ru/thumbs/piercing_navigator.3b63501d4b93211816138795cc778463.128x128.png"
-    },
-    "ko": {
-        "item_name": "피어싱 내비게이터",
-        "description": "내비게이터 개조: 한 번 명중할 때마다 발사체의 치명타 확률을 10%씩, 최대 50%까지 증가시킵니다.\n패시브: +3 발사체 두께 꿰뚫기.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Navigator"
-    },
-    "de": {
-        "item_name": "Durchstechender Navigator",
-        "description": "Navigator Augment: Jeder Treffer erhöht die Krit. Chance des Projektils um 10 % bis zu maximal 50 %.\n+ 3 Projektil-Durchdringung.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Durchstechender_Navigator"
-    },
-    "fr": {
-        "item_name": "Navigatrice Perçante",
-        "description": "Augmentation Navigatrice: Chaque coup augmente les Chances de Critique du projectile de 10% jusqu'à un maximum de 50%.\r+3 en Pénétration du Projectile. ",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Navigatrice_Per%C3%A7ante"
-    },
-    "pt": {
-        "item_name": "Piercing Navigator",
-        "description": "Ampliação Navigator: cada acerto aumentará a Chance Crítica do projétil em 10%, até o total de 50%.\n+3 Penetração do Projétil.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Piercing_Navigator"
-    },
-    "zh-hans": {
-        "item_name": "穿刺抛体",
-        "description": "导向拋体强化：每次命中增加投射物 10% 的暴击几率，最高达到50%。\n+3 投射物穿透效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Piercing_Navigator"
-    },
-    "zh-hant": {
-        "item_name": "穿刺抛體",
-        "description": "導向拋體強化：每次命中增加投射物 10% 的暴擊率，最高達到50%。\n+3 投射物穿透效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Piercing_Navigator"
-    },
-    "es": {
-        "item_name": "Navegador Perforante",
-        "description": "Aumento de Navegador: cada impacto aumenta la probabilidad crítica del proyectil en un 10% hasta un máximo de 50%.\n+3 de atravesar para el proyectil.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Navegador_perforante"
-    },
-    "it": {
-        "item_name": "Piercing Navigator",
-        "description": "Potenziamento Navigator: Ogni colpo aumenta la Probabilità Critico del proiettile del 10% fino ad un massimo di 50%.\n+3 Attraversamento Proiettile.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Piercing_Hit"
-    },
-    "pl": {
-        "item_name": "Przenikliwy Nawigator",
-        "description": "Modyfikacja Nawigatora: Każde trafienie zwiększa szansę zadania obrażeń krytycznych pocisku o 10%, aż do maksymalnej wartości 50%.\r+3 Przebicia na wylot.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przenikliwy_Nawigator"
-    },
-    "uk": {
-        "item_name": "Пробивний Шляховказ",
-        "description": "Розширення здібності «Шляховказ»: кожне влучання збільшує ймовірність завдання критичної шкоди снарядом на 10%, аж до 50%.\n+3 до пробивання снарядом.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Navigator"
+    "i18n": {
+        "en": {
+            "item_name": "Piercing Navigator",
+            "description": "Navigator Augment: Each hit increases the projectile's Critical Chance by 10% up to a max of 50%.\n+3 Projectile Punch Through.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Navigator",
+            "icon": "items/images/en/piercing_navigator.bb0a507032b17f728ed5b836a49707cb.png",
+            "thumb": "items/images/en/thumbs/piercing_navigator.bb0a507032b17f728ed5b836a49707cb.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сквозной Навигатор",
+            "description": "Улучшение способности «Навигатор»: каждое попадание увеличивает шанс нанесения критического урона этим снарядом на 10% вплоть до максимума в 50%.\n+3 пронзание навылет для снарядов.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B2%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9_%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80",
+            "icon": "items/images/ru/piercing_navigator.3b63501d4b93211816138795cc778463.png",
+            "thumb": "items/images/ru/thumbs/piercing_navigator.3b63501d4b93211816138795cc778463.128x128.png"
+        },
+        "ko": {
+            "item_name": "피어싱 내비게이터",
+            "description": "내비게이터 개조: 한 번 명중할 때마다 발사체의 치명타 확률을 10%씩, 최대 50%까지 증가시킵니다.\n패시브: +3 발사체 두께 꿰뚫기.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Navigator"
+        },
+        "de": {
+            "item_name": "Durchstechender Navigator",
+            "description": "Navigator Augment: Jeder Treffer erhöht die Krit. Chance des Projektils um 10 % bis zu maximal 50 %.\n+ 3 Projektil-Durchdringung.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Durchstechender_Navigator"
+        },
+        "fr": {
+            "item_name": "Navigatrice Perçante",
+            "description": "Augmentation Navigatrice: Chaque coup augmente les Chances de Critique du projectile de 10% jusqu'à un maximum de 50%.\r+3 en Pénétration du Projectile. ",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Navigatrice_Per%C3%A7ante"
+        },
+        "pt": {
+            "item_name": "Piercing Navigator",
+            "description": "Ampliação Navigator: cada acerto aumentará a Chance Crítica do projétil em 10%, até o total de 50%.\n+3 Penetração do Projétil.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Piercing_Navigator"
+        },
+        "zh-hans": {
+            "item_name": "穿刺抛体",
+            "description": "导向拋体强化：每次命中增加投射物 10% 的暴击几率，最高达到50%。\n+3 投射物穿透效果。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Piercing_Navigator"
+        },
+        "zh-hant": {
+            "item_name": "穿刺抛體",
+            "description": "導向拋體強化：每次命中增加投射物 10% 的暴擊率，最高達到50%。\n+3 投射物穿透效果。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Piercing_Navigator"
+        },
+        "es": {
+            "item_name": "Navegador Perforante",
+            "description": "Aumento de Navegador: cada impacto aumenta la probabilidad crítica del proyectil en un 10% hasta un máximo de 50%.\n+3 de atravesar para el proyectil.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Navegador_perforante"
+        },
+        "it": {
+            "item_name": "Piercing Navigator",
+            "description": "Potenziamento Navigator: Ogni colpo aumenta la Probabilità Critico del proiettile del 10% fino ad un massimo di 50%.\n+3 Attraversamento Proiettile.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Piercing_Hit"
+        },
+        "pl": {
+            "item_name": "Przenikliwy Nawigator",
+            "description": "Modyfikacja Nawigatora: Każde trafienie zwiększa szansę zadania obrażeń krytycznych pocisku o 10%, aż do maksymalnej wartości 50%.\r+3 Przebicia na wylot.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Przenikliwy_Nawigator"
+        },
+        "uk": {
+            "item_name": "Пробивний Шляховказ",
+            "description": "Розширення здібності «Шляховказ»: кожне влучання збільшує ймовірність завдання критичної шкоди снарядом на 10%, аж до 50%.\n+3 до пробивання снарядом.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Navigator"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

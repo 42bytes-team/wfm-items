@@ -15,68 +15,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleClipMaxMod"
     },
-    "en": {
-        "item_name": "Magazine Extension",
-        "description": "+60% Magazine Capacity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Extension"
-    },
-    "ru": {
-        "item_name": "Расширение Магазина",
-        "description": "+60% к вместимости магазина",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0",
-        "icon": "items/images/ru/magazine_extension.85ccb2920566de6c59b5e05af0d492d9.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/magazine_extension.85ccb2920566de6c59b5e05af0d492d9.128x128.png"
-    },
-    "ko": {
-        "item_name": "매거진 익스텐션",
-        "description": "+60% 탄창 용량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Extension"
-    },
-    "de": {
-        "item_name": "Magazin-Erweiterung",
-        "description": "+60 % Magazingröße",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Magazinerweiterung"
-    },
-    "fr": {
-        "item_name": "Chargeur Profond",
-        "description": "+60% de Taille Du Chargeur",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magasin_Profond"
-    },
-    "pt": {
-        "item_name": "Magazine Extension",
-        "description": "+60% de Capacidade do Carregador",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magazine_Extension"
-    },
-    "zh-hans": {
-        "item_name": "扩充弹匣",
-        "description": "+60% 弹匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magazine_Extension"
-    },
-    "zh-hant": {
-        "item_name": "擴充彈匣",
-        "description": "+60% 彈匣容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magazine_Extension"
-    },
-    "es": {
-        "item_name": "Ampliación De Cargador",
-        "description": "+60% de capacidad de cargador",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ampliaci%C3%B3n_de_cargador"
-    },
-    "it": {
-        "item_name": "Magazine Extension",
-        "description": "+60% Capienza Caricatore",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magazine_Extension"
-    },
-    "pl": {
-        "item_name": "Powiększenie Magazynka",
-        "description": "+60% Pojemności Magazynka",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Powi%C4%99kszenie_Magazynka"
-    },
-    "uk": {
-        "item_name": "Збільшення Магазину",
-        "description": "+60% до місткості магазину.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Extension"
+    "i18n": {
+        "en": {
+            "item_name": "Magazine Extension",
+            "description": "+60% Magazine Capacity",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Extension",
+            "icon": "items/images/en/magazine_extension.29c617cc777be81858f3dee8a905a199.png",
+            "thumb": "items/images/en/thumbs/magazine_extension.29c617cc777be81858f3dee8a905a199.128x128.png"
+        },
+        "ru": {
+            "item_name": "Расширение Магазина",
+            "description": "+60% к вместимости магазина",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0",
+            "icon": "items/images/ru/magazine_extension.85ccb2920566de6c59b5e05af0d492d9.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/magazine_extension.85ccb2920566de6c59b5e05af0d492d9.128x128.png"
+        },
+        "ko": {
+            "item_name": "매거진 익스텐션",
+            "description": "+60% 탄창 용량",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Extension"
+        },
+        "de": {
+            "item_name": "Magazin-Erweiterung",
+            "description": "+60 % Magazingröße",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Magazinerweiterung"
+        },
+        "fr": {
+            "item_name": "Chargeur Profond",
+            "description": "+60% de Taille Du Chargeur",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Magasin_Profond"
+        },
+        "pt": {
+            "item_name": "Magazine Extension",
+            "description": "+60% de Capacidade do Carregador",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magazine_Extension"
+        },
+        "zh-hans": {
+            "item_name": "扩充弹匣",
+            "description": "+60% 弹匣容量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Magazine_Extension"
+        },
+        "zh-hant": {
+            "item_name": "擴充彈匣",
+            "description": "+60% 彈匣容量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Magazine_Extension"
+        },
+        "es": {
+            "item_name": "Ampliación De Cargador",
+            "description": "+60% de capacidad de cargador",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Ampliaci%C3%B3n_de_cargador"
+        },
+        "it": {
+            "item_name": "Magazine Extension",
+            "description": "+60% Capienza Caricatore",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magazine_Extension"
+        },
+        "pl": {
+            "item_name": "Powiększenie Magazynka",
+            "description": "+60% Pojemności Magazynka",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Powi%C4%99kszenie_Magazynka"
+        },
+        "uk": {
+            "item_name": "Збільшення Магазину",
+            "description": "+60% до місткості магазину",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magazine_Extension"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

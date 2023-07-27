@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Ranger/RangerQuiverAugmentCard"
     },
-    "en": {
-        "item_name": "Empowered Quiver",
-        "description": "Quiver Augment: Dashwire grants allies 100% Critical Damage. Cloak arrow has a 100% chance to prevent Status Effects.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Empowered_Quiver"
-    },
-    "ru": {
-        "item_name": "Усиленный Колчан",
-        "description": "Улучшение способности «Колчан»: веревочная стрела увеличивает критический урон союзников на 100%. Маскировочная стрела с 100% шансом может предотвратить получение эффектов статуса.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9A%D0%BE%D0%BB%D1%87%D0%B0%D0%BD",
-        "icon": "items/images/ru/empowered_quiver.05c6274885439ef9d180002168209936.png",
-        "thumb": "items/images/ru/thumbs/empowered_quiver.05c6274885439ef9d180002168209936.128x128.png"
-    },
-    "ko": {
-        "item_name": "임파워드 퀴버",
-        "description": "퀴버 개조: 대쉬와이어가 아군에게 100% 추가 치명타 피해를 제공하며, 클록 애로우가 100%의 확률로 상태 이상 효과를  방지합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Empowered_Quiver"
-    },
-    "de": {
-        "item_name": "Verstärkter Köcher",
-        "description": "Köcher Augment: Drahtseil erhöht den Krit. Schaden von Verbündeten um 100 %. Tarnungspfeil hat eine 100 % Chance, Statuseffekte zu verhindern.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verst%C3%A4rkte_Klingen"
-    },
-    "fr": {
-        "item_name": "Carquois Surchargé",
-        "description": "Augmentation de Carquois: La Flèche Cablée confère un bonus de Dégâts Critiques de 100% aux alliés. La Flèche Éclipse donne 100% de chance de prévenir les Effets de Statut.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Carquois_Surcharg%C3%A9"
-    },
-    "pt": {
-        "item_name": "Empowered Quiver",
-        "description": "Ampliação Quiver: a Dashwire concederá 100% Chance Crítica para os aliados que interagirem com ela. A flecha Cloak terá 100% de chance de prevenir Efeitos de Status.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Empowered_Quiver"
-    },
-    "zh-hans": {
-        "item_name": "强化箭袋",
-        "description": "战术箭袋强化：悬丝箭使友军获得 100% 暴击伤害。隐蔽箭有 100% 的几率防止异常状态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Empowered_Quiver"
-    },
-    "zh-hant": {
-        "item_name": "強化箭袋",
-        "description": "戰術箭袋強化：懸絲箭使盟友獲得 100% 暴擊傷害。隱蔽箭有 100% 的機率防止異常觸發狀態。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Empowered_Quiver"
-    },
-    "es": {
-        "item_name": "Aljaba Empoderada",
-        "description": "Aumento de Aljaba: Tirolina otorga 100% de daño crítico a los aliados. Flecha de camuflaje tiene un 100% de probabilidad de prevenir efectos de estado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aljaba_empoderada"
-    },
-    "it": {
-        "item_name": "Empowered Quiver",
-        "description": "Potenziamento Quiver: Dashwire aumenta del 100% il Danno Critico degli alleati. La freccia Cloak ha il 100% di probabilità di impedire Effetti.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Empowered_Quiver"
-    },
-    "pl": {
-        "item_name": "Wzmocniony Kołczan",
-        "description": "Modyfikacja Kołczanu: Linka daje sojusznikom 100% Obrażeń Krytycznych. Strzała ukrywająca ma 100% szansy, aby zapobiec nałożeniu Statusu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wzmocniony_Ko%C5%82czan"
-    },
-    "uk": {
-        "item_name": "Посилений Сагайдак",
-        "description": "Розширення здібності «Сагайдак»: дротова стріла додає союзникам 100% до критичної шкоди. Сховна стріла на 100% збільшує ймовірність оминути ефект стану.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Empowered_Quiver"
+    "i18n": {
+        "en": {
+            "item_name": "Empowered Quiver",
+            "description": "Quiver Augment: Dashwire grants allies 100% Critical Damage. Cloak arrow has a 100% chance to prevent Status Effects.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Empowered_Quiver",
+            "icon": "items/images/en/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.png",
+            "thumb": "items/images/en/thumbs/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.128x128.png"
+        },
+        "ru": {
+            "item_name": "Усиленный Колчан",
+            "description": "Улучшение способности «Колчан»: веревочная стрела увеличивает критический урон союзников на 100%. Маскировочная стрела с 100% шансом может предотвратить получение эффектов статуса.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%81%D0%B8%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9A%D0%BE%D0%BB%D1%87%D0%B0%D0%BD",
+            "icon": "items/images/ru/empowered_quiver.05c6274885439ef9d180002168209936.png",
+            "thumb": "items/images/ru/thumbs/empowered_quiver.05c6274885439ef9d180002168209936.128x128.png"
+        },
+        "ko": {
+            "item_name": "임파워드 퀴버",
+            "description": "퀴버 개조: 대쉬와이어가 아군에게 100% 추가 치명타 피해를 제공하며, 클록 애로우가 100%의 확률로 상태 이상 효과를  방지합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Empowered_Quiver"
+        },
+        "de": {
+            "item_name": "Verstärkter Köcher",
+            "description": "Köcher Augment: Drahtseil erhöht den Krit. Schaden von Verbündeten um 100 %. Tarnungspfeil hat eine 100 % Chance, Statuseffekte zu verhindern.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Verst%C3%A4rkte_Klingen"
+        },
+        "fr": {
+            "item_name": "Carquois Surchargé",
+            "description": "Augmentation de Carquois: La Flèche Cablée confère un bonus de Dégâts Critiques de 100% aux alliés. La Flèche Éclipse donne 100% de chance de prévenir les Effets de Statut.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Carquois_Surcharg%C3%A9"
+        },
+        "pt": {
+            "item_name": "Empowered Quiver",
+            "description": "Ampliação Quiver: a Dashwire concederá 100% de Dano Crítico aos aliados que interagirem com ela. A flecha Cloak terá 100% de chance de prevenir Efeitos de Status.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Empowered_Quiver"
+        },
+        "zh-hans": {
+            "item_name": "强化箭袋",
+            "description": "战术箭袋强化：悬丝箭使友军获得 100% 暴击伤害。隐蔽箭有 100% 的几率防止异常状态。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Empowered_Quiver"
+        },
+        "zh-hant": {
+            "item_name": "強化箭袋",
+            "description": "戰術箭袋強化：懸絲箭使盟友獲得 100% 暴擊傷害。隱蔽箭有 100% 的機率防止異常觸發狀態。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Empowered_Quiver"
+        },
+        "es": {
+            "item_name": "Aljaba Empoderada",
+            "description": "Aumento de Aljaba: Tirolina otorga 100% de daño crítico a los aliados. Flecha de camuflaje tiene un 100% de probabilidad de prevenir efectos de estado.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Aljaba_empoderada"
+        },
+        "it": {
+            "item_name": "Empowered Quiver",
+            "description": "Potenziamento Quiver: Dashwire aumenta del 100% il Danno Critico degli alleati. La freccia Cloak ha il 100% di probabilità di impedire Effetti.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Empowered_Quiver"
+        },
+        "pl": {
+            "item_name": "Wzmocniony Kołczan",
+            "description": "Modyfikacja Kołczanu: Linka daje sojusznikom 100% Obrażeń Krytycznych. Strzała ukrywająca ma 100% szansy, aby zapobiec nałożeniu Statusu.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Wzmocniony_Ko%C5%82czan"
+        },
+        "uk": {
+            "item_name": "Посилений Сагайдак",
+            "description": "Розширення здібності «Сагайдак»: дротова стріла додає союзникам 100% до критичної шкоди. Сховна стріла на 100% збільшує ймовірність оминути ефект стану.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Empowered_Quiver"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

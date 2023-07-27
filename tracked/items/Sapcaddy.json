@@ -16,65 +16,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAItem"
     },
-    "en": {
-        "item_name": "Sapcaddy",
-        "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
-    },
-    "ru": {
-        "item_name": "Сапкадди",
-        "description": "Собирает образцы жидкости в водных системах для исследовательской станции. Можно найти в озёрах Венеры.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BF%D0%BA%D0%B0%D0%B4%D0%B4%D0%B8"
-    },
-    "ko": {
-        "item_name": "샙캐디",
-        "description": "연구소를 위해 유체 시스템에서 액체 샘플을 수집합니다. 금성의 호수에서 발견됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
-    },
-    "de": {
-        "item_name": "Sapcaddy",
-        "description": "Sammelt Flüssigkeitsproben vom Wassersystem für die Forschungsstation. Kann in Seen auf der Venus gefunden werden.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sapcaddy"
-    },
-    "fr": {
-        "item_name": "Sapcaddy",
-        "description": "Récupère les échantillons de fluide de l'écosystème aquatique pour la Station de Recherche. Il peut être trouvé dans les lacs sur Vénus.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sapcaddy"
-    },
-    "pt": {
-        "item_name": "Sapcaddy",
-        "description": "Coleta amostras de flúidos no sistema marinho para a Estação de Pesquisa. Pode ser encontrado nos lagos de Vênus.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
-    },
-    "zh-hans": {
-        "item_name": "液集者",
-        "description": "为研究站收集水系统中的液体样本。可以在金星周围的湖泊中找到。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sapcaddy"
-    },
-    "zh-hant": {
-        "item_name": "液集盒",
-        "description": "為研究站收集水系統中的液體樣本。可以在金星周圍的湖泊中找到。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sapcaddy"
-    },
-    "es": {
-        "item_name": "Sapcaddy",
-        "description": "Recolecta muestras de fluído en el sistema de agua para la Estación de Investigación. Puede encontrarse en los lagos alrededor de Venus.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sapcaddy"
-    },
-    "it": {
-        "item_name": "Sapcaddy",
-        "description": "Raccoglie campioni di fluido nel sistema acquatico per la Stazione di Ricerca. Può essere trovato nei laghi di Venere.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
-    },
-    "pl": {
-        "item_name": "Torbacz",
-        "description": "Zbiera próbki płynów w systemie wodnym dla Stacji Badawczej. Można go znaleźć w jeziorze na Wenus.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Torbacz"
-    },
-    "uk": {
-        "item_name": "Пробосом",
-        "description": "Відбирає проби рідин в аквасистемі для дослідницької станції. Трапляється в озерах на Венері.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
+    "i18n": {
+        "en": {
+            "item_name": "Sapcaddy",
+            "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy",
+            "icon": "items/images/en/sapcaddy.202e75dc588c1f56b883bf34edd33447.png",
+            "thumb": "items/images/en/thumbs/sapcaddy.202e75dc588c1f56b883bf34edd33447.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сапкадди",
+            "description": "Собирает образцы жидкости в водных системах для исследовательской станции. Можно найти в озёрах Венеры.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BF%D0%BA%D0%B0%D0%B4%D0%B4%D0%B8"
+        },
+        "ko": {
+            "item_name": "샙캐디",
+            "description": "연구소를 위해 유체 시스템에서 액체 샘플을 수집합니다. 금성의 호수에서 발견됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
+        },
+        "de": {
+            "item_name": "Sapcaddy",
+            "description": "Sammelt Flüssigkeitsproben vom Wassersystem für die Forschungsstation. Kann in Seen auf der Venus gefunden werden.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Sapcaddy"
+        },
+        "fr": {
+            "item_name": "Sapcaddy",
+            "description": "Récupère les échantillons de fluide de l'écosystème aquatique pour la Station de Recherche. Il peut être trouvé dans les lacs sur Vénus.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Sapcaddy"
+        },
+        "pt": {
+            "item_name": "Sapcaddy",
+            "description": "Coleta amostras de flúidos no sistema marinho para a Estação de Pesquisa. Pode ser encontrado nos lagos de Vênus.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
+        },
+        "zh-hans": {
+            "item_name": "液集者",
+            "description": "为研究站收集水系统中的液体样本。可以在金星周围的湖泊中找到。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sapcaddy"
+        },
+        "zh-hant": {
+            "item_name": "液集盒",
+            "description": "為研究站收集水系統中的液體樣本。可以在金星周圍的湖泊中找到。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sapcaddy"
+        },
+        "es": {
+            "item_name": "Sapcaddy",
+            "description": "Recolecta muestras de fluído en el sistema de agua para la Estación de Investigación. Puede encontrarse en los lagos alrededor de Venus.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sapcaddy"
+        },
+        "it": {
+            "item_name": "Sapcaddy",
+            "description": "Raccoglie campioni di fluido nel sistema acquatico per la Stazione di Ricerca. Può essere trovato nei laghi di Venere.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
+        },
+        "pl": {
+            "item_name": "Torbacz",
+            "description": "Zbiera próbki płynów w systemie wodnym dla Stacji Badawczej. Można go znaleźć w jeziorze na Wenus.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Torbacz"
+        },
+        "uk": {
+            "item_name": "Пробосом",
+            "description": "Відбирає проби рідин в аквасистемі для дослідницької станції. Трапляється в озерах на Венері.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sapcaddy"
+        }
     },
     "subtypes": [
         "basic",

@@ -2,54 +2,56 @@
     "_id": "60f3feb2b64404003f0bf60a",
     "url_name": "coward",
     "group": "default",
-    "icon": "sister_quirks/images/coward.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "sister_quirks/images/thumbs/coward.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
-    "en": {
-        "item_name": "Coward",
-        "description": "Can leave the mission at low health"
-    },
-    "ru": {
-        "item_name": "Coward",
-        "description": "Can leave the mission at low health"
-    },
-    "ko": {
-        "item_name": "Coward",
-        "description": "Can leave the mission at low health"
-    },
-    "de": {
-        "item_name": "Coward",
-        "description": "Can leave the mission at low health"
-    },
-    "fr": {
-        "item_name": "Coward",
-        "description": "Can leave the mission at low health"
-    },
-    "pt": {
-        "item_name": "Coward",
-        "description": "Can leave the mission at low health"
-    },
-    "zh-hans": {
-        "item_name": "懦夫",
-        "description": "Can leave the mission at low health"
-    },
-    "zh-hant": {
-        "item_name": "懦弱的",
-        "description": "Can leave the mission at low health"
-    },
-    "es": {
-        "item_name": "Cobarde",
-        "description": "Can leave the mission at low health"
-    },
-    "it": {
-        "item_name": "Coward",
-        "description": "Can leave the mission at low health"
-    },
-    "pl": {
-        "item_name": "Tchórz",
-        "description": "Can leave the mission at low health"
-    },
-    "uk": {
-        "item_name": "Усього боїться",
-        "description": "Може залишити місію при низькому здоров'ї."
+    "icon": "sister_quirks/unknown.png",
+    "thumb": "sister_quirks/unknown.thumb.png",
+    "i18n": {
+        "en": {
+            "item_name": "Coward",
+            "description": "Can leave the mission at low health"
+        },
+        "ru": {
+            "item_name": "Coward",
+            "description": "Can leave the mission at low health"
+        },
+        "ko": {
+            "item_name": "Coward",
+            "description": "Can leave the mission at low health"
+        },
+        "de": {
+            "item_name": "Coward",
+            "description": "Can leave the mission at low health"
+        },
+        "fr": {
+            "item_name": "Coward",
+            "description": "Can leave the mission at low health"
+        },
+        "pt": {
+            "item_name": "Coward",
+            "description": "Can leave the mission at low health"
+        },
+        "zh-hans": {
+            "item_name": "懦夫",
+            "description": "Can leave the mission at low health"
+        },
+        "zh-hant": {
+            "item_name": "懦弱的",
+            "description": "Can leave the mission at low health"
+        },
+        "es": {
+            "item_name": "Cobarde",
+            "description": "Can leave the mission at low health"
+        },
+        "it": {
+            "item_name": "Coward",
+            "description": "Can leave the mission at low health"
+        },
+        "pl": {
+            "item_name": "Tchórz",
+            "description": "Can leave the mission at low health"
+        },
+        "uk": {
+            "item_name": "Усього боїться",
+            "description": "Може залишити місію при низькому здоров'ї."
+        }
     }
 }

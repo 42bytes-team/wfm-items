@@ -2,54 +2,56 @@
     "_id": "5e9855a43d9f6400697e895d",
     "url_name": "deserter",
     "group": "default",
-    "icon": "lich_quirks/images/deserter.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "lich_quirks/images/thumbs/deserter.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
-    "en": {
-        "item_name": "Deserter",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "ru": {
-        "item_name": "Deserter",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "ko": {
-        "item_name": "탈영병",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "de": {
-        "item_name": "Deserter",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "fr": {
-        "item_name": "Deserter",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "pt": {
-        "item_name": "Deserter",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "zh-hans": {
-        "item_name": "逃兵",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "zh-hant": {
-        "item_name": "逃兵",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "es": {
-        "item_name": "Desertor",
-        "description": "Puede abandonar la misión de manera inesperada."
-    },
-    "it": {
-        "item_name": "Deserter",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "pl": {
-        "item_name": "Dezerter",
-        "description": "Can leave the mission unexpectedly"
-    },
-    "uk": {
-        "item_name": "Утікає з поля бою",
-        "description": "Може несподівано покинути завдання."
+    "icon": "lich_quirks/unknown.png",
+    "thumb": "lich_quirks/unknown.thumb.png",
+    "i18n": {
+        "en": {
+            "item_name": "Deserter",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "ru": {
+            "item_name": "Deserter",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "ko": {
+            "item_name": "탈영병",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "de": {
+            "item_name": "Deserter",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "fr": {
+            "item_name": "Deserter",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "pt": {
+            "item_name": "Deserter",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "zh-hans": {
+            "item_name": "逃兵",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "zh-hant": {
+            "item_name": "逃兵",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "es": {
+            "item_name": "Desertor",
+            "description": "Puede abandonar la misión de manera inesperada."
+        },
+        "it": {
+            "item_name": "Deserter",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "pl": {
+            "item_name": "Dezerter",
+            "description": "Can leave the mission unexpectedly"
+        },
+        "uk": {
+            "item_name": "Утікає з поля бою",
+            "description": "Може несподівано покинути завдання."
+        }
     }
 }

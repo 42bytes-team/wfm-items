@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/OperatorOnOperatorAbilityIncreaseDamage"
     },
-    "en": {
-        "item_name": "Eternal Eradicate",
-        "description": "On Operator Ability:\n+60% Damage to Amps for 8s",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Вечное Искоренение",
-        "description": "При использовании способности оператора:\n+60% к урону усилителей в течение 8с",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "이터널 이라디케이트",
-        "description": "오퍼레이터 어빌리티 사용 시:\n8초 동안 앰프 추가 피해 +60%",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Ewige Ausrottung",
-        "description": "Bei Operator-Fähigkeit:\n+60 % Schaden für Verstärker für 8s",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Éradication Éternelle",
-        "description": "En utilisant un Pouvoir d'Opérateur:\nPendant 8s, +60% de Dégâts d'Amplificateur",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Erradicação Perpétua",
-        "description": "Ao usar uma Habilidade do Operador:\n+60% de Dano para Amps por 8s",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "永恒·湮灭",
-        "description": "使用指挥官技能时：\n+60% 增幅器伤害，持续 8 秒",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "永恆滅絕",
-        "description": "使用指揮官技能時：\n+60% 增幅器傷害，持續 8 秒",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Erradicación Eterna",
-        "description": "Al usar una habilidad del operador:\n+60 % de daño de Amps por 8s.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Eternal Eradicate",
-        "description": "Mentre utilizzi un'Abilità dell'Operatore:\n+60% Danno con gli Amp per 8s",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Wieczna Eradykacja",
-        "description": "Przy Umiejętności Operatora:\n+60% Obrażeń Ampów przez 8s",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Вічне Викорінювання",
-        "description": "Використання здібності оператором:\n+60% до шкоди від підсилювачів Тривалість: 8 с.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Eternal Eradicate",
+            "description": "On Operator Ability:\n+60% Damage to Amps for 8s",
+            "wiki_link": null,
+            "icon": "items/images/en/eternal_eradicate.75f8c32b70d1fa1fc211942ce7c3119e.png",
+            "thumb": "items/images/en/thumbs/eternal_eradicate.75f8c32b70d1fa1fc211942ce7c3119e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Вечное Искоренение",
+            "description": "При использовании способности оператора:\n+60% к урону усилителей в течение 8с",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "이터널 이라디케이트",
+            "description": "오퍼레이터 어빌리티 사용 시:\n8초 동안 앰프 추가 피해 +60%",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Ewige Ausrottung",
+            "description": "Bei Operator-Fähigkeit:\n+60 % Schaden für Verstärker für 8s",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Éradication Éternelle",
+            "description": "En utilisant un Pouvoir d'Opérateur:\nPendant 8s, +60% de Dégâts d'Amplificateur",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Erradicação Perpétua",
+            "description": "Ao usar uma Habilidade do Operador:\n+60% de Dano para Amps por 8s",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "永恒·湮灭",
+            "description": "使用指挥官技能时：\n+60% 增幅器伤害，持续 8 秒",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "永恆滅絕",
+            "description": "使用指揮官技能時：\n+60% 增幅器傷害，持續 8 秒",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Erradicación Eterna",
+            "description": "Al usar una habilidad del operador:\n+60 % de daño de Amps por 8s.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Eternal Eradicate",
+            "description": "Mentre utilizzi un'Abilità dell'Operatore:\n+60% Danno con gli Amp per 8s",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Wieczna Eradykacja",
+            "description": "Przy Umiejętności Operatora:\n+60% Obrażeń Ampów przez 8s",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Вічне Викорінювання",
+            "description": "У разі використання здібності оператором:\n+60% до шкоди від підсилювачів. Тривалість: 8 с.",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

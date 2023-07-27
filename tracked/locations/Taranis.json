@@ -9,52 +9,54 @@
     "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
     "min_level": 10,
     "max_level": 15,
-    "en": {
-        "node_name": "Taranis",
-        "system_name": "Void"
-    },
-    "ru": {
-        "node_name": "Taranis",
-        "system_name": "Бездна"
-    },
-    "ko": {
-        "node_name": "Taranis",
-        "system_name": "보이드"
-    },
-    "de": {
-        "node_name": "Taranis",
-        "system_name": "Void"
-    },
-    "fr": {
-        "node_name": "Taranis",
-        "system_name": "Néant"
-    },
-    "pt": {
-        "node_name": "Taranis",
-        "system_name": "Void"
-    },
-    "zh-hans": {
-        "node_name": "Taranis",
-        "system_name": "虚空"
-    },
-    "zh-hant": {
-        "node_name": "Taranis",
-        "system_name": "虛空"
-    },
-    "es": {
-        "node_name": "Taranis",
-        "system_name": "Vacío"
-    },
-    "it": {
-        "node_name": "Taranis",
-        "system_name": "Void"
-    },
-    "pl": {
-        "node_name": "Taranis",
-        "system_name": "Pustka"
-    },
-    "uk": {
-        "node_name": "Тараніс",
-        "system_name": "Порожнеча"
+    "i18n": {
+        "en": {
+            "node_name": "Taranis",
+            "system_name": "Void"
+        },
+        "ru": {
+            "node_name": "Taranis",
+            "system_name": "Бездна"
+        },
+        "ko": {
+            "node_name": "Taranis",
+            "system_name": "보이드"
+        },
+        "de": {
+            "node_name": "Taranis",
+            "system_name": "Void"
+        },
+        "fr": {
+            "node_name": "Taranis",
+            "system_name": "Néant"
+        },
+        "pt": {
+            "node_name": "Taranis",
+            "system_name": "Void"
+        },
+        "zh-hans": {
+            "node_name": "雷争塔",
+            "system_name": "虚空"
+        },
+        "zh-hant": {
+            "node_name": "Taranis",
+            "system_name": "虛空"
+        },
+        "es": {
+            "node_name": "Taranis",
+            "system_name": "Vacío"
+        },
+        "it": {
+            "node_name": "Taranis",
+            "system_name": "Void"
+        },
+        "pl": {
+            "node_name": "Taranis",
+            "system_name": "Pustka"
+        },
+        "uk": {
+            "node_name": "Тараніс",
+            "system_name": "Порожнеча"
+        }
     }
 }

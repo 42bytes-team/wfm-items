@@ -2,54 +2,56 @@
     "_id": "5e9855a53d9f6400697e896f",
     "url_name": "hatred_of_corpus",
     "group": "default",
-    "icon": "lich_quirks/images/hatred_of_corpus.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "lich_quirks/images/thumbs/hatred_of_corpus.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
-    "en": {
-        "item_name": "Hatred of Corpus",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "ru": {
-        "item_name": "Hatred of Corpus",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "ko": {
-        "item_name": "코퍼스를 증오함",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "de": {
-        "item_name": "Hatred of Corpus",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "fr": {
-        "item_name": "Hatred of Corpus",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "pt": {
-        "item_name": "Hatred of Corpus",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "zh-hans": {
-        "item_name": "痛恨Corpus",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "zh-hant": {
-        "item_name": "痛恨Corpus",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "es": {
-        "item_name": "Odio a los Corpus",
-        "description": "Habla sobre odiar a los Corpus cuando aparece en sus Escenarios."
-    },
-    "it": {
-        "item_name": "Hatred of Corpus",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "pl": {
-        "item_name": "Nienawiść do Corpusu",
-        "description": "Talks about hating Corpus when spawned on Corpus tilesets"
-    },
-    "uk": {
-        "item_name": "Ненавидить Корпус",
-        "description": "Говорить про ненависть до Корпусу, коли з’являється на мапах Корпусу."
+    "icon": "lich_quirks/unknown.png",
+    "thumb": "lich_quirks/unknown.thumb.png",
+    "i18n": {
+        "en": {
+            "item_name": "Hatred of Corpus",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "ru": {
+            "item_name": "Hatred of Corpus",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "ko": {
+            "item_name": "코퍼스를 증오함",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "de": {
+            "item_name": "Hatred of Corpus",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "fr": {
+            "item_name": "Hatred of Corpus",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "pt": {
+            "item_name": "Hatred of Corpus",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "zh-hans": {
+            "item_name": "痛恨Corpus",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "zh-hant": {
+            "item_name": "痛恨Corpus",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "es": {
+            "item_name": "Odio a los Corpus",
+            "description": "Habla sobre odiar a los Corpus cuando aparece en sus Escenarios."
+        },
+        "it": {
+            "item_name": "Hatred of Corpus",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "pl": {
+            "item_name": "Nienawiść do Corpusu",
+            "description": "Talks about hating Corpus when spawned on Corpus tilesets"
+        },
+        "uk": {
+            "item_name": "Ненавидить Корпус",
+            "description": "Говорить про ненависть до Корпусу, коли з’являється на мапах Корпусу."
+        }
     }
 }

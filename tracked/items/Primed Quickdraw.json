@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponReloadSpeedModExpert"
     },
-    "en": {
-        "item_name": "Primed Quickdraw",
-        "description": "+88% Reload Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Quickdraw"
-    },
-    "ru": {
-        "item_name": "Быстрохват Прайм",
-        "description": "+88% к скорости перезарядки",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D1%85%D0%B2%D0%B0%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "프라임드 퀵드로우",
-        "description": "+88% 재장전 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Quickdraw"
-    },
-    "de": {
-        "item_name": "Primed Schnelles Ziehen",
-        "description": "+88 % Nachladegeschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schnelles_Ziehen"
-    },
-    "fr": {
-        "item_name": "Dégaine Accrue",
-        "description": "+88% de Vitesse de Recharge",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9gaine_Accrue"
-    },
-    "pt": {
-        "item_name": "Primed Quickdraw",
-        "description": "+88% de Velocidade de Recarga",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Quickdraw"
-    },
-    "zh-hans": {
-        "item_name": "持续火力 Prime",
-        "description": "+88% 装填速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Quickdraw"
-    },
-    "zh-hant": {
-        "item_name": "持續火力 Prime",
-        "description": "+88% 裝填速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Quickdraw"
-    },
-    "es": {
-        "item_name": "Agarre Rápido Prime",
-        "description": "+88% de velocidad de recarga",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Agarre_r%C3%A1pido_Prime"
-    },
-    "it": {
-        "item_name": "Primed Quickdraw",
-        "description": "+88% Velocità di ricarica",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Quickdraw"
-    },
-    "pl": {
-        "item_name": "Szybkie Dobycie Prime",
-        "description": "+88% Prędkości Przeładowania",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Szybkie_Dobycie"
-    },
-    "uk": {
-        "item_name": "Праймоване Швидке Перезаряджання",
-        "description": "+88% до швидкості заряджання.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Quickdraw"
+    "i18n": {
+        "en": {
+            "item_name": "Primed Quickdraw",
+            "description": "+88% Reload Speed",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Quickdraw",
+            "icon": "items/images/en/primed_quickdraw.1768ebb4f9758fa903319e3979fa2239.png",
+            "thumb": "items/images/en/thumbs/primed_quickdraw.1768ebb4f9758fa903319e3979fa2239.128x128.png"
+        },
+        "ru": {
+            "item_name": "Быстрохват Прайм",
+            "description": "+88% к скорости перезарядки",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D1%85%D0%B2%D0%B0%D1%82_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "프라임드 퀵드로우",
+            "description": "+88% 재장전 속도",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Quickdraw"
+        },
+        "de": {
+            "item_name": "Primed Schnelles Ziehen",
+            "description": "+88 % Nachladegeschwindigkeit",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Schnelles_Ziehen"
+        },
+        "fr": {
+            "item_name": "Dégaine Accrue",
+            "description": "+88% de Vitesse de Recharge",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9gaine_Accrue"
+        },
+        "pt": {
+            "item_name": "Primed Quickdraw",
+            "description": "+88% de Velocidade de Recarga",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Quickdraw"
+        },
+        "zh-hans": {
+            "item_name": "持续火力 Prime",
+            "description": "+88% 装填速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Quickdraw"
+        },
+        "zh-hant": {
+            "item_name": "持續火力 Prime",
+            "description": "+88% 裝填速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Quickdraw"
+        },
+        "es": {
+            "item_name": "Agarre Rápido Prime",
+            "description": "+88% de velocidad de recarga",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Agarre_r%C3%A1pido_Prime"
+        },
+        "it": {
+            "item_name": "Primed Quickdraw",
+            "description": "+88% Velocità di ricarica",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Quickdraw"
+        },
+        "pl": {
+            "item_name": "Szybkie Dobycie Prime",
+            "description": "+88% Prędkości Przeładowania",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Szybkie_Dobycie"
+        },
+        "uk": {
+            "item_name": "Праймоване Швидке Перезаряджання",
+            "description": "+88% до швидкості заряджання",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Quickdraw"
+        }
     },
     "rarity": "legendary",
     "max_rank": 10,

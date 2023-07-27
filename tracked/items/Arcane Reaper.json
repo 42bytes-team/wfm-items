@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthRegenAndArmorOnMeleeKill"
     },
-    "en": {
-        "item_name": "Arcane Reaper",
-        "description": "On Melee Kill:\n+24 Heal Rate/s and +660 Armor for 10s.\n+1 Arcane Revive\n+1 Arcane Revive",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Мистический Жнец",
-        "description": "При убийстве в ближнем бою:\n+24 здоровья/с и +660 к броне в течение 10 с.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "아케인 리퍼",
-        "description": "근접 처치 시:\n10초 동안 +24 초당 체력 재생률 및 +660 방어력.\n+1 아케인 부활\n+1 아케인 부활",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Arkana: Schnitter",
-        "description": "Bei Nahkampf-Kill:\n+24 Gesundheit/ s erholen und +660 Rüstung für 10 s.\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Arcane Faucheur",
-        "description": "Sur Élimination en Mêlée:\n+24 de Régénération de Santé/s et +660 Armure pendant 10s.\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Ceifador Arcano",
-        "description": "Ao Matar no Corpo a corpo:\n+24 Regeneração de Vida/s e +660 Armadura durante 10s.\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "赋能·收割",
-        "description": "近战击杀时：\n每秒生命恢复 +24 和 +660 护甲，持续 10 秒。\n赋能复活次数 +1\n赋能复活次数 +1",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "收割者賦能",
-        "description": "近戰擊殺時：\n每秒生命恢復 +24 和 +660 護甲，持續 10 秒。\n賦能復活次數 +1\n賦能復活次數 +1",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Segador Arcano",
-        "description": "Al asesinar con cuerpo a cuerpo:\nRecupera +24 de salud/s y +660 de armadura por 10 s.\n+1 Revivir Arcano\n+1 Revivir Arcano",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Arcane Reaper",
-        "description": "Dopo un'Uccisione Corpo a Corpo:\n+24/s Rigenerazione Salute e +660 Armatura per 10s.\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Arkanum Żniwiarza",
-        "description": "Po zabójstwie Bronią Białą:\nOdnowa Życia +24/s i +660 Pancerza przez 10s.\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Містичний Жнець",
-        "description": "У разі вбивства холодною зброєю:\n+24 до зцілення здоров’я на секунду. +660 до захисту. Тривалість: 10 с.\n+1 містичне відродження.\n+1 містичне відродження.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Reaper",
+            "description": "On Melee Kill:\n+24 Heal Rate/s and +660 Armor for 10s.\n+1 Arcane Revive\n+1 Arcane Revive",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_reaper.5eaac187d816d010ec44ee1a05979564.png",
+            "thumb": "items/images/en/thumbs/arcane_reaper.5eaac187d816d010ec44ee1a05979564.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мистический Жнец",
+            "description": "При убийстве в ближнем бою:\n+24 здоровья/с и +660 к броне в течение 10 с.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "아케인 리퍼",
+            "description": "근접 처치 시:\n10초 동안 +24 초당 체력 재생률 및 +660 방어력.\n+1 아케인 부활\n+1 아케인 부활",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Arkana: Schnitter",
+            "description": "Bei Nahkampf-Kill:\n+24 Gesundheit/ s erholen und +660 Rüstung für 10 s.\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Arcane Faucheur",
+            "description": "Sur Élimination en Mêlée:\n+24 de Régénération de Santé/s et +660 Armure pendant 10s.\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Ceifador Arcano",
+            "description": "Ao Matar no Corpo a corpo:\n+24 Regeneração de Vida/s e +660 Armadura durante 10s.\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "赋能·收割",
+            "description": "近战击杀时：\n每秒生命恢复 +24 和 +660 护甲，持续 10 秒。\n赋能复活次数 +1\n赋能复活次数 +1",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "收割者賦能",
+            "description": "近戰擊殺時：\n每秒生命恢復 +24 和 +660 護甲，持續 10 秒。\n賦能復活次數 +1\n賦能復活次數 +1",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Segador Arcano",
+            "description": "Al asesinar con cuerpo a cuerpo:\nRecupera +24 de salud/s y +660 de armadura por 10 s.\n+1 Revivir Arcano\n+1 Revivir Arcano",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Arcane Reaper",
+            "description": "Dopo un'Uccisione Corpo a Corpo:\n+24/s Rigenerazione Salute e +660 Armatura per 10s.\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Arkanum Żniwiarza",
+            "description": "Po zabójstwie Bronią Białą:\nOdnowa Życia +24/s i +660 Pancerza przez 10s.\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Містичний Жнець",
+            "description": "У разі вбивства холодною зброєю:\n+24 до зцілення здоров’я на секунду. +660 до захисту. Тривалість: 10 с.\n+1 містичне відродження.\n+1 містичне відродження.",
+            "wiki_link": null
+        }
     },
     "rarity": "legendary",
     "max_rank": 5,

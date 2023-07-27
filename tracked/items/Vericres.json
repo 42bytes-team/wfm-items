@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Warfan/TnMoonWarfan/MoonWarfanWeapon"
     },
-    "en": {
-        "item_name": "Vericres",
-        "description": "Unfurl this warfan like a rapidly waxing moon.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vericres"
-    },
-    "ru": {
-        "item_name": "Верикрес",
-        "description": "Подобно растущей луне, раскройте этот боевой веер.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D1%80%D0%B8%D0%BA%D1%80%D0%B5%D1%81"
-    },
-    "ko": {
-        "item_name": "베리크레스",
-        "description": "빠르게 차오르는 달처럼 이 전투 부채를 펼쳐 보세요.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Vericres",
-        "description": "Entfalte diesen Kriegsfächer wie einen rasch zunehmenden Mond.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Vericres",
-        "description": "Déployez cet Éventail de Guerre tel un croissant de lune mortel.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Vericres",
-        "description": "Abra este Leque de Batalha como uma lua crescendo rapidamente.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "真月武扇",
-        "description": "（英文：VERICRES）展开这把武扇，就如一弯快速升起的上弦月。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "展月",
-        "description": "（英文：VERICRES）猶像一彎瞬息漸圓的眉月般披展這把武扇。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Vericres",
-        "description": "Despliega este abanico de guerra como una luna que crece rápidamente.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Vericres",
-        "description": "Dispiega questo ventaglio come una luna crescendo rapidamente.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Vericres",
-        "description": "Rozwiń ten wachlarz niczym szybko przybierający księżyc.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Верікрес",
-        "description": "Бойовий веєр, що розкривається швидко, наче місяць на повню.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vericres"
+    "i18n": {
+        "en": {
+            "item_name": "Vericres",
+            "description": "Unfurl this warfan like a rapidly waxing moon.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vericres",
+            "icon": "items/images/en/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.png",
+            "thumb": "items/images/en/thumbs/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Верикрес",
+            "description": "Подобно растущей луне, раскройте этот боевой веер.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D1%80%D0%B8%D0%BA%D1%80%D0%B5%D1%81"
+        },
+        "ko": {
+            "item_name": "베리크레스",
+            "description": "빠르게 차오르는 달처럼 이 전투 부채를 펼쳐 보세요.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Vericres",
+            "description": "Entfalte diesen Kriegsfächer wie einen rasch zunehmenden Mond.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Vericres",
+            "description": "Déployez cet Éventail de Guerre tel un croissant de lune mortel.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Vericres",
+            "description": "Abra este Leque de Batalha como uma lua crescendo rapidamente.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "真月武扇",
+            "description": "（英文：VERICRES）展开这把武扇，就如一弯快速升起的上弦月。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "展月",
+            "description": "（英文：VERICRES）猶像一彎瞬息漸圓的眉月般披展這把武扇。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Vericres",
+            "description": "Despliega este abanico de guerra como una luna que crece rápidamente.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Vericres",
+            "description": "Dispiega questo ventaglio come una luna crescendo rapidamente.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Vericres",
+            "description": "Rozwiń ten wachlarz niczym szybko przybierający księżyc.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Верікрес",
+            "description": "Бойовий веєр, що розкривається швидко, наче місяць на повню.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vericres"
+        }
     },
     "mastery_level": 8,
     "trading_tax": 2000

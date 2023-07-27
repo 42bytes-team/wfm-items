@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowLuckPrecept"
     },
-    "en": {
-        "item_name": "Charm",
-        "description": "Smeeta Kavat has a 28% chance every 27s to bestow its owner with good fortune.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charm"
-    },
-    "ru": {
-        "item_name": "Талисман",
-        "description": "Кават «Смита» имеет шанс 28% каждые 27 с наделить хозяина удачей.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B0%D0%BB%D0%B8%D1%81%D0%BC%D0%B0%D0%BD",
-        "icon": "items/images/ru/charm.64f4c7ce409fe415d1d81986c9652071.png",
-        "thumb": "items/images/ru/thumbs/charm.64f4c7ce409fe415d1d81986c9652071.128x128.png"
-    },
-    "ko": {
-        "item_name": "참",
-        "description": "스미타 카밧이 27초마다 한 번씩 28%의 확률로 주인에게 행운을 부여합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charm"
-    },
-    "de": {
-        "item_name": "Glücksbringer",
-        "description": "Die Smeeta Kavat schenkt seinem Besitzer mit 28 % Chance alle 27 s etwas Glück.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gl%C3%BCcksbringer"
-    },
-    "fr": {
-        "item_name": "Charme",
-        "description": "Un Kavat Smeeta a 28% de chance toutes les 27s de donner bonne fortune à son propriétaire.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Charme"
-    },
-    "pt": {
-        "item_name": "Charm",
-        "description": "O Smeeta Kavat possui 28% chance a cada intervalo de 27s de trazer boa sorte para seu mestre.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Charm"
-    },
-    "zh-hans": {
-        "item_name": "招福",
-        "description": "笑面型库娃每过 27 秒有 28% 几率给予主人好运。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charm"
-    },
-    "zh-hant": {
-        "item_name": "招福",
-        "description": "笑面型庫娃每過 27 秒有 28% 機率給予主人好運。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Charm"
-    },
-    "es": {
-        "item_name": "Encanto",
-        "description": "El kavat Smeeta tiene una probabilidad del 28 % cada 27 s para conceder a su dueño buena fortuna.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Encanto"
-    },
-    "it": {
-        "item_name": "Charm",
-        "description": "Ogni 27s il Kavat Smeeta ha il 28% di probabilità di garantire un bonus di fortuna al padrone.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Chroma"
-    },
-    "pl": {
-        "item_name": "Urok",
-        "description": "Kavat Smeeta ma 28% szansy, że co każde 27s spowoduje u swego właściciela przypływ dobrego losu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Urok"
-    },
-    "uk": {
-        "item_name": "Зачаровування",
-        "description": "Смітовий кават має 28% імовірності кожні 27 с наділити свого господаря небувалою удачею.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Charm"
+    "i18n": {
+        "en": {
+            "item_name": "Charm",
+            "description": "Smeeta Kavat has a 28% chance every 27s to bestow its owner with good fortune.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Charm",
+            "icon": "items/images/en/charm.6112d33fa330329649e3f40e41c2b30f.png",
+            "thumb": "items/images/en/thumbs/charm.6112d33fa330329649e3f40e41c2b30f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Талисман",
+            "description": "Кават «Смита» имеет шанс 28% каждые 27 с наделить хозяина удачей.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B0%D0%BB%D0%B8%D1%81%D0%BC%D0%B0%D0%BD",
+            "icon": "items/images/ru/charm.64f4c7ce409fe415d1d81986c9652071.png",
+            "thumb": "items/images/ru/thumbs/charm.64f4c7ce409fe415d1d81986c9652071.128x128.png"
+        },
+        "ko": {
+            "item_name": "참",
+            "description": "스미타 카밧이 27초마다 한 번씩 28%의 확률로 주인에게 행운을 부여합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Charm"
+        },
+        "de": {
+            "item_name": "Glücksbringer",
+            "description": "Die Smeeta Kavat schenkt seinem Besitzer mit 28 % Chance alle 27 s etwas Glück.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gl%C3%BCcksbringer"
+        },
+        "fr": {
+            "item_name": "Charme",
+            "description": "Un Kavat Smeeta a 28% de chance toutes les 27s de donner bonne fortune à son propriétaire.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Charme"
+        },
+        "pt": {
+            "item_name": "Charm",
+            "description": "O Smeeta Kavat possui 28% chance a cada intervalo de 27s de trazer boa sorte para seu mestre.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Charm"
+        },
+        "zh-hans": {
+            "item_name": "招福",
+            "description": "笑面型库娃每过 27 秒有 28% 几率给予主人好运。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Charm"
+        },
+        "zh-hant": {
+            "item_name": "招福",
+            "description": "笑面型庫娃每過 27 秒有 28% 機率給予主人好運。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Charm"
+        },
+        "es": {
+            "item_name": "Encanto",
+            "description": "El kavat Smeeta tiene una probabilidad del 28 % cada 27 s para conceder a su dueño buena fortuna.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Encanto"
+        },
+        "it": {
+            "item_name": "Charm",
+            "description": "Ogni 27s il Kavat Smeeta ha il 28% di probabilità di garantire un bonus di fortuna al padrone.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Chroma"
+        },
+        "pl": {
+            "item_name": "Urok",
+            "description": "Kavat Smeeta ma 28% szansy, że co każde 27s spowoduje u swego właściciela przypływ dobrego losu.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Urok"
+        },
+        "uk": {
+            "item_name": "Зачаровування",
+            "description": "Смітовий кават має 28% імовірності кожні 27 с наділити свого господаря небувалою удачею.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Charm"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

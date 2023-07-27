@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Emotes/Syndicate/CSGunneryEmote"
     },
-    "en": {
-        "item_name": "Cephalon Suda Gunnery Emote",
-        "description": "Target incoming fighters with this crew-inspired emote.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Жест: Цефалон Суда - Артиллерия",
-        "description": "Цельтесь в приближающиеся истребители с помощью этого жеста, вдохновлённого командой.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "세팔론 수다 포술 감정 표현",
-        "description": "승무원에게서 영감을 받은 이 감정 표현으로 다가오는 전투기들을 노려보세요.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Emote: Cephalon Suda Kampfmanöver",
-        "description": "Ziele mit diesem von der Crew inspirierten Emote auf ankommende Jäger.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Geste D'Engagement - Céphalon Suda",
-        "description": "Ciblez les ennemis en vue avec ce Geste inspiré de votre équipage.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Emote: Artilharia Da Cephalon Suda",
-        "description": "Os caças já estão na mira com este emote inspirado em seus membros da tripulação.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "中枢苏达枪炮表情动作",
-        "description": "通过这款受舰员启发的表情动作来瞄准来袭的战斗机。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "中樞蘇達重砲表情動作",
-        "description": "透過這款以船員作靈感的表情動作來瞄準來襲的戰鬥機。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Gesto De Artillería De Céfalon Suda",
-        "description": "Con este gesto inspirado en los tripulantes tendrás a los cazas en la mira.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Emote Armamento Cephalon Suda",
-        "description": "Prendi di mira i caccia in arrivo con questa emote ispirata all'equipaggio.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Gest Strzelca Cefalon Sudy",
-        "description": "Namierz zbliżające się myśliwce dzięki temu inspirowanemu załogą gestowi.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Гарматник Цефалонки Суди",
-        "description": "Поцілюйте у винищувачів жестом, на створення якого надихнув екіпаж.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Cephalon Suda Gunnery Emote",
+            "description": "Target incoming fighters with this crew-inspired emote.",
+            "wiki_link": null,
+            "icon": "items/images/en/cephalon_suda_gunnery_emote.6f2addd04f36d411e4eb9ced2a22f10e.png",
+            "thumb": "items/images/en/thumbs/cephalon_suda_gunnery_emote.6f2addd04f36d411e4eb9ced2a22f10e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Жест: Цефалон Суда - Артиллерия",
+            "description": "Цельтесь в приближающиеся истребители с помощью этого жеста, вдохновлённого командой.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "세팔론 수다 포술 감정 표현",
+            "description": "승무원에게서 영감을 받은 이 감정 표현으로 다가오는 전투기들을 노려보세요.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Emote: Cephalon Suda Kampfmanöver",
+            "description": "Ziele mit diesem von der Crew inspirierten Emote auf ankommende Jäger.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Geste D'Engagement - Céphalon Suda",
+            "description": "Ciblez les ennemis en vue avec ce Geste inspiré de votre équipage.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Emote: Artilharia Da Cephalon Suda",
+            "description": "Os caças já estão na mira com este emote inspirado em seus membros da tripulação.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "中枢苏达枪炮表情动作",
+            "description": "通过这款受舰员启发的表情动作来瞄准来袭的战斗机。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "中樞蘇達重砲表情動作",
+            "description": "透過這款以船員作靈感的表情動作來瞄準來襲的戰鬥機。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Gesto De Artillería De Céfalon Suda",
+            "description": "Con este gesto inspirado en los tripulantes tendrás a los cazas en la mira.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Emote Armamento Cephalon Suda",
+            "description": "Prendi di mira i caccia in arrivo con questa emote ispirata all'equipaggio.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Gest Strzelca Cefalon Sudy",
+            "description": "Namierz zbliżające się myśliwce dzięki temu inspirowanemu załogą gestowi.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Гарматник Цефалонки Суди",
+            "description": "Поцілюйте у винищувачів жестом, на створення якого надихнув екіпаж.",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorHealingSporesPrecept"
     },
-    "en": {
-        "item_name": "Iatric Mycelium",
-        "description": "Release a trail of spores every 8s that heal the companion and its allies for 300 health over 5s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
-    },
-    "ru": {
-        "item_name": "Лечебный Мицелий",
-        "description": "Выпускает струю спор каждые 8секунд, которые излечивают компаньона и его союзников на 300 здоровье в течение 5секунд.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B8%D1%86%D0%B5%D0%BB%D0%B8%D0%B9"
-    },
-    "ko": {
-        "item_name": "아이애트릭 마이실리엄",
-        "description": "매 8초마다 포자의 자취를 뿜어내 5초 동안 동반자 및 그 아군들의 체력을 300만큼 치료합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
-    },
-    "de": {
-        "item_name": "Heilendes Myzelium",
-        "description": "Stößt alle 8 s eine Sporenspur aus, die den Begleiter und seine Verbündeten über 5 s für 300 Gesundheit heilt.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
-    },
-    "fr": {
-        "item_name": "Mycélium Iatrique",
-        "description": "Libère une traînée de spores toutes les 8s qui guérissent le compagnon et ses alliés de 300 PV en 5s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
-    },
-    "pt": {
-        "item_name": "Iatric Mycelium",
-        "description": "Libera um rasto de esporos a cada 8s, os quais curam o companheiro e os seus aliados com 300 de Vida ao longo de 5s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
-    },
-    "zh-hans": {
-        "item_name": "医疗菌丝",
-        "description": "每 8 秒释放一股孢子，并在 5 秒内为同伴及其友军恢复 300 生命值。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Iatric_Mycelium"
-    },
-    "zh-hant": {
-        "item_name": "療效菌絲",
-        "description": "每 8 秒釋放一道孢子的軌跡，在 5 秒內治癒同伴和其盟友 300 點生命值。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Iatric_Mycelium"
-    },
-    "es": {
-        "item_name": "Micelio Latric",
-        "description": "Libera un rastro de esporas cada 8s que curan al compañero y a sus aliados por 300 de salud durante 5s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Micelio_Latric"
-    },
-    "it": {
-        "item_name": "Iatric Mycelium",
-        "description": "Rilascia una scia di spore ogni 8s che guarisce il compagno e gli alleati con 300 di salute per 5s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
-    },
-    "pl": {
-        "item_name": "Grzybnia Jatryczna",
-        "description": "Uwalnia ślad zarodników co 8s, który leczy towarzysza i jego sojuszników o 300 życia przez 5s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
-    },
-    "uk": {
-        "item_name": "Лікувальна Грибниця",
-        "description": "Кожні 8 с випускає хмарку спор, які протягом 5 с лікують 300 ОЗ супутнику та його союзникам.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
+    "i18n": {
+        "en": {
+            "item_name": "Iatric Mycelium",
+            "description": "Release a trail of spores every 8s that heal the companion and its allies for 300 health over 5s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium",
+            "icon": "items/images/en/iatric_mycelium.154575404e841baeacd33f04fe918d5b.png",
+            "thumb": "items/images/en/thumbs/iatric_mycelium.154575404e841baeacd33f04fe918d5b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Лечебный Мицелий",
+            "description": "Выпускает струю спор каждые 8секунд, которые излечивают компаньона и его союзников на 300 здоровье в течение 5секунд.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B8%D1%86%D0%B5%D0%BB%D0%B8%D0%B9"
+        },
+        "ko": {
+            "item_name": "아이애트릭 마이실리엄",
+            "description": "매 8초마다 포자의 자취를 뿜어내 5초 동안 동반자 및 그 아군들의 체력을 300만큼 치료합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
+        },
+        "de": {
+            "item_name": "Heilendes Myzelium",
+            "description": "Stößt alle 8 s eine Sporenspur aus, die den Begleiter und seine Verbündeten über 5 s für 300 Gesundheit heilt.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
+        },
+        "fr": {
+            "item_name": "Mycélium Iatrique",
+            "description": "Libère une traînée de spores toutes les 8s qui guérissent le compagnon et ses alliés de 300 PV en 5s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
+        },
+        "pt": {
+            "item_name": "Iatric Mycelium",
+            "description": "Libera um rasto de esporos a cada 8s, os quais curam o companheiro e os seus aliados com 300 de Vida ao longo de 5s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
+        },
+        "zh-hans": {
+            "item_name": "医疗菌丝",
+            "description": "每 8 秒释放一股孢子，并在 5 秒内为同伴及其友军恢复 300 生命值。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Iatric_Mycelium"
+        },
+        "zh-hant": {
+            "item_name": "療效菌絲",
+            "description": "每 8 秒釋放一道孢子的軌跡，在 5 秒內治癒同伴和其盟友 300 點生命值。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Iatric_Mycelium"
+        },
+        "es": {
+            "item_name": "Micelio Latric",
+            "description": "Libera un rastro de esporas cada 8s que curan al compañero y a sus aliados por 300 de salud durante 5s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Micelio_Latric"
+        },
+        "it": {
+            "item_name": "Iatric Mycelium",
+            "description": "Rilascia una scia di spore ogni 8s che guarisce il compagno e gli alleati con 300 di salute per 5s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
+        },
+        "pl": {
+            "item_name": "Grzybnia Jatryczna",
+            "description": "Uwalnia ślad zarodników co 8s, który leczy towarzysza i jego sojuszników o 300 życia przez 5s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
+        },
+        "uk": {
+            "item_name": "Лікувальна Грибниця",
+            "description": "Кожні 8 с випускає хмарку спор, які протягом 5 с лікують 300 ОЗ супутнику та його союзникам.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iatric_Mycelium"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

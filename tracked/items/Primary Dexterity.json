@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnMeleeKill"
     },
-    "en": {
-        "item_name": "Primary Dexterity",
-        "description": "On Melee Kill:\n+60% Damage for 20s. Stacks up to 6x.\n+7.5s Combo Duration\n+7.5s Combo Duration",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
-    },
-    "ru": {
-        "item_name": "Основная Ловкость",
-        "description": "При убийстве в ближнем бою:\n+60% урона на 20с. Складывается до 6 раз.\n+7.5с к длительности комбо\n+7.5с к длительности комбо",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/Основная_Ловкость"
-    },
-    "ko": {
-        "item_name": "프라이머리 덱스터리티",
-        "description": "근접 처치 시:\n20초 동안 +60% 피해, 최대 6회 중첩\n연속기 지속 시간 +7.5초\n연속기 지속 시간 +7.5초",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
-    },
-    "de": {
-        "item_name": "Arkana: Primäres Geschick",
-        "description": "Bei Nahkampf-Kill:\n+60 % Schaden für 20 s. Bis zu 6x stapelbar.\n+7.5 s Kombo-Dauer\n+7.5 s Kombo-Dauer",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
-    },
-    "fr": {
-        "item_name": "Dextérité - Principal",
-        "description": "Sur Élimination en Mêlée:\n+60% de Dégâts pendant 20s. Cumulable jusqu'à 6x.\n+7.5s Durée de Combo\n+7.5s Durée de Combo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
-    },
-    "pt": {
-        "item_name": "Destreza (Armas Primárias)",
-        "description": "Ao Matar no Corpo a corpo:\n+60% de Dano durante 20s. Acumulará até 6 vezes.\n+7.5s de Duração do Combo\n+7.5s de Duração do Combo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
-    },
-    "zh-hans": {
-        "item_name": "主要·熟练",
-        "description": "近战击杀时：\n+60% 伤害，持续 20 秒。最多叠加到 6 层。\n+7.5 秒连击持续时间\n+7.5 秒连击持续时间",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E4%B8%BB%E8%A6%81%E7%86%9F%E7%BB%83"
-    },
-    "zh-hant": {
-        "item_name": "主要嫻熟",
-        "description": "近戰擊殺時：\n+60% 傷害，持續 20 秒。最多可疊加 6 次。\n+7.5 秒連擊持續時間\n+7.5 秒連擊持續時間",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E4%B8%BB%E8%A6%81%E7%86%9F%E7%BB%83"
-    },
-    "es": {
-        "item_name": "Destreza Primaria",
-        "description": "Al asesinar con cuerpo a cuerpo:\n+60% de daño por 20 s. Se acumula hasta 6 veces.\n+7.5s duración de combo\n+7.5s duración de combo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
-    },
-    "it": {
-        "item_name": "Primary Dexterity",
-        "description": "Dopo un'Uccisione Corpo a Corpo:\n+60% Danno per 20s. Si accumula fino a 6x.\n+7.5s Durata Combo\n+7.5s Durata Combo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
-    },
-    "pl": {
-        "item_name": "Zwinność Broni Głównej",
-        "description": "Po zabójstwie Bronią Białą:\n+60% Obrażeń przez 20s. Kumuluje się do 6 razy.\n+7.5s Czas Trwania Kombo\n+7.5s Czas Trwania Kombo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
-    },
-    "uk": {
-        "item_name": "Основна Спритність",
-        "description": "У разі вбивства холодною зброєю:\n+60% до шкоди. Тривалість: 20 с. Накопичується до 6 разів.\n+7.5 с до тривалості серії.\n+7.5 с до тривалості серії.",
-        "wiki_link": "https://warframe.fandom.com/uk/wiki/Основна_спритність"
+    "i18n": {
+        "en": {
+            "item_name": "Primary Dexterity",
+            "description": "On Melee Kill:\n+60% Damage for 20s. Stacks up to 6x.\n+7.5s Combo Duration\n+7.5s Combo Duration",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity",
+            "icon": "items/images/en/primary_dexterity.accc2c9a2780152f354696b2549814bc.png",
+            "thumb": "items/images/en/thumbs/primary_dexterity.accc2c9a2780152f354696b2549814bc.128x128.png"
+        },
+        "ru": {
+            "item_name": "Основная Ловкость",
+            "description": "При убийстве в ближнем бою:\n+60% урона на 20с. Складывается до 6 раз.\n+7.5с к длительности комбо\n+7.5с к длительности комбо",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/Основная_Ловкость"
+        },
+        "ko": {
+            "item_name": "프라이머리 덱스터리티",
+            "description": "근접 처치 시:\n20초 동안 +60% 피해, 최대 6회 중첩\n연속기 지속 시간 +7.5초\n연속기 지속 시간 +7.5초",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
+        },
+        "de": {
+            "item_name": "Arkana: Primäres Geschick",
+            "description": "Bei Nahkampf-Kill:\n+60 % Schaden für 20 s. Bis zu 6x stapelbar.\n+7.5 s Kombo-Dauer\n+7.5 s Kombo-Dauer",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
+        },
+        "fr": {
+            "item_name": "Dextérité - Principal",
+            "description": "Sur Élimination en Mêlée:\n+60% de Dégâts pendant 20s. Cumulable jusqu'à 6x.\n+7.5s Durée de Combo\n+7.5s Durée de Combo",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
+        },
+        "pt": {
+            "item_name": "Destreza (Armas Primárias)",
+            "description": "Ao Matar no Corpo a corpo:\n+60% de Dano durante 20s. Acumulará até 6 vezes.\n+7.5s de Duração do Combo\n+7.5s de Duração do Combo",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
+        },
+        "zh-hans": {
+            "item_name": "主要·熟练",
+            "description": "近战击杀时：\n+60% 伤害，持续 20 秒。最多叠加到 6 层。\n+7.5 秒连击持续时间\n+7.5 秒连击持续时间",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/%E4%B8%BB%E8%A6%81%E7%86%9F%E7%BB%83"
+        },
+        "zh-hant": {
+            "item_name": "主要嫻熟",
+            "description": "近戰擊殺時：\n+60% 傷害，持續 20 秒。最多可疊加 6 次。\n+7.5 秒連擊持續時間\n+7.5 秒連擊持續時間",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/%E4%B8%BB%E8%A6%81%E7%86%9F%E7%BB%83"
+        },
+        "es": {
+            "item_name": "Destreza Primaria",
+            "description": "Al asesinar con cuerpo a cuerpo:\n+60% de daño por 20 s. Se acumula hasta 6 veces.\n+7.5s duración de combo\n+7.5s duración de combo",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
+        },
+        "it": {
+            "item_name": "Primary Dexterity",
+            "description": "Dopo un'Uccisione Corpo a Corpo:\n+60% Danno per 20s. Si accumula fino a 6x.\n+7.5s Durata Combo\n+7.5s Durata Combo",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
+        },
+        "pl": {
+            "item_name": "Zwinność Broni Głównej",
+            "description": "Po zabójstwie Bronią Białą:\n+60% Obrażeń przez 20s. Kumuluje się do 6 razy.\n+7.5s Czas Trwania Kombo\n+7.5s Czas Trwania Kombo",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity"
+        },
+        "uk": {
+            "item_name": "Основна Спритність",
+            "description": "У разі вбивства холодною зброєю:\n+60% до шкоди. Тривалість: 20 с. Накопичується до 6 разів.\n+7.5 с до тривалості серії.\n+7.5 с до тривалості серії.",
+            "wiki_link": "https://warframe.fandom.com/uk/wiki/Основна_спритність"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

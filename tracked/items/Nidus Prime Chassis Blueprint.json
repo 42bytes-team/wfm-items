@@ -24,65 +24,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Nidus Prime Chassis Blueprint",
-        "description": "Chassis component of the Nidus Prime Warframe.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "ru": {
-        "item_name": "Нидус Прайм: Каркас (Чертеж)",
-        "description": "Компонент варфрейма Нидус Прайм: каркас.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "ko": {
-        "item_name": "나이더스 프라임 섀시 설계도",
-        "description": "나이더스 프라임 워프레임의 섀시 부분입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "de": {
-        "item_name": "Nidus Prime: Chassis Blaupause",
-        "description": "Chassis-Komponente für den Nidus Prime Warframe.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "fr": {
-        "item_name": "Nidus Prime - Châssis (Schéma)",
-        "description": "Le composant Châssis de la Warframe Nidus Prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "pt": {
-        "item_name": "Nidus Prime: Chassi (Diagrama)",
-        "description": "Chassi componente do Warframe Nidus Prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "zh-hans": {
-        "item_name": "Nidus Prime 机体 蓝图",
-        "description": "Nidus Prime 战甲的机体组件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nidus/Prime"
-    },
-    "zh-hant": {
-        "item_name": "Nidus Prime 機體 藍圖",
-        "description": "Nidus Prime Warframe 的機體組件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Nidus/Prime"
-    },
-    "es": {
-        "item_name": "Plano de Chasis De Nidus Prime",
-        "description": "Componente del chasis del warframe Nidus Prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "it": {
-        "item_name": "Nidus Prime - Chassis (Schema)",
-        "description": "Il componente Chassis per il Warframe Nidus Prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "pl": {
-        "item_name": "Nidus Prime: Powłoka - Schemat",
-        "description": "Powłoka dla Warframe'a Nidus Prime.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
-    },
-    "uk": {
-        "item_name": "Нідус-Прайм: Каркас (креслення)",
-        "description": "Деталі каркаса для ворфрейма Нідуса-прайм.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Nidus Prime Chassis Blueprint",
+            "description": "Chassis component of the Nidus Prime Warframe.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime",
+            "icon": "items/images/en/nidus_prime_chassis.1cf479b37c98ce42340156c9c005e91e.png",
+            "thumb": "items/images/en/thumbs/nidus_prime_chassis.1cf479b37c98ce42340156c9c005e91e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Нидус Прайм: Каркас (Чертеж)",
+            "description": "Компонент варфрейма Нидус Прайм: каркас.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        },
+        "ko": {
+            "item_name": "나이더스 프라임 섀시 설계도",
+            "description": "나이더스 프라임 워프레임의 섀시 부분입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        },
+        "de": {
+            "item_name": "Nidus Prime: Chassis Blaupause",
+            "description": "Chassis-Komponente für den Nidus Prime Warframe.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        },
+        "fr": {
+            "item_name": "Nidus Prime - Châssis (Schéma)",
+            "description": "Le composant Châssis de la Warframe Nidus Prime.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        },
+        "pt": {
+            "item_name": "Nidus Prime: Chassi (Diagrama)",
+            "description": "Chassi componente do Warframe Nidus Prime.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        },
+        "zh-hans": {
+            "item_name": "Nidus Prime 机体 蓝图",
+            "description": "Nidus Prime 战甲的机体组件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Nidus/Prime"
+        },
+        "zh-hant": {
+            "item_name": "Nidus Prime 機體 藍圖",
+            "description": "Nidus Prime Warframe 的機體組件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Nidus/Prime"
+        },
+        "es": {
+            "item_name": "Plano de Chasis De Nidus Prime",
+            "description": "Componente del chasis del warframe Nidus Prime.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        },
+        "it": {
+            "item_name": "Nidus Prime - Chassis (Schema)",
+            "description": "Il componente Chassis per il Warframe Nidus Prime.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        },
+        "pl": {
+            "item_name": "Nidus Prime: Powłoka - Schemat",
+            "description": "Powłoka dla Warframe'a Nidus Prime.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        },
+        "uk": {
+            "item_name": "Нідус-Прайм: Каркас (креслення)",
+            "description": "Деталі каркаса для ворфрейма Нідуса-прайм.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Nidus_Prime"
+        }
     },
     "mastery_level": 0,
     "ducats": 100,

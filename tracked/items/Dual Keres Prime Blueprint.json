@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Dual Keres Prime Blueprint",
-        "description": "The hunted will meet a quick end when faced with Khora Prime's signature swords. Heavy Attack Efficiency is enhanced when wielded by Khora.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Парные Кересы Прайм (Чертеж)",
-        "description": "Преследуемые быстро погибнут, встретившись с особыми мечами Коры Прайм. Эффективность тяжелой атаки в руках Коры повышается.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "듀얼 케레스 프라임 설계도",
-        "description": "코라 프라임의 사냥감들은 그녀의 특징적인 쌍검을 마주한 순간 빠른 종언을 맞이하게 됩니다. 코라가 장비할 경우, 강 공격 효율이 향상됩니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Dual-Keres Prime Blaupause",
-        "description": "Die Gejagten werden ein schnelles Ende finden, wenn sie mit den bevorzugten Schwertern von Khora Prime Bekanntschaft machen. Die Effizienz schwerer Angriffe wird verbessert, wenn Khora diese einsetzt.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Doubles Keres Prime (Schéma)",
-        "description": "La proie connaîtra une fin rapide grâce aux Épées emblématiques de Khora Prime. L'Efficacité des Attaques Lourdes est améliorée lorsque ces armes sont utilisées par Khora.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Keres Duplas Prime (Diagrama)",
-        "description": "As presas terão um fim rápido quando confrontadas com as Espadas tradicionais da Khora Prime. A Eficiência do Ataque Pesado é amplificada quando as Espadas são utilizadas pela Khora.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "凯瑞斯双刀 Prime 蓝图",
-        "description": "（英文：DUAL KERES PRIME）当猎物面对 Khora Prime 的标志性双刀时，生命将迅速终结。Khora 挥舞双刀时，其重击效率会被增强。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "凱瑞斯雙刀 Prime 藍圖",
-        "description": "（英文：DUAL KERES PRIME）當面對 Khora Prime 的標誌性刀劍時，被獵者將面臨迅速的死亡。Khora 握持時，重擊效率將加強。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Keres Dobles Prime",
-        "description": "Los cazados encontrarán un final rápido cuando se enfrenten a las espadas distintivas de Khora Prime. La eficiencia de ataque pesado mejora cuando las empuña Khora.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Dual Keres Prime (Schema)",
-        "description": "La preda andrà incontro a una rapida fine all'affrontare le spade distintive di Khora Prime. L'Efficienza Attacco Pesante è migliorata se utilizzate da Khora.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Keres Podwójny Prime - Schemat",
-        "description": "Polowanie szybko dobiegnie końca, kiedy zwierzyna zmierzy się z charakterystycznymi mieczami Khory Prime. Kiedy są one dzierżone przez Khorę, zyskują premię Wydajności Ciężkiego Ataku.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Парні Кери-Прайм (креслення)",
-        "description": "Визначні мечі Хори-прайм умить уполюють будь-яку здобич. У руках Хори ці мечі отримують збільшену дієвість важких атак.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Dual Keres Prime Blueprint",
+            "description": "The hunted will meet a quick end when faced with Khora Prime's signature swords. Heavy Attack Efficiency is enhanced when wielded by Khora.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_keres_prime_blueprint.ea70ac30dab8db745193cb166b246efc.png",
+            "thumb": "items/images/en/thumbs/dual_keres_prime_blueprint.ea70ac30dab8db745193cb166b246efc.128x128.png"
+        },
+        "ru": {
+            "item_name": "Парные Кересы Прайм (Чертеж)",
+            "description": "Преследуемые быстро погибнут, встретившись с особыми мечами Коры Прайм. Эффективность тяжелой атаки в руках Коры повышается.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "듀얼 케레스 프라임 설계도",
+            "description": "코라 프라임의 사냥감들은 그녀의 특징적인 쌍검을 마주한 순간 빠른 종언을 맞이하게 됩니다. 코라가 장비할 경우, 강 공격 효율이 향상됩니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Dual-Keres Prime Blaupause",
+            "description": "Die Gejagten werden ein schnelles Ende finden, wenn sie mit den bevorzugten Schwertern von Khora Prime Bekanntschaft machen. Die Effizienz schwerer Angriffe wird verbessert, wenn Khora diese einsetzt.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Doubles Keres Prime (Schéma)",
+            "description": "La proie connaîtra une fin rapide grâce aux Épées emblématiques de Khora Prime. L'Efficacité des Attaques Lourdes est améliorée lorsque ces armes sont utilisées par Khora.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Keres Duplas Prime (Diagrama)",
+            "description": "As presas terão um fim rápido quando confrontadas com as Espadas tradicionais da Khora Prime. A Eficiência do Ataque Pesado é amplificada quando as Espadas são utilizadas pela Khora.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "凯瑞斯双刀 Prime 蓝图",
+            "description": "（英文：DUAL KERES PRIME）当猎物面对 Khora Prime 的标志性双刀时，生命将迅速终结。Khora 挥舞双刀时，其重击效率会被增强。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "凱瑞斯雙刀 Prime 藍圖",
+            "description": "（英文：DUAL KERES PRIME）當面對 Khora Prime 的標誌性刀劍時，被獵者將面臨迅速的死亡。Khora 握持時，重擊效率將加強。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Keres Dobles Prime",
+            "description": "Los cazados encontrarán un final rápido cuando se enfrenten a las espadas distintivas de Khora Prime. La eficiencia de ataque pesado mejora cuando las empuña Khora.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Dual Keres Prime (Schema)",
+            "description": "La preda andrà incontro a una rapida fine all'affrontare le spade distintive di Khora Prime. L'Efficienza Attacco Pesante è migliorata se utilizzate da Khora.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Keres Podwójny Prime - Schemat",
+            "description": "Polowanie szybko dobiegnie końca, kiedy zwierzyna zmierzy się z charakterystycznymi mieczami Khory Prime. Kiedy są one dzierżone przez Khorę, zyskują premię Wydajności Ciężkiego Ataku.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Парні Кери-Прайм (креслення)",
+            "description": "Визначні мечі Хори-прайм умить уполюють будь-яку здобич. У руках Хори ці мечі отримують збільшену дієвість важких атак.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 14,
     "ducats": 100,

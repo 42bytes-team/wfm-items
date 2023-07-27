@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Rhino/RadialBlastAugmentCard"
     },
-    "en": {
-        "item_name": "Piercing Roar",
-        "description": "Roar Augment: Roar gains +40% range. Enemies within 25m are knocked down and suffer 10 stacks of Puncture Status.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Roar"
-    },
-    "ru": {
-        "item_name": "Пронизывающий Рев",
-        "description": "Улучшение способности «Рев»: радиус действия увеличивается на 40%. Враги в радиусе 25 м сбиваются с ног и получают 10 раз статус пронзания.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%A0%D1%91%D0%B2",
-        "icon": "items/images/ru/piercing_roar.684a60d6f52cfe92c83e251e09d68cdd.png",
-        "thumb": "items/images/ru/thumbs/piercing_roar.684a60d6f52cfe92c83e251e09d68cdd.128x128.png"
-    },
-    "ko": {
-        "item_name": "피어싱 로어",
-        "description": "로어 개조: 로어의 범위가 +40% 증가합니다. 로어를 사용할 시 25m 내에 있는 적들이 넘어지며 10중첩의 관통 상태 이상을 받습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Roar"
-    },
-    "de": {
-        "item_name": "Durchdringendes Brüllen",
-        "description": "Brüllen Augment: Brüllen erhält +40 % Reichweite. Gegner innerhalb von 25 m werden niedergeschlagen und erleiden 10 Stapel Durchschlag-Status.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Durchdringendes_Br%C3%BCllen"
-    },
-    "fr": {
-        "item_name": "Rugissement Perçant",
-        "description": "Augmentation de Rugissement: Rugissement gagne +40% de Portée. Les ennemis à moins de 25m sont renversés et subissent 10 charges d'Effet de Statut de Perforation.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rugissement_Per%C3%A7ant"
-    },
-    "pt": {
-        "item_name": "Piercing Roar",
-        "description": "Ampliação Roar: a habilidade receberá +40% de Alcance. Inimigos dentro de 25m serão derrubados e receberão 10 acúmulos do Efeito de Status Perfurante.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Piercing_Roar"
-    },
-    "zh-hans": {
-        "item_name": "刺骨战吼",
-        "description": "战吼强化：战吼增加 40% 技能范围。对 25 米范围内的敌人造成击倒和 10 层的 穿刺异常状态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Piercing_Roar"
-    },
-    "zh-hant": {
-        "item_name": "刺骨戰吼",
-        "description": "戰吼強化：對 25 公尺內的敵人造成擊倒和 10 層的穿刺觸發狀態。戰吼增加 +40% 的技能範圍。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Piercing_Roar"
-    },
-    "es": {
-        "item_name": "Rugido Perforante",
-        "description": "Aumento de Rugido: Rugido gana +40 % de rango. Los enemigos en un radio 25 m son derribados y sufren 10 acumulaciones de estado de perforación.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Rugido_perforante"
-    },
-    "it": {
-        "item_name": "Piercing Roar",
-        "description": "Potenziamento Roar: Roar guadagna +40% portata. I nemici entro 25m vengono atterrati e saranno afflitti da 10 cariche di Effetto Perforazione.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Piercing_Hit"
-    },
-    "pl": {
-        "item_name": "Przeszywający Ryk",
-        "description": "Modyfikacja Ryku: Ryk zyskuje +40% zasięgu. Wrogowie w zasięgu 25m zostają powaleni i otrzymują 10 punktów Statusu Przebicia.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przeszywaj%C4%85cy_Ryk"
-    },
-    "uk": {
-        "item_name": "Пронизливе Ревіння",
-        "description": "Розширення здібності «Ревіння»: збільшує дальність здібності на 40%. Вороги в межах 25 м збиваються з ніг і отримують 10x ефектів стану пробивної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Roar"
+    "i18n": {
+        "en": {
+            "item_name": "Piercing Roar",
+            "description": "Roar Augment: Roar gains +40% range. Enemies within 25m are knocked down and suffer 5 stacks of Puncture Status.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Roar",
+            "icon": "items/images/en/piercing_roar.cfc54fd9c8aa71b6e8ac95c057ae5c05.png",
+            "thumb": "items/images/en/thumbs/piercing_roar.cfc54fd9c8aa71b6e8ac95c057ae5c05.128x128.png"
+        },
+        "ru": {
+            "item_name": "Пронизывающий Рев",
+            "description": "Улучшение способности «Рев»: радиус действия увеличивается на 40%. Враги в радиусе 25 м сбиваются с ног и получают 5 раз статус пронзания.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%A0%D1%91%D0%B2",
+            "icon": "items/images/ru/piercing_roar.684a60d6f52cfe92c83e251e09d68cdd.png",
+            "thumb": "items/images/ru/thumbs/piercing_roar.684a60d6f52cfe92c83e251e09d68cdd.128x128.png"
+        },
+        "ko": {
+            "item_name": "피어싱 로어",
+            "description": "로어 개조: 로어의 범위가 +40% 증가합니다. 로어를 사용할 시 25m 내에 있는 적들이 넘어지며 5중첩의 관통 상태 이상을 받습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Roar"
+        },
+        "de": {
+            "item_name": "Durchdringendes Brüllen",
+            "description": "Brüllen Augment: Brüllen erhält +40 % Reichweite. Gegner innerhalb von 25 m werden niedergeschlagen und erleiden 5 Stapel Durchschlag-Status.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Durchdringendes_Br%C3%BCllen"
+        },
+        "fr": {
+            "item_name": "Rugissement Perçant",
+            "description": "Augmentation de Rugissement: Rugissement gagne +40% de Portée. Les ennemis à moins de 25m sont renversés et subissent 10 charges d'Effet de Statut de Perforation.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Rugissement_Per%C3%A7ant"
+        },
+        "pt": {
+            "item_name": "Piercing Roar",
+            "description": "Ampliação Roar: a habilidade receberá +40% de Alcance. Inimigos dentro de 25m serão derrubados e receberão 5 acúmulos do Efeito de Status Perfurante.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Piercing_Roar"
+        },
+        "zh-hans": {
+            "item_name": "刺骨战吼",
+            "description": "战吼强化：战吼增加 40% 技能范围。对 25 米范围内的敌人造成击倒和 5 层的 穿刺异常状态。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Piercing_Roar"
+        },
+        "zh-hant": {
+            "item_name": "刺骨戰吼",
+            "description": "戰吼強化：對 25 公尺內的敵人造成擊倒和 5 層的穿刺觸發狀態。戰吼增加 +40% 的技能範圍。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Piercing_Roar"
+        },
+        "es": {
+            "item_name": "Rugido Perforante",
+            "description": "Aumento de Rugido: Rugido gana +40 % de rango. Los enemigos en un radio 25 m son derribados y sufren 5 acumulaciones de estado de perforación.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Rugido_perforante"
+        },
+        "it": {
+            "item_name": "Piercing Roar",
+            "description": "Potenziamento Roar: Roar guadagna +40% portata. I nemici entro 25m vengono atterrati e saranno afflitti da 5 cariche di Effetto Perforazione.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Piercing_Hit"
+        },
+        "pl": {
+            "item_name": "Przeszywający Ryk",
+            "description": "Modyfikacja Ryku: Ryk zyskuje +40% zasięgu. Wrogowie w zasięgu 25m zostają powaleni i otrzymują 5 punktów Statusu Przebicia.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Przeszywaj%C4%85cy_Ryk"
+        },
+        "uk": {
+            "item_name": "Пронизливе Ревіння",
+            "description": "Розширення здібності «Ревіння»: збільшує дальність здібності на 40%. Вороги в межах 25 м збиваються з ніг і отримують 10x ефектів стану пробивної шкоди.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Piercing_Roar"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

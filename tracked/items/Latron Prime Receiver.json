@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Latron Prime Receiver",
-        "description": "A prime weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Prime"
-    },
-    "ru": {
-        "item_name": "Латрон Прайм: Приёмник",
-        "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D1%82%D1%80%D0%BE%D0%BD_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "래트론 프라임 리시버",
-        "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Prime"
-    },
-    "de": {
-        "item_name": "Latron Prime: Gehäuse",
-        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Latron_Prime"
-    },
-    "fr": {
-        "item_name": "Latron Prime - Culasse",
-        "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Latron_Prime"
-    },
-    "pt": {
-        "item_name": "Latron Prime: Receptor",
-        "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Latron_Prime"
-    },
-    "zh-hans": {
-        "item_name": "拉特昂 Prime 枪机",
-        "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Prime"
-    },
-    "zh-hant": {
-        "item_name": "拉特昂 Prime 槍機",
-        "description": "製作 Prime 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Prime"
-    },
-    "es": {
-        "item_name": "Receptor De Latron Prime",
-        "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Latron_Prime"
-    },
-    "it": {
-        "item_name": "Latron Prime - Castello",
-        "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Latron_Prime"
-    },
-    "pl": {
-        "item_name": "Latron Prime: Korpus",
-        "description": "Element wytwarzania broni Prime.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Latron_Prime"
-    },
-    "uk": {
-        "item_name": "Пагуба-Прайм: Ствольна Коробка",
-        "description": "Деталь прайм-зброї.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Latron_Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Latron Prime Receiver",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Latron_Prime",
+            "icon": "items/images/en/latron_prime_receiver.5c8b8009acbdb97fd49177ba155ecfbe.png",
+            "thumb": "items/images/en/thumbs/latron_prime_receiver.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png"
+        },
+        "ru": {
+            "item_name": "Латрон Прайм: Приёмник",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D1%82%D1%80%D0%BE%D0%BD_%D0%BF%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "래트론 프라임 리시버",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Latron_Prime"
+        },
+        "de": {
+            "item_name": "Latron Prime: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Latron_Prime"
+        },
+        "fr": {
+            "item_name": "Latron Prime - Culasse",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Latron_Prime"
+        },
+        "pt": {
+            "item_name": "Latron Prime: Receptor",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Latron_Prime"
+        },
+        "zh-hans": {
+            "item_name": "拉特昂 Prime 枪机",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Prime"
+        },
+        "zh-hant": {
+            "item_name": "拉特昂 Prime 槍機",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Latron_Prime"
+        },
+        "es": {
+            "item_name": "Receptor De Latron Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Latron_Prime"
+        },
+        "it": {
+            "item_name": "Latron Prime - Castello",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Latron_Prime"
+        },
+        "pl": {
+            "item_name": "Latron Prime: Korpus",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Latron_Prime"
+        },
+        "uk": {
+            "item_name": "Пагуба-Прайм: Ствольна Коробка",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Latron_Prime"
+        }
     },
     "mastery_level": 10,
     "ducats": 15,

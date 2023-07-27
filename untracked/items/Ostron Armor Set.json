@@ -18,65 +18,69 @@
         "ostron_leg_guards"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Ostron Armor Set",
-        "description": "An Ostron armor set crafted from Orokin tower salvage.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Ostron Armor Set",
-        "description": "Комплект брони Острона, который создан из обломков башни Орокин.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "오스트론 아머 세트",
-        "description": "오로킨 타워의 잔해로 제작된 오스트론 아머 세트입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Ostron Armor Set",
-        "description": "Ein Ostron Rüstungsset, das aus Überbleibseln des Orokin Turms hergestellt wurde.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Ostron Armor Set",
-        "description": "Un ensemble d'Armure Ostron fabriqué à partir d'éléments récupérés sur la tour Orokin.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Ostron Armor Set",
-        "description": "Um conjunto de armaduras Ostron construídas a partir de sucatas da Torre Orokin.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "Ostron Armor Set",
-        "description": "由 Orokin 堡垒残骸打造而成的 Ostron 护甲套装。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "Ostron Armor Set",
-        "description": "從 Orokin 高塔的回收物品製造的 Ostron 護甲套裝。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Ostron Armor Set",
-        "description": "Un conjunto de armadura Ostronita fabricado con partes rescatadas de una torre Orokin.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Ostron Armor Set",
-        "description": "Un set armatura Ostron realizzato con degli elementi recuperati dalla torre Orokin.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Ostron Armor Set",
-        "description": "Ostroński zestaw pancerza stworzony ze skrawków wieży Orokin.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Набір обладунків «Остронці»",
-        "description": "набір остронських обладунків, викуваний із решток остронської вежі.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Ostron Armor Set",
+            "description": "An Ostron armor set crafted from Orokin tower salvage.",
+            "wiki_link": null,
+            "icon": "items/images/en/ostron_armor_set.7b2ba8a825ba9ba62aab426dc5dc282e.png",
+            "thumb": "items/images/en/thumbs/ostron_armor_set.7b2ba8a825ba9ba62aab426dc5dc282e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ostron Armor Set",
+            "description": "Комплект брони Острона, который создан из обломков башни Орокин.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "오스트론 아머 세트",
+            "description": "오로킨 타워의 잔해로 제작된 오스트론 아머 세트입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Ostron Armor Set",
+            "description": "Ein Ostron Rüstungsset, das aus Überbleibseln des Orokin Turms hergestellt wurde.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Ostron Armor Set",
+            "description": "Un ensemble d'Armure Ostron fabriqué à partir d'éléments récupérés sur la tour Orokin.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Ostron Armor Set",
+            "description": "Um conjunto de armaduras Ostron construídas a partir de sucatas da Torre Orokin.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "Ostron Armor Set",
+            "description": "由 Orokin 堡垒残骸打造而成的 Ostron 护甲套装。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Ostron Armor Set",
+            "description": "從 Orokin 高塔的回收物品製造的 Ostron 護甲套裝。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Ostron Armor Set",
+            "description": "Un conjunto de armadura Ostronita fabricado con partes rescatadas de una torre Orokin.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Ostron Armor Set",
+            "description": "Un set armatura Ostron realizzato con degli elementi recuperati dalla torre Orokin.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Ostron Armor Set",
+            "description": "Ostroński zestaw pancerza stworzony ze skrawków wieży Orokin.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Набір обладунків «Остронці»",
+            "description": "набір остронських обладунків, викуваний із решток остронської вежі.",
+            "wiki_link": null
+        }
     },
     "trading_tax": 6000
 }

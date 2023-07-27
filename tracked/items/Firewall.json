@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Cipher/DamageReductionOnHackMod"
     },
-    "en": {
-        "item_name": "Firewall",
-        "description": "Reduces damage by 75% while hacking",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Файрвол",
-        "description": "Уменьшает урон на 75% во время взлома",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "파이어월",
-        "description": "해킹 도중 75% 만큼 피해량 감소",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Firewall",
-        "description": "Reduziert Schaden beim Hacken um 75 %",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Pare-Feu",
-        "description": "Réduit les Dégâts de 75% pendant un piratage",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Firewall",
-        "description": "Dano reduzido em 75% durante invasões",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "防火墙",
-        "description": "入侵时，受到的伤害减少 75%",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "防火牆",
-        "description": "駭入時減傷 75%",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Cortafuegos",
-        "description": "Reduce el daño en un 75 % mientras se realiza un hackeo",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Firewall",
-        "description": "Riduce i danni del 75% durante l'hacking",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Zapora Sieciowa",
-        "description": "Zmniejsza otrzymywane obrażenia o 75% podczas hakowania",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Мережевий Екран",
-        "description": "Отримувана шкода зменшується на 75% під час зламу.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Firewall",
+            "description": "Reduces damage by 75% while hacking",
+            "wiki_link": null,
+            "icon": "items/images/en/firewall.36c6514f61606df11d2385138b5a9f7b.png",
+            "thumb": "items/images/en/thumbs/firewall.36c6514f61606df11d2385138b5a9f7b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Файрвол",
+            "description": "Уменьшает урон на 75% во время взлома",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "파이어월",
+            "description": "해킹 도중 75% 만큼 피해량 감소",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Firewall",
+            "description": "Reduziert Schaden beim Hacken um 75 %",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Pare-Feu",
+            "description": "Réduit les Dégâts de 75% pendant un piratage",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Firewall",
+            "description": "Dano reduzido em 75% durante invasões",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "防火墙",
+            "description": "入侵时，受到的伤害减少 75%",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "防火牆",
+            "description": "駭入時減傷 75%",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Cortafuegos",
+            "description": "Reduce el daño en un 75 % mientras se realiza un hackeo",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Firewall",
+            "description": "Riduce i danni del 75% durante l'hacking",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Zapora Sieciowa",
+            "description": "Zmniejsza otrzymywane obrażenia o 75% podczas hakowania",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Мережевий Екран",
+            "description": "Отримувана шкода зменшується на 75% під час зламу",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "trading_tax": 4000

@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Immortal/ImmortalWildcardMod"
     },
-    "en": {
-        "item_name": "Oull",
-        "description": "Through endless faces, countless forms, a multitude unfolds.\n(Mimics any Requiem Mod)",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Аул",
-        "description": "Через бесконечность лиц, бесчисленность форм раскрывается множество.\n(Имитирует любой мод Реквиема)",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "오울",
-        "description": "끝없는 면모, 셀 수 없는 형태를 통해, 무한의 수가 펼쳐진다.\n(레퀴엠 모드를 무엇이든 모방합니다.)",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Oull",
-        "description": "Durch endlose Gesichter, unzählige Formen entfaltet sich eine Vielheit.\n(Imitiert jede Requiem-Mod)",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Oull",
-        "description": "À travers des visages infinis, des formes innombrables, une multitude se déploie.\n(remplace tout Mod Requiem)",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Oull",
-        "description": "Por meio de rostos infinitos, formas incontáveis, uma multidão se desdobra.\n(Imita qualquer Mod Réquiem)",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "Oull",
-        "description": "通过无尽的面孔、无数的形态，呈现出千姿百态。\n（可模拟任意安魂 Mod）",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "Oull",
-        "description": "透過無盡的容顏、無數的形態，呈現無限種可能。\n（模擬任何鎮魂 MOD）",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Oull",
-        "description": "A través de infinitos rostros, de innumerables formas, una multitud se despliega.\n(Imita cualquier mod Réquiem)",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Oull",
-        "description": "Attraverso infinite facce, innumerevoli forme, si dispiega una moltitudine.\n(Imita qualsiasi Mod Requiem)",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Oull",
-        "description": "Przez nieskończone twarze, niezliczone formy, rozwija się mnogość.\n(Zastępuje dowolny Mod Requiem)",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Оул",
-        "description": "Крізь нескінченність форм, імен, облич\nформується кінечна множина.\n(Імітує будь-який модифікатор реквієму)",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Oull",
+            "description": "Through endless faces, countless forms, a multitude unfolds.\n(Mimics any Requiem Mod)",
+            "wiki_link": null,
+            "icon": "items/images/en/oull.5e6a9b7cd07dfa6cd299006523c3f802.png",
+            "thumb": "items/images/en/thumbs/oull.5e6a9b7cd07dfa6cd299006523c3f802.128x128.png"
+        },
+        "ru": {
+            "item_name": "Аул",
+            "description": "Через бесконечность лиц, бесчисленность форм раскрывается множество.\n(Имитирует любой мод Реквиема)",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "오울",
+            "description": "끝없는 면모, 셀 수 없는 형태를 통해, 무한의 수가 펼쳐진다.\n(레퀴엠 모드를 무엇이든 모방합니다.)",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Oull",
+            "description": "Durch endlose Gesichter, unzählige Formen entfaltet sich eine Vielheit.\n(Imitiert jede Requiem-Mod)",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Oull",
+            "description": "À travers des visages infinis, des formes innombrables, une multitude se déploie.\n(remplace tout Mod Requiem)",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Oull",
+            "description": "Por meio de rostos infinitos, formas incontáveis, uma multidão se desdobra.\n(Imita qualquer Mod Réquiem)",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "Oull",
+            "description": "通过无尽的面孔、无数的形态，呈现出千姿百态。\n（可模拟任意安魂 Mod）",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Oull",
+            "description": "透過無盡的容顏、無數的形態，呈現無限種可能。\n（模擬任何鎮魂 MOD）",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Oull",
+            "description": "A través de infinitos rostros, de innumerables formas, una multitud se despliega.\n(Imita cualquier mod Réquiem)",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Oull",
+            "description": "Attraverso infinite facce, innumerevoli forme, si dispiega una moltitudine.\n(Imita qualsiasi Mod Requiem)",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Oull",
+            "description": "Przez nieskończone twarze, niezliczone formy, rozwija się mnogość.\n(Zastępuje dowolny Mod Requiem)",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Оул",
+            "description": "Крізь нескінченність форм, імен, облич\nформується кінечна множина.\n(Імітує будь-який модифікатор реквієму)",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

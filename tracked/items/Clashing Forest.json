@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbOneMeleeTree"
     },
-    "en": {
-        "item_name": "Clashing Forest",
-        "description": "Arcing strikes and focused combos.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Clashing_Forest"
-    },
-    "ru": {
-        "item_name": "Грохочущий Лес",
-        "description": "Широкие атаки и сфокусированные комбо.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D0%BE%D1%85%D0%BE%D1%87%D1%83%D1%89%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81",
-        "icon": "items/images/ru/clashing_forest.6ff88ab70b8ba2438dc85eb83707fd7d.png",
-        "thumb": "items/images/ru/thumbs/clashing_forest.6ff88ab70b8ba2438dc85eb83707fd7d.128x128.png"
-    },
-    "ko": {
-        "item_name": "클래싱 포레스트",
-        "description": "반달 모양으로 휘어지는 공격과 집중적으로 타격하는 연속기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Clashing_Forest"
-    },
-    "de": {
-        "item_name": "Klirrender Wald",
-        "description": "Ausladende Schläge und fokussierte Kombos.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Klirrender_Wald"
-    },
-    "fr": {
-        "item_name": "Affrontement De La Forêt",
-        "description": "Frappes en arc et combos précis.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Affrontement_de_la_For%C3%AAt"
-    },
-    "pt": {
-        "item_name": "Clashing Forest",
-        "description": "Golpes curvados e combos focados.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Clashing_Forest"
-    },
-    "zh-hans": {
-        "item_name": "巨林冲击",
-        "description": "弧线攻击与集中的连段",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Clashing_Forest"
-    },
-    "zh-hant": {
-        "item_name": "巨林衝擊",
-        "description": "弧線攻擊與集中的連段",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Clashing_Forest"
-    },
-    "es": {
-        "item_name": "Bosque Estruendoso",
-        "description": "Ataques en arco y combos concentrados.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Bosque_estruendoso"
-    },
-    "it": {
-        "item_name": "Clashing Forest",
-        "description": "Attacchi ad arco e combo accurate.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Clashing_Forest"
-    },
-    "pl": {
-        "item_name": "Grzmiący Las",
-        "description": "Zakrzywione ataki i skupione kombinacje.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Grzmi%C4%85cy_Las"
-    },
-    "uk": {
-        "item_name": "Гуркітливий Ліс",
-        "description": "Дугоподібні й спрямовані серії ударів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Clashing_Forest"
+    "i18n": {
+        "en": {
+            "item_name": "Clashing Forest",
+            "description": "Arcing strikes and focused combos.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Clashing_Forest",
+            "icon": "items/images/en/clashing_forest.f7d9fcda2617d407371ca2e1e6da9b1f.png",
+            "thumb": "items/images/en/thumbs/clashing_forest.f7d9fcda2617d407371ca2e1e6da9b1f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Грохочущий Лес",
+            "description": "Широкие атаки и сфокусированные комбо.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D0%BE%D1%85%D0%BE%D1%87%D1%83%D1%89%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81",
+            "icon": "items/images/ru/clashing_forest.6ff88ab70b8ba2438dc85eb83707fd7d.png",
+            "thumb": "items/images/ru/thumbs/clashing_forest.6ff88ab70b8ba2438dc85eb83707fd7d.128x128.png"
+        },
+        "ko": {
+            "item_name": "클래싱 포레스트",
+            "description": "반달 모양으로 휘어지는 공격과 집중적으로 타격하는 연속기입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Clashing_Forest"
+        },
+        "de": {
+            "item_name": "Klirrender Wald",
+            "description": "Ausladende Schläge und fokussierte Kombos.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Klirrender_Wald"
+        },
+        "fr": {
+            "item_name": "Affrontement De La Forêt",
+            "description": "Frappes en arc et combos précis.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Affrontement_de_la_For%C3%AAt"
+        },
+        "pt": {
+            "item_name": "Clashing Forest",
+            "description": "Golpes curvados e combos focados.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Clashing_Forest"
+        },
+        "zh-hans": {
+            "item_name": "巨林冲击",
+            "description": "弧线攻击与集中的连段",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Clashing_Forest"
+        },
+        "zh-hant": {
+            "item_name": "巨林衝擊",
+            "description": "弧線攻擊與集中的連段",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Clashing_Forest"
+        },
+        "es": {
+            "item_name": "Bosque Estruendoso",
+            "description": "Ataques en arco y combos concentrados.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Bosque_estruendoso"
+        },
+        "it": {
+            "item_name": "Clashing Forest",
+            "description": "Attacchi ad arco e combo accurate.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Clashing_Forest"
+        },
+        "pl": {
+            "item_name": "Grzmiący Las",
+            "description": "Zakrzywione ataki i skupione kombinacje.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Grzmi%C4%85cy_Las"
+        },
+        "uk": {
+            "item_name": "Гуркітливий Ліс",
+            "description": "Дугоподібні й спрямовані серії ударів.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Clashing_Forest"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

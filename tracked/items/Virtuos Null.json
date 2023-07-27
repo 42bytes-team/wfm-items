@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill"
     },
-    "en": {
-        "item_name": "Virtuos Null",
-        "description": "On Kill:\n+20% Amp Energy Regeneration for 4s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Null"
-    },
-    "ru": {
-        "item_name": "Виртуозная Пустота",
-        "description": "При убийстве:\n+20% к восстановлению энергии усилителя в течение 4с",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7%D0%BD%D0%B0%D1%8F_%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%B0"
-    },
-    "ko": {
-        "item_name": "버츄오스 널",
-        "description": "처치 시:\n4초 동안 +20% 앰프 에너지 재생",
-        "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Null"
-    },
-    "de": {
-        "item_name": "Virtuos: Leere",
-        "description": "Bei Kill:\n+20 % Verstärker-Energieregeneration für 4s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null"
-    },
-    "fr": {
-        "item_name": "Virtuos Zéro",
-        "description": "Sur Élimination:\nPendant 4s, +20% de Régénération d'Énergie d'Amplificateur",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Virtuos_Zero"
-    },
-    "pt": {
-        "item_name": "Anulação Virtuosa",
-        "description": "Ao Matar:\n+20% de Regeneração de Energia da Amp por 4s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null"
-    },
-    "zh-hans": {
-        "item_name": "正直·空无",
-        "description": "击杀时：\n+20% 的增幅器能量恢复速率，持续 4 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Virtuos_Null"
-    },
-    "zh-hant": {
-        "item_name": "正直空無",
-        "description": "擊殺時：\n+20% 增幅器能量恢復率，持續 4 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Virtuos_Null"
-    },
-    "es": {
-        "item_name": "Nulidad Virtuosa",
-        "description": "Al matar:\n+20% de regeneración de energía del amp por 4s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Nulidad_virtuosa"
-    },
-    "it": {
-        "item_name": "Virtuos Null",
-        "description": "Dopo un'Uccisione:\n+20% Rigenerazione Energia Amp per 4s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null"
-    },
-    "pl": {
-        "item_name": "Wirtuoz Zera",
-        "description": "Po zabiciu:\n+20% Regeneracji Energii Ampa przez 4s",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Virtuos_Zera"
-    },
-    "uk": {
-        "item_name": "Віртус «Ніщо»",
-        "description": "У разі вбивства:\n+20% до відновлення енергії підсилювача. Тривалість: 4 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Null"
+    "i18n": {
+        "en": {
+            "item_name": "Virtuos Null",
+            "description": "On Kill:\n+20% Amp Energy Regeneration for 4s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Null",
+            "icon": "items/images/en/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.png",
+            "thumb": "items/images/en/thumbs/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.128x128.png"
+        },
+        "ru": {
+            "item_name": "Виртуозная Пустота",
+            "description": "При убийстве:\n+20% к восстановлению энергии усилителя в течение 4с",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%BE%D0%B7%D0%BD%D0%B0%D1%8F_%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%B0"
+        },
+        "ko": {
+            "item_name": "버츄오스 널",
+            "description": "처치 시:\n4초 동안 +20% 앰프 에너지 재생",
+            "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Null"
+        },
+        "de": {
+            "item_name": "Virtuos: Leere",
+            "description": "Bei Kill:\n+20 % Verstärker-Energieregeneration für 4s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null"
+        },
+        "fr": {
+            "item_name": "Virtuos Zéro",
+            "description": "Sur Élimination:\nPendant 4s, +20% de Régénération d'Énergie d'Amplificateur",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Virtuos_Zero"
+        },
+        "pt": {
+            "item_name": "Anulação Virtuosa",
+            "description": "Ao Matar:\n+20% de Regeneração de Energia da Amp por 4s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null"
+        },
+        "zh-hans": {
+            "item_name": "正直·空无",
+            "description": "击杀时：\n+20% 的增幅器能量恢复速率，持续 4 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Virtuos_Null"
+        },
+        "zh-hant": {
+            "item_name": "正直空無",
+            "description": "擊殺時：\n+20% 增幅器能量恢復率，持續 4 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Virtuos_Null"
+        },
+        "es": {
+            "item_name": "Nulidad Virtuosa",
+            "description": "Al matar:\n+20% de regeneración de energía del amp por 4s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Nulidad_virtuosa"
+        },
+        "it": {
+            "item_name": "Virtuos Null",
+            "description": "Dopo un'Uccisione:\n+20% Rigenerazione Energia Amp per 4s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null"
+        },
+        "pl": {
+            "item_name": "Wirtuoz Zera",
+            "description": "Po zabiciu:\n+20% Regeneracji Energii Ampa przez 4s",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Virtuos_Zera"
+        },
+        "uk": {
+            "item_name": "Віртус «Ніщо»",
+            "description": "У разі вбивства:\n+20% до відновлення енергії підсилювача. Тривалість: 4 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Virtuos_Null"
+        }
     },
     "rarity": "common",
     "max_rank": 3,

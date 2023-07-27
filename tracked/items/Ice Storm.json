@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceStormMod"
     },
-    "en": {
-        "item_name": "Ice Storm",
-        "description": "+40% Magazine Capacity\n+40% Cold",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ice_Storm"
-    },
-    "ru": {
-        "item_name": "Ледяная Буря",
-        "description": "+40% к вместимости магазина\n+40% урона холодом",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%B0%D1%8F_%D0%91%D1%83%D1%80%D1%8F",
-        "icon": "items/images/ru/ice_storm.22de22bbab0152d6886bca3c3a5c9718.png",
-        "thumb": "items/images/ru/thumbs/ice_storm.22de22bbab0152d6886bca3c3a5c9718.128x128.png"
-    },
-    "ko": {
-        "item_name": "아이스 스톰",
-        "description": "+40% 탄창 용량\n+40% 냉기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ice_Storm"
-    },
-    "de": {
-        "item_name": "Eissturm",
-        "description": "+40 % Magazingröße\n+40 % Kälte",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Eissturm"
-    },
-    "fr": {
-        "item_name": "Tempête De Glace",
-        "description": "+40% de Taille Du Chargeur\n+40% Glace",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_de_Glace"
-    },
-    "pt": {
-        "item_name": "Ice Storm",
-        "description": "+40% de Capacidade do Carregador\n+40% de Glacial",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ice_Storm"
-    },
-    "zh-hans": {
-        "item_name": "冰风暴",
-        "description": "+40% 弹匣容量\n+40% 冰冻伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ice_Storm"
-    },
-    "zh-hant": {
-        "item_name": "冰風暴",
-        "description": "+40% 彈匣容量\n+40% 冰凍傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ice_Storm"
-    },
-    "es": {
-        "item_name": "Tormenta De Hielo",
-        "description": "+40% de capacidad de cargador\n+40% de frío",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tormenta_de_hielo"
-    },
-    "it": {
-        "item_name": "Ice Storm",
-        "description": "+40% Capienza Caricatore\n+40% Ghiaccio",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Ice_Storm"
-    },
-    "pl": {
-        "item_name": "Lodowa Burza",
-        "description": "+40% Pojemności Magazynka\n+40% Obrażeń Zimna",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Cynobrowa_Burza"
-    },
-    "uk": {
-        "item_name": "Крижаний Шторм",
-        "description": "+40% до місткості магазину.\n+40% до крижаної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ice_Storm"
+    "i18n": {
+        "en": {
+            "item_name": "Ice Storm",
+            "description": "+40% Magazine Capacity\n+40% Cold",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ice_Storm",
+            "icon": "items/images/en/ice_storm.83c9d29c3e761c17f72130e383b4febc.png",
+            "thumb": "items/images/en/thumbs/ice_storm.83c9d29c3e761c17f72130e383b4febc.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ледяная Буря",
+            "description": "+40% к вместимости магазина\n+40% урона холодом",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%B0%D1%8F_%D0%91%D1%83%D1%80%D1%8F",
+            "icon": "items/images/ru/ice_storm.22de22bbab0152d6886bca3c3a5c9718.png",
+            "thumb": "items/images/ru/thumbs/ice_storm.22de22bbab0152d6886bca3c3a5c9718.128x128.png"
+        },
+        "ko": {
+            "item_name": "아이스 스톰",
+            "description": "+40% 탄창 용량\n+40% 냉기",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ice_Storm"
+        },
+        "de": {
+            "item_name": "Eissturm",
+            "description": "+40 % Magazingröße\n+40 % Kälte",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Eissturm"
+        },
+        "fr": {
+            "item_name": "Tempête De Glace",
+            "description": "+40% de Taille Du Chargeur\n+40% Glace",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_de_Glace"
+        },
+        "pt": {
+            "item_name": "Ice Storm",
+            "description": "+40% de Capacidade do Carregador\n+40% de Glacial",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ice_Storm"
+        },
+        "zh-hans": {
+            "item_name": "冰风暴",
+            "description": "+40% 弹匣容量\n+40% 冰冻伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ice_Storm"
+        },
+        "zh-hant": {
+            "item_name": "冰風暴",
+            "description": "+40% 彈匣容量\n+40% 冰凍傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ice_Storm"
+        },
+        "es": {
+            "item_name": "Tormenta De Hielo",
+            "description": "+40% de capacidad de cargador\n+40% de frío",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tormenta_de_hielo"
+        },
+        "it": {
+            "item_name": "Ice Storm",
+            "description": "+40% Capienza Caricatore\n+40% Ghiaccio",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Ice_Storm"
+        },
+        "pl": {
+            "item_name": "Lodowa Burza",
+            "description": "+40% Pojemności Magazynka\n+40% Obrażeń Zimna",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Cynobrowa_Burza"
+        },
+        "uk": {
+            "item_name": "Крижаний Шторм",
+            "description": "+40% до місткості магазину\n+40% до крижаної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ice_Storm"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

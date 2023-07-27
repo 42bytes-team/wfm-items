@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Necro/SoulPunchAugmentCard"
     },
-    "en": {
-        "item_name": "Soul Survivor",
-        "description": "Soul Punch Augment: Use on a downed ally to revive them with 30% Health.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Soul_Survivor"
-    },
-    "ru": {
-        "item_name": "Выжившая Душа",
-        "description": "Улучшение способности «Удар души»: применение на выведенном из строя союзнике воскресит его с 30% здоровья.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F_%D0%B4%D1%83%D1%88%D0%B0",
-        "icon": "items/images/ru/soul_survivor.9bebdca342f77851742f558ad8c59ad4.png",
-        "thumb": "items/images/ru/thumbs/soul_survivor.9bebdca342f77851742f558ad8c59ad4.128x128.png"
-    },
-    "ko": {
-        "item_name": "소울 서바이버",
-        "description": "소울 펀치 개조: 쓰러진 아군에게 사용할 시 30%의 체력과 함께 부활시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Soul_Survivor"
-    },
-    "de": {
-        "item_name": "Unsterbliche Seele",
-        "description": "Seelenhieb Augment: Auf niedergeschlagene Verbündeten wirken, um diesen mit 30 % Gesundheit wiederzubeleben.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Unsterbliche_Seele"
-    },
-    "fr": {
-        "item_name": "Âme Survivante",
-        "description": "Augmentation de Perforation d'Âme: À utiliser sur un allié à terre pour le réanimer avec 30% de Santé.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%82me_Survivante"
-    },
-    "pt": {
-        "item_name": "Soul Survivor",
-        "description": "Ampliação Soul Punch: ao conjurar em um alvo Aliado, ele será ressuscitado com 30% de Vida.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Soul_Survivor"
-    },
-    "zh-hans": {
-        "item_name": "幸存生灵",
-        "description": "灵魂重击强化：复活倒地的友军并恢复其 30% 的生命值。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Soul_Survivor"
-    },
-    "zh-hant": {
-        "item_name": "倖存生靈",
-        "description": "靈魂重擊強化：對倒地的隊友使用此技能來復活並恢復這名隊友 30% 的生命值。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Soul_Survivor"
-    },
-    "es": {
-        "item_name": "Superviviente Espiritual",
-        "description": "Aumento de Golpe espiritual: úsalo en un aliado caído para reanimarlo con un 30 % de salud.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Superviviente_espiritual"
-    },
-    "it": {
-        "item_name": "Soul Survivor",
-        "description": "Potenziamento Soul Punch: Rianima instantaneamente gli alleati a terra con il 30% di Salute.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Soul_Survivor"
-    },
-    "pl": {
-        "item_name": "Żywa Dusza",
-        "description": "Modyfikacja Pięści Duszy: Użyj tej umiejętności na wykrwawiającym się graczu, aby natychmiast podnieść go z 30% Życia.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%BBywa_Dusza"
-    },
-    "uk": {
-        "item_name": "Уціліла Душа",
-        "description": "Розширення здібності «Вибийдух»: використання здібності на полеглому союзнику підіймає його на ноги з 30% здоров’я.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Soul_Survivor"
+    "i18n": {
+        "en": {
+            "item_name": "Soul Survivor",
+            "description": "Soul Punch Augment: Use on a downed ally to revive them with 30% Health.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Soul_Survivor",
+            "icon": "items/images/en/soul_survivor.624cc099e5f256c381bd6d024d6d1270.png",
+            "thumb": "items/images/en/thumbs/soul_survivor.624cc099e5f256c381bd6d024d6d1270.128x128.png"
+        },
+        "ru": {
+            "item_name": "Выжившая Душа",
+            "description": "Улучшение способности «Удар души»: применение на выведенном из строя союзнике воскресит его с 30% здоровья.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F_%D0%B4%D1%83%D1%88%D0%B0",
+            "icon": "items/images/ru/soul_survivor.9bebdca342f77851742f558ad8c59ad4.png",
+            "thumb": "items/images/ru/thumbs/soul_survivor.9bebdca342f77851742f558ad8c59ad4.128x128.png"
+        },
+        "ko": {
+            "item_name": "소울 서바이버",
+            "description": "소울 펀치 개조: 쓰러진 아군에게 사용할 시 30%의 체력과 함께 부활시킵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Soul_Survivor"
+        },
+        "de": {
+            "item_name": "Unsterbliche Seele",
+            "description": "Seelenhieb Augment: Auf niedergeschlagene Verbündeten wirken, um diesen mit 30 % Gesundheit wiederzubeleben.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Unsterbliche_Seele"
+        },
+        "fr": {
+            "item_name": "Âme Survivante",
+            "description": "Augmentation de Perforation d'Âme: À utiliser sur un allié à terre pour le réanimer avec 30% de Santé.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%82me_Survivante"
+        },
+        "pt": {
+            "item_name": "Soul Survivor",
+            "description": "Ampliação Soul Punch: ao conjurar em um alvo Aliado, ele será ressuscitado com 30% de Vida.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Soul_Survivor"
+        },
+        "zh-hans": {
+            "item_name": "幸存生灵",
+            "description": "灵魂重击强化：复活倒地的友军并恢复其 30% 的生命值。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Soul_Survivor"
+        },
+        "zh-hant": {
+            "item_name": "倖存生靈",
+            "description": "靈魂重擊強化：對倒地的隊友使用此技能來復活並恢復這名隊友 30% 的生命值。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Soul_Survivor"
+        },
+        "es": {
+            "item_name": "Superviviente Espiritual",
+            "description": "Aumento de Golpe espiritual: úsalo en un aliado caído para reanimarlo con un 30 % de salud.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Superviviente_espiritual"
+        },
+        "it": {
+            "item_name": "Soul Survivor",
+            "description": "Potenziamento Soul Punch: Rianima instantaneamente gli alleati a terra con il 30% di Salute.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Soul_Survivor"
+        },
+        "pl": {
+            "item_name": "Żywa Dusza",
+            "description": "Modyfikacja Pięści Duszy: Użyj tej umiejętności na wykrwawiającym się graczu, aby natychmiast podnieść go z 30% Życia.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%BBywa_Dusza"
+        },
+        "uk": {
+            "item_name": "Уціліла Душа",
+            "description": "Розширення здібності «Вибийдух»: використання здібності на полеглому союзнику підіймає його на ноги з 30% здоров’я.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Soul_Survivor"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

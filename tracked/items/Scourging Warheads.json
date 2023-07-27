@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanBypassShieldOrdnance"
     },
-    "en": {
-        "item_name": "Scourging Warheads",
-        "description": "+76.5% chance for Ordnance to ignore enemy Shields",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Карающие Боеголовки",
-        "description": "+76.5% шанс для Артиллерии проигнорировать вражеские щиты",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "스커징 워헤즈",
-        "description": "대포 명중 시 +76.5% 확률로 적 실드 무시",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Geißelnder Gefechtskopf",
-        "description": "+76.5 % Chance, dass Bewaffnung die Schilde des Gegners ignoriert",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Ogives Perfides",
-        "description": "+76.5% de chances que le Tir Calamité ignore les Boucliers ennemis",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Ogivas Calamitosas",
-        "description": "+76.5% de chance da Armaria ignorar os Escudos inimigos",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "苦痛弹头",
-        "description": "火炮有 +76.5% 的几率无视敌方护盾",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "天譴彈頭",
-        "description": "+76.5% 機率火砲無視敵方護盾",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Ojivas Azotadoras",
-        "description": "+76.5 % de probabilidad que la artillería ignore los escudos enemigos",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Scourging Warheads",
-        "description": "+76.5% probabilità per gli Armamenti di ignorare gli Scudi nemici",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Katujące Głowice",
-        "description": "+76.5% szansy na przebicie wrogich Osłon",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Смертоносні Боєголовки",
-        "description": "+76.5% до ймовірності проігнорувати ворожі щити снарядами.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Scourging Warheads",
+            "description": "+76.5% chance for Ordnance to ignore enemy Shields",
+            "wiki_link": null,
+            "icon": "items/images/en/scourging_warheads.9f20153949e94da1cc4b46831737f85d.png",
+            "thumb": "items/images/en/thumbs/scourging_warheads.9f20153949e94da1cc4b46831737f85d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Карающие Боеголовки",
+            "description": "+76.5% шанс для Артиллерии проигнорировать вражеские щиты",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "스커징 워헤즈",
+            "description": "대포 명중 시 +76.5% 확률로 적 실드 무시",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Geißelnder Gefechtskopf",
+            "description": "+76.5 % Chance, dass Bewaffnung die Schilde des Gegners ignoriert",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Ogives Perfides",
+            "description": "+76.5% de chances que le Tir Calamité ignore les Boucliers ennemis",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Ogivas Calamitosas",
+            "description": "+76.5% de chance da Armaria ignorar os Escudos inimigos",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "苦痛弹头",
+            "description": "火炮有 +76.5% 的几率无视敌方护盾",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "天譴彈頭",
+            "description": "+76.5% 機率火砲無視敵方護盾",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Ojivas Azotadoras",
+            "description": "+76.5 % de probabilidad que la artillería ignore los escudos enemigos",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Scourging Warheads",
+            "description": "+76.5% probabilità per gli Armamenti di ignorare gli Scudi nemici",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Katujące Głowice",
+            "description": "+76.5% szansy na przebicie wrogich Osłon",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Смертоносні Боєголовки",
+            "description": "+76.5% до ймовірності проігнорувати ворожі щити снарядами.",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

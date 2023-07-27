@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualKatanaCmbOneMeleeTree"
     },
-    "en": {
-        "item_name": "Mountain's Edge",
-        "description": "Sharp movements with wide reach.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Край Горы",
-        "description": "Резкие движения с широким размахом.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "마운틴즈 엣지",
-        "description": "넓은 범위에 이르는 날카로운 동작들입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Berggrat",
-        "description": "Scharfe Bewegungen mit großer Reichweite.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Falaise Rocheuse",
-        "description": "Des mouvements nets avec une grande portée.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Mountain's Edge",
-        "description": "Movimentos precisos com amplo alcance.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "山之锋芒",
-        "description": "动作迅猛、打击面广。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "大山之鋒",
-        "description": "急劇的動作搭配寬廣的可及範圍。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Borde De La Montaña",
-        "description": "Movimientos precisos con amplio alcance.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Mountain's Edge",
-        "description": "Movimenti bruschi con un'ampia portata.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Krawędź Góry",
-        "description": "Ostre ruchy o szerokim zasięgu.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Вістря Гори",
-        "description": "Різкі рухи з широким розмахом.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Mountain's Edge",
+            "description": "Sharp movements with wide reach.",
+            "wiki_link": null,
+            "icon": "items/images/en/mountains_edge.04f58be6d468001292df3dd94559a96c.png",
+            "thumb": "items/images/en/thumbs/mountains_edge.04f58be6d468001292df3dd94559a96c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Край Горы",
+            "description": "Резкие движения с широким размахом.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "마운틴즈 엣지",
+            "description": "넓은 범위에 이르는 날카로운 동작들입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Berggrat",
+            "description": "Scharfe Bewegungen mit großer Reichweite.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Falaise Rocheuse",
+            "description": "Des mouvements nets avec une grande portée.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Mountain's Edge",
+            "description": "Movimentos precisos com amplo alcance.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "山之锋芒",
+            "description": "动作迅猛、打击面广。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "大山之鋒",
+            "description": "急劇的動作搭配寬廣的可及範圍。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Borde De La Montaña",
+            "description": "Movimientos precisos con amplio alcance.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Mountain's Edge",
+            "description": "Movimenti bruschi con un'ampia portata.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Krawędź Góry",
+            "description": "Ostre ruchy o szerokim zasięgu.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Вістря Гори",
+            "description": "Різкі рухи з широким розмахом.",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

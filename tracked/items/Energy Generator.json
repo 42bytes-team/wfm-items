@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemDropOnAssist"
     },
-    "en": {
-        "item_name": "Energy Generator",
-        "description": "Dethcube drops an Energy Orb after assisting in 10 kills.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Generator"
-    },
-    "ru": {
-        "item_name": "Генератор Энергии",
-        "description": "Куб Смерти создаёт Сферу Энергии после помощи в убийстве 10 врагов.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8"
-    },
-    "ko": {
-        "item_name": "에너지 제너레이터",
-        "description": "데스큐브가 10번의 어시스트 처치 시 에너지 오브를 드롭합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Generator"
-    },
-    "de": {
-        "item_name": "Energiegenerator",
-        "description": "Dethcube lässt eine Energiekugel fallen, nachdem es bei 10 Kills assistiert. ",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Energieregeneration"
-    },
-    "fr": {
-        "item_name": "Générateur D'Énergie",
-        "description": "Dethcube fait apparaître un Orbe d'Énergie après avoir participé à 10 éliminations.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/G%C3%A9n%C3%A9rateur_d%27%C3%89nergie"
-    },
-    "pt": {
-        "item_name": "Energy Generator",
-        "description": "A Dethcube fornece um Orbe de Energia após ajudar em 10 abates.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Generator"
-    },
-    "zh-hans": {
-        "item_name": "能量产生器",
-        "description": "死亡魔方协助击杀 10 次后，将掉落一个能量球。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Generator"
-    },
-    "zh-hant": {
-        "item_name": "能量產生器",
-        "description": "死亡魔方協助擊殺 10 次後，將掉落一個能量球。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Generator"
-    },
-    "es": {
-        "item_name": "Generador De Energía",
-        "description": "Dethcube deja caer un orbe de energía tras ayudar en 10 asesinatos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Generador_de_energ%C3%ADa"
-    },
-    "it": {
-        "item_name": "Energy Generator",
-        "description": "Dethcube rilascia una Sfera d'Energia dopo aver contribuito a 10 uccisioni.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Energy_Generator"
-    },
-    "pl": {
-        "item_name": "Generator Energii",
-        "description": "Dethcube upuści Kulkę Energii po asystowaniu przy 10 zabójstwach.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Konwersja_Energii"
-    },
-    "uk": {
-        "item_name": "Енергостанція",
-        "description": "Смертокуб після участі в 10 вбивствах створює згусток енергії.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Energy_Generator"
+    "i18n": {
+        "en": {
+            "item_name": "Energy Generator",
+            "description": "Dethcube drops an Energy Orb after assisting in 10 kills.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Energy_Generator",
+            "icon": "items/images/en/energy_generator.8957d37464221bed882c611f37c46e68.png",
+            "thumb": "items/images/en/thumbs/energy_generator.8957d37464221bed882c611f37c46e68.128x128.png"
+        },
+        "ru": {
+            "item_name": "Генератор Энергии",
+            "description": "Куб Смерти создаёт Сферу Энергии после помощи в убийстве 10 врагов.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8"
+        },
+        "ko": {
+            "item_name": "에너지 제너레이터",
+            "description": "데스큐브가 10번의 어시스트 처치 시 에너지 오브를 드롭합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Energy_Generator"
+        },
+        "de": {
+            "item_name": "Energiegenerator",
+            "description": "Dethcube lässt eine Energiekugel fallen, nachdem es bei 10 Kills assistiert. ",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Energieregeneration"
+        },
+        "fr": {
+            "item_name": "Générateur D'Énergie",
+            "description": "Dethcube fait apparaître un Orbe d'Énergie après avoir participé à 10 éliminations.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/G%C3%A9n%C3%A9rateur_d%27%C3%89nergie"
+        },
+        "pt": {
+            "item_name": "Energy Generator",
+            "description": "A Dethcube fornece um Orbe de Energia após ajudar em 10 abates.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Energy_Generator"
+        },
+        "zh-hans": {
+            "item_name": "能量产生器",
+            "description": "死亡魔方协助击杀 10 次后，将掉落一个能量球。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Generator"
+        },
+        "zh-hant": {
+            "item_name": "能量產生器",
+            "description": "死亡魔方協助擊殺 10 次後，將掉落一個能量球。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Energy_Generator"
+        },
+        "es": {
+            "item_name": "Generador De Energía",
+            "description": "Dethcube deja caer un orbe de energía tras ayudar en 10 asesinatos.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Generador_de_energ%C3%ADa"
+        },
+        "it": {
+            "item_name": "Energy Generator",
+            "description": "Dethcube rilascia una Sfera d'Energia dopo aver contribuito a 10 uccisioni.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Energy_Generator"
+        },
+        "pl": {
+            "item_name": "Generator Energii",
+            "description": "Dethcube upuści Kulkę Energii po asystowaniu przy 10 zabójstwach.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Konwersja_Energii"
+        },
+        "uk": {
+            "item_name": "Енергостанція",
+            "description": "Смертокуб після участі в 10 вбивствах створює згусток енергії.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Energy_Generator"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

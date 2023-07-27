@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Boreal/BorealWarframeMod"
     },
-    "en": {
-        "item_name": "Boreal's Hatred",
-        "description": "+150% Shield Capacity\n+15% Ability Efficiency",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Ненависть Бореаля",
-        "description": "+150% к мощности щита\n+15% к энергоэффективности",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "보리얼 헤이트리드",
-        "description": "+150% 최대 실드량\n+15% 어빌리티 효율",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Boreals Hass",
-        "description": "+150 % Schildkapazität\n+15 % Fähigkeitseffizienz",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Haine De Boréal",
-        "description": "+150% de capacité des Boucliers\n+15% Efficacité de Pouvoir",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Rancor Do Boreal",
-        "description": "+150% de Capacidade do Escudo\n+15% de Eficiência da Habilidade",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "诡文枭主之恨",
-        "description": "+150% 护盾容量\n+15% 技能效率",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "玻瑞爾的憎恨",
-        "description": "+150% 護盾容量\n+15% 技能效率",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Odio De Boreal",
-        "description": "+150% de capacidad de escudo\n+15% Eficiencia de habilidad",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Boreal's Hatred",
-        "description": "+150% Capienza Scudo\n+15% Efficienza Abilità",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Nienawiść Boreala",
-        "description": "+150% Wytrzymałość Tarcz\n+15% Wydajność Umiejętności",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Ненависть Бореаля",
-        "description": "+150% до місткості щитів.\n+15% до ощадливості здібностей.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Boreal's Hatred",
+            "description": "+150% Shield Capacity\n+15% Ability Efficiency",
+            "wiki_link": null,
+            "icon": "items/images/en/boreals_hatred.de83eb54e55037ec026c099b9ad00d89.png",
+            "thumb": "items/images/en/thumbs/boreals_hatred.de83eb54e55037ec026c099b9ad00d89.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ненависть Бореаля",
+            "description": "+150% к мощности щита\n+15% к энергоэффективности",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "보리얼 헤이트리드",
+            "description": "+150% 최대 실드량\n+15% 어빌리티 효율",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Boreals Hass",
+            "description": "+150 % Schildkapazität\n+15 % Fähigkeitseffizienz",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Haine De Boréal",
+            "description": "+150% de capacité des Boucliers\n+15% Efficacité de Pouvoir",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Rancor Do Boreal",
+            "description": "+150% de Capacidade do Escudo\n+15% de Eficiência da Habilidade",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "诡文枭主之恨",
+            "description": "+150% 护盾容量\n+15% 技能效率",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "玻瑞爾的憎恨",
+            "description": "+150% 護盾容量\n+15% 技能效率",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Odio De Boreal",
+            "description": "+150% de capacidad de escudo\n+15% Eficiencia de habilidad",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Boreal's Hatred",
+            "description": "+150% Capienza Scudo\n+15% Efficienza Abilità",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Nienawiść Boreala",
+            "description": "+150% Wytrzymałość Tarcz\n+15% Wydajność Umiejętności",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Ненависть Бореаля",
+            "description": "+150% до місткості щитів\n+15% до ощадливості здібностей",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

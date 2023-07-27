@@ -5,57 +5,59 @@
     "riven_type": "melee",
     "icon": "riven_item/images/sarofang.132b80ed3bbefa26846dbafa1bfe5f56.png",
     "thumb": "riven_item/images/thumbs/sarofang.132b80ed3bbefa26846dbafa1bfe5f56.128x128.png",
-    "disposition": 0.65,
+    "disposition": 0.75,
     "mastery_level": 8,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Axe/WolfFrameAxeWeapon"
     },
-    "en": {
-        "item_name": "Sarofang",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Сарофанг",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "사로팡",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Sarofang",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Sarofang",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Sarofang",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "沙罗之牙",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "闇牙",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Sarofang",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Sarofang",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Sarofang",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Ікло Сароса",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Sarofang",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Сарофанг",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "사로팡",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Sarofang",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Sarofang",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Sarofang",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "沙罗之牙",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "闇牙",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Sarofang",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Sarofang",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Sarofang",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Ікло Сароса",
+            "wiki_link": null
+        }
     }
 }

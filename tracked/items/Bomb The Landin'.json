@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindSlamMod"
     },
-    "en": {
-        "item_name": "Bomb The Landin'",
-        "description": "Tap and Hold Grind in the air to execute a 20m Slam Shockwave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin%27"
-    },
-    "ru": {
-        "item_name": "Бомбани Приземление",
-        "description": "Нажмите и удерживайте Грайнд в воздухе, чтобы вызвать Ударную Волну по земле на 20м.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
-    },
-    "ko": {
-        "item_name": "밤 더 랜딩",
-        "description": "공중에서 그라인드 키를 짧게 한 번 누른 후 길게 누를 시 20m 범위의 지면 강타 충격파를 발생시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin%27"
-    },
-    "de": {
-        "item_name": "Bombenlandung",
-        "description": "In der Luft Grind Antippen und halten, um eine Schmetter-Schockwelle innerhalb von 20 m zu verursachen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
-    },
-    "fr": {
-        "item_name": "Atterrissage De Fou",
-        "description": "Appuyez et maintenez Grind une fois dans les airs pour créer une Onde de choc d'un rayon de 20m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Atterrissage_de_Fou"
-    },
-    "pt": {
-        "item_name": "Bomb The Landin'",
-        "description": "Pressione e Segure o botão de Deslizar, enquanto estiver no ar, para golpear o chão e gerar uma Onda de Choque de 20m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
-    },
-    "zh-hans": {
-        "item_name": "轰炸落地",
-        "description": "在空中点击并按住卡杆，来放出一道 20 米的震地冲击波。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bomb_The_Landin%27"
-    },
-    "zh-hant": {
-        "item_name": "落地轟炸",
-        "description": "在空中輕按後長按卡杆以釋放 20 公尺的震地衝擊波。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bomb_The_Landin%27"
-    },
-    "es": {
-        "item_name": "Amo De Los Aterrizajes",
-        "description": "Pulsa y mantén un grind en el aire para ejecutar un golpe contra el suelo de onda de choque con un radio de 20m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Amo_de_los_aterrizajes"
-    },
-    "it": {
-        "item_name": "Bomb The Landin'",
-        "description": "Premi e Mantieni Grind mentre ti trovi in aria per eseguire un'Onda d'Urto di 20m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
-    },
-    "pl": {
-        "item_name": "Bomba Lądowa",
-        "description": "Naciśnij i przytrzymaj Grind w powietrzu, by spowodować Falę uderzeniową w promieniu 20m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
-    },
-    "uk": {
-        "item_name": "Бомбезне Приземлення",
-        "description": "Виконайте в повітрі ковзання й утримуйте до приземлення, щоби спричинити ударну хвилю на 20 м довкола.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin%27"
+    "i18n": {
+        "en": {
+            "item_name": "Bomb The Landin'",
+            "description": "Tap and Hold Grind in the air to execute a 20m Slam Shockwave.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin%27",
+            "icon": "items/images/en/bomb_the_landin.76b97b09964cf235756634c86322d66d.png",
+            "thumb": "items/images/en/thumbs/bomb_the_landin.76b97b09964cf235756634c86322d66d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Бомбани Приземление",
+            "description": "Нажмите и удерживайте Грайнд в воздухе, чтобы вызвать Ударную Волну по земле на 20м.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
+        },
+        "ko": {
+            "item_name": "밤 더 랜딩",
+            "description": "공중에서 그라인드 키를 짧게 한 번 누른 후 길게 누를 시 20m 범위의 지면 강타 충격파를 발생시킵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin%27"
+        },
+        "de": {
+            "item_name": "Bombenlandung",
+            "description": "In der Luft Grind Antippen und halten, um eine Schmetter-Schockwelle innerhalb von 20 m zu verursachen.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
+        },
+        "fr": {
+            "item_name": "Atterrissage De Fou",
+            "description": "Appuyez et maintenez Grind une fois dans les airs pour créer une Onde de choc d'un rayon de 20m.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Atterrissage_de_Fou"
+        },
+        "pt": {
+            "item_name": "Bomb The Landin'",
+            "description": "Pressione e Segure o botão de Deslizar, enquanto estiver no ar, para golpear o chão e gerar uma Onda de Choque de 20m.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
+        },
+        "zh-hans": {
+            "item_name": "轰炸落地",
+            "description": "在空中点击并按住卡杆，来放出一道 20 米的震地冲击波。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bomb_The_Landin%27"
+        },
+        "zh-hant": {
+            "item_name": "落地轟炸",
+            "description": "在空中輕按後長按卡杆以釋放 20 公尺的震地衝擊波。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bomb_The_Landin%27"
+        },
+        "es": {
+            "item_name": "Amo De Los Aterrizajes",
+            "description": "Pulsa y mantén un grind en el aire para ejecutar un golpe contra el suelo de onda de choque con un radio de 20m.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Amo_de_los_aterrizajes"
+        },
+        "it": {
+            "item_name": "Bomb The Landin'",
+            "description": "Premi e Mantieni Grind mentre ti trovi in aria per eseguire un'Onda d'Urto di 20m.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
+        },
+        "pl": {
+            "item_name": "Bomba Lądowa",
+            "description": "Naciśnij i przytrzymaj Grind w powietrzu, by spowodować Falę uderzeniową w promieniu 20m.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin'"
+        },
+        "uk": {
+            "item_name": "Бомбезне Приземлення",
+            "description": "Виконайте в повітрі ковзання й утримуйте до приземлення, щоби спричинити ударну хвилю на 20 м довкола.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bomb_The_Landin%27"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

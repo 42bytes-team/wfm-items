@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Revenant/RevenantMarkAugmentCard"
     },
-    "en": {
-        "item_name": "Thrall Pact",
-        "description": "Enthrall Augment: Gain +25% Primary Weapon Damage for each active Thrall.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
-    },
-    "ru": {
-        "item_name": "Пакт Раба",
-        "description": "Улучшение способности «Порабощение»: за каждого активного раба основное оружие получает +25% к урону.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BA%D1%82_%D0%A0%D0%B0%D0%B1%D0%B0"
-    },
-    "ko": {
-        "item_name": "쓰랄 팩트",
-        "description": "엔쓰랄 개조: 활성화되어 있는 노예 하나 당 각 +25%의 주무기 피해 보너스를 얻습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
-    },
-    "de": {
-        "item_name": "Bezirzender Pakt",
-        "description": "Bezirzen Augment: Erhalte +25 % Primärwaffenschaden für jeden aktiven Lakaien.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
-    },
-    "fr": {
-        "item_name": "Pacte Des Serfs",
-        "description": "Augmentation de Servitude: Obtenez +25% de Dégâts d'arme Principale pour chaque Serf actif.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pacte_des_Serfs"
-    },
-    "pt": {
-        "item_name": "Thrall Pact",
-        "description": "Ampliação Enthrall: fornecerá +25% de Dano para Armas Primárias para cada Thrall ativo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
-    },
-    "zh-hans": {
-        "item_name": "奴仆契约",
-        "description": "奴役意志强化：从每个当前存在的奴仆那里获取 +25% 主要武器伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thrall_Pact"
-    },
-    "zh-hant": {
-        "item_name": "奴役契約",
-        "description": "奴役意志強化：每多一名奴僕可獲得 +25% 的主要武器傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Thrall_Pact"
-    },
-    "es": {
-        "item_name": "Pacto De Esclavo",
-        "description": "Aumento de Cautivar: obtén +25% de daño de arma primaria por cada esclavo activo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
-    },
-    "it": {
-        "item_name": "Thrall Pact",
-        "description": "Potenziamento Enthrall: Guadagna +25% Danno con l'Arma Primaria per ogni Thrall attivo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
-    },
-    "pl": {
-        "item_name": "Pakt Sług",
-        "description": "Modyfikacja Zniewolenia: Zyskaj +25% Obrażeń Broni Głównej za każdego aktywnego Sługę.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
-    },
-    "uk": {
-        "item_name": "Угода На Поневолення",
-        "description": "Розширення здібності «Поневолення»: кожен раб на 25% збільшує завдавану головною зброєю шкоду.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
+    "i18n": {
+        "en": {
+            "item_name": "Thrall Pact",
+            "description": "Enthrall Augment: Gain +25% Primary Weapon Damage for each active Thrall.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact",
+            "icon": "items/images/en/thrall_pact.fd671126fd4051e8e3addc13ae56d1f0.png",
+            "thumb": "items/images/en/thumbs/thrall_pact.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Пакт Раба",
+            "description": "Улучшение способности «Порабощение»: за каждого активного раба основное оружие получает +25% к урону.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BA%D1%82_%D0%A0%D0%B0%D0%B1%D0%B0"
+        },
+        "ko": {
+            "item_name": "쓰랄 팩트",
+            "description": "엔쓰랄 개조: 활성화되어 있는 노예 하나 당 각 +25%의 주무기 피해 보너스를 얻습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
+        },
+        "de": {
+            "item_name": "Bezirzender Pakt",
+            "description": "Bezirzen Augment: Erhalte +25 % Primärwaffenschaden für jeden aktiven Lakaien.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
+        },
+        "fr": {
+            "item_name": "Pacte Des Serfs",
+            "description": "Augmentation de Servitude: Obtenez +25% de Dégâts d'arme Principale pour chaque Serf actif.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Pacte_des_Serfs"
+        },
+        "pt": {
+            "item_name": "Thrall Pact",
+            "description": "Ampliação Enthrall: fornecerá +25% de Dano para Armas Primárias para cada Thrall ativo.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
+        },
+        "zh-hans": {
+            "item_name": "奴仆契约",
+            "description": "奴役意志强化：从每个当前存在的奴仆那里获取 +25% 主要武器伤害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Thrall_Pact"
+        },
+        "zh-hant": {
+            "item_name": "奴役契約",
+            "description": "奴役意志強化：每多一名奴僕可獲得 +25% 的主要武器傷害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Thrall_Pact"
+        },
+        "es": {
+            "item_name": "Pacto De Esclavo",
+            "description": "Aumento de Cautivar: obtén +25% de daño de arma primaria por cada esclavo activo.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
+        },
+        "it": {
+            "item_name": "Thrall Pact",
+            "description": "Potenziamento Enthrall: Guadagna +25% Danno con l'Arma Primaria per ogni Thrall attivo.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
+        },
+        "pl": {
+            "item_name": "Pakt Sług",
+            "description": "Modyfikacja Zniewolenia: Zyskaj +25% Obrażeń Broni Głównej za każdego aktywnego Sługę.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
+        },
+        "uk": {
+            "item_name": "Угода На Поневолення",
+            "description": "Розширення здібності «Поневолення»: кожен раб на 25% збільшує завдавану головною зброєю шкоду.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Thrall_Pact"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

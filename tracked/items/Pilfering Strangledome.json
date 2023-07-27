@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Khora/KhoraCageAugmentCard"
     },
-    "en": {
-        "item_name": "Pilfering Strangledome",
-        "description": "Strangledome Augment: Enemies held in Strangledome have a 65% chance of dropping additional loot.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pilfering_Strangledome"
-    },
-    "ru": {
-        "item_name": "Ворующий Удушающий Купол",
-        "description": "Улучшение способности «Удушающий Купол»: из врагов, удерживаемых куполом, с шансом в 65% может выпасть дополнительный предмет.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%A3%D0%B4%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%9A%D1%83%D0%BF%D0%BE%D0%BB",
-        "icon": "items/images/ru/pilfering_strangledome.7f8826b18f902d3a9776b2659d56b92c.png",
-        "thumb": "items/images/ru/thumbs/pilfering_strangledome.7f8826b18f902d3a9776b2659d56b92c.128x128.png"
-    },
-    "ko": {
-        "item_name": "필퍼링 스트랭글돔",
-        "description": "스트랭글돔 개조 모드: 스트랭글돔에 사로잡힌 적들이 65%의 확률로 추가 아이템을 드롭합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pilfering_Strangledome"
-    },
-    "de": {
-        "item_name": "Stehlende Drosselkuppel",
-        "description": "Drosselkuppel Augment: Gegner, die in der Drosselkuppel gefangen sind, haben eine 65 % Chance, zusätzliche Beute fallen zu lassen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Drosselkuppel"
-    },
-    "fr": {
-        "item_name": "Dôme Glouton",
-        "description": "Augmentation de Cage de Fer: Les ennemis piégés dans la Cage de Fer ont 65% de chance de laisser tomber du butin additionnel.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%B4me_Glouton"
-    },
-    "pt": {
-        "item_name": "Pilfering Strangledome",
-        "description": "Ampliação Strangledome: inimigos afetados pela Strangledome possuirão 65% de chance de deixarem itens adicionais.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Strangledome"
-    },
-    "zh-hans": {
-        "item_name": "贪夺穹顶",
-        "description": "绞杀穹顶强化：被悬吊在穹顶内的敌人有 65% 的几率掉落额外战利品。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pilfering_Strangledome"
-    },
-    "zh-hant": {
-        "item_name": "貪奪穹頂",
-        "description": "絞殺穹頂強化：被懸吊在穹頂內的敵人有 65% 的機率掉落額外戰利品。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pilfering_Strangledome"
-    },
-    "es": {
-        "item_name": "Domo Estrangulador Robador",
-        "description": "Aumento de Domo estrangulador: los enemigos atrapados por Domo estrangulador tienen una probabilidad de 65% de soltar botín adicional.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Domo_estrangulador_robador"
-    },
-    "it": {
-        "item_name": "Pilfering Strangledome",
-        "description": "Potenziamento Strangledome: I nemici catturati da Strangledome hanno il 65% di probabilità di rilasciare risorse aggiuntive.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pilfering_Strangledome"
-    },
-    "pl": {
-        "item_name": "Kradnąca Dusząca Kopuła",
-        "description": "Modyfikacja Duszącej Kopuły: Przeciwnicy złapani przez Duszącą Kopułę mają 65% szansy na wyrzucenie dodatkowego łupu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Dusz%C4%85ca_Kopu%C5%82a"
-    },
-    "uk": {
-        "item_name": "Злодійський Купол",
-        "description": "Розширення здібності «Задушливий купол»: утримувані в куполі вороги після смерті з 65% ймовірністю лишать після смерті додаткову здобич.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pilfering_Strangledome"
+    "i18n": {
+        "en": {
+            "item_name": "Pilfering Strangledome",
+            "description": "Strangledome Augment: Enemies held in Strangledome have a 65% chance of dropping additional loot.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pilfering_Strangledome",
+            "icon": "items/images/en/pilfering_strangledome.f24a8dc7969c06d83b0bb0ecfaeebc7d.png",
+            "thumb": "items/images/en/thumbs/pilfering_strangledome.f24a8dc7969c06d83b0bb0ecfaeebc7d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ворующий Удушающий Купол",
+            "description": "Улучшение способности «Удушающий Купол»: из врагов, удерживаемых куполом, с шансом в 65% может выпасть дополнительный предмет.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%A3%D0%B4%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%9A%D1%83%D0%BF%D0%BE%D0%BB",
+            "icon": "items/images/ru/pilfering_strangledome.7f8826b18f902d3a9776b2659d56b92c.png",
+            "thumb": "items/images/ru/thumbs/pilfering_strangledome.7f8826b18f902d3a9776b2659d56b92c.128x128.png"
+        },
+        "ko": {
+            "item_name": "필퍼링 스트랭글돔",
+            "description": "스트랭글돔 개조 모드: 스트랭글돔에 사로잡힌 적들이 65%의 확률로 추가 아이템을 드롭합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pilfering_Strangledome"
+        },
+        "de": {
+            "item_name": "Stehlende Drosselkuppel",
+            "description": "Drosselkuppel Augment: Gegner, die in der Drosselkuppel gefangen sind, haben eine 65 % Chance, zusätzliche Beute fallen zu lassen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Drosselkuppel"
+        },
+        "fr": {
+            "item_name": "Dôme Glouton",
+            "description": "Augmentation de Cage de Fer: Les ennemis piégés dans la Cage de Fer ont 65% de chance de laisser tomber du butin additionnel.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%B4me_Glouton"
+        },
+        "pt": {
+            "item_name": "Pilfering Strangledome",
+            "description": "Ampliação Strangledome: inimigos afetados pela Strangledome possuirão 65% de chance de deixarem itens adicionais.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Strangledome"
+        },
+        "zh-hans": {
+            "item_name": "贪夺穹顶",
+            "description": "绞杀穹顶强化：被悬吊在穹顶内的敌人有 65% 的几率掉落额外战利品。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pilfering_Strangledome"
+        },
+        "zh-hant": {
+            "item_name": "貪奪穹頂",
+            "description": "絞殺穹頂強化：被懸吊在穹頂內的敵人有 65% 的機率掉落額外戰利品。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pilfering_Strangledome"
+        },
+        "es": {
+            "item_name": "Domo Estrangulador Robador",
+            "description": "Aumento de Domo estrangulador: los enemigos atrapados por Domo estrangulador tienen una probabilidad de 65% de soltar botín adicional.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Domo_estrangulador_robador"
+        },
+        "it": {
+            "item_name": "Pilfering Strangledome",
+            "description": "Potenziamento Strangledome: I nemici catturati da Strangledome hanno il 65% di probabilità di rilasciare risorse aggiuntive.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pilfering_Strangledome"
+        },
+        "pl": {
+            "item_name": "Kradnąca Dusząca Kopuła",
+            "description": "Modyfikacja Duszącej Kopuły: Przeciwnicy złapani przez Duszącą Kopułę mają 65% szansy na wyrzucenie dodatkowego łupu.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Dusz%C4%85ca_Kopu%C5%82a"
+        },
+        "uk": {
+            "item_name": "Злодійський Купол",
+            "description": "Розширення здібності «Задушливий купол»: утримувані в куполі вороги після смерті з 65% ймовірністю лишать після смерті додаткову здобич.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pilfering_Strangledome"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

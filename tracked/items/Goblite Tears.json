@@ -11,65 +11,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem"
     },
-    "en": {
-        "item_name": "Goblite Tears",
-        "description": "Polished and cut to perfection.\nBlueprint sold by Smokefinger in Fortuna, Venus.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Goblite_Tears"
-    },
-    "ru": {
-        "item_name": "Гоблитовы Слёзы",
-        "description": "Отполированный и ограненный до совершенства.\nЧертёж можно купить у Смоукфингера в Фортуне на Венере.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%BE%D0%B1%D0%BB%D0%B8%D1%82%D0%BE%D0%B2%D1%8B_%D0%A1%D0%BB%D0%B5%D0%B7%D1%8B"
-    },
-    "ko": {
-        "item_name": "고블라이트 티어스",
-        "description": "완벽하게 갈고 광을 낸 보석입니다.\n금성의 포르투나에 있는 스모크핑거에게서 설계도를 구매할 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Goblite_Tears"
-    },
-    "de": {
-        "item_name": "Tränen-Goblite",
-        "description": "Poliert und perfekt geschnitten.\nFundort: Blaupause erhältlich von Smokefinger in Fortuna, Venus.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Tr%C3%A4nen-Goblite"
-    },
-    "fr": {
-        "item_name": "Larmes De Goblite",
-        "description": "Polies et taillées à la perfection.\nSchéma vendu par Smokefinger à Fortuna, Vénus.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Larmes_de_Goblite"
-    },
-    "pt": {
-        "item_name": "Goblite Gotejada",
-        "description": "Polida e talhada à perfeição.\nSeu Diagrama pode ser obtido junto ao Smokefinger, em Fortuna, em Vênus.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Goblite_Gota"
-    },
-    "zh-hans": {
-        "item_name": "泪滴形填充细石",
-        "description": "经过切割打磨，已至臻完美。\n来源：金星上福尔图娜的 Smokefinger 出售的蓝图。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Goblite_Tears"
-    },
-    "zh-hant": {
-        "item_name": "淚滴形填充細石",
-        "description": "經切割打磨後至完美狀態。\n來源：Smokefinger 出售的藍圖（福爾圖娜，金星）。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Goblite_Tears"
-    },
-    "es": {
-        "item_name": "Lágrimas De Goblita",
-        "description": "Pulido y cortado a la perfección.\nEl plano lo vende Smokefinger en Fortuna, Venus.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/L%C3%A1grimas_de_Goblita"
-    },
-    "it": {
-        "item_name": "Goblite A Goccia",
-        "description": "Lucidato e tagliato alla perfezione.\nLo schema è acquistabile da Smokefinger su Fortuna (Venere).",
-        "wiki_link": "https://warframe.fandom.com/wiki/Goblite_Tears"
-    },
-    "pl": {
-        "item_name": "Łzy Goblitu",
-        "description": "Przycięty i oszlifowany do perfekcji.\nSchemat do kupienia u Smokefingera na Fortunie, Wenus.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%81zy_Goblitu"
-    },
-    "uk": {
-        "item_name": "Ґоблітові Сльози",
-        "description": "Досконало відполірований і відшліфований самоцвіт.\nКреслення можна придбати в Пальцедима у Фортуні на Венері.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Goblite_Tears"
+    "i18n": {
+        "en": {
+            "item_name": "Goblite Tears",
+            "description": "Polished and cut to perfection.\nBlueprint sold by Smokefinger in Fortuna, Venus.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Goblite_Tears",
+            "icon": "items/images/en/goblite_tears.33b290553ebce2a57562cc316bc7e9aa.png",
+            "thumb": "items/images/en/thumbs/goblite_tears.33b290553ebce2a57562cc316bc7e9aa.128x128.png"
+        },
+        "ru": {
+            "item_name": "Гоблитовы Слёзы",
+            "description": "Отполированный и ограненный до совершенства.\nЧертёж можно купить у Смоукфингера в Фортуне на Венере.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%BE%D0%B1%D0%BB%D0%B8%D1%82%D0%BE%D0%B2%D1%8B_%D0%A1%D0%BB%D0%B5%D0%B7%D1%8B"
+        },
+        "ko": {
+            "item_name": "고블라이트 티어스",
+            "description": "완벽하게 갈고 광을 낸 보석입니다.\n금성의 포르투나에 있는 스모크핑거에게서 설계도를 구매할 수 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Goblite_Tears"
+        },
+        "de": {
+            "item_name": "Tränen-Goblite",
+            "description": "Poliert und perfekt geschnitten.\nFundort: Blaupause erhältlich von Smokefinger in Fortuna, Venus.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Tr%C3%A4nen-Goblite"
+        },
+        "fr": {
+            "item_name": "Larmes De Goblite",
+            "description": "Polies et taillées à la perfection.\nSchéma vendu par Smokefinger à Fortuna, Vénus.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Larmes_de_Goblite"
+        },
+        "pt": {
+            "item_name": "Goblite Gotejada",
+            "description": "Polida e talhada à perfeição.\nSeu Diagrama pode ser obtido junto ao Smokefinger, em Fortuna, em Vênus.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Goblite_Gota"
+        },
+        "zh-hans": {
+            "item_name": "泪滴形填充细石",
+            "description": "经过切割打磨，已至臻完美。\n来源：金星上福尔图娜的 Smokefinger 出售的蓝图。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Goblite_Tears"
+        },
+        "zh-hant": {
+            "item_name": "淚滴形填充細石",
+            "description": "經切割打磨後至完美狀態。\n來源：Smokefinger 出售的藍圖（福爾圖娜，金星）。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Goblite_Tears"
+        },
+        "es": {
+            "item_name": "Lágrimas De Goblita",
+            "description": "Pulido y cortado a la perfección.\nEl plano lo vende Smokefinger en Fortuna, Venus.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/L%C3%A1grimas_de_Goblita"
+        },
+        "it": {
+            "item_name": "Goblite A Goccia",
+            "description": "Lucidato e tagliato alla perfezione.\nLo schema è acquistabile da Smokefinger su Fortuna (Venere).",
+            "wiki_link": "https://warframe.fandom.com/wiki/Goblite_Tears"
+        },
+        "pl": {
+            "item_name": "Łzy Goblitu",
+            "description": "Przycięty i oszlifowany do perfekcji.\nSchemat do kupienia u Smokefingera na Fortunie, Wenus.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%81zy_Goblitu"
+        },
+        "uk": {
+            "item_name": "Ґоблітові Сльози",
+            "description": "Досконало відполірований і відшліфований самоцвіт.\nКреслення можна придбати в Пальцедима у Фортуні на Венері.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Goblite_Tears"
+        }
     },
     "trading_tax": 2000
 }

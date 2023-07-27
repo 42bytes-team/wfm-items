@@ -20,65 +20,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Parallax Fuselage Blueprint",
-        "description": "Fuselage component of the Parallax landing craft",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Параллакс: Фюзеляж (Чертеж)",
-        "description": "Компонент корабля «Параллакс»: Фюзеляж",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "패럴락스 동체 설계도",
-        "description": "패럴락스 착륙정의 동체 부분입니다",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Parallax: Rumpf Blaupause",
-        "description": "Die Rumpf-Komponente für das Parallax Landungsschiff",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Parallax - Fuselage (Schéma)",
-        "description": "Le composant Fuselage du Parallax",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Parallax: Fuselagem (Diagrama)",
-        "description": "Fuselagem componente da Nave de Pouso Parallax",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "星察机身 蓝图",
-        "description": "星察登陆艇的机身部件",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "Parallax 機身 藍圖",
-        "description": "Parallax 登陸艇的機身部件",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Fuselaje De Parallax",
-        "description": "Componente de fuselaje de la nave de desembarco Parallax",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Parallax - Fusoliera (Schema)",
-        "description": "Componente Fusoliera della navicella Parallax",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Parallax: Kadłub - Schemat",
-        "description": "Kadłub statku desantowego Parallax",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Паралакс: Фюзеляж (креслення)",
-        "description": "Деталі фюзеляжу для десантного судна «Паралакс».",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Parallax Fuselage Blueprint",
+            "description": "Fuselage component of the Parallax landing craft",
+            "wiki_link": null,
+            "icon": "items/images/en/parallax_fuselage.75e7e972c395cb8f385c810b9c73b55c.png",
+            "thumb": "items/images/en/thumbs/parallax_fuselage.75e7e972c395cb8f385c810b9c73b55c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Параллакс: Фюзеляж (Чертеж)",
+            "description": "Компонент корабля «Параллакс»: Фюзеляж",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "패럴락스 동체 설계도",
+            "description": "패럴락스 착륙정의 동체 부분입니다",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Parallax: Rumpf Blaupause",
+            "description": "Die Rumpf-Komponente für das Parallax Landungsschiff",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Parallax - Fuselage (Schéma)",
+            "description": "Le composant Fuselage du Parallax",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Parallax: Fuselagem (Diagrama)",
+            "description": "Fuselagem componente da Nave de Pouso Parallax",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "星察机身 蓝图",
+            "description": "星察登陆艇的机身部件",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Parallax 機身 藍圖",
+            "description": "Parallax 登陸艇的機身部件",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Fuselaje De Parallax",
+            "description": "Componente de fuselaje de la nave de desembarco Parallax",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Parallax - Fusoliera (Schema)",
+            "description": "Componente Fusoliera della navicella Parallax",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Parallax: Kadłub - Schemat",
+            "description": "Kadłub statku desantowego Parallax",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Паралакс: Фюзеляж (креслення)",
+            "description": "Деталі фюзеляжу для десантного судна «Паралакс».",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Wisp/WispHarnessAugmentCard"
     },
-    "en": {
-        "item_name": "Critical Surge",
-        "description": "Breach Surge Augment: Teleporting to a Reservoir costs 50% Energy and grants 10% Critical Chance to Primary Weapons per meter traveled for 9s. Maximum 250% Critical Chance.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
-    },
-    "ru": {
-        "item_name": "Критический Всплеск",
-        "description": "Улучшение способности «Всплеск пробоя»: телепортация к источнику потребляет 50% энергии и добавляет 10% к шансу критического урона основного оружия в течение 9 с. Лимит крит. шанса: 250%.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D1%81%D0%BF%D0%BB%D0%B5%D1%81%D0%BA"
-    },
-    "ko": {
-        "item_name": "크리티컬 서지",
-        "description": "브리치 서지 개조: 레저부아로 텔레포트할 시 50%의 에너지가 소모되며 이동한 거리 1미터 당 주무기에 10%의 치명타 확률을 9초 동안 부여합니다 최대 250% 치명타 확률.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
-    },
-    "de": {
-        "item_name": "Kritische Woge",
-        "description": "Refraktionswoge Augment: Das Teleportieren zu einem Reservoir kostet 50 % Energie und gewährt 10 % Krit. Chance auf Primärwaffen für 9 s pro gereistem Meter. Maximal 250 % Krit. Chance.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
-    },
-    "fr": {
-        "item_name": "Surcharge Critique",
-        "description": "Augmentation de Surcharge de Faille: la téléportation vers un Réservoir coûte 50% d'Énergie et confère 10% de Chances de Critique aux armes Principales par mètre parcouru pendant 9s. Maximum de 250% de Chances de Critique.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Surcharge_Critique"
-    },
-    "pt": {
-        "item_name": "Critical Surge",
-        "description": "Ampliação Breach Surge: teleportar para um Reservatório consumirá 50% de Energia e concederá 10% de Chance Crítica para Armas Primárias, para cada metro percorrido, durante 9s. Máximo de 250% de Chance Crítica.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tidal_Surge"
-    },
-    "zh-hans": {
-        "item_name": "暴击涌流",
-        "description": "裂口涌流强化：传送到一个储能池会消耗 50% 的能量，并且根据移动的距离，主要武器在 9 秒内可获得每米 10% 的暴击几率。最高可获得 250% 暴击几率。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Critical_Surge"
-    },
-    "zh-hant": {
-        "item_name": "毀滅湧流",
-        "description": "裂口湧流強化：傳送至儲能池消耗 50% 能量。依穿梭的距離每公尺可使主要武器獲得 10% 暴擊率，持續 9 秒。最高可達 250% 暴擊率。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Critical_Surge"
-    },
-    "es": {
-        "item_name": "Sobrecarga Crítica",
-        "description": "Aumento de Brecha repentina: teletransportarse a una Reserva cuesta 50 % de energía y otorga 10 % de probabilidad crítica para rifles de francotirador por cada metro recorrido durante 9 s. Máximo de 250 % de probabilidad crítica.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sobrecarga_de_Meca"
-    },
-    "it": {
-        "item_name": "Critical Surge",
-        "description": "Potenziamento Breach Surge: Teletrasportarsi a un Reservoir costa 50% di Energia e garantisce tra il 10% e il 250% di Probabilità Critico alle Armi Primarie per metro percorso per 9s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
-    },
-    "pl": {
-        "item_name": "Krytyczne Wyładowanie",
-        "description": "Modyfikacja Skrzącego Wyładowania: Teleportacja do Dzbanka kosztuje 50% Energii i zapewnia 10% Szansy na Trafienie Krytyczne Broniom Głównym za każdy przebyty metr na 9s. Maksimum 250% szansy na Trafienie Krytyczne.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Skrz%C4%85ce_Wy%C5%82adowanie"
-    },
-    "uk": {
-        "item_name": "Критичний Сплеск",
-        "description": "Розширення здібності «Сплеск прориву»: перенесення до джерела вартує 50% енергії та на 9 с збільшує ймовірність завдавання критичної шкоди основною зброєю на 10% за кожен подоланий метр, аж до 250%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
+    "i18n": {
+        "en": {
+            "item_name": "Critical Surge",
+            "description": "Breach Surge Augment: Teleporting to a Reservoir costs 50% Energy and grants 10% Critical Chance to Primary Weapons per meter traveled for 9s. Maximum 250% Critical Chance.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge",
+            "icon": "items/images/en/critical_surge.fd671126fd4051e8e3addc13ae56d1f0.png",
+            "thumb": "items/images/en/thumbs/critical_surge.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Критический Всплеск",
+            "description": "Улучшение способности «Всплеск пробоя»: телепортация к источнику потребляет 50% энергии и добавляет 10% к шансу критического урона основного оружия в течение 9 с. Лимит крит. шанса: 250%.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D1%81%D0%BF%D0%BB%D0%B5%D1%81%D0%BA"
+        },
+        "ko": {
+            "item_name": "크리티컬 서지",
+            "description": "브리치 서지 개조: 레저부아로 텔레포트할 시 50%의 에너지가 소모되며 이동한 거리 1미터 당 주무기에 10%의 치명타 확률을 9초 동안 부여합니다 최대 250% 치명타 확률.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
+        },
+        "de": {
+            "item_name": "Kritische Woge",
+            "description": "Refraktionswoge Augment: Das Teleportieren zu einem Reservoir kostet 50 % Energie und gewährt 10 % Krit. Chance auf Primärwaffen für 9 s pro gereistem Meter. Maximal 250 % Krit. Chance.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
+        },
+        "fr": {
+            "item_name": "Surcharge Critique",
+            "description": "Augmentation de Surcharge de Faille: la téléportation vers un Réservoir coûte 50% d'Énergie et confère 10% de Chances de Critique aux armes Principales par mètre parcouru pendant 9s. Maximum de 250% de Chances de Critique.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Surcharge_Critique"
+        },
+        "pt": {
+            "item_name": "Critical Surge",
+            "description": "Ampliação Breach Surge: teleportar para um Reservatório consumirá 50% de Energia e concederá 10% de Chance Crítica para Armas Primárias, para cada metro percorrido, durante 9s. Máximo de 250% de Chance Crítica.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tidal_Surge"
+        },
+        "zh-hans": {
+            "item_name": "暴击涌流",
+            "description": "裂口涌流强化：传送到一个储能池会消耗 50% 的能量，并且根据移动的距离，主要武器在 9 秒内可获得每米 10% 的暴击几率。最高可获得 250% 暴击几率。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Critical_Surge"
+        },
+        "zh-hant": {
+            "item_name": "毀滅湧流",
+            "description": "裂口湧流強化：傳送至儲能池消耗 50% 能量。依穿梭的距離每公尺可使主要武器獲得 10% 暴擊率，持續 9 秒。最高可達 250% 暴擊率。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Critical_Surge"
+        },
+        "es": {
+            "item_name": "Sobrecarga Crítica",
+            "description": "Aumento de Brecha repentina: teletransportarse a una Reserva cuesta 50 % de energía y otorga 10 % de probabilidad crítica para rifles de francotirador por cada metro recorrido durante 9 s. Máximo de 250 % de probabilidad crítica.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sobrecarga_de_Meca"
+        },
+        "it": {
+            "item_name": "Critical Surge",
+            "description": "Potenziamento Breach Surge: Teletrasportarsi a un Reservoir costa 50% di Energia e garantisce tra il 10% e il 250% di Probabilità Critico alle Armi Primarie per metro percorso per 9s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
+        },
+        "pl": {
+            "item_name": "Krytyczne Wyładowanie",
+            "description": "Modyfikacja Skrzącego Wyładowania: Teleportacja do Dzbanka kosztuje 50% Energii i zapewnia 10% Szansy na Trafienie Krytyczne Broniom Głównym za każdy przebyty metr na 9s. Maksimum 250% szansy na Trafienie Krytyczne.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Skrz%C4%85ce_Wy%C5%82adowanie"
+        },
+        "uk": {
+            "item_name": "Критичний Сплеск",
+            "description": "Розширення здібності «Сплеск прориву»: перенесення до джерела вартує 50% енергії та на 9 с збільшує ймовірність завдавання критичної шкоди основною зброєю на 10% за кожен подоланий метр, аж до 250%.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Surge"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

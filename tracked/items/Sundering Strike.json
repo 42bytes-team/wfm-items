@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Melee/WeaponArmorPiercingDamageMod"
     },
-    "en": {
-        "item_name": "Sundering Strike",
-        "description": "+90% Puncture",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sundering_Strike"
-    },
-    "ru": {
-        "item_name": "Рассекающий Удар",
-        "description": "+90% пронзающего урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%A3%D0%B4%D0%B0%D1%80",
-        "icon": "items/images/ru/sundering_strike.a4c2b40335174dffa82e02a62afa22f0.png",
-        "thumb": "items/images/ru/thumbs/sundering_strike.a4c2b40335174dffa82e02a62afa22f0.128x128.png"
-    },
-    "ko": {
-        "item_name": "선더링 스트라이크",
-        "description": "+90% 관통",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sundering_Strike"
-    },
-    "de": {
-        "item_name": "Zerschmetternder Schlag",
-        "description": "+90 % Durchschlag",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerschmetternder_Schlag"
-    },
-    "fr": {
-        "item_name": "Frappe Fracassante",
-        "description": "+90% Perforation",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_fracassante"
-    },
-    "pt": {
-        "item_name": "Sundering Strike",
-        "description": "+90% de Perfurante",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sundering_Strike"
-    },
-    "zh-hans": {
-        "item_name": "破甲",
-        "description": "+90% 穿刺伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sundering_Strike"
-    },
-    "zh-hant": {
-        "item_name": "破甲",
-        "description": "+90% 穿刺傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sundering_Strike"
-    },
-    "es": {
-        "item_name": "Golpe Rompedor",
-        "description": "+90% de perforación",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_rompedor"
-    },
-    "it": {
-        "item_name": "Sundering Strike",
-        "description": "+90% Perforazione",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sundering_Strike"
-    },
-    "pl": {
-        "item_name": "Druzgocący Cios",
-        "description": "+90% Przebijających",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sundering_Strike"
-    },
-    "uk": {
-        "item_name": "Нищівний Удар",
-        "description": "+90% до пробивної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sundering_Strike"
+    "i18n": {
+        "en": {
+            "item_name": "Sundering Strike",
+            "description": "+90% Puncture",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sundering_Strike",
+            "icon": "items/images/en/sundering_strike.ebd1f73508fa44ab1d00a53ce98de05e.png",
+            "thumb": "items/images/en/thumbs/sundering_strike.ebd1f73508fa44ab1d00a53ce98de05e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Рассекающий Удар",
+            "description": "+90% пронзающего урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%A3%D0%B4%D0%B0%D1%80",
+            "icon": "items/images/ru/sundering_strike.a4c2b40335174dffa82e02a62afa22f0.png",
+            "thumb": "items/images/ru/thumbs/sundering_strike.a4c2b40335174dffa82e02a62afa22f0.128x128.png"
+        },
+        "ko": {
+            "item_name": "선더링 스트라이크",
+            "description": "+90% 관통",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sundering_Strike"
+        },
+        "de": {
+            "item_name": "Zerschmetternder Schlag",
+            "description": "+90 % Durchschlag",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Zerschmetternder_Schlag"
+        },
+        "fr": {
+            "item_name": "Frappe Fracassante",
+            "description": "+90% Perforation",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_fracassante"
+        },
+        "pt": {
+            "item_name": "Sundering Strike",
+            "description": "+90% de Perfurante",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sundering_Strike"
+        },
+        "zh-hans": {
+            "item_name": "破甲",
+            "description": "+90% 穿刺伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sundering_Strike"
+        },
+        "zh-hant": {
+            "item_name": "破甲",
+            "description": "+90% 穿刺傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sundering_Strike"
+        },
+        "es": {
+            "item_name": "Golpe Rompedor",
+            "description": "+90% de perforación",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_rompedor"
+        },
+        "it": {
+            "item_name": "Sundering Strike",
+            "description": "+90% Perforazione",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Sundering_Strike"
+        },
+        "pl": {
+            "item_name": "Druzgocący Cios",
+            "description": "+90% Przebijających",
+            "wiki_link": "http://warframe.wikia.com/wiki/Sundering_Strike"
+        },
+        "uk": {
+            "item_name": "Нищівний Удар",
+            "description": "+90% до пробивної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sundering_Strike"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

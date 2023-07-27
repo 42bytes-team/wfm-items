@@ -20,65 +20,69 @@
         "amesha_wings"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Amesha Set",
-        "description": "Transform into a winged guardian.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Amesha"
-    },
-    "ru": {
-        "item_name": "Амеша: Комплект",
-        "description": "Трансформируйтесь в крылатого стража.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BC%D0%B5%D1%88%D0%B0"
-    },
-    "ko": {
-        "item_name": "아메샤 세트",
-        "description": "날개를 단 수호자의 모습으로 다시 태어나세요.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Amesha"
-    },
-    "de": {
-        "item_name": "Amesha: Set",
-        "description": "Verwandle dich in einen geflügelten Beschützer.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Amesha"
-    },
-    "fr": {
-        "item_name": "Amesha - Set",
-        "description": "Transformez-vous en un gardien ailé.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Amesha"
-    },
-    "pt": {
-        "item_name": "Amesha: Conjunto",
-        "description": "Transforme-se em um guardião alado.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Amesha"
-    },
-    "zh-hans": {
-        "item_name": "Amesha 一套",
-        "description": "化身成一名飞翼守护者。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Amesha"
-    },
-    "zh-hant": {
-        "item_name": "Amesha 一套",
-        "description": "化身成一名飛翼守護者。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Amesha"
-    },
-    "es": {
-        "item_name": "Set de Amesha",
-        "description": "Transfórmate en un guardián alado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Amesha"
-    },
-    "it": {
-        "item_name": "Amesha Set",
-        "description": "Trasformati in un guardiano alato.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Amesha/Main"
-    },
-    "pl": {
-        "item_name": "Amesha: Zestaw",
-        "description": "Przeistocz się w skrzydlatego stróża.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Amesha"
-    },
-    "uk": {
-        "item_name": "Амеша (комплект)",
-        "description": "Оберніться на крилатого охоронця.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Amesha"
+    "i18n": {
+        "en": {
+            "item_name": "Amesha Set",
+            "description": "Transform into a winged guardian.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Amesha",
+            "icon": "items/images/en/amesha_set.ff297caf790ef259b5715a2510974338.png",
+            "thumb": "items/images/en/thumbs/amesha_set.ff297caf790ef259b5715a2510974338.128x128.png"
+        },
+        "ru": {
+            "item_name": "Амеша: Комплект",
+            "description": "Трансформируйтесь в крылатого стража.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BC%D0%B5%D1%88%D0%B0"
+        },
+        "ko": {
+            "item_name": "아메샤 세트",
+            "description": "날개를 단 수호자의 모습으로 다시 태어나세요.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Amesha"
+        },
+        "de": {
+            "item_name": "Amesha: Set",
+            "description": "Verwandle dich in einen geflügelten Beschützer.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Amesha"
+        },
+        "fr": {
+            "item_name": "Amesha - Set",
+            "description": "Transformez-vous en un gardien ailé.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Amesha"
+        },
+        "pt": {
+            "item_name": "Amesha: Conjunto",
+            "description": "Transforme-se em um guardião alado.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Amesha"
+        },
+        "zh-hans": {
+            "item_name": "Amesha 一套",
+            "description": "化身成一名飞翼守护者。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Amesha"
+        },
+        "zh-hant": {
+            "item_name": "Amesha 一套",
+            "description": "化身成一名飛翼守護者。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Amesha"
+        },
+        "es": {
+            "item_name": "Set de Amesha",
+            "description": "Transfórmate en un guardián alado.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Amesha"
+        },
+        "it": {
+            "item_name": "Amesha Set",
+            "description": "Trasformati in un guardiano alato.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Amesha/Main"
+        },
+        "pl": {
+            "item_name": "Amesha: Zestaw",
+            "description": "Przeistocz się w skrzydlatego stróża.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Amesha"
+        },
+        "uk": {
+            "item_name": "Амеша (комплект)",
+            "description": "Оберніться на крилатого охоронця.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Amesha"
+        }
     },
     "mastery_level": 0,
     "trading_tax": 6000

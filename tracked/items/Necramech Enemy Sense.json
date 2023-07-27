@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarEnemyRadarMod"
     },
-    "en": {
-        "item_name": "Necramech Enemy Sense",
-        "description": "+30 Enemy Radar",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
-    },
-    "ru": {
-        "item_name": "Инстинкт Охотника Некрамеха",
-        "description": "Обнаружение противника в радиусе +30 м",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D1%82_%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
-    },
-    "ko": {
-        "item_name": "네크라메크 에너미 센스",
-        "description": "+30 적 감지",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
-    },
-    "de": {
-        "item_name": "Necramech: Feindgespür",
-        "description": "+30 Feindradar",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
-    },
-    "fr": {
-        "item_name": "Perception Des Ennemis Du Necramech",
-        "description": "+30 Radar Ennemi",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Perception_des_Ennemis_du_Necramech"
-    },
-    "pt": {
-        "item_name": "Necramech Enemy Sense",
-        "description": "+30 Radar de Inimigos",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
-    },
-    "zh-hans": {
-        "item_name": "殁世机甲 敌人感应",
-        "description": "+30 侦敌雷达",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Enemy_Sense"
-    },
-    "zh-hant": {
-        "item_name": "亡骸機甲 敵人感應",
-        "description": "+30 偵敵雷達",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Enemy_Sense"
-    },
-    "es": {
-        "item_name": "Sensor Enemigo Necramech",
-        "description": "+30 de radar enemigo",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
-    },
-    "it": {
-        "item_name": "Necramech Enemy Sense",
-        "description": "+30 Radar Nemici",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
-    },
-    "pl": {
-        "item_name": "Nekramechowe Wyczucie Wroga",
-        "description": "+30 Wykrywacz Wrogów",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
-    },
-    "uk": {
-        "item_name": "Чуття Ворога Некрамеха",
-        "description": "Виявляє ворогів у межах +30 м.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
+    "i18n": {
+        "en": {
+            "item_name": "Necramech Enemy Sense",
+            "description": "+30 Enemy Radar",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense",
+            "icon": "items/images/en/necramech_enemy_sense.de301a61767696956074a51cbfc03dd7.png",
+            "thumb": "items/images/en/thumbs/necramech_enemy_sense.de301a61767696956074a51cbfc03dd7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Инстинкт Охотника Некрамеха",
+            "description": "Обнаружение противника в радиусе +30 м",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D1%82_%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
+        },
+        "ko": {
+            "item_name": "네크라메크 에너미 센스",
+            "description": "+30 적 감지",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
+        },
+        "de": {
+            "item_name": "Necramech: Feindgespür",
+            "description": "+30 Feindradar",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
+        },
+        "fr": {
+            "item_name": "Perception Des Ennemis Du Necramech",
+            "description": "+30 Radar Ennemi",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Perception_des_Ennemis_du_Necramech"
+        },
+        "pt": {
+            "item_name": "Necramech Enemy Sense",
+            "description": "+30 Radar de Inimigos",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
+        },
+        "zh-hans": {
+            "item_name": "殁世机甲 敌人感应",
+            "description": "+30 侦敌雷达",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Enemy_Sense"
+        },
+        "zh-hant": {
+            "item_name": "亡骸機甲 敵人感應",
+            "description": "+30 偵敵雷達",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Enemy_Sense"
+        },
+        "es": {
+            "item_name": "Sensor Enemigo Necramech",
+            "description": "+30 de radar enemigo",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
+        },
+        "it": {
+            "item_name": "Necramech Enemy Sense",
+            "description": "+30 Radar Nemici",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
+        },
+        "pl": {
+            "item_name": "Nekramechowe Wyczucie Wroga",
+            "description": "+30 Wykrywacz Wrogów",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
+        },
+        "uk": {
+            "item_name": "Чуття Ворога Некрамеха",
+            "description": "Виявляє ворогів у межах +30 м",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Enemy_Sense"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

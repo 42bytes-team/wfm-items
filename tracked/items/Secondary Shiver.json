@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryExtraDamagePerFreezeStack"
     },
-    "en": {
-        "item_name": "Secondary Shiver",
-        "description": "Enemies take +45% damage per Cold Status",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Вторичная Дрожь",
-        "description": "Враги получают +45% урона за каждый наложенный статус холода",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "세컨더리 쉬버",
-        "description": "적들에게 냉기 상태 이상 중첩 당 +45% 피해",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Arkana: Sekundärer Schauer",
-        "description": "Feinde erleiden +45 % Schaden pro Kältestatus",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Frémissement - Secondaire",
-        "description": "Les ennemis subissent +45% de Dégâts par Effet de Statut de Glace",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Calafrio (Armas Secundárias)",
-        "description": "Inimigos receberão +45% de Dano por cada Efeito de Status Glacial",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "次要·冷颤",
-        "description": "每层 冰冻异常状态会使敌人受到 +45% 的伤害",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "次要寒顫",
-        "description": "每層 冰凍觸發狀態效果使敵人受到 +45% 傷害",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Escalofrío Secundario",
-        "description": "Los enemigos reciben +45 % de daño por el estado de frío",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Secondary Shiver",
-        "description": "I nemici subiscono +45% danno per Effetto Ghiaccio",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Boczny Dreszcz",
-        "description": "Przeciwnicy otrzymują +45% Obrażeń za każdą instancję Efektu Statusu Obr. od Zimna",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Допоміжне Тремтіння",
-        "description": "Вороги отримують +45% шкоди за крижаний ефект стану.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Secondary Shiver",
+            "description": "Enemies take +45% damage per Cold Status",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_shiver.e169db6259133538ca86090ac481840a.png",
+            "thumb": "items/images/en/thumbs/secondary_shiver.e169db6259133538ca86090ac481840a.128x128.png"
+        },
+        "ru": {
+            "item_name": "Вторичная Дрожь",
+            "description": "Враги получают +45% урона за каждый наложенный статус холода",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "세컨더리 쉬버",
+            "description": "적들에게 냉기 상태 이상 중첩 당 +45% 피해",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Arkana: Sekundärer Schauer",
+            "description": "Feinde erleiden +45 % Schaden pro Kältestatus",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Frémissement - Secondaire",
+            "description": "Les ennemis subissent +45% de Dégâts par Effet de Statut de Glace",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Calafrio (Armas Secundárias)",
+            "description": "Inimigos receberão +45% de Dano por cada Efeito de Status Glacial",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "次要·冷颤",
+            "description": "每层 冰冻异常状态会使敌人受到 +45% 的伤害",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "次要寒顫",
+            "description": "每層 冰凍觸發狀態效果使敵人受到 +45% 傷害",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Escalofrío Secundario",
+            "description": "Los enemigos reciben +45 % de daño por el estado de frío",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Secondary Shiver",
+            "description": "I nemici subiscono +45% danno per Effetto Ghiaccio",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Boczny Dreszcz",
+            "description": "Przeciwnicy otrzymują +45% Obrażeń za każdą instancję Efektu Statusu Obr. od Zimna",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Допоміжне Тремтіння",
+            "description": "Вороги отримують +45% шкоди за крижаний ефект стану.",
+            "wiki_link": null
+        }
     },
     "rarity": "legendary",
     "max_rank": 5,

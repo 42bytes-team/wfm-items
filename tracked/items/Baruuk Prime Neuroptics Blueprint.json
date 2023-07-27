@@ -24,65 +24,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Baruuk Prime Neuroptics Blueprint",
-        "description": "Neuroptics component of the Baruuk Prime Warframe.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Баруук Прайм: Нейрооптика (Чертеж)",
-        "description": "Компонент варфрейма Баруук Прайм - нейрооптика.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "바루크 프라임 뉴로옵틱스 설계도",
-        "description": "바루크 프라임 워프레임의 뉴로옵틱스 부분입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Baruuk Prime: Neuroptik Blaupause",
-        "description": "Neuroptik-Komponente für den Baruuk Prime Warframe.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Baruuk Prime - Neuroptiques (Schéma)",
-        "description": "Le composant Neuroptiques de la Warframe Baruuk Prime.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Baruuk Prime: Neurovisor (Diagrama)",
-        "description": "Neurovisor componente do Warframe Baruuk Prime.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "Baruuk Prime 头部神经光元 蓝图",
-        "description": "Baruuk Prime 战甲的头部神经光元组件。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "Baruuk Prime 頭部神經光元 藍圖",
-        "description": "Baruuk Warframe 的頭部神經光元組件。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Neurópticas De Baruuk Prime",
-        "description": "Componente de las neurópticas del warframe Baruuk Prime.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Baruuk Prime - Neurottiche (Schema)",
-        "description": "Il componente Neurottiche per il Warframe Baruuk Prime.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Baruuk Prime: Neurooptyka - Schemat",
-        "description": "Neurooptyka dla Warframe'a Baruuk Prime.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Баруук-Прайм: Нейроптика (креслення)",
-        "description": "Деталі нейроптики для ворфрейма Баруука-прайм.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Baruuk Prime Neuroptics Blueprint",
+            "description": "Neuroptics component of the Baruuk Prime Warframe.",
+            "wiki_link": null,
+            "icon": "items/images/en/baruuk_prime_neuroptics_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png",
+            "thumb": "items/images/en/thumbs/baruuk_prime_neuroptics_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Баруук Прайм: Нейрооптика (Чертеж)",
+            "description": "Компонент варфрейма Баруук Прайм - нейрооптика.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "바루크 프라임 뉴로옵틱스 설계도",
+            "description": "바루크 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Baruuk Prime: Neuroptik Blaupause",
+            "description": "Neuroptik-Komponente für den Baruuk Prime Warframe.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Baruuk Prime - Neuroptiques (Schéma)",
+            "description": "Le composant Neuroptiques de la Warframe Baruuk Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Baruuk Prime: Neurovisor (Diagrama)",
+            "description": "Neurovisor componente do Warframe Baruuk Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "Baruuk Prime 头部神经光元 蓝图",
+            "description": "Baruuk Prime 战甲的头部神经光元组件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Baruuk Prime 頭部神經光元 藍圖",
+            "description": "Baruuk Warframe 的頭部神經光元組件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Neurópticas De Baruuk Prime",
+            "description": "Componente de las neurópticas del warframe Baruuk Prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Baruuk Prime - Neurottiche (Schema)",
+            "description": "Il componente Neurottiche per il Warframe Baruuk Prime.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Baruuk Prime: Neurooptyka - Schemat",
+            "description": "Neurooptyka dla Warframe'a Baruuk Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Баруук-Прайм: Нейроптика (креслення)",
+            "description": "Деталі нейроптики для ворфрейма Баруука-прайм.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 0,
     "ducats": 100,

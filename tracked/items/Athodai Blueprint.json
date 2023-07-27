@@ -22,65 +22,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Athodai Blueprint",
-        "description": "Reverse-engineered from propulsion tech this hand-cannon packs a kick. Headshots kills trigger Overdrive, locking off secondary functions while maximizing your fire rate and ammo efficiency for a short time.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "ru": {
-        "item_name": "Атодай (Чертеж)",
-        "description": "Эта ручная пушка, созданная с применением реактивных технологий, обладает большой отдачей. Выстрелы в голову вызывают Перегрузку, кратковременно выключая вторичные функции и одновременно доводя до максимума скорострельность и эффективность боеприпасов.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BE%D0%B4%D0%B0%D0%B9"
-    },
-    "ko": {
-        "item_name": "아쏘다이 설계도",
-        "description": "로켓 분사 기술에서 역설계된 이 핸드 캐논은 강력한 한방을 선사합니다. 헤드샷 처치 시 오버드라이브 상태를 발동시키며, 잠시간 보조 기능을 잠그는 대신 연사력과 탄약 효율을 최대화할 수 있게 됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "de": {
-        "item_name": "Athodai Blaupause",
-        "description": "Rückentwickelt aus Antriebs-Tech hat diese Handkanone einen harten Stoß. Kopfschuss-Kills lösen eine Übersteuerung aus, die Sekundärfunktionen ausschaltet, um Feuerrate und Munitionseffizienz für kurze Zeit zu maximieren.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "fr": {
-        "item_name": "Athodai (Schéma)",
-        "description": "Produit de la rétro-ingénierie de la technologie de propulsion, ce canon portatif promet un recul mémorable. Les Tirs à la Tête mortels déclenchent une Surcharge qui désactive ses fonctions secondaires tout en maximisant pendant une courte durée sa Cadence de tir et l'Efficacité des Munitions.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Athodai"
-    },
-    "pt": {
-        "item_name": "Athodai (Diagrama)",
-        "description": "Elaborado com base na engenharia reversa, a partir da tecnologia de propulsão, este canhão de mão possui um impulso memorável, praticamente um coice bélico. Abates com Acertos de Precisão provocam uma Sobrecarga, a qual bloqueia funções secundárias, enquanto maximiza a sua cadência de tiro e a sua eficiência de munição por um curto período.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "zh-hans": {
-        "item_name": "阿索代 蓝图",
-        "description": "（英文：ATHODAI）这款强力手枪由喷射推进器技术逆向设计而成。爆头击杀会触发超载状态，该状态将关闭次要射击功能，以在短时间内最大化你的射速和弹药效率。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Athodai"
-    },
-    "zh-hant": {
-        "item_name": "厄索戴 藍圖",
-        "description": "（英文：ATHODAI）這把手銃是由噴射推進科技逆向工程設計而成，後座力極強。爆頭擊殺會觸發超載並關閉輔助功能，短暫地將射速及彈藥效率最大化。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Athodai"
-    },
-    "es": {
-        "item_name": "Plano de Athodai",
-        "description": "Por ingeniería inversa de tecnología de propulsión, este cañón de mano contiene una fuerza tremenda. Los asesinatos por disparos a la cabeza activan la sobrecarga, bloqueando las funciones secundarias mientras maximizan tu cadencia de fuego y eficiencia de munición por un corto periodo de tiempo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "it": {
-        "item_name": "Athodai (Schema)",
-        "description": "Prodotto reingegnerizzato dalla tecnologia di propulsione, questo cannone racchiude una grande forza. Le uccisioni con i Colpi alla Testa attivano l'Overdrive bloccando le funzioni secondarie, mentre viene massimizzata la tua Cadenza di Tiro e l'efficienza munizioni per un breve periodo di tempo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "pl": {
-        "item_name": "Athodai - Schemat",
-        "description": "Ciężki pistolet o znacznej sile obalającej. Został wytworzony poprzez inżynierię wsteczną silnika odrzutowego. Zabójstwa strzałem w głowę przyznają premię Przeciążenia,. która przez krótki czas zwiększa szybkostrzelność i wydajność amunicji kosztem zablokowania ognia alternatywnego.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "uk": {
-        "item_name": "Атодай (креслення)",
-        "description": "Ручна гармата, потужність і віддачу якої забезпечують технології зорелітних рушіїв. Влучання в голову з Атодая забезпечать вас станом «Надзусилля», яке тимчасово блокує можливість ведення вогню в альтернативному режимі, але збільшує швидкострільність та дієвість набоїв.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+    "i18n": {
+        "en": {
+            "item_name": "Athodai Blueprint",
+            "description": "Reverse-engineered from propulsion tech this hand-cannon packs a kick. Headshots kills trigger Overdrive, locking off secondary functions while maximizing your fire rate and ammo efficiency for a short time.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai",
+            "icon": "items/images/en/athodai_blueprint.df278ff7a927e6fa6e2c3a20f4ccdcfb.png",
+            "thumb": "items/images/en/thumbs/athodai_blueprint.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png"
+        },
+        "ru": {
+            "item_name": "Атодай (Чертеж)",
+            "description": "Эта ручная пушка, созданная с применением реактивных технологий, обладает большой отдачей. Выстрелы в голову вызывают Перегрузку, кратковременно выключая вторичные функции и одновременно доводя до максимума скорострельность и эффективность боеприпасов.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BE%D0%B4%D0%B0%D0%B9"
+        },
+        "ko": {
+            "item_name": "아쏘다이 설계도",
+            "description": "로켓 분사 기술에서 역설계된 이 핸드 캐논은 강력한 한방을 선사합니다. 헤드샷 처치 시 오버드라이브 상태를 발동시키며, 잠시간 보조 기능을 잠그는 대신 연사력과 탄약 효율을 최대화할 수 있게 됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "de": {
+            "item_name": "Athodai Blaupause",
+            "description": "Rückentwickelt aus Antriebs-Tech hat diese Handkanone einen harten Stoß. Kopfschuss-Kills lösen eine Übersteuerung aus, die Sekundärfunktionen ausschaltet, um Feuerrate und Munitionseffizienz für kurze Zeit zu maximieren.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "fr": {
+            "item_name": "Athodai (Schéma)",
+            "description": "Produit de la rétro-ingénierie de la technologie de propulsion, ce canon portatif promet un recul mémorable. Les Tirs à la Tête mortels déclenchent une Surcharge qui désactive ses fonctions secondaires tout en maximisant pendant une courte durée sa Cadence de tir et l'Efficacité des Munitions.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Athodai"
+        },
+        "pt": {
+            "item_name": "Athodai (Diagrama)",
+            "description": "Elaborado com base na engenharia reversa, a partir da tecnologia de propulsão, este canhão de mão possui um impulso memorável, praticamente um coice bélico. Abates com Acertos de Precisão provocam uma Sobrecarga, a qual bloqueia funções secundárias, enquanto maximiza a sua cadência de tiro e a sua eficiência de munição por um curto período.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "zh-hans": {
+            "item_name": "阿索代 蓝图",
+            "description": "（英文：ATHODAI）这款强力手枪由喷射推进器技术逆向设计而成。爆头击杀会触发超载状态，该状态将关闭次要射击功能，以在短时间内最大化你的射速和弹药效率。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Athodai"
+        },
+        "zh-hant": {
+            "item_name": "厄索戴 藍圖",
+            "description": "（英文：ATHODAI）這把手銃是由噴射推進科技逆向工程設計而成，後座力極強。爆頭擊殺會觸發超載並關閉輔助功能，短暫地將射速及彈藥效率最大化。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Athodai"
+        },
+        "es": {
+            "item_name": "Plano de Athodai",
+            "description": "Por ingeniería inversa de tecnología de propulsión, este cañón de mano contiene una fuerza tremenda. Los asesinatos por disparos a la cabeza activan la sobrecarga, bloqueando las funciones secundarias mientras maximizan tu cadencia de fuego y eficiencia de munición por un corto periodo de tiempo.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "it": {
+            "item_name": "Athodai (Schema)",
+            "description": "Prodotto reingegnerizzato dalla tecnologia di propulsione, questo cannone racchiude una grande forza. Le uccisioni con i Colpi alla Testa attivano l'Overdrive bloccando le funzioni secondarie, mentre viene massimizzata la tua Cadenza di Tiro e l'efficienza munizioni per un breve periodo di tempo.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "pl": {
+            "item_name": "Athodai - Schemat",
+            "description": "Ciężki pistolet o znacznej sile obalającej. Został wytworzony poprzez inżynierię wsteczną silnika odrzutowego. Zabójstwa strzałem w głowę przyznają premię Przeciążenia,. która przez krótki czas zwiększa szybkostrzelność i wydajność amunicji kosztem zablokowania ognia alternatywnego.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "uk": {
+            "item_name": "Атодай (креслення)",
+            "description": "Ручна гармата, потужність і віддачу якої забезпечують технології зорелітних рушіїв. Влучання в голову з Атодая забезпечать вас станом «Надзусилля», яке тимчасово блокує можливість ведення вогню в альтернативному режимі, але збільшує швидкострільність та дієвість набоїв.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        }
     },
     "mastery_level": 10,
     "trading_tax": 2000

@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackSprintSpeedMod"
     },
-    "en": {
-        "item_name": "Runtime",
-        "description": "+75% Sprint Speed for 15s after Hacking",
-        "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
-    },
-    "ru": {
-        "item_name": "Быстрое Исполнение",
-        "description": "+75% к Скорости Бега после Взлома на 15с",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5_%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/runtime.077469e8a1b9de47f52728820b74bdbf.png",
-        "thumb": "items/images/ru/thumbs/runtime.077469e8a1b9de47f52728820b74bdbf.128x128.png"
-    },
-    "ko": {
-        "item_name": "런타임",
-        "description": "해킹 후 15초 동안 +75% 질주 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
-    },
-    "de": {
-        "item_name": "Laufzeit",
-        "description": "+75 % Sprintgeschwindigkeit für 15 s nach dem Hacken",
-        "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
-    },
-    "fr": {
-        "item_name": "Exécution Rapide",
-        "description": "+75% de Vitesse de Mouvement pendant 15s après un Piratage",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ex%C3%A9cution_Rapide"
-    },
-    "pt": {
-        "item_name": "Runtime",
-        "description": "+75% de Velocidade da Corrida durante 15s após a Invasão",
-        "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
-    },
-    "zh-hans": {
-        "item_name": "溜之大吉",
-        "description": "入侵后增加 75 %冲刺速度，持续 15 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Runtime"
-    },
-    "zh-hant": {
-        "item_name": "快閃時間",
-        "description": "入侵後衝刺速度增加 75%，持續 15 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Runtime"
-    },
-    "es": {
-        "item_name": "Tiempo De Ejecución",
-        "description": "+75% de velocidad de correr por 15s después de hackear",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tiempo_de_ejecuci%C3%B3n"
-    },
-    "it": {
-        "item_name": "Runtime",
-        "description": "+ 75% Velocità Scatto per 15s dopo l'Hacking",
-        "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
-    },
-    "pl": {
-        "item_name": "Optymalizacja",
-        "description": "+75% Szybkości Sprintu przez 15s po udanym Hakowaniu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Optymalizacja"
-    },
-    "uk": {
-        "item_name": "Динаміка",
-        "description": "+75% до швидкості бігу на 15 с після зламу.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
+    "i18n": {
+        "en": {
+            "item_name": "Runtime",
+            "description": "+75% Sprint Speed for 15s after Hacking",
+            "wiki_link": "https://warframe.fandom.com/wiki/Runtime",
+            "icon": "items/images/en/runtime.01958fa28f5f3acc1b83faa2339a9b75.png",
+            "thumb": "items/images/en/thumbs/runtime.01958fa28f5f3acc1b83faa2339a9b75.128x128.png"
+        },
+        "ru": {
+            "item_name": "Быстрое Исполнение",
+            "description": "+75% к Скорости Бега после Взлома на 15с",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5_%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/runtime.077469e8a1b9de47f52728820b74bdbf.png",
+            "thumb": "items/images/ru/thumbs/runtime.077469e8a1b9de47f52728820b74bdbf.128x128.png"
+        },
+        "ko": {
+            "item_name": "런타임",
+            "description": "해킹 후 15초 동안 +75% 질주 속도",
+            "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
+        },
+        "de": {
+            "item_name": "Laufzeit",
+            "description": "+75 % Sprintgeschwindigkeit für 15 s nach dem Hacken",
+            "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
+        },
+        "fr": {
+            "item_name": "Exécution Rapide",
+            "description": "+75% de Vitesse de Mouvement pendant 15s après un Piratage",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Ex%C3%A9cution_Rapide"
+        },
+        "pt": {
+            "item_name": "Runtime",
+            "description": "+75% de Velocidade da Corrida durante 15s após a Invasão",
+            "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
+        },
+        "zh-hans": {
+            "item_name": "溜之大吉",
+            "description": "入侵后增加 75 %冲刺速度，持续 15 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Runtime"
+        },
+        "zh-hant": {
+            "item_name": "快閃時間",
+            "description": "入侵後衝刺速度增加 75%，持續 15 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Runtime"
+        },
+        "es": {
+            "item_name": "Tiempo De Ejecución",
+            "description": "+75% de velocidad de correr por 15s después de hackear",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tiempo_de_ejecuci%C3%B3n"
+        },
+        "it": {
+            "item_name": "Runtime",
+            "description": "+ 75% Velocità Scatto per 15s dopo l'Hacking",
+            "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
+        },
+        "pl": {
+            "item_name": "Optymalizacja",
+            "description": "+75% Szybkości Sprintu przez 15s po udanym Hakowaniu",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Optymalizacja"
+        },
+        "uk": {
+            "item_name": "Динаміка",
+            "description": "+75% до швидкості бігу на 15 с після зламу",
+            "wiki_link": "https://warframe.fandom.com/wiki/Runtime"
+        }
     },
     "rarity": "rare",
     "trading_tax": 8000

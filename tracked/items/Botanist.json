@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelPrecepts/PlantScannerPrecept"
     },
-    "en": {
-        "item_name": "Botanist",
-        "description": "Oxylus Sentinel will scan plants within 50m over 2.0s. This consumes codex scanner charges.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
-    },
-    "ru": {
-        "item_name": "Ботаник",
-        "description": "Позволяет Стражу Оксилус сканировать растения в радиусе 50м с задержкой в 2с. При этом расходуются заряды Сканера Кодекса.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA"
-    },
-    "ko": {
-        "item_name": "보타니스트",
-        "description": "옥실러스 센티넬이 2.0초 동안 50m 내에 있는 식물을 스캔합니다. 소모품에 장착된 코덱스 스캐너 또는 신디시스 스캐너를 소모합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
-    },
-    "de": {
-        "item_name": "Botaniker",
-        "description": "Oxylus scannt Pflanzen innerhalb von 50 m über 2 s. Dabei werden Codex-Scanner Aufladungen verbraucht.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
-    },
-    "fr": {
-        "item_name": "Botaniste",
-        "description": "La Sentinelle Oxylus va scanner les plantes dans un rayon de 50m pendant 2s. Cela utilise des Scanneurs du Codex.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Botaniste"
-    },
-    "pt": {
-        "item_name": "Botanist",
-        "description": "A Sentinela Oxylus irá escanear plantas dentro de 50m por 2s. Esta ação consome cargas do Escâner do Codex.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Banish"
-    },
-    "zh-hans": {
-        "item_name": "植物学家",
-        "description": "奥克绪罗斯守护会消耗资料库扫描器，来扫描 50 米范围内的植物，耗时 2.0 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Botanist"
-    },
-    "zh-hant": {
-        "item_name": "植物學家",
-        "description": "奧克緒羅斯守護會掃描 50 公尺內的植物，耗時 2.0 秒。會消耗資料庫掃描器。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Botanist"
-    },
-    "es": {
-        "item_name": "Botánico",
-        "description": "El centinela Oxylus escaneará plantas en un radio de 50m durante 2s. Al hacerlo consumirá cargas del escáner del códice.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Bot%C3%A1nico"
-    },
-    "it": {
-        "item_name": "Botanist",
-        "description": "La Sentinella Oxylus scansionerà le piante nel raggio di 50m in 2s. Questo consumerà cariche codex scanner.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
-    },
-    "pl": {
-        "item_name": "Botanik",
-        "description": "Strażnik Oxylus zeskanuje rośliny w zasięgu 50m w ciągu 2.0s. Konsumuje to ładunki skanera kodeksu.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
-    },
-    "uk": {
-        "item_name": "Ботанік",
-        "description": "Вартовий Оксил зчитуватиме дані рослин у межах 50 м протягом 2 с. Зчитування використовує заряди зчитувача збірника знань.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
+    "i18n": {
+        "en": {
+            "item_name": "Botanist",
+            "description": "Oxylus Sentinel will scan plants within 50m over 2.0s. This consumes codex scanner charges.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Botanist",
+            "icon": "items/images/en/botanist.b85b4581c7f62b7b89950383753866d4.png",
+            "thumb": "items/images/en/thumbs/botanist.b85b4581c7f62b7b89950383753866d4.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ботаник",
+            "description": "Позволяет Стражу Оксилус сканировать растения в радиусе 50м с задержкой в 2с. При этом расходуются заряды Сканера Кодекса.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA"
+        },
+        "ko": {
+            "item_name": "보타니스트",
+            "description": "옥실러스 센티넬이 2.0초 동안 50m 내에 있는 식물을 스캔합니다. 소모품에 장착된 코덱스 스캐너 또는 신디시스 스캐너를 소모합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
+        },
+        "de": {
+            "item_name": "Botaniker",
+            "description": "Oxylus scannt Pflanzen innerhalb von 50 m über 2 s. Dabei werden Codex-Scanner Aufladungen verbraucht.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
+        },
+        "fr": {
+            "item_name": "Botaniste",
+            "description": "La Sentinelle Oxylus va scanner les plantes dans un rayon de 50m pendant 2s. Cela utilise des Scanneurs du Codex.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Botaniste"
+        },
+        "pt": {
+            "item_name": "Botanist",
+            "description": "A Sentinela Oxylus irá escanear plantas dentro de 50m por 2s. Esta ação consome cargas do Escâner do Codex.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Banish"
+        },
+        "zh-hans": {
+            "item_name": "植物学家",
+            "description": "奥克绪罗斯守护会消耗资料库扫描器，来扫描 50 米范围内的植物，耗时 2.0 秒。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Botanist"
+        },
+        "zh-hant": {
+            "item_name": "植物學家",
+            "description": "奧克緒羅斯守護會掃描 50 公尺內的植物，耗時 2.0 秒。會消耗資料庫掃描器。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Botanist"
+        },
+        "es": {
+            "item_name": "Botánico",
+            "description": "El centinela Oxylus escaneará plantas en un radio de 50m durante 2s. Al hacerlo consumirá cargas del escáner del códice.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Bot%C3%A1nico"
+        },
+        "it": {
+            "item_name": "Botanist",
+            "description": "La Sentinella Oxylus scansionerà le piante nel raggio di 50m in 2s. Questo consumerà cariche codex scanner.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
+        },
+        "pl": {
+            "item_name": "Botanik",
+            "description": "Strażnik Oxylus zeskanuje rośliny w zasięgu 50m w ciągu 2.0s. Konsumuje to ładunki skanera kodeksu.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
+        },
+        "uk": {
+            "item_name": "Ботанік",
+            "description": "Вартовий Оксил зчитуватиме дані рослин у межах 50 м протягом 2 с. Зчитування використовує заряди зчитувача збірника знань.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Botanist"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

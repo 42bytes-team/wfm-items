@@ -21,65 +21,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Rathbone Head",
-        "description": "An Archwing weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rathbone"
-    },
-    "ru": {
-        "item_name": "Рэтбон: Молот",
-        "description": "Компонент оружия арчвинга.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D1%8D%D1%82%D0%B1%D0%BE%D0%BD"
-    },
-    "ko": {
-        "item_name": "래스본 헤드",
-        "description": "아크윙 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rathbone"
-    },
-    "de": {
-        "item_name": "Rathbone: Kopf",
-        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Rathbone"
-    },
-    "fr": {
-        "item_name": "Rathbone - Tête",
-        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Rathbone"
-    },
-    "pt": {
-        "item_name": "Rathbone: Extremidade",
-        "description": "Um componente de fabricação de armas Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rathbone"
-    },
-    "zh-hans": {
-        "item_name": "拉斯波恩 锤头",
-        "description": "一个 Archwing 武器制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rathbone"
-    },
-    "zh-hant": {
-        "item_name": "拉斯波恩 鎚頭",
-        "description": "製作 Archwing 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rathbone"
-    },
-    "es": {
-        "item_name": "Cabeza De Rathbone",
-        "description": "Un componente de fabricación de arma de archwing.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Rathbone"
-    },
-    "it": {
-        "item_name": "Rathbone - Testa",
-        "description": "Un componente per la costruzione di un'arma Archwing.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Rathbone"
-    },
-    "pl": {
-        "item_name": "Rathbone: Głowica",
-        "description": "Element wytwarzania broni Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rathbone"
-    },
-    "uk": {
-        "item_name": "Ретбон: Верхів’я",
-        "description": "Деталь зброї арквінґа.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rathbone"
+    "i18n": {
+        "en": {
+            "item_name": "Rathbone Head",
+            "description": "An Archwing weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rathbone",
+            "icon": "items/images/en/rathbone_head.7e6a0db9a09fae95a9f6a4e96b1f0979.png",
+            "thumb": "items/images/en/thumbs/rathbone_head.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png"
+        },
+        "ru": {
+            "item_name": "Рэтбон: Молот",
+            "description": "Компонент оружия арчвинга.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D1%8D%D1%82%D0%B1%D0%BE%D0%BD"
+        },
+        "ko": {
+            "item_name": "래스본 헤드",
+            "description": "아크윙 무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rathbone"
+        },
+        "de": {
+            "item_name": "Rathbone: Kopf",
+            "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Rathbone"
+        },
+        "fr": {
+            "item_name": "Rathbone - Tête",
+            "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Rathbone"
+        },
+        "pt": {
+            "item_name": "Rathbone: Extremidade",
+            "description": "Um componente de fabricação de armas Archwing.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rathbone"
+        },
+        "zh-hans": {
+            "item_name": "拉斯波恩 锤头",
+            "description": "一个 Archwing 武器制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rathbone"
+        },
+        "zh-hant": {
+            "item_name": "拉斯波恩 鎚頭",
+            "description": "製作 Archwing 武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rathbone"
+        },
+        "es": {
+            "item_name": "Cabeza De Rathbone",
+            "description": "Un componente de fabricación de arma de archwing.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Rathbone"
+        },
+        "it": {
+            "item_name": "Rathbone - Testa",
+            "description": "Un componente per la costruzione di un'arma Archwing.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Rathbone"
+        },
+        "pl": {
+            "item_name": "Rathbone: Głowica",
+            "description": "Element wytwarzania broni Archwing.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Rathbone"
+        },
+        "uk": {
+            "item_name": "Ретбон: Верхів’я",
+            "description": "Деталь зброї арквінґа.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rathbone"
+        }
     },
     "mastery_level": 6,
     "trading_tax": 2000

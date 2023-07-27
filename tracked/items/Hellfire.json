@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFireDamageMod"
     },
-    "en": {
-        "item_name": "Hellfire",
-        "description": "+90% Heat",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hellfire"
-    },
-    "ru": {
-        "item_name": "Адское Пламя",
-        "description": "+90% урона огнем",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
-        "icon": "items/images/ru/hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.png",
-        "thumb": "items/images/ru/thumbs/hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png"
-    },
-    "ko": {
-        "item_name": "헬파이어",
-        "description": "+90% 화염",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hellfire"
-    },
-    "de": {
-        "item_name": "Höllenfeuer",
-        "description": "+90 % Hitze",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/H%C3%B6llenfeuer"
-    },
-    "fr": {
-        "item_name": "Feu Des Enfers",
-        "description": "+90% Feu",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Feu_des_enfers"
-    },
-    "pt": {
-        "item_name": "Hellfire",
-        "description": "+90% de Ígneo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hellfire"
-    },
-    "zh-hans": {
-        "item_name": "地狱火",
-        "description": "+90% 火焰伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hellfire"
-    },
-    "zh-hant": {
-        "item_name": "地獄火",
-        "description": "+90% 火焰傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hellfire"
-    },
-    "es": {
-        "item_name": "Fuego Infernal",
-        "description": "+90% de calor",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fuego_infernal"
-    },
-    "it": {
-        "item_name": "Hellfire",
-        "description": "+90% Fuoco",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Hellfire"
-    },
-    "pl": {
-        "item_name": "Ogień Piekielny",
-        "description": "+90% Obrażeń Ogniowych",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Ogie%C5%84_Piekielny"
-    },
-    "uk": {
-        "item_name": "Пекельний Вогонь",
-        "description": "+90% до термічної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hellfire"
+    "i18n": {
+        "en": {
+            "item_name": "Hellfire",
+            "description": "+90% Heat",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hellfire",
+            "icon": "items/images/en/hellfire.6b16f100ae3536c790154ad38b575e6d.png",
+            "thumb": "items/images/en/thumbs/hellfire.6b16f100ae3536c790154ad38b575e6d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Адское Пламя",
+            "description": "+90% урона огнем",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BC%D1%8F",
+            "icon": "items/images/ru/hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.png",
+            "thumb": "items/images/ru/thumbs/hellfire.46cda5f6ea3a0f1e50a57f3c452dd7b4.128x128.png"
+        },
+        "ko": {
+            "item_name": "헬파이어",
+            "description": "+90% 화염",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hellfire"
+        },
+        "de": {
+            "item_name": "Höllenfeuer",
+            "description": "+90 % Hitze",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/H%C3%B6llenfeuer"
+        },
+        "fr": {
+            "item_name": "Feu Des Enfers",
+            "description": "+90% Feu",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Feu_des_enfers"
+        },
+        "pt": {
+            "item_name": "Hellfire",
+            "description": "+90% de Ígneo",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hellfire"
+        },
+        "zh-hans": {
+            "item_name": "地狱火",
+            "description": "+90% 火焰伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hellfire"
+        },
+        "zh-hant": {
+            "item_name": "地獄火",
+            "description": "+90% 火焰傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hellfire"
+        },
+        "es": {
+            "item_name": "Fuego Infernal",
+            "description": "+90% de calor",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Fuego_infernal"
+        },
+        "it": {
+            "item_name": "Hellfire",
+            "description": "+90% Fuoco",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Hellfire"
+        },
+        "pl": {
+            "item_name": "Ogień Piekielny",
+            "description": "+90% Obrażeń Ogniowych",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Ogie%C5%84_Piekielny"
+        },
+        "uk": {
+            "item_name": "Пекельний Вогонь",
+            "description": "+90% до термічної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hellfire"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyABlueprint"
     },
-    "en": {
-        "item_name": "Adlet Core Blueprint",
-        "description": "",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Ядро: Адлет (Чертеж)",
-        "description": "",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "아들렛 코어 설계도",
-        "description": "",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Kern: Adlet Blaupause",
-        "description": "",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Cœur Adlet (Schéma)",
-        "description": "",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Núcleo: Adlet (Diagrama)",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "艾莱核心 蓝图",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "艾蕾核心 藍圖",
-        "description": "",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Núcleo Adlet",
-        "description": "",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Adlet - Nucleo (Schema)",
-        "description": "",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Rdzeń Adlet - Schemat",
-        "description": "",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Тулуб «Адлет» (креслення)",
-        "description": "",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Adlet Core Blueprint",
+            "description": "",
+            "wiki_link": null,
+            "icon": "items/images/en/adlet_core_blueprint.88651365af6eb6c11fb413c531b60b1a.png",
+            "thumb": "items/images/en/thumbs/adlet_core_blueprint.88651365af6eb6c11fb413c531b60b1a.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ядро: Адлет (Чертеж)",
+            "description": "",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "아들렛 코어 설계도",
+            "description": "",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Kern: Adlet Blaupause",
+            "description": "",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Cœur Adlet (Schéma)",
+            "description": "",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Núcleo: Adlet (Diagrama)",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "艾莱核心 蓝图",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "艾蕾核心 藍圖",
+            "description": "",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Núcleo Adlet",
+            "description": "",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Adlet - Nucleo (Schema)",
+            "description": "",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Rdzeń Adlet - Schemat",
+            "description": "",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Тулуб «Адлет» (креслення)",
+            "description": "",
+            "wiki_link": null
+        }
     },
     "mastery_level": 0,
     "trading_tax": 2000

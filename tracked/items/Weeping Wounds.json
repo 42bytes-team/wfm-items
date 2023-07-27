@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Melee/Event/ComboStatusChanceMod"
     },
-    "en": {
-        "item_name": "Weeping Wounds",
-        "description": "+40% Status Chance per Combo Multiplier",
-        "wiki_link": "https://warframe.fandom.com/wiki/Weeping_Wounds"
-    },
-    "ru": {
-        "item_name": "Стенающие Раны",
-        "description": "+40% к шансу статуса, увеличивается вместе с множителем комбо",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B5%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%A0%D0%B0%D0%BD%D1%8B",
-        "icon": "items/images/ru/weeping_wounds.c8164175deacef952964d64fac426559.png",
-        "thumb": "items/images/ru/thumbs/weeping_wounds.c8164175deacef952964d64fac426559.128x128.png"
-    },
-    "ko": {
-        "item_name": "위핑 운즈",
-        "description": "연속기 배수 당 +40% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Weeping_Wounds"
-    },
-    "de": {
-        "item_name": "Nässende Wunden",
-        "description": "+40 % Statuschance per Kombo-Multiplikator",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/N%C3%A4ssende_Wunden"
-    },
-    "fr": {
-        "item_name": "Blessures Suintantes",
-        "description": "+40% de Chance de Statut par Multiplicateur de Combo",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Blessures_Suintantes"
-    },
-    "pt": {
-        "item_name": "Weeping Wounds",
-        "description": "+40% de Chance de Status, cumulativa com o Multiplicador de Combo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Weeping_Wounds"
-    },
-    "zh-hans": {
-        "item_name": "创口溃烂",
-        "description": "连击倍率可叠加 +40% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Weeping_Wounds"
-    },
-    "zh-hant": {
-        "item_name": "創口潰爛",
-        "description": "連擊倍率可疊加 +40% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Weeping_Wounds"
-    },
-    "es": {
-        "item_name": "Heridas Supurantes",
-        "description": "+40% de probabilidad de estado por multiplicador de combo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Heridas_supurantes"
-    },
-    "it": {
-        "item_name": "Weeping Wounds",
-        "description": "+40% Probabilità Effetto aumenta con il Moltiplicatore Combo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Weeping_Wounds"
-    },
-    "pl": {
-        "item_name": "Krwawiące Rany",
-        "description": "+40% Szansy Statusu wzrasta wraz z Mnożnikiem Kombo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Weeping_Wounds"
-    },
-    "uk": {
-        "item_name": "Відкриті Рани",
-        "description": "+40% до ймовірності застосування ефекту стану за множник серії.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Weeping_Wounds"
+    "i18n": {
+        "en": {
+            "item_name": "Weeping Wounds",
+            "description": "+40% Status Chance per Combo Multiplier",
+            "wiki_link": "https://warframe.fandom.com/wiki/Weeping_Wounds",
+            "icon": "items/images/en/weeping_wounds.b1b82c8b21d3fb09861b8f004f4278cf.png",
+            "thumb": "items/images/en/thumbs/weeping_wounds.b1b82c8b21d3fb09861b8f004f4278cf.128x128.png"
+        },
+        "ru": {
+            "item_name": "Стенающие Раны",
+            "description": "+40% к шансу статуса, увеличивается вместе с множителем комбо",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B5%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%A0%D0%B0%D0%BD%D1%8B",
+            "icon": "items/images/ru/weeping_wounds.c8164175deacef952964d64fac426559.png",
+            "thumb": "items/images/ru/thumbs/weeping_wounds.c8164175deacef952964d64fac426559.128x128.png"
+        },
+        "ko": {
+            "item_name": "위핑 운즈",
+            "description": "연속기 배수 당 +40% 상태 이상 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Weeping_Wounds"
+        },
+        "de": {
+            "item_name": "Nässende Wunden",
+            "description": "+40 % Statuschance per Kombo-Multiplikator",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/N%C3%A4ssende_Wunden"
+        },
+        "fr": {
+            "item_name": "Blessures Suintantes",
+            "description": "+40% de Chance de Statut par Multiplicateur de Combo",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Blessures_Suintantes"
+        },
+        "pt": {
+            "item_name": "Weeping Wounds",
+            "description": "+40% de Chance de Status, cumulativa com o Multiplicador de Combo",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Weeping_Wounds"
+        },
+        "zh-hans": {
+            "item_name": "创口溃烂",
+            "description": "连击倍率可叠加 +40% 触发几率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Weeping_Wounds"
+        },
+        "zh-hant": {
+            "item_name": "創口潰爛",
+            "description": "連擊倍率可疊加 +40% 觸發機率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Weeping_Wounds"
+        },
+        "es": {
+            "item_name": "Heridas Supurantes",
+            "description": "+40% de probabilidad de estado por multiplicador de combo",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Heridas_supurantes"
+        },
+        "it": {
+            "item_name": "Weeping Wounds",
+            "description": "+40% Probabilità Effetto aumenta con il Moltiplicatore Combo",
+            "wiki_link": "http://warframe.wikia.com/wiki/Weeping_Wounds"
+        },
+        "pl": {
+            "item_name": "Krwawiące Rany",
+            "description": "+40% Szansy Statusu wzrasta wraz z Mnożnikiem Kombo",
+            "wiki_link": "http://warframe.wikia.com/wiki/Weeping_Wounds"
+        },
+        "uk": {
+            "item_name": "Відкриті Рани",
+            "description": "+40% до ймовірності накладання ефекту стану за множник серії",
+            "wiki_link": "https://warframe.fandom.com/wiki/Weeping_Wounds"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

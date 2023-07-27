@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyOnFullShieldRegenMod"
     },
-    "en": {
-        "item_name": "Surplus Diverters",
-        "description": "Gain +6 energy, upon replenishing shields completely after they have been deactivated.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Surplus_Diverters"
-    },
-    "ru": {
-        "item_name": "Отвод Излишков",
-        "description": "Даёт +6 энергии, при полной регенерации щитов после того, как они были сняты.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D0%B2%D0%BE%D0%B4_%D0%98%D0%B7%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%B2",
-        "icon": "items/images/ru/surplus_diverters.03c7791e722ea417d1c34298f07f2bba.png",
-        "thumb": "items/images/ru/thumbs/surplus_diverters.03c7791e722ea417d1c34298f07f2bba.128x128.png"
-    },
-    "ko": {
-        "item_name": "서플러스 다이버터",
-        "description": "실드가 완전히 재충전된 후 +6의 에너지를 얻습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Surplus_Diverters"
-    },
-    "de": {
-        "item_name": "Überschussableiter",
-        "description": "Erhalte +6 Energie beim vollständigen Wiederherstellen deiner Schilde, nachdem diese deaktiviert waren.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/%C3%9Cberschussableiter"
-    },
-    "fr": {
-        "item_name": "Partiteurs De Surplus",
-        "description": "Vous obtenez +6 points d'Énergie après la recharge complète de vos Boucliers désactivés.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters"
-    },
-    "pt": {
-        "item_name": "Surplus Diverters",
-        "description": "Ganhará +6 de Energia ao recuperar completamente os Escudos após serem desativados.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters"
-    },
-    "zh-hans": {
-        "item_name": "残盾转换",
-        "description": "在护盾受损并恢复至全满后获得 +6 能量。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Surplus_Diverters"
-    },
-    "zh-hant": {
-        "item_name": "殘盾轉換",
-        "description": "在護盾受損並回復至全滿後獲得 +6 能量。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Surplus_Diverters"
-    },
-    "es": {
-        "item_name": "Desviadores Excedentes",
-        "description": "Ganas +6 de energía, hasta que los escudos se regeneren completamente después de que hayan sido desactivados.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Desviadores_excedentes"
-    },
-    "it": {
-        "item_name": "Surplus Diverters",
-        "description": "Restituisce +6 energia una volta ricaricati completamente gli scudi dopo che sono stati disattivati.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters"
-    },
-    "pl": {
-        "item_name": "Rozdzielacze Nadwyżki",
-        "description": "Zyskaj +6 punktów Energii, po kompletnej odnowie po ich dezaktywacji.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters"
-    },
-    "uk": {
-        "item_name": "Перенаправлення Надлишків",
-        "description": "Отримуйте +6 енергії після повного відновлення щитів від повного вимкнення.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Surplus_Diverters"
+    "i18n": {
+        "en": {
+            "item_name": "Surplus Diverters",
+            "description": "Gain +6 energy, upon replenishing shields completely after they have been deactivated.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Surplus_Diverters",
+            "icon": "items/images/en/surplus_diverters.09029ac49b2910d44f759dd05afc889e.png",
+            "thumb": "items/images/en/thumbs/surplus_diverters.09029ac49b2910d44f759dd05afc889e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Отвод Излишков",
+            "description": "Даёт +6 энергии, при полной регенерации щитов после того, как они были сняты.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D0%B2%D0%BE%D0%B4_%D0%98%D0%B7%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%B2",
+            "icon": "items/images/ru/surplus_diverters.03c7791e722ea417d1c34298f07f2bba.png",
+            "thumb": "items/images/ru/thumbs/surplus_diverters.03c7791e722ea417d1c34298f07f2bba.128x128.png"
+        },
+        "ko": {
+            "item_name": "서플러스 다이버터",
+            "description": "실드가 완전히 재충전된 후 +6의 에너지를 얻습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Surplus_Diverters"
+        },
+        "de": {
+            "item_name": "Überschussableiter",
+            "description": "Erhalte +6 Energie beim vollständigen Wiederherstellen deiner Schilde, nachdem diese deaktiviert waren.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/%C3%9Cberschussableiter"
+        },
+        "fr": {
+            "item_name": "Partiteurs De Surplus",
+            "description": "Vous obtenez +6 points d'Énergie après la recharge complète de vos Boucliers désactivés.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters"
+        },
+        "pt": {
+            "item_name": "Surplus Diverters",
+            "description": "Ganhará +6 de Energia ao recuperar completamente os Escudos após serem desativados.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters"
+        },
+        "zh-hans": {
+            "item_name": "残盾转换",
+            "description": "在护盾受损并恢复至全满后获得 +6 能量。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Surplus_Diverters"
+        },
+        "zh-hant": {
+            "item_name": "殘盾轉換",
+            "description": "在護盾受損並回復至全滿後獲得 +6 能量。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Surplus_Diverters"
+        },
+        "es": {
+            "item_name": "Desviadores Excedentes",
+            "description": "Ganas +6 de energía, hasta que los escudos se regeneren completamente después de que hayan sido desactivados.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Desviadores_excedentes"
+        },
+        "it": {
+            "item_name": "Surplus Diverters",
+            "description": "Restituisce +6 energia una volta ricaricati completamente gli scudi dopo che sono stati disattivati.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters"
+        },
+        "pl": {
+            "item_name": "Rozdzielacze Nadwyżki",
+            "description": "Zyskaj +6 punktów Energii, po kompletnej odnowie po ich dezaktywacji.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Surplus_Diverters"
+        },
+        "uk": {
+            "item_name": "Перенаправлення Надлишків",
+            "description": "Отримуйте +6 енергії після повного відновлення щитів від повного вимкнення.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Surplus_Diverters"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAlt"
     },
-    "en": {
-        "item_name": "Arcane Storm Helmet",
-        "description": "This helmet is worn by Volt, and increases Ability Strength, but reduces duration of Aim Glide and Wall Latch.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet"
-    },
-    "ru": {
-        "item_name": "Мистический Шлем: Шторм",
-        "description": "Этот шлем предназначен для Вольта. Он повышает cилу способности, но снижает время управляемого полета и фиксации на стене.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D0%B5%D0%BC%D0%BF"
-    },
-    "ko": {
-        "item_name": "아케인 스톰 헬멧",
-        "description": "볼트 전용의 헬멧으로, 에임 글라이드와 월 래치의 지속 시간을 감소시키고 어빌리티 위력을 증가시킵니다.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
-    },
-    "de": {
-        "item_name": "Arkaner Storm Helm",
-        "description": "Dieser Helm wird von Volt getragen und erhöht die Fähigkeitsstärke, reduziert aber die Dauer von Zielgleiten und Wandhalten.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
-    },
-    "fr": {
-        "item_name": "Casque Storm Arcane",
-        "description": "Ce casque est porté par Volt, et augmente la Puissance de Pouvoir, mais réduit la durée de Visée Planée et Prise Murale.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Casque_Arcane"
-    },
-    "pt": {
-        "item_name": "Volt: Capacete Storm (Arcano)",
-        "description": "Este capacete usado pelo Volt adiciona Força da Habilidade, mas reduz a duração do Planar e Mirar/Segurar na Parede.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
-    },
-    "zh-hans": {
-        "item_name": "风暴 秘奥头盔",
-        "description": "这顶头盔由 Volt 佩戴，它能提升技能强度，但会减少飞身瞄准与壁面攀附的持续时间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Helmet"
-    },
-    "zh-hant": {
-        "item_name": "風暴秘奧頭盔",
-        "description": "這頂頭盔由 Volt 配戴，它能提升技能強度，但會減少飛身瞄準與壁面攀附的持續時間。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Helmet"
-    },
-    "es": {
-        "item_name": "Casco Storm Arcano",
-        "description": "Este casco es usado por Volt, aumenta la fuerza de habilidad pero reduce la duración de planear y posarse.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Casco_arcano"
-    },
-    "it": {
-        "item_name": "Elmo Arcane Storm",
-        "description": "Questo elmo è indossato da Volt, aggiunge Potenza Abilità, ma riduce la durata dell'Aggrappata e della Planata.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
-    },
-    "pl": {
-        "item_name": "Volt: Hełm Arkanum Storm",
-        "description": "Hełm noszony przez Volta, zwiększa Siłę Umiejętności, ale zmniejsza czas Celowania w Locie i Przywarcia.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
-    },
-    "uk": {
-        "item_name": "Містичний Шолом «Шторм»",
-        "description": "Цей шолом збільшує потужність здібностей Вольта, але зменшує його тривалість прицілювання в повітрі та утримання на стінах.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet"
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Storm Helmet",
+            "description": "This helmet is worn by Volt, and increases Ability Strength, but reduces duration of Aim Glide and Wall Latch.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+            "icon": "items/images/en/arcane_storm_volt_helmet.08c146490c95048b62f0f9575b1b2d19.png",
+            "thumb": "items/images/en/thumbs/arcane_storm_volt_helmet.08c146490c95048b62f0f9575b1b2d19.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мистический Шлем: Шторм",
+            "description": "Этот шлем предназначен для Вольта. Он повышает cилу способности, но снижает время управляемого полета и фиксации на стене.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D0%B5%D0%BC%D0%BF"
+        },
+        "ko": {
+            "item_name": "아케인 스톰 헬멧",
+            "description": "볼트 전용의 헬멧으로, 에임 글라이드와 월 래치의 지속 시간을 감소시키고 어빌리티 위력을 증가시킵니다.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
+        },
+        "de": {
+            "item_name": "Arkaner Storm Helm",
+            "description": "Dieser Helm wird von Volt getragen und erhöht die Fähigkeitsstärke, reduziert aber die Dauer von Zielgleiten und Wandhalten.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
+        },
+        "fr": {
+            "item_name": "Casque Storm Arcane",
+            "description": "Ce casque est porté par Volt, et augmente la Puissance de Pouvoir, mais réduit la durée de Visée Planée et Prise Murale.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Casque_Arcane"
+        },
+        "pt": {
+            "item_name": "Volt: Capacete Storm (Arcano)",
+            "description": "Este capacete usado pelo Volt adiciona Força da Habilidade, mas reduz a duração do Planar e Mirar/Segurar na Parede.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
+        },
+        "zh-hans": {
+            "item_name": "风暴 秘奥头盔",
+            "description": "这顶头盔由 Volt 佩戴，它能提升技能强度，但会减少飞身瞄准与壁面攀附的持续时间。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Helmet"
+        },
+        "zh-hant": {
+            "item_name": "風暴秘奧頭盔",
+            "description": "這頂頭盔由 Volt 配戴，它能提升技能強度，但會減少飛身瞄準與壁面攀附的持續時間。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Helmet"
+        },
+        "es": {
+            "item_name": "Casco Storm Arcano",
+            "description": "Este casco es usado por Volt, aumenta la fuerza de habilidad pero reduce la duración de planear y posarse.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Casco_arcano"
+        },
+        "it": {
+            "item_name": "Elmo Arcane Storm",
+            "description": "Questo elmo è indossato da Volt, aggiunge Potenza Abilità, ma riduce la durata dell'Aggrappata e della Planata.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
+        },
+        "pl": {
+            "item_name": "Volt: Hełm Arkanum Storm",
+            "description": "Hełm noszony przez Volta, zwiększa Siłę Umiejętności, ale zmniejsza czas Celowania w Locie i Przywarcia.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Storm_Volt_Helmet"
+        },
+        "uk": {
+            "item_name": "Містичний Шолом «Шторм»",
+            "description": "Цей шолом збільшує потужність здібностей Вольта, але зменшує його тривалість прицілювання в повітрі та утримання на стінах.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet"
+        }
     },
     "trading_tax": 2000
 }

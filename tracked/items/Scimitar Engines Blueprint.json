@@ -20,65 +20,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Scimitar Engines Blueprint",
-        "description": "Engines component of the Scimitar landing craft.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
-    },
-    "ru": {
-        "item_name": "Скимитар: Двигатели (Чертеж)",
-        "description": "Компонент корабля 'Скимитар': Двигатели.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%80"
-    },
-    "ko": {
-        "item_name": "시미터 엔진 설계도",
-        "description": "시미터 착륙정의 엔진 부분입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
-    },
-    "de": {
-        "item_name": "Scimitar: Triebwerke Blaupause",
-        "description": "Die Triebwerke-Komponente für das Scimitar Landungsschiff.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Scimitar"
-    },
-    "fr": {
-        "item_name": "Scimitar - Moteurs (Schéma)",
-        "description": "Le composant Moteurs du Scimitar.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Scimitar"
-    },
-    "pt": {
-        "item_name": "Scimitar: Motores (Diagrama)",
-        "description": "Motores componentes da nave de pouso Scimitar.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
-    },
-    "zh-hans": {
-        "item_name": "Scimitar 引擎 蓝图",
-        "description": "Scimitar 登陆艇的引擎部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scimitar"
-    },
-    "zh-hant": {
-        "item_name": "Scimitar 引擎 藍圖",
-        "description": "Scimitar 登陸艇的引擎部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Scimitar"
-    },
-    "es": {
-        "item_name": "Plano de Motores De Scimitar",
-        "description": "Componente de los motores de la nave de desembarco Scimitar.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Scimitar"
-    },
-    "it": {
-        "item_name": "Scimitar - Motori (Schema)",
-        "description": "Componente Motori della navicella Scimitar.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
-    },
-    "pl": {
-        "item_name": "Scimitar: Silniki - Schemat",
-        "description": "Silnik statku desantowego Scimitar.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Scimitar"
-    },
-    "uk": {
-        "item_name": "Ятаган: Рушії (креслення)",
-        "description": "Деталі рушіїв для десантного судна «Ятаган».",
-        "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+    "i18n": {
+        "en": {
+            "item_name": "Scimitar Engines Blueprint",
+            "description": "Engines component of the Scimitar landing craft.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Scimitar",
+            "icon": "items/images/en/scimitar_engines.c8644ada3c4381efbe9a11b55c58b0a7.png",
+            "thumb": "items/images/en/thumbs/scimitar_engines.c8644ada3c4381efbe9a11b55c58b0a7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Скимитар: Двигатели (Чертеж)",
+            "description": "Компонент корабля 'Скимитар': Двигатели.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%80"
+        },
+        "ko": {
+            "item_name": "시미터 엔진 설계도",
+            "description": "시미터 착륙정의 엔진 부분입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+        },
+        "de": {
+            "item_name": "Scimitar: Triebwerke Blaupause",
+            "description": "Die Triebwerke-Komponente für das Scimitar Landungsschiff.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Scimitar"
+        },
+        "fr": {
+            "item_name": "Scimitar - Moteurs (Schéma)",
+            "description": "Le composant Moteurs du Scimitar.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Scimitar"
+        },
+        "pt": {
+            "item_name": "Scimitar: Motores (Diagrama)",
+            "description": "Motores componentes da nave de pouso Scimitar.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+        },
+        "zh-hans": {
+            "item_name": "Scimitar 引擎 蓝图",
+            "description": "Scimitar 登陆艇的引擎部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Scimitar"
+        },
+        "zh-hant": {
+            "item_name": "Scimitar 引擎 藍圖",
+            "description": "Scimitar 登陸艇的引擎部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Scimitar"
+        },
+        "es": {
+            "item_name": "Plano de Motores De Scimitar",
+            "description": "Componente de los motores de la nave de desembarco Scimitar.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Scimitar"
+        },
+        "it": {
+            "item_name": "Scimitar - Motori (Schema)",
+            "description": "Componente Motori della navicella Scimitar.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+        },
+        "pl": {
+            "item_name": "Scimitar: Silniki - Schemat",
+            "description": "Silnik statku desantowego Scimitar.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Scimitar"
+        },
+        "uk": {
+            "item_name": "Ятаган: Рушії (креслення)",
+            "description": "Деталі рушіїв для десантного судна «Ятаган».",
+            "wiki_link": "https://warframe.fandom.com/wiki/Scimitar"
+        }
     },
     "trading_tax": 2000
 }

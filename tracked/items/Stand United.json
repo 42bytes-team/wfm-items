@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestThornsAuraMod"
     },
-    "en": {
-        "item_name": "Stand United",
-        "description": "+25.5% Armor",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stand_United"
-    },
-    "ru": {
-        "item_name": "Единство",
-        "description": "+25.5% к броне",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE",
-        "icon": "items/images/ru/stand_united.7e4207f4c2932b4c6d8ec7f618d5c373.png",
-        "thumb": "items/images/ru/thumbs/stand_united.7e4207f4c2932b4c6d8ec7f618d5c373.128x128.png"
-    },
-    "ko": {
-        "item_name": "스탠드 유나이티드",
-        "description": "+25.5% 방어력",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stand_United"
-    },
-    "de": {
-        "item_name": "Zusammenhalt",
-        "description": "+25.5 % Rüstung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zusammenhalt"
-    },
-    "fr": {
-        "item_name": "Front Commun",
-        "description": "+25.5% d'Armure",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Front_Commun"
-    },
-    "pt": {
-        "item_name": "Stand United",
-        "description": "+25.5% de Armadura",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Stand_United"
-    },
-    "zh-hans": {
-        "item_name": "团结一致",
-        "description": "+25.5% 护甲",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stand_United"
-    },
-    "zh-hant": {
-        "item_name": "團結一致",
-        "description": "+25.5% 護甲",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stand_United"
-    },
-    "es": {
-        "item_name": "Permanece Unido",
-        "description": "+25.5% de armadura",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Permanece_unido"
-    },
-    "it": {
-        "item_name": "Stand United",
-        "description": "+25.5% Armatura",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Stand_United"
-    },
-    "pl": {
-        "item_name": "Stańmy Razem",
-        "description": "+25.5% Pancerza",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sta%C5%84my_Razem"
-    },
-    "uk": {
-        "item_name": "В Єдності Сила",
-        "description": "+25.5% до захисту.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stand_United"
+    "i18n": {
+        "en": {
+            "item_name": "Stand United",
+            "description": "+25.5% Armor",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stand_United",
+            "icon": "items/images/en/stand_united.1cd80c0f109a360e30d4a69c4e0a99f0.png",
+            "thumb": "items/images/en/thumbs/stand_united.1cd80c0f109a360e30d4a69c4e0a99f0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Единство",
+            "description": "+25.5% к броне",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE",
+            "icon": "items/images/ru/stand_united.7e4207f4c2932b4c6d8ec7f618d5c373.png",
+            "thumb": "items/images/ru/thumbs/stand_united.7e4207f4c2932b4c6d8ec7f618d5c373.128x128.png"
+        },
+        "ko": {
+            "item_name": "스탠드 유나이티드",
+            "description": "+25.5% 방어력",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stand_United"
+        },
+        "de": {
+            "item_name": "Zusammenhalt",
+            "description": "+25.5 % Rüstung",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Zusammenhalt"
+        },
+        "fr": {
+            "item_name": "Front Commun",
+            "description": "+25.5% d'Armure",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Front_Commun"
+        },
+        "pt": {
+            "item_name": "Stand United",
+            "description": "+25.5% de Armadura",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Stand_United"
+        },
+        "zh-hans": {
+            "item_name": "团结一致",
+            "description": "+25.5% 护甲",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Stand_United"
+        },
+        "zh-hant": {
+            "item_name": "團結一致",
+            "description": "+25.5% 護甲",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Stand_United"
+        },
+        "es": {
+            "item_name": "Permanece Unido",
+            "description": "+25.5% de armadura",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Permanece_unido"
+        },
+        "it": {
+            "item_name": "Stand United",
+            "description": "+25.5% Armatura",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Stand_United"
+        },
+        "pl": {
+            "item_name": "Stańmy Razem",
+            "description": "+25.5% Pancerza",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Sta%C5%84my_Razem"
+        },
+        "uk": {
+            "item_name": "В Єдності Сила",
+            "description": "+25.5% до захисту",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stand_United"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

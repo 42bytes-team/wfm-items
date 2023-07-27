@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbOneMeleeTree"
     },
-    "en": {
-        "item_name": "Gemini Cross",
-        "description": "A style exhibiting sweeping slash attacks and swift jabs.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gemini_Cross"
-    },
-    "ru": {
-        "item_name": "Крест Близнецов",
-        "description": "Стиль, являющий собой широкие рубящие и быстрые колющие удары.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82_%D0%91%D0%BB%D0%B8%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2",
-        "icon": "items/images/ru/gemini_cross.f9dae250221cc62f0380c01fbac403d1.png",
-        "thumb": "items/images/ru/thumbs/gemini_cross.f9dae250221cc62f0380c01fbac403d1.128x128.png"
-    },
-    "ko": {
-        "item_name": "제미니 크로스",
-        "description": "광범위한 베기 공격과 빠른 잽을 선보이는 공격입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gemini_Cross"
-    },
-    "de": {
-        "item_name": "Zwillingskreuz",
-        "description": "Ein Stil mit geschwungenen Schnitten und schnellen Sprüngen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zwillingskreuz"
-    },
-    "fr": {
-        "item_name": "Croisement Des Gémeaux",
-        "description": "Un style présentant des attaques tranchantes amples et des coups de poignard rapides.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Croisement_des_G%C3%A9meaux"
-    },
-    "pt": {
-        "item_name": "Gemini Cross",
-        "description": "Um estilo exibindo ataques de corte abrangentes e golpes rápidos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gemini_Cross"
-    },
-    "zh-hans": {
-        "item_name": "纵横双子",
-        "description": "一种扫荡般的切斩以及戳刺攻击方式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gemini_Cross"
-    },
-    "zh-hant": {
-        "item_name": "縱橫雙子",
-        "description": "一種掃蕩般的切斬以及戳刺攻擊方式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Gemini_Cross"
-    },
-    "es": {
-        "item_name": "Cruz Géminis",
-        "description": "Un estilo que exhibe ataques de barrido cortantes y golpes rápidos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cruz_g%C3%A9minis"
-    },
-    "it": {
-        "item_name": "Gemini Cross",
-        "description": "Uno stile composto da spazzate sferzanti e colpi rapidi.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Gemini_Cross"
-    },
-    "pl": {
-        "item_name": "Krzyż Bliźniąt",
-        "description": "Styl korzystający z szerokich ataków ciętych i błyskawicznych pchnięć.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krzy%C5%BC_Bli%C5%BAni%C4%85t"
-    },
-    "uk": {
-        "item_name": "Хрест Близнюків",
-        "description": "Широкі різальні атаки й швидкі проколи.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Gemini_Cross"
+    "i18n": {
+        "en": {
+            "item_name": "Gemini Cross",
+            "description": "A style exhibiting sweeping slash attacks and swift jabs.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Gemini_Cross",
+            "icon": "items/images/en/gemini_cross.e2d704efafe48796ded6c796e11db6ed.png",
+            "thumb": "items/images/en/thumbs/gemini_cross.e2d704efafe48796ded6c796e11db6ed.128x128.png"
+        },
+        "ru": {
+            "item_name": "Крест Близнецов",
+            "description": "Стиль, являющий собой широкие рубящие и быстрые колющие удары.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82_%D0%91%D0%BB%D0%B8%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2",
+            "icon": "items/images/ru/gemini_cross.f9dae250221cc62f0380c01fbac403d1.png",
+            "thumb": "items/images/ru/thumbs/gemini_cross.f9dae250221cc62f0380c01fbac403d1.128x128.png"
+        },
+        "ko": {
+            "item_name": "제미니 크로스",
+            "description": "광범위한 베기 공격과 빠른 잽을 선보이는 공격입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Gemini_Cross"
+        },
+        "de": {
+            "item_name": "Zwillingskreuz",
+            "description": "Ein Stil mit geschwungenen Schnitten und schnellen Sprüngen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Zwillingskreuz"
+        },
+        "fr": {
+            "item_name": "Croisement Des Gémeaux",
+            "description": "Un style présentant des attaques tranchantes amples et des coups de poignard rapides.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Croisement_des_G%C3%A9meaux"
+        },
+        "pt": {
+            "item_name": "Gemini Cross",
+            "description": "Um estilo exibindo ataques de corte abrangentes e golpes rápidos.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Gemini_Cross"
+        },
+        "zh-hans": {
+            "item_name": "纵横双子",
+            "description": "一种扫荡般的切斩以及戳刺攻击方式。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Gemini_Cross"
+        },
+        "zh-hant": {
+            "item_name": "縱橫雙子",
+            "description": "一種掃蕩般的切斬以及戳刺攻擊方式。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Gemini_Cross"
+        },
+        "es": {
+            "item_name": "Cruz Géminis",
+            "description": "Un estilo que exhibe ataques de barrido cortantes y golpes rápidos.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Cruz_g%C3%A9minis"
+        },
+        "it": {
+            "item_name": "Gemini Cross",
+            "description": "Uno stile composto da spazzate sferzanti e colpi rapidi.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Gemini_Cross"
+        },
+        "pl": {
+            "item_name": "Krzyż Bliźniąt",
+            "description": "Styl korzystający z szerokich ataków ciętych i błyskawicznych pchnięć.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Krzy%C5%BC_Bli%C5%BAni%C4%85t"
+        },
+        "uk": {
+            "item_name": "Хрест Близнюків",
+            "description": "Широкі різальні атаки й швидкі проколи.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Gemini_Cross"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

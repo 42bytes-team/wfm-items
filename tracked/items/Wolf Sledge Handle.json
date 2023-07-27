@@ -22,65 +22,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Wolf Sledge Handle",
-        "description": "The handle component of the Wolf Sledge.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
-    },
-    "ru": {
-        "item_name": "Кувалда Волка: Рукоять",
-        "description": "Компонент Кувалды Волка: Рукоять.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D0%B2%D0%B0%D0%BB%D0%B4%D0%B0_%D0%92%D0%BE%D0%BB%D0%BA%D0%B0"
-    },
-    "ko": {
-        "item_name": "울프 슬레지 핸들",
-        "description": "울프 슬레지의 핸들 부분입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
-    },
-    "de": {
-        "item_name": "Wolfshammer: Griff",
-        "description": "Griff-Komponente des Wolfshammers.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Wolfshammer"
-    },
-    "fr": {
-        "item_name": "Marteau Du Loup - Manche",
-        "description": "Le composant Manche du Marteau du Loup.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Marteau_du_Loup"
-    },
-    "pt": {
-        "item_name": "Marreta Do Lobo: Cabo",
-        "description": "O cabo componente da Marreta do Lobo.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Wolf_Sledge"
-    },
-    "zh-hans": {
-        "item_name": "恶狼战锤握柄",
-        "description": "恶狼战锤的握柄部件",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Wolf_Sledge"
-    },
-    "zh-hant": {
-        "item_name": "惡狼戰鎚握柄",
-        "description": "惡狼戰鎚的握柄部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Wolf_Sledge"
-    },
-    "es": {
-        "item_name": "Empuñadura Del Mazo Del Lobo",
-        "description": "La parte de la empuñadura del Mazo del Lobo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mazo_del_lobo"
-    },
-    "it": {
-        "item_name": "Wolf Sledge - Manico",
-        "description": "Il componente manico dell'arma Wolf Sledge.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
-    },
-    "pl": {
-        "item_name": "Wilczy Kafar: Rękojeść",
-        "description": "Część będąca rękojeścią Wilczego Kafara.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wilczy_Kafar"
-    },
-    "uk": {
-        "item_name": "Вовча Довбня: Руків’я",
-        "description": "Деталі руків’я Вовчої Довбні.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
+    "i18n": {
+        "en": {
+            "item_name": "Wolf Sledge Handle",
+            "description": "The handle component of the Wolf Sledge.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge",
+            "icon": "items/images/en/wolf_sledge_handle.6b288aa755e84f886faa90486ed17d37.png",
+            "thumb": "items/images/en/thumbs/wolf_sledge_handle.6b288aa755e84f886faa90486ed17d37.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кувалда Волка: Рукоять",
+            "description": "Компонент Кувалды Волка: Рукоять.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D0%B2%D0%B0%D0%BB%D0%B4%D0%B0_%D0%92%D0%BE%D0%BB%D0%BA%D0%B0"
+        },
+        "ko": {
+            "item_name": "울프 슬레지 핸들",
+            "description": "울프 슬레지의 핸들 부분입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
+        },
+        "de": {
+            "item_name": "Wolfshammer: Griff",
+            "description": "Griff-Komponente des Wolfshammers.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Wolfshammer"
+        },
+        "fr": {
+            "item_name": "Marteau Du Loup - Manche",
+            "description": "Le composant Manche du Marteau du Loup.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Marteau_du_Loup"
+        },
+        "pt": {
+            "item_name": "Marreta Do Lobo: Cabo",
+            "description": "O cabo componente da Marreta do Lobo.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Wolf_Sledge"
+        },
+        "zh-hans": {
+            "item_name": "恶狼战锤握柄",
+            "description": "恶狼战锤的握柄部件",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Wolf_Sledge"
+        },
+        "zh-hant": {
+            "item_name": "惡狼戰鎚握柄",
+            "description": "惡狼戰鎚的握柄部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Wolf_Sledge"
+        },
+        "es": {
+            "item_name": "Empuñadura Del Mazo Del Lobo",
+            "description": "La parte de la empuñadura del Mazo del Lobo.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Mazo_del_lobo"
+        },
+        "it": {
+            "item_name": "Wolf Sledge - Manico",
+            "description": "Il componente manico dell'arma Wolf Sledge.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
+        },
+        "pl": {
+            "item_name": "Wilczy Kafar: Rękojeść",
+            "description": "Część będąca rękojeścią Wilczego Kafara.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Wilczy_Kafar"
+        },
+        "uk": {
+            "item_name": "Вовча Довбня: Руків’я",
+            "description": "Деталі руків’я Вовчої Довбні.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
+        }
     },
     "mastery_level": 7,
     "trading_tax": 2000

@@ -2,54 +2,56 @@
     "_id": "5e9855a43d9f6400697e8963",
     "url_name": "bloodhound",
     "group": "default",
-    "icon": "lich_quirks/images/bloodhound.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "lich_quirks/images/thumbs/bloodhound.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
-    "en": {
-        "item_name": "Bloodhound",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "ru": {
-        "item_name": "Bloodhound",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "ko": {
-        "item_name": "집요한 추적자",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "de": {
-        "item_name": "Bloodhound",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "fr": {
-        "item_name": "Bloodhound",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "pt": {
-        "item_name": "Bloodhound",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "zh-hans": {
-        "item_name": "嗜血如命",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "zh-hant": {
-        "item_name": "尋血獵犬",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "es": {
-        "item_name": "Sabueso",
-        "description": "Hace comentarios cuando el jugador se vuelve invisible."
-    },
-    "it": {
-        "item_name": "Bloodhound",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "pl": {
-        "item_name": "Tropiciel",
-        "description": "Makes comments when the player turns invisible"
-    },
-    "uk": {
-        "item_name": "Вишукує тенно",
-        "description": "Коментує, коли гравець стає невидимим."
+    "icon": "lich_quirks/unknown.png",
+    "thumb": "lich_quirks/unknown.thumb.png",
+    "i18n": {
+        "en": {
+            "item_name": "Bloodhound",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "ru": {
+            "item_name": "Bloodhound",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "ko": {
+            "item_name": "집요한 추적자",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "de": {
+            "item_name": "Bloodhound",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "fr": {
+            "item_name": "Bloodhound",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "pt": {
+            "item_name": "Bloodhound",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "zh-hans": {
+            "item_name": "嗜血如命",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "zh-hant": {
+            "item_name": "尋血獵犬",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "es": {
+            "item_name": "Sabueso",
+            "description": "Hace comentarios cuando el jugador se vuelve invisible."
+        },
+        "it": {
+            "item_name": "Bloodhound",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "pl": {
+            "item_name": "Tropiciel",
+            "description": "Makes comments when the player turns invisible"
+        },
+        "uk": {
+            "item_name": "Вишукує тенно",
+            "description": "Коментує, коли гравець стає невидимим."
+        }
     }
 }

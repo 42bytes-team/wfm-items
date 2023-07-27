@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Ninja/NinjaStormAugmentCard"
     },
-    "en": {
-        "item_name": "Rising Storm",
-        "description": "Blade Storm Augment: Blade Storm attacks increase your Melee Counter by 4.\rPassive: +10s Combo Duration",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rising_Storm"
-    },
-    "ru": {
-        "item_name": "Восходящая Буря",
-        "description": "Улучшение способности «Буря Клинков»: атаки Бурей Клинков увеличивают счетчик ближнего боя на 4.\nПассивно: +10 с к длительности комбо.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D1%81%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D1%83%D1%80%D1%8F",
-        "icon": "items/images/ru/rising_storm.0049ae0e7c50d5be3e342017b62b7156.png",
-        "thumb": "items/images/ru/thumbs/rising_storm.0049ae0e7c50d5be3e342017b62b7156.128x128.png"
-    },
-    "ko": {
-        "item_name": "라이징 스톰",
-        "description": "블레이드 스톰 개조: 블레이드 스톰 공격 시 근접 카운터가 4씩 올라갑니다.\n패시브: 연속기 지속 시간 +10초",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rising_Storm"
-    },
-    "de": {
-        "item_name": "Aufziehender Sturm",
-        "description": "Klingensturm Augment: Klingensturm Angriffe erhöhen Nahkampf-Multiplikator um 4.\rPassiv: + 10 s Kombo-Dauer",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Aufziehender_Sturm"
-    },
-    "fr": {
-        "item_name": "Longue Tempête",
-        "description": "Augmentation Tempête de Lames: Les attaques avec ce Pouvoir augmentent votre Compteur de Combos de Mêlée de 4.\nPassif: +10s de Durée de Combos",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Longue_Temp%C3%AAte"
-    },
-    "pt": {
-        "item_name": "Rising Storm",
-        "description": "Ampliação Blade Storm: atacar com a habilidade aumentará o Contador de Combo Corpo a Corpo em 4.\nPassiva: +10s Duração do Combo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rising_Storm"
-    },
-    "zh-hans": {
-        "item_name": "风起云涌",
-        "description": "剑刃风暴强化：剑刃风暴的攻击会提升你的 4 近战连击数。\n被动：+10 秒连击持续时间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rising_Storm"
-    },
-    "zh-hant": {
-        "item_name": "風起雲湧",
-        "description": "劍刃風暴強化：劍刃風暴的攻擊會提升 4 近戰連擊數。\n被動：+10 秒連擊持續時間。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rising_Storm"
-    },
-    "es": {
-        "item_name": "Tormenta Creciente",
-        "description": "Aumento de Tormenta de espadas: los ataques de Tormenta de espadas aumentan tu contador de cuerpo a cuerpo en 4.\rPasiva: +10s de duración de combo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tormenta_creciente"
-    },
-    "it": {
-        "item_name": "Rising Storm",
-        "description": "Potenziamento Blade Storm: Gli attacchi Blade Storm incrementano il Contatore Combo Corpo a Corpo di 4.\rPassiva: +10s Durata Combo",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Rising_Storm"
-    },
-    "pl": {
-        "item_name": "Nadciągająca Burza",
-        "description": "Modyfikacja Burzy Ostrzy: z każdym atakiem Burzy Ostrzy zwiększa Mnożnik Kombo o 4.\rPasywna: +10s Czasu Mnożnika",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Nadci%C4%85gaj%C4%85ca_Burza"
-    },
-    "uk": {
-        "item_name": "Висхідна Гроза",
-        "description": "Розширення здібності «Буря клинків»: атаки здібності збільшують лічильник серії ударів на 4.\nПасивно: +10 с до тривалості серії",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rising_Storm"
+    "i18n": {
+        "en": {
+            "item_name": "Rising Storm",
+            "description": "Blade Storm Augment: Blade Storm attacks increase your Melee Counter by 4.\rPassive: +10s Combo Duration",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rising_Storm",
+            "icon": "items/images/en/rising_storm.7cf0510c35a5252a084c304666e6e779.png",
+            "thumb": "items/images/en/thumbs/rising_storm.7cf0510c35a5252a084c304666e6e779.128x128.png"
+        },
+        "ru": {
+            "item_name": "Восходящая Буря",
+            "description": "Улучшение способности «Буря Клинков»: атаки Бурей Клинков увеличивают счетчик ближнего боя на 4.\nПассивно: +10 с к длительности комбо.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D1%81%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D1%83%D1%80%D1%8F",
+            "icon": "items/images/ru/rising_storm.0049ae0e7c50d5be3e342017b62b7156.png",
+            "thumb": "items/images/ru/thumbs/rising_storm.0049ae0e7c50d5be3e342017b62b7156.128x128.png"
+        },
+        "ko": {
+            "item_name": "라이징 스톰",
+            "description": "블레이드 스톰 개조: 블레이드 스톰 공격 시 근접 카운터가 4씩 올라갑니다.\n패시브: 연속기 지속 시간 +10초",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rising_Storm"
+        },
+        "de": {
+            "item_name": "Aufziehender Sturm",
+            "description": "Klingensturm Augment: Klingensturm Angriffe erhöhen Nahkampf-Multiplikator um 4.\rPassiv: + 10 s Kombo-Dauer",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Aufziehender_Sturm"
+        },
+        "fr": {
+            "item_name": "Longue Tempête",
+            "description": "Augmentation Tempête de Lames: Les attaques avec ce Pouvoir augmentent votre Compteur de Combos de Mêlée de 4.\nPassif: +10s de Durée de Combos",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Longue_Temp%C3%AAte"
+        },
+        "pt": {
+            "item_name": "Rising Storm",
+            "description": "Ampliação Blade Storm: atacar com a habilidade aumentará o Contador de Combo Corpo a Corpo em 4.\nPassiva: +10s Duração do Combo",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rising_Storm"
+        },
+        "zh-hans": {
+            "item_name": "风起云涌",
+            "description": "剑刃风暴强化：剑刃风暴的攻击会提升你的 4 近战连击数。\n被动：+10 秒连击持续时间。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rising_Storm"
+        },
+        "zh-hant": {
+            "item_name": "風起雲湧",
+            "description": "劍刃風暴強化：劍刃風暴的攻擊會提升 4 近戰連擊數。\n被動：+10 秒連擊持續時間。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rising_Storm"
+        },
+        "es": {
+            "item_name": "Tormenta Creciente",
+            "description": "Aumento de Tormenta de espadas: los ataques de Tormenta de espadas aumentan tu contador de cuerpo a cuerpo en 4.\rPasiva: +10s de duración de combo",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tormenta_creciente"
+        },
+        "it": {
+            "item_name": "Rising Storm",
+            "description": "Potenziamento Blade Storm: Gli attacchi Blade Storm incrementano il Contatore Combo Corpo a Corpo di 4.\rPassiva: +10s Durata Combo",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Rising_Storm"
+        },
+        "pl": {
+            "item_name": "Nadciągająca Burza",
+            "description": "Modyfikacja Burzy Ostrzy: z każdym atakiem Burzy Ostrzy zwiększa Mnożnik Kombo o 4.\rPasywna: +10s Czasu Mnożnika",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Nadci%C4%85gaj%C4%85ca_Burza"
+        },
+        "uk": {
+            "item_name": "Висхідна Гроза",
+            "description": "Розширення здібності «Буря клинків»: атаки здібності збільшують лічильник серії ударів на 4.\nПасивно: +10 с до тривалості серії",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rising_Storm"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

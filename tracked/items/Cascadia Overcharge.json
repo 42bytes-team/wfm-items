@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/SecondaryOnOvershieldCritChance"
     },
-    "en": {
-        "item_name": "Cascadia Overcharge",
-        "description": "While Overshields Active: +300% Critical Chance",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Перегрузка Каскадии",
-        "description": "Пока активны сверхщиты: +300% к шансу критического удара",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "캐스케디아 오버차지",
-        "description": "오버실드가 활성화되어 있을 시: 치명타 확률 +300%",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Cascadia: Überladung",
-        "description": "Zusatzschilde aktiv: + 300 % Krit. Chance",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Exocharge Cascadia",
-        "description": "Lorsque les Exoboucliers sont actifs : +300% de Chances de Critique",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Sobrecarga Da Cascada",
-        "description": "Enquanto os Sobre-Escudos estiverem Ativos: +300% de Chance Crítica",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "瀑流·溢能",
-        "description": "「过载护盾」处于激活状态时：+300% 暴击几率。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "連貫溢能",
-        "description": "超載護盾啟用時：+300% 暴擊率",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Sobrecarga De Cascadia",
-        "description": "Mientras los sobreescudos estén activos: +300 % de probabilidad crítica",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Cascadia Overcharge",
-        "description": "Mentre i Sovrascudi sono Attivi: +300% Probabilità Critico",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Kaskadia Przeładowania",
-        "description": "Kiedy Przeładowane Tarcze są aktywne: Zyskaj +300% Szansy Obr. Krytycznych",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Каскадний Надзаряд",
-        "description": "У разі дії надщитів: +300% до ймовірності критичної шкоди.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Cascadia Overcharge",
+            "description": "While Overshields Active: +300% Critical Chance",
+            "wiki_link": null,
+            "icon": "items/images/en/cascadia_overcharge.d5f7bf0949071f325145d596e35b3087.png",
+            "thumb": "items/images/en/thumbs/cascadia_overcharge.d5f7bf0949071f325145d596e35b3087.128x128.png"
+        },
+        "ru": {
+            "item_name": "Перегрузка Каскадии",
+            "description": "Пока активны сверхщиты: +300% к шансу критического удара",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "캐스케디아 오버차지",
+            "description": "오버실드가 활성화되어 있을 시: 치명타 확률 +300%",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Cascadia: Überladung",
+            "description": "Zusatzschilde aktiv: + 300 % Krit. Chance",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Exocharge Cascadia",
+            "description": "Lorsque les Exoboucliers sont actifs : +300% de Chances de Critique",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Sobrecarga Da Cascada",
+            "description": "Enquanto os Sobre-Escudos estiverem Ativos: +300% de Chance Crítica",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "瀑流·溢能",
+            "description": "「过载护盾」处于激活状态时：+300% 暴击几率。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "連貫溢能",
+            "description": "超載護盾啟用時：+300% 暴擊率",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Sobrecarga De Cascadia",
+            "description": "Mientras los sobreescudos estén activos: +300 % de probabilidad crítica",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Cascadia Overcharge",
+            "description": "Mentre i Sovrascudi sono Attivi: +300% Probabilità Critico",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Kaskadia Przeładowania",
+            "description": "Kiedy Przeładowane Tarcze są aktywne: Zyskaj +300% Szansy Obr. Krytycznych",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Каскадний Надзаряд",
+            "description": "У разі дії надщитів: +300% до ймовірності критичної шкоди.",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

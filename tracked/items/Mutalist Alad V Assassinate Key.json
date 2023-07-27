@@ -12,65 +12,69 @@
         "uniq_name": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
         "type": "key"
     },
-    "en": {
-        "item_name": "Mutalist Alad V Assassinate (Key)",
-        "description": "Put an end to Alad V and his Mutalist experiments",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mutalist_Alad_V_Assassinate_Key"
-    },
-    "ru": {
-        "item_name": "Заражённый Алад V - Убийство (Ключ)",
-        "description": "Нанесите визит на исследовательский корабль Алада V и положите конец его экспериментам с зараженными.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BB%D1%8E%D1%87_%22%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%90%D0%BB%D0%B0%D0%B4_V_-_%D0%A3%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE%22"
-    },
-    "ko": {
-        "item_name": "뮤탈리스트 알라드 V 암살 (키)",
-        "description": "알라드 V의 연구용 함선을 습격하고 그의 인페스티드 연구를 종결시키세요.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mutalist_Alad_V_Assassinate_Key"
-    },
-    "de": {
-        "item_name": "Mutalist Alad V (Attentat) (Key)",
-        "description": "Setze Alad V und seinen Mutalisten ein Ende",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Mutalist_Alad_V"
-    },
-    "fr": {
-        "item_name": "Alad V Mutaliste Assassinat (Key)",
-        "description": "Finissez-en avec Alad V et ses expériences Mutalistes",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Alad_V_Infest%C3%A9_Assassinat"
-    },
-    "pt": {
-        "item_name": "Assassinato Do Alad V Mutalista (Chave)",
-        "description": "Invada a nave de pesquisa de Alad V e destrua seus experimentos Infestados.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Mutalist_Alad_V_Assassinate_Key"
-    },
-    "zh-hans": {
-        "item_name": "异融 Alad V 刺杀 （钥匙）",
-        "description": "突袭 Alad V 的研究船，终结他的异融者实验。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mutalist_Alad_V_Assassinate_Key"
-    },
-    "zh-hant": {
-        "item_name": "異融者 Alad V 刺殺 （鑰匙）",
-        "description": "突襲 Alad V 的研究船，終結他的感染者實驗。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mutalist_Alad_V_Assassinate_Key"
-    },
-    "es": {
-        "item_name": "Asesinato De Alad V Mutalítico (Llave)",
-        "description": "Acaba con Alad V y sus experimentos mutalíticos",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Alad_V_Mutal%C3%ADtico"
-    },
-    "it": {
-        "item_name": "Assassinio Mutalist Alad V (Key)",
-        "description": "Poni fine ad Alad V ed ai suoi esperimenti Mutalist",
-        "wiki_link": "http://warframe.wikia.com/wiki/Mutalist_Alad_V_Assassinate_Key"
-    },
-    "pl": {
-        "item_name": "Zabójstwo: Zainfekowany Alad V (Klucz)",
-        "description": "Udaj się na statek badawczy Alada V i połóż kres jego eksperymentom na Pladze.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zab%C3%B3jstwo:_Zainfekowany_Alad_V"
-    },
-    "uk": {
-        "item_name": "Убивство Асимільованого Алада В (ключ)",
-        "description": "Покладіть край Аладу В та його асимілянтським експериментам.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mutalist_Alad_V_Assassinate_Key"
+    "i18n": {
+        "en": {
+            "item_name": "Mutalist Alad V Assassinate (Key)",
+            "description": "Put an end to Alad V and his Mutalist experiments",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mutalist_Alad_V_Assassinate_Key",
+            "icon": "items/images/en/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.png",
+            "thumb": "items/images/en/thumbs/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.128x128.png"
+        },
+        "ru": {
+            "item_name": "Заражённый Алад V - Убийство (Ключ)",
+            "description": "Нанесите визит на исследовательский корабль Алада V и положите конец его экспериментам с зараженными.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BB%D1%8E%D1%87_%22%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%90%D0%BB%D0%B0%D0%B4_V_-_%D0%A3%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE%22"
+        },
+        "ko": {
+            "item_name": "뮤탈리스트 알라드 V 암살 (키)",
+            "description": "알라드 V의 연구용 함선을 습격하고 그의 인페스티드 연구를 종결시키세요.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mutalist_Alad_V_Assassinate_Key"
+        },
+        "de": {
+            "item_name": "Mutalist Alad V (Attentat) (Key)",
+            "description": "Setze Alad V und seinen Mutalisten ein Ende",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Mutalist_Alad_V"
+        },
+        "fr": {
+            "item_name": "Alad V Mutaliste Assassinat (Key)",
+            "description": "Finissez-en avec Alad V et ses expériences Mutalistes",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Alad_V_Infest%C3%A9_Assassinat"
+        },
+        "pt": {
+            "item_name": "Assassinato Do Alad V Mutalista (Chave)",
+            "description": "Invada a nave de pesquisa de Alad V e destrua seus experimentos Infestados.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Mutalist_Alad_V_Assassinate_Key"
+        },
+        "zh-hans": {
+            "item_name": "异融 Alad V 刺杀 （钥匙）",
+            "description": "突袭 Alad V 的研究船，终结他的异融者实验。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mutalist_Alad_V_Assassinate_Key"
+        },
+        "zh-hant": {
+            "item_name": "異融者 Alad V 刺殺 （鑰匙）",
+            "description": "突襲 Alad V 的研究船，終結他的感染者實驗。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mutalist_Alad_V_Assassinate_Key"
+        },
+        "es": {
+            "item_name": "Asesinato De Alad V Mutalítico (Llave)",
+            "description": "Acaba con Alad V y sus experimentos mutalíticos",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Alad_V_Mutal%C3%ADtico"
+        },
+        "it": {
+            "item_name": "Assassinio Mutalist Alad V (Key)",
+            "description": "Poni fine ad Alad V ed ai suoi esperimenti Mutalist",
+            "wiki_link": "http://warframe.wikia.com/wiki/Mutalist_Alad_V_Assassinate_Key"
+        },
+        "pl": {
+            "item_name": "Zabójstwo: Zainfekowany Alad V (Klucz)",
+            "description": "Udaj się na statek badawczy Alada V i połóż kres jego eksperymentom na Pladze.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zab%C3%B3jstwo:_Zainfekowany_Alad_V"
+        },
+        "uk": {
+            "item_name": "Убивство Асимільованого Алада В (ключ)",
+            "description": "Покладіть край Аладу В та його асимілянтським експериментам.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mutalist_Alad_V_Assassinate_Key"
+        }
     },
     "trading_tax": 2000
 }

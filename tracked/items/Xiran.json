@@ -11,65 +11,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishBItem"
     },
-    "en": {
-        "item_name": "Xiran",
-        "description": "The Golden Maw finds Xirans exceptionally delicious.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Ксиран",
-        "description": "Золотая пасть находит ксиранов исключительно вкусными.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "시란",
-        "description": "황금의 아귀는 시란의 맛을 유난히 선호합니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Xiran",
-        "description": "Der Goldschlund findet Xirane äußerst lecker.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Xiran",
-        "description": "La Gueule d'Or trouve les Xirans exceptionnellement délicieux.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Xiran",
-        "description": "A Mandíbula Dourada acha os Xirans excepcionalmente deliciosos.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "息壤鲳",
-        "description": "黄金喉兽发现息壤鲳特别美味。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "熙然",
-        "description": "黃金喉獸發現熙然非常美味。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Xiran",
-        "description": "Las Fauces Doradas encuentran los xirans excepcionalmente deliciosos.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Xiran",
-        "description": "Il Golden Maw trova gli Xiran eccezionalmente deliziosi.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Xiran",
-        "description": "Xirany to jedne z ulubionych dań Złotego Czerwia.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Сіжань",
-        "description": "Злотопащі вважають сіжанів надзвичайно смачнючими.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Xiran",
+            "description": "The Golden Maw finds Xirans exceptionally delicious.",
+            "wiki_link": null,
+            "icon": "items/images/en/xiran.29027ac9267e9979b3e6cd14120c3c2c.png",
+            "thumb": "items/images/en/thumbs/xiran.29027ac9267e9979b3e6cd14120c3c2c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ксиран",
+            "description": "Золотая пасть находит ксиранов исключительно вкусными.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "시란",
+            "description": "황금의 아귀는 시란의 맛을 유난히 선호합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Xiran",
+            "description": "Der Goldschlund findet Xirane äußerst lecker.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Xiran",
+            "description": "La Gueule d'Or trouve les Xirans exceptionnellement délicieux.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Xiran",
+            "description": "A Mandíbula Dourada acha os Xirans excepcionalmente deliciosos.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "息壤鲳",
+            "description": "黄金喉兽发现息壤鲳特别美味。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "熙然",
+            "description": "黃金喉獸發現熙然非常美味。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Xiran",
+            "description": "Las Fauces Doradas encuentran los xirans excepcionalmente deliciosos.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Xiran",
+            "description": "Il Golden Maw trova gli Xiran eccezionalmente deliziosi.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Xiran",
+            "description": "Xirany to jedne z ulubionych dań Złotego Czerwia.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Сіжань",
+            "description": "Злотопащі вважають сіжанів надзвичайно смачнючими.",
+            "wiki_link": null
+        }
     },
     "subtypes": [
         "small"

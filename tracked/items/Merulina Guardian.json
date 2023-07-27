@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Yareli/YareliBoardAugmentCard"
     },
-    "en": {
-        "item_name": "Merulina Guardian",
-        "description": "Merulina Augment: Enemies eliminated during Sea Snares heal 20% of Merulina's health. Upon healing, gain +200% Reload Speed and Fire Rate on Secondary weapons for 20s.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Страж Мерулины",
-        "description": "Улучшение способности «Мерулина»: враги, уничтоженные Морскими ловушками, исцеляют Мерулину на 20%. После исцеления улучшение даёт +200% к скорости перезарядки и скорострельности вторичного оружия на 20 с.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "메룰리나 가디언",
-        "description": "메룰리나 개조: 적들이 씨 스네어즈로 처치되었을 시 메룰리나의 체력이 20% 씩 치유됩니다. 또한, 치유 시 20초 동안 보조 무기의 재장전 속도 및 연사력이 +200% 증가합니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Merulina Wächter",
-        "description": "Merulina Augment: Während aktiver Seefallen getötete Feinde heilen Merulina um 20 % ihrer Gesundheit. Sekundärwaffen erhalten beim Heilen 20 s lang +200 % Nachladegeschwindigkeit und Feuerrate.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Gardien De Méruline",
-        "description": "Augmentation de Méruline: les ennemis éliminés par Pièges Marins soignent de 20% de la Santé de Méruline. Lors du soin, gagnez +200% de Vitesse de rechargement et de Cadence de tir sur les armes Secondaires pendant 20s.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Merulina Guardian",
-        "description": "Ampliação Merulina: inimigos eliminados durante a Sea Snares curarão 20% de Vida da Merulina. Após a cura, +200% de Velocidade de Recarga e Cadência de Tiro será fornecida para Armas Secundárias por 20s.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "涌浪之护",
-        "description": "浪漪珊瑚强化：深海诱陷期间消灭的敌人会为浪漪珊瑚恢复其生命值的 20% 。生命值恢复时，次要武器的装填速度和射速 +200%，持续 20 秒。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "美浪護衛",
-        "description": "美浪珊板強化：浩淼圈套期間消滅的敵人治癒美浪珊板 20% 生命值。治癒後，次要武器獲得 +200% 裝填速度及射速，持續 20 秒。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Guardián Merulina",
-        "description": "Aumento de Merulina: los enemigos eliminados con Trampas marinas curan un 20 % de la salud de Merulina. Al sanar, gana +200 % de velocidad de recarga y cadencia de fuego para armas secundarias durante 20 s.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Merulina Guardian",
-        "description": "Potenziamento Merulina: I nemici uccisi quando Sea Snares è attiva curano Merulina del 20% della salute di Merulina. Alla guarigione, ottieni +200% Velocità Ricarica e Cadenza di Tiro sulle armi Secondarie per 20s.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Strażnicza Merulina",
-        "description": "Modyfikacja Meruliny: Wrogowie zabici przez Morskie Sidła przywracają 20% życia Meruliny. Uleczenie przyznaje premie +200% Prędkości Przeładowania i Szybkostrzelności dla broni bocznej przez 20s.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Меруліна-Вартова",
-        "description": "Розширення здібності «Меруліна»: убиті під час дії Морських пасток вороги зцілюють Меруліну на 20%. Ви отримуєте +200% до швидкострільності та швидкості перезаряджання допоміжної зброї на 20 с.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Merulina Guardian",
+            "description": "Merulina Augment: Enemies eliminated during Sea Snares heal 20% of Merulina's health. Upon healing, gain +200% Reload Speed and Fire Rate on Secondary weapons for 20s.",
+            "wiki_link": null,
+            "icon": "items/images/en/merulina_guardian.6d904a0724dbba4554bd3acdcd70c36a.png",
+            "thumb": "items/images/en/thumbs/merulina_guardian.6d904a0724dbba4554bd3acdcd70c36a.128x128.png"
+        },
+        "ru": {
+            "item_name": "Страж Мерулины",
+            "description": "Улучшение способности «Мерулина»: враги, уничтоженные Морскими ловушками, исцеляют Мерулину на 20%. После исцеления улучшение даёт +200% к скорости перезарядки и скорострельности вторичного оружия на 20 с.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "메룰리나 가디언",
+            "description": "메룰리나 개조: 적들이 씨 스네어즈로 처치되었을 시 메룰리나의 체력이 20% 씩 치유됩니다. 또한, 치유 시 20초 동안 보조 무기의 재장전 속도 및 연사력이 +200% 증가합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Merulina Wächter",
+            "description": "Merulina Augment: Während aktiver Seefallen getötete Feinde heilen Merulina um 20 % ihrer Gesundheit. Sekundärwaffen erhalten beim Heilen 20 s lang +200 % Nachladegeschwindigkeit und Feuerrate.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Gardien De Méruline",
+            "description": "Augmentation de Méruline: les ennemis éliminés par Pièges Marins soignent de 20% de la Santé de Méruline. Lors du soin, gagnez +200% de Vitesse de rechargement et de Cadence de tir sur les armes Secondaires pendant 20s.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Merulina Guardian",
+            "description": "Ampliação Merulina: inimigos eliminados durante a Sea Snares curarão 20% de Vida da Merulina. Após a cura, +200% de Velocidade de Recarga e Cadência de Tiro será fornecida para Armas Secundárias por 20s.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "涌浪之护",
+            "description": "浪漪珊瑚强化：深海诱陷期间消灭的敌人会为浪漪珊瑚恢复其生命值的 20% 。生命值恢复时，次要武器的装填速度和射速 +200%，持续 20 秒。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "美浪護衛",
+            "description": "美浪珊板強化：浩淼圈套期間消滅的敵人治癒美浪珊板 20% 生命值。治癒後，次要武器獲得 +200% 裝填速度及射速，持續 20 秒。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Guardián Merulina",
+            "description": "Aumento de Merulina: los enemigos eliminados con Trampas marinas curan un 20 % de la salud de Merulina. Al sanar, gana +200 % de velocidad de recarga y cadencia de fuego para armas secundarias durante 20 s.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Merulina Guardian",
+            "description": "Potenziamento Merulina: I nemici uccisi quando Sea Snares è attiva curano Merulina del 20% della salute di Merulina. Alla guarigione, ottieni +200% Velocità Ricarica e Cadenza di Tiro sulle armi Secondarie per 20s.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Strażnicza Merulina",
+            "description": "Modyfikacja Meruliny: Wrogowie zabici przez Morskie Sidła przywracają 20% życia Meruliny. Uleczenie przyznaje premie +200% Prędkości Przeładowania i Szybkostrzelności dla broni bocznej przez 20s.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Меруліна-Вартова",
+            "description": "Розширення здібності «Меруліна»: убиті під час дії Морських пасток вороги зцілюють Меруліну на 20%. Ви отримуєте +200% до швидкострільності та швидкості перезаряджання допоміжної зброї на 20 с.",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Melee/DamageBiasImpactMeleeMod"
     },
-    "en": {
-        "item_name": "Counterweight",
-        "description": "20% of Damage converted into Impact",
-        "wiki_link": "https://warframe.fandom.com/wiki/Counterweight"
-    },
-    "ru": {
-        "item_name": "Противовес",
-        "description": "Преобразует 20% урона в ударный",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%B2%D0%B5%D1%81",
-        "icon": "items/images/ru/counterweight.b8e99955362745017b916370e0903302.png",
-        "thumb": "items/images/ru/thumbs/counterweight.b8e99955362745017b916370e0903302.128x128.png"
-    },
-    "ko": {
-        "item_name": "카운터웨이트",
-        "description": "20%의 피해를 충격으로 전환합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Counterweight"
-    },
-    "de": {
-        "item_name": "Gegengewicht",
-        "description": "Wandelt 20 % des Schadens in Einschlag um",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gegengewicht"
-    },
-    "fr": {
-        "item_name": "Percussion",
-        "description": "Convertit 20% des Dégâts en Impact",
-        "wiki_link": "http://warframe.wikia.com/wiki/Counterweight"
-    },
-    "pt": {
-        "item_name": "Counterweight",
-        "description": "20% de Dano convertido para Colisivo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Counterweight"
-    },
-    "zh-hans": {
-        "item_name": "平衡配重",
-        "description": "将20% 的伤害转换为冲击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Counterweight"
-    },
-    "zh-hant": {
-        "item_name": "平衡配重",
-        "description": "將 20% 的傷害轉換為 衝擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Counterweight"
-    },
-    "es": {
-        "item_name": "Contrapeso",
-        "description": "Convierte 20% de daño a daño de impacto",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Contrapeso"
-    },
-    "it": {
-        "item_name": "Counterweight",
-        "description": "Converte in Impatto il 20% del Danno",
-        "wiki_link": "http://warframe.wikia.com/wiki/Counterweight"
-    },
-    "pl": {
-        "item_name": "Przeciwwaga",
-        "description": "Przekształca 20% obrażeń na obrażenia Miażdżące",
-        "wiki_link": "http://warframe.wikia.com/wiki/Counterweight"
-    },
-    "uk": {
-        "item_name": "Противага",
-        "description": "20% звичайної шкоди перетворюється в ударну.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Counterweight"
+    "i18n": {
+        "en": {
+            "item_name": "Counterweight",
+            "description": "20% of Damage converted into Impact",
+            "wiki_link": "https://warframe.fandom.com/wiki/Counterweight",
+            "icon": "items/images/en/counterweight.fc95b4c6b041d6be1898624a72f7d267.png",
+            "thumb": "items/images/en/thumbs/counterweight.fc95b4c6b041d6be1898624a72f7d267.128x128.png"
+        },
+        "ru": {
+            "item_name": "Противовес",
+            "description": "Преобразует 20% урона в ударный",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%B2%D0%B5%D1%81",
+            "icon": "items/images/ru/counterweight.b8e99955362745017b916370e0903302.png",
+            "thumb": "items/images/ru/thumbs/counterweight.b8e99955362745017b916370e0903302.128x128.png"
+        },
+        "ko": {
+            "item_name": "카운터웨이트",
+            "description": "20%의 피해를 충격으로 전환합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Counterweight"
+        },
+        "de": {
+            "item_name": "Gegengewicht",
+            "description": "Wandelt 20 % des Schadens in Einschlag um",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gegengewicht"
+        },
+        "fr": {
+            "item_name": "Percussion",
+            "description": "Convertit 20% des Dégâts en Impact",
+            "wiki_link": "http://warframe.wikia.com/wiki/Counterweight"
+        },
+        "pt": {
+            "item_name": "Counterweight",
+            "description": "20% de Dano convertido para Colisivo",
+            "wiki_link": "http://warframe.wikia.com/wiki/Counterweight"
+        },
+        "zh-hans": {
+            "item_name": "平衡配重",
+            "description": "将20% 的伤害转换为冲击伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Counterweight"
+        },
+        "zh-hant": {
+            "item_name": "平衡配重",
+            "description": "將 20% 的傷害轉換為 衝擊傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Counterweight"
+        },
+        "es": {
+            "item_name": "Contrapeso",
+            "description": "Convierte 20% de daño a daño de impacto",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Contrapeso"
+        },
+        "it": {
+            "item_name": "Counterweight",
+            "description": "Converte in Impatto il 20% del Danno",
+            "wiki_link": "http://warframe.wikia.com/wiki/Counterweight"
+        },
+        "pl": {
+            "item_name": "Przeciwwaga",
+            "description": "Przekształca 20% obrażeń na obrażenia Miażdżące",
+            "wiki_link": "http://warframe.wikia.com/wiki/Counterweight"
+        },
+        "uk": {
+            "item_name": "Противага",
+            "description": "20% звичайної шкоди перетворюється в ударну",
+            "wiki_link": "https://warframe.fandom.com/wiki/Counterweight"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

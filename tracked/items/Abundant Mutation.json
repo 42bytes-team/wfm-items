@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Infestation/InfestPassiveAugmentCard"
     },
-    "en": {
-        "item_name": "Abundant Mutation",
-        "description": "Passive Augment: Nidus gains an additional 200 max stacks of Mutation. Undying has a 30s cooldown.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
-    },
-    "ru": {
-        "item_name": "Избыточная Мутация",
-        "description": "Улучшение пассивной способности: Нидус получит дополнительно 200 к максимальному количеству зарядов мутации. Время восстановления «Бессмертия» — 30 с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B7%D0%B1%D1%8B%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%9C%D1%83%D1%82%D0%B0%D1%86%D0%B8%D1%8F"
-    },
-    "ko": {
-        "item_name": "어번던트 뮤테이션",
-        "description": "패시브 개조: 나이더스가 추가로 200의 최대 변이 스택을 얻습니다. 패시브로 인한 무적 시간이 30초의 재사용 대기 시간을 갖습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
-    },
-    "de": {
-        "item_name": "Reichliche Mutation",
-        "description": "Passive Augment: Nidus kann zusätzlich ein Maximum von 200 Stapeln an Mutation sammeln. Unsterblich hat eine Abklingzeit von 30 s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
-    },
-    "fr": {
-        "item_name": "Mutation Abondante",
-        "description": "Augmentation Passive: Nidus gagne 200 cumuls additionnels max de Mutation. Immortel a un temps de recharge de 30s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
-    },
-    "pt": {
-        "item_name": "Abundant Mutation",
-        "description": "Ampliação Passiva: Nidus receberá 200 de capacidade máxima adicional de acúmulos de Mutação, enquanto a Undying terá seu tempo de recarga aumentado para 30s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
-    },
-    "zh-hans": {
-        "item_name": "增生突变",
-        "description": "被动强化：给 Nidus 增加最多 200 层突变适性 。「不死」被动技能有 30 秒的冷却时间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Abundant_Mutation"
-    },
-    "zh-hant": {
-        "item_name": "突變增殖",
-        "description": "被動強化：Nidus 獲得額外最多 200 層突變適性。不死有 30 秒冷卻時間。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Abundant_Mutation"
-    },
-    "es": {
-        "item_name": "Mutación Abundante",
-        "description": "Aumento de pasiva: Nidus gana 200 acumulaciones de mutación máximas adicionales. Eterno tiene un tiempo de recarga de 30s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mutaci%C3%B3n_abundante"
-    },
-    "it": {
-        "item_name": "Abundant Mutation",
-        "description": "Potenziamento Passiva: Nidus guadagna ulteriori 200 cariche Mutazione. Undying ha un tempo di ricarica di 30s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
-    },
-    "pl": {
-        "item_name": "Obfita Mutacja",
-        "description": "Modyfikacja Umiejętności Pasywnej: Nidus zyskuje dodatkowe 200 do maksymalnej kumulacji Mutacji. Nieśmiertelny ma teraz czas odnowienia wynoszący 30s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
-    },
-    "uk": {
-        "item_name": "Рясна Мутація",
-        "description": "Розширення пасивної здібності: Нідус може набрати 200 одиниць мутації додатково. Здібність «Невмирущий» готова до повторного застосування за 30 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
+    "i18n": {
+        "en": {
+            "item_name": "Abundant Mutation",
+            "description": "Passive Augment: Nidus gains an additional 200 max stacks of Mutation. Undying has a 30s cooldown.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation",
+            "icon": "items/images/en/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.png",
+            "thumb": "items/images/en/thumbs/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.128x128.png"
+        },
+        "ru": {
+            "item_name": "Избыточная Мутация",
+            "description": "Улучшение пассивной способности: Нидус получит дополнительно 200 к максимальному количеству зарядов мутации. Время восстановления «Бессмертия» — 30 с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B7%D0%B1%D1%8B%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%9C%D1%83%D1%82%D0%B0%D1%86%D0%B8%D1%8F"
+        },
+        "ko": {
+            "item_name": "어번던트 뮤테이션",
+            "description": "패시브 개조: 나이더스가 추가로 200의 최대 변이 스택을 얻습니다. 패시브로 인한 무적 시간이 30초의 재사용 대기 시간을 갖습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
+        },
+        "de": {
+            "item_name": "Reichliche Mutation",
+            "description": "Passive Augment: Nidus kann zusätzlich ein Maximum von 200 Stapeln an Mutation sammeln. Unsterblich hat eine Abklingzeit von 30 s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
+        },
+        "fr": {
+            "item_name": "Mutation Abondante",
+            "description": "Augmentation Passive: Nidus gagne 200 cumuls additionnels max de Mutation. Immortel a un temps de recharge de 30s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
+        },
+        "pt": {
+            "item_name": "Abundant Mutation",
+            "description": "Ampliação Passiva: Nidus receberá 200 de capacidade máxima adicional de acúmulos de Mutação, enquanto a Undying terá seu tempo de recarga aumentado para 30s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
+        },
+        "zh-hans": {
+            "item_name": "增生突变",
+            "description": "被动强化：给 Nidus 增加最多 200 层突变适性 。「不死」被动技能有 30 秒的冷却时间。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Abundant_Mutation"
+        },
+        "zh-hant": {
+            "item_name": "突變增殖",
+            "description": "被動強化：Nidus 獲得額外最多 200 層突變適性。不死有 30 秒冷卻時間。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Abundant_Mutation"
+        },
+        "es": {
+            "item_name": "Mutación Abundante",
+            "description": "Aumento de pasiva: Nidus gana 200 acumulaciones de mutación máximas adicionales. Eterno tiene un tiempo de recarga de 30s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Mutaci%C3%B3n_abundante"
+        },
+        "it": {
+            "item_name": "Abundant Mutation",
+            "description": "Potenziamento Passiva: Nidus guadagna ulteriori 200 cariche Mutazione. Undying ha un tempo di ricarica di 30s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
+        },
+        "pl": {
+            "item_name": "Obfita Mutacja",
+            "description": "Modyfikacja Umiejętności Pasywnej: Nidus zyskuje dodatkowe 200 do maksymalnej kumulacji Mutacji. Nieśmiertelny ma teraz czas odnowienia wynoszący 30s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
+        },
+        "uk": {
+            "item_name": "Рясна Мутація",
+            "description": "Розширення пасивної здібності: Нідус може набрати 200 одиниць мутації додатково. Здібність «Невмирущий» готова до повторного застосування за 30 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Abundant_Mutation"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

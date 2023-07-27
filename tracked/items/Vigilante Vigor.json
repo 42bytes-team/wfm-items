@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Vigilante/WarframeVigilanteVigorMod"
     },
-    "en": {
-        "item_name": "Vigilante Vigor",
-        "description": "+60% Shield Recharge",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Vigor"
-    },
-    "ru": {
-        "item_name": "Карательная Биоэнергия",
-        "description": "+60% к скорости восстановления щита",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%91%D0%B8%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
-        "icon": "items/images/ru/vigilante_vigor.531e2c4780d6796f640f287d8c9c3dab.png",
-        "thumb": "items/images/ru/thumbs/vigilante_vigor.531e2c4780d6796f640f287d8c9c3dab.128x128.png"
-    },
-    "ko": {
-        "item_name": "비질란티 비거",
-        "description": "+60% 실드 재생률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Vigor"
-    },
-    "de": {
-        "item_name": "Vigilanten: Elan",
-        "description": "+60 % Schildladerate",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Vigilanten:_Eifer"
-    },
-    "fr": {
-        "item_name": "Vigueur Du Vigile",
-        "description": "+60% de Recharge des Boucliers",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vigueur_du_Vigile"
-    },
-    "pt": {
-        "item_name": "Vigilante Vigor",
-        "description": "+60% de Recarga dos Escudos",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vigilante_Vigor"
-    },
-    "zh-hans": {
-        "item_name": "私法 活力",
-        "description": "+60% 护盾恢复",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vigilante_Vigor"
-    },
-    "zh-hant": {
-        "item_name": "私法 活力",
-        "description": "+60% 護盾恢復",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vigilante_Vigor"
-    },
-    "es": {
-        "item_name": "Vigor Del Vigilante",
-        "description": "+60% recarga de escudo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Vigor_del_vigilante"
-    },
-    "it": {
-        "item_name": "Vigilante Vigor",
-        "description": "+60% Ricarica Scudo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Vigor"
-    },
-    "pl": {
-        "item_name": "Strażniczy Wigor",
-        "description": "+60% Odnawianie Tarcz",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Stra%C5%BCniczy_Wigor"
-    },
-    "uk": {
-        "item_name": "Бадьорість Чатового",
-        "description": "+60% до швидкості відновлення щитів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Vigor"
+    "i18n": {
+        "en": {
+            "item_name": "Vigilante Vigor",
+            "description": "+60% Shield Recharge",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Vigor",
+            "icon": "items/images/en/vigilante_vigor.f74b61489f4f32ad34416ffb9297f1ed.png",
+            "thumb": "items/images/en/thumbs/vigilante_vigor.f74b61489f4f32ad34416ffb9297f1ed.128x128.png"
+        },
+        "ru": {
+            "item_name": "Карательная Биоэнергия",
+            "description": "+60% к скорости восстановления щита",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%91%D0%B8%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
+            "icon": "items/images/ru/vigilante_vigor.531e2c4780d6796f640f287d8c9c3dab.png",
+            "thumb": "items/images/ru/thumbs/vigilante_vigor.531e2c4780d6796f640f287d8c9c3dab.128x128.png"
+        },
+        "ko": {
+            "item_name": "비질란티 비거",
+            "description": "+60% 실드 재생률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Vigor"
+        },
+        "de": {
+            "item_name": "Vigilanten: Elan",
+            "description": "+60 % Schildladerate",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Vigilanten:_Eifer"
+        },
+        "fr": {
+            "item_name": "Vigueur Du Vigile",
+            "description": "+60% de Recharge des Boucliers",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Vigueur_du_Vigile"
+        },
+        "pt": {
+            "item_name": "Vigilante Vigor",
+            "description": "+60% de Recarga dos Escudos",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vigilante_Vigor"
+        },
+        "zh-hans": {
+            "item_name": "私法 活力",
+            "description": "+60% 护盾恢复",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vigilante_Vigor"
+        },
+        "zh-hant": {
+            "item_name": "私法 活力",
+            "description": "+60% 護盾恢復",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vigilante_Vigor"
+        },
+        "es": {
+            "item_name": "Vigor Del Vigilante",
+            "description": "+60% recarga de escudo",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Vigor_del_vigilante"
+        },
+        "it": {
+            "item_name": "Vigilante Vigor",
+            "description": "+60% Ricarica Scudo",
+            "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Vigor"
+        },
+        "pl": {
+            "item_name": "Strażniczy Wigor",
+            "description": "+60% Odnawianie Tarcz",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Stra%C5%BCniczy_Wigor"
+        },
+        "uk": {
+            "item_name": "Бадьорість Чатового",
+            "description": "+60% до швидкості відновлення щитів",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Vigor"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

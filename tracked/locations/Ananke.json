@@ -9,52 +9,54 @@
     "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
     "min_level": 16,
     "max_level": 18,
-    "en": {
-        "node_name": "Ananke",
-        "system_name": "Jupiter"
-    },
-    "ru": {
-        "node_name": "Ananke",
-        "system_name": "Юпитер"
-    },
-    "ko": {
-        "node_name": "Ananke",
-        "system_name": "목성"
-    },
-    "de": {
-        "node_name": "Ananke",
-        "system_name": "Jupiter"
-    },
-    "fr": {
-        "node_name": "Ananke",
-        "system_name": "Jupiter"
-    },
-    "pt": {
-        "node_name": "Ananke",
-        "system_name": "Júpiter"
-    },
-    "zh-hans": {
-        "node_name": "Ananke",
-        "system_name": "木星"
-    },
-    "zh-hant": {
-        "node_name": "Ananke",
-        "system_name": "木星"
-    },
-    "es": {
-        "node_name": "Ananké",
-        "system_name": "Júpiter"
-    },
-    "it": {
-        "node_name": "Ananke",
-        "system_name": "Giove"
-    },
-    "pl": {
-        "node_name": "Ananke",
-        "system_name": "Jowisz"
-    },
-    "uk": {
-        "node_name": "Ананке",
-        "system_name": "Юпітер"
+    "i18n": {
+        "en": {
+            "node_name": "Ananke",
+            "system_name": "Jupiter"
+        },
+        "ru": {
+            "node_name": "Ananke",
+            "system_name": "Юпитер"
+        },
+        "ko": {
+            "node_name": "Ananke",
+            "system_name": "목성"
+        },
+        "de": {
+            "node_name": "Ananke",
+            "system_name": "Jupiter"
+        },
+        "fr": {
+            "node_name": "Ananke",
+            "system_name": "Jupiter"
+        },
+        "pt": {
+            "node_name": "Ananke",
+            "system_name": "Júpiter"
+        },
+        "zh-hans": {
+            "node_name": "Ananke",
+            "system_name": "木星"
+        },
+        "zh-hant": {
+            "node_name": "Ananke",
+            "system_name": "木星"
+        },
+        "es": {
+            "node_name": "Ananké",
+            "system_name": "Júpiter"
+        },
+        "it": {
+            "node_name": "Ananke",
+            "system_name": "Giove"
+        },
+        "pl": {
+            "node_name": "Ananke",
+            "system_name": "Jowisz"
+        },
+        "uk": {
+            "node_name": "Ананке",
+            "system_name": "Юпітер"
+        }
     }
 }

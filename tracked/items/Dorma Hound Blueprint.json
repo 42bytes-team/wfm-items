@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartHeadABlueprint"
     },
-    "en": {
-        "item_name": "Dorma Hound Blueprint",
-        "description": "",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Гончая: Дорма (Чертеж)",
-        "description": "",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "도르마 하운드 설계도",
-        "description": "",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Jagdhund: Dorma Blaupause",
-        "description": "",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Molosse Dorma (Schéma)",
-        "description": "",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Predador Dorma (Diagrama)",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "铎玛猎犬 蓝图",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "朵瑪犬首 藍圖",
-        "description": "",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Sabueso Dorma",
-        "description": "",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Dorma - Segugio (Schema)",
-        "description": "",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Ogar Dorma - Schemat",
-        "description": "",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Гончак Дорма (креслення)",
-        "description": "",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Dorma Hound Blueprint",
+            "description": "",
+            "wiki_link": null,
+            "icon": "items/images/en/dorma_hound_blueprint.5f0f35b851d0e88a1668374a2c164077.png",
+            "thumb": "items/images/en/thumbs/dorma_hound_blueprint.5f0f35b851d0e88a1668374a2c164077.128x128.png"
+        },
+        "ru": {
+            "item_name": "Гончая: Дорма (Чертеж)",
+            "description": "",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "도르마 하운드 설계도",
+            "description": "",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Jagdhund: Dorma Blaupause",
+            "description": "",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Molosse Dorma (Schéma)",
+            "description": "",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Predador Dorma (Diagrama)",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "铎玛猎犬 蓝图",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "朵瑪犬首 藍圖",
+            "description": "",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Sabueso Dorma",
+            "description": "",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Dorma - Segugio (Schema)",
+            "description": "",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Ogar Dorma - Schemat",
+            "description": "",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Гончак Дорма (креслення)",
+            "description": "",
+            "wiki_link": null
+        }
     },
     "mastery_level": 0,
     "trading_tax": 2000

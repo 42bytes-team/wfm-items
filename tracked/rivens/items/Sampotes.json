@@ -5,57 +5,59 @@
     "riven_type": "melee",
     "icon": "riven_item/images/sampotes.f984db830e9df86e25cf2ca4b52f658d.png",
     "thumb": "riven_item/images/thumbs/sampotes.f984db830e9df86e25cf2ca4b52f658d.128x128.png",
-    "disposition": 0.5,
+    "disposition": 0.75,
     "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Hammer/DaxDuviriHammer/DaxDuviriHammerWeapon"
     },
-    "en": {
-        "item_name": "Sampotes",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sampotes"
-    },
-    "ru": {
-        "item_name": "Сампот",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "삼포테스",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Sampotes",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Sampotes",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Sampotes",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "三宝聚",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "三破",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Sampotes",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Sampotes",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Sampotes",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Сампот",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Sampotes",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sampotes"
+        },
+        "ru": {
+            "item_name": "Сампот",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "삼포테스",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Sampotes",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Sampotes",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Sampotes",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "三宝聚",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "三破",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Sampotes",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Sampotes",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Sampotes",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Сампот",
+            "wiki_link": null
+        }
     }
 }

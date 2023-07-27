@@ -20,65 +20,69 @@
         "hespar_set"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Hespar Set",
-        "description": "This Heavy Scythe echoes battles of another time. It is far more a weapon of sheer force than one of finesse.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Геспар: Комплект",
-        "description": "Тяжёлая коса, от которой идёт эхо прошлых сражений. Это скорее оружие грубой силы, чем точности.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "헤스파르 세트",
-        "description": "이 대낫은 또 다른 시대의 전투를 재현해냅니다. 기교보다는 순수한 위력으로 승부를 보는 무기입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Hespar: Set",
-        "description": "Diese Schwere Sense erinnert an Schlachten aus einer anderen Zeit. Es ist weit mehr eine Waffe der schieren Gewalt als eine der Finesse.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Hespar - Set",
-        "description": "Cette Faux Lourde fait écho aux batailles d'un autre temps. C'est bien plus une arme de force pure qu'une arme de finesse.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Hespar: Conjunto",
-        "description": "Esta Foice Pesada emite ecos de batalhas passadas, focada muito mais na força bruta do que na sutileza.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "暮斩 一套",
-        "description": "（英文：HESPAR）这把重型镰刀呼应了另一个时代的战斗。其更像是一种纯粹的力量型武器，而不是一种技巧型武器。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "夕憶 一套",
-        "description": "（英文：HESPAR）這把巨鐮迴響著另一時代的戰鬥。它更像是一把純然力量而非技巧類型的武器。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Set de Hespar",
-        "description": "Esta guadaña pesada se hace eco en las batallas de otro tiempo. Es mucho más un arma de fuerza pura que de delicadeza.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Hespar Set",
-        "description": "Questa Falce Pesante riecheggia battaglie di altri tempi. È più un'arma di pura forza che di finezza.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Hespar: Zestaw",
-        "description": "W tej Ciężkiej Kosie rozbrzmiewają echa bitew innej epoki. Ta broń polega bardziej na czystej sile niż finezji użycia.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Геспар (комплект)",
-        "description": "Важка коса, від якої йде відлуння минулих битв. Це зброя грубої сили, а не витончених рухів.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Hespar Set",
+            "description": "This Heavy Scythe echoes battles of another time. It is far more a weapon of sheer force than one of finesse.",
+            "wiki_link": null,
+            "icon": "items/images/en/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.png",
+            "thumb": "items/images/en/thumbs/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.128x128.png"
+        },
+        "ru": {
+            "item_name": "Геспар: Комплект",
+            "description": "Тяжёлая коса, от которой идёт эхо прошлых сражений. Это скорее оружие грубой силы, чем точности.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "헤스파르 세트",
+            "description": "이 대낫은 또 다른 시대의 전투를 재현해냅니다. 기교보다는 순수한 위력으로 승부를 보는 무기입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Hespar: Set",
+            "description": "Diese Schwere Sense erinnert an Schlachten aus einer anderen Zeit. Es ist weit mehr eine Waffe der schieren Gewalt als eine der Finesse.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Hespar - Set",
+            "description": "Cette Faux Lourde fait écho aux batailles d'un autre temps. C'est bien plus une arme de force pure qu'une arme de finesse.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Hespar: Conjunto",
+            "description": "Esta Foice Pesada emite ecos de batalhas passadas, focada muito mais na força bruta do que na sutileza.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "暮斩 一套",
+            "description": "（英文：HESPAR）这把重型镰刀呼应了另一个时代的战斗。其更像是一种纯粹的力量型武器，而不是一种技巧型武器。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "夕憶 一套",
+            "description": "（英文：HESPAR）這把巨鐮迴響著另一時代的戰鬥。它更像是一把純然力量而非技巧類型的武器。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Set de Hespar",
+            "description": "Esta guadaña pesada se hace eco en las batallas de otro tiempo. Es mucho más un arma de fuerza pura que de delicadeza.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Hespar Set",
+            "description": "Questa Falce Pesante riecheggia battaglie di altri tempi. È più un'arma di pura forza che di finezza.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Hespar: Zestaw",
+            "description": "W tej Ciężkiej Kosie rozbrzmiewają echa bitew innej epoki. Ta broń polega bardziej na czystej sile niż finezji użycia.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Геспар (комплект)",
+            "description": "Важка коса, від якої йде відлуння минулих битв. Це зброя грубої сили, а не витончених рухів.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 12,
     "trading_tax": 4000

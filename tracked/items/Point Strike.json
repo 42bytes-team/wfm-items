@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponCritChanceMod"
     },
-    "en": {
-        "item_name": "Point Strike",
-        "description": "+150% Critical Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Point_Strike"
-    },
-    "ru": {
-        "item_name": "Точечный Удар",
-        "description": "+150% шанс крит. урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%A3%D0%B4%D0%B0%D1%80",
-        "icon": "items/images/ru/point_strike.1466eb97feebc9bb96c1e55f8a3b4e7c.png",
-        "thumb": "items/images/ru/thumbs/point_strike.1466eb97feebc9bb96c1e55f8a3b4e7c.128x128.png"
-    },
-    "ko": {
-        "item_name": "포인트 스트라이크",
-        "description": "+150% 치명타 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Point_Strike"
-    },
-    "de": {
-        "item_name": "Punktangriff",
-        "description": "+150 % Krit. Chance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Punktangriff"
-    },
-    "fr": {
-        "item_name": "Frappe Tendue",
-        "description": "+150% de Chances de Critique",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_tendue"
-    },
-    "pt": {
-        "item_name": "Point Strike",
-        "description": "+150% de Chance Crítica",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Point_Strike"
-    },
-    "zh-hans": {
-        "item_name": "致命一击",
-        "description": "+150% 暴击几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Point_Strike"
-    },
-    "zh-hant": {
-        "item_name": "致命一擊",
-        "description": "+150% 暴擊率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Point_Strike"
-    },
-    "es": {
-        "item_name": "Punto De Impacto",
-        "description": "+150% de probabilidad crítica",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Punto_de_impacto"
-    },
-    "it": {
-        "item_name": "Point Strike",
-        "description": "+150% Probabilità Critico",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Point_Strike"
-    },
-    "pl": {
-        "item_name": "Uderzenie Punktowe",
-        "description": "+150% Szansy Obrażeń Krytycznych",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Uderzenie_Punktowe"
-    },
-    "uk": {
-        "item_name": "Точковий Удар",
-        "description": "+150% до ймовірності критичної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Point_Strike"
+    "i18n": {
+        "en": {
+            "item_name": "Point Strike",
+            "description": "+150% Critical Chance",
+            "wiki_link": "https://warframe.fandom.com/wiki/Point_Strike",
+            "icon": "items/images/en/point_strike.daf4a843bb0b729029dcf70c64647cca.png",
+            "thumb": "items/images/en/thumbs/point_strike.daf4a843bb0b729029dcf70c64647cca.128x128.png"
+        },
+        "ru": {
+            "item_name": "Точечный Удар",
+            "description": "+150% шанс крит. урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%BE%D1%87%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%A3%D0%B4%D0%B0%D1%80",
+            "icon": "items/images/ru/point_strike.1466eb97feebc9bb96c1e55f8a3b4e7c.png",
+            "thumb": "items/images/ru/thumbs/point_strike.1466eb97feebc9bb96c1e55f8a3b4e7c.128x128.png"
+        },
+        "ko": {
+            "item_name": "포인트 스트라이크",
+            "description": "+150% 치명타 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Point_Strike"
+        },
+        "de": {
+            "item_name": "Punktangriff",
+            "description": "+150 % Krit. Chance",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Punktangriff"
+        },
+        "fr": {
+            "item_name": "Frappe Tendue",
+            "description": "+150% de Chances de Critique",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_tendue"
+        },
+        "pt": {
+            "item_name": "Point Strike",
+            "description": "+150% de Chance Crítica",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Point_Strike"
+        },
+        "zh-hans": {
+            "item_name": "致命一击",
+            "description": "+150% 暴击几率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Point_Strike"
+        },
+        "zh-hant": {
+            "item_name": "致命一擊",
+            "description": "+150% 暴擊率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Point_Strike"
+        },
+        "es": {
+            "item_name": "Punto De Impacto",
+            "description": "+150% de probabilidad crítica",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Punto_de_impacto"
+        },
+        "it": {
+            "item_name": "Point Strike",
+            "description": "+150% Probabilità Critico",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Point_Strike"
+        },
+        "pl": {
+            "item_name": "Uderzenie Punktowe",
+            "description": "+150% Szansy Obrażeń Krytycznych",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Uderzenie_Punktowe"
+        },
+        "uk": {
+            "item_name": "Точковий Удар",
+            "description": "+150% до ймовірності критичної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Point_Strike"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

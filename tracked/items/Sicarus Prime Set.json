@@ -22,65 +22,69 @@
         "sicarus_prime_set"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Sicarus Prime Set",
-        "description": "The Sicarus Prime is an ornamental firearm that fires rounds in rapid bursts, providing a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime"
-    },
-    "ru": {
-        "item_name": "Сикарус Прайм: Комплект",
-        "description": "Сикарус Прайм - искусно украшенный пистолет, ведущий огонь очередями, что обеспечивает баланс между убойной силой автоматических пистолетов и точностью полуавтоматических.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BA%D0%B0%D1%80%D1%83%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "시카루스 프라임 세트",
-        "description": "시카루스 프라임은 빠른 연사를 하는 의장용 화기입니다, 자동 권총의 살상력과 반자동 권총의 정확도 사이의 밸런스를 가지고 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime"
-    },
-    "de": {
-        "item_name": "Sicarus Prime: Set",
-        "description": "Die Sicarus Prime ist eine schmückende Schusswaffe, die Geschosse in schnellen Stößen feuert. Sie bietet ein Gleichgewicht zwischen der tödlichen Wirkung automatischer und der Präzision halbautomatischer Pistolen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicarus_Prime"
-    },
-    "fr": {
-        "item_name": "Sicarus Prime - Set",
-        "description": "Le Sicarus Prime est une arme ornementale qui tire des balles en rafales rapides, offrant un équilibre entre la létalité des Pistolets automatiques et la précision des Pistolets semi-automatiques.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sicarus_Prime"
-    },
-    "pt": {
-        "item_name": "Sicarus Prime: Conjunto",
-        "description": "A Sicarus Prime é uma arma de fogo ornamental que dispara projéteis em rápida sucessão, proporcionando um equilíbrio entre a letalidade das pistolas automáticas e a precisão das semi-automáticas.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sicarus_Prime"
-    },
-    "zh-hans": {
-        "item_name": "暗杀者 Prime 一套",
-        "description": "（英文：SICARUS PRIME）暗杀者 PRIME 是一把快速点射的装饰性武器，在连发手枪的杀伤力和单发手枪的准确度之间取得平衡。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sicarus_Prime"
-    },
-    "zh-hant": {
-        "item_name": "暗殺者 Prime 一套",
-        "description": "（英文：SICARUS PRIME）暗殺者 PRIME 是一把快速點放的裝飾性武器，在連發手槍的殺傷力和單發手槍的準確度之間取得平衡。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sicarus_Prime"
-    },
-    "es": {
-        "item_name": "Set de Sicarus Prime",
-        "description": "La Sicarus Prime es un arma ornamental que dispara rondas en ráfagas rápidas, proporcionando un equilibrio entre la letalidad de las pistolas automáticas y la exactitud de las pistolas semiautomáticas.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sicarus_Prime"
-    },
-    "it": {
-        "item_name": "Sicarus Prime Set",
-        "description": "La Sicarus Prime è una pistola ornamentale che spara rapide raffiche di proiettili, fornendo un equlibrio fra la letalità delle pistole automatiche e la precisione delle semi-automatiche.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sicarus_Prime"
-    },
-    "pl": {
-        "item_name": "Sicarus Prime: Zestaw",
-        "description": "Sicarus Prime jest ozdobnym pistoletem strzelającym krótkimi seriami, co zapewnia równowagę między mocą automatycznych pistoletów i dokładnością półautomatycznych.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sicarus_Prime"
-    },
-    "uk": {
-        "item_name": "Сикар-Прайм (комплект)",
-        "description": "Оздоблений модифікований пістолет «Сикар». Стріляє короткими чергами. Поєднує смертоносність автоматичних і влучність напівавтоматичних пістолетів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Sicarus Prime Set",
+            "description": "The Sicarus Prime is an ornamental firearm that fires rounds in rapid bursts, providing a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime",
+            "icon": "items/images/en/sicarus_prime_set.e7c07172e6d63d49ae349d508c56fc85.png",
+            "thumb": "items/images/en/thumbs/sicarus_prime_set.e7c07172e6d63d49ae349d508c56fc85.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сикарус Прайм: Комплект",
+            "description": "Сикарус Прайм - искусно украшенный пистолет, ведущий огонь очередями, что обеспечивает баланс между убойной силой автоматических пистолетов и точностью полуавтоматических.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BA%D0%B0%D1%80%D1%83%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "시카루스 프라임 세트",
+            "description": "시카루스 프라임은 빠른 연사를 하는 의장용 화기입니다, 자동 권총의 살상력과 반자동 권총의 정확도 사이의 밸런스를 가지고 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime"
+        },
+        "de": {
+            "item_name": "Sicarus Prime: Set",
+            "description": "Die Sicarus Prime ist eine schmückende Schusswaffe, die Geschosse in schnellen Stößen feuert. Sie bietet ein Gleichgewicht zwischen der tödlichen Wirkung automatischer und der Präzision halbautomatischer Pistolen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Sicarus_Prime"
+        },
+        "fr": {
+            "item_name": "Sicarus Prime - Set",
+            "description": "Le Sicarus Prime est une arme ornementale qui tire des balles en rafales rapides, offrant un équilibre entre la létalité des Pistolets automatiques et la précision des Pistolets semi-automatiques.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Sicarus_Prime"
+        },
+        "pt": {
+            "item_name": "Sicarus Prime: Conjunto",
+            "description": "A Sicarus Prime é uma arma de fogo ornamental que dispara projéteis em rápida sucessão, proporcionando um equilíbrio entre a letalidade das pistolas automáticas e a precisão das semi-automáticas.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sicarus_Prime"
+        },
+        "zh-hans": {
+            "item_name": "暗杀者 Prime 一套",
+            "description": "（英文：SICARUS PRIME）暗杀者 PRIME 是一把快速点射的装饰性武器，在连发手枪的杀伤力和单发手枪的准确度之间取得平衡。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sicarus_Prime"
+        },
+        "zh-hant": {
+            "item_name": "暗殺者 Prime 一套",
+            "description": "（英文：SICARUS PRIME）暗殺者 PRIME 是一把快速點放的裝飾性武器，在連發手槍的殺傷力和單發手槍的準確度之間取得平衡。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sicarus_Prime"
+        },
+        "es": {
+            "item_name": "Set de Sicarus Prime",
+            "description": "La Sicarus Prime es un arma ornamental que dispara rondas en ráfagas rápidas, proporcionando un equilibrio entre la letalidad de las pistolas automáticas y la exactitud de las pistolas semiautomáticas.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sicarus_Prime"
+        },
+        "it": {
+            "item_name": "Sicarus Prime Set",
+            "description": "La Sicarus Prime è una pistola ornamentale che spara rapide raffiche di proiettili, fornendo un equlibrio fra la letalità delle pistole automatiche e la precisione delle semi-automatiche.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Sicarus_Prime"
+        },
+        "pl": {
+            "item_name": "Sicarus Prime: Zestaw",
+            "description": "Sicarus Prime jest ozdobnym pistoletem strzelającym krótkimi seriami, co zapewnia równowagę między mocą automatycznych pistoletów i dokładnością półautomatycznych.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Sicarus_Prime"
+        },
+        "uk": {
+            "item_name": "Сикар-Прайм (комплект)",
+            "description": "Оздоблений модифікований пістолет «Сикар». Стріляє короткими чергами. Поєднує смертоносність автоматичних і влучність напівавтоматичних пістолетів.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sicarus_Prime"
+        }
     },
     "mastery_level": 14,
     "ducats": 130,

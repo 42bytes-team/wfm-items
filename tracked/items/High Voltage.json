@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/ElectEventRifleMod"
     },
-    "en": {
-        "item_name": "High Voltage",
-        "description": "+60% Electricity\n+60% Status Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/High_Voltage"
-    },
-    "ru": {
-        "item_name": "Высокое Напряжение",
-        "description": "+60% урона электричеством\n+60% к шансу статуса",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/high_voltage.a02b854675b336d2f4506043dc67c101.png",
-        "thumb": "items/images/ru/thumbs/high_voltage.a02b854675b336d2f4506043dc67c101.128x128.png"
-    },
-    "ko": {
-        "item_name": "하이 볼티지",
-        "description": "+60% 전기\n+60% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/High_Voltage"
-    },
-    "de": {
-        "item_name": "Hochspannung",
-        "description": "+60 % Elektrizität\n+60 % Statuschance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Hochspannung"
-    },
-    "fr": {
-        "item_name": "Haute Tension",
-        "description": "+60% Électrique\n+60% de Chances de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Haute_Tension"
-    },
-    "pt": {
-        "item_name": "High Voltage",
-        "description": "+60% de Elétrico\n+60% de Chance de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/High_Voltage"
-    },
-    "zh-hans": {
-        "item_name": "高压电流",
-        "description": "+60% 电击伤害\n+60% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/High_Voltage"
-    },
-    "zh-hant": {
-        "item_name": "高壓電流",
-        "description": "+60% 電擊傷害\n+60% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/High_Voltage"
-    },
-    "es": {
-        "item_name": "Alto Voltaje",
-        "description": "+60% de electricidad\n+60% de probabilidad de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Alto_voltaje"
-    },
-    "it": {
-        "item_name": "High Voltage",
-        "description": "+60% Elettrico\n+60% Probabilità Effetto",
-        "wiki_link": "http://warframe.wikia.com/wiki/High_Voltage"
-    },
-    "pl": {
-        "item_name": "Wysokie Napięcie",
-        "description": "+60% Obrażeń Elektrycznych\n+60% Szansa Statusu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wysokie_Napi%C4%99cie"
-    },
-    "uk": {
-        "item_name": "Висока Напруга",
-        "description": "+60% до електричної шкоди.\n+60% до ймовірності застосування ефекту стану.",
-        "wiki_link": "https://warframe.fandom.com/wiki/High_Voltage"
+    "i18n": {
+        "en": {
+            "item_name": "High Voltage",
+            "description": "+60% Electricity\n+60% Status Chance",
+            "wiki_link": "https://warframe.fandom.com/wiki/High_Voltage",
+            "icon": "items/images/en/high_voltage.7cbb2f64f8466287ca44afd08e952311.png",
+            "thumb": "items/images/en/thumbs/high_voltage.7cbb2f64f8466287ca44afd08e952311.128x128.png"
+        },
+        "ru": {
+            "item_name": "Высокое Напряжение",
+            "description": "+60% урона электричеством\n+60% к шансу статуса",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/high_voltage.a02b854675b336d2f4506043dc67c101.png",
+            "thumb": "items/images/ru/thumbs/high_voltage.a02b854675b336d2f4506043dc67c101.128x128.png"
+        },
+        "ko": {
+            "item_name": "하이 볼티지",
+            "description": "+60% 전기\n+60% 상태 이상 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/High_Voltage"
+        },
+        "de": {
+            "item_name": "Hochspannung",
+            "description": "+60 % Elektrizität\n+60 % Statuschance",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Hochspannung"
+        },
+        "fr": {
+            "item_name": "Haute Tension",
+            "description": "+60% Électrique\n+60% de Chances de Statut",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Haute_Tension"
+        },
+        "pt": {
+            "item_name": "High Voltage",
+            "description": "+60% de Elétrico\n+60% de Chance de Status",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/High_Voltage"
+        },
+        "zh-hans": {
+            "item_name": "高压电流",
+            "description": "+60% 电击伤害\n+60% 触发几率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/High_Voltage"
+        },
+        "zh-hant": {
+            "item_name": "高壓電流",
+            "description": "+60% 電擊傷害\n+60% 觸發機率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/High_Voltage"
+        },
+        "es": {
+            "item_name": "Alto Voltaje",
+            "description": "+60% de electricidad\n+60% de probabilidad de estado",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Alto_voltaje"
+        },
+        "it": {
+            "item_name": "High Voltage",
+            "description": "+60% Elettrico\n+60% Probabilità Effetto",
+            "wiki_link": "http://warframe.wikia.com/wiki/High_Voltage"
+        },
+        "pl": {
+            "item_name": "Wysokie Napięcie",
+            "description": "+60% Obrażeń Elektrycznych\n+60% Szansa Statusu",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Wysokie_Napi%C4%99cie"
+        },
+        "uk": {
+            "item_name": "Висока Напруга",
+            "description": "+60% до електричної шкоди\n+60% до ймовірності накладання ефекту стану",
+            "wiki_link": "https://warframe.fandom.com/wiki/High_Voltage"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

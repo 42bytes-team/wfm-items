@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowCloakPrecept"
     },
-    "en": {
-        "item_name": "Stalk",
-        "description": "The kubrow cloaks itself and its master to stalk down its prey when they are within 24m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stalk"
-    },
-    "ru": {
-        "item_name": "Выслеживание",
-        "description": "Кубрау скрывает себя и своего хозяина для выслеживания добычи, если та находится в радиусе 24м.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D1%81%D0%BB%D0%B5%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/stalk.890b7a69fa9c750962f48f58dd79be39.png",
-        "thumb": "items/images/ru/thumbs/stalk.890b7a69fa9c750962f48f58dd79be39.128x128.png"
-    },
-    "ko": {
-        "item_name": "스토크",
-        "description": "쿠브로가 적이 24m 안에 있는 경우 주인과 쿠브로 자신을 투명화 합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stalk"
-    },
-    "de": {
-        "item_name": "Pirsch",
-        "description": "Der Kubrow tarnt sich und seinen Herren, um Beute zu jagen, wenn sie sich innerhalb von 24m befindet.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pirsch"
-    },
-    "fr": {
-        "item_name": "Traque",
-        "description": "Le kubrow camoufle son maître ainsi que lui-même pour traquer sa proie lorsqu'elle se trouve dans un rayon de 24m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Traque"
-    },
-    "pt": {
-        "item_name": "Stalk",
-        "description": "O kubrow camufla a si mesmo e ao seu mestre para caçar sua presa enquanto eles estão dentro de 24m de Alcance.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Stalk"
-    },
-    "zh-hans": {
-        "item_name": "隐密追踪",
-        "description": "当距离敌人24 米范围内时，库狛与其主人一起进入潜行状态以悄悄接近猎物。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stalk"
-    },
-    "zh-hant": {
-        "item_name": "隱密追蹤",
-        "description": "當距離敵人24 公尺範圍內時，庫狛與其主人一起進入潛行狀態以悄悄接近獵物。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stalk"
-    },
-    "es": {
-        "item_name": "Acechar",
-        "description": "El kubrow se oculta a sí mismo y a su amo para acechar a sus presas cuando están dentro de un radio de 24m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Acechar"
-    },
-    "it": {
-        "item_name": "Stalk",
-        "description": "Il kubrow mimetizza se stesso ed il suo padrone per cacciare la sua preda quando entro 24m.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Stalker"
-    },
-    "pl": {
-        "item_name": "Podchody",
-        "description": "Kubrow ukrywa siebie oraz swojego właściciela, aby zaskoczyć wroga znajdującego się w zasięgu 24m.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Stalk"
-    },
-    "uk": {
-        "item_name": "Крадькома",
-        "description": "Куброу маскує себе та свого господаря, щоби непомітно підкрастися до своєї жертви в межах 24 м.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stalk"
+    "i18n": {
+        "en": {
+            "item_name": "Stalk",
+            "description": "The kubrow cloaks itself and its master to stalk down its prey when they are within 24m.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stalk",
+            "icon": "items/images/en/stalk.8b4fd08cc1127272a4cab4545c170187.png",
+            "thumb": "items/images/en/thumbs/stalk.8b4fd08cc1127272a4cab4545c170187.128x128.png"
+        },
+        "ru": {
+            "item_name": "Выслеживание",
+            "description": "Кубрау скрывает себя и своего хозяина для выслеживания добычи, если та находится в радиусе 24м.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D1%81%D0%BB%D0%B5%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/stalk.890b7a69fa9c750962f48f58dd79be39.png",
+            "thumb": "items/images/ru/thumbs/stalk.890b7a69fa9c750962f48f58dd79be39.128x128.png"
+        },
+        "ko": {
+            "item_name": "스토크",
+            "description": "쿠브로가 적이 24m 안에 있는 경우 주인과 쿠브로 자신을 투명화 합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stalk"
+        },
+        "de": {
+            "item_name": "Pirsch",
+            "description": "Der Kubrow tarnt sich und seinen Herren, um Beute zu jagen, wenn sie sich innerhalb von 24m befindet.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Pirsch"
+        },
+        "fr": {
+            "item_name": "Traque",
+            "description": "Le kubrow camoufle son maître ainsi que lui-même pour traquer sa proie lorsqu'elle se trouve dans un rayon de 24m.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Traque"
+        },
+        "pt": {
+            "item_name": "Stalk",
+            "description": "O kubrow camufla a si mesmo e ao seu mestre para caçar sua presa enquanto eles estão dentro de 24m de Alcance.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Stalk"
+        },
+        "zh-hans": {
+            "item_name": "隐密追踪",
+            "description": "当距离敌人24 米范围内时，库狛与其主人一起进入潜行状态以悄悄接近猎物。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Stalk"
+        },
+        "zh-hant": {
+            "item_name": "隱密追蹤",
+            "description": "當距離敵人24 公尺範圍內時，庫狛與其主人一起進入潛行狀態以悄悄接近獵物。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Stalk"
+        },
+        "es": {
+            "item_name": "Acechar",
+            "description": "El kubrow se oculta a sí mismo y a su amo para acechar a sus presas cuando están dentro de un radio de 24m.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Acechar"
+        },
+        "it": {
+            "item_name": "Stalk",
+            "description": "Il kubrow mimetizza se stesso ed il suo padrone per cacciare la sua preda quando entro 24m.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Stalker"
+        },
+        "pl": {
+            "item_name": "Podchody",
+            "description": "Kubrow ukrywa siebie oraz swojego właściciela, aby zaskoczyć wroga znajdującego się w zasięgu 24m.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Stalk"
+        },
+        "uk": {
+            "item_name": "Крадькома",
+            "description": "Куброу маскує себе та свого господаря, щоби непомітно підкрастися до своєї жертви в межах 24 м.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stalk"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

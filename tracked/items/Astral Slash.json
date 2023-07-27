@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatSlashStatusMeleeMod"
     },
-    "en": {
-        "item_name": "Astral Slash",
-        "description": "+90% Slash",
-        "wiki_link": "https://warframe.fandom.com/wiki/Astral_Slash"
-    },
-    "ru": {
-        "item_name": "Астральное Рассечение",
-        "description": "+90% разрезающего урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/astral_slash.268ef35fb41a3d9f236ff88f2ac99bdc.png",
-        "thumb": "items/images/ru/thumbs/astral_slash.268ef35fb41a3d9f236ff88f2ac99bdc.128x128.png"
-    },
-    "ko": {
-        "item_name": "아스트랄 슬래쉬",
-        "description": "+90% 베기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Astral_Slash"
-    },
-    "de": {
-        "item_name": "Astraler Schnitt",
-        "description": "+90 % Schnitt",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Astraler_Schnitt"
-    },
-    "fr": {
-        "item_name": "Tranchant Astral",
-        "description": "+90% Tranchant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tranchant_Astral"
-    },
-    "pt": {
-        "item_name": "Astral Slash",
-        "description": "+90% de Cortante",
-        "wiki_link": "http://warframe.wikia.com/wiki/Astral_Slash"
-    },
-    "zh-hans": {
-        "item_name": "星体切砍",
-        "description": "+90% 切割伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Astral_Slash"
-    },
-    "zh-hant": {
-        "item_name": "星體切砍",
-        "description": "+90% 切割傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Astral_Slash"
-    },
-    "es": {
-        "item_name": "Corte Astral",
-        "description": "+90% de cortante",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Corte_astral"
-    },
-    "it": {
-        "item_name": "Astral Slash",
-        "description": "+90% Taglio",
-        "wiki_link": "http://warframe.wikia.com/wiki/Astral_Slash"
-    },
-    "pl": {
-        "item_name": "Astralne Cięcie",
-        "description": "+90% Obrażeń Tnących",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Astralne_Ci%C4%99cie"
-    },
-    "uk": {
-        "item_name": "Астральний Поріз",
-        "description": "+90% до різальної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Astral_Slash"
+    "i18n": {
+        "en": {
+            "item_name": "Astral Slash",
+            "description": "+90% Slash",
+            "wiki_link": "https://warframe.fandom.com/wiki/Astral_Slash",
+            "icon": "items/images/en/astral_slash.45fd1a984ff3ce528459bd72ec607e5b.png",
+            "thumb": "items/images/en/thumbs/astral_slash.45fd1a984ff3ce528459bd72ec607e5b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Астральное Рассечение",
+            "description": "+90% разрезающего урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/astral_slash.268ef35fb41a3d9f236ff88f2ac99bdc.png",
+            "thumb": "items/images/ru/thumbs/astral_slash.268ef35fb41a3d9f236ff88f2ac99bdc.128x128.png"
+        },
+        "ko": {
+            "item_name": "아스트랄 슬래쉬",
+            "description": "+90% 베기",
+            "wiki_link": "https://warframe.fandom.com/wiki/Astral_Slash"
+        },
+        "de": {
+            "item_name": "Astraler Schnitt",
+            "description": "+90 % Schnitt",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Astraler_Schnitt"
+        },
+        "fr": {
+            "item_name": "Tranchant Astral",
+            "description": "+90% Tranchant",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Tranchant_Astral"
+        },
+        "pt": {
+            "item_name": "Astral Slash",
+            "description": "+90% de Cortante",
+            "wiki_link": "http://warframe.wikia.com/wiki/Astral_Slash"
+        },
+        "zh-hans": {
+            "item_name": "星体切砍",
+            "description": "+90% 切割伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Astral_Slash"
+        },
+        "zh-hant": {
+            "item_name": "星體切砍",
+            "description": "+90% 切割傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Astral_Slash"
+        },
+        "es": {
+            "item_name": "Corte Astral",
+            "description": "+90% de cortante",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Corte_astral"
+        },
+        "it": {
+            "item_name": "Astral Slash",
+            "description": "+90% Taglio",
+            "wiki_link": "http://warframe.wikia.com/wiki/Astral_Slash"
+        },
+        "pl": {
+            "item_name": "Astralne Cięcie",
+            "description": "+90% Obrażeń Tnących",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Astralne_Ci%C4%99cie"
+        },
+        "uk": {
+            "item_name": "Астральний Поріз",
+            "description": "+90% до різальної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Astral_Slash"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemVacum"
     },
-    "en": {
-        "item_name": "Ammo Case",
-        "description": "Increases Ammo Capacity by 25% and converts Ammo Pickups into ammo for equipped weapons after 2s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ammo_Case"
-    },
-    "ru": {
-        "item_name": "Оружейный Ящик",
-        "description": "Увеличивает боезапас на 25% и конвертирует подбираемые боеприпасы в боезапас текущего оружия с задержкой в 2с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%AF%D1%89%D0%B8%D0%BA",
-        "icon": "items/images/ru/ammo_case.a3aa6742d5314d56a80c04959ad813d5.png",
-        "thumb": "items/images/ru/thumbs/ammo_case.a3aa6742d5314d56a80c04959ad813d5.128x128.png"
-    },
-    "ko": {
-        "item_name": "애모 케이스",
-        "description": "탄약 수를 25% 늘려주며, 사용되지 않는 탄약 드롭 아이템을 2초 후 사용 중인 무기의 탄약으로 변환합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ammo_Case"
-    },
-    "de": {
-        "item_name": "Munitionskiste",
-        "description": "Munitionskapazität wird um 25 % erhöht und Munitionsbeute wird zu Munition für die ausgerüstete Waffe umgewandelt, nach 2 s Verzögerung.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Munition"
-    },
-    "fr": {
-        "item_name": "Caisse À Munitions",
-        "description": "Augmente la Capacité en Munitions de 25% et convertit les Munitions ramassées en munition pour les armes équipées après un délai de 2s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Caisse_%C3%A0_munitions"
-    },
-    "pt": {
-        "item_name": "Ammo Case",
-        "description": "Aumenta a Capacidade de Munição em 25%, e converte Coletáveis de Munição para munição das armas equipadas após 2s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case"
-    },
-    "zh-hans": {
-        "item_name": "弹药储转箱",
-        "description": "提升弹药携带量 25% 并在捡取弹药后的 2 秒将其转换为目前使用中的武器弹药类型。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ammo_Case"
-    },
-    "zh-hant": {
-        "item_name": "彈藥儲轉箱",
-        "description": "提升彈藥攜帶量 25% 並在撿取彈藥後的 2 秒將其轉換為目前使用中的武器彈藥類型。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ammo_Case"
-    },
-    "es": {
-        "item_name": "Caja De Munición",
-        "description": "Incrementa la capacidad de munición en un 25% y convierte los hallazgos de munición en munición para el arma equipada tras 2s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Caja_de_munici%C3%B3n"
-    },
-    "it": {
-        "item_name": "Ammo Case",
-        "description": "Aumenta la Capacità di Munizioni del 25% e converte le Munizioni Raccolte inutilizzate in munizioni per le armi equipaggiate dopo 2s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case"
-    },
-    "pl": {
-        "item_name": "Pojemnik Amunicji",
-        "description": "Zwiększa pojemność amunicji o 25% i przekształca zebrane magazynki w amunicję do broni w użyciu, z 2s opóźnieniem.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case"
-    },
-    "uk": {
-        "item_name": "Скриня З Набоями",
-        "description": "Збільшує запас набоїв на 25% та перетворює підібрані набої на необхідні для спорядженої зброї через 2 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ammo_Case"
+    "i18n": {
+        "en": {
+            "item_name": "Ammo Case",
+            "description": "Increases Ammo Capacity by 25% and converts Ammo Pickups into ammo for equipped weapons after 2s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ammo_Case",
+            "icon": "items/images/en/ammo_case.862c4134af807edfca25894181d72d50.png",
+            "thumb": "items/images/en/thumbs/ammo_case.862c4134af807edfca25894181d72d50.128x128.png"
+        },
+        "ru": {
+            "item_name": "Оружейный Ящик",
+            "description": "Увеличивает боезапас на 25% и конвертирует подбираемые боеприпасы в боезапас текущего оружия с задержкой в 2с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%AF%D1%89%D0%B8%D0%BA",
+            "icon": "items/images/ru/ammo_case.a3aa6742d5314d56a80c04959ad813d5.png",
+            "thumb": "items/images/ru/thumbs/ammo_case.a3aa6742d5314d56a80c04959ad813d5.128x128.png"
+        },
+        "ko": {
+            "item_name": "애모 케이스",
+            "description": "탄약 수를 25% 늘려주며, 사용되지 않는 탄약 드롭 아이템을 2초 후 사용 중인 무기의 탄약으로 변환합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ammo_Case"
+        },
+        "de": {
+            "item_name": "Munitionskiste",
+            "description": "Munitionskapazität wird um 25 % erhöht und Munitionsbeute wird zu Munition für die ausgerüstete Waffe umgewandelt, nach 2 s Verzögerung.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Munition"
+        },
+        "fr": {
+            "item_name": "Caisse À Munitions",
+            "description": "Augmente la Capacité en Munitions de 25% et convertit les Munitions ramassées en munition pour les armes équipées après un délai de 2s.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Caisse_%C3%A0_munitions"
+        },
+        "pt": {
+            "item_name": "Ammo Case",
+            "description": "Aumenta a Capacidade de Munição em 25%, e converte Coletáveis de Munição para munição das armas equipadas após 2s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case"
+        },
+        "zh-hans": {
+            "item_name": "弹药储转箱",
+            "description": "提升弹药携带量 25% 并在捡取弹药后的 2 秒将其转换为目前使用中的武器弹药类型。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ammo_Case"
+        },
+        "zh-hant": {
+            "item_name": "彈藥儲轉箱",
+            "description": "提升彈藥攜帶量 25% 並在撿取彈藥後的 2 秒將其轉換為目前使用中的武器彈藥類型。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ammo_Case"
+        },
+        "es": {
+            "item_name": "Caja De Munición",
+            "description": "Incrementa la capacidad de munición en un 25% y convierte los hallazgos de munición en munición para el arma equipada tras 2s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Caja_de_munici%C3%B3n"
+        },
+        "it": {
+            "item_name": "Ammo Case",
+            "description": "Aumenta la Capacità di Munizioni del 25% e converte le Munizioni Raccolte inutilizzate in munizioni per le armi equipaggiate dopo 2s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case"
+        },
+        "pl": {
+            "item_name": "Pojemnik Amunicji",
+            "description": "Zwiększa pojemność amunicji o 25% i przekształca zebrane magazynki w amunicję do broni w użyciu, z 2s opóźnieniem.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Ammo_Case"
+        },
+        "uk": {
+            "item_name": "Скриня З Набоями",
+            "description": "Збільшує запас набоїв на 25% та перетворює підібрані набої на необхідні для спорядженої зброї через 2 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ammo_Case"
+        }
     },
     "rarity": "common",
     "max_rank": 5,

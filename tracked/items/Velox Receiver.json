@@ -20,65 +20,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Velox Receiver",
-        "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
-    },
-    "ru": {
-        "item_name": "Велокс: Приёмник",
-        "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%BA%D1%81"
-    },
-    "ko": {
-        "item_name": "벨록스 리시버",
-        "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
-    },
-    "de": {
-        "item_name": "Velox: Gehäuse",
-        "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
-    },
-    "fr": {
-        "item_name": "Velox - Culasse",
-        "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Velox"
-    },
-    "pt": {
-        "item_name": "Velox: Receptor",
-        "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
-    },
-    "zh-hans": {
-        "item_name": "逐电 枪机",
-        "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Velox"
-    },
-    "zh-hant": {
-        "item_name": "迅敏屠夫槍機",
-        "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Velox"
-    },
-    "es": {
-        "item_name": "Receptor De Velox",
-        "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Velox"
-    },
-    "it": {
-        "item_name": "Velox - Castello",
-        "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
-    },
-    "pl": {
-        "item_name": "Velox: Korpus",
-        "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Velox"
-    },
-    "uk": {
-        "item_name": "Велокс: Ствольна Коробка",
-        "description": "Деталь зброї.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Velox"
+    "i18n": {
+        "en": {
+            "item_name": "Velox Receiver",
+            "description": "A weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Velox",
+            "icon": "items/images/en/velox_receiver.8d807d2b4f5eddf0d1b17e52adc717ac.png",
+            "thumb": "items/images/en/thumbs/velox_receiver.8d807d2b4f5eddf0d1b17e52adc717ac.128x128.png"
+        },
+        "ru": {
+            "item_name": "Велокс: Приёмник",
+            "description": "Компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%BA%D1%81"
+        },
+        "ko": {
+            "item_name": "벨록스 리시버",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Velox"
+        },
+        "de": {
+            "item_name": "Velox: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Velox"
+        },
+        "fr": {
+            "item_name": "Velox - Culasse",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Velox"
+        },
+        "pt": {
+            "item_name": "Velox: Receptor",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Velox"
+        },
+        "zh-hans": {
+            "item_name": "逐电 枪机",
+            "description": "一个武器的制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Velox"
+        },
+        "zh-hant": {
+            "item_name": "迅敏屠夫槍機",
+            "description": "製作武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Velox"
+        },
+        "es": {
+            "item_name": "Receptor De Velox",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Velox"
+        },
+        "it": {
+            "item_name": "Velox - Castello",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Velox"
+        },
+        "pl": {
+            "item_name": "Velox: Korpus",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Velox"
+        },
+        "uk": {
+            "item_name": "Велокс: Ствольна Коробка",
+            "description": "Деталь зброї.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Velox"
+        }
     },
     "mastery_level": 8,
     "trading_tax": 2000

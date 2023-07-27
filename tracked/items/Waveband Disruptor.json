@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanCritBypassShieldTurret"
     },
-    "en": {
-        "item_name": "Waveband Disruptor",
-        "description": "+76.5% chance for Turret Critical Hits to ignore enemy Shields",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Генератор Помех",
-        "description": "+76.5% шанс проигнорировать вражеские щиты при критических попаданиях турели",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "웨이브밴드 디스럽터",
-        "description": "포탑 치명타 발생 시 +76.5% 확률로 적 실드 무시",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Frequenzband-Störer",
-        "description": "+76.5 % Chance, dass ein krit. Treffer von Geschützen den Schild des Feindes ignoriert",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Perturbateur D'ondes",
-        "description": "+76.5% de chances que les Coups Critiques des Tourelles ignorent les Boucliers ennemis",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Distorção De Frequência",
-        "description": "+76.5% de chance de Acertos Críticos das Torres ignorarem os escudos inimigos",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "波段干扰",
-        "description": "炮台暴击命中时有 +76.5% 的几率无视敌方护盾",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "波段阻斷",
-        "description": "+76.5% 機率砲塔暴擊無視敵方護盾",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Disruptor De Banda De Frecuencias",
-        "description": "+76.5 % de probabilidad de que los golpes críticos de la torreta ignoren los escudos enemigos",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Waveband Disruptor",
-        "description": "+76.5% di probabilità per i Colpi Critici delle Torrette di ignorare gli Scudi nemici",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Zakłócająca Częstotliwość",
-        "description": "+76.5% szansy na zignorowanie Tarcz wrogów przez Obr. Krytyczne Wieżyczki",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Хвилеріз",
-        "description": "+76.5% до ймовірності проігнорувати ворожі щити критичними пострілами турелей.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Waveband Disruptor",
+            "description": "+76.5% chance for Turret Critical Hits to ignore enemy Shields",
+            "wiki_link": null,
+            "icon": "items/images/en/waveband_disruptor.a5b6017f6387b3a4eb1bc2cd9ebfaeb7.png",
+            "thumb": "items/images/en/thumbs/waveband_disruptor.a5b6017f6387b3a4eb1bc2cd9ebfaeb7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Генератор Помех",
+            "description": "+76.5% шанс проигнорировать вражеские щиты при критических попаданиях турели",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "웨이브밴드 디스럽터",
+            "description": "포탑 치명타 발생 시 +76.5% 확률로 적 실드 무시",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Frequenzband-Störer",
+            "description": "+76.5 % Chance, dass ein krit. Treffer von Geschützen den Schild des Feindes ignoriert",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Perturbateur D'ondes",
+            "description": "+76.5% de chances que les Coups Critiques des Tourelles ignorent les Boucliers ennemis",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Distorção De Frequência",
+            "description": "+76.5% de chance de Acertos Críticos das Torres ignorarem os escudos inimigos",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "波段干扰",
+            "description": "炮台暴击命中时有 +76.5% 的几率无视敌方护盾",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "波段阻斷",
+            "description": "+76.5% 機率砲塔暴擊無視敵方護盾",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Disruptor De Banda De Frecuencias",
+            "description": "+76.5 % de probabilidad de que los golpes críticos de la torreta ignoren los escudos enemigos",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Waveband Disruptor",
+            "description": "+76.5% di probabilità per i Colpi Critici delle Torrette di ignorare gli Scudi nemici",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Zakłócająca Częstotliwość",
+            "description": "+76.5% szansy na zignorowanie Tarcz wrogów przez Obr. Krytyczne Wieżyczki",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Хвилеріз",
+            "description": "+76.5% до ймовірності проігнорувати ворожі щити критичними пострілами турелей.",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

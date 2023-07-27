@@ -5,57 +5,59 @@
     "riven_type": "melee",
     "icon": "riven_item/images/edun.c8ee1908b2fcac4492d03eb28c8ecce1.png",
     "thumb": "riven_item/images/thumbs/edun.c8ee1908b2fcac4492d03eb28c8ecce1.128x128.png",
-    "disposition": 0.5,
+    "disposition": 0.7,
     "mastery_level": 0,
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/Polearms/DaxDuviriPolearm/DaxDuviriPolearmWeapon"
     },
-    "en": {
-        "item_name": "Edun",
-        "wiki_link": "https://warframe.fandom.com/wiki/Edun"
-    },
-    "ru": {
-        "item_name": "Эдун",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "에둔",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Edun",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Edun",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Edun",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "雷石祭",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "天鐵",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Edun",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Edun",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Edun",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Едун",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Edun",
+            "wiki_link": "https://warframe.fandom.com/wiki/Edun"
+        },
+        "ru": {
+            "item_name": "Эдун",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "에둔",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Edun",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Edun",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Edun",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "雷石祭",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "天鐵",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Edun",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Edun",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Edun",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Едун",
+            "wiki_link": null
+        }
     }
 }

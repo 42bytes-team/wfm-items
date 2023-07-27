@@ -9,52 +9,54 @@
     "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
     "min_level": 20,
     "max_level": 30,
-    "en": {
-        "node_name": "Sinai",
-        "system_name": "Jupiter"
-    },
-    "ru": {
-        "node_name": "Sinai",
-        "system_name": "Юпитер"
-    },
-    "ko": {
-        "node_name": "Sinai",
-        "system_name": "목성"
-    },
-    "de": {
-        "node_name": "Sinai",
-        "system_name": "Jupiter"
-    },
-    "fr": {
-        "node_name": "Sinai",
-        "system_name": "Jupiter"
-    },
-    "pt": {
-        "node_name": "Sinai",
-        "system_name": "Júpiter"
-    },
-    "zh-hans": {
-        "node_name": "Sinai",
-        "system_name": "木星"
-    },
-    "zh-hant": {
-        "node_name": "Sinai",
-        "system_name": "木星"
-    },
-    "es": {
-        "node_name": "Sinaí",
-        "system_name": "Júpiter"
-    },
-    "it": {
-        "node_name": "Sinai",
-        "system_name": "Giove"
-    },
-    "pl": {
-        "node_name": "Sinai",
-        "system_name": "Jowisz"
-    },
-    "uk": {
-        "node_name": "Синай",
-        "system_name": "Юпітер"
+    "i18n": {
+        "en": {
+            "node_name": "Sinai",
+            "system_name": "Jupiter"
+        },
+        "ru": {
+            "node_name": "Sinai",
+            "system_name": "Юпитер"
+        },
+        "ko": {
+            "node_name": "Sinai",
+            "system_name": "목성"
+        },
+        "de": {
+            "node_name": "Sinai",
+            "system_name": "Jupiter"
+        },
+        "fr": {
+            "node_name": "Sinai",
+            "system_name": "Jupiter"
+        },
+        "pt": {
+            "node_name": "Sinai",
+            "system_name": "Júpiter"
+        },
+        "zh-hans": {
+            "node_name": "Sinai",
+            "system_name": "木星"
+        },
+        "zh-hant": {
+            "node_name": "Sinai",
+            "system_name": "木星"
+        },
+        "es": {
+            "node_name": "Sinaí",
+            "system_name": "Júpiter"
+        },
+        "it": {
+            "node_name": "Sinai",
+            "system_name": "Giove"
+        },
+        "pl": {
+            "node_name": "Sinai",
+            "system_name": "Jowisz"
+        },
+        "uk": {
+            "node_name": "Синай",
+            "system_name": "Юпітер"
+        }
     }
 }

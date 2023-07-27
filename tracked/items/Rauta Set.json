@@ -21,65 +21,69 @@
         "rauta_stock"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Rauta Set",
-        "description": "Kullervo's signature weapon boasts melee synergy. Every shot that lands increases the wielder's Melee Combo count. When Kullervo wields Rauta, it also increases his Melee Combo duration.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Раута: Комплект",
-        "description": "Особое оружие Куллерво может похвастаться синергией ближнего боя. Каждый попавший выстрел увеличивает счётчик комбо ближнего боя. Когда Куллерво использует Рауту, это также увеличивает продолжительность комбо ближнего боя.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "라우타 세트",
-        "description": "근접전에서의 시너지를 자랑하는 쿨레르보의 대표 무기입니다. 사격을 명중시킬 때마다 사용자의 근접 연속기 카운트가 증가합니다. 쿨레르보가 라우타를 다룰 시, 근접 연속기 지속 시간 또한 증가합니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Rauta: Set",
-        "description": "Kullervos unverkennbare Waffe verfügt über Nahkampfsynergien. Jeder Schuss, der landet, erhöht die Anzahl der Nahkampf-Combos. Setzt Kullervo Rauta ein, erhöht sich auch die Dauer seiner Nahkampf-Combo.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Rauta - Set",
-        "description": "L'arme emblématique de Kullervo bénéficie d'une synergie de Mêlée. Chaque tir qui atteint son but augmente le nombre de combos de Mêlée. Lorsque Kullervo utilise le Rauta, cela augmente également la durée de son combo de Mêlée.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Rauta: Conjunto",
-        "description": "A arma tradicional do Kullervo se beneficia da sinergia Corpo a Corpo. Cada disparo no alvo aumentará a Contagem do Combo Corpo a Corpo do usuário. Quando o Kullervo empunhar a Rauta, a Duração do seu Combo Corpo a Corpo também aumentará.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "锐铁 一套",
-        "description": "（英文：RAUTA）Kullervo 的标志性武器具有近战协同的优势。每次命中都会增加持枪者的近战连击数。当 Kullervo 使用锐铁时，它也会增加他的近战连击持续时间。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "牢銕 一套",
-        "description": "（英文：RAUTA）Kullervo 的標誌性武器擁有與近戰武器相互搭配的特色，每次開火命中可增加近戰連擊數。由 Kullervo 使用牢銕時，還能強化近戰連擊時間。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Set de Rauta",
-        "description": "El arma distintiva de Kullervo cuenta con sinergia cuerpo a cuerpo. Cada disparo que aterriza aumenta el conteo de combo cuerpo a cuerpo del portador. Cuando Kullervo utiliza a Rauta, también aumenta la duración de su combo cuerpo a cuerpo.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Rauta Set",
-        "description": "L'arma distintiva di Kullervo vanta una sinergia Corpo a Corpo. Ogni colpo che va a segno aumenta il Contatore Combo Corpo a Corpo di chi lo impugna. Quando Kullervo brandisce il Rauta, aumenta anche la Durata Combo Corpo a Corpo.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Rauta: Zestaw",
-        "description": "Charakterystyczna broń Kullervo korzysta z synergii walki wręcz. Każdy strzał trafiający w cel zwiększa Licznik Kombo Broni Białej. Kiedy Kullervo używa Rauta, wydłuża to także Czas Trwania Kombo Broni Białej.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Раута (комплект)",
-        "description": "Визначна зброя Куллерво, що посилює синергію з холодною зброєю. Вступайте в ближній бій із ворогом, щоби посилити серію ударів холодною зброєю та завдати нищівного удару.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Rauta Set",
+            "description": "Kullervo's signature weapon boasts melee synergy. Every shot that lands increases the wielder's Melee Combo count. When Kullervo wields Rauta, it also increases his Melee Combo duration.",
+            "wiki_link": null,
+            "icon": "items/images/en/rauta_set.cbe84e8e7131f82a5af0e4964dbbde79.png",
+            "thumb": "items/images/en/thumbs/rauta_set.cbe84e8e7131f82a5af0e4964dbbde79.128x128.png"
+        },
+        "ru": {
+            "item_name": "Раута: Комплект",
+            "description": "Особое оружие Куллерво может похвастаться синергией ближнего боя. Каждый попавший выстрел увеличивает счётчик комбо ближнего боя. Когда Куллерво использует Рауту, это также увеличивает продолжительность комбо ближнего боя.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "라우타 세트",
+            "description": "근접전에서의 시너지를 자랑하는 쿨레르보의 대표 무기입니다. 사격을 명중시킬 때마다 사용자의 근접 연속기 카운트가 증가합니다. 쿨레르보가 라우타를 다룰 시, 근접 연속기 지속 시간 또한 증가합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Rauta: Set",
+            "description": "Kullervos unverkennbare Waffe verfügt über Nahkampfsynergien. Jeder Schuss, der landet, erhöht die Anzahl der Nahkampf-Combos. Setzt Kullervo Rauta ein, erhöht sich auch die Dauer seiner Nahkampf-Combo.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Rauta - Set",
+            "description": "L'arme emblématique de Kullervo bénéficie d'une synergie de Mêlée. Chaque tir qui atteint son but augmente le nombre de combos de Mêlée. Lorsque Kullervo utilise le Rauta, cela augmente également la durée de son combo de Mêlée.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Rauta: Conjunto",
+            "description": "A arma tradicional do Kullervo se beneficia da sinergia Corpo a Corpo. Cada disparo no alvo aumentará a Contagem do Combo Corpo a Corpo do usuário. Quando o Kullervo empunhar a Rauta, a Duração do seu Combo Corpo a Corpo também aumentará.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "锐铁 一套",
+            "description": "（英文：RAUTA）Kullervo 的标志性武器具有近战协同的优势。每次命中都会增加持枪者的近战连击数。当 Kullervo 使用锐铁时，它也会增加他的近战连击持续时间。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "牢銕 一套",
+            "description": "（英文：RAUTA）Kullervo 的標誌性武器擁有與近戰武器相互搭配的特色，每次開火命中可增加近戰連擊數。由 Kullervo 使用牢銕時，還能強化近戰連擊時間。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Set de Rauta",
+            "description": "El arma distintiva de Kullervo cuenta con sinergia cuerpo a cuerpo. Cada disparo que aterriza aumenta el conteo de combo cuerpo a cuerpo del portador. Cuando Kullervo utiliza a Rauta, también aumenta la duración de su combo cuerpo a cuerpo.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Rauta Set",
+            "description": "L'arma distintiva di Kullervo vanta una sinergia Corpo a Corpo. Ogni colpo che va a segno aumenta il Contatore Combo Corpo a Corpo di chi lo impugna. Quando Kullervo brandisce il Rauta, aumenta anche la Durata Combo Corpo a Corpo.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Rauta: Zestaw",
+            "description": "Charakterystyczna broń Kullervo korzysta z synergii walki wręcz. Każdy strzał trafiający w cel zwiększa Licznik Kombo Broni Białej. Kiedy Kullervo używa Rauta, wydłuża to także Czas Trwania Kombo Broni Białej.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Раута (комплект)",
+            "description": "Визначна зброя Куллерво, що посилює синергію з холодною зброєю. Кожен влучний постріл збільшує лічильник серії ударів холодної зброї. Коли Куллерво тримає Рауту, то вона також збільшує тривалість серії.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 8,
     "trading_tax": 6000

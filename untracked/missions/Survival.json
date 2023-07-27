@@ -6,40 +6,42 @@
     "url_name": "survival",
     "icon": "missions/images/survival.2d9b1ae89a8f5f4821c144b054ab5641.png",
     "thumb": "missions/images/thumbs/survival.2d9b1ae89a8f5f4821c144b054ab5641.128x128.png",
-    "en": {
-        "name": "Survival"
-    },
-    "ru": {
-        "name": "Survival"
-    },
-    "ko": {
-        "name": "Survival"
-    },
-    "de": {
-        "name": "Überleben"
-    },
-    "fr": {
-        "name": "Survival"
-    },
-    "pt": {
-        "name": "Survival"
-    },
-    "zh-hans": {
-        "name": "生存"
-    },
-    "zh-hant": {
-        "name": "生存"
-    },
-    "es": {
-        "name": "Survival"
-    },
-    "it": {
-        "name": "Survival"
-    },
-    "pl": {
-        "name": "Survival"
-    },
-    "uk": {
-        "name": "Виживання"
+    "i18n": {
+        "en": {
+            "name": "Survival"
+        },
+        "ru": {
+            "name": "Survival"
+        },
+        "ko": {
+            "name": "Survival"
+        },
+        "de": {
+            "name": "Überleben"
+        },
+        "fr": {
+            "name": "Survival"
+        },
+        "pt": {
+            "name": "Survival"
+        },
+        "zh-hans": {
+            "name": "生存"
+        },
+        "zh-hant": {
+            "name": "生存"
+        },
+        "es": {
+            "name": "Survival"
+        },
+        "it": {
+            "name": "Survival"
+        },
+        "pl": {
+            "name": "Survival"
+        },
+        "uk": {
+            "name": "Виживання"
+        }
     }
 }

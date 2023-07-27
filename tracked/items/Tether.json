@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipTetherAbilityCard"
     },
-    "en": {
-        "item_name": "Tether",
-        "description": "Ensnares enemies, increasing vulnerability to Railjack weaponry.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tether"
-    },
-    "ru": {
-        "item_name": "Привязь",
-        "description": "Ловит врагов в ловушку, увеличивая их уязвимость к оружию Рэйлджека.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D1%8C"
-    },
-    "ko": {
-        "item_name": "테더",
-        "description": "적들을 옭아매어 레일잭 무기에 대한 취약성을 증가시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tether"
-    },
-    "de": {
-        "item_name": "Paralyse-Feld",
-        "description": "Setzt Gegner fest und macht sie anfälliger für Railjack-Bewaffnung.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Tether"
-    },
-    "fr": {
-        "item_name": "Grelin",
-        "description": "Immobilise les ennemis, augmentant leur vulnérabilité aux armes du Railjack.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Grelin"
-    },
-    "pt": {
-        "item_name": "Tirante Restringente",
-        "description": "Imobiliza os inimigos, aumentando a vulnerabilidade deles aos armamentos da Railjack.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Tether"
-    },
-    "zh-hans": {
-        "item_name": "束缚力场",
-        "description": "困住敌人，使其更容易受到航道星舰武器的伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tether"
-    },
-    "zh-hant": {
-        "item_name": "繫鏈",
-        "description": "束縛敵人並增加敵人承受來自銳捷號武器的傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tether"
-    },
-    "es": {
-        "item_name": "Anclaje",
-        "description": "Atrapa a los enemigos, aumentando la vulnerabilidad al armamento del Railjack.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Anclaje"
-    },
-    "it": {
-        "item_name": "Tether",
-        "description": "Intrappola i nemici, aumentandone la vulnerabilità alle armi del Railjack.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Tether"
-    },
-    "pl": {
-        "item_name": "Więzy",
-        "description": "Więzi wrogów, zwiększając ich podatność na obrażenia broni Railjacka.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Tether"
-    },
-    "uk": {
-        "item_name": "Прив’язь",
-        "description": "Ловить і заплутує ворогів, збільшуючи вразливість до шкоди від зброї рейкоджека.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tether"
+    "i18n": {
+        "en": {
+            "item_name": "Tether",
+            "description": "Ensnares enemies, increasing vulnerability to Railjack weaponry.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tether",
+            "icon": "items/images/en/tether.022198c6a9829914063f990be599513d.png",
+            "thumb": "items/images/en/thumbs/tether.022198c6a9829914063f990be599513d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Привязь",
+            "description": "Ловит врагов в ловушку, увеличивая их уязвимость к оружию Рэйлджека.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D1%8C"
+        },
+        "ko": {
+            "item_name": "테더",
+            "description": "적들을 옭아매어 레일잭 무기에 대한 취약성을 증가시킵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tether"
+        },
+        "de": {
+            "item_name": "Paralyse-Feld",
+            "description": "Setzt Gegner fest und macht sie anfälliger für Railjack-Bewaffnung.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Tether"
+        },
+        "fr": {
+            "item_name": "Grelin",
+            "description": "Immobilise les ennemis, augmentant leur vulnérabilité aux armes du Railjack.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Grelin"
+        },
+        "pt": {
+            "item_name": "Tirante Restringente",
+            "description": "Imobiliza os inimigos, aumentando a vulnerabilidade deles aos armamentos da Railjack.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Tether"
+        },
+        "zh-hans": {
+            "item_name": "束缚力场",
+            "description": "困住敌人，使其更容易受到航道星舰武器的伤害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tether"
+        },
+        "zh-hant": {
+            "item_name": "繫鏈",
+            "description": "束縛敵人並增加敵人承受來自銳捷號武器的傷害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tether"
+        },
+        "es": {
+            "item_name": "Anclaje",
+            "description": "Atrapa a los enemigos, aumentando la vulnerabilidad al armamento del Railjack.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Anclaje"
+        },
+        "it": {
+            "item_name": "Tether",
+            "description": "Intrappola i nemici, aumentandone la vulnerabilità alle armi del Railjack.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Tether"
+        },
+        "pl": {
+            "item_name": "Więzy",
+            "description": "Więzi wrogów, zwiększając ich podatność na obrażenia broni Railjacka.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Tether"
+        },
+        "uk": {
+            "item_name": "Прив’язь",
+            "description": "Ловить і заплутує ворогів, збільшуючи вразливість до шкоди від зброї рейкоджека.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tether"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

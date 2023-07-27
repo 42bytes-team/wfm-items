@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Emotes/Syndicate/NLCombatEmote"
     },
-    "en": {
-        "item_name": "New Loka Combat Emote",
-        "description": "Prepare for combat with this crew-inspired emote.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Жест: Новая Лока - Бой",
-        "description": "Приготовьтесь к бою с этим жестом, вдохновлённым вашим экипажем.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "뉴 로카 전투 감정 표현",
-        "description": "승무원에게서 영감을 받은 이 감정 표현으로 전투를 준비해보세요.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Emote: New Loka Kampf",
-        "description": "Bereite dich mit diesem von der Crew inspirierten Emote auf den Kampf vor.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Geste De Combat - Nouveau Loka",
-        "description": "Préparez-vous au combat avec ce Geste inspiré de votre équipage.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Emote: Combate Do Neoloka",
-        "description": "Prepare-se para o combate com este emote inspirado em seus membros da tripulação.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "新世间战斗表情动作",
-        "description": "通过这款受舰员启发的表情动作来为战斗做好准备。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "新世間戰鬥表情動作",
-        "description": "透過這款以船員作靈感的表情動作來準備好戰鬥。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Gesto De Combate De Nuevo Loka",
-        "description": "Prepárate para el combate con este gesto inspirado en los tripulantes.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Emote Combattimento New Loka",
-        "description": "Preparati a combattere con questa emote ispirata all'equipaggio.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Gest Walki Nowej Loki",
-        "description": "Przygotuj się do walki dzięki temu inspirowanemu załogą gestowi.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Боєць «Нової Локи»",
-        "description": "Готуйтеся до бою із жестом, на створення якого надихнув екіпаж.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "New Loka Combat Emote",
+            "description": "Prepare for combat with this crew-inspired emote.",
+            "wiki_link": null,
+            "icon": "items/images/en/new_loka_combat_emote.e69660d40c398fa97f6436612fa2fd05.png",
+            "thumb": "items/images/en/thumbs/new_loka_combat_emote.e69660d40c398fa97f6436612fa2fd05.128x128.png"
+        },
+        "ru": {
+            "item_name": "Жест: Новая Лока - Бой",
+            "description": "Приготовьтесь к бою с этим жестом, вдохновлённым вашим экипажем.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "뉴 로카 전투 감정 표현",
+            "description": "승무원에게서 영감을 받은 이 감정 표현으로 전투를 준비해보세요.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Emote: New Loka Kampf",
+            "description": "Bereite dich mit diesem von der Crew inspirierten Emote auf den Kampf vor.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Geste De Combat - Nouveau Loka",
+            "description": "Préparez-vous au combat avec ce Geste inspiré de votre équipage.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Emote: Combate Do Neoloka",
+            "description": "Prepare-se para o combate com este emote inspirado em seus membros da tripulação.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "新世间战斗表情动作",
+            "description": "通过这款受舰员启发的表情动作来为战斗做好准备。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "新世間戰鬥表情動作",
+            "description": "透過這款以船員作靈感的表情動作來準備好戰鬥。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Gesto De Combate De Nuevo Loka",
+            "description": "Prepárate para el combate con este gesto inspirado en los tripulantes.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Emote Combattimento New Loka",
+            "description": "Preparati a combattere con questa emote ispirata all'equipaggio.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Gest Walki Nowej Loki",
+            "description": "Przygotuj się do walki dzięki temu inspirowanemu załogą gestowi.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Боєць «Нової Локи»",
+            "description": "Готуйтеся до бою із жестом, на створення якого надихнув екіпаж.",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/IronPhoenixMeleeTree"
     },
-    "en": {
-        "item_name": "Iron Phoenix",
-        "description": "Fast cutting attacks with puncture finish.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iron_Phoenix"
-    },
-    "ru": {
-        "item_name": "Железный Феникс",
-        "description": "Быстрые разрубающие удары с пронзающим добиванием.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9_%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81",
-        "icon": "items/images/ru/iron_phoenix.8bccd50afa6ad9d76285287846a9b39b.png",
-        "thumb": "items/images/ru/thumbs/iron_phoenix.8bccd50afa6ad9d76285287846a9b39b.128x128.png"
-    },
-    "ko": {
-        "item_name": "아이언 피닉스",
-        "description": "관통으로 마지막 공격을 하는 빠른 베기 공격입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iron_Phoenix"
-    },
-    "de": {
-        "item_name": "Eiserner Phönix",
-        "description": "Schnelle, schneidende Angriffe mit Durchschlag-Abschluss.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Eiserner_Ph%C3%B6nix"
-    },
-    "fr": {
-        "item_name": "Phénix De Fer",
-        "description": "Des attaque coupantes rapides avec un coup final perforant.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ph%C3%A9nix_de_Fer"
-    },
-    "pt": {
-        "item_name": "Iron Phoenix",
-        "description": "Cortes rápidos com Finalizações de Perfuração.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Iron_Phoenix"
-    },
-    "zh-hans": {
-        "item_name": "钢铁凤凰",
-        "description": "快速切割攻击用穿刺完结。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Iron_Phoenix"
-    },
-    "zh-hant": {
-        "item_name": "鋼鐵鳳凰",
-        "description": "快速的切割攻擊用穿刺來完結",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Iron_Phoenix"
-    },
-    "es": {
-        "item_name": "Fénix De Hierro",
-        "description": "Rápidos ataques cortantes con final perforante.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/F%C3%A9nix_de_hierro"
-    },
-    "it": {
-        "item_name": "Iron Phoenix",
-        "description": "Tagli rapidi con colpo finale da perforazione.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Iron_Phoenix"
-    },
-    "pl": {
-        "item_name": "Żelazny Feniks",
-        "description": "Szybkie ataki tnące z przebijającym zakończeniem.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%BBelazny_Feniks"
-    },
-    "uk": {
-        "item_name": "Залізний Фенікс",
-        "description": "Швидкі різальні атаки з пронизливим добиванням.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Iron_Phoenix"
+    "i18n": {
+        "en": {
+            "item_name": "Iron Phoenix",
+            "description": "Fast cutting attacks with puncture finish.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iron_Phoenix",
+            "icon": "items/images/en/iron_phoenix.9946b995245e14dcf5940176f1eb1df0.png",
+            "thumb": "items/images/en/thumbs/iron_phoenix.9946b995245e14dcf5940176f1eb1df0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Железный Феникс",
+            "description": "Быстрые разрубающие удары с пронзающим добиванием.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9_%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81",
+            "icon": "items/images/ru/iron_phoenix.8bccd50afa6ad9d76285287846a9b39b.png",
+            "thumb": "items/images/ru/thumbs/iron_phoenix.8bccd50afa6ad9d76285287846a9b39b.128x128.png"
+        },
+        "ko": {
+            "item_name": "아이언 피닉스",
+            "description": "관통으로 마지막 공격을 하는 빠른 베기 공격입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iron_Phoenix"
+        },
+        "de": {
+            "item_name": "Eiserner Phönix",
+            "description": "Schnelle, schneidende Angriffe mit Durchschlag-Abschluss.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Eiserner_Ph%C3%B6nix"
+        },
+        "fr": {
+            "item_name": "Phénix De Fer",
+            "description": "Des attaque coupantes rapides avec un coup final perforant.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Ph%C3%A9nix_de_Fer"
+        },
+        "pt": {
+            "item_name": "Iron Phoenix",
+            "description": "Cortes rápidos com Finalizações de Perfuração.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Iron_Phoenix"
+        },
+        "zh-hans": {
+            "item_name": "钢铁凤凰",
+            "description": "快速切割攻击用穿刺完结。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Iron_Phoenix"
+        },
+        "zh-hant": {
+            "item_name": "鋼鐵鳳凰",
+            "description": "快速的切割攻擊用穿刺來完結",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Iron_Phoenix"
+        },
+        "es": {
+            "item_name": "Fénix De Hierro",
+            "description": "Rápidos ataques cortantes con final perforante.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/F%C3%A9nix_de_hierro"
+        },
+        "it": {
+            "item_name": "Iron Phoenix",
+            "description": "Tagli rapidi con colpo finale da perforazione.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Iron_Phoenix"
+        },
+        "pl": {
+            "item_name": "Żelazny Feniks",
+            "description": "Szybkie ataki tnące z przebijającym zakończeniem.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%BBelazny_Feniks"
+        },
+        "uk": {
+            "item_name": "Залізний Фенікс",
+            "description": "Швидкі різальні атаки з пронизливим добиванням.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Iron_Phoenix"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

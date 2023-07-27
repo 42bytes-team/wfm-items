@@ -9,52 +9,54 @@
     "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
     "min_level": 35,
     "max_level": 45,
-    "en": {
-        "node_name": "Sechura",
-        "system_name": "Pluto"
-    },
-    "ru": {
-        "node_name": "Sechura",
-        "system_name": "Плутон"
-    },
-    "ko": {
-        "node_name": "Sechura",
-        "system_name": "명왕성"
-    },
-    "de": {
-        "node_name": "Sechura",
-        "system_name": "Pluto"
-    },
-    "fr": {
-        "node_name": "Sechura",
-        "system_name": "Pluton"
-    },
-    "pt": {
-        "node_name": "Sechura",
-        "system_name": "Plutão"
-    },
-    "zh-hans": {
-        "node_name": "Sechura",
-        "system_name": "冥王星"
-    },
-    "zh-hant": {
-        "node_name": "Sechura",
-        "system_name": "冥王星"
-    },
-    "es": {
-        "node_name": "Sechura",
-        "system_name": "Plutón"
-    },
-    "it": {
-        "node_name": "Sechura",
-        "system_name": "Plutone"
-    },
-    "pl": {
-        "node_name": "Sechura",
-        "system_name": "Pluton"
-    },
-    "uk": {
-        "node_name": "Сечура",
-        "system_name": "Плутон"
+    "i18n": {
+        "en": {
+            "node_name": "Sechura",
+            "system_name": "Pluto"
+        },
+        "ru": {
+            "node_name": "Sechura",
+            "system_name": "Плутон"
+        },
+        "ko": {
+            "node_name": "Sechura",
+            "system_name": "명왕성"
+        },
+        "de": {
+            "node_name": "Sechura",
+            "system_name": "Pluto"
+        },
+        "fr": {
+            "node_name": "Sechura",
+            "system_name": "Pluton"
+        },
+        "pt": {
+            "node_name": "Sechura",
+            "system_name": "Plutão"
+        },
+        "zh-hans": {
+            "node_name": "Sechura",
+            "system_name": "冥王星"
+        },
+        "zh-hant": {
+            "node_name": "Sechura",
+            "system_name": "冥王星"
+        },
+        "es": {
+            "node_name": "Sechura",
+            "system_name": "Plutón"
+        },
+        "it": {
+            "node_name": "Sechura",
+            "system_name": "Plutone"
+        },
+        "pl": {
+            "node_name": "Sechura",
+            "system_name": "Pluton"
+        },
+        "uk": {
+            "node_name": "Сечура",
+            "system_name": "Плутон"
+        }
     }
 }

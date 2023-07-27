@@ -21,65 +21,69 @@
         "aklex_prime_set"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Aklex Prime Set",
-        "description": "Savage the enemy with a Lex Prime in each hand.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aklex_Prime"
-    },
-    "ru": {
-        "item_name": "Аклекс Прайм: Комплект",
-        "description": "Не оставляйте врагу ни шанса, удерживая по Лексу Прайм в каждой руке.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%BB%D0%B5%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "아클렉스 프라임 세트",
-        "description": "양손에 있는 렉스 프라임으로 적을 무참히 공격하세요.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aklex_Prime"
-    },
-    "de": {
-        "item_name": "Aklex Prime: Set",
-        "description": "Vernichte deine Gegner mit einer Lex Prime in jeder Hand.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Aklex_Prime"
-    },
-    "fr": {
-        "item_name": "Aklex Prime - Set",
-        "description": "Attaquez vos ennemis avec un Lex Prime dans chaque main.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Aklex_Prime"
-    },
-    "pt": {
-        "item_name": "Aklex Prime: Conjunto",
-        "description": "Ataque o inimigo com uma Lex Prime em cada mão.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Aklex_Prime"
-    },
-    "zh-hans": {
-        "item_name": "雷克斯双枪 Prime 一套",
-        "description": "（英文：AKLEX PRIME）双手各持一把雷克斯 Prime 猛攻敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Aklex_Prime"
-    },
-    "zh-hant": {
-        "item_name": "雷克斯雙槍 Prime 一套",
-        "description": "（英文：AKLEX PRIME）雙手各持一把雷克斯 Prime 猛攻敵人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Aklex_Prime"
-    },
-    "es": {
-        "item_name": "Set de Aklex Prime",
-        "description": "Despedaza al enemigo con una Lex Prime en cada mano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aklex_Prime"
-    },
-    "it": {
-        "item_name": "Aklex Prime Set",
-        "description": "Fai a pezzi il nemico con una Lex Prime per ogni mano.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Aklex_Prime"
-    },
-    "pl": {
-        "item_name": "Aklex Prime: Zestaw",
-        "description": "Rozerwij na strzępy wroga przy pomocy Lexa Prime w każdej ręce.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Aklex_Prime"
-    },
-    "uk": {
-        "item_name": "Аклекс-Прайм (комплект)",
-        "description": "Лекси-прайм в обох руках змінять ставлення ворога до вас.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aklex_Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Aklex Prime Set",
+            "description": "Savage the enemy with a Lex Prime in each hand.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aklex_Prime",
+            "icon": "items/images/en/aklex_prime_set.d4be2f3e545d5e1101d5b83a027e68fe.png",
+            "thumb": "items/images/en/thumbs/aklex_prime_set.d4be2f3e545d5e1101d5b83a027e68fe.128x128.png"
+        },
+        "ru": {
+            "item_name": "Аклекс Прайм: Комплект",
+            "description": "Не оставляйте врагу ни шанса, удерживая по Лексу Прайм в каждой руке.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%BB%D0%B5%D0%BA%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "아클렉스 프라임 세트",
+            "description": "양손에 있는 렉스 프라임으로 적을 무참히 공격하세요.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aklex_Prime"
+        },
+        "de": {
+            "item_name": "Aklex Prime: Set",
+            "description": "Vernichte deine Gegner mit einer Lex Prime in jeder Hand.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Aklex_Prime"
+        },
+        "fr": {
+            "item_name": "Aklex Prime - Set",
+            "description": "Attaquez vos ennemis avec un Lex Prime dans chaque main.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Aklex_Prime"
+        },
+        "pt": {
+            "item_name": "Aklex Prime: Conjunto",
+            "description": "Ataque o inimigo com uma Lex Prime em cada mão.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Aklex_Prime"
+        },
+        "zh-hans": {
+            "item_name": "雷克斯双枪 Prime 一套",
+            "description": "（英文：AKLEX PRIME）双手各持一把雷克斯 Prime 猛攻敌人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Aklex_Prime"
+        },
+        "zh-hant": {
+            "item_name": "雷克斯雙槍 Prime 一套",
+            "description": "（英文：AKLEX PRIME）雙手各持一把雷克斯 Prime 猛攻敵人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Aklex_Prime"
+        },
+        "es": {
+            "item_name": "Set de Aklex Prime",
+            "description": "Despedaza al enemigo con una Lex Prime en cada mano",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Aklex_Prime"
+        },
+        "it": {
+            "item_name": "Aklex Prime Set",
+            "description": "Fai a pezzi il nemico con una Lex Prime per ogni mano.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Aklex_Prime"
+        },
+        "pl": {
+            "item_name": "Aklex Prime: Zestaw",
+            "description": "Rozerwij na strzępy wroga przy pomocy Lexa Prime w każdej ręce.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Aklex_Prime"
+        },
+        "uk": {
+            "item_name": "Аклекс-Прайм (комплект)",
+            "description": "Лекси-прайм в обох руках змінять ставлення ворога до вас.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aklex_Prime"
+        }
     },
     "mastery_level": 15,
     "ducats": 145,

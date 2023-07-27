@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponIncreaseRadialExplosionMod"
     },
-    "en": {
-        "item_name": "Firestorm",
-        "description": "Improves the Blast Radius of weapons with Radial Attacks. +24% Blast Radius",
-        "wiki_link": "https://warframe.fandom.com/wiki/Firestorm"
-    },
-    "ru": {
-        "item_name": "Огненный Шторм",
-        "description": "Увеличивает радиус взрыва снарядов оружия с атакой по площади. +24% радиус взрыва",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%A8%D1%82%D0%BE%D1%80%D0%BC",
-        "icon": "items/images/ru/firestorm.98517690aa7e2c6ce0dc119935e95616.png",
-        "thumb": "items/images/ru/thumbs/firestorm.98517690aa7e2c6ce0dc119935e95616.128x128.png"
-    },
-    "ko": {
-        "item_name": "파이어스톰",
-        "description": "범위 공격 무기의 폭발 반경을 향상시킵니다. +24% 폭발 범위 증가",
-        "wiki_link": "https://warframe.fandom.com/wiki/Firestorm"
-    },
-    "de": {
-        "item_name": "Feuersturm",
-        "description": "Verbessert den Explosionsradius von Waffen mit radialen Angriffen. +24 % Explosionsradius",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Feuersturm"
-    },
-    "fr": {
-        "item_name": "Tempête De Feu",
-        "description": "Améliore le rayon d'explosion des armes avec attaques radiales. +24% de Rayon d'Explosion",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_de_Feu"
-    },
-    "pt": {
-        "item_name": "Firestorm",
-        "description": "Melhora o Raio da Explosão das armas com Ataques Radiais. +24% de Raio da Explosão",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Firestorm"
-    },
-    "zh-hans": {
-        "item_name": "烈焰风暴",
-        "description": "提高范围攻击武器的爆炸半径。 +24% 爆炸半径",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Firestorm"
-    },
-    "zh-hant": {
-        "item_name": "烈焰風暴",
-        "description": "增加範圍攻擊武器的爆裂半徑。 +24% 爆炸半徑",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Firestorm"
-    },
-    "es": {
-        "item_name": "Tormenta De Fuego",
-        "description": "Mejora el radio de explosión de las armas con ataques radiales. +24% de radio de explosión",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tormenta_de_fuego"
-    },
-    "it": {
-        "item_name": "Firestorm",
-        "description": "Migliora il Raggio di Esplosione delle armi con Attacchi Radiali. +24% Raggio Esplosione",
-        "wiki_link": "http://warframe.wikia.com/wiki/Firestorm"
-    },
-    "pl": {
-        "item_name": "Burza Ognia",
-        "description": "Zwiększa zasięg wybuchu broni z Atakiem Radialnym. +24% Promienia Rażenia",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Burza_Ognia"
-    },
-    "uk": {
-        "item_name": "Вогнешторм",
-        "description": "Збільшує радіус вибуху у зброї, яка має атаку по площі. +24% до радіуса вибуху.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Firestorm"
+    "i18n": {
+        "en": {
+            "item_name": "Firestorm",
+            "description": "Improves the Blast Radius of weapons with Radial Attacks. +24% Blast Radius",
+            "wiki_link": "https://warframe.fandom.com/wiki/Firestorm",
+            "icon": "items/images/en/firestorm.2082d7fa0de3a3e7a8014e6c141d9744.png",
+            "thumb": "items/images/en/thumbs/firestorm.2082d7fa0de3a3e7a8014e6c141d9744.128x128.png"
+        },
+        "ru": {
+            "item_name": "Огненный Шторм",
+            "description": "Увеличивает радиус взрыва снарядов оружия с атакой по площади. +24% радиус взрыва",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%A8%D1%82%D0%BE%D1%80%D0%BC",
+            "icon": "items/images/ru/firestorm.98517690aa7e2c6ce0dc119935e95616.png",
+            "thumb": "items/images/ru/thumbs/firestorm.98517690aa7e2c6ce0dc119935e95616.128x128.png"
+        },
+        "ko": {
+            "item_name": "파이어스톰",
+            "description": "범위 공격 무기의 폭발 반경을 향상시킵니다. +24% 폭발 범위 증가",
+            "wiki_link": "https://warframe.fandom.com/wiki/Firestorm"
+        },
+        "de": {
+            "item_name": "Feuersturm",
+            "description": "Verbessert den Explosionsradius von Waffen mit radialen Angriffen. +24 % Explosionsradius",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Feuersturm"
+        },
+        "fr": {
+            "item_name": "Tempête De Feu",
+            "description": "Améliore le rayon d'explosion des armes avec attaques radiales. +24% de Rayon d'Explosion",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_de_Feu"
+        },
+        "pt": {
+            "item_name": "Firestorm",
+            "description": "Melhora o Raio da Explosão das armas com Ataques Radiais. +24% de Raio da Explosão",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Firestorm"
+        },
+        "zh-hans": {
+            "item_name": "烈焰风暴",
+            "description": "提高范围攻击武器的爆炸半径。 +24% 爆炸半径",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Firestorm"
+        },
+        "zh-hant": {
+            "item_name": "烈焰風暴",
+            "description": "增加範圍攻擊武器的爆裂半徑。 +24% 爆炸半徑",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Firestorm"
+        },
+        "es": {
+            "item_name": "Tormenta De Fuego",
+            "description": "Mejora el radio de explosión de las armas con ataques radiales. +24% de radio de explosión",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tormenta_de_fuego"
+        },
+        "it": {
+            "item_name": "Firestorm",
+            "description": "Migliora il Raggio di Esplosione delle armi con Attacchi Radiali. +24% Raggio Esplosione",
+            "wiki_link": "http://warframe.wikia.com/wiki/Firestorm"
+        },
+        "pl": {
+            "item_name": "Burza Ognia",
+            "description": "Zwiększa zasięg wybuchu broni z Atakiem Radialnym. +24% Promienia Rażenia",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Burza_Ognia"
+        },
+        "uk": {
+            "item_name": "Вогнешторм",
+            "description": "Збільшує радіус вибуху у зброї, яка має атаку по площі. +24% до дальності вибуху",
+            "wiki_link": "https://warframe.fandom.com/wiki/Firestorm"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

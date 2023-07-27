@@ -18,65 +18,69 @@
         "lokan_knee_spurs"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Lokan Armor Set",
-        "description": "Orchid patterns and flowing organic lines are signature to New Lokan armor.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Lokan Armor Set",
-        "description": "Роспись орхидеями и плавные органические очертания являются отличительной чертой доспехов Новой Локи.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "로칸 아머 세트",
-        "description": "난초 문양과 흐르는 듯한 유기적인 윤곽의 선은 뉴 로칸 아머의 특징입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Lokan Armor Set",
-        "description": "Orchideenmuster und fließende organische Linien sind das Markenzeichen der New Loka Rüstung.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Lokan Armor Set",
-        "description": "Les motifs d'orchidées et les lignes organiques fluides sont typiques de l'Armure du Nouveau Loka.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Lokan Armor Set",
-        "description": "Padrões inspirados em orquídeas e linhas orgânicas fluidas caracterizam a armadura do Neoloka.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "Lokan Armor Set",
-        "description": "兰花图案和流畅的有机线条是新世间护甲的标志。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "Lokan Armor Set",
-        "description": "蘭花樣式及流動的生物線條是新世間護甲的標誌。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Lokan Armor Set",
-        "description": "Los patrones de orquídeas y las líneas orgánicas fluidas son el sello distintivo de la armadura Nuevo Lokan.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Lokan Armor Set",
-        "description": "I motivi delle orchidee e le linee organiche fluenti sono i segni distintivi dell'armatura New Loka.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Lokan Armor Set",
-        "description": "Kwieciste wzory i organiczne kształty, charakterystyczne dla pancerza Nowej Loki.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Набір обладунків «Лока»",
-        "description": "Набір обладунків «Нової Локи» з їхнім визначним дизайном — візерунки орхідей і плавні органічні лінії.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Lokan Armor Set",
+            "description": "Orchid patterns and flowing organic lines are signature to New Lokan armor.",
+            "wiki_link": null,
+            "icon": "items/images/en/lokan_armor_set.cedec7d8a7394f6013324e34e76a9e45.png",
+            "thumb": "items/images/en/thumbs/lokan_armor_set.cedec7d8a7394f6013324e34e76a9e45.128x128.png"
+        },
+        "ru": {
+            "item_name": "Lokan Armor Set",
+            "description": "Роспись орхидеями и плавные органические очертания являются отличительной чертой доспехов Новой Локи.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "로칸 아머 세트",
+            "description": "난초 문양과 흐르는 듯한 유기적인 윤곽의 선은 뉴 로칸 아머의 특징입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Lokan Armor Set",
+            "description": "Orchideenmuster und fließende organische Linien sind das Markenzeichen der New Loka Rüstung.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Lokan Armor Set",
+            "description": "Les motifs d'orchidées et les lignes organiques fluides sont typiques de l'Armure du Nouveau Loka.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Lokan Armor Set",
+            "description": "Padrões inspirados em orquídeas e linhas orgânicas fluidas caracterizam a armadura do Neoloka.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "Lokan Armor Set",
+            "description": "兰花图案和流畅的有机线条是新世间护甲的标志。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Lokan Armor Set",
+            "description": "蘭花樣式及流動的生物線條是新世間護甲的標誌。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Lokan Armor Set",
+            "description": "Los patrones de orquídeas y las líneas orgánicas fluidas son el sello distintivo de la armadura Nuevo Lokan.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Lokan Armor Set",
+            "description": "I motivi delle orchidee e le linee organiche fluenti sono i segni distintivi dell'armatura New Loka.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Lokan Armor Set",
+            "description": "Kwieciste wzory i organiczne kształty, charakterystyczne dla pancerza Nowej Loki.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Набір обладунків «Лока»",
+            "description": "Набір обладунків «Нової Локи» з їхнім визначним дизайном — візерунки орхідей і плавні органічні лінії.",
+            "wiki_link": null
+        }
     },
     "trading_tax": 6000
 }

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Berserker/LastStandAugmentCard"
     },
-    "en": {
-        "item_name": "Hysterical Assault",
-        "description": "Hysteria Augment: Aim and then attack to leap onto enemies up to 50m away.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hysterical_Assault"
-    },
-    "ru": {
-        "item_name": "Истеричное Нападение",
-        "description": "Улучшение способности «Истерия»: прицельтесь и используйте кнопку огня, чтобы прыгнуть к врагам, находящимся на расстоянии до 50 м.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%9D%D0%B0%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/hysterical_assault.ebbea6c1b6a51c90ed6db2a798f03967.png",
-        "thumb": "items/images/ru/thumbs/hysterical_assault.ebbea6c1b6a51c90ed6db2a798f03967.128x128.png"
-    },
-    "ko": {
-        "item_name": "히스테리컬 어썰트",
-        "description": "히스테리아 개조: 조준 후 공격하여 최대 50m 거리에 있는 적에게 도약합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hysterical_Assault"
-    },
-    "de": {
-        "item_name": "Hysterischer Angriff",
-        "description": "Hysterie Augment: Ziele und feuere, um auf Gegner in bis zu 50 m Entfernung, zu springen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Hysterischer_Angriff"
-    },
-    "fr": {
-        "item_name": "Assaut Hystérique",
-        "description": "Augmentation d'Hystérie: visez et attaquez ensuite pour vous jeter sur les ennemis présents dans un rayon de 50m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Assaut_Hyst%C3%A9rique"
-    },
-    "pt": {
-        "item_name": "Hysterical Assault",
-        "description": "Ampliação Hysteria: avançará nos inimigos que estiverem até 50m de distância ao mirar e pressionar o botão de ataque.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hysterical_Assault"
-    },
-    "zh-hans": {
-        "item_name": "狂化突击",
-        "description": "狂化爆发强化：瞄准并近战攻击键来跳跃到至多 50 米之外的敌人处 。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hysterical_Assault"
-    },
-    "zh-hant": {
-        "item_name": "狂化突擊",
-        "description": "狂化爆發強化：瞄準並按下近戰攻擊鍵來跳躍到至多 50 公尺的敵人 。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hysterical_Assault"
-    },
-    "es": {
-        "item_name": "Asalto Histérico",
-        "description": "Aumento de Histeria: apunta y ataca para saltar hacia los enemigos dentro de 50m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Asalto_Hist%C3%A9rico"
-    },
-    "it": {
-        "item_name": "Hysterical Assault",
-        "description": "Potenziamento Hysteria: Mira e poi attacca per saltare sui nemici fino a 50m di distanza.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Hysterical_Assault"
-    },
-    "pl": {
-        "item_name": "Histeryczna Napaść",
-        "description": "Modyfikacja Histerii: Celuj, a następnie strzelaj, aby skoczyć na wrogów oddalonych do 50m ",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Histeryczna_Napa%C5%9B%C4%87"
-    },
-    "uk": {
-        "item_name": "Істеричний Наступ",
-        "description": "Розширення здібності «Істерика»: дає можливість націлитися й стрибнути до ворога в межах 50 м.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hysterical_Assault"
+    "i18n": {
+        "en": {
+            "item_name": "Hysterical Assault",
+            "description": "Hysteria Augment: Aim and then attack to leap onto enemies up to 50m away.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hysterical_Assault",
+            "icon": "items/images/en/hysterical_assault.d0eaaceb3982bdd8bb585766ed9e6204.png",
+            "thumb": "items/images/en/thumbs/hysterical_assault.d0eaaceb3982bdd8bb585766ed9e6204.128x128.png"
+        },
+        "ru": {
+            "item_name": "Истеричное Нападение",
+            "description": "Улучшение способности «Истерия»: прицельтесь и используйте кнопку огня, чтобы прыгнуть к врагам, находящимся на расстоянии до 50 м.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%9D%D0%B0%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/hysterical_assault.ebbea6c1b6a51c90ed6db2a798f03967.png",
+            "thumb": "items/images/ru/thumbs/hysterical_assault.ebbea6c1b6a51c90ed6db2a798f03967.128x128.png"
+        },
+        "ko": {
+            "item_name": "히스테리컬 어썰트",
+            "description": "히스테리아 개조: 조준 후 공격하여 최대 50m 거리에 있는 적에게 도약합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hysterical_Assault"
+        },
+        "de": {
+            "item_name": "Hysterischer Angriff",
+            "description": "Hysterie Augment: Ziele und feuere, um auf Gegner in bis zu 50 m Entfernung, zu springen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Hysterischer_Angriff"
+        },
+        "fr": {
+            "item_name": "Assaut Hystérique",
+            "description": "Augmentation d'Hystérie: visez et attaquez ensuite pour vous jeter sur les ennemis présents dans un rayon de 50m.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Assaut_Hyst%C3%A9rique"
+        },
+        "pt": {
+            "item_name": "Hysterical Assault",
+            "description": "Ampliação Hysteria: avançará nos inimigos que estiverem até 50m de distância ao mirar e pressionar o botão de ataque.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hysterical_Assault"
+        },
+        "zh-hans": {
+            "item_name": "狂化突击",
+            "description": "狂化爆发强化：瞄准并近战攻击键来跳跃到至多 50 米之外的敌人处 。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hysterical_Assault"
+        },
+        "zh-hant": {
+            "item_name": "狂化突擊",
+            "description": "狂化爆發強化：瞄準並按下近戰攻擊鍵來跳躍到至多 50 公尺的敵人 。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hysterical_Assault"
+        },
+        "es": {
+            "item_name": "Asalto Histérico",
+            "description": "Aumento de Histeria: apunta y ataca para saltar hacia los enemigos dentro de 50m.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Asalto_Hist%C3%A9rico"
+        },
+        "it": {
+            "item_name": "Hysterical Assault",
+            "description": "Potenziamento Hysteria: Mira e poi attacca per saltare sui nemici fino a 50m di distanza.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Hysterical_Assault"
+        },
+        "pl": {
+            "item_name": "Histeryczna Napaść",
+            "description": "Modyfikacja Histerii: Celuj, a następnie strzelaj, aby skoczyć na wrogów oddalonych do 50m ",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Histeryczna_Napa%C5%9B%C4%87"
+        },
+        "uk": {
+            "item_name": "Істеричний Наступ",
+            "description": "Розширення здібності «Істерика»: дає можливість націлитися й стрибнути до ворога в межах 50 м.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hysterical_Assault"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

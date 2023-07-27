@@ -9,52 +9,54 @@
     "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
     "min_level": 30,
     "max_level": 35,
-    "en": {
-        "node_name": "Ukko",
-        "system_name": "Void"
-    },
-    "ru": {
-        "node_name": "Ukko",
-        "system_name": "Бездна"
-    },
-    "ko": {
-        "node_name": "Ukko",
-        "system_name": "보이드"
-    },
-    "de": {
-        "node_name": "Ukko",
-        "system_name": "Void"
-    },
-    "fr": {
-        "node_name": "Ukko",
-        "system_name": "Néant"
-    },
-    "pt": {
-        "node_name": "Ukko",
-        "system_name": "Void"
-    },
-    "zh-hans": {
-        "node_name": "Ukko",
-        "system_name": "虚空"
-    },
-    "zh-hant": {
-        "node_name": "Ukko",
-        "system_name": "虛空"
-    },
-    "es": {
-        "node_name": "Ukko",
-        "system_name": "Vacío"
-    },
-    "it": {
-        "node_name": "Ukko",
-        "system_name": "Void"
-    },
-    "pl": {
-        "node_name": "Ukko",
-        "system_name": "Pustka"
-    },
-    "uk": {
-        "node_name": "Укко",
-        "system_name": "Порожнеча"
+    "i18n": {
+        "en": {
+            "node_name": "Ukko",
+            "system_name": "Void"
+        },
+        "ru": {
+            "node_name": "Ukko",
+            "system_name": "Бездна"
+        },
+        "ko": {
+            "node_name": "Ukko",
+            "system_name": "보이드"
+        },
+        "de": {
+            "node_name": "Ukko",
+            "system_name": "Void"
+        },
+        "fr": {
+            "node_name": "Ukko",
+            "system_name": "Néant"
+        },
+        "pt": {
+            "node_name": "Ukko",
+            "system_name": "Void"
+        },
+        "zh-hans": {
+            "node_name": "乌戈塔",
+            "system_name": "虚空"
+        },
+        "zh-hant": {
+            "node_name": "Ukko",
+            "system_name": "虛空"
+        },
+        "es": {
+            "node_name": "Ukko",
+            "system_name": "Vacío"
+        },
+        "it": {
+            "node_name": "Ukko",
+            "system_name": "Void"
+        },
+        "pl": {
+            "node_name": "Ukko",
+            "system_name": "Pustka"
+        },
+        "uk": {
+            "node_name": "Укко",
+            "system_name": "Порожнеча"
+        }
     }
 }

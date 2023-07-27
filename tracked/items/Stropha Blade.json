@@ -22,65 +22,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Stropha Blade",
-        "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
-    },
-    "ru": {
-        "item_name": "Строфа: Лезвие",
-        "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D1%80%D0%BE%D1%84%D0%B0"
-    },
-    "ko": {
-        "item_name": "스트로파 블레이드",
-        "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
-    },
-    "de": {
-        "item_name": "Stropha: Klinge",
-        "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
-    },
-    "fr": {
-        "item_name": "Stropha - Lame",
-        "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Stropha"
-    },
-    "pt": {
-        "item_name": "Stropha: Lâmina",
-        "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
-    },
-    "zh-hans": {
-        "item_name": "诡计之刃 刀刃",
-        "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stropha"
-    },
-    "zh-hant": {
-        "item_name": "詭詐鋒刃 刀刃",
-        "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Stropha"
-    },
-    "es": {
-        "item_name": "Hoja De Stropha",
-        "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Stropha"
-    },
-    "it": {
-        "item_name": "Stropha - Lama",
-        "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
-    },
-    "pl": {
-        "item_name": "Stropha: Ostrze",
-        "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Stropha"
-    },
-    "uk": {
-        "item_name": "Строфа: Клинок",
-        "description": "Деталь зброї.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
+    "i18n": {
+        "en": {
+            "item_name": "Stropha Blade",
+            "description": "A weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stropha",
+            "icon": "items/images/en/stropha_blade.08c23ce01edf041f6204aa470f8f12c9.png",
+            "thumb": "items/images/en/thumbs/stropha_blade.08c23ce01edf041f6204aa470f8f12c9.128x128.png"
+        },
+        "ru": {
+            "item_name": "Строфа: Лезвие",
+            "description": "Компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D1%80%D0%BE%D1%84%D0%B0"
+        },
+        "ko": {
+            "item_name": "스트로파 블레이드",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
+        },
+        "de": {
+            "item_name": "Stropha: Klinge",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
+        },
+        "fr": {
+            "item_name": "Stropha - Lame",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Stropha"
+        },
+        "pt": {
+            "item_name": "Stropha: Lâmina",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
+        },
+        "zh-hans": {
+            "item_name": "诡计之刃 刀刃",
+            "description": "一个武器的制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Stropha"
+        },
+        "zh-hant": {
+            "item_name": "詭詐鋒刃 刀刃",
+            "description": "製作武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Stropha"
+        },
+        "es": {
+            "item_name": "Hoja De Stropha",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Stropha"
+        },
+        "it": {
+            "item_name": "Stropha - Lama",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
+        },
+        "pl": {
+            "item_name": "Stropha: Ostrze",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Stropha"
+        },
+        "uk": {
+            "item_name": "Строфа: Клинок",
+            "description": "Деталь зброї.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Stropha"
+        }
     },
     "mastery_level": 10,
     "trading_tax": 2000

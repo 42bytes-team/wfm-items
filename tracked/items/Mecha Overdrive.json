@@ -13,68 +13,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Mecha/KubrowMechaOverdriveMod"
     },
-    "en": {
-        "item_name": "Mecha Overdrive",
-        "description": "+60% Status-Link\n+90% Status Duration",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Overdrive"
-    },
-    "ru": {
-        "item_name": "Мех-Форсаж",
-        "description": "+60% связь: Шанс статуса\n+90% к длительности статуса",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B5%D1%85-%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B6",
-        "icon": "items/images/ru/mecha_overdrive.c4cc8abbeb7181a18fc04c2f7280a9d1.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/mecha_overdrive.c4cc8abbeb7181a18fc04c2f7280a9d1.128x128.png"
-    },
-    "ko": {
-        "item_name": "메카 오버드라이브",
-        "description": "+60% 상태 이상 공유\n+90% 상태 이상 지속 시간",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Overdrive"
-    },
-    "de": {
-        "item_name": "Mecha: Übersteuerung",
-        "description": "+60 % Status-Link\n+90 % Statusdauer",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Mecha:_%C3%9Cbersteuerung"
-    },
-    "fr": {
-        "item_name": "Décharge Mecha",
-        "description": "+60% de Lien-Statut\n+90% de Durée de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9charge_Mecha"
-    },
-    "pt": {
-        "item_name": "Mecha Overdrive",
-        "description": "+60% de Elo de Chance de Status\n+90% de Duração de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mecha_Overdrive"
-    },
-    "zh-hans": {
-        "item_name": "机甲 超载",
-        "description": "+60% 触发几率连接加成\n+90% 触发时间",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mecha_Overdrive"
-    },
-    "zh-hant": {
-        "item_name": "機甲 超載",
-        "description": "+60% 觸發率連結加成\n+90% 狀態持續時間",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mecha_Overdrive"
-    },
-    "es": {
-        "item_name": "Sobrecarga De Mecha",
-        "description": "+60% Enlace de estado\n+90% de duración de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sobrecarga_de_Meca"
-    },
-    "it": {
-        "item_name": "Mecha Overdrive",
-        "description": "+60% Legame-Effetto\n+90% Durata Effetto",
-        "wiki_link": "http://warframe.fandom.com/wiki/Mecha_Overdrive"
-    },
-    "pl": {
-        "item_name": "Mecha Przesterowanie",
-        "description": "+60% Połączenie Statusów\n+90% Czas Trwania Statusu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przetrwanie"
-    },
-    "uk": {
-        "item_name": "Перевантаження Меха",
-        "description": "+60% до зв’язку станів.\n+90% до тривалості ефекту стану.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Overdrive"
+    "i18n": {
+        "en": {
+            "item_name": "Mecha Overdrive",
+            "description": "+60% Status-Link\n+90% Status Duration",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Overdrive",
+            "icon": "items/images/en/mecha_overdrive.ed18a080f2e3a8f43503fa440c16179e.png",
+            "thumb": "items/images/en/thumbs/mecha_overdrive.ed18a080f2e3a8f43503fa440c16179e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мех-Форсаж",
+            "description": "+60% связь: Шанс статуса\n+90% к длительности статуса",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B5%D1%85-%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B6",
+            "icon": "items/images/ru/mecha_overdrive.c4cc8abbeb7181a18fc04c2f7280a9d1.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/mecha_overdrive.c4cc8abbeb7181a18fc04c2f7280a9d1.128x128.png"
+        },
+        "ko": {
+            "item_name": "메카 오버드라이브",
+            "description": "+60% 상태 이상 공유\n+90% 상태 이상 지속 시간",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Overdrive"
+        },
+        "de": {
+            "item_name": "Mecha: Übersteuerung",
+            "description": "+60 % Status-Link\n+90 % Statusdauer",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Mecha:_%C3%9Cbersteuerung"
+        },
+        "fr": {
+            "item_name": "Décharge Mecha",
+            "description": "+60% de Lien-Statut\n+90% de Durée de Statut",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9charge_Mecha"
+        },
+        "pt": {
+            "item_name": "Mecha Overdrive",
+            "description": "+60% de Elo de Chance de Status\n+90% de Duração de Status",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mecha_Overdrive"
+        },
+        "zh-hans": {
+            "item_name": "机甲 超载",
+            "description": "+60% 触发几率连接加成\n+90% 触发时间",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mecha_Overdrive"
+        },
+        "zh-hant": {
+            "item_name": "機甲 超載",
+            "description": "+60% 觸發率連結加成\n+90% 狀態持續時間",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mecha_Overdrive"
+        },
+        "es": {
+            "item_name": "Sobrecarga De Mecha",
+            "description": "+60% Enlace de estado\n+90% de duración de estado",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sobrecarga_de_Meca"
+        },
+        "it": {
+            "item_name": "Mecha Overdrive",
+            "description": "+60% Legame-Effetto\n+90% Durata Effetto",
+            "wiki_link": "http://warframe.fandom.com/wiki/Mecha_Overdrive"
+        },
+        "pl": {
+            "item_name": "Mecha Przesterowanie",
+            "description": "+60% Połączenie Statusów\n+90% Czas Trwania Statusu",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Przetrwanie"
+        },
+        "uk": {
+            "item_name": "Перевантаження Меха",
+            "description": "+60% до зв’язку станів\n+90% до тривалості ефекту стану",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mecha_Overdrive"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

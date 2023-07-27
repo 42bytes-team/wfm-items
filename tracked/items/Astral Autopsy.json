@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeScanOnKillMod"
     },
-    "en": {
-        "item_name": "Astral Autopsy",
-        "description": "Fatal strikes against an enemy also perform a Codex Scan. Scans require an equipped Codex Scanner and an available charge.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Astral_Autopsy"
-    },
-    "ru": {
-        "item_name": "Астральная Аутопсия",
-        "description": "При убийстве врага выполняется его сканирование для Кодекса. Для сканирования требуется экипированный Сканер Кодекса и доступные заряды.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%90%D1%83%D1%82%D0%BE%D0%BF%D1%81%D0%B8%D1%8F",
-        "icon": "items/images/ru/astral_autopsy.6d4a41df3602abadb242977e025f9b65.png",
-        "thumb": "items/images/ru/thumbs/astral_autopsy.6d4a41df3602abadb242977e025f9b65.128x128.png"
-    },
-    "ko": {
-        "item_name": "아스트랄 오톱시",
-        "description": "적에게 결정타를 입힐 시 코덱스 스캔이 실행됩니다. 스캔을 실행하기 위해서는 충분한 양의 코덱스 스캐너가 소모품 창에 장비되어 있어야 합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Astral_Autopsy"
-    },
-    "de": {
-        "item_name": "Astrale Autopsie",
-        "description": "Führt einen Codex-Scan mit jedem tödlichen Schlag gegen Feinde aus. Ausgerüsteter Codex-Scanner und verfügbare Scans werden benötigt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Astrale_Autopsie"
-    },
-    "fr": {
-        "item_name": "Autopsie Astrale",
-        "description": "Les coups fatals portés à un ennemi effectuent aussi un scan pour le Codex. Les scans requièrent des Scanneurs du Codex équipés et disponibles dans la Spirale de Matériel.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Autopsie_Astrale"
-    },
-    "pt": {
-        "item_name": "Astral Autopsy",
-        "description": "Golpes fatais contra um inimigo também executam uma análise para o Codex. As análises requerem um Escâner do Codex equipado e uma carga disponível.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Astral_Autopsy"
-    },
-    "zh-hans": {
-        "item_name": "星界剖解",
-        "description": "对一个敌人致死攻击同时也会进行资料库扫描。扫描需要装备一个资料库扫描器且有可用的扫描次数。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Astral_Autopsy"
-    },
-    "zh-hant": {
-        "item_name": "星體解析",
-        "description": "對一個敵人致死攻擊同時也會進行資料庫掃描。掃描需要裝備一個資料庫掃描器且有可用的掃描次數。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Astral_Autopsy"
-    },
-    "es": {
-        "item_name": "Autopsia Astral",
-        "description": "Los ataques letales en contra de un enemigo también otorgan escaneos del códice. Los escaneos requieren que este equipado el escáner del códice y cargas disponibles.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Autopsia_astral"
-    },
-    "it": {
-        "item_name": "Astral Autopsy",
-        "description": "Gli attacchi fatali contro un nemico eseguono inoltre uno Scan Codex. Le scansioni richiedono lo Scanner Codex equipaggiato e una carica disponibile.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Astral_Autopsy"
-    },
-    "pl": {
-        "item_name": "Gwiezdna Autopsja",
-        "description": "Zabicie wroga wykona skan do Kodeksu. Skany wymagają posiadania w ekwipunku Skanera o wystarczającej ilości ładunków.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gwiezdna_Autopsja"
-    },
-    "uk": {
-        "item_name": "Астральний Розтин",
-        "description": "Смертоносні удари зчитують ціль. Зчитування потребує спорядженого зчитувача та наявного заряду.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Astral_Autopsy"
+    "i18n": {
+        "en": {
+            "item_name": "Astral Autopsy",
+            "description": "Fatal strikes against an enemy also perform a Codex Scan. Scans require an equipped Codex Scanner and an available charge.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Astral_Autopsy",
+            "icon": "items/images/en/astral_autopsy.82ebcf9eb4a7b94e04806f6fb9267f3f.png",
+            "thumb": "items/images/en/thumbs/astral_autopsy.82ebcf9eb4a7b94e04806f6fb9267f3f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Астральная Аутопсия",
+            "description": "При убийстве врага выполняется его сканирование для Кодекса. Для сканирования требуется экипированный Сканер Кодекса и доступные заряды.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%90%D1%83%D1%82%D0%BE%D0%BF%D1%81%D0%B8%D1%8F",
+            "icon": "items/images/ru/astral_autopsy.6d4a41df3602abadb242977e025f9b65.png",
+            "thumb": "items/images/ru/thumbs/astral_autopsy.6d4a41df3602abadb242977e025f9b65.128x128.png"
+        },
+        "ko": {
+            "item_name": "아스트랄 오톱시",
+            "description": "적에게 결정타를 입힐 시 코덱스 스캔이 실행됩니다. 스캔을 실행하기 위해서는 충분한 양의 코덱스 스캐너가 소모품 창에 장비되어 있어야 합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Astral_Autopsy"
+        },
+        "de": {
+            "item_name": "Astrale Autopsie",
+            "description": "Führt einen Codex-Scan mit jedem tödlichen Schlag gegen Feinde aus. Ausgerüsteter Codex-Scanner und verfügbare Scans werden benötigt.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Astrale_Autopsie"
+        },
+        "fr": {
+            "item_name": "Autopsie Astrale",
+            "description": "Les coups fatals portés à un ennemi effectuent aussi un scan pour le Codex. Les scans requièrent des Scanneurs du Codex équipés et disponibles dans la Spirale de Matériel.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Autopsie_Astrale"
+        },
+        "pt": {
+            "item_name": "Astral Autopsy",
+            "description": "Golpes fatais contra um inimigo também executam uma análise para o Codex. As análises requerem um Escâner do Codex equipado e uma carga disponível.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Astral_Autopsy"
+        },
+        "zh-hans": {
+            "item_name": "星界剖解",
+            "description": "对一个敌人致死攻击同时也会进行资料库扫描。扫描需要装备一个资料库扫描器且有可用的扫描次数。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Astral_Autopsy"
+        },
+        "zh-hant": {
+            "item_name": "星體解析",
+            "description": "對一個敵人致死攻擊同時也會進行資料庫掃描。掃描需要裝備一個資料庫掃描器且有可用的掃描次數。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Astral_Autopsy"
+        },
+        "es": {
+            "item_name": "Autopsia Astral",
+            "description": "Los ataques letales en contra de un enemigo también otorgan escaneos del códice. Los escaneos requieren que este equipado el escáner del códice y cargas disponibles.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Autopsia_astral"
+        },
+        "it": {
+            "item_name": "Astral Autopsy",
+            "description": "Gli attacchi fatali contro un nemico eseguono inoltre uno Scan Codex. Le scansioni richiedono lo Scanner Codex equipaggiato e una carica disponibile.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Astral_Autopsy"
+        },
+        "pl": {
+            "item_name": "Gwiezdna Autopsja",
+            "description": "Zabicie wroga wykona skan do Kodeksu. Skany wymagają posiadania w ekwipunku Skanera o wystarczającej ilości ładunków.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Gwiezdna_Autopsja"
+        },
+        "uk": {
+            "item_name": "Астральний Розтин",
+            "description": "Смертоносні удари зчитують ціль. Зчитування потребує спорядженого зчитувача та наявного заряду.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Astral_Autopsy"
+        }
     },
     "rarity": "rare",
     "trading_tax": 8000

@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Shade Prime Systems",
-        "description": "A prime sentinel-crafting component.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Шейд Прайм: Система",
-        "description": "Прайм-компонент стража.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "셰이드 프라임 시스템",
-        "description": "프라임 센티넬 제작 부품입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Shade Prime: Systeme",
-        "description": "Eine Komponente für die Herstellung von Prime Wächtern.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Shade Prime - Systèmes",
-        "description": "Un composant servant à la fabrication de sentinelles Prime.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Shade Prime: Sistemas",
-        "description": "Um componente de fabricação de sentinelas Prime.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "阴影 Prime 系统",
-        "description": "一个 Prime 守护的制作部件。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "陰影 Prime 系統",
-        "description": "製作 Prime 守護的部件。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Sistemas De Shade Prime",
-        "description": "Un componente de fabricación de centinela prime.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Shade Prime - Sistemi",
-        "description": "Un componente Prime per la costruzione di una sentinella.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Shade Prime: Systemy",
-        "description": "Element wytwarzania Strażników Prime.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Тінь-Прайм: Системи",
-        "description": "Деталь прайм-вартового.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Shade Prime Systems",
+            "description": "A prime sentinel-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/shade_prime_systems.d4376af3d68e873e85f81f456c83b261.png",
+            "thumb": "items/images/en/thumbs/shade_prime_systems.d4376af3d68e873e85f81f456c83b261.128x128.png"
+        },
+        "ru": {
+            "item_name": "Шейд Прайм: Система",
+            "description": "Прайм-компонент стража.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "셰이드 프라임 시스템",
+            "description": "프라임 센티넬 제작 부품입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Shade Prime: Systeme",
+            "description": "Eine Komponente für die Herstellung von Prime Wächtern.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Shade Prime - Systèmes",
+            "description": "Un composant servant à la fabrication de sentinelles Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Shade Prime: Sistemas",
+            "description": "Um componente de fabricação de sentinelas Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "阴影 Prime 系统",
+            "description": "一个 Prime 守护的制作部件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "陰影 Prime 系統",
+            "description": "製作 Prime 守護的部件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Sistemas De Shade Prime",
+            "description": "Un componente de fabricación de centinela prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Shade Prime - Sistemi",
+            "description": "Un componente Prime per la costruzione di una sentinella.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Shade Prime: Systemy",
+            "description": "Element wytwarzania Strażników Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Тінь-Прайм: Системи",
+            "description": "Деталь прайм-вартового.",
+            "wiki_link": null
+        }
     },
     "ducats": 45,
     "trading_tax": 2000

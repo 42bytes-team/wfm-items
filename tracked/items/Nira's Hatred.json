@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Nira/NiraWarframeMod"
     },
-    "en": {
-        "item_name": "Nira's Hatred",
-        "description": "+150% Health\n+15% Ability Duration",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Ненависть Ниры",
-        "description": "+150% к здоровью\n+15% к длительности",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "나이라 헤이트리드",
-        "description": "+150% 최대 체력량\n+15% 어빌리티 지속 시간",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Niras Hass",
-        "description": "+150 % Gesundheit\n+15 % Fähigkeitsdauer",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Haine De Nira",
-        "description": "+150% de Santé\n+15% Durée de Pouvoir",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Rancor Da Nira",
-        "description": "+150% de Vida\n+15% de Duração da Habilidade",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "混沌蛇主之恨",
-        "description": "+150% 生命值\n+15% 技能持续时间",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "妮菈的憎恨",
-        "description": "+150% 生命值\n+15% 技能持續時間",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Odio De Nira",
-        "description": "+150% de salud\n+15% Duración de habilidad",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Nira's Hatred",
-        "description": "+150% Salute\n+15% Durata Abilità",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Nienawiść Niry",
-        "description": "+150% Życie\n+15% Czas Trwania Umiejętności",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Ненависть Найри",
-        "description": "+150% до здоров’я.\n+15% до тривалості дії здібностей.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Nira's Hatred",
+            "description": "+150% Health\n+15% Ability Duration",
+            "wiki_link": null,
+            "icon": "items/images/en/niras_hatred.9c92948ae9386ff17f5de0b1320879a1.png",
+            "thumb": "items/images/en/thumbs/niras_hatred.9c92948ae9386ff17f5de0b1320879a1.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ненависть Ниры",
+            "description": "+150% к здоровью\n+15% к длительности",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "나이라 헤이트리드",
+            "description": "+150% 최대 체력량\n+15% 어빌리티 지속 시간",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Niras Hass",
+            "description": "+150 % Gesundheit\n+15 % Fähigkeitsdauer",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Haine De Nira",
+            "description": "+150% de Santé\n+15% Durée de Pouvoir",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Rancor Da Nira",
+            "description": "+150% de Vida\n+15% de Duração da Habilidade",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "混沌蛇主之恨",
+            "description": "+150% 生命值\n+15% 技能持续时间",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "妮菈的憎恨",
+            "description": "+150% 生命值\n+15% 技能持續時間",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Odio De Nira",
+            "description": "+150% de salud\n+15% Duración de habilidad",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Nira's Hatred",
+            "description": "+150% Salute\n+15% Durata Abilità",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Nienawiść Niry",
+            "description": "+150% Życie\n+15% Czas Trwania Umiejętności",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Ненависть Найри",
+            "description": "+150% до здоров’я\n+15% до тривалості дії здібностей",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

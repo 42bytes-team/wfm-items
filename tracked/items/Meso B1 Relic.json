@@ -18,65 +18,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Game/Projections/T2VoidProjectionF"
     },
-    "en": {
-        "item_name": "Meso B1 Relic",
-        "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Реликвия Мезо B1",
-        "description": "Артефакт, таящий секреты Орокин. Может быть открыт только с помощью энергии Бездны.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "메소 B1 성유물",
-        "description": "오로킨의 비밀을 가지고 있는 유물. 보이드의 힘으로만 열릴 수 있습니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Meso-Relikt: B1",
-        "description": "Ein Artefakt, das Orokin Geheimnisse birgt. Es kann nur durch die Macht des Void geöffnet werden.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Relique Meso B1",
-        "description": "Un artefact contenant des secrets Orokins. Il ne peut être ouvert qu'avec la puissance du Néant.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Relíquia Meso B1",
-        "description": "Um artefato que contém segredos dos Orokins. Ele só pode ser aberto pelo poder do Void.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "前纪 B1 遗物",
-        "description": "一个包含着 Orokin 秘密的神器。它只能通过虚空之力来打开。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "前紀 B1 遺物",
-        "description": "一個包含著 Orokin 秘密的神器。它只能透過虛空之力來開啟。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Reliquia Meso B1",
-        "description": "Un artefacto que contiene secretos orokin. Solo puede ser abierto a través del poder del Vacío.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Reliquia Meso B1",
-        "description": "Un artefatto contenente segreti Orokin. Può essere aperto solamente tramite l'energia del Void.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Relikt Meso B1",
-        "description": "Artefakt zawierający sekrety Orokin. Tylko wykorzystując energię Pustki, można go otworzyć.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Реліквія Мезо B1",
-        "description": "Артефакт, що приховує секрети орокінів. Можна відкрити лише енергією Порожнечі.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Meso B1 Relic",
+            "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+            "wiki_link": null,
+            "icon": "items/images/en/meso_b1_relic.32eb1e727be665c175084b03829b8015.png",
+            "thumb": "items/images/en/thumbs/meso_b1_relic.32eb1e727be665c175084b03829b8015.128x128.png"
+        },
+        "ru": {
+            "item_name": "Реликвия Мезо B1",
+            "description": "Артефакт, таящий секреты Орокин. Может быть открыт только с помощью энергии Бездны.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "메소 B1 성유물",
+            "description": "오로킨의 비밀을 가지고 있는 유물. 보이드의 힘으로만 열릴 수 있습니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Meso-Relikt: B1",
+            "description": "Ein Artefakt, das Orokin Geheimnisse birgt. Es kann nur durch die Macht des Void geöffnet werden.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Relique Meso B1",
+            "description": "Un artefact contenant des secrets Orokins. Il ne peut être ouvert qu'avec la puissance du Néant.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Relíquia Meso B1",
+            "description": "Um artefato que contém segredos dos Orokins. Ele só pode ser aberto pelo poder do Void.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "前纪 B1 遗物",
+            "description": "一个包含着 Orokin 秘密的神器。它只能通过虚空之力来打开。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "前紀 B1 遺物",
+            "description": "一個包含著 Orokin 秘密的神器。它只能透過虛空之力來開啟。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Reliquia Meso B1",
+            "description": "Un artefacto que contiene secretos orokin. Solo puede ser abierto a través del poder del Vacío.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Reliquia Meso B1",
+            "description": "Un artefatto contenente segreti Orokin. Può essere aperto solamente tramite l'energia del Void.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Relikt Meso B1",
+            "description": "Artefakt zawierający sekrety Orokin. Tylko wykorzystując energię Pustki, można go otworzyć.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Реліквія Мезо B1",
+            "description": "Артефакт, що приховує секрети орокінів. Можна відкрити лише енергією Порожнечі.",
+            "wiki_link": null
+        }
     },
     "subtypes": [
         "intact",

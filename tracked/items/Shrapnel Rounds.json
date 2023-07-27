@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarelokMultishot"
     },
-    "en": {
-        "item_name": "Shrapnel Rounds",
-        "description": "+200% Multishot\n-66% Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shrapnel_Rounds"
-    },
-    "ru": {
-        "item_name": "Шрапнельные Патроны",
-        "description": "+200% мультивыстрел\n-66% урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D1%80%D0%B0%D0%BF%D0%BD%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
-        "icon": "items/images/ru/shrapnel_rounds.eecb92dff6320157ad1606823478a267.png",
-        "thumb": "items/images/ru/thumbs/shrapnel_rounds.eecb92dff6320157ad1606823478a267.128x128.png"
-    },
-    "ko": {
-        "item_name": "쉬래프널 라운즈",
-        "description": "+200% 멀티샷\n-66% 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shrapnel_Rounds"
-    },
-    "de": {
-        "item_name": "Splittergeschosse",
-        "description": "+200 % Mehrfachschuss\n-66 % Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Splitterschild"
-    },
-    "fr": {
-        "item_name": "Munitions À Éclats",
-        "description": "+200% de Tir Multiple\n-66% de Dégâts",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Munitions_%C3%A0_%C3%89clats"
-    },
-    "pt": {
-        "item_name": "Shrapnel Rounds",
-        "description": "+200% de Tiro Múltiplo\n-66% de Dano",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shrapnel_Shot"
-    },
-    "zh-hans": {
-        "item_name": "破片弹头",
-        "description": "+200% 多重射击\n-66% 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shrapnel_Rounds"
-    },
-    "zh-hant": {
-        "item_name": "破片彈頭",
-        "description": "+200% 多重射擊\n-66% 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shrapnel_Rounds"
-    },
-    "es": {
-        "item_name": "Rondas De Metralla",
-        "description": "+200% de multidisparo\n-66% de daño",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Rondas_de_metralla"
-    },
-    "it": {
-        "item_name": "Shrapnel Rounds",
-        "description": "+200% Sparo Multiplo\n-66% Danno",
-        "wiki_link": "http://warframe.wikia.com/wiki/Shrapnel_Rounds"
-    },
-    "pl": {
-        "item_name": "Pociski Rozpryskowe",
-        "description": "+200% Wielostrzału\n-66% Obrażeń",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pociski_Rozpruwaj%C4%85ce"
-    },
-    "uk": {
-        "item_name": "Шрапнельні Набої",
-        "description": "+200% до ймовірності мультипострілу.\n-66% до шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shrapnel_Rounds"
+    "i18n": {
+        "en": {
+            "item_name": "Shrapnel Rounds",
+            "description": "+200% Multishot\n-66% Damage",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shrapnel_Rounds",
+            "icon": "items/images/en/shrapnel_rounds.5d6970e62fed4b7e5806a691540249e8.png",
+            "thumb": "items/images/en/thumbs/shrapnel_rounds.5d6970e62fed4b7e5806a691540249e8.128x128.png"
+        },
+        "ru": {
+            "item_name": "Шрапнельные Патроны",
+            "description": "+200% мультивыстрел\n-66% урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D1%80%D0%B0%D0%BF%D0%BD%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
+            "icon": "items/images/ru/shrapnel_rounds.eecb92dff6320157ad1606823478a267.png",
+            "thumb": "items/images/ru/thumbs/shrapnel_rounds.eecb92dff6320157ad1606823478a267.128x128.png"
+        },
+        "ko": {
+            "item_name": "쉬래프널 라운즈",
+            "description": "+200% 멀티샷\n-66% 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shrapnel_Rounds"
+        },
+        "de": {
+            "item_name": "Splittergeschosse",
+            "description": "+200 % Mehrfachschuss\n-66 % Schaden",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Splitterschild"
+        },
+        "fr": {
+            "item_name": "Munitions À Éclats",
+            "description": "+200% de Tir Multiple\n-66% de Dégâts",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Munitions_%C3%A0_%C3%89clats"
+        },
+        "pt": {
+            "item_name": "Shrapnel Rounds",
+            "description": "+200% de Tiro Múltiplo\n-66% de Dano",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shrapnel_Shot"
+        },
+        "zh-hans": {
+            "item_name": "破片弹头",
+            "description": "+200% 多重射击\n-66% 伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Shrapnel_Rounds"
+        },
+        "zh-hant": {
+            "item_name": "破片彈頭",
+            "description": "+200% 多重射擊\n-66% 傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Shrapnel_Rounds"
+        },
+        "es": {
+            "item_name": "Rondas De Metralla",
+            "description": "+200% de multidisparo\n-66% de daño",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Rondas_de_metralla"
+        },
+        "it": {
+            "item_name": "Shrapnel Rounds",
+            "description": "+200% Sparo Multiplo\n-66% Danno",
+            "wiki_link": "http://warframe.wikia.com/wiki/Shrapnel_Rounds"
+        },
+        "pl": {
+            "item_name": "Pociski Rozpryskowe",
+            "description": "+200% Wielostrzału\n-66% Obrażeń",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Pociski_Rozpruwaj%C4%85ce"
+        },
+        "uk": {
+            "item_name": "Шрапнельні Набої",
+            "description": "+200% до мультипострілу\n-66% до шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shrapnel_Rounds"
+        }
     },
     "rarity": "rare",
     "trading_tax": 8000

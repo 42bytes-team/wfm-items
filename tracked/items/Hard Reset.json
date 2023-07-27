@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionReviveCompanionMod"
     },
-    "en": {
-        "item_name": "Hard Reset",
-        "description": "Execute 3 Mercy Kills within 40 seconds to revive a fallen Sentinel or Companion",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Аппаратный Сброс",
-        "description": "Выполните несколько (3) добиваний Милосердием в течение 40 сек., чтобы возродить павшего Стража или Компаньона",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "하드 리셋",
-        "description": "40초 내에 3회의 자비의 일격 수행 시 사망한 센티넬 또는 동반자 부활",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Kaltstart",
-        "description": "Führe 3 Gnadenstöße innerhalb von 40 s durch, um einen gefallenen Wächter oder Begleiter wiederzubeleben",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Réinitialisation Complète",
-        "description": "Exécutez 3 Miséricordes en 40 secondes pour réanimer une Sentinelle ou un Compagnon",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Hard Reset",
-        "description": "Executar 3 Misericórdias dentro de 40s reviverá uma Sentinela ou Companheiro abatido",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "硬重启",
-        "description": "在 40 秒内对 3 名敌人施展怜悯之击以复活死亡的守护或同伴",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "硬體重置",
-        "description": "40 秒內進行 3 次慈悲斬殺可復活死亡的守護或是同伴",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Reinicio Completo",
-        "description": "Ejecuta 3 muertes con Misericordia en 40 segundos para revivir a un centinela o a un compañero caído",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Hard Reset",
-        "description": "Esegui 3 uccisioni Mercy entro 40 secondi per rianimare una Sentinella o un Compagno a terra",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Ustawienia Fabryczne",
-        "description": "Wykonaj 3 zabójstw Miłosierdziem w ciągu 40 sekund, aby ożywić poległego Strażnika lub Towarzysza",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Скидання",
-        "description": "Виконайте 3 добивань паразоном упродовж 40 с, щоб оживити загиблого вартового чи супутника.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Hard Reset",
+            "description": "Execute 3 Mercy Kills within 40 seconds to revive a fallen Sentinel or Companion",
+            "wiki_link": null,
+            "icon": "items/images/en/hard_reset.b0d53f38119f05a0b6f7e4cb3723bad8.png",
+            "thumb": "items/images/en/thumbs/hard_reset.b0d53f38119f05a0b6f7e4cb3723bad8.128x128.png"
+        },
+        "ru": {
+            "item_name": "Аппаратный Сброс",
+            "description": "Выполните несколько (3) добиваний Милосердием в течение 40 сек., чтобы возродить павшего Стража или Компаньона",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "하드 리셋",
+            "description": "40초 내에 3회의 자비의 일격 수행 시 사망한 센티넬 또는 동반자 부활",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Kaltstart",
+            "description": "Führe 3 Gnadenstöße innerhalb von 40 s durch, um einen gefallenen Wächter oder Begleiter wiederzubeleben",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Réinitialisation Complète",
+            "description": "Exécutez 3 Miséricordes en 40 secondes pour réanimer une Sentinelle ou un Compagnon",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Hard Reset",
+            "description": "Executar 3 Misericórdias dentro de 40s reviverá uma Sentinela ou Companheiro abatido",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "硬重启",
+            "description": "在 40 秒内对 3 名敌人施展怜悯之击以复活死亡的守护或同伴",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "硬體重置",
+            "description": "40 秒內進行 3 次慈悲斬殺可復活死亡的守護或是同伴",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Reinicio Completo",
+            "description": "Ejecuta 3 muertes con Misericordia en 40 segundos para revivir a un centinela o a un compañero caído",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Hard Reset",
+            "description": "Esegui 3 uccisioni Mercy entro 40 secondi per rianimare una Sentinella o un Compagno a terra",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Ustawienia Fabryczne",
+            "description": "Wykonaj 3 zabójstw Miłosierdziem w ciągu 40 sekund, aby ożywić poległego Strażnika lub Towarzysza",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Скидання",
+            "description": "Виконайте 3 добивань паразоном упродовж 40 с, щоб оживити загиблого вартового чи супутника.",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "trading_tax": 8000

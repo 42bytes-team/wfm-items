@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Larkspur Prime Stock",
-        "description": "An Archwing weapon-crafting component.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Ларкспур Прайм: Приклад",
-        "description": "Компонент оружия арчвинга.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "라크스퍼 프라임 스톡",
-        "description": "아크윙 무기 제작 부품입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Larkspur Prime: Schaft",
-        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Larkspur Prime - Crosse",
-        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Larkspur Prime: Coronha",
-        "description": "Um componente de fabricação de armas Archwing.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "翠雀 Prime 枪托",
-        "description": "一个 Archwing 武器制作部件。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "翠雀 Prime 槍托",
-        "description": "製作 Archwing 武器的部件。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Culata De Larkspur Prime",
-        "description": "Un componente de fabricación de arma de archwing.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Larkspur Prime - Calcio",
-        "description": "Un componente per la costruzione di un'arma Archwing.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Larkspur Prime: Kolba",
-        "description": "Element wytwarzania broni Archwing.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Сокирка-Прайм: Ложе",
-        "description": "Деталь зброї арквінґа.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Larkspur Prime Stock",
+            "description": "An Archwing weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/larkspur_prime_stock.592e684b836593e202891aea8b3a3f6c.png",
+            "thumb": "items/images/en/thumbs/larkspur_prime_stock.592e684b836593e202891aea8b3a3f6c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ларкспур Прайм: Приклад",
+            "description": "Компонент оружия арчвинга.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "라크스퍼 프라임 스톡",
+            "description": "아크윙 무기 제작 부품입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Larkspur Prime: Schaft",
+            "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Larkspur Prime - Crosse",
+            "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Larkspur Prime: Coronha",
+            "description": "Um componente de fabricação de armas Archwing.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "翠雀 Prime 枪托",
+            "description": "一个 Archwing 武器制作部件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "翠雀 Prime 槍托",
+            "description": "製作 Archwing 武器的部件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Culata De Larkspur Prime",
+            "description": "Un componente de fabricación de arma de archwing.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Larkspur Prime - Calcio",
+            "description": "Un componente per la costruzione di un'arma Archwing.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Larkspur Prime: Kolba",
+            "description": "Element wytwarzania broni Archwing.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Сокирка-Прайм: Ложе",
+            "description": "Деталь зброї арквінґа.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 8,
     "ducats": 45,

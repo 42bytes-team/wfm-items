@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanOrdnanceDamage"
     },
-    "en": {
-        "item_name": "Warhead",
-        "description": "+127.3% Ordnance Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Warhead"
-    },
-    "ru": {
-        "item_name": "Боеголовка",
-        "description": "+127.3% к урону артиллерии",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B5%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0"
-    },
-    "ko": {
-        "item_name": "워헤드",
-        "description": "+127.3% 대포 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Warhead"
-    },
-    "de": {
-        "item_name": "Sprengkopf",
-        "description": "+127.3 % Bewaffnungsschaden",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead"
-    },
-    "fr": {
-        "item_name": "Ogive",
-        "description": "+127.3% de Dégâts de Calamité",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ogive"
-    },
-    "pt": {
-        "item_name": "Ogiva",
-        "description": "+127.3% de Dano da Armaria",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead"
-    },
-    "zh-hans": {
-        "item_name": "湮灭弹头",
-        "description": "+127.3% 火炮伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Warhead"
-    },
-    "zh-hant": {
-        "item_name": "毀滅彈頭",
-        "description": "+127.3% 火砲傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Warhead"
-    },
-    "es": {
-        "item_name": "Ojiva",
-        "description": "+127.3 % de daño de artillería",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ojiva"
-    },
-    "it": {
-        "item_name": "Warhead",
-        "description": "+127.3% Danno Armamenti",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead"
-    },
-    "pl": {
-        "item_name": "Głowica",
-        "description": "+127.3% Obrażeń Uzbrojenia",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead"
-    },
-    "uk": {
-        "item_name": "Боєголовка",
-        "description": "+127.3% до шкоди від снаряда.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Warhead"
+    "i18n": {
+        "en": {
+            "item_name": "Warhead",
+            "description": "+127.3% Ordnance Damage",
+            "wiki_link": "https://warframe.fandom.com/wiki/Warhead",
+            "icon": "items/images/en/warhead.e72c4c662e69a1340c98b841dad7ae70.png",
+            "thumb": "items/images/en/thumbs/warhead.e72c4c662e69a1340c98b841dad7ae70.128x128.png"
+        },
+        "ru": {
+            "item_name": "Боеголовка",
+            "description": "+127.3% к урону артиллерии",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B5%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0"
+        },
+        "ko": {
+            "item_name": "워헤드",
+            "description": "+127.3% 대포 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Warhead"
+        },
+        "de": {
+            "item_name": "Sprengkopf",
+            "description": "+127.3 % Bewaffnungsschaden",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead"
+        },
+        "fr": {
+            "item_name": "Ogive",
+            "description": "+127.3% de Dégâts de Calamité",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Ogive"
+        },
+        "pt": {
+            "item_name": "Ogiva",
+            "description": "+127.3% de Dano da Armaria",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead"
+        },
+        "zh-hans": {
+            "item_name": "湮灭弹头",
+            "description": "+127.3% 火炮伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Warhead"
+        },
+        "zh-hant": {
+            "item_name": "毀滅彈頭",
+            "description": "+127.3% 火砲傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Warhead"
+        },
+        "es": {
+            "item_name": "Ojiva",
+            "description": "+127.3 % de daño de artillería",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Ojiva"
+        },
+        "it": {
+            "item_name": "Warhead",
+            "description": "+127.3% Danno Armamenti",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead"
+        },
+        "pl": {
+            "item_name": "Głowica",
+            "description": "+127.3% Obrażeń Uzbrojenia",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Warhead"
+        },
+        "uk": {
+            "item_name": "Боєголовка",
+            "description": "+127.3% до шкоди від снаряда.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Warhead"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 10,

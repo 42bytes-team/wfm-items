@@ -13,68 +13,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Aura/PlayerSniperDamageAuraMod"
     },
-    "en": {
-        "item_name": "Dead Eye",
-        "description": "Sniper Rifle damage increased. +52.5% Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Dead_Eye"
-    },
-    "ru": {
-        "item_name": "Меткий Стрелок",
-        "description": "Увеличивает урон, наносимый снайперской винтовкой. +52.5% урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B5%D1%82%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA",
-        "icon": "items/images/ru/dead_eye.050156737462897e3c6f7d06ad8f105f.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/dead_eye.050156737462897e3c6f7d06ad8f105f.128x128.png"
-    },
-    "ko": {
-        "item_name": "데드 아이",
-        "description": "장착 중인 저격총의 피해를 증가시킵니다. +52.5% 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Dead_Eye"
-    },
-    "de": {
-        "item_name": "Meisterschütze",
-        "description": "Scharfschützengewehr-Schaden erhöht. +52.5 % Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Meistersch%C3%BCtze"
-    },
-    "fr": {
-        "item_name": "Tireur D’Élite",
-        "description": "Dégâts du Fusil de Sniper augmentés. +52.5% de Dégâts",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tireur_d%27%C3%A9lite"
-    },
-    "pt": {
-        "item_name": "Dead Eye",
-        "description": "Dano de Rifle de Precisão aumentado. +52.5% de Dano",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Dead_Eye"
-    },
-    "zh-hans": {
-        "item_name": "死亡之眼",
-        "description": "狙击枪伤害增加 +52.5% 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dead_Eye"
-    },
-    "zh-hant": {
-        "item_name": "死亡之眼",
-        "description": "狙擊槍傷害增加 +52.5% 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Dead_Eye"
-    },
-    "es": {
-        "item_name": "Tirador Certero",
-        "description": "Daño de rifle de francotirador aumentado. +52.5% de daño",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tirador_certero"
-    },
-    "it": {
-        "item_name": "Dead Eye",
-        "description": "Danno fucile da cecchino aumentato. +52.5% Danno",
-        "wiki_link": "http://warframe.wikia.com/wiki/Dead_Eye"
-    },
-    "pl": {
-        "item_name": "Wyrafinowany Strzelec",
-        "description": "Zwiększa obrażenia karabinu snajperskiego. +52.5% Obrażeń",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyrafinowany_Strzelec"
-    },
-    "uk": {
-        "item_name": "Винятковий Стрілець",
-        "description": "Збільшує завдавану снайперською гвинтівкою шкоду. +52.5% до шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Dead_Eye"
+    "i18n": {
+        "en": {
+            "item_name": "Dead Eye",
+            "description": "Sniper Rifle damage increased. +52.5% Damage",
+            "wiki_link": "https://warframe.fandom.com/wiki/Dead_Eye",
+            "icon": "items/images/en/dead_eye.559f9fab1259fe9081d4c2bd68481283.png",
+            "thumb": "items/images/en/thumbs/dead_eye.559f9fab1259fe9081d4c2bd68481283.128x128.png"
+        },
+        "ru": {
+            "item_name": "Меткий Стрелок",
+            "description": "Увеличивает урон, наносимый снайперской винтовкой. +52.5% урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B5%D1%82%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA",
+            "icon": "items/images/ru/dead_eye.050156737462897e3c6f7d06ad8f105f.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/dead_eye.050156737462897e3c6f7d06ad8f105f.128x128.png"
+        },
+        "ko": {
+            "item_name": "데드 아이",
+            "description": "장착 중인 저격총의 피해를 증가시킵니다. +52.5% 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Dead_Eye"
+        },
+        "de": {
+            "item_name": "Meisterschütze",
+            "description": "Scharfschützengewehr-Schaden erhöht. +52.5 % Schaden",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Meistersch%C3%BCtze"
+        },
+        "fr": {
+            "item_name": "Tireur D’Élite",
+            "description": "Dégâts du Fusil de Sniper augmentés. +52.5% de Dégâts",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Tireur_d%27%C3%A9lite"
+        },
+        "pt": {
+            "item_name": "Dead Eye",
+            "description": "Dano de Rifle de Precisão aumentado. +52.5% de Dano",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Dead_Eye"
+        },
+        "zh-hans": {
+            "item_name": "死亡之眼",
+            "description": "狙击枪伤害增加 +52.5% 伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Dead_Eye"
+        },
+        "zh-hant": {
+            "item_name": "死亡之眼",
+            "description": "狙擊槍傷害增加 +52.5% 傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Dead_Eye"
+        },
+        "es": {
+            "item_name": "Tirador Certero",
+            "description": "Daño de rifle de francotirador aumentado. +52.5% de daño",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tirador_certero"
+        },
+        "it": {
+            "item_name": "Dead Eye",
+            "description": "Danno fucile da cecchino aumentato. +52.5% Danno",
+            "wiki_link": "http://warframe.wikia.com/wiki/Dead_Eye"
+        },
+        "pl": {
+            "item_name": "Wyrafinowany Strzelec",
+            "description": "Zwiększa obrażenia karabinu snajperskiego. +52.5% Obrażeń",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyrafinowany_Strzelec"
+        },
+        "uk": {
+            "item_name": "Винятковий Стрілець",
+            "description": "Збільшує завдавану снайперською гвинтівкою шкоду. +52.5% до шкоди.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Dead_Eye"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

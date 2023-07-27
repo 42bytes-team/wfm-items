@@ -24,65 +24,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Revenant Prime Chassis Blueprint",
-        "description": "Chassis component of the Revenant Prime Warframe.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Ревенант Прайм: Каркас (Чертеж)",
-        "description": "Компонент варфрейма Ревенант Прайм - каркас.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "레버넌트 프라임 섀시 설계도",
-        "description": "레버넌트 프라임 워프레임의 섀시 부분입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Revenant Prime: Chassis Blaupause",
-        "description": "Chassis-Komponente für den Revenant Prime Warframe.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Revenant Prime - Châssis (Schéma)",
-        "description": "Le composant Châssis de la Warframe Revenant Prime.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Revenant Prime: Chassi (Diagrama)",
-        "description": "Chassi componente do Warframe Revenant Prime.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "Revenant Prime 机体 蓝图",
-        "description": "Revenant Prime 战甲的机体组件。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "Revenant Prime 機體 藍圖",
-        "description": "Revenant Prime Warframe 的機體組件。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Chasis De Revenant Prime",
-        "description": "Componente del chasis del warframe Revenant Prime.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Revenant Prime - Chassis (Schema)",
-        "description": "Il componente Chassis per il Warframe Revenant Prime.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Revenant Prime: Powłoka - Schemat",
-        "description": "Powłoka dla Warframe'a Revenant Prime.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Ревенант-Прайм: Каркас (креслення)",
-        "description": "Деталі каркаса для ворфрейма Ревенанта-прайм.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Revenant Prime Chassis Blueprint",
+            "description": "Chassis component of the Revenant Prime Warframe.",
+            "wiki_link": null,
+            "icon": "items/images/en/revenant_prime_chassis_blueprint.469f99b4183a5dda7769b78b2cde6658.png",
+            "thumb": "items/images/en/thumbs/revenant_prime_chassis_blueprint.469f99b4183a5dda7769b78b2cde6658.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ревенант Прайм: Каркас (Чертеж)",
+            "description": "Компонент варфрейма Ревенант Прайм - каркас.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "레버넌트 프라임 섀시 설계도",
+            "description": "레버넌트 프라임 워프레임의 섀시 부분입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Revenant Prime: Chassis Blaupause",
+            "description": "Chassis-Komponente für den Revenant Prime Warframe.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Revenant Prime - Châssis (Schéma)",
+            "description": "Le composant Châssis de la Warframe Revenant Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Revenant Prime: Chassi (Diagrama)",
+            "description": "Chassi componente do Warframe Revenant Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "Revenant Prime 机体 蓝图",
+            "description": "Revenant Prime 战甲的机体组件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Revenant Prime 機體 藍圖",
+            "description": "Revenant Prime Warframe 的機體組件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Chasis De Revenant Prime",
+            "description": "Componente del chasis del warframe Revenant Prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Revenant Prime - Chassis (Schema)",
+            "description": "Il componente Chassis per il Warframe Revenant Prime.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Revenant Prime: Powłoka - Schemat",
+            "description": "Powłoka dla Warframe'a Revenant Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Ревенант-Прайм: Каркас (креслення)",
+            "description": "Деталі каркаса для ворфрейма Ревенанта-прайм.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 0,
     "ducats": 15,

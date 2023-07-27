@@ -22,65 +22,69 @@
         "carmine_penta_stock"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Carmine Penta Set",
-        "description": "Enveloped in deep red composite enamel, this Penta variant features a higher fire-rate and over-sized magazine.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
-    },
-    "ru": {
-        "item_name": "Пента Кармин: Комплект",
-        "description": "Покрытая эмалью насыщенного красного цвета, эта Пента обладает увеличенными скорострельностью и магазином.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
-    },
-    "ko": {
-        "item_name": "카민 펜타 세트",
-        "description": "심홍색의 합성 에나멜로 감싸인 이 펜타의 개량형 무기는 보다 높은 연사력과 특대 탄창을 특징으로 하고 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
-    },
-    "de": {
-        "item_name": "Carmine Penta: Set",
-        "description": "Überzogen mit tief rotem Verbundlack hat diese Penta-Variante eine höhere Feuerrate und übergroße Magazine.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
-    },
-    "fr": {
-        "item_name": "Penta Carmine - Set",
-        "description": "Recouvert d'un émail composite couleur bordeaux, cette variante du Penta possède une cadence de tir plus élevée et un chargeur à la capacité augmentée.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Penta_Carmin"
-    },
-    "pt": {
-        "item_name": "Penta Carmesim: Conjunto",
-        "description": "Revestida com um esmalte puramente vermelho, esta variação da Penta apresenta um aumento na Cadência de Tiro e na Capacidade do Carregador.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Carmine_Penta"
-    },
-    "zh-hans": {
-        "item_name": "嫣红·潘塔 一套",
-        "description": "（英文：CARMINE PENTA）由深红色复合珐琅包络的潘塔变体，具有更高的射速和超大容量的弹匣。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carmine_Penta"
-    },
-    "zh-hant": {
-        "item_name": "嫣紅 潘塔 一套",
-        "description": "（英文：CARMINE PENTA）這款另種版本的潘塔採用深紅色複合琺瑯包裹，具有更高的射速和超大容量的彈匣。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Carmine_Penta"
-    },
-    "es": {
-        "item_name": "Set de Penta Carmín",
-        "description": "Envuelta en un esmalte compuesto de color rojo intenso, esta variante de Penta presenta mayor cadencia de fuego y un cargador de gran tamaño.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
-    },
-    "it": {
-        "item_name": "Carmine Penta Set",
-        "description": "Avvolta da una composita smaltatura rosso intenso, questa variante del Penta presenta una Cadenza di Tiro aumentata e un caricatore più grande.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
-    },
-    "pl": {
-        "item_name": "Penta Carmine: Zestaw",
-        "description": "Ten wariant Penty, sowity głębokim czerwonym szkliwem kompozytowym, charakteryzuje się wyższą szybkostrzelnością i magazynkiem o dużych rozmiarach.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Penta_Carmine"
-    },
-    "uk": {
-        "item_name": "Пента-Кармін (комплект)",
-        "description": "Варіація гранатомета «Пента» зі збільшеною швидкострільністю та магазином. Оздоблена темно-червоною емаллю.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
+    "i18n": {
+        "en": {
+            "item_name": "Carmine Penta Set",
+            "description": "Enveloped in deep red composite enamel, this Penta variant features a higher fire-rate and over-sized magazine.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta",
+            "icon": "items/images/en/carmine_penta_set.c1aca6866f8ca8647358966756a8a81b.png",
+            "thumb": "items/images/en/thumbs/carmine_penta_set.c1aca6866f8ca8647358966756a8a81b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Пента Кармин: Комплект",
+            "description": "Покрытая эмалью насыщенного красного цвета, эта Пента обладает увеличенными скорострельностью и магазином.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
+        },
+        "ko": {
+            "item_name": "카민 펜타 세트",
+            "description": "심홍색의 합성 에나멜로 감싸인 이 펜타의 개량형 무기는 보다 높은 연사력과 특대 탄창을 특징으로 하고 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
+        },
+        "de": {
+            "item_name": "Carmine Penta: Set",
+            "description": "Überzogen mit tief rotem Verbundlack hat diese Penta-Variante eine höhere Feuerrate und übergroße Magazine.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
+        },
+        "fr": {
+            "item_name": "Penta Carmine - Set",
+            "description": "Recouvert d'un émail composite couleur bordeaux, cette variante du Penta possède une cadence de tir plus élevée et un chargeur à la capacité augmentée.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Penta_Carmin"
+        },
+        "pt": {
+            "item_name": "Penta Carmesim: Conjunto",
+            "description": "Revestida com um esmalte puramente vermelho, esta variação da Penta apresenta um aumento na Cadência de Tiro e na Capacidade do Carregador.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Carmine_Penta"
+        },
+        "zh-hans": {
+            "item_name": "嫣红·潘塔 一套",
+            "description": "（英文：CARMINE PENTA）由深红色复合珐琅包络的潘塔变体，具有更高的射速和超大容量的弹匣。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Carmine_Penta"
+        },
+        "zh-hant": {
+            "item_name": "嫣紅 潘塔 一套",
+            "description": "（英文：CARMINE PENTA）這款另種版本的潘塔採用深紅色複合琺瑯包裹，具有更高的射速和超大容量的彈匣。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Carmine_Penta"
+        },
+        "es": {
+            "item_name": "Set de Penta Carmín",
+            "description": "Envuelta en un esmalte compuesto de color rojo intenso, esta variante de Penta presenta mayor cadencia de fuego y un cargador de gran tamaño.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
+        },
+        "it": {
+            "item_name": "Carmine Penta Set",
+            "description": "Avvolta da una composita smaltatura rosso intenso, questa variante del Penta presenta una Cadenza di Tiro aumentata e un caricatore più grande.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
+        },
+        "pl": {
+            "item_name": "Penta Carmine: Zestaw",
+            "description": "Ten wariant Penty, sowity głębokim czerwonym szkliwem kompozytowym, charakteryzuje się wyższą szybkostrzelnością i magazynkiem o dużych rozmiarach.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Penta_Carmine"
+        },
+        "uk": {
+            "item_name": "Пента-Кармін (комплект)",
+            "description": "Варіація гранатомета «Пента» зі збільшеною швидкострільністю та магазином. Оздоблена темно-червоною емаллю.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Carmine_Penta"
+        }
     },
     "mastery_level": 6,
     "trading_tax": 8000

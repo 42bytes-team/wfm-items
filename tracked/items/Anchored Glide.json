@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Tengu/TenguDisablePassiveMod"
     },
-    "en": {
-        "item_name": "Anchored Glide",
-        "description": "Disable Zephyr's reduced airborne gravity. Increase Ability Strength by 15%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
-    },
-    "ru": {
-        "item_name": "Связанное Парение",
-        "description": "Отключает пассивную способность Зефир. Увеличивает силу способности на 15%.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5"
-    },
-    "ko": {
-        "item_name": "앵커드 글라이드",
-        "description": "제피르의 공중부양 시 중력 감소 패시브를 비활성화하고 어빌리티 위력을 15%만큼 향상시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
-    },
-    "de": {
-        "item_name": "Verankertes Gleiten",
-        "description": "Deaktiviert Zephyrs passive Fähigkeit. Erhöht Fähigkeitsstärke um 15 %.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
-    },
-    "fr": {
-        "item_name": "Planeur Ancré",
-        "description": "Désactive le Pouvoir passif de Zephyr. Augmente la Puissance de Pouvoir de 15%.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Planeur_Ancr%C3%A9"
-    },
-    "pt": {
-        "item_name": "Anchored Glide",
-        "description": "Desabilitará a habilidade passiva da Zephyr. Aumentará a Força da Habilidade em 15%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
-    },
-    "zh-hans": {
-        "item_name": "聚精滑翔",
-        "description": "解除 Zephyr 的被动技能。技能强度提高 15%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Anchored_Glide"
-    },
-    "zh-hant": {
-        "item_name": "固向翱翔",
-        "description": "取消 Zephyr 的被動技能。提升技能強度 15%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Anchored_Glide"
-    },
-    "es": {
-        "item_name": "Planeo Anclado",
-        "description": "Desactiva la habilidad pasiva de Zephyr. Incrementa la fuerza de habilidad en un 15%.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Planeo_anclado"
-    },
-    "it": {
-        "item_name": "Anchored Glide",
-        "description": "Disabilita l'abilità passiva di Zephyr. Aumenta la Potenza Abilità del 15%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
-    },
-    "pl": {
-        "item_name": "Zakotwiczony Lot",
-        "description": "Dezaktywuje umiejętność pasywną Zephyr. Zwiększa Siłę Umiejętności o 15%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
-    },
-    "uk": {
-        "item_name": "Зачеплене Ковзання",
-        "description": "Усуває зменшення дії гравітації на Зефіру в повітрі. Збільшує потужність здібностей на 15%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
+    "i18n": {
+        "en": {
+            "item_name": "Anchored Glide",
+            "description": "Disable Zephyr's reduced airborne gravity. Increase Ability Strength by 15%.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide",
+            "icon": "items/images/en/anchored_glide.f5f043a3836edf65ef625618548cf6f8.png",
+            "thumb": "items/images/en/thumbs/anchored_glide.f5f043a3836edf65ef625618548cf6f8.128x128.png"
+        },
+        "ru": {
+            "item_name": "Связанное Парение",
+            "description": "Отключает пассивную способность Зефир. Увеличивает силу способности на 15%.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5"
+        },
+        "ko": {
+            "item_name": "앵커드 글라이드",
+            "description": "제피르의 공중부양 시 중력 감소 패시브를 비활성화하고 어빌리티 위력을 15%만큼 향상시킵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
+        },
+        "de": {
+            "item_name": "Verankertes Gleiten",
+            "description": "Deaktiviert Zephyrs passive Fähigkeit. Erhöht Fähigkeitsstärke um 15 %.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
+        },
+        "fr": {
+            "item_name": "Planeur Ancré",
+            "description": "Désactive le Pouvoir passif de Zephyr. Augmente la Puissance de Pouvoir de 15%.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Planeur_Ancr%C3%A9"
+        },
+        "pt": {
+            "item_name": "Anchored Glide",
+            "description": "Desabilitará a habilidade passiva da Zephyr. Aumentará a Força da Habilidade em 15%.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
+        },
+        "zh-hans": {
+            "item_name": "聚精滑翔",
+            "description": "解除 Zephyr 的被动技能。技能强度提高 15%。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Anchored_Glide"
+        },
+        "zh-hant": {
+            "item_name": "固向翱翔",
+            "description": "取消 Zephyr 的被動技能。提升技能強度 15%。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Anchored_Glide"
+        },
+        "es": {
+            "item_name": "Planeo Anclado",
+            "description": "Desactiva la habilidad pasiva de Zephyr. Incrementa la fuerza de habilidad en un 15%.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Planeo_anclado"
+        },
+        "it": {
+            "item_name": "Anchored Glide",
+            "description": "Disabilita l'abilità passiva di Zephyr. Aumenta la Potenza Abilità del 15%.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
+        },
+        "pl": {
+            "item_name": "Zakotwiczony Lot",
+            "description": "Dezaktywuje umiejętność pasywną Zephyr. Zwiększa Siłę Umiejętności o 15%.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
+        },
+        "uk": {
+            "item_name": "Зачеплене Ковзання",
+            "description": "Усуває зменшення дії гравітації на Зефіру в повітрі. Збільшує потужність здібностей на 15%.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Anchored_Glide"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

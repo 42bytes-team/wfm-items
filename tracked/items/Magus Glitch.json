@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/NoPenaltyOnDeath"
     },
-    "en": {
-        "item_name": "Magus Glitch",
-        "description": "102% chance to negate Transference Static.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Glitch"
-    },
-    "ru": {
-        "item_name": "Сбой Волхва",
-        "description": "102% шанс избежать эффекта помех Переноса.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B1%D0%BE%D0%B9_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
-    },
-    "ko": {
-        "item_name": "마구스 글리치",
-        "description": "102%의 확률로 전이 방해를 무효화합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Glitch"
-    },
-    "de": {
-        "item_name": "Magus: Glitch",
-        "description": "102 % Chance, Transferenz-Statik zu vermeiden.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch"
-    },
-    "fr": {
-        "item_name": "Magus Irrégularité",
-        "description": "102% de chance d'annuler les Parasites de Transférence.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Irr%C3%A9gularit%C3%A9"
-    },
-    "pt": {
-        "item_name": "Erro Do Mago",
-        "description": "102% de anular o efeito da Estática da Transferência.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch"
-    },
-    "zh-hans": {
-        "item_name": "魔导·干扰",
-        "description": "有 102% 几率避免传识干扰。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Glitch"
-    },
-    "zh-hant": {
-        "item_name": "魔導干擾",
-        "description": "102% 機率避免傳識干擾。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Glitch"
-    },
-    "es": {
-        "item_name": "Falla Del Mago",
-        "description": "102 % de probabilidad de negar la Estática de la transferencia.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Falla_del_mago"
-    },
-    "it": {
-        "item_name": "Magus Glitch",
-        "description": "102% probabilità di evitare Disturbo Trasferenza.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch"
-    },
-    "pl": {
-        "item_name": "Magus Usterki",
-        "description": "102% szans na uniknięcie Zakłócenia Transferencji.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Usterki"
-    },
-    "uk": {
-        "item_name": "Маґус «Хиба»",
-        "description": "102% шанс уникнути перешкод перенесення.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Glitch"
+    "i18n": {
+        "en": {
+            "item_name": "Magus Glitch",
+            "description": "102% chance to negate Transference Static.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Glitch",
+            "icon": "items/images/en/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.png",
+            "thumb": "items/images/en/thumbs/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сбой Волхва",
+            "description": "102% шанс избежать эффекта помех Переноса.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B1%D0%BE%D0%B9_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
+        },
+        "ko": {
+            "item_name": "마구스 글리치",
+            "description": "102%의 확률로 전이 방해를 무효화합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Glitch"
+        },
+        "de": {
+            "item_name": "Magus: Glitch",
+            "description": "102 % Chance, Transferenz-Statik zu vermeiden.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch"
+        },
+        "fr": {
+            "item_name": "Magus Irrégularité",
+            "description": "102% de chance d'annuler les Parasites de Transférence.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Irr%C3%A9gularit%C3%A9"
+        },
+        "pt": {
+            "item_name": "Erro Do Mago",
+            "description": "102% de anular o efeito da Estática da Transferência.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch"
+        },
+        "zh-hans": {
+            "item_name": "魔导·干扰",
+            "description": "有 102% 几率避免传识干扰。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Glitch"
+        },
+        "zh-hant": {
+            "item_name": "魔導干擾",
+            "description": "102% 機率避免傳識干擾。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Glitch"
+        },
+        "es": {
+            "item_name": "Falla Del Mago",
+            "description": "102 % de probabilidad de negar la Estática de la transferencia.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Falla_del_mago"
+        },
+        "it": {
+            "item_name": "Magus Glitch",
+            "description": "102% probabilità di evitare Disturbo Trasferenza.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magus_Glitch"
+        },
+        "pl": {
+            "item_name": "Magus Usterki",
+            "description": "102% szans na uniknięcie Zakłócenia Transferencji.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Usterki"
+        },
+        "uk": {
+            "item_name": "Маґус «Хиба»",
+            "description": "102% шанс уникнути перешкод перенесення.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Glitch"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

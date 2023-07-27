@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/Event/CritDamageWhileAimingRifleMod"
     },
-    "en": {
-        "item_name": "Bladed Rounds",
-        "description": "On Kill:\n+120% Critical Damage when Aiming for 9s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bladed_Rounds"
-    },
-    "ru": {
-        "item_name": "Патроны С Лезвиями",
-        "description": "При убийстве:\n+120% к силе критического урона при прицеливании в течение 9с",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%A1_%D0%9B%D0%B5%D0%B7%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8"
-    },
-    "ko": {
-        "item_name": "블레이디드 라운즈",
-        "description": "처치 시:\n9초 동안 조준 시 +120% 치명타 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bladed_Rounds"
-    },
-    "de": {
-        "item_name": "Messergeschoss",
-        "description": "Bei Kill:\n+120 % Krit. Schaden beim Zielen für 9s",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Messergeschoss"
-    },
-    "fr": {
-        "item_name": "Salves De Lames",
-        "description": "Sur Élimination:\nPendant 9s, +120% de Dégâts Critiques en Visant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Salves_de_Lames"
-    },
-    "pt": {
-        "item_name": "Bladed Rounds",
-        "description": "Ao Matar:\n+120% de Dano Crítico ao Mirar por 9s",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Bladed_Rounds"
-    },
-    "zh-hans": {
-        "item_name": "尖刃弹头",
-        "description": "击杀时：\n瞄准时增加 +120% 暴击伤害，持续 9 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bladed_Rounds"
-    },
-    "zh-hant": {
-        "item_name": "尖刃彈頭",
-        "description": "擊殺時：\n瞄準時增加 +120% 暴擊傷害，持續 9 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bladed_Rounds"
-    },
-    "es": {
-        "item_name": "Municiones De Hoja",
-        "description": "Al matar:\n+120% de daño crítico mientras apuntas por 9s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Municiones_de_hoja"
-    },
-    "it": {
-        "item_name": "Bladed Rounds",
-        "description": "Dopo un'Uccisione:\n+120% Danno Critico durante la mira per 9s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bladed_Rounds"
-    },
-    "pl": {
-        "item_name": "Pociski-Ostrza",
-        "description": "Po zabiciu:\n+120% Krytyczne obrażenia podczas celowania przez 9s",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pociski-ostrza"
-    },
-    "uk": {
-        "item_name": "Загострені Набої",
-        "description": "У разі вбивства:\n+120% до критичної шкоди під час прицілювання. Тривалість: 9 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bladed_Rounds"
+    "i18n": {
+        "en": {
+            "item_name": "Bladed Rounds",
+            "description": "On Kill:\n+120% Critical Damage when Aiming for 9s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bladed_Rounds",
+            "icon": "items/images/en/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.png",
+            "thumb": "items/images/en/thumbs/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.128x128.png"
+        },
+        "ru": {
+            "item_name": "Патроны С Лезвиями",
+            "description": "При убийстве:\n+120% к силе критического урона при прицеливании в течение 9с",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%A1_%D0%9B%D0%B5%D0%B7%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8"
+        },
+        "ko": {
+            "item_name": "블레이디드 라운즈",
+            "description": "처치 시:\n9초 동안 조준 시 +120% 치명타 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bladed_Rounds"
+        },
+        "de": {
+            "item_name": "Messergeschoss",
+            "description": "Bei Kill:\n+120 % Krit. Schaden beim Zielen für 9s",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Messergeschoss"
+        },
+        "fr": {
+            "item_name": "Salves De Lames",
+            "description": "Sur Élimination:\nPendant 9s, +120% de Dégâts Critiques en Visant",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Salves_de_Lames"
+        },
+        "pt": {
+            "item_name": "Bladed Rounds",
+            "description": "Ao Matar:\n+120% de Dano Crítico ao Mirar por 9s",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Bladed_Rounds"
+        },
+        "zh-hans": {
+            "item_name": "尖刃弹头",
+            "description": "击杀时：\n瞄准时增加 +120% 暴击伤害，持续 9 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bladed_Rounds"
+        },
+        "zh-hant": {
+            "item_name": "尖刃彈頭",
+            "description": "擊殺時：\n瞄準時增加 +120% 暴擊傷害，持續 9 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bladed_Rounds"
+        },
+        "es": {
+            "item_name": "Municiones De Hoja",
+            "description": "Al matar:\n+120% de daño crítico mientras apuntas por 9s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Municiones_de_hoja"
+        },
+        "it": {
+            "item_name": "Bladed Rounds",
+            "description": "Dopo un'Uccisione:\n+120% Danno Critico durante la mira per 9s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Bladed_Rounds"
+        },
+        "pl": {
+            "item_name": "Pociski-Ostrza",
+            "description": "Po zabiciu:\n+120% Krytyczne obrażenia podczas celowania przez 9s",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Pociski-ostrza"
+        },
+        "uk": {
+            "item_name": "Загострені Набої",
+            "description": "У разі вбивства:\n+120% до критичної шкоди під час прицілювання. Тривалість: 9 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bladed_Rounds"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

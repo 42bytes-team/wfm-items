@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Warframe/AvatarSprintSpeedMod"
     },
-    "en": {
-        "item_name": "Rush",
-        "description": "+30% Sprint Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rush"
-    },
-    "ru": {
-        "item_name": "Спешка",
-        "description": "+30% к скорости бега",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B5%D1%88%D0%BA%D0%B0",
-        "icon": "items/images/ru/rush.9110fb38319fa26bfe89f3d082d30e98.png",
-        "thumb": "items/images/ru/thumbs/rush.9110fb38319fa26bfe89f3d082d30e98.128x128.png"
-    },
-    "ko": {
-        "item_name": "러쉬",
-        "description": "+30% 질주 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rush"
-    },
-    "de": {
-        "item_name": "Sprint",
-        "description": "+30 % Sprintgeschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sprint"
-    },
-    "fr": {
-        "item_name": "Course",
-        "description": "+30% Vitesse de Course",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Course"
-    },
-    "pt": {
-        "item_name": "Rush",
-        "description": "+30% de Velocidade da Corrida",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rush"
-    },
-    "zh-hans": {
-        "item_name": "冲刺",
-        "description": "+30% 冲刺速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rush"
-    },
-    "zh-hant": {
-        "item_name": "衝刺",
-        "description": "+30% 衝刺速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rush"
-    },
-    "es": {
-        "item_name": "Carrera",
-        "description": "+30% de velocidad al correr",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Carrera"
-    },
-    "it": {
-        "item_name": "Rush",
-        "description": "+30% Velocità Scatto",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Rush"
-    },
-    "pl": {
-        "item_name": "Pośpiech",
-        "description": "+30% Szybkość Sprintu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Po%C5%9Bpiech"
-    },
-    "uk": {
-        "item_name": "Натиск",
-        "description": "+30% до швидкості бігу.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rush"
+    "i18n": {
+        "en": {
+            "item_name": "Rush",
+            "description": "+30% Sprint Speed",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rush",
+            "icon": "items/images/en/rush.f8e228622bcae9b591c244d0c257d2b8.png",
+            "thumb": "items/images/en/thumbs/rush.f8e228622bcae9b591c244d0c257d2b8.128x128.png"
+        },
+        "ru": {
+            "item_name": "Спешка",
+            "description": "+30% к скорости бега",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B5%D1%88%D0%BA%D0%B0",
+            "icon": "items/images/ru/rush.9110fb38319fa26bfe89f3d082d30e98.png",
+            "thumb": "items/images/ru/thumbs/rush.9110fb38319fa26bfe89f3d082d30e98.128x128.png"
+        },
+        "ko": {
+            "item_name": "러쉬",
+            "description": "+30% 질주 속도",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rush"
+        },
+        "de": {
+            "item_name": "Sprint",
+            "description": "+30 % Sprintgeschwindigkeit",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Sprint"
+        },
+        "fr": {
+            "item_name": "Course",
+            "description": "+30% Vitesse de Course",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Course"
+        },
+        "pt": {
+            "item_name": "Rush",
+            "description": "+30% de Velocidade da Corrida",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rush"
+        },
+        "zh-hans": {
+            "item_name": "冲刺",
+            "description": "+30% 冲刺速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rush"
+        },
+        "zh-hant": {
+            "item_name": "衝刺",
+            "description": "+30% 衝刺速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rush"
+        },
+        "es": {
+            "item_name": "Carrera",
+            "description": "+30% de velocidad al correr",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Carrera"
+        },
+        "it": {
+            "item_name": "Rush",
+            "description": "+30% Velocità Scatto",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Rush"
+        },
+        "pl": {
+            "item_name": "Pośpiech",
+            "description": "+30% Szybkość Sprintu",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Po%C5%9Bpiech"
+        },
+        "uk": {
+            "item_name": "Натиск",
+            "description": "+30% до швидкості бігу",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rush"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

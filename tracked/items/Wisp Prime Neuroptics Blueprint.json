@@ -1,0 +1,94 @@
+{
+    "_id": "64c2aa1566456704eba6ba38",
+    "tags": [
+        "prime",
+        "component",
+        "warframe",
+        "blueprint"
+    ],
+    "icon": "items/images/en/wisp_prime_neuroptics_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+    "thumb": "items/images/en/thumbs/wisp_prime_neuroptics_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
+    "url_name": "wisp_prime_neuroptics_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeHelmetBlueprint"
+    },
+    "part_of_set": [
+        "wisp_prime_blueprint",
+        "wisp_prime_chassis_blueprint",
+        "wisp_prime_neuroptics_blueprint",
+        "wisp_prime_set",
+        "wisp_prime_systems_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Wisp Prime Neuroptics Blueprint",
+            "description": "Neuroptics component of the Wisp Prime Warframe.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Wisp_Prime",
+            "icon": "items/images/en/wisp_prime_neuroptics_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+            "thumb": "items/images/en/thumbs/wisp_prime_neuroptics_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png"
+        },
+        "ru": {
+            "item_name": "Висп Прайм: Нейрооптика (Чертеж)",
+            "description": "Компонент варфрейма Висп Прайм: нейрооптика.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "위습 프라임 뉴로옵틱스 설계도",
+            "description": "위습 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Wisp Prime: Neuroptik Blaupause",
+            "description": "Neuroptik-Komponente für den Wisp Prime Warframe.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Wisp Prime - Neuroptiques (Schéma)",
+            "description": "Le composant Neuroptiques de la Warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Wisp Prime: Neurovisor (Diagrama)",
+            "description": "Neurovisor componente do Warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "Wisp Prime 头部神经光元 蓝图",
+            "description": "Wisp Prime 战甲的头部神经光元组件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Wisp Prime 頭部神經光元 藍圖",
+            "description": "Wisp Prime Warframe 的頭部神經光元組件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Neurópticas De Wisp Prime",
+            "description": "Componente de las neurópticas del warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Wisp Prime - Neurottiche (Schema)",
+            "description": "Il componente Neurottiche per il Warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Wisp Prime: Neurooptyka - Schemat",
+            "description": "Neurooptyka dla Warframe Wisp Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Вісп-Прайм: Нейроптика (креслення)",
+            "description": "Деталі нейроптики для ворфрейма Вісп-прайм.",
+            "wiki_link": null
+        }
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

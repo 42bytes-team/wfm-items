@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Hoverboard/HBFallChanceReductionMod"
     },
-    "en": {
-        "item_name": "Perfect Balance",
-        "description": "+66% Chance to Resist Falls",
-        "wiki_link": "https://warframe.fandom.com/wiki/Perfect_Balance"
-    },
-    "ru": {
-        "item_name": "Идеальный Баланс",
-        "description": "+66% к шансу избежать падения",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81",
-        "icon": "items/images/ru/perfect_balance.8414e4d539fdd9540576d5fd14a108c4.png",
-        "thumb": "items/images/ru/thumbs/perfect_balance.8414e4d539fdd9540576d5fd14a108c4.128x128.png"
-    },
-    "ko": {
-        "item_name": "퍼펙트 밸런스",
-        "description": "+66% 넘어질 확률 저항",
-        "wiki_link": "https://warframe.fandom.com/wiki/Perfect_Balance"
-    },
-    "de": {
-        "item_name": "Perfekte Balance",
-        "description": "+66 % reduzierte Sturzchance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Perfekte_Balance"
-    },
-    "fr": {
-        "item_name": "Équilibre Parfait",
-        "description": "+66% de chances de résister à une chute",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89quilibre_Parfait"
-    },
-    "pt": {
-        "item_name": "Perfect Balance",
-        "description": "+66% de Chance de Resistir à Derrubadas",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Perfect_Balance"
-    },
-    "zh-hans": {
-        "item_name": "完美平衡",
-        "description": "+66% 抵抗坠落几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Perfect_Balance"
-    },
-    "zh-hant": {
-        "item_name": "完美平衡",
-        "description": "+66% 抵抗墜落機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Perfect_Balance"
-    },
-    "es": {
-        "item_name": "Balance Perfecto",
-        "description": "+66 % de probabilidad de resistir caídas",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Balance_perfecto"
-    },
-    "it": {
-        "item_name": "Perfect Balance",
-        "description": "+66% Probabilità di resistere alle cadute",
-        "wiki_link": "https://warframe.fandom.com/wiki/Perfect_Balance"
-    },
-    "pl": {
-        "item_name": "Harmonijny Balans",
-        "description": "+66% Szansy na uniknięcie upadków",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Harmonijny_Balans"
-    },
-    "uk": {
-        "item_name": "Бездоганна Рівновага",
-        "description": "+66% до ймовірності запобігти падінню",
-        "wiki_link": "https://warframe.fandom.com/wiki/Perfect_Balance"
+    "i18n": {
+        "en": {
+            "item_name": "Perfect Balance",
+            "description": "+66% Chance to Resist Falls",
+            "wiki_link": "https://warframe.fandom.com/wiki/Perfect_Balance",
+            "icon": "items/images/en/perfect_balance.17da73e7e9003067dfbd1cb9f39330dd.png",
+            "thumb": "items/images/en/thumbs/perfect_balance.17da73e7e9003067dfbd1cb9f39330dd.128x128.png"
+        },
+        "ru": {
+            "item_name": "Идеальный Баланс",
+            "description": "+66% к шансу избежать падения",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81",
+            "icon": "items/images/ru/perfect_balance.8414e4d539fdd9540576d5fd14a108c4.png",
+            "thumb": "items/images/ru/thumbs/perfect_balance.8414e4d539fdd9540576d5fd14a108c4.128x128.png"
+        },
+        "ko": {
+            "item_name": "퍼펙트 밸런스",
+            "description": "+66% 넘어질 확률 저항",
+            "wiki_link": "https://warframe.fandom.com/wiki/Perfect_Balance"
+        },
+        "de": {
+            "item_name": "Perfekte Balance",
+            "description": "+66 % reduzierte Sturzchance",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Perfekte_Balance"
+        },
+        "fr": {
+            "item_name": "Équilibre Parfait",
+            "description": "+66% de chances de résister à une chute",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89quilibre_Parfait"
+        },
+        "pt": {
+            "item_name": "Perfect Balance",
+            "description": "+66% de Chance de Resistir à Derrubadas",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Perfect_Balance"
+        },
+        "zh-hans": {
+            "item_name": "完美平衡",
+            "description": "+66% 抵抗坠落几率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Perfect_Balance"
+        },
+        "zh-hant": {
+            "item_name": "完美平衡",
+            "description": "+66% 抵抗墜落機率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Perfect_Balance"
+        },
+        "es": {
+            "item_name": "Balance Perfecto",
+            "description": "+66 % de probabilidad de resistir caídas",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Balance_perfecto"
+        },
+        "it": {
+            "item_name": "Perfect Balance",
+            "description": "+66% Probabilità di resistere alle cadute",
+            "wiki_link": "https://warframe.fandom.com/wiki/Perfect_Balance"
+        },
+        "pl": {
+            "item_name": "Harmonijny Balans",
+            "description": "+66% Szansy na uniknięcie upadków",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Harmonijny_Balans"
+        },
+        "uk": {
+            "item_name": "Бездоганна Рівновага",
+            "description": "+66% до ймовірності запобігти падінню",
+            "wiki_link": "https://warframe.fandom.com/wiki/Perfect_Balance"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 10,

@@ -1,0 +1,93 @@
+{
+    "_id": "64c2aa1466456704eba6ba36",
+    "tags": [
+        "primary",
+        "prime",
+        "weapon",
+        "set"
+    ],
+    "icon": "items/images/en/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.png",
+    "thumb": "items/images/en/thumbs/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
+    "icon_format": "land",
+    "url_name": "fulmin_prime_set",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/PrimeFulmin/PrimeFulmin",
+        "type": "set"
+    },
+    "part_of_set": [
+        "fulmin_prime_barrel",
+        "fulmin_prime_blueprint",
+        "fulmin_prime_receiver",
+        "fulmin_prime_set",
+        "fulmin_prime_stock"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Fulmin Prime Set",
+            "description": "Wield a storm. Fulmin Prime's electric rounds switch between lightning beams and short-range bursts. Wisp quickly swaps between each mode with her elemental prowess.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Fulmin_Prime",
+            "icon": "items/images/en/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.png",
+            "thumb": "items/images/en/thumbs/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.128x128.png"
+        },
+        "ru": {
+            "item_name": "Фульмин Прайм: Комплект",
+            "description": "Приручите бурю. Электрические снаряды Фульмина Прайм переключаются между лучами молнии и разрядами ближнего действия. Висп быстро переключается между режимами благодаря своей элементальной удали.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "펄민 프라임 세트",
+            "description": "폭풍을 호령해 보세요. 펄민 프라임의 전기 탄환은 전격 빔과 단거리 산탄 간에 전환이 가능합니다. 위습은 원소에 대한 자신의 역량을 통해 각 모드를 더욱 빠르게 전환할 수 있습니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Fulmin Prime: Set",
+            "description": "Führt einen Sturm. Fulmin Primes elektrische Ladungen wechseln zwischen Blitzstrahl und Salven auf kurze Entfernung. Mit ihrer elementaren Macht wechselt Wisp schnell zwischen den Modi.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Fulmin Prime - Set",
+            "description": "Contrôlez la tempête. Les cartouches électriques du Fulmin Prime alternent entre les rayons de foudre et les rafales à courte portée. Wisp passe rapidement d'un mode à l'autre grâce à ses prouesses élémentaires.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Fulmin Prime: Conjunto",
+            "description": "Domine o poder de uma tempestade. Os projéteis elétricos da Fulmin Prime alternam entre raios e rajadas de curto alcance. A Wisp intercala rapidamente entre cada modo com sua proeza elementar.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "雷霆 Prime 一套",
+            "description": "（英文：FULMIN PRIME）唤起风暴。雷霆 Prime 的电击弹可在闪电光束和短距离点射之间切换。Wisp 凭借她的元素之力获得更快的模式切换速度。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Fulmin_Prime"
+        },
+        "zh-hant": {
+            "item_name": "雷霆 Prime 一套",
+            "description": "（英文：FULMIN PRIME）掌握暴風之力，雷霆 Prime 的電擊子彈能在電擊光束和短射程的爆發之間切換。Wisp 使用時，能以她高超的元素能力更快速切換模式。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Fulmin_Prime"
+        },
+        "es": {
+            "item_name": "Set de Fulmin Prime",
+            "description": "Dirige la tormenta. Los proyectiles eléctricos del Fulmin Prime alternan entre haces de luz y ráfagas de corto alcance. Wisp cambia rápidamente entre cada modo con su destreza elemental.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Fulmin Prime Set",
+            "description": "Controlla la tempesta. I proiettili elettrici del Fulmin Prime alternano fulmini e raffiche a corto raggio. Wisp passa rapidamente da una modalità all'altra con la sua abilità elementale.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Fulmin Prime: Zestaw",
+            "description": "Potęga burzy w Twoich rękach. Fulmin Prime pozwala na zasypanie wrogów gradem piorunów i zmiecenie ich potężnym wyładowaniem o krótkim zasięgu. Zmiana trybu ognia jest przyspieszona, kiedy ta broń jest używana przez Wisp.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Фульмін-Прайм (комплект)",
+            "description": "Візьміть бурю до рук. Електричні постріли Фульміна-прайм перемикаються між блискавичними променями й недалекобійними чергами. У руках Вісп-прайм перемикання відбувається швидше.",
+            "wiki_link": null
+        }
+    },
+    "mastery_level": 12,
+    "ducats": 205,
+    "trading_tax": 8000
+}

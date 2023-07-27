@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreBulletJumpLessEnergy"
     },
-    "en": {
-        "item_name": "No Current Leap",
-        "description": "+10% Mobility\n0 Energy Rate",
-        "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
-    },
-    "ru": {
-        "item_name": "Потоковый Прыжок",
-        "description": "+10% мобильности\n0 к восстановлению энергии",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%9F%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
-        "icon": "items/images/ru/no_current_leap.5538d53c1b29c83c3a9866479a63fba8.png",
-        "thumb": "items/images/ru/thumbs/no_current_leap.5538d53c1b29c83c3a9866479a63fba8.128x128.png"
-    },
-    "ko": {
-        "item_name": "노 커런트 립",
-        "description": "+10% 기동성\n초당 0 에너지 재생",
-        "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
-    },
-    "de": {
-        "item_name": "Energieloser Sprung",
-        "description": "+10 % Mobilität\n0 Energierate",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Energieloser_Sprung"
-    },
-    "fr": {
-        "item_name": "Saut Disjoncté",
-        "description": "+10% de Mobilité\n0 de Taux d'Énergie",
-        "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
-    },
-    "pt": {
-        "item_name": "No Current Leap",
-        "description": "+10% de Mobilidade\n0 Taxa de Energia",
-        "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
-    },
-    "zh-hans": {
-        "item_name": "无电流飞跃",
-        "description": "+10% 移动力加成\n0 能量恢复率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/No_Current_Leap"
-    },
-    "zh-hant": {
-        "item_name": "無耗能飛躍",
-        "description": "+10% 移動力加成\n0 能量恢復率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/No_Current_Leap"
-    },
-    "es": {
-        "item_name": "Salto Sin Corriente",
-        "description": "+10% de movilidad\n0 tasa de energía",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Salto_sin_corriente"
-    },
-    "it": {
-        "item_name": "No Current Leap",
-        "description": "+10% Mobilità\n0 Rigenerazione Energia/s",
-        "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
-    },
-    "pl": {
-        "item_name": "Bezprądowy Skok",
-        "description": "+10% Mobilności\n0 Regeneracji Energii",
-        "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
-    },
-    "uk": {
-        "item_name": "Безперервний Стрибок",
-        "description": "+10% до рухливості.\n0 до відновлення енергії.",
-        "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
+    "i18n": {
+        "en": {
+            "item_name": "No Current Leap",
+            "description": "+10% Mobility\n0 Energy Rate",
+            "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap",
+            "icon": "items/images/en/no_current_leap.976d54d945fc0eede87574d91695ea92.png",
+            "thumb": "items/images/en/thumbs/no_current_leap.976d54d945fc0eede87574d91695ea92.128x128.png"
+        },
+        "ru": {
+            "item_name": "Потоковый Прыжок",
+            "description": "+10% мобильности\n0 к восстановлению энергии",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%9F%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
+            "icon": "items/images/ru/no_current_leap.5538d53c1b29c83c3a9866479a63fba8.png",
+            "thumb": "items/images/ru/thumbs/no_current_leap.5538d53c1b29c83c3a9866479a63fba8.128x128.png"
+        },
+        "ko": {
+            "item_name": "노 커런트 립",
+            "description": "+10% 기동성\n초당 0 에너지 재생",
+            "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
+        },
+        "de": {
+            "item_name": "Energieloser Sprung",
+            "description": "+10 % Mobilität\n0 Energierate",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Energieloser_Sprung"
+        },
+        "fr": {
+            "item_name": "Saut Disjoncté",
+            "description": "+10% de Mobilité\n0 de Taux d'Énergie",
+            "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
+        },
+        "pt": {
+            "item_name": "No Current Leap",
+            "description": "+10% de Mobilidade\n0 Taxa de Energia",
+            "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
+        },
+        "zh-hans": {
+            "item_name": "无电流飞跃",
+            "description": "+10% 移动力加成\n0 能量恢复率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/No_Current_Leap"
+        },
+        "zh-hant": {
+            "item_name": "無耗能飛躍",
+            "description": "+10% 移動力加成\n0 能量恢復率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/No_Current_Leap"
+        },
+        "es": {
+            "item_name": "Salto Sin Corriente",
+            "description": "+10% de movilidad\n0 tasa de energía",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Salto_sin_corriente"
+        },
+        "it": {
+            "item_name": "No Current Leap",
+            "description": "+10% Mobilità\n0 Rigenerazione Energia/s",
+            "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
+        },
+        "pl": {
+            "item_name": "Bezprądowy Skok",
+            "description": "+10% Mobilności\n0 Regeneracji Energii",
+            "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
+        },
+        "uk": {
+            "item_name": "Безперервний Стрибок",
+            "description": "+10% до рухливості\n0 до відновлення енергії",
+            "wiki_link": "https://warframe.fandom.com/wiki/No_Current_Leap"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

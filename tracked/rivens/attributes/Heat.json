@@ -14,40 +14,42 @@
     "game_ref": {
         "uniq_name": "WeaponFireDamageMod"
     },
-    "en": {
-        "effect": "Heat"
-    },
-    "ru": {
-        "effect": "Урон Огнем"
-    },
-    "ko": {
-        "effect": "화염 피해"
-    },
-    "de": {
-        "effect": "Feuerschaden"
-    },
-    "fr": {
-        "effect": "Dégâts de Feu"
-    },
-    "pt": {
-        "effect": "Heat Damage"
-    },
-    "zh-hans": {
-        "effect": "火焰伤害"
-    },
-    "zh-hant": {
-        "effect": "火焰傷害"
-    },
-    "es": {
-        "effect": "Calor"
-    },
-    "it": {
-        "effect": "Heat"
-    },
-    "pl": {
-        "effect": "Obrażenia Ogniowych"
-    },
-    "uk": {
-        "effect": "Heat"
+    "i18n": {
+        "en": {
+            "effect": "Heat"
+        },
+        "ru": {
+            "effect": "Урон Огнем"
+        },
+        "ko": {
+            "effect": "화염 피해"
+        },
+        "de": {
+            "effect": "Feuerschaden"
+        },
+        "fr": {
+            "effect": "Dégâts de Feu"
+        },
+        "pt": {
+            "effect": "Heat Damage"
+        },
+        "zh-hans": {
+            "effect": "火焰伤害"
+        },
+        "zh-hant": {
+            "effect": "火焰傷害"
+        },
+        "es": {
+            "effect": "Calor"
+        },
+        "it": {
+            "effect": "Heat"
+        },
+        "pl": {
+            "effect": "Obrażenia Ogniowych"
+        },
+        "uk": {
+            "effect": "Heat"
+        }
     }
 }

@@ -13,68 +13,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Tek/KavatTekEnhanceMod"
     },
-    "en": {
-        "item_name": "Tek Enhance",
-        "description": "+30% Kavat Ability Duration",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tek_Enhance"
-    },
-    "ru": {
-        "item_name": "Тех-Усиление",
-        "description": "+30% к длительности способностей Кавата.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B5%D1%85-%D0%A3%D1%81%D0%B8%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/tek_enhance.35176e78a46266204ab4226cce261112.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/tek_enhance.35176e78a46266204ab4226cce261112.128x128.png"
-    },
-    "ko": {
-        "item_name": "텍 인핸스",
-        "description": "+30% 카밧 어빌리티 지속 시간",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tek_Enhance"
-    },
-    "de": {
-        "item_name": "Tek: Verbesserung",
-        "description": "+30 % Dauer von Kavat Fähigkeiten",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Tek:_Verbesserung"
-    },
-    "fr": {
-        "item_name": "Amélioration Tek",
-        "description": "+30% de Durée de Pouvoir du Kavat",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Am%C3%A9lioration_Tek"
-    },
-    "pt": {
-        "item_name": "Tek Enhance",
-        "description": "+30% de Duração da Habilidade do Kavat",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tek_Enhance"
-    },
-    "zh-hans": {
-        "item_name": "技法 强化",
-        "description": "+30% 库娃技能持续时间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tek_Enhance"
-    },
-    "zh-hant": {
-        "item_name": "技法 強化",
-        "description": "+30% 庫娃技能持續時間。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tek_Enhance"
-    },
-    "es": {
-        "item_name": "Mejora De Tek",
-        "description": "+30% de duración de habilidad de kavat.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mejora_de_tek"
-    },
-    "it": {
-        "item_name": "Tek Enhance",
-        "description": "+30% Durata Abilità Kavat",
-        "wiki_link": "http://warframe.fandom.com/wiki/Tek_Enhance"
-    },
-    "pl": {
-        "item_name": "Techniczne Wzmocnienie",
-        "description": "+30% Czasu trwania umiejętności Kavata",
-        "wiki_link": "http://warframe.fandom.com/wiki/Tek_Enhance"
-    },
-    "uk": {
-        "item_name": "Поліпшені Технології",
-        "description": "+30% до тривалості здібності каватів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tek_Enhance"
+    "i18n": {
+        "en": {
+            "item_name": "Tek Enhance",
+            "description": "+30% Kavat Ability Duration",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tek_Enhance",
+            "icon": "items/images/en/tek_enhance.f817cce36b12300067e82981dc56eeb1.png",
+            "thumb": "items/images/en/thumbs/tek_enhance.f817cce36b12300067e82981dc56eeb1.128x128.png"
+        },
+        "ru": {
+            "item_name": "Тех-Усиление",
+            "description": "+30% к длительности способностей Кавата.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B5%D1%85-%D0%A3%D1%81%D0%B8%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/tek_enhance.35176e78a46266204ab4226cce261112.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/tek_enhance.35176e78a46266204ab4226cce261112.128x128.png"
+        },
+        "ko": {
+            "item_name": "텍 인핸스",
+            "description": "+30% 카밧 어빌리티 지속 시간",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tek_Enhance"
+        },
+        "de": {
+            "item_name": "Tek: Verbesserung",
+            "description": "+30 % Dauer von Kavat Fähigkeiten",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Tek:_Verbesserung"
+        },
+        "fr": {
+            "item_name": "Amélioration Tek",
+            "description": "+30% de Durée de Pouvoir du Kavat",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Am%C3%A9lioration_Tek"
+        },
+        "pt": {
+            "item_name": "Tek Enhance",
+            "description": "+30% de Duração da Habilidade do Kavat",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tek_Enhance"
+        },
+        "zh-hans": {
+            "item_name": "技法 强化",
+            "description": "+30% 库娃技能持续时间。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tek_Enhance"
+        },
+        "zh-hant": {
+            "item_name": "技法 強化",
+            "description": "+30% 庫娃技能持續時間。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tek_Enhance"
+        },
+        "es": {
+            "item_name": "Mejora De Tek",
+            "description": "+30% de duración de habilidad de kavat.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Mejora_de_tek"
+        },
+        "it": {
+            "item_name": "Tek Enhance",
+            "description": "+30% Durata Abilità Kavat",
+            "wiki_link": "http://warframe.fandom.com/wiki/Tek_Enhance"
+        },
+        "pl": {
+            "item_name": "Techniczne Wzmocnienie",
+            "description": "+30% Czasu trwania umiejętności Kavata",
+            "wiki_link": "http://warframe.fandom.com/wiki/Tek_Enhance"
+        },
+        "uk": {
+            "item_name": "Поліпшені Технології",
+            "description": "+30% до тривалості здібності каватів",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tek_Enhance"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

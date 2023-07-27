@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarOffensiveMatrix"
     },
-    "en": {
-        "item_name": "Onslaught Matrix",
-        "description": "+22% Turret Damage while 100% Hull\n20% chance to Reflect 38% Damage while over 80% Shields\n+9% Battle Mod Efficiency",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Матрица Натиска",
-        "description": "+22% к урону турели при 100% целостности фюзеляжа\n20% шанс отразить 38% урона при более чем 80% щитах\n+9% к эффективности Боевых Модов",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "온슬로트 매트릭스",
-        "description": "선체 체력이 100%일 시 +22% 포탑 피해\n실드가 80% 이상일 시 20% 확률로 38% 피해 반사\n+9% 전투 모드 효율",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Angriff-Matrix",
-        "description": "+22 % Geschützschaden, wenn Hülle bei 100% liegt\n20 % Chance 38 % Schaden zu reflektieren, wenn Schilde über 80 % liegen\n+9 % Kampf-Mod Effizienz",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Matrice D'assaut",
-        "description": "+22% de Dégâts de Tourelles quand la Coque est à 100%\r20% de chances de dévier 38% des Dégâts quand les Boucliers sont à plus de 80% \r+9% d'Efficacité des Mods de Combat",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Matriz Genocida",
-        "description": "+22% de Dano das Torres quando a Fuselagem estiver em 100%\n20% de chance de Refletir 38% do Dano quando os Escudos estiverem acima de 80%\n+9% de Eficiência dos Mods Bélicos",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "强攻矩阵",
-        "description": "舰体为 100% 的状态时， 炮台伤害 +22%\n有 20% 的几率，在护盾为 80% 时反弹 38% 的伤害\n战斗 Mod 效率 +9%",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "突擊戰陣",
-        "description": "船身完整性 100% 時，增加 22% 砲塔傷害\n護盾超過 80% 的情況下，有 20% 機率反彈 38% 傷害 +9% 戰鬥 MOD 效率",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Matriz Genocida",
-        "description": "+22 % de daño de torreta mientras el casco está al 100 %\n20 % de probabilidad de reflejar 38 % de daño mientras los escudos estén por encima del 80 %\n+9 % de eficiencia de mods de batalla",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Onslaught Matrix",
-        "description": "+22% Danno Torretta quando lo Scafo è al 100%\n20% probabilità di Riflettere il 38% del Danno quando gli Scudi superano il 80%\n+9% Efficienza Mod da Battaglia",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Matryca Rzezi",
-        "description": "Przy 100% Kadłuba, +22% Obrażeń Wieżyczek\nPodczas gdy Osłony są powyżej 80%, 20% szansy na Odbicie 38% Obrażeń.\n+9% Efektywności Modów Bitewnych",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Матриця Шаленства",
-        "description": "+22% до шкоди від турелей, коли цілісність корпуса 100%.\n20% до ймовірності відбити 38% шкоди, коли щити понад 80%.\n+9% до дієвості бойових модифікаторів.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Onslaught Matrix",
+            "description": "+22% Turret Damage while 100% Hull\n20% chance to Reflect 38% Damage while over 80% Shields\n+9% Battle Mod Efficiency",
+            "wiki_link": null,
+            "icon": "items/images/en/onslaught_matrix.d0eda7ff030de77395f89442ffdf190e.png",
+            "thumb": "items/images/en/thumbs/onslaught_matrix.d0eda7ff030de77395f89442ffdf190e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Матрица Натиска",
+            "description": "+22% к урону турели при 100% целостности фюзеляжа\n20% шанс отразить 38% урона при более чем 80% щитах\n+9% к эффективности Боевых Модов",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "온슬로트 매트릭스",
+            "description": "선체 체력이 100%일 시 +22% 포탑 피해\n실드가 80% 이상일 시 20% 확률로 38% 피해 반사\n+9% 전투 모드 효율",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Angriff-Matrix",
+            "description": "+22 % Geschützschaden, wenn Hülle bei 100% liegt\n20 % Chance 38 % Schaden zu reflektieren, wenn Schilde über 80 % liegen\n+9 % Kampf-Mod Effizienz",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Matrice D'assaut",
+            "description": "+22% de Dégâts de Tourelles quand la Coque est à 100%\r20% de chances de dévier 38% des Dégâts quand les Boucliers sont à plus de 80% \r+9% d'Efficacité des Mods de Combat",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Matriz Genocida",
+            "description": "+22% de Dano das Torres quando a Fuselagem estiver em 100%\n20% de chance de Refletir 38% do Dano quando os Escudos estiverem acima de 80%\n+9% de Eficiência dos Mods Bélicos",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "强攻矩阵",
+            "description": "舰体为 100% 的状态时， 炮台伤害 +22%\n有 20% 的几率，在护盾为 80% 时反弹 38% 的伤害\n战斗 Mod 效率 +9%",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "突擊戰陣",
+            "description": "船身完整性 100% 時，增加 22% 砲塔傷害\n護盾超過 80% 的情況下，有 20% 機率反彈 38% 傷害 +9% 戰鬥 MOD 效率",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Matriz Genocida",
+            "description": "+22 % de daño de torreta mientras el casco está al 100 %\n20 % de probabilidad de reflejar 38 % de daño mientras los escudos estén por encima del 80 %\n+9 % de eficiencia de mods de batalla",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Onslaught Matrix",
+            "description": "+22% Danno Torretta quando lo Scafo è al 100%\n20% probabilità di Riflettere il 38% del Danno quando gli Scudi superano il 80%\n+9% Efficienza Mod da Battaglia",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Matryca Rzezi",
+            "description": "Przy 100% Kadłuba, +22% Obrażeń Wieżyczek\nPodczas gdy Osłony są powyżej 80%, 20% szansy na Odbicie 38% Obrażeń.\n+9% Efektywności Modów Bitewnych",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Матриця Шаленства",
+            "description": "+22% до шкоди від турелей, коли цілісність корпуса 100%.\n20% до ймовірності відбити 38% шкоди, коли щити понад 80%.\n+9% до дієвості бойових модифікаторів.",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Focus/DefenseLens"
     },
-    "en": {
-        "item_name": "Vazarin Lens",
-        "description": "Converts 1.25% of excess Affinity into Focus for the Vazarin Way.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Lens"
-    },
-    "ru": {
-        "item_name": "Линза: Вазарин",
-        "description": "Конвертирует 1,25% избыточного синтеза в фокус на путь «Вазарин».",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81"
-    },
-    "ko": {
-        "item_name": "바자린 렌즈",
-        "description": "초과한 숙련도 중 1.25%를 바자린 유파의 포커스로 변환합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Lens"
-    },
-    "de": {
-        "item_name": "Vazarin-Linse",
-        "description": "Verwandelt 1,25 % von zusätzlicher Erfahrung in Fokus für den Vazarin-Weg.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Focus_Lens"
-    },
-    "fr": {
-        "item_name": "Lentille Vazarin",
-        "description": "Convertit 1,25 % de l'Affinité excessive en Focus pour la Voie Vazarin.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Lentille_Vazarin"
-    },
-    "pt": {
-        "item_name": "Lente Vazarin (Comum)",
-        "description": "Converte 1,25% do excesso de Afinidade para o Foco na Arte Vazarin.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lente_Vazarin"
-    },
-    "zh-hans": {
-        "item_name": "Vazarin 晶体",
-        "description": "将 1.25% 超额的经验值转化为 Vazarin 之道的专精。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vazarin_Lens"
-    },
-    "zh-hant": {
-        "item_name": "Vazarin 晶體",
-        "description": "將 1.25% 超額的經驗值轉化為 Vazarin 之道的專精。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vazarin_Lens"
-    },
-    "es": {
-        "item_name": "Lente Vazarin",
-        "description": "Convierte un 1.25% del exceso de afinidad en enfoque para el camino Vazarin.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Vazarin"
-    },
-    "it": {
-        "item_name": "Lente Vazarin",
-        "description": "Converte l'1.25% dell'Affinità in eccesso in Focus per il Percorso Vazarin.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Focus_Lens"
-    },
-    "pl": {
-        "item_name": "Soczewka Vazarin",
-        "description": "Przekształca 1,25% nadmiaru Biegłości w Fokus dla Szlaku Vazarin.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Focus_Lens"
-    },
-    "uk": {
-        "item_name": "Лінза Вазаріна",
-        "description": "Перетворює 1,25% надлишкової єдності в очки фокусу шляху Вазарін.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Lens"
+    "i18n": {
+        "en": {
+            "item_name": "Vazarin Lens",
+            "description": "Converts 1.25% of excess Affinity into Focus for the Vazarin Way.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Lens",
+            "icon": "items/images/en/vazarin_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+            "thumb": "items/images/en/thumbs/vazarin_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png"
+        },
+        "ru": {
+            "item_name": "Линза: Вазарин",
+            "description": "Конвертирует 1,25% избыточного синтеза в фокус на путь «Вазарин».",
+            "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81"
+        },
+        "ko": {
+            "item_name": "바자린 렌즈",
+            "description": "초과한 숙련도 중 1.25%를 바자린 유파의 포커스로 변환합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Lens"
+        },
+        "de": {
+            "item_name": "Vazarin-Linse",
+            "description": "Verwandelt 1,25 % von zusätzlicher Erfahrung in Fokus für den Vazarin-Weg.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Focus_Lens"
+        },
+        "fr": {
+            "item_name": "Lentille Vazarin",
+            "description": "Convertit 1,25 % de l'Affinité excessive en Focus pour la Voie Vazarin.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Lentille_Vazarin"
+        },
+        "pt": {
+            "item_name": "Lente Vazarin (Comum)",
+            "description": "Converte 1,25% do excesso de Afinidade para o Foco na Arte Vazarin.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Lente_Vazarin"
+        },
+        "zh-hans": {
+            "item_name": "Vazarin 晶体",
+            "description": "将 1.25% 超额的经验值转化为 Vazarin 之道的专精。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vazarin_Lens"
+        },
+        "zh-hant": {
+            "item_name": "Vazarin 晶體",
+            "description": "將 1.25% 超額的經驗值轉化為 Vazarin 之道的專精。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vazarin_Lens"
+        },
+        "es": {
+            "item_name": "Lente Vazarin",
+            "description": "Convierte un 1.25% del exceso de afinidad en enfoque para el camino Vazarin.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Vazarin"
+        },
+        "it": {
+            "item_name": "Lente Vazarin",
+            "description": "Converte l'1.25% dell'Affinità in eccesso in Focus per il Percorso Vazarin.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Focus_Lens"
+        },
+        "pl": {
+            "item_name": "Soczewka Vazarin",
+            "description": "Przekształca 1,25% nadmiaru Biegłości w Fokus dla Szlaku Vazarin.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Focus_Lens"
+        },
+        "uk": {
+            "item_name": "Лінза Вазаріна",
+            "description": "Перетворює 1,25% надлишкової єдності в очки фокусу шляху Вазарін.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vazarin_Lens"
+        }
     },
     "trading_tax": 2000
 }

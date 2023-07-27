@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/RapierCmbOneMeleeTree"
     },
-    "en": {
-        "item_name": "Vulpine Mask",
-        "description": "Swift cuts, lancing strikes.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vulpine_Mask"
-    },
-    "ru": {
-        "item_name": "Лисья Ухмылка",
-        "description": "Быстрые пронзающие удары.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B8%D1%81%D1%8C%D1%8F_%D0%A3%D1%85%D0%BC%D1%8B%D0%BB%D0%BA%D0%B0",
-        "icon": "items/images/ru/vulpine_mask.d0cef907e6bd583eaee685aededdb885.png",
-        "thumb": "items/images/ru/thumbs/vulpine_mask.d0cef907e6bd583eaee685aededdb885.128x128.png"
-    },
-    "ko": {
-        "item_name": "불파인 마스크",
-        "description": "빠르게 베고, 도려내듯 공격합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vulpine_Mask"
-    },
-    "de": {
-        "item_name": "Listige Maskierung",
-        "description": "Flinke Schnitte, durchbohrende Treffer.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Listige_Maskierung"
-    },
-    "fr": {
-        "item_name": "Masque Vulpin",
-        "description": "Des coupures rapides, agrémentées de frappes perforantes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Masque_Vulpin"
-    },
-    "pt": {
-        "item_name": "Vulpine Mask",
-        "description": "Cortes rápidos e golpes letais.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vulpine_Mask"
-    },
-    "zh-hans": {
-        "item_name": "狡狐诈面",
-        "description": "快速切割，刺穿攻击",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vulpine_Mask"
-    },
-    "zh-hant": {
-        "item_name": "狡狐詐面",
-        "description": "快速切割，刺穿攻擊。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vulpine_Mask"
-    },
-    "es": {
-        "item_name": "Máscara Vulpina",
-        "description": "Cortes rápidos y ataques punzantes.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/M%C3%A1scara_vulpina"
-    },
-    "it": {
-        "item_name": "Vulpine Mask",
-        "description": "Tagli rapidi, attacchi perforanti.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vulpine_Mask"
-    },
-    "pl": {
-        "item_name": "Lisia Przebiegłość",
-        "description": "Szybkie cięcia i pchnięcia",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Lisia_Przebieg%C5%82o%C5%9B%C4%87"
-    },
-    "uk": {
-        "item_name": "Лисяча Морда",
-        "description": "Плавні різальні атаки й проколювальні удари.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vulpine_Mask"
+    "i18n": {
+        "en": {
+            "item_name": "Vulpine Mask",
+            "description": "Swift cuts, lancing strikes.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vulpine_Mask",
+            "icon": "items/images/en/vulpine_mask.8f91c81fa49c6e9d430b354d01fd3cbf.png",
+            "thumb": "items/images/en/thumbs/vulpine_mask.8f91c81fa49c6e9d430b354d01fd3cbf.128x128.png"
+        },
+        "ru": {
+            "item_name": "Лисья Ухмылка",
+            "description": "Быстрые пронзающие удары.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B8%D1%81%D1%8C%D1%8F_%D0%A3%D1%85%D0%BC%D1%8B%D0%BB%D0%BA%D0%B0",
+            "icon": "items/images/ru/vulpine_mask.d0cef907e6bd583eaee685aededdb885.png",
+            "thumb": "items/images/ru/thumbs/vulpine_mask.d0cef907e6bd583eaee685aededdb885.128x128.png"
+        },
+        "ko": {
+            "item_name": "불파인 마스크",
+            "description": "빠르게 베고, 도려내듯 공격합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vulpine_Mask"
+        },
+        "de": {
+            "item_name": "Listige Maskierung",
+            "description": "Flinke Schnitte, durchbohrende Treffer.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Listige_Maskierung"
+        },
+        "fr": {
+            "item_name": "Masque Vulpin",
+            "description": "Des coupures rapides, agrémentées de frappes perforantes.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Masque_Vulpin"
+        },
+        "pt": {
+            "item_name": "Vulpine Mask",
+            "description": "Cortes rápidos e golpes letais.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Vulpine_Mask"
+        },
+        "zh-hans": {
+            "item_name": "狡狐诈面",
+            "description": "快速切割，刺穿攻击",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vulpine_Mask"
+        },
+        "zh-hant": {
+            "item_name": "狡狐詐面",
+            "description": "快速切割，刺穿攻擊。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vulpine_Mask"
+        },
+        "es": {
+            "item_name": "Máscara Vulpina",
+            "description": "Cortes rápidos y ataques punzantes.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/M%C3%A1scara_vulpina"
+        },
+        "it": {
+            "item_name": "Vulpine Mask",
+            "description": "Tagli rapidi, attacchi perforanti.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Vulpine_Mask"
+        },
+        "pl": {
+            "item_name": "Lisia Przebiegłość",
+            "description": "Szybkie cięcia i pchnięcia",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Lisia_Przebieg%C5%82o%C5%9B%C4%87"
+        },
+        "uk": {
+            "item_name": "Лисяча Морда",
+            "description": "Плавні різальні атаки й проколювальні удари.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vulpine_Mask"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -14,68 +14,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Ember/FireBlastPvPAugmentCard"
     },
-    "en": {
-        "item_name": "Purifying Flames",
-        "description": "Fire Blast Augment: Allies hit by the expanding ring of fire will be granted 4s of Status Immunity.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Purifying_Flames"
-    },
-    "ru": {
-        "item_name": "Очищающее Пламя",
-        "description": "Улучшение Огненного Взрыва: союзники, которых коснётся расширяющееся кольцо огня, получат Иммунитет к Статусам в течение 4 сек.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%87%D0%B8%D1%89%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F",
-        "icon": "items/images/ru/purifying_flames.f4231b3f8e21c02d962cc822ee1368cc.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/purifying_flames.f4231b3f8e21c02d962cc822ee1368cc.128x128.png"
-    },
-    "ko": {
-        "item_name": "퓨리파잉 플레임즈",
-        "description": "파이어 블래스트 개조: 확장하는 화염의 파동에 피격된 아군들에게 4초 동안 상태 이상 면역이 부여됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Purifying_Flames"
-    },
-    "de": {
-        "item_name": "Reinigende Flammen",
-        "description": "Flammenstoß Augment: Verbündete, die von dem sich ausbreitenden Ring aus Feuer getroffen werden, erhalten für 4 s Status-Immunität.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Reinigende_Flammen"
-    },
-    "fr": {
-        "item_name": "Flammes Purifiantes",
-        "description": "Augmentation de Souffle de Feu: les alliés touchés par le cercle de feu en expansion bénéficieront de 4s d'immunité de Statut.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Flammes_Purifiantes"
-    },
-    "pt": {
-        "item_name": "Purifying Flames",
-        "description": "Ampliação Fire Blast: aliados atingidos pela propagação do anel chamejante receberão 4s de Imunidade a Efeitos de Status.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Purifying_Flames"
-    },
-    "zh-hans": {
-        "item_name": "净化烈焰",
-        "description": "火焰冲击强化：受到火焰之环影响的友军可获得 4 秒的异常状态免疫。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Purifying_Flames"
-    },
-    "zh-hant": {
-        "item_name": "淨化烈焰",
-        "description": "火焰衝擊強化：被擴張的火環擊中的盟友獲得 4 秒的狀態免疫。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Purifying_Flames"
-    },
-    "es": {
-        "item_name": "Llamas Purificadoras",
-        "description": "Aumento de Explosión de fuego: los aliados alcanzados por el anillo de fuego expansivo recibirán 4s de inmunidad de estado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Llamas_purificadoras"
-    },
-    "it": {
-        "item_name": "Purifying Flames",
-        "description": "Potenziamento Fire Blast: gli alleati colpiti dall'anello di fuoco in espansione riceveranno 4s di Immunità agli Effetti.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Purifying_Flames"
-    },
-    "pl": {
-        "item_name": "Oczyszczające Płomienie",
-        "description": "Modyfikacja Ognistego Podmuchu: Sojusznicy trafieni poszerzającym się pierścieniem ognia są niewrażliwi na zmiany statusu przez 4s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Oczyszczaj%C4%85ce_P%C5%82omienie"
-    },
-    "uk": {
-        "item_name": "Очищувальне Полум’я",
-        "description": "Розширення здібності «Хвиля вогню»: союзники, яких торкнулося кільце вогню, на 4 с отримують невразливість до ефектів стану.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Purifying_Flames"
+    "i18n": {
+        "en": {
+            "item_name": "Purifying Flames",
+            "description": "Fire Blast Augment: Allies hit by the expanding ring of fire will be granted 4s of Status Immunity.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Purifying_Flames",
+            "icon": "items/images/en/purifying_flames.186bd104f40550d63859a61f3168f5e3.png",
+            "thumb": "items/images/en/thumbs/purifying_flames.186bd104f40550d63859a61f3168f5e3.128x128.png"
+        },
+        "ru": {
+            "item_name": "Очищающее Пламя",
+            "description": "Улучшение Огненного Взрыва: союзники, которых коснётся расширяющееся кольцо огня, получат Иммунитет к Статусам в течение 4 сек.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%87%D0%B8%D1%89%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F",
+            "icon": "items/images/ru/purifying_flames.f4231b3f8e21c02d962cc822ee1368cc.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/purifying_flames.f4231b3f8e21c02d962cc822ee1368cc.128x128.png"
+        },
+        "ko": {
+            "item_name": "퓨리파잉 플레임즈",
+            "description": "파이어 블래스트 개조: 확장하는 화염의 파동에 피격된 아군들에게 4초 동안 상태 이상 면역이 부여됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Purifying_Flames"
+        },
+        "de": {
+            "item_name": "Reinigende Flammen",
+            "description": "Flammenstoß Augment: Verbündete, die von dem sich ausbreitenden Ring aus Feuer getroffen werden, erhalten für 4 s Status-Immunität.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Reinigende_Flammen"
+        },
+        "fr": {
+            "item_name": "Flammes Purifiantes",
+            "description": "Augmentation de Souffle de Feu: les alliés touchés par le cercle de feu en expansion bénéficieront de 4s d'immunité de Statut.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Flammes_Purifiantes"
+        },
+        "pt": {
+            "item_name": "Purifying Flames",
+            "description": "Ampliação Fire Blast: aliados atingidos pela propagação do anel chamejante receberão 4s de Imunidade a Efeitos de Status.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Purifying_Flames"
+        },
+        "zh-hans": {
+            "item_name": "净化烈焰",
+            "description": "火焰冲击强化：受到火焰之环影响的友军可获得 4 秒的异常状态免疫。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Purifying_Flames"
+        },
+        "zh-hant": {
+            "item_name": "淨化烈焰",
+            "description": "火焰衝擊強化：被擴張的火環擊中的盟友獲得 4 秒的狀態免疫。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Purifying_Flames"
+        },
+        "es": {
+            "item_name": "Llamas Purificadoras",
+            "description": "Aumento de Explosión de fuego: los aliados alcanzados por el anillo de fuego expansivo recibirán 4s de inmunidad de estado.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Llamas_purificadoras"
+        },
+        "it": {
+            "item_name": "Purifying Flames",
+            "description": "Potenziamento Fire Blast: gli alleati colpiti dall'anello di fuoco in espansione riceveranno 4s di Immunità agli Effetti.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Purifying_Flames"
+        },
+        "pl": {
+            "item_name": "Oczyszczające Płomienie",
+            "description": "Modyfikacja Ognistego Podmuchu: Sojusznicy trafieni poszerzającym się pierścieniem ognia są niewrażliwi na zmiany statusu przez 4s.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Oczyszczaj%C4%85ce_P%C5%82omienie"
+        },
+        "uk": {
+            "item_name": "Очищувальне Полум’я",
+            "description": "Розширення здібності «Хвиля вогню»: союзники, яких торкнулося кільце вогню, на 4 с отримують невразливість до ефектів стану.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Purifying_Flames"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

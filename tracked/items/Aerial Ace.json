@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/JumpRefreshOnKillRifleMod"
     },
-    "en": {
-        "item_name": "Aerial Ace",
-        "description": "On Kill:\nRefresh Double Jump up to 6x while Airborne.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
-    },
-    "ru": {
-        "item_name": "Воздушный Ас",
-        "description": "При убийстве:\nВ воздухе, обновляет Двойной Прыжок до 6 раз.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9_%D0%90%D1%81"
-    },
-    "ko": {
-        "item_name": "에어리얼 에이스",
-        "description": "처치 시:\n공중에 떠 있는 동안 더블 점프를 최대 6회 초기화합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
-    },
-    "de": {
-        "item_name": "Fliegerass",
-        "description": "Bei Kill:\nErneuere Doppelsprung bis zu 6 x in der Luft.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Flieger"
-    },
-    "fr": {
-        "item_name": "Acrobate Aérien",
-        "description": "Sur Élimination:\nRafraîchit le Double Saut jusqu'à 6x lorsque vous êtes dans les Airs.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Acrobate_A%C3%A9rien"
-    },
-    "pt": {
-        "item_name": "Aerial Ace",
-        "description": "Ao Matar:\nRedefinirá o contador do Pulo Duplo em até 6x enquanto no ar.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
-    },
-    "zh-hans": {
-        "item_name": "空中制霸",
-        "description": "击杀时：\n在空中时，重置二段跳，最多可达 6 次。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Aerial_Ace"
-    },
-    "zh-hant": {
-        "item_name": "滯空高手",
-        "description": "擊殺時：\n滯空時可重置二段跳躍，最多 6 次。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Aerial_Ace"
-    },
-    "es": {
-        "item_name": "As En El Aire",
-        "description": "Al matar:\nReinicia el salto doble hasta 6x mientras estás en el aire.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/As_en_el_aire"
-    },
-    "it": {
-        "item_name": "Aerial Ace",
-        "description": "Dopo un'Uccisione:\nRicarica il Doppio Salto fino a 6x mentre in Volo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
-    },
-    "pl": {
-        "item_name": "As Przestworzy",
-        "description": "Po zabiciu:\nOdnawia Podwójny Skok do 6x razy będąc w powietrzu.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
-    },
-    "uk": {
-        "item_name": "Повітряний Ас",
-        "description": "У разі вбивства:\nОновлює можливість повторення подвійного стрибка до 6 разів у повітрі.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
+    "i18n": {
+        "en": {
+            "item_name": "Aerial Ace",
+            "description": "On Kill:\nRefresh Double Jump up to 6x while Airborne.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace",
+            "icon": "items/images/en/aerial_ace.ecfa92c3a9687561c98a5ef27bf843b5.png",
+            "thumb": "items/images/en/thumbs/aerial_ace.ecfa92c3a9687561c98a5ef27bf843b5.128x128.png"
+        },
+        "ru": {
+            "item_name": "Воздушный Ас",
+            "description": "При убийстве:\nВ воздухе, обновляет Двойной Прыжок до 6 раз.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9_%D0%90%D1%81"
+        },
+        "ko": {
+            "item_name": "에어리얼 에이스",
+            "description": "처치 시:\n공중에 떠 있는 동안 더블 점프를 최대 6회 초기화합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
+        },
+        "de": {
+            "item_name": "Fliegerass",
+            "description": "Bei Kill:\nErneuere Doppelsprung bis zu 6 x in der Luft.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Flieger"
+        },
+        "fr": {
+            "item_name": "Acrobate Aérien",
+            "description": "Sur Élimination:\nRafraîchit le Double Saut jusqu'à 6x lorsque vous êtes dans les Airs.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Acrobate_A%C3%A9rien"
+        },
+        "pt": {
+            "item_name": "Aerial Ace",
+            "description": "Ao Matar:\nRedefinirá o contador do Pulo Duplo em até 6x enquanto no ar.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
+        },
+        "zh-hans": {
+            "item_name": "空中制霸",
+            "description": "击杀时：\n在空中时，重置二段跳，最多可达 6 次。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Aerial_Ace"
+        },
+        "zh-hant": {
+            "item_name": "滯空高手",
+            "description": "擊殺時：\n滯空時可重置二段跳躍，最多 6 次。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Aerial_Ace"
+        },
+        "es": {
+            "item_name": "As En El Aire",
+            "description": "Al matar:\nReinicia el salto doble hasta 6x mientras estás en el aire.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/As_en_el_aire"
+        },
+        "it": {
+            "item_name": "Aerial Ace",
+            "description": "Dopo un'Uccisione:\nRicarica il Doppio Salto fino a 6x mentre in Volo.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
+        },
+        "pl": {
+            "item_name": "As Przestworzy",
+            "description": "Po zabiciu:\nOdnawia Podwójny Skok do 6x razy będąc w powietrzu.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
+        },
+        "uk": {
+            "item_name": "Повітряний Ас",
+            "description": "У разі вбивства:\nОновлює можливість повторення подвійного стрибка до 6 разів у повітрі.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Aerial_Ace"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

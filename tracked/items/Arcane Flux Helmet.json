@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/AntiMatter/AntiAltHelmet"
     },
-    "en": {
-        "item_name": "Arcane Flux Helmet",
-        "description": "This helmet is worn by Nova, and increases duration of Aim Glide and Wall Latch, but reduces Health.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet"
-    },
-    "ru": {
-        "item_name": "Мистический Шлем: Поток",
-        "description": "Этот шлем предназначен для Новы. Он увеличивает продолжительность управляемого полета и фиксации на стене, но снижает здоровье.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D0%B5%D0%BC%D0%BF"
-    },
-    "ko": {
-        "item_name": "아케인 플럭스 헬멧",
-        "description": "노바 전용의 헬멧으로, 최대 체력량을 감소시키고 에임 글라이드, 월 래치의 지속 시간을 향상시킵니다.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flux_Nova_Helmet"
-    },
-    "de": {
-        "item_name": "Arkaner Flux Helm",
-        "description": "Dieser Helm wird von Nova getragen und erhöht die Dauer von Zielgleiten und Wandhalten, reduziert jedoch die Gesundheit.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Nova_Flux_Helm"
-    },
-    "fr": {
-        "item_name": "Casque Flux Arcane",
-        "description": "Ce Casque est porté par Nova et augmente la durée de la Visée Planée et de la Prise Murale, mais réduit la Santé.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Casque_Arcane"
-    },
-    "pt": {
-        "item_name": "Nova: Capacete Flux (Arcano)",
-        "description": "Capacete usado por Nova que aumenta a duração do planar e mirar/segurar na parede, mas reduz a Vida.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flux_Nova_Helmet"
-    },
-    "zh-hans": {
-        "item_name": "通量 秘奥头盔",
-        "description": "这顶头盔是由 Nova 所装备，可增加飞身瞄准与壁面攀附的持续时间，但会降低生命。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Helmet"
-    },
-    "zh-hant": {
-        "item_name": "通量秘奧頭盔",
-        "description": "這頂頭盔是由 Nova 所裝備，可增加飛身瞄準與壁面攀附的持續時間，但會降低生命。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Helmet"
-    },
-    "es": {
-        "item_name": "Casco Flux Arcano",
-        "description": "Este casco es usado por Nova, e incrementa la duración de planear y posarse, pero reduce la salud.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Casco_arcano"
-    },
-    "it": {
-        "item_name": "Elmo Arcane Flux",
-        "description": "Questo elmetto è indossato da Nova, aumenta la durata della Planata e dell'Aggrappata riducendo la Salute.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flux_Nova_Helmet"
-    },
-    "pl": {
-        "item_name": "Nova: Hełm Arkanum Flux",
-        "description": "Hełm noszony przez Warframe Nova, zwiększa czas trwania Celowania w Locie i Zaczepienia ale zmniejsza poziom życia.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Flux_Nova_Helmet"
-    },
-    "uk": {
-        "item_name": "Містичний Шолом «Потік»",
-        "description": "Цей шолом збільшує для Нови тривалість прицілювання в повітрі та утримування на стіні, але зменшує її здоров’я.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet"
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Flux Helmet",
+            "description": "This helmet is worn by Nova, and increases duration of Aim Glide and Wall Latch, but reduces Health.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+            "icon": "items/images/en/arcane_flux_nova_helmet.f84f4629549d4c35f148e310aa029e9f.png",
+            "thumb": "items/images/en/thumbs/arcane_flux_nova_helmet.f84f4629549d4c35f148e310aa029e9f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мистический Шлем: Поток",
+            "description": "Этот шлем предназначен для Новы. Он увеличивает продолжительность управляемого полета и фиксации на стене, но снижает здоровье.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D0%B5%D0%BC%D0%BF"
+        },
+        "ko": {
+            "item_name": "아케인 플럭스 헬멧",
+            "description": "노바 전용의 헬멧으로, 최대 체력량을 감소시키고 에임 글라이드, 월 래치의 지속 시간을 향상시킵니다.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Flux_Nova_Helmet"
+        },
+        "de": {
+            "item_name": "Arkaner Flux Helm",
+            "description": "Dieser Helm wird von Nova getragen und erhöht die Dauer von Zielgleiten und Wandhalten, reduziert jedoch die Gesundheit.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Nova_Flux_Helm"
+        },
+        "fr": {
+            "item_name": "Casque Flux Arcane",
+            "description": "Ce Casque est porté par Nova et augmente la durée de la Visée Planée et de la Prise Murale, mais réduit la Santé.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Casque_Arcane"
+        },
+        "pt": {
+            "item_name": "Nova: Capacete Flux (Arcano)",
+            "description": "Capacete usado por Nova que aumenta a duração do planar e mirar/segurar na parede, mas reduz a Vida.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Flux_Nova_Helmet"
+        },
+        "zh-hans": {
+            "item_name": "通量 秘奥头盔",
+            "description": "这顶头盔是由 Nova 所装备，可增加飞身瞄准与壁面攀附的持续时间，但会降低生命。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Helmet"
+        },
+        "zh-hant": {
+            "item_name": "通量秘奧頭盔",
+            "description": "這頂頭盔是由 Nova 所裝備，可增加飛身瞄準與壁面攀附的持續時間，但會降低生命。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Helmet"
+        },
+        "es": {
+            "item_name": "Casco Flux Arcano",
+            "description": "Este casco es usado por Nova, e incrementa la duración de planear y posarse, pero reduce la salud.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Casco_arcano"
+        },
+        "it": {
+            "item_name": "Elmo Arcane Flux",
+            "description": "Questo elmetto è indossato da Nova, aumenta la durata della Planata e dell'Aggrappata riducendo la Salute.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Flux_Nova_Helmet"
+        },
+        "pl": {
+            "item_name": "Nova: Hełm Arkanum Flux",
+            "description": "Hełm noszony przez Warframe Nova, zwiększa czas trwania Celowania w Locie i Zaczepienia ale zmniejsza poziom życia.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Flux_Nova_Helmet"
+        },
+        "uk": {
+            "item_name": "Містичний Шолом «Потік»",
+            "description": "Цей шолом збільшує для Нови тривалість прицілювання в повітрі та утримування на стіні, але зменшує її здоров’я.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet"
+        }
     },
     "trading_tax": 2000
 }

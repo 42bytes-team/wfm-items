@@ -14,68 +14,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Loki/DecoyPvPAugmentCard"
     },
-    "en": {
-        "item_name": "Deceptive Bond",
-        "description": "Decoy Augment: 50% of damage Loki takes is transferred to Decoy, and vice versa.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Deceptive_Bond"
-    },
-    "ru": {
-        "item_name": "Узы Приманки",
-        "description": "Улучшение Приманки: 50% урона, полученного Локи, переносится на Приманку, и наоборот.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B7%D1%8B_%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B8",
-        "icon": "items/images/ru/deceptive_bond.71a3717a01706b2a38d5f6bb84419110.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/deceptive_bond.71a3717a01706b2a38d5f6bb84419110.128x128.png"
-    },
-    "ko": {
-        "item_name": "디셉티브 본드",
-        "description": "디코이 개조: 로키가 받는 피해량 중 50%가 디코이에게로 이전되거나, 또는 반대로 이전됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Deceptive_Bond"
-    },
-    "de": {
-        "item_name": "Irreleitendes Band",
-        "description": "Köder Augment: 50 % des Schadens den Loki nimmt wird auf den Köder transferiert, und umgekehrt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Irreleitendes_Band"
-    },
-    "fr": {
-        "item_name": "Lien Trompeur",
-        "description": "Augmentation de Leurre: 50% des dégâts que Loki reçoit sont transmis au Leurre et vice versa.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Lien_Trompeur"
-    },
-    "pt": {
-        "item_name": "Deceptive Bond",
-        "description": "Ampliação Decoy: 50% do dano recebido pelo Loki será transferido para a Decoy, e vice-versa.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Deceptive_Bond"
-    },
-    "zh-hans": {
-        "item_name": "虚伪连结",
-        "description": "诱饵强化：50% 本体受到的伤害会转移给诱饵，反之亦然。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deceptive_Bond"
-    },
-    "zh-hant": {
-        "item_name": "虛偽連結",
-        "description": "誘餌強化：50% 本體受到的傷害會轉移給誘餌，反之亦然。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Deceptive_Bond"
-    },
-    "es": {
-        "item_name": "Enlace Engañoso",
-        "description": "Aumento de Señuelo: 50% del daño que Loki recibe es transferido al señuelo y vice versa.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Enlace_enga%C3%B1oso"
-    },
-    "it": {
-        "item_name": "Deceptive Bond",
-        "description": "Potenziamento Decoy: Il 50% del danno ricevuto da Loki viene trasferito su Decoy e viceversa.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Deceptive_Bond"
-    },
-    "pl": {
-        "item_name": "Złudna Więź",
-        "description": "Modyfikacja Przynęty: 50% obrażeń otrzymanych przez Lokiego jest przenoszona na Przynętę i odwrotnie.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Z%C5%82udna_Wi%C4%99%C5%BA"
-    },
-    "uk": {
-        "item_name": "Оманливий Зв’язок",
-        "description": "Розширення здібності «Принада»: 50% отриманої Локі шкоди передається принаді й навпаки.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Deceptive_Bond"
+    "i18n": {
+        "en": {
+            "item_name": "Deceptive Bond",
+            "description": "Decoy Augment: 50% of damage Loki takes is transferred to Decoy, and vice versa.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Deceptive_Bond",
+            "icon": "items/images/en/deceptive_bond.40d935abe0d890fa3a139cdc64aec602.png",
+            "thumb": "items/images/en/thumbs/deceptive_bond.40d935abe0d890fa3a139cdc64aec602.128x128.png"
+        },
+        "ru": {
+            "item_name": "Узы Приманки",
+            "description": "Улучшение Приманки: 50% урона, полученного Локи, переносится на Приманку, и наоборот.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B7%D1%8B_%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B8",
+            "icon": "items/images/ru/deceptive_bond.71a3717a01706b2a38d5f6bb84419110.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/deceptive_bond.71a3717a01706b2a38d5f6bb84419110.128x128.png"
+        },
+        "ko": {
+            "item_name": "디셉티브 본드",
+            "description": "디코이 개조: 로키가 받는 피해량 중 50%가 디코이에게로 이전되거나, 또는 반대로 이전됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Deceptive_Bond"
+        },
+        "de": {
+            "item_name": "Irreleitendes Band",
+            "description": "Köder Augment: 50 % des Schadens den Loki nimmt wird auf den Köder transferiert, und umgekehrt.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Irreleitendes_Band"
+        },
+        "fr": {
+            "item_name": "Lien Trompeur",
+            "description": "Augmentation de Leurre: 50% des dégâts que Loki reçoit sont transmis au Leurre et vice versa.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Lien_Trompeur"
+        },
+        "pt": {
+            "item_name": "Deceptive Bond",
+            "description": "Ampliação Decoy: 50% do dano recebido pelo Loki será transferido para a Decoy, e vice-versa.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Deceptive_Bond"
+        },
+        "zh-hans": {
+            "item_name": "虚伪连结",
+            "description": "诱饵强化：50% 本体受到的伤害会转移给诱饵，反之亦然。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Deceptive_Bond"
+        },
+        "zh-hant": {
+            "item_name": "虛偽連結",
+            "description": "誘餌強化：50% 本體受到的傷害會轉移給誘餌，反之亦然。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Deceptive_Bond"
+        },
+        "es": {
+            "item_name": "Enlace Engañoso",
+            "description": "Aumento de Señuelo: 50% del daño que Loki recibe es transferido al señuelo y vice versa.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Enlace_enga%C3%B1oso"
+        },
+        "it": {
+            "item_name": "Deceptive Bond",
+            "description": "Potenziamento Decoy: Il 50% del danno ricevuto da Loki viene trasferito su Decoy e viceversa.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Deceptive_Bond"
+        },
+        "pl": {
+            "item_name": "Złudna Więź",
+            "description": "Modyfikacja Przynęty: 50% obrażeń otrzymanych przez Lokiego jest przenoszona na Przynętę i odwrotnie.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Z%C5%82udna_Wi%C4%99%C5%BA"
+        },
+        "uk": {
+            "item_name": "Оманливий Зв’язок",
+            "description": "Розширення здібності «Принада»: 50% отриманої Локі шкоди передається принаді й навпаки.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Deceptive_Bond"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

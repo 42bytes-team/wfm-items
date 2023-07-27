@@ -14,68 +14,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Brawler/BrawlerSummonAugmentCard"
     },
-    "en": {
-        "item_name": "Titanic Rumbler",
-        "description": "Rumblers Augment: Create a single rumbler with 300% Health and 400% Damage.\nReactivating will cause him to slam the floor and knockdown enemies in 15m.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Titanic_Rumbler"
-    },
-    "ru": {
-        "item_name": "Титанический Рокотун",
-        "description": "Улучшение способности «Рокотуны»: создает единственного рокотуна с 300% здоровья, наносящего 300% урона. Повторная активация способности заставит его ударить по земле, опрокинув всех врагов в радиусе 15 м.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A0%D0%BE%D0%BA%D0%BE%D1%82%D1%83%D0%BD",
-        "icon": "items/images/ru/titanic_rumbler.95d7a7b29d14ae485047b613f09d76f8.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/titanic_rumbler.95d7a7b29d14ae485047b613f09d76f8.128x128.png"
-    },
-    "ko": {
-        "item_name": "타이타닉 럼블러",
-        "description": "럼블러스 개조: 300%의 체력과 400%의 피해량을 가진 럼블러 하나를 소환합니다. 어빌리티를 재시전할 시 럼블러가 바닥을 강타해 15m 범위 내의 적들을 쓰러뜨립니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Titanic_Rumbler"
-    },
-    "de": {
-        "item_name": "Gigantischer Rumbler",
-        "description": "Rumbler Augment: Erstellt einen einzigen Rumbler mit 300 % Gesundheit und 300 % Schaden. Das Reaktivieren der Fähigkeit lässt ihn auf den Boden schlagen und Gegner in 15 m werden niedergeschlagen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gigantischer_Rumbler"
-    },
-    "fr": {
-        "item_name": "Golem Titanesque",
-        "description": "Augmentation Golems: Crée un seul Golem avec 300% de Santé et 400% de Dégâts.\nRéactiver le forcera à se jeter au sol et renversera les ennemis dans un rayon de 15m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Golem_Titanesque"
-    },
-    "pt": {
-        "item_name": "Titanic Rumbler",
-        "description": "Ampliação Rumbler: criará um único Rumbler contendo 300% Vida e 400% de Dano.\nConjurar a habilidade novamente fará com que o Rumbler atinja o chão, derrubando os inimigos no raio de 15m.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Titanic_Rumbler"
-    },
-    "zh-hans": {
-        "item_name": "巨大石者",
-        "description": "漫步石者强化：制造一个单体石者，具有 300% 的血量和 400% 的伤害。\n再次使用技能会让他猛烈撞击地面，并击倒周围 15 米内的敌人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Titanic_Rumbler"
-    },
-    "zh-hant": {
-        "item_name": "巨大石者",
-        "description": "漫步石者強化：製造單個有300% 血量，400% 傷害的石者。\n重新啟動會引發其猛擊地面並且擊倒 15 公尺範圍內的敵人。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Titanic_Rumbler"
-    },
-    "es": {
-        "item_name": "Retumbo Titánico",
-        "description": "Aumento de Retumbos: crea un solo retumbo con 300 % de salud y 300 % de daño.\nReactivarlo causará que golpee el suelo y derribe a los enemigos en 15 m.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Retumbo_tit%C3%A1nico"
-    },
-    "it": {
-        "item_name": "Titanic Rumbler",
-        "description": "Potenziamento Rumblers: Crea un singolo rumbler con 300% di Salute e 400% di Danno.\nLa riattivazione lo farà sbattere al suolo ed atterra in nemici nel raggio di 15m.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Titanic_Rumbler"
-    },
-    "pl": {
-        "item_name": "Tytaniczny Pięściarz",
-        "description": "Modyfikacja Pięściarzy: Stwórz pojedynczego pięściarza z 300% Życia i 400% Obrażeń.\nPonowne użycie sprawi, że uderzy w podłoże i powali przeciwników w zasięgu 15m.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tytaniczny_Pi%C4%99%C5%9Bciarz"
-    },
-    "uk": {
-        "item_name": "Гуркотун-Велет",
-        "description": "Розширення здібності «Гуркотуни»: створює одного гуркотуна, який має 300% здоров’я і завдає 400% шкоди.\nПовторне використання здібності змушує гуркотуна вдарити об землю та збити з ніг ворогів у межах 15 м.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Titanic_Rumbler"
+    "i18n": {
+        "en": {
+            "item_name": "Titanic Rumbler",
+            "description": "Rumblers Augment: Create a single rumbler with 300% Health and 400% Damage.\nReactivating will cause him to slam the floor and knockdown enemies in 15m.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Titanic_Rumbler",
+            "icon": "items/images/en/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.png",
+            "thumb": "items/images/en/thumbs/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.128x128.png"
+        },
+        "ru": {
+            "item_name": "Титанический Рокотун",
+            "description": "Улучшение способности «Рокотуны»: создает единственного рокотуна с 300% здоровья, наносящего 300% урона. Повторная активация способности заставит его ударить по земле, опрокинув всех врагов в радиусе 15 м.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A0%D0%BE%D0%BA%D0%BE%D1%82%D1%83%D0%BD",
+            "icon": "items/images/ru/titanic_rumbler.95d7a7b29d14ae485047b613f09d76f8.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/titanic_rumbler.95d7a7b29d14ae485047b613f09d76f8.128x128.png"
+        },
+        "ko": {
+            "item_name": "타이타닉 럼블러",
+            "description": "럼블러스 개조: 300%의 체력과 400%의 피해량을 가진 럼블러 하나를 소환합니다. 어빌리티를 재시전할 시 럼블러가 바닥을 강타해 15m 범위 내의 적들을 쓰러뜨립니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Titanic_Rumbler"
+        },
+        "de": {
+            "item_name": "Gigantischer Rumbler",
+            "description": "Rumbler Augment: Erstellt einen einzigen Rumbler mit 300 % Gesundheit und 300 % Schaden. Das Reaktivieren der Fähigkeit lässt ihn auf den Boden schlagen und Gegner in 15 m werden niedergeschlagen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gigantischer_Rumbler"
+        },
+        "fr": {
+            "item_name": "Golem Titanesque",
+            "description": "Augmentation Golems: Crée un seul Golem avec 300% de Santé et 400% de Dégâts.\nRéactiver le forcera à se jeter au sol et renversera les ennemis dans un rayon de 15m.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Golem_Titanesque"
+        },
+        "pt": {
+            "item_name": "Titanic Rumbler",
+            "description": "Ampliação Rumbler: criará um único Rumbler contendo 300% Vida e 400% de Dano.\nConjurar a habilidade novamente fará com que o Rumbler atinja o chão, derrubando os inimigos no raio de 15m.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Titanic_Rumbler"
+        },
+        "zh-hans": {
+            "item_name": "巨大石者",
+            "description": "漫步石者强化：制造一个单体石者，具有 300% 的血量和 400% 的伤害。\n再次使用技能会让他猛烈撞击地面，并击倒周围 15 米内的敌人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Titanic_Rumbler"
+        },
+        "zh-hant": {
+            "item_name": "巨大石者",
+            "description": "漫步石者強化：製造單個有300% 血量，400% 傷害的石者。\n重新啟動會引發其猛擊地面並且擊倒 15 公尺範圍內的敵人。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Titanic_Rumbler"
+        },
+        "es": {
+            "item_name": "Retumbo Titánico",
+            "description": "Aumento de Retumbos: crea un solo retumbo con 300 % de salud y 300 % de daño.\nReactivarlo causará que golpee el suelo y derribe a los enemigos en 15 m.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Retumbo_tit%C3%A1nico"
+        },
+        "it": {
+            "item_name": "Titanic Rumbler",
+            "description": "Potenziamento Rumblers: Crea un singolo rumbler con 300% di Salute e 400% di Danno.\nLa riattivazione lo farà sbattere al suolo ed atterra in nemici nel raggio di 15m.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Titanic_Rumbler"
+        },
+        "pl": {
+            "item_name": "Tytaniczny Pięściarz",
+            "description": "Modyfikacja Pięściarzy: Stwórz pojedynczego pięściarza z 300% Życia i 400% Obrażeń.\nPonowne użycie sprawi, że uderzy w podłoże i powali przeciwników w zasięgu 15m.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Tytaniczny_Pi%C4%99%C5%9Bciarz"
+        },
+        "uk": {
+            "item_name": "Гуркотун-Велет",
+            "description": "Розширення здібності «Гуркотуни»: створює одного гуркотуна, який має 300% здоров’я і завдає 400% шкоди.\nПовторне використання здібності змушує гуркотуна вдарити об землю та збити з ніг ворогів у межах 15 м.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Titanic_Rumbler"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

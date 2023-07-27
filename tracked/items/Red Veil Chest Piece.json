@@ -19,65 +19,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Red Veil Chest Piece",
-        "description": "Lightweight and unobtrusive. The armor of Red Veil assassins.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Нагрудник: Красная Вуаль",
-        "description": "Легкая и удобная. Броня убийц из Красной Вуали.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "레드 베일 체스트 피스",
-        "description": "가볍고도 간결한, 레드 베일 암살자의 아머입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Brustplatte: Red Veil",
-        "description": "Leicht und unauffällig. Die Rüstung der Red Veil Assassinen.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Plastron Du Voile Rouge",
-        "description": "Légère et discrète. L'Armure d'un assassin du Voile rouge.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Peitoral: Véu Rubro",
-        "description": "Leve e discreta, esta é a armadura dos assassinos do Véu Rubro.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "血色面纱胸甲",
-        "description": "轻盈且又低调。血色面纱刺客的护甲。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "血色面紗胸甲",
-        "description": "輕量且樸實。血色面紗刺客的護甲。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Peto Velo Rojo",
-        "description": "Ligera y discreta. La armadura de un asesino de Velo Rojo.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Pettorina Red Veil",
-        "description": "Leggera e discreta. L'armatura degli assassini Red Veil.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Napierśnik: Czerwony Woal",
-        "description": "Lekki i dyskretny. Zbroja zabójców Czerwonego Woalu.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Нагрудник «Багряна Вуаль»",
-        "description": "Набір обладунків убивць із «Багряної Вуалі». Легкі й зручні.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Red Veil Chest Piece",
+            "description": "Lightweight and unobtrusive. The armor of Red Veil assassins.",
+            "wiki_link": null,
+            "icon": "items/images/en/red_veil_chest_piece.0cedf1ecd264d43ae420c5096cbdb8a8.png",
+            "thumb": "items/images/en/thumbs/red_veil_chest_piece.0cedf1ecd264d43ae420c5096cbdb8a8.128x128.png"
+        },
+        "ru": {
+            "item_name": "Нагрудник: Красная Вуаль",
+            "description": "Легкая и удобная. Броня убийц из Красной Вуали.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "레드 베일 체스트 피스",
+            "description": "가볍고도 간결한, 레드 베일 암살자의 아머입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Brustplatte: Red Veil",
+            "description": "Leicht und unauffällig. Die Rüstung der Red Veil Assassinen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Plastron Du Voile Rouge",
+            "description": "Légère et discrète. L'Armure d'un assassin du Voile rouge.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Peitoral: Véu Rubro",
+            "description": "Leve e discreta, esta é a armadura dos assassinos do Véu Rubro.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "血色面纱胸甲",
+            "description": "轻盈且又低调。血色面纱刺客的护甲。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "血色面紗胸甲",
+            "description": "輕量且樸實。血色面紗刺客的護甲。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Peto Velo Rojo",
+            "description": "Ligera y discreta. La armadura de un asesino de Velo Rojo.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Pettorina Red Veil",
+            "description": "Leggera e discreta. L'armatura degli assassini Red Veil.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Napierśnik: Czerwony Woal",
+            "description": "Lekki i dyskretny. Zbroja zabójców Czerwonego Woalu.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Нагрудник «Багряна Вуаль»",
+            "description": "Набір обладунків убивць із «Багряної Вуалі». Легкі й зручні.",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

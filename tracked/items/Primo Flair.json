@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Hoverboard/HBEliteTricksterMod"
     },
-    "en": {
-        "item_name": "Primo Flair",
-        "description": "Increase Maximum Trick Combo to 6000",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
-    },
-    "ru": {
-        "item_name": "Примо Флеер",
-        "description": "Увеличьте максимальный Счетчик Трюков до 6000",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
-    },
-    "ko": {
-        "item_name": "프리모 플레어",
-        "description": "최대 묘기 콤보 6000으로 증가",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
-    },
-    "de": {
-        "item_name": "Primo Flair",
-        "description": "Erhöht die max. Trick-Kombos auf 6000",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
-    },
-    "fr": {
-        "item_name": "Style Impec'",
-        "description": "Augmentation du Combo Max des Figures à 6000",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Style_Impec%27"
-    },
-    "pt": {
-        "item_name": "Primo Flair",
-        "description": "Aumenta a Contagem Máxima do Combo de Manobras para 6000",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
-    },
-    "zh-hans": {
-        "item_name": "顶级花式",
-        "description": "将最大特技组合数提升到 6000",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primo_Flair"
-    },
-    "zh-hant": {
-        "item_name": "頂級風采",
-        "description": "增加最大特技組合至 6000",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primo_Flair"
-    },
-    "es": {
-        "item_name": "Estilo Primo",
-        "description": "Incrementa el combo máximo de trucos a 6000",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Estilo_Primo"
-    },
-    "it": {
-        "item_name": "Primo Flair",
-        "description": "Aumenta la Combo Massima di Acrobazie a 6000",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
-    },
-    "pl": {
-        "item_name": "Primo Chwała",
-        "description": "Zwiększ Maksymalne Kombo Sztuczek do 6000",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
-    },
-    "uk": {
-        "item_name": "Прімо-Майстер",
-        "description": "Збільшує максимальну серію трюків до 6000.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
+    "i18n": {
+        "en": {
+            "item_name": "Primo Flair",
+            "description": "Increase Maximum Trick Combo to 6000",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair",
+            "icon": "items/images/en/primo_flair.0657de208ab98f39a8a9fc03300137f9.png",
+            "thumb": "items/images/en/thumbs/primo_flair.0657de208ab98f39a8a9fc03300137f9.128x128.png"
+        },
+        "ru": {
+            "item_name": "Примо Флеер",
+            "description": "Увеличьте максимальный Счетчик Трюков до 6000",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
+        },
+        "ko": {
+            "item_name": "프리모 플레어",
+            "description": "최대 묘기 콤보 6000으로 증가",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
+        },
+        "de": {
+            "item_name": "Primo Flair",
+            "description": "Erhöht die max. Trick-Kombos auf 6000",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
+        },
+        "fr": {
+            "item_name": "Style Impec'",
+            "description": "Augmentation du Combo Max des Figures à 6000",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Style_Impec%27"
+        },
+        "pt": {
+            "item_name": "Primo Flair",
+            "description": "Aumenta a Contagem Máxima do Combo de Manobras para 6000",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
+        },
+        "zh-hans": {
+            "item_name": "顶级花式",
+            "description": "将最大特技组合数提升到 6000",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primo_Flair"
+        },
+        "zh-hant": {
+            "item_name": "頂級風采",
+            "description": "增加最大特技組合至 6000",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primo_Flair"
+        },
+        "es": {
+            "item_name": "Estilo Primo",
+            "description": "Incrementa el combo máximo de trucos a 6000",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Estilo_Primo"
+        },
+        "it": {
+            "item_name": "Primo Flair",
+            "description": "Aumenta la Combo Massima di Acrobazie a 6000",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
+        },
+        "pl": {
+            "item_name": "Primo Chwała",
+            "description": "Zwiększ Maksymalne Kombo Sztuczek do 6000",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
+        },
+        "uk": {
+            "item_name": "Прімо-Майстер",
+            "description": "Збільшує максимальну серію трюків до 6000.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primo_Flair"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

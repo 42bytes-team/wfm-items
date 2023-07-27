@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Hildryn Prime Blueprint",
-        "description": "Hildryn Prime proves that power is discipline’s reward.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Хильдрин Прайм (Чертеж)",
-        "description": "Хильдрин Прайм доказывает, что сила — награда за дисциплину.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "힐드린 프라임 설계도",
-        "description": "힘은 수련의 대가로 온다는 것을, 힐드린 프라임이 증명합니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Hildryn Prime Blaupause",
-        "description": "Hildryn Prime beweist, dass Macht die Belohnung für Disziplin ist.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Hildryn Prime (Schéma)",
-        "description": "Hildryn Prime prouve que le succès récompense la discipline.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Hildryn Prime (Diagrama)",
-        "description": "A Hildryn Prime prova que o poder é a recompensa da disciplina.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "Hildryn Prime 蓝图",
-        "description": "Hildryn Prime 证明了权力是纪律的回报。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "Hildryn Prime 藍圖",
-        "description": "Hildyn Prime 證實了能力即是紀律的回報。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Hildryn Prime",
-        "description": "Hildryn Prime prueba que el poder es la recompensa de la disciplina.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Hildryn Prime (Schema)",
-        "description": "Hildryn Prime dimostra che il potere è la ricompensa della disciplina.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Hildryn Prime - Schemat",
-        "description": "Hildryn Prime udowadnia, że dyscyplina prowadzi do potęgi.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Гільдрина-Прайм (креслення)",
-        "description": "Гільдрина-прайм доводить, що влада — винагорода за дисципліну.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Hildryn Prime Blueprint",
+            "description": "Hildryn Prime proves that power is discipline’s reward.",
+            "wiki_link": null,
+            "icon": "items/images/en/hildryn_prime_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.png",
+            "thumb": "items/images/en/thumbs/hildryn_prime_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Хильдрин Прайм (Чертеж)",
+            "description": "Хильдрин Прайм доказывает, что сила — награда за дисциплину.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "힐드린 프라임 설계도",
+            "description": "힘은 수련의 대가로 온다는 것을, 힐드린 프라임이 증명합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Hildryn Prime Blaupause",
+            "description": "Hildryn Prime beweist, dass Macht die Belohnung für Disziplin ist.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Hildryn Prime (Schéma)",
+            "description": "Hildryn Prime prouve que le succès récompense la discipline.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Hildryn Prime (Diagrama)",
+            "description": "A Hildryn Prime prova que o poder é a recompensa da disciplina.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "Hildryn Prime 蓝图",
+            "description": "Hildryn Prime 证明了权力是纪律的回报。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "Hildryn Prime 藍圖",
+            "description": "Hildryn Prime 證實了能力即是紀律的回報。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Hildryn Prime",
+            "description": "Hildryn Prime prueba que el poder es la recompensa de la disciplina.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Hildryn Prime (Schema)",
+            "description": "Hildryn Prime dimostra che il potere è la ricompensa della disciplina.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Hildryn Prime - Schemat",
+            "description": "Hildryn Prime udowadnia, że dyscyplina prowadzi do potęgi.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Гільдрина-Прайм (креслення)",
+            "description": "Гільдрина-прайм доводить, що влада — винагорода за дисципліну.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 0,
     "ducats": 100,

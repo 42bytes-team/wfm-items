@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsABlueprint"
     },
-    "en": {
-        "item_name": "Cela Bracket Blueprint",
-        "description": "",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Лапки: Цела (Чертеж)",
-        "description": "",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "셀라 브라켓 설계도",
-        "description": "",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Träger: Cela Blaupause",
-        "description": "",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Support Cela (Schéma)",
-        "description": "",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Suporte: Cela (Diagrama)",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "塞拉脚架 蓝图",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "刻菈腳架 藍圖",
-        "description": "",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Plano de Soporte Cela",
-        "description": "",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Cela - Supporto (Schema)",
-        "description": "",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Wspornik Cela - Schemat",
-        "description": "",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Лапи «Цела» (креслення)",
-        "description": "",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Cela Bracket Blueprint",
+            "description": "",
+            "wiki_link": null,
+            "icon": "items/images/en/cela_bracket_blueprint.b2b33f61627ad4068822a84b8231e1ba.png",
+            "thumb": "items/images/en/thumbs/cela_bracket_blueprint.b2b33f61627ad4068822a84b8231e1ba.128x128.png"
+        },
+        "ru": {
+            "item_name": "Лапки: Цела (Чертеж)",
+            "description": "",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "셀라 브라켓 설계도",
+            "description": "",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Träger: Cela Blaupause",
+            "description": "",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Support Cela (Schéma)",
+            "description": "",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Suporte: Cela (Diagrama)",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "塞拉脚架 蓝图",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "刻菈腳架 藍圖",
+            "description": "",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Soporte Cela",
+            "description": "",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Cela - Supporto (Schema)",
+            "description": "",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Wspornik Cela - Schemat",
+            "description": "",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Лапи «Цела» (креслення)",
+            "description": "",
+            "wiki_link": null
+        }
     },
     "mastery_level": 0,
     "trading_tax": 2000

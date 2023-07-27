@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceDamageAimingMod"
     },
-    "en": {
-        "item_name": "Critical Focus",
-        "description": "+60% Critical Chance and Damage when Aiming",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
-    },
-    "ru": {
-        "item_name": "Критический Фокус",
-        "description": "+60% к шансу критической атаки и урона при прицеливании",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A4%D0%BE%D0%BA%D1%83%D1%81",
-        "icon": "items/images/ru/critical_focus.8bb49028e4a727a793b21af5c758836c.png",
-        "thumb": "items/images/ru/thumbs/critical_focus.8bb49028e4a727a793b21af5c758836c.128x128.png"
-    },
-    "ko": {
-        "item_name": "크리티컬 포커스",
-        "description": "조준 시 +60% 치명타 확률 및 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
-    },
-    "de": {
-        "item_name": "Kritischer Fokus",
-        "description": "+60 % Krit. Chance und Schaden beim Zielen",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
-    },
-    "fr": {
-        "item_name": "Focus Critique",
-        "description": "+60% de Chances de Critique et de Dégâts en Visée",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Focus_Critique"
-    },
-    "pt": {
-        "item_name": "Critical Focus",
-        "description": "+60% de Chance Crítica e Dano ao Mirar",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
-    },
-    "zh-hans": {
-        "item_name": "关键焦点",
-        "description": "+60% 瞄准时的暴击几率和伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Critical_Focus"
-    },
-    "zh-hant": {
-        "item_name": "關鍵焦點",
-        "description": "+60% 瞄準時的暴擊率和傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Critical_Focus"
-    },
-    "es": {
-        "item_name": "Enfoque Crítico",
-        "description": "+60% de probabilidad crítica y daño al apuntar",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Enfoque_cr%C3%ADtico"
-    },
-    "it": {
-        "item_name": "Critical Focus",
-        "description": "+60% Probabilità Critico e Danno durante la Mira",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
-    },
-    "pl": {
-        "item_name": "Krytyczne Skupienie",
-        "description": "+60% Szansy Obr. Krytycznych i Obrażeń podczas celowania",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Krytyczne_Op%C3%B3%C5%BAnienie"
-    },
-    "uk": {
-        "item_name": "Критичне Зосередження",
-        "description": "+60% до ймовірності критичної шкоди та шкоди під час прицілювання.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
+    "i18n": {
+        "en": {
+            "item_name": "Critical Focus",
+            "description": "+60% Critical Chance and Damage when Aiming",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus",
+            "icon": "items/images/en/critical_focus.c310ec648973a21b72e0385fade0e0c0.png",
+            "thumb": "items/images/en/thumbs/critical_focus.c310ec648973a21b72e0385fade0e0c0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Критический Фокус",
+            "description": "+60% к шансу критической атаки и урона при прицеливании",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%A4%D0%BE%D0%BA%D1%83%D1%81",
+            "icon": "items/images/ru/critical_focus.8bb49028e4a727a793b21af5c758836c.png",
+            "thumb": "items/images/ru/thumbs/critical_focus.8bb49028e4a727a793b21af5c758836c.128x128.png"
+        },
+        "ko": {
+            "item_name": "크리티컬 포커스",
+            "description": "조준 시 +60% 치명타 확률 및 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
+        },
+        "de": {
+            "item_name": "Kritischer Fokus",
+            "description": "+60 % Krit. Chance und Schaden beim Zielen",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
+        },
+        "fr": {
+            "item_name": "Focus Critique",
+            "description": "+60% de Chances de Critique et de Dégâts en Visée",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Focus_Critique"
+        },
+        "pt": {
+            "item_name": "Critical Focus",
+            "description": "+60% de Chance Crítica e Dano ao Mirar",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
+        },
+        "zh-hans": {
+            "item_name": "关键焦点",
+            "description": "+60% 瞄准时的暴击几率和伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Critical_Focus"
+        },
+        "zh-hant": {
+            "item_name": "關鍵焦點",
+            "description": "+60% 瞄準時的暴擊率和傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Critical_Focus"
+        },
+        "es": {
+            "item_name": "Enfoque Crítico",
+            "description": "+60% de probabilidad crítica y daño al apuntar",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Enfoque_cr%C3%ADtico"
+        },
+        "it": {
+            "item_name": "Critical Focus",
+            "description": "+60% Probabilità Critico e Danno durante la Mira",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
+        },
+        "pl": {
+            "item_name": "Krytyczne Skupienie",
+            "description": "+60% Szansy Obr. Krytycznych i Obrażeń podczas celowania",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Krytyczne_Op%C3%B3%C5%BAnienie"
+        },
+        "uk": {
+            "item_name": "Критичне Зосередження",
+            "description": "+60% до ймовірності критичної шкоди та шкоди під час прицілювання.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Critical_Focus"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

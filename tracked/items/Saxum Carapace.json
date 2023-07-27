@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Femur/FemurCarapaceMod"
     },
-    "en": {
-        "item_name": "Saxum Carapace",
-        "description": "+60% Armor\n+90% Health",
-        "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
-    },
-    "ru": {
-        "item_name": "Саксум: Панцирь",
-        "description": "+60% к броне\n+90% к здоровью",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BA%D1%81%D1%83%D0%BC:_%D0%9F%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D1%8C"
-    },
-    "ko": {
-        "item_name": "삭숨 카라페이스",
-        "description": "+60% 방어력\n+90% 최대 체력량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
-    },
-    "de": {
-        "item_name": "Saxum: Panzer",
-        "description": "+60 % Rüstung\n+90 % Gesundheit",
-        "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
-    },
-    "fr": {
-        "item_name": "Carapace Saxum",
-        "description": "+60% d'Armure\n+90% de Santé",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Carapace_Saxum"
-    },
-    "pt": {
-        "item_name": "Saxum Carapace",
-        "description": "+60% de Armadura\n+90% de Vida",
-        "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
-    },
-    "zh-hans": {
-        "item_name": "重岩者 壳甲",
-        "description": "+60% 护甲\n+90% 生命值",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saxum_Carapace"
-    },
-    "zh-hant": {
-        "item_name": "岩者 甲殼",
-        "description": "+60% 護甲\n+90% 生命值",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Saxum_Carapace"
-    },
-    "es": {
-        "item_name": "Caparazón De Saxum",
-        "description": "+60% de armadura\n+90% de salud",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Caparaz%C3%B3n_de_Saxum"
-    },
-    "it": {
-        "item_name": "Saxum Carapace",
-        "description": "+60% Armatura\n+90% Salute",
-        "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
-    },
-    "pl": {
-        "item_name": "Skorupa Saxum",
-        "description": "+60% Pancerza\n+90% Życie",
-        "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
-    },
-    "uk": {
-        "item_name": "Панцир Саксума",
-        "description": "+60% до захисту.\n+90% до здоров’я.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
+    "i18n": {
+        "en": {
+            "item_name": "Saxum Carapace",
+            "description": "+60% Armor\n+90% Health",
+            "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace",
+            "icon": "items/images/en/saxum_carapace.8c25bce0a8d5654fc874e7f72cc50a54.png",
+            "thumb": "items/images/en/thumbs/saxum_carapace.8c25bce0a8d5654fc874e7f72cc50a54.128x128.png"
+        },
+        "ru": {
+            "item_name": "Саксум: Панцирь",
+            "description": "+60% к броне\n+90% к здоровью",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BA%D1%81%D1%83%D0%BC:_%D0%9F%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D1%8C"
+        },
+        "ko": {
+            "item_name": "삭숨 카라페이스",
+            "description": "+60% 방어력\n+90% 최대 체력량",
+            "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
+        },
+        "de": {
+            "item_name": "Saxum: Panzer",
+            "description": "+60 % Rüstung\n+90 % Gesundheit",
+            "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
+        },
+        "fr": {
+            "item_name": "Carapace Saxum",
+            "description": "+60% d'Armure\n+90% de Santé",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Carapace_Saxum"
+        },
+        "pt": {
+            "item_name": "Saxum Carapace",
+            "description": "+60% de Armadura\n+90% de Vida",
+            "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
+        },
+        "zh-hans": {
+            "item_name": "重岩者 壳甲",
+            "description": "+60% 护甲\n+90% 生命值",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Saxum_Carapace"
+        },
+        "zh-hant": {
+            "item_name": "岩者 甲殼",
+            "description": "+60% 護甲\n+90% 生命值",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Saxum_Carapace"
+        },
+        "es": {
+            "item_name": "Caparazón De Saxum",
+            "description": "+60% de armadura\n+90% de salud",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Caparaz%C3%B3n_de_Saxum"
+        },
+        "it": {
+            "item_name": "Saxum Carapace",
+            "description": "+60% Armatura\n+90% Salute",
+            "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
+        },
+        "pl": {
+            "item_name": "Skorupa Saxum",
+            "description": "+60% Pancerza\n+90% Życie",
+            "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
+        },
+        "uk": {
+            "item_name": "Панцир Саксума",
+            "description": "+60% до захисту\n+90% до здоров’я",
+            "wiki_link": "https://warframe.fandom.com/wiki/Saxum_Carapace"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

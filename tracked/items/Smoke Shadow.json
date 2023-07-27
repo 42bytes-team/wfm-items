@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Ninja/SmokeScreenAugmentCard"
     },
-    "en": {
-        "item_name": "Smoke Shadow",
-        "description": "Smoke Screen Augment: Conceals allies within 15m for 8s and grants 150% Critical Chance while invisible.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smoke_Shadow"
-    },
-    "ru": {
-        "item_name": "Дымная Тень",
-        "description": "Улучшение способности «Дымовая Завеса»: укрывает союзников в радиусе 15 м на 8 с и добавляет 150% к шансу крит. урона во время невидимости.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D1%8B%D0%BC%D0%BD%D0%B0%D1%8F_%D0%A2%D0%B5%D0%BD%D1%8C",
-        "icon": "items/images/ru/smoke_shadow.50a674b82aedaa60f1e6994bb2101f36.png",
-        "thumb": "items/images/ru/thumbs/smoke_shadow.50a674b82aedaa60f1e6994bb2101f36.128x128.png"
-    },
-    "ko": {
-        "item_name": "스모크 쉐도우",
-        "description": "스모크 스크린 개조: 8초 동안 15m 범위 내의 아군들을 은신 상태로 만들며 은신중 150%의 치명타 확률을 부여합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smoke_Shadow"
-    },
-    "de": {
-        "item_name": "Rauchschatten",
-        "description": "Rauchwolke Augment: Verbirgt Verbündete innerhalb von 15 m für 8 s und gewährt 150 % Krit. Chance bei Unsichtbarkeit.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Rauchschatten"
-    },
-    "fr": {
-        "item_name": "Ombre De Fumée",
-        "description": "Augmentation d'Écran de Fumée : dissimule les alliés à moins de 15m pendant 8s et confère 150% de Chances de Critique lorsqu'ils sont invisibles.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ombre_de_Fum%C3%A9e"
-    },
-    "pt": {
-        "item_name": "Smoke Shadow",
-        "description": "Ampliação Smoke Screen: ocultará os Aliados dentro de 15m durante 8s e concederá 150% de Chance Crítica enquanto invisível.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Smoke_Shadow"
-    },
-    "zh-hans": {
-        "item_name": "庇护烟幕",
-        "description": "烟幕强化：与 15 米范围内的队友一起进入隐身状态，持续 8 秒，并在此期间给予 150% 暴击几率。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smoke_Shadow"
-    },
-    "zh-hant": {
-        "item_name": "庇護煙幕",
-        "description": "煙幕強化：與 15 公尺範圍內的隊友一起進入隱身狀態，持續 8 秒，並在隱形時獲得 150% 暴擊機率。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Smoke_Shadow"
-    },
-    "es": {
-        "item_name": "Sombra De Humo",
-        "description": "Aumento de Pantalla de humo: oculta a los aliados dentro de 15 m por 8 s y otorga 150 % de probabilidad crítica cuando es invisible.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sombra_de_humo"
-    },
-    "it": {
-        "item_name": "Smoke Shadow",
-        "description": "Potenziamento Smoke Screen: Cela gli alleati entro 15m per 8s e conferisce 150% Probabilità Critico durante l'invisibilità.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Smoke_Shadow"
-    },
-    "pl": {
-        "item_name": "Cień Dymu",
-        "description": "Modyfikacja Zasłony Dymnej: Ukrywa sojuszników w zasięgu 15m przez 8s oraz przyznaje 150% Szansy Obr. Krytycznych podczas niewidzialności.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Cie%C5%84_Dymu"
-    },
-    "uk": {
-        "item_name": "Димова Тінь",
-        "description": "Розширення здібності «Димова завіса»: також приховує союзників у межах 15 м на 8 с і дає 150% до ймовірності критичної шкоди під час невидимості.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Smoke_Shadow"
+    "i18n": {
+        "en": {
+            "item_name": "Smoke Shadow",
+            "description": "Smoke Screen Augment: Conceals allies within 15m for 8s and grants 150% Critical Chance while invisible.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smoke_Shadow",
+            "icon": "items/images/en/smoke_shadow.95024517615b631ded466c997ff117a6.png",
+            "thumb": "items/images/en/thumbs/smoke_shadow.95024517615b631ded466c997ff117a6.128x128.png"
+        },
+        "ru": {
+            "item_name": "Дымная Тень",
+            "description": "Улучшение способности «Дымовая Завеса»: укрывает союзников в радиусе 15 м на 8 с и добавляет 150% к шансу крит. урона во время невидимости.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D1%8B%D0%BC%D0%BD%D0%B0%D1%8F_%D0%A2%D0%B5%D0%BD%D1%8C",
+            "icon": "items/images/ru/smoke_shadow.50a674b82aedaa60f1e6994bb2101f36.png",
+            "thumb": "items/images/ru/thumbs/smoke_shadow.50a674b82aedaa60f1e6994bb2101f36.128x128.png"
+        },
+        "ko": {
+            "item_name": "스모크 쉐도우",
+            "description": "스모크 스크린 개조: 8초 동안 15m 범위 내의 아군들을 은신 상태로 만들며 은신중 150%의 치명타 확률을 부여합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smoke_Shadow"
+        },
+        "de": {
+            "item_name": "Rauchschatten",
+            "description": "Rauchwolke Augment: Verbirgt Verbündete innerhalb von 15 m für 8 s und gewährt 150 % Krit. Chance bei Unsichtbarkeit.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Rauchschatten"
+        },
+        "fr": {
+            "item_name": "Ombre De Fumée",
+            "description": "Augmentation d'Écran de Fumée : dissimule les alliés à moins de 15m pendant 8s et confère 150% de Chances de Critique lorsqu'ils sont invisibles.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Ombre_de_Fum%C3%A9e"
+        },
+        "pt": {
+            "item_name": "Smoke Shadow",
+            "description": "Ampliação Smoke Screen: ocultará os Aliados dentro de 15m durante 8s e concederá 150% de Chance Crítica enquanto invisível.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Smoke_Shadow"
+        },
+        "zh-hans": {
+            "item_name": "庇护烟幕",
+            "description": "烟幕强化：与 15 米范围内的队友一起进入隐身状态，持续 8 秒，并在此期间给予 150% 暴击几率。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Smoke_Shadow"
+        },
+        "zh-hant": {
+            "item_name": "庇護煙幕",
+            "description": "煙幕強化：與 15 公尺範圍內的隊友一起進入隱身狀態，持續 8 秒，並在隱形時獲得 150% 暴擊機率。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Smoke_Shadow"
+        },
+        "es": {
+            "item_name": "Sombra De Humo",
+            "description": "Aumento de Pantalla de humo: oculta a los aliados dentro de 15 m por 8 s y otorga 150 % de probabilidad crítica cuando es invisible.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sombra_de_humo"
+        },
+        "it": {
+            "item_name": "Smoke Shadow",
+            "description": "Potenziamento Smoke Screen: Cela gli alleati entro 15m per 8s e conferisce 150% Probabilità Critico durante l'invisibilità.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Smoke_Shadow"
+        },
+        "pl": {
+            "item_name": "Cień Dymu",
+            "description": "Modyfikacja Zasłony Dymnej: Ukrywa sojuszników w zasięgu 15m przez 8s oraz przyznaje 150% Szansy Obr. Krytycznych podczas niewidzialności.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Cie%C5%84_Dymu"
+        },
+        "uk": {
+            "item_name": "Димова Тінь",
+            "description": "Розширення здібності «Димова завіса»: також приховує союзників у межах 15 м на 8 с і дає 150% до ймовірності критичної шкоди під час невидимості.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Smoke_Shadow"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

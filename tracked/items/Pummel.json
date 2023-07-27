@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/WeaponEventPistolImpactDamageMod"
     },
-    "en": {
-        "item_name": "Pummel",
-        "description": "+120% Impact",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pummel"
-    },
-    "ru": {
-        "item_name": "Избиение",
-        "description": "+120% ударного урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/pummel.a7b33d064bd7974577405799d2eb22f0.png",
-        "thumb": "items/images/ru/thumbs/pummel.a7b33d064bd7974577405799d2eb22f0.128x128.png"
-    },
-    "ko": {
-        "item_name": "퍼멜",
-        "description": "+120% 충격",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pummel"
-    },
-    "de": {
-        "item_name": "Einprügeln",
-        "description": "+120 % Einschlag",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Einpr%C3%BCgeln"
-    },
-    "fr": {
-        "item_name": "Martèlement",
-        "description": "+120% Impact",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mart%C3%A8lement"
-    },
-    "pt": {
-        "item_name": "Pummel",
-        "description": "+120% de Colisivo",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pummel"
-    },
-    "zh-hans": {
-        "item_name": "强力猛击",
-        "description": "+120% 冲击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pummel"
-    },
-    "zh-hant": {
-        "item_name": "強力猛擊",
-        "description": "+120% 衝擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pummel"
-    },
-    "es": {
-        "item_name": "Aporreo",
-        "description": "+120% de impacto",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Aporreo"
-    },
-    "it": {
-        "item_name": "Pummel",
-        "description": "+120% Impatto",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pummel"
-    },
-    "pl": {
-        "item_name": "Tępe Uderzenie",
-        "description": "+120% Obrażeń Miażdżących",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zr%C4%99czne_Uderzenie"
-    },
-    "uk": {
-        "item_name": "Гамселення",
-        "description": "+120% до ударної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pummel"
+    "i18n": {
+        "en": {
+            "item_name": "Pummel",
+            "description": "+120% Impact",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pummel",
+            "icon": "items/images/en/pummel.ebfb7032904e901422b7cdb346c7d55b.png",
+            "thumb": "items/images/en/thumbs/pummel.ebfb7032904e901422b7cdb346c7d55b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Избиение",
+            "description": "+120% ударного урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/pummel.a7b33d064bd7974577405799d2eb22f0.png",
+            "thumb": "items/images/ru/thumbs/pummel.a7b33d064bd7974577405799d2eb22f0.128x128.png"
+        },
+        "ko": {
+            "item_name": "퍼멜",
+            "description": "+120% 충격",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pummel"
+        },
+        "de": {
+            "item_name": "Einprügeln",
+            "description": "+120 % Einschlag",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Einpr%C3%BCgeln"
+        },
+        "fr": {
+            "item_name": "Martèlement",
+            "description": "+120% Impact",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Mart%C3%A8lement"
+        },
+        "pt": {
+            "item_name": "Pummel",
+            "description": "+120% de Colisivo",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pummel"
+        },
+        "zh-hans": {
+            "item_name": "强力猛击",
+            "description": "+120% 冲击伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pummel"
+        },
+        "zh-hant": {
+            "item_name": "強力猛擊",
+            "description": "+120% 衝擊傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pummel"
+        },
+        "es": {
+            "item_name": "Aporreo",
+            "description": "+120% de impacto",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Aporreo"
+        },
+        "it": {
+            "item_name": "Pummel",
+            "description": "+120% Impatto",
+            "wiki_link": "http://warframe.wikia.com/wiki/Pummel"
+        },
+        "pl": {
+            "item_name": "Tępe Uderzenie",
+            "description": "+120% Obrażeń Miażdżących",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zr%C4%99czne_Uderzenie"
+        },
+        "uk": {
+            "item_name": "Гамселення",
+            "description": "+120% до ударної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pummel"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

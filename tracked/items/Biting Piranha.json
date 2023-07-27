@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPDualDaggersStanceOne"
     },
-    "en": {
-        "item_name": "Biting Piranha",
-        "description": "Fighting form devised for Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
-    },
-    "ru": {
-        "item_name": "Кусачая Пиранья",
-        "description": "Форма боя, созданная для конклава.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D1%81%D0%B0%D1%87%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BD%D1%8C%D1%8F",
-        "icon": "items/images/ru/biting_piranha.71dbc888f3503b62b8f5264358823fd2.png",
-        "thumb": "items/images/ru/thumbs/biting_piranha.71dbc888f3503b62b8f5264358823fd2.128x128.png"
-    },
-    "ko": {
-        "item_name": "바이팅 피라냐",
-        "description": "콘클레이브를 위해 창안된 전투 자세입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
-    },
-    "de": {
-        "item_name": "Beißender Piranha",
-        "description": "Gefechtsform, entwickelt für die Conclave.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Bei%C3%9Fender_Piranha"
-    },
-    "fr": {
-        "item_name": "Piranha Mordant",
-        "description": "Forme de combat réservée au Conclave.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Piranha_Mordant"
-    },
-    "pt": {
-        "item_name": "Biting Piranha",
-        "description": "Forma de combate elaborada para o Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
-    },
-    "zh-hans": {
-        "item_name": "食人鱼噬咬",
-        "description": "为武形秘仪设计的战斗形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Biting_Piranha"
-    },
-    "zh-hant": {
-        "item_name": "食人魚噬咬",
-        "description": "為武形秘儀設計的戰鬥形式。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Biting_Piranha"
-    },
-    "es": {
-        "item_name": "Piraña Mordaz",
-        "description": "Una forma de pelea creada para el Cónclave.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pira%C3%B1a_mordaz"
-    },
-    "it": {
-        "item_name": "Biting Piranha",
-        "description": "Stile di combattimento ideato per il Conclave.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
-    },
-    "pl": {
-        "item_name": "Gryząca Pirania",
-        "description": "Styl walki stworzony na potrzeby Konklawe.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Gryz%C4%85ca_Pirania"
-    },
-    "uk": {
-        "item_name": "Їдка Піранья",
-        "description": "Техніка бою, розроблена для Конклаву.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
+    "i18n": {
+        "en": {
+            "item_name": "Biting Piranha",
+            "description": "Fighting form devised for Conclave.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha",
+            "icon": "items/images/en/biting_piranha.3ee2f8dd42bb3aa6c5351a8a85813984.png",
+            "thumb": "items/images/en/thumbs/biting_piranha.3ee2f8dd42bb3aa6c5351a8a85813984.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кусачая Пиранья",
+            "description": "Форма боя, созданная для конклава.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D1%81%D0%B0%D1%87%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BD%D1%8C%D1%8F",
+            "icon": "items/images/ru/biting_piranha.71dbc888f3503b62b8f5264358823fd2.png",
+            "thumb": "items/images/ru/thumbs/biting_piranha.71dbc888f3503b62b8f5264358823fd2.128x128.png"
+        },
+        "ko": {
+            "item_name": "바이팅 피라냐",
+            "description": "콘클레이브를 위해 창안된 전투 자세입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
+        },
+        "de": {
+            "item_name": "Beißender Piranha",
+            "description": "Gefechtsform, entwickelt für die Conclave.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Bei%C3%9Fender_Piranha"
+        },
+        "fr": {
+            "item_name": "Piranha Mordant",
+            "description": "Forme de combat réservée au Conclave.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Piranha_Mordant"
+        },
+        "pt": {
+            "item_name": "Biting Piranha",
+            "description": "Forma de combate elaborada para o Conclave.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
+        },
+        "zh-hans": {
+            "item_name": "食人鱼噬咬",
+            "description": "为武形秘仪设计的战斗形式。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Biting_Piranha"
+        },
+        "zh-hant": {
+            "item_name": "食人魚噬咬",
+            "description": "為武形秘儀設計的戰鬥形式。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Biting_Piranha"
+        },
+        "es": {
+            "item_name": "Piraña Mordaz",
+            "description": "Una forma de pelea creada para el Cónclave.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Pira%C3%B1a_mordaz"
+        },
+        "it": {
+            "item_name": "Biting Piranha",
+            "description": "Stile di combattimento ideato per il Conclave.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
+        },
+        "pl": {
+            "item_name": "Gryząca Pirania",
+            "description": "Styl walki stworzony na potrzeby Konklawe.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Gryz%C4%85ca_Pirania"
+        },
+        "uk": {
+            "item_name": "Їдка Піранья",
+            "description": "Техніка бою, розроблена для Конклаву.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Biting_Piranha"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

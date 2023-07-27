@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash"
     },
-    "en": {
-        "item_name": "Magus Cadence",
-        "description": "On Void Sling:\n+90% Sprint Speed for 12s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Cadence"
-    },
-    "ru": {
-        "item_name": "Каденция Волхва",
-        "description": "При Броске Бездны:\n+90% к скорости бега в течение 12с",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
-    },
-    "ko": {
-        "item_name": "마구스 케이던스",
-        "description": "보이드 슬링 시:\n12초 동안 +90% 질주 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Cadence"
-    },
-    "de": {
-        "item_name": "Magus: Takt",
-        "description": "Bei Void-Schleuder:\n+90 % Sprintgeschwindigkeit für 12s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Cadence"
-    },
-    "fr": {
-        "item_name": "Magus Cadence",
-        "description": "Sur Catapulte du Néant:\nPendant 12s, +90% Vitesse de Course",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Cadence"
-    },
-    "pt": {
-        "item_name": "Cadência Do Mago",
-        "description": "Na Void Sling:\n+90% de Velocidade da Corrida por 12s",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magus_Cadence"
-    },
-    "zh-hans": {
-        "item_name": "魔导·韵律",
-        "description": "虚空弹射时：\n+90% 冲刺速度，持续 12 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Cadence"
-    },
-    "zh-hant": {
-        "item_name": "魔導韻律",
-        "description": "虛空彈射時：\n+90% 衝刺速度，持續 12 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Cadence"
-    },
-    "es": {
-        "item_name": "Cadencia Del Mago",
-        "description": "En Honda del Vacío:\n+90% Velocidad al correr por 12s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cadencia_del_mago"
-    },
-    "it": {
-        "item_name": "Magus Cadence",
-        "description": "Durante Void Sling:\n+90% Velocità Scatto per 12s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Magus_Cadence"
-    },
-    "pl": {
-        "item_name": "Magus Rytmu",
-        "description": "Podczas Projekcji Pustki:\n+90% Szybkość Sprintu przez 12s",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Rytmu"
-    },
-    "uk": {
-        "item_name": "Маґус «Каданс»",
-        "description": "У разі Кидка Порожнечі:\n+90% до швидкості бігу. Тривалість: 12 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Magus_Cadence"
+    "i18n": {
+        "en": {
+            "item_name": "Magus Cadence",
+            "description": "On Void Sling:\n+90% Sprint Speed for 12s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Cadence",
+            "icon": "items/images/en/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.png",
+            "thumb": "items/images/en/thumbs/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.128x128.png"
+        },
+        "ru": {
+            "item_name": "Каденция Волхва",
+            "description": "При Броске Бездны:\n+90% к скорости бега в течение 12с",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%92%D0%BE%D0%BB%D1%85%D0%B2%D0%B0"
+        },
+        "ko": {
+            "item_name": "마구스 케이던스",
+            "description": "보이드 슬링 시:\n12초 동안 +90% 질주 속도",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Cadence"
+        },
+        "de": {
+            "item_name": "Magus: Takt",
+            "description": "Bei Void-Schleuder:\n+90 % Sprintgeschwindigkeit für 12s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magus_Cadence"
+        },
+        "fr": {
+            "item_name": "Magus Cadence",
+            "description": "Sur Catapulte du Néant:\nPendant 12s, +90% Vitesse de Course",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Magus_Cadence"
+        },
+        "pt": {
+            "item_name": "Cadência Do Mago",
+            "description": "Na Void Sling:\n+90% de Velocidade da Corrida por 12s",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Magus_Cadence"
+        },
+        "zh-hans": {
+            "item_name": "魔导·韵律",
+            "description": "虚空弹射时：\n+90% 冲刺速度，持续 12 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Cadence"
+        },
+        "zh-hant": {
+            "item_name": "魔導韻律",
+            "description": "虛空彈射時：\n+90% 衝刺速度，持續 12 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Magus_Cadence"
+        },
+        "es": {
+            "item_name": "Cadencia Del Mago",
+            "description": "En Honda del Vacío:\n+90% Velocidad al correr por 12s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Cadencia_del_mago"
+        },
+        "it": {
+            "item_name": "Magus Cadence",
+            "description": "Durante Void Sling:\n+90% Velocità Scatto per 12s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Magus_Cadence"
+        },
+        "pl": {
+            "item_name": "Magus Rytmu",
+            "description": "Podczas Projekcji Pustki:\n+90% Szybkość Sprintu przez 12s",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Magus_Rytmu"
+        },
+        "uk": {
+            "item_name": "Маґус «Каданс»",
+            "description": "У разі Кидка Порожнечі:\n+90% до швидкості бігу. Тривалість: 12 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Magus_Cadence"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

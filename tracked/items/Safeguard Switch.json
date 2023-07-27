@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Loki/SwitchAugmentCard"
     },
-    "en": {
-        "item_name": "Safeguard Switch",
-        "description": "Switch Teleport Augment: Switch with an enemy for 3s invulnerability. Switch with an ally to give ally 6s invulnerability. Switch also removes negative status effects on Loki and allies.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Safeguard_Switch"
-    },
-    "ru": {
-        "item_name": "Защитная Транспозиция",
-        "description": "Улучшение способности «Транспозиция»: поменяйтесь местами с врагом, чтобы получить неуязвимость на 3 с. Поменяйтесь местами с союзником, чтобы дать союзнику неуязвимость на 6 с. Переключатель также снимает негативные эффекты статуса с Локи и его союзников.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B0%D1%8F_%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F",
-        "icon": "items/images/ru/safeguard_switch.187841d8b8af16278cc2f1dc6c33ae1b.png",
-        "thumb": "items/images/ru/thumbs/safeguard_switch.187841d8b8af16278cc2f1dc6c33ae1b.128x128.png"
-    },
-    "ko": {
-        "item_name": "세이프가드 스위치",
-        "description": "스위치 텔레포트 개조: 적과 위치를 바꾸면 3초의 무적 시간을 얻습니다. 아군과 위치를 바꾸면 해당 아군에게 6초의 무적 시간을 부여합니다. 위치 전환 시 로키와 아군에게 걸려 있던 부정적인 상태 효과 또한 제거됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Safeguard_Switch"
-    },
-    "de": {
-        "item_name": "Sicherer Tausch",
-        "description": "Teleport-Tausch Augment: Wechsele die Position mit einem Feind für 3 s Unverwundbarkeit. Wechsele mit einem Verbündeten, um ihn für 6 s unverwundbar zu machen. Ein Wechsel entfernt auch negative Statuseffekte von Loki und Verbündeten.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sicherer_Tausch"
-    },
-    "fr": {
-        "item_name": "Transposition De Sauvegarde",
-        "description": "Augmentation de Transposition: Permutez avec un ennemi pour 3s d'invulnérabilité. Permutez avec un allié pour conférer à l'allié 6s d'invulnérabilité. Cela supprime également les Effets de Statut négatifs sur Loki et ses alliés.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Transposition_de_Sauvegarde"
-    },
-    "pt": {
-        "item_name": "Safeguard Switch",
-        "description": "Ampliação Switch Teleport: conjurar a habilidade em um inimigo fornecerá 3s de invulnerabilidade para você. Se conjurada em um aliado, fornecerá 6s de invulnerabilidade a ele. A habilidade também removerá Efeitos de Status negativos.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Safeguard_Switch"
-    },
-    "zh-hans": {
-        "item_name": "护卫传送",
-        "description": "移形换位强化：与敌人换位后自身将拥有 3 秒的无敌时间。与队友换位后，这名队友将拥有 6 秒的无敌时间。换位也会移除 Loki 及其队友身上负面异常状态。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Safeguard_Switch"
-    },
-    "zh-hant": {
-        "item_name": "護衛傳送",
-        "description": "移形換位強化：與敵人換位後自身將有 3 秒的無敵時間；對盟友進行傳送後此盟友將擁有 6 秒的無敵時間。換位也會移除 Loki 和此盟友身上的負面狀態。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Safeguard_Switch"
-    },
-    "es": {
-        "item_name": "Intercambio Protector",
-        "description": "Aumento de Intercambio: cambia con un enemigo por 3 s de invulnerabilidad. Cambia con un aliado para darle 6 s de invulnerabilidad. Cambiar también remueve los efectos de estado negativos en Loki y en sus aliados.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Intercambio"
-    },
-    "it": {
-        "item_name": "Safeguard Switch",
-        "description": "Potenziamento Switch Teleport: Scambiati con un nemico per ottenere 3s di invulnerabilità. Scambiati con un alleato per dare all'alleato 6s di invulnerabilità. Scambiarsi rimuove anche gli effetti negativi che affliggono Loki e i suoi alleati.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Safeguard_Switch"
-    },
-    "pl": {
-        "item_name": "Zabezpieczenie Teleportu",
-        "description": "Modyfikacja Teleportu Zamiany: Zamień się z wrogiem, by otrzymać 3s niewrażliwości na obrażenia. Zamień się z sojusznikiem, aby dać mu 6s odporność na obrażenia. Zamiana usuwa także negatywne efekty statusowe z Lokiego i sojuszników.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zabezpieczenie_Teleportu"
-    },
-    "uk": {
-        "item_name": "Захисний Обмін Положенням",
-        "description": "Розширення здібності «Обмін положенням»: обмін положенням дає невразливість на 3 с. Обміняйтеся із союзником, щоби він отримав невразливість на 6 с. Обмін також знімає всі ефекти станів для Локі й союзників.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Safeguard_Switch"
+    "i18n": {
+        "en": {
+            "item_name": "Safeguard Switch",
+            "description": "Switch Teleport Augment: Switch with an enemy for 3s invulnerability. Switch with an ally to give ally 6s invulnerability. Switch also removes negative status effects on Loki and allies.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Safeguard_Switch",
+            "icon": "items/images/en/safeguard_switch.0d84e8aee50d18ced179eddf30cdc991.png",
+            "thumb": "items/images/en/thumbs/safeguard_switch.0d84e8aee50d18ced179eddf30cdc991.128x128.png"
+        },
+        "ru": {
+            "item_name": "Защитная Транспозиция",
+            "description": "Улучшение способности «Транспозиция»: поменяйтесь местами с врагом, чтобы получить неуязвимость на 3 с. Поменяйтесь местами с союзником, чтобы дать союзнику неуязвимость на 6 с. Переключатель также снимает негативные эффекты статуса с Локи и его союзников.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B0%D1%8F_%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F",
+            "icon": "items/images/ru/safeguard_switch.187841d8b8af16278cc2f1dc6c33ae1b.png",
+            "thumb": "items/images/ru/thumbs/safeguard_switch.187841d8b8af16278cc2f1dc6c33ae1b.128x128.png"
+        },
+        "ko": {
+            "item_name": "세이프가드 스위치",
+            "description": "스위치 텔레포트 개조: 적과 위치를 바꾸면 3초의 무적 시간을 얻습니다. 아군과 위치를 바꾸면 해당 아군에게 6초의 무적 시간을 부여합니다. 위치 전환 시 로키와 아군에게 걸려 있던 부정적인 상태 효과 또한 제거됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Safeguard_Switch"
+        },
+        "de": {
+            "item_name": "Sicherer Tausch",
+            "description": "Teleport-Tausch Augment: Wechsele die Position mit einem Feind für 3 s Unverwundbarkeit. Wechsele mit einem Verbündeten, um ihn für 6 s unverwundbar zu machen. Ein Wechsel entfernt auch negative Statuseffekte von Loki und Verbündeten.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Sicherer_Tausch"
+        },
+        "fr": {
+            "item_name": "Transposition De Sauvegarde",
+            "description": "Augmentation de Transposition: Permutez avec un ennemi pour 3s d'invulnérabilité. Permutez avec un allié pour conférer à l'allié 6s d'invulnérabilité. Cela supprime également les Effets de Statut négatifs sur Loki et ses alliés.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Transposition_de_Sauvegarde"
+        },
+        "pt": {
+            "item_name": "Safeguard Switch",
+            "description": "Ampliação Switch Teleport: conjurar a habilidade em um inimigo fornecerá 3s de invulnerabilidade para você. Se conjurada em um aliado, fornecerá 6s de invulnerabilidade a ele. A habilidade também removerá Efeitos de Status negativos.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Safeguard_Switch"
+        },
+        "zh-hans": {
+            "item_name": "护卫传送",
+            "description": "移形换位强化：与敌人换位后自身将拥有 3 秒的无敌时间。与队友换位后，这名队友将拥有 6 秒的无敌时间。换位也会移除 Loki 及其队友身上负面异常状态。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Safeguard_Switch"
+        },
+        "zh-hant": {
+            "item_name": "護衛傳送",
+            "description": "移形換位強化：與敵人換位後自身將有 3 秒的無敵時間；對盟友進行傳送後此盟友將擁有 6 秒的無敵時間。換位也會移除 Loki 和此盟友身上的負面狀態。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Safeguard_Switch"
+        },
+        "es": {
+            "item_name": "Intercambio Protector",
+            "description": "Aumento de Intercambio: cambia con un enemigo por 3 s de invulnerabilidad. Cambia con un aliado para darle 6 s de invulnerabilidad. Cambiar también remueve los efectos de estado negativos en Loki y en sus aliados.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Intercambio"
+        },
+        "it": {
+            "item_name": "Safeguard Switch",
+            "description": "Potenziamento Switch Teleport: Scambiati con un nemico per ottenere 3s di invulnerabilità. Scambiati con un alleato per dare all'alleato 6s di invulnerabilità. Scambiarsi rimuove anche gli effetti negativi che affliggono Loki e i suoi alleati.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Safeguard_Switch"
+        },
+        "pl": {
+            "item_name": "Zabezpieczenie Teleportu",
+            "description": "Modyfikacja Teleportu Zamiany: Zamień się z wrogiem, by otrzymać 3s niewrażliwości na obrażenia. Zamień się z sojusznikiem, aby dać mu 6s odporność na obrażenia. Zamiana usuwa także negatywne efekty statusowe z Lokiego i sojuszników.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zabezpieczenie_Teleportu"
+        },
+        "uk": {
+            "item_name": "Захисний Обмін Положенням",
+            "description": "Розширення здібності «Обмін положенням»: обмін положенням дає невразливість на 3 с. Обміняйтеся із союзником, щоби він отримав невразливість на 6 с. Обмін також знімає всі ефекти станів для Локі й союзників.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Safeguard_Switch"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

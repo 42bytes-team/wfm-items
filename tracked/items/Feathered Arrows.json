@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessDamageBowMod"
     },
-    "en": {
-        "item_name": "Feathered Arrows",
-        "description": "+60% Projectile Speed\n-20% Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Feathered_Arrows"
-    },
-    "ru": {
-        "item_name": "Оперенные Стрелы",
-        "description": "+60% к скорости полёта снаряда\n-20% урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8B",
-        "icon": "items/images/ru/feathered_arrows.86176c0fcb1242395ea7e3e16942d2f6.png",
-        "thumb": "items/images/ru/thumbs/feathered_arrows.86176c0fcb1242395ea7e3e16942d2f6.128x128.png"
-    },
-    "ko": {
-        "item_name": "페더드 에로우",
-        "description": "+60% 발사체 속도\n-20% 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Feathered_Arrows"
-    },
-    "de": {
-        "item_name": "Gefederte Pfeile",
-        "description": "+60 % Projektilgeschwindigkeit\n-20 % Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gefederte_Klinge"
-    },
-    "fr": {
-        "item_name": "Flèches Empennées",
-        "description": "+60% de Vitesse des Projectiles\n-20% de Dégâts",
-        "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows"
-    },
-    "pt": {
-        "item_name": "Feathered Arrows",
-        "description": "+60% de Velocidade do Projétil\n-20% de Dano",
-        "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows"
-    },
-    "zh-hans": {
-        "item_name": "轻羽箭",
-        "description": "+60% 投射物速度\n-20% 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Feathered_Arrows"
-    },
-    "zh-hant": {
-        "item_name": "輕羽箭",
-        "description": "+60% 投射物速度\n-20% 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Feathered_Arrows"
-    },
-    "es": {
-        "item_name": "Flechas Emplumadas",
-        "description": "+60% de velocidad de proyectil\n-20% de daño",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Flechas_emplumadas"
-    },
-    "it": {
-        "item_name": "Feathered Arrows",
-        "description": "+60% Velocità Proiettile\n-20% Danno",
-        "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows"
-    },
-    "pl": {
-        "item_name": "Pierzasta Strzała",
-        "description": "+60% Prędkość Pocisku\n-20% Obrażeń",
-        "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows"
-    },
-    "uk": {
-        "item_name": "Оперені Стріли",
-        "description": "+60% до швидкості польоту снарядів.\n-20% до шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Feathered_Arrows"
+    "i18n": {
+        "en": {
+            "item_name": "Feathered Arrows",
+            "description": "+60% Projectile Speed\n-20% Damage",
+            "wiki_link": "https://warframe.fandom.com/wiki/Feathered_Arrows",
+            "icon": "items/images/en/feathered_arrows.c024ea4e02bfe81e74a987d71e60c886.png",
+            "thumb": "items/images/en/thumbs/feathered_arrows.c024ea4e02bfe81e74a987d71e60c886.128x128.png"
+        },
+        "ru": {
+            "item_name": "Оперенные Стрелы",
+            "description": "+60% к скорости полёта снаряда\n-20% урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8B",
+            "icon": "items/images/ru/feathered_arrows.86176c0fcb1242395ea7e3e16942d2f6.png",
+            "thumb": "items/images/ru/thumbs/feathered_arrows.86176c0fcb1242395ea7e3e16942d2f6.128x128.png"
+        },
+        "ko": {
+            "item_name": "페더드 에로우",
+            "description": "+60% 발사체 속도\n-20% 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Feathered_Arrows"
+        },
+        "de": {
+            "item_name": "Gefederte Pfeile",
+            "description": "+60 % Projektilgeschwindigkeit\n-20 % Schaden",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gefederte_Klinge"
+        },
+        "fr": {
+            "item_name": "Flèches Empennées",
+            "description": "+60% de Vitesse des Projectiles\n-20% de Dégâts",
+            "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows"
+        },
+        "pt": {
+            "item_name": "Feathered Arrows",
+            "description": "+60% de Velocidade do Projétil\n-20% de Dano",
+            "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows"
+        },
+        "zh-hans": {
+            "item_name": "轻羽箭",
+            "description": "+60% 投射物速度\n-20% 伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Feathered_Arrows"
+        },
+        "zh-hant": {
+            "item_name": "輕羽箭",
+            "description": "+60% 投射物速度\n-20% 傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Feathered_Arrows"
+        },
+        "es": {
+            "item_name": "Flechas Emplumadas",
+            "description": "+60% de velocidad de proyectil\n-20% de daño",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Flechas_emplumadas"
+        },
+        "it": {
+            "item_name": "Feathered Arrows",
+            "description": "+60% Velocità Proiettile\n-20% Danno",
+            "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows"
+        },
+        "pl": {
+            "item_name": "Pierzasta Strzała",
+            "description": "+60% Prędkość Pocisku\n-20% Obrażeń",
+            "wiki_link": "http://warframe.wikia.com/wiki/Feathered_Arrows"
+        },
+        "uk": {
+            "item_name": "Оперені Стріли",
+            "description": "+60% до швидкості польоту снарядів\n-20% до шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Feathered_Arrows"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

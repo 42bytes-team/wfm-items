@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnSliding"
     },
-    "en": {
-        "item_name": "Akimbo Slip Shot",
-        "description": "While sliding or aim gliding: Gain 65% ammo efficiency with Dual Pistols.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Парный Скользящий Выстрел",
-        "description": "Во время скольжения или управляемого полёта: даёт 65% к эффективности боеприпасов для парных пистолетов.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "아킴보 슬립 샷",
-        "description": "슬라이딩 혹은 에임 글라이딩을 하는 동안: 쌍권총 사용 시 탄약 효율을 65% 획득합니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Arkana: Akimbo Gleitschuss",
-        "description": "While sliding or aim gliding: Gain 65% ammo efficiency with Dual Pistols.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Tir Glissé Akimbo",
-        "description": "En glissant ou pendant visée planée: gagnez 65% d'Efficacité des Munitions avec des Doubles Pistolets.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Disparo Deslizante (Pistolas Duplas)",
-        "description": "Ao Deslizar ou Planar e Mirar, fornecerá 65% de Eficiência de Munição para Pistolas Duplas.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "双枪·滑射",
-        "description": "滑行或处于飞身瞄准时：使用双持手枪获得 65% 的弹药效率。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "雙槍滑溜射擊",
-        "description": "While sliding or aim gliding: Gain 65% ammo efficiency with Dual Pistols.",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Disparo Deslizante Akimbo",
-        "description": "Mientras te deslizas: Obtén 65 % de eficiencia de munición con pistolas dobles.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Akimbo Slip Shot",
-        "description": "Durante la scivolata o la planata: Ottieni il 65% efficienza munizioni con le Doppie Pistole.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Strzał Ślizgowy Akimbo",
-        "description": "65% Wydajności Amunicji Podwójnych Pistoletów w czasie ślizgu lub celowania w locie.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Ковзний Постріл Парних Пістолетів",
-        "description": "While sliding or aim gliding: Gain 65% ammo efficiency with Dual Pistols.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Akimbo Slip Shot",
+            "description": "While sliding or aim gliding: Gain 65% ammo efficiency with Dual Pistols.",
+            "wiki_link": null,
+            "icon": "items/images/en/akimbo_slip_shot.9cb48cdcc739b5306bb4e2a8b3868e72.png",
+            "thumb": "items/images/en/thumbs/akimbo_slip_shot.9cb48cdcc739b5306bb4e2a8b3868e72.128x128.png"
+        },
+        "ru": {
+            "item_name": "Парный Скользящий Выстрел",
+            "description": "Во время скольжения или управляемого полёта: даёт 65% к эффективности боеприпасов для парных пистолетов.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "아킴보 슬립 샷",
+            "description": "슬라이딩 혹은 에임 글라이딩을 하는 동안: 쌍권총 사용 시 탄약 효율을 65% 획득합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Arkana: Akimbo Gleitschuss",
+            "description": "Beim Rutschen oder Zielgleiten: Erhalte 65 % Munitionseffizienz mit Doppel-Pistolen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Tir Glissé Akimbo",
+            "description": "En glissant ou pendant visée planée: gagnez 65% d'Efficacité des Munitions avec des Doubles Pistolets.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Disparo Deslizante (Pistolas Duplas)",
+            "description": "Ao Deslizar ou Planar e Mirar, fornecerá 65% de Eficiência de Munição para Pistolas Duplas.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "双枪·滑射",
+            "description": "滑行或处于飞身瞄准时：使用双持手枪获得 65% 的弹药效率。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "雙槍滑溜射擊",
+            "description": "滑行或飛身瞄準時：雙手槍獲得 65% 彈藥效率。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Disparo Deslizante Akimbo",
+            "description": "Mientras te deslizas: Obtén 65 % de eficiencia de munición con pistolas dobles.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Akimbo Slip Shot",
+            "description": "Durante la scivolata o la planata: Ottieni il 65% efficienza munizioni con le Doppie Pistole.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Strzał Ślizgowy Akimbo",
+            "description": "65% Wydajności Amunicji Podwójnych Pistoletów w czasie ślizgu lub celowania w locie.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Ковзний Постріл Парних Пістолетів",
+            "description": "Під час ковзання чи прицілювання в повітрі: дає 65% до дієвості набоїв парних пістолетів.",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

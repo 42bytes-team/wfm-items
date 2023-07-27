@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponReloadSpeedModExpert"
     },
-    "en": {
-        "item_name": "Primed Tactical Pump",
-        "description": "+100% Reload Speed",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Тактическая Помпа Прайм",
-        "description": "+100% к скорости перезарядки",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "프라임드 택티컬 펌프",
-        "description": "+100% 재장전 속도",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Primed Taktisches Laden",
-        "description": "+100 % Nachladegeschwindigkeit",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Pompe Tactique Accrue",
-        "description": "+100% de Vitesse de Recharge",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Primed Tactical Pump",
-        "description": "+100% de Velocidade de Recarga",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "战术上膛 Prime",
-        "description": "+100% 装填速度",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "戰術上膛 Prime",
-        "description": "+100% 裝填速度",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Bombeo Táctico Prime",
-        "description": "+100% de velocidad de recarga",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Primed Tactical Pump",
-        "description": "+100% Velocità di ricarica",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Taktyczny Podajnik Prime",
-        "description": "+100% Prędkości Przeładowania",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Праймований Тактичний Подавач",
-        "description": "+100% до швидкості заряджання.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Primed Tactical Pump",
+            "description": "+100% Reload Speed",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_tactical_pump.eee08b75f81f2885d578e228448f75b2.png",
+            "thumb": "items/images/en/thumbs/primed_tactical_pump.eee08b75f81f2885d578e228448f75b2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Тактическая Помпа Прайм",
+            "description": "+100% к скорости перезарядки",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "프라임드 택티컬 펌프",
+            "description": "+100% 재장전 속도",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Primed Taktisches Laden",
+            "description": "+100 % Nachladegeschwindigkeit",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Pompe Tactique Accrue",
+            "description": "+100% de Vitesse de Recharge",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Primed Tactical Pump",
+            "description": "+100% de Velocidade de Recarga",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "战术上膛 Prime",
+            "description": "+100% 装填速度",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "戰術上膛 Prime",
+            "description": "+100% 裝填速度",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Bombeo Táctico Prime",
+            "description": "+100% de velocidad de recarga",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Primed Tactical Pump",
+            "description": "+100% Velocità di ricarica",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Taktyczny Podajnik Prime",
+            "description": "+100% Prędkości Przeładowania",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Праймований Тактичний Подавач",
+            "description": "+100% до швидкості заряджання",
+            "wiki_link": null
+        }
     },
     "rarity": "legendary",
     "max_rank": 10,

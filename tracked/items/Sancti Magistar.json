@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Syndicates/NewLoka/Melee/NLMagistar"
     },
-    "en": {
-        "item_name": "Sancti Magistar",
-        "description": "Each charged attack turns the enemy’s pain into a healing pulse that washes over allies. Also, creates resistance to Status Effects when held.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sancti_Magistar"
-    },
-    "ru": {
-        "item_name": "Санкти Магистр",
-        "description": "Каждая усиленная атака преобразует боль противника в целительные импульсы, омывающие союзников. Также дарует сопротивление эффектам статуса, когда находится в руках.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82%D0%B8_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80"
-    },
-    "ko": {
-        "item_name": "생티 마기스타",
-        "description": "차지 어택 한 번마다 적에게 가해지는 고통이 곧 아군을 씻어내는 치유의 파동이 되며, 손에 든 소유자에게 상태 이상 저항을 부여합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sancti_Magistar"
-    },
-    "de": {
-        "item_name": "Sancti Magistar",
-        "description": "Jeder aufgeladene Angriff verwandelt den Schmerz des Gegners in einen heilenden Puls, der eure Verbündeten unterstützt. Auch bietet er eine Resistenz gegen Statuseffekte, wenn er gehalten wird.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sancti_Magistar"
-    },
-    "fr": {
-        "item_name": "Magistar Sancti",
-        "description": "Chaque attaque chargée transforme la douleur des ennemis en une impulsion de soin qui guérit les alliés. Crée aussi une résistance aux Effets de Statut lorsque tenue.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Magistar_Sancti"
-    },
-    "pt": {
-        "item_name": "Magistar Sancti",
-        "description": "Cada ataque carregado transforma a dor do inimigo em um pulso de cura que envolve os aliados. Ela também fornece Resistência a efeitos de Status quando empunhada.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sancti_Magistar"
-    },
-    "zh-hans": {
-        "item_name": "圣洁·执法者",
-        "description": "（英文：SANCTI MAGISTAR）蓄力攻击将敌人的伤痛转化成波及战友的治愈脉冲。除此之外，持取时将产生对异常状态的抵抗力。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sancti_Magistar"
-    },
-    "zh-hant": {
-        "item_name": "聖潔 執法者",
-        "description": "（英文：SANCTI MAGISTAR）蓄力攻擊將敵人的傷痛轉化成波及盟友的治癒脈衝。除此之外，持取時將產生對異常狀態的抵抗力。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sancti_Magistar"
-    },
-    "es": {
-        "item_name": "Magistar Sancti",
-        "description": "Cada ataque cargado torna el dolor del enemigo en un pulso de salud que cubre a los aliados. También crea resistencia a los efectos de estado cuando es sostenida.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Magistar_Sancti"
-    },
-    "it": {
-        "item_name": "Sancti Magistar",
-        "description": "Ogni attacco caricato trasforma il dolore del nemico in un impulso che cura gli alleati. Inoltre, riduce gli Effetti subiti quando impugnata.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Sancti_Magistar"
-    },
-    "pl": {
-        "item_name": "Magistar Sancti",
-        "description": "Każde ciężkie uderzenie zamienia ból wroga w impuls, który leczy sojuszników. Ponadto trzymanie tej broni zapewnia odporność na efekty statusu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Magistar_Sancti"
-    },
-    "uk": {
-        "item_name": "Маґістар-Санкті",
-        "description": "Молот, що кожною зарядженою атакою перетворює біль ворога на цілющий сплеск, який оповиває союзників. Коли в руках, то наділяє власника стійкістю до ефектів стану.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sancti_Magistar"
+    "i18n": {
+        "en": {
+            "item_name": "Sancti Magistar",
+            "description": "Each charged attack turns the enemy’s pain into a healing pulse that washes over allies. Also, creates resistance to Status Effects when held.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sancti_Magistar",
+            "icon": "items/images/en/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.png",
+            "thumb": "items/images/en/thumbs/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Санкти Магистр",
+            "description": "Каждая усиленная атака преобразует боль противника в целительные импульсы, омывающие союзников. Также дарует сопротивление эффектам статуса, когда находится в руках.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82%D0%B8_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80"
+        },
+        "ko": {
+            "item_name": "생티 마기스타",
+            "description": "차지 어택 한 번마다 적에게 가해지는 고통이 곧 아군을 씻어내는 치유의 파동이 되며, 손에 든 소유자에게 상태 이상 저항을 부여합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sancti_Magistar"
+        },
+        "de": {
+            "item_name": "Sancti Magistar",
+            "description": "Jeder aufgeladene Angriff verwandelt den Schmerz des Gegners in einen heilenden Puls, der eure Verbündeten unterstützt. Auch bietet er eine Resistenz gegen Statuseffekte, wenn er gehalten wird.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Sancti_Magistar"
+        },
+        "fr": {
+            "item_name": "Magistar Sancti",
+            "description": "Chaque attaque chargée transforme la douleur des ennemis en une impulsion de soin qui guérit les alliés. Crée aussi une résistance aux Effets de Statut lorsque tenue.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Magistar_Sancti"
+        },
+        "pt": {
+            "item_name": "Magistar Sancti",
+            "description": "Cada ataque carregado transforma a dor do inimigo em um pulso de cura que envolve os aliados. Ela também fornece Resistência a efeitos de Status quando empunhada.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sancti_Magistar"
+        },
+        "zh-hans": {
+            "item_name": "圣洁·执法者",
+            "description": "（英文：SANCTI MAGISTAR）蓄力攻击将敌人的伤痛转化成波及战友的治愈脉冲。除此之外，持取时将产生对异常状态的抵抗力。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sancti_Magistar"
+        },
+        "zh-hant": {
+            "item_name": "聖潔 執法者",
+            "description": "（英文：SANCTI MAGISTAR）蓄力攻擊將敵人的傷痛轉化成波及盟友的治癒脈衝。除此之外，持取時將產生對異常狀態的抵抗力。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sancti_Magistar"
+        },
+        "es": {
+            "item_name": "Magistar Sancti",
+            "description": "Cada ataque cargado torna el dolor del enemigo en un pulso de salud que cubre a los aliados. También crea resistencia a los efectos de estado cuando es sostenida.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Magistar_Sancti"
+        },
+        "it": {
+            "item_name": "Sancti Magistar",
+            "description": "Ogni attacco caricato trasforma il dolore del nemico in un impulso che cura gli alleati. Inoltre, riduce gli Effetti subiti quando impugnata.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Sancti_Magistar"
+        },
+        "pl": {
+            "item_name": "Magistar Sancti",
+            "description": "Każde ciężkie uderzenie zamienia ból wroga w impuls, który leczy sojuszników. Ponadto trzymanie tej broni zapewnia odporność na efekty statusu.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Magistar_Sancti"
+        },
+        "uk": {
+            "item_name": "Маґістар-Санкті",
+            "description": "Молот, що кожною зарядженою атакою перетворює біль ворога на цілющий сплеск, який оповиває союзників. Коли в руках, то наділяє власника стійкістю до ефектів стану.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sancti_Magistar"
+        }
     },
     "mastery_level": 8,
     "trading_tax": 2000

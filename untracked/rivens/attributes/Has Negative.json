@@ -4,8 +4,8 @@
     "group": "top",
     "prefix": "",
     "suffix": "",
-    "icon": "riven_attribute/images/has.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "riven_attribute/images/thumbs/has.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
+    "icon": "riven_attribute/unknown.png",
+    "thumb": "riven_attribute/unknown.thumb.png",
     "positive_is_negative": false,
     "negative_only": true,
     "exclusive_to": null,
@@ -14,40 +14,42 @@
     "game_ref": {
         "uniq_name": "HasNegative"
     },
-    "en": {
-        "effect": "Has Negative"
-    },
-    "ru": {
-        "effect": "Имеется (любая)"
-    },
-    "ko": {
-        "effect": "부정적인 옵션 있음"
-    },
-    "de": {
-        "effect": "Hat negatives Attribut"
-    },
-    "fr": {
-        "effect": "Has Negative"
-    },
-    "pt": {
-        "effect": "Has Negative"
-    },
-    "zh-hans": {
-        "effect": "带有负面词条"
-    },
-    "zh-hant": {
-        "effect": "帶有負面詞條"
-    },
-    "es": {
-        "effect": "Has Negative"
-    },
-    "it": {
-        "effect": "Has Negative"
-    },
-    "pl": {
-        "effect": "Has Negative"
-    },
-    "uk": {
-        "effect": "Присутні"
+    "i18n": {
+        "en": {
+            "effect": "Has Negative"
+        },
+        "ru": {
+            "effect": "Имеется (любая)"
+        },
+        "ko": {
+            "effect": "부정적인 옵션 있음"
+        },
+        "de": {
+            "effect": "Hat negatives Attribut"
+        },
+        "fr": {
+            "effect": "Has Negative"
+        },
+        "pt": {
+            "effect": "Has Negative"
+        },
+        "zh-hans": {
+            "effect": "带有负面词条"
+        },
+        "zh-hant": {
+            "effect": "帶有負面詞條"
+        },
+        "es": {
+            "effect": "Has Negative"
+        },
+        "it": {
+            "effect": "Has Negative"
+        },
+        "pl": {
+            "effect": "Has Negative"
+        },
+        "uk": {
+            "effect": "Присутні"
+        }
     }
 }

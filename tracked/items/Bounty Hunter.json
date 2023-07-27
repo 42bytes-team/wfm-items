@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/MarkTargetShotgunMod"
     },
-    "en": {
-        "item_name": "Bounty Hunter",
-        "description": "On Hit: Reveals target on Minimap for +6s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bounty_Hunter"
-    },
-    "ru": {
-        "item_name": "Охотник За Головами",
-        "description": "При попадании: Цель отображается на карте в течение +6с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8",
-        "icon": "items/images/ru/bounty_hunter.2c41f719644b56c2a5ac5dd8e888a42c.png",
-        "thumb": "items/images/ru/thumbs/bounty_hunter.2c41f719644b56c2a5ac5dd8e888a42c.128x128.png"
-    },
-    "ko": {
-        "item_name": "바운티 헌터",
-        "description": "명중 시: 대상을 미니맵에 +6초동안 표시",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bounty_Hunter"
-    },
-    "de": {
-        "item_name": "Kopfgeldjäger",
-        "description": "Bei Treffer: Enthüllt Ziel auf der Minikarte für +6 s.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Kopfgeldj%C3%A4ger"
-    },
-    "fr": {
-        "item_name": "Chasseur De Prime",
-        "description": "Sur Coup: Affiche la cible sur la mini-carte pendant +6sec.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter"
-    },
-    "pt": {
-        "item_name": "Bounty Hunter",
-        "description": "No acerto: Revelará alvos no Minimapa por +6s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter"
-    },
-    "zh-hans": {
-        "item_name": "赏金猎人",
-        "description": "击中后： 在小地图中揭示目标 +6 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bounty_Hunter"
-    },
-    "zh-hant": {
-        "item_name": "賞金獵人",
-        "description": "擊中後： 在小地圖中揭示目標 +6 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bounty_Hunter"
-    },
-    "es": {
-        "item_name": "Cazarrecompensas",
-        "description": "Al golpear: Revela al objetivo en el minimapa por +6s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cazarrecompensas"
-    },
-    "it": {
-        "item_name": "Bounty Hunter",
-        "description": "Quando colpisce: Rivela bersagli sulla Minimappa per +6s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter"
-    },
-    "pl": {
-        "item_name": "Łowca Nagród",
-        "description": "Przy Trafieniu: Ujawnia cel na Minimapie na +6s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter"
-    },
-    "uk": {
-        "item_name": "Мисливець За Головами",
-        "description": "У разі влучання: Показує ціль на мінімапі впродовж +6 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bounty_Hunter"
+    "i18n": {
+        "en": {
+            "item_name": "Bounty Hunter",
+            "description": "On Hit: Reveals target on Minimap for +6s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bounty_Hunter",
+            "icon": "items/images/en/bounty_hunter.748fa255fcfa70d0344501250c5e01e2.png",
+            "thumb": "items/images/en/thumbs/bounty_hunter.748fa255fcfa70d0344501250c5e01e2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Охотник За Головами",
+            "description": "При попадании: Цель отображается на карте в течение +6с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8",
+            "icon": "items/images/ru/bounty_hunter.2c41f719644b56c2a5ac5dd8e888a42c.png",
+            "thumb": "items/images/ru/thumbs/bounty_hunter.2c41f719644b56c2a5ac5dd8e888a42c.128x128.png"
+        },
+        "ko": {
+            "item_name": "바운티 헌터",
+            "description": "명중 시: 대상을 미니맵에 +6초동안 표시",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bounty_Hunter"
+        },
+        "de": {
+            "item_name": "Kopfgeldjäger",
+            "description": "Bei Treffer: Enthüllt Ziel auf der Minikarte für +6 s.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Kopfgeldj%C3%A4ger"
+        },
+        "fr": {
+            "item_name": "Chasseur De Prime",
+            "description": "Sur Coup: Affiche la cible sur la mini-carte pendant +6sec.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter"
+        },
+        "pt": {
+            "item_name": "Bounty Hunter",
+            "description": "No acerto: Revelará alvos no Minimapa por +6s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter"
+        },
+        "zh-hans": {
+            "item_name": "赏金猎人",
+            "description": "击中后： 在小地图中揭示目标 +6 秒。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bounty_Hunter"
+        },
+        "zh-hant": {
+            "item_name": "賞金獵人",
+            "description": "擊中後： 在小地圖中揭示目標 +6 秒。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bounty_Hunter"
+        },
+        "es": {
+            "item_name": "Cazarrecompensas",
+            "description": "Al golpear: Revela al objetivo en el minimapa por +6s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Cazarrecompensas"
+        },
+        "it": {
+            "item_name": "Bounty Hunter",
+            "description": "Quando colpisce: Rivela bersagli sulla Minimappa per +6s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter"
+        },
+        "pl": {
+            "item_name": "Łowca Nagród",
+            "description": "Przy Trafieniu: Ujawnia cel na Minimapie na +6s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Bounty_Hunter"
+        },
+        "uk": {
+            "item_name": "Мисливець За Головами",
+            "description": "У разі влучання: Показує ціль на мінімапі впродовж +6 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bounty_Hunter"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

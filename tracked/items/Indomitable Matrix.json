@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiSiegeMatrixAura"
     },
-    "en": {
-        "item_name": "Indomitable Matrix",
-        "description": "-18% Breach Chance\n+22% Shield Regen during Breach\n+30% Armor when below 53% Hull",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Матрица Неукротимости",
-        "description": "-18% к вероятности пробоя\n+22% к восстановлению щитов во время пробоя\n+30% к броне, когда целостность фюзеляжа ниже 53%",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "인도미터블 매트릭스",
-        "description": "-18% 선체 손상 확률\n선체 손상 상태 도중 +22% 실드 재생\n선체 체력이 53% 이하일 시 +30% 방어력",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Unbeugsame Matrix",
-        "description": "-18 % Durchbruchchance\n+22 % Schildregeneration während eines Durchbruchs\n+30 % Rüstung, wenn Hülle bei unter 53 % liegt",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Matrice Indomptable",
-        "description": "-18% de Chances de Brèche\n+22% de Régénération du Bouclier en cas de Brèche\n+30% de Blindage quand la Coque est sous les 53%",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Matriz Indomável",
-        "description": "-18% de Chance de Rupturas\n+22% de Regeneração de Escudos enquanto uma Ruptura estiver ativa\n+30% de Armadura quando a Fuselagem estiver abaixo de 53%",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "不屈矩阵",
-        "description": "-18% 舰体缺口发生几率\n+22% 舰体产生缺口时的护盾再生速度\n当舰体低于 53% 时，+30% 护甲",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "堅毅戰陣",
-        "description": "-18% 船身破損機率\n+22% 船身破損期間的護盾恢復\n船身完整性低於 53% 時，增加 30% 護甲",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Matriz Indomable",
-        "description": "-18 % de probabilidad de brecha\n+22 % de regeneración de escudo durante una brecha\n+30 % de armadura cuando el casco está por debajo del 53 %",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Indomitable Matrix",
-        "description": "-18% Probabilità di Breccia\n+22% Rigenerazione dello Scudo durante una Breccia\n+30% Armatura quando lo Scafo è inferiore al 53%",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Matryca Niezłomności",
-        "description": "-18% Szansy na Wyrwę\n+22% Odnowienia Osłon podczas obecnej Wyrwy\n+30% Pancerza, gdy poniżej 53% Kadłuba",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Матриця Незламності",
-        "description": "-18% до ймовірності виникнення пробоїни.\n+22% до відновлення щитів під час пробоїни.\n+30% до захисту, коли цілісність корпуса менша ніж 53%.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Indomitable Matrix",
+            "description": "-18% Breach Chance\n+22% Shield Regen during Breach\n+30% Armor when below 53% Hull",
+            "wiki_link": null,
+            "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
+            "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
+        },
+        "ru": {
+            "item_name": "Матрица Неукротимости",
+            "description": "-18% к вероятности пробоя\n+22% к восстановлению щитов во время пробоя\n+30% к броне, когда целостность фюзеляжа ниже 53%",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "인도미터블 매트릭스",
+            "description": "-18% 선체 손상 확률\n선체 손상 상태 도중 +22% 실드 재생\n선체 체력이 53% 이하일 시 +30% 방어력",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Unbeugsame Matrix",
+            "description": "-18 % Durchbruchchance\n+22 % Schildregeneration während eines Durchbruchs\n+30 % Rüstung, wenn Hülle bei unter 53 % liegt",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Matrice Indomptable",
+            "description": "-18% de Chances de Brèche\n+22% de Régénération du Bouclier en cas de Brèche\n+30% de Blindage quand la Coque est sous les 53%",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Matriz Indomável",
+            "description": "-18% de Chance de Rupturas\n+22% de Regeneração de Escudos enquanto uma Ruptura estiver ativa\n+30% de Armadura quando a Fuselagem estiver abaixo de 53%",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "不屈矩阵",
+            "description": "-18% 舰体缺口发生几率\n+22% 舰体产生缺口时的护盾再生速度\n当舰体低于 53% 时，+30% 护甲",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "堅毅戰陣",
+            "description": "-18% 船身破損機率\n+22% 船身破損期間的護盾恢復\n船身完整性低於 53% 時，增加 30% 護甲",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Matriz Indomable",
+            "description": "-18 % de probabilidad de brecha\n+22 % de regeneración de escudo durante una brecha\n+30 % de armadura cuando el casco está por debajo del 53 %",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Indomitable Matrix",
+            "description": "-18% Probabilità di Breccia\n+22% Rigenerazione dello Scudo durante una Breccia\n+30% Armatura quando lo Scafo è inferiore al 53%",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Matryca Niezłomności",
+            "description": "-18% Szansy na Wyrwę\n+22% Odnowienia Osłon podczas obecnej Wyrwy\n+30% Pancerza, gdy poniżej 53% Kadłuba",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Матриця Незламності",
+            "description": "-18% до ймовірності виникнення пробоїни.\n+22% до відновлення щитів під час пробоїни.\n+30% до захисту, коли цілісність корпуса менша ніж 53%.",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideEfficiencyMod"
     },
-    "en": {
-        "item_name": "Necramech Friction",
-        "description": "+60% Slide Efficiency",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
-    },
-    "ru": {
-        "item_name": "Трение Некрамеха",
-        "description": "+60% к эффективности скольжения",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
-    },
-    "ko": {
-        "item_name": "네크라메크 프릭션",
-        "description": "+60% 슬라이드 효율",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
-    },
-    "de": {
-        "item_name": "Necramech: Reibung",
-        "description": "+60 % Rutscheffizienz",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
-    },
-    "fr": {
-        "item_name": "Friction Du Necramech",
-        "description": "+60% d'Efficacité en Glissant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Friction_du_Necramech"
-    },
-    "pt": {
-        "item_name": "Necramech Friction",
-        "description": "+60% de Eficiência ao Deslizar",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
-    },
-    "zh-hans": {
-        "item_name": "殁世机甲 摩擦",
-        "description": "+60% 滑行效率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Friction"
-    },
-    "zh-hant": {
-        "item_name": "亡骸機甲 摩擦力",
-        "description": "+60% 滑行效率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Friction"
-    },
-    "es": {
-        "item_name": "Fricción Necramech",
-        "description": "+60% eficiencia de deslizar",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Redirecci%C3%B3n_Necramech"
-    },
-    "it": {
-        "item_name": "Necramech Friction",
-        "description": "+60% Efficienza Scivolata",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
-    },
-    "pl": {
-        "item_name": "Nekramechowe Tarcie",
-        "description": "+60% Wydajność Ślizgu",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
-    },
-    "uk": {
-        "item_name": "Тертя Некрамеха",
-        "description": "+60% до ощадливості ковзання.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
+    "i18n": {
+        "en": {
+            "item_name": "Necramech Friction",
+            "description": "+60% Slide Efficiency",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction",
+            "icon": "items/images/en/necramech_friction.fd671126fd4051e8e3addc13ae56d1f0.png",
+            "thumb": "items/images/en/thumbs/necramech_friction.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Трение Некрамеха",
+            "description": "+60% к эффективности скольжения",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
+        },
+        "ko": {
+            "item_name": "네크라메크 프릭션",
+            "description": "+60% 슬라이드 효율",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
+        },
+        "de": {
+            "item_name": "Necramech: Reibung",
+            "description": "+60 % Rutscheffizienz",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
+        },
+        "fr": {
+            "item_name": "Friction Du Necramech",
+            "description": "+60% d'Efficacité en Glissant",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Friction_du_Necramech"
+        },
+        "pt": {
+            "item_name": "Necramech Friction",
+            "description": "+60% de Eficiência ao Deslizar",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
+        },
+        "zh-hans": {
+            "item_name": "殁世机甲 摩擦",
+            "description": "+60% 滑行效率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Friction"
+        },
+        "zh-hant": {
+            "item_name": "亡骸機甲 摩擦力",
+            "description": "+60% 滑行效率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Friction"
+        },
+        "es": {
+            "item_name": "Fricción Necramech",
+            "description": "+60% eficiencia de deslizar",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Redirecci%C3%B3n_Necramech"
+        },
+        "it": {
+            "item_name": "Necramech Friction",
+            "description": "+60% Efficienza Scivolata",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
+        },
+        "pl": {
+            "item_name": "Nekramechowe Tarcie",
+            "description": "+60% Wydajność Ślizgu",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
+        },
+        "uk": {
+            "item_name": "Тертя Некрамеха",
+            "description": "+60% до ощадливості ковзання",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Friction"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

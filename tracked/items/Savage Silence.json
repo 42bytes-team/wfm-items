@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Banshee/SilenceAugmentCard"
     },
-    "en": {
-        "item_name": "Savage Silence",
-        "description": "Silence Augment: Finisher Damage is increased by 300% while Silence is active.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Savage_Silence"
-    },
-    "ru": {
-        "item_name": "Дикая Тишина",
-        "description": "Улучшение способности «Тишина»: урон добивающих приемов увеличен на 300%, пока «Тишина» активна.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F_%D0%A2%D0%B8%D1%88%D0%B8%D0%BD%D0%B0",
-        "icon": "items/images/ru/savage_silence.1337cb9e463392001e3327a969137d39.png",
-        "thumb": "items/images/ru/thumbs/savage_silence.1337cb9e463392001e3327a969137d39.128x128.png"
-    },
-    "ko": {
-        "item_name": "새비지 사일런스",
-        "description": "사일런스 개조: 사일런스가 발동 중일 경우 마무리 일격의 피해가 300% 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Savage_Silence"
-    },
-    "de": {
-        "item_name": "Wilde Stille",
-        "description": "Stille Augment: Todesstoß-Schaden wird um 300 % erhöht, während Stille aktiv ist.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Wilde_Stille"
-    },
-    "fr": {
-        "item_name": "Silence Sauvage",
-        "description": "Augmentation de Silence: Les Dégâts de Coup de Grâce sont augmentés de 300% lorsque Silence est actif.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Silence_Sauvage"
-    },
-    "pt": {
-        "item_name": "Savage Silence",
-        "description": "Ampliação Silence: o Dano da Finalização será aumentado em 300% enquanto a habilidade estiver ativa.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Savage_Silence"
-    },
-    "zh-hans": {
-        "item_name": "残酷无息",
-        "description": "静音强化：静音开启时，处决伤害提升 300%。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Savage_Silence"
-    },
-    "zh-hant": {
-        "item_name": "殘酷無息",
-        "description": "靜音強化：靜音開啟時，會提升 300% 處決傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Savage_Silence"
-    },
-    "es": {
-        "item_name": "Silencio Violento",
-        "description": "Aumento de Silencio: el daño de remate aumenta en un 300% cuando Silencio está activado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Silencio_violento"
-    },
-    "it": {
-        "item_name": "Savage Silence",
-        "description": "Potenziamento Silence: Aumenta del 300% il Danno Esecuzione mentre Silence è attiva.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Savage_Silence"
-    },
-    "pl": {
-        "item_name": "Grobowa Cisza",
-        "description": "Wzmocnienie Ciszy: Obrażenia ataków dobijających są zwiększone o 300%, gdy Cisza jest aktywna.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Grobowa_Cisza"
-    },
-    "uk": {
-        "item_name": "Дика Тиша",
-        "description": "Розширення здібності «Тиша»: під час дії здібності шкода від добивання паразоном збільшується на 300%.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Savage_Silence"
+    "i18n": {
+        "en": {
+            "item_name": "Savage Silence",
+            "description": "Silence Augment: Finisher Damage is increased by 300% while Silence is active.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Savage_Silence",
+            "icon": "items/images/en/savage_silence.ac9dfbbdd2b49fac9fe8a9fadd681463.png",
+            "thumb": "items/images/en/thumbs/savage_silence.ac9dfbbdd2b49fac9fe8a9fadd681463.128x128.png"
+        },
+        "ru": {
+            "item_name": "Дикая Тишина",
+            "description": "Улучшение способности «Тишина»: урон добивающих приемов увеличен на 300%, пока «Тишина» активна.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F_%D0%A2%D0%B8%D1%88%D0%B8%D0%BD%D0%B0",
+            "icon": "items/images/ru/savage_silence.1337cb9e463392001e3327a969137d39.png",
+            "thumb": "items/images/ru/thumbs/savage_silence.1337cb9e463392001e3327a969137d39.128x128.png"
+        },
+        "ko": {
+            "item_name": "새비지 사일런스",
+            "description": "사일런스 개조: 사일런스가 발동 중일 경우 마무리 일격의 피해가 300% 증가합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Savage_Silence"
+        },
+        "de": {
+            "item_name": "Wilde Stille",
+            "description": "Stille Augment: Todesstoß-Schaden wird um 300 % erhöht, während Stille aktiv ist.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Wilde_Stille"
+        },
+        "fr": {
+            "item_name": "Silence Sauvage",
+            "description": "Augmentation de Silence: Les Dégâts de Coup de Grâce sont augmentés de 300% lorsque Silence est actif.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Silence_Sauvage"
+        },
+        "pt": {
+            "item_name": "Savage Silence",
+            "description": "Ampliação Silence: o Dano da Finalização será aumentado em 300% enquanto a habilidade estiver ativa.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Savage_Silence"
+        },
+        "zh-hans": {
+            "item_name": "残酷无息",
+            "description": "静音强化：静音开启时，处决伤害提升 300%。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Savage_Silence"
+        },
+        "zh-hant": {
+            "item_name": "殘酷無息",
+            "description": "靜音強化：靜音開啟時，會提升 300% 處決傷害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Savage_Silence"
+        },
+        "es": {
+            "item_name": "Silencio Violento",
+            "description": "Aumento de Silencio: el daño de remate aumenta en un 300% cuando Silencio está activado.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Silencio_violento"
+        },
+        "it": {
+            "item_name": "Savage Silence",
+            "description": "Potenziamento Silence: Aumenta del 300% il Danno Esecuzione mentre Silence è attiva.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Savage_Silence"
+        },
+        "pl": {
+            "item_name": "Grobowa Cisza",
+            "description": "Wzmocnienie Ciszy: Obrażenia ataków dobijających są zwiększone o 300%, gdy Cisza jest aktywna.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Grobowa_Cisza"
+        },
+        "uk": {
+            "item_name": "Дика Тиша",
+            "description": "Розширення здібності «Тиша»: під час дії здібності шкода від добивання паразоном збільшується на 300%.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Savage_Silence"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

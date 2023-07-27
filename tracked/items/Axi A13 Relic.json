@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeB"
     },
-    "en": {
-        "item_name": "Axi A13 Relic",
-        "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Реликвия Акси A13",
-        "description": "Артефакт, таящий секреты Орокин. Может быть открыт только с помощью энергии Бездны.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "액시 A13 성유물",
-        "description": "오로킨의 비밀을 가지고 있는 유물. 보이드의 힘으로만 열릴 수 있습니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Axi-Relikt: A13",
-        "description": "Ein Artefakt, das Orokin Geheimnisse birgt. Es kann nur durch die Macht des Void geöffnet werden.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Relique Axi A13",
-        "description": "Un artefact contenant des secrets Orokins. Il ne peut être ouvert qu'avec la puissance du Néant.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Relíquia Axi A13",
-        "description": "Um artefato que contém segredos dos Orokins. Ele só pode ser aberto pelo poder do Void.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "后纪 A13 遗物",
-        "description": "一个包含着 Orokin 秘密的神器。它只能通过虚空之力来打开。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "後紀 A13 遺物",
-        "description": "一個包含著 Orokin 秘密的神器。它只能透過虛空之力來開啟。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Reliquia Axi A13",
-        "description": "Un artefacto que contiene secretos orokin. Solo puede ser abierto a través del poder del Vacío.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Reliquia Axi A13",
-        "description": "Un artefatto contenente segreti Orokin. Può essere aperto solamente tramite l'energia del Void.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Relikt Axi A13",
-        "description": "Artefakt zawierający sekrety Orokin. Tylko wykorzystując energię Pustki, można go otworzyć.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Реліквія Аксі A13",
-        "description": "Артефакт, що приховує секрети орокінів. Можна відкрити лише енергією Порожнечі.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Axi A13 Relic",
+            "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+            "wiki_link": null,
+            "icon": "items/images/en/axi_a13_relic.a74c06f0cae21bdb8933685c867385f8.png",
+            "thumb": "items/images/en/thumbs/axi_a13_relic.a74c06f0cae21bdb8933685c867385f8.128x128.png"
+        },
+        "ru": {
+            "item_name": "Реликвия Акси A13",
+            "description": "Артефакт, таящий секреты Орокин. Может быть открыт только с помощью энергии Бездны.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "액시 A13 성유물",
+            "description": "오로킨의 비밀을 가지고 있는 유물. 보이드의 힘으로만 열릴 수 있습니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Axi-Relikt: A13",
+            "description": "Ein Artefakt, das Orokin Geheimnisse birgt. Es kann nur durch die Macht des Void geöffnet werden.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Relique Axi A13",
+            "description": "Un artefact contenant des secrets Orokins. Il ne peut être ouvert qu'avec la puissance du Néant.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Relíquia Axi A13",
+            "description": "Um artefato que contém segredos dos Orokins. Ele só pode ser aberto pelo poder do Void.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "后纪 A13 遗物",
+            "description": "一个包含着 Orokin 秘密的神器。它只能通过虚空之力来打开。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "後紀 A13 遺物",
+            "description": "一個包含著 Orokin 秘密的神器。它只能透過虛空之力來開啟。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Reliquia Axi A13",
+            "description": "Un artefacto que contiene secretos orokin. Solo puede ser abierto a través del poder del Vacío.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Reliquia Axi A13",
+            "description": "Un artefatto contenente segreti Orokin. Può essere aperto solamente tramite l'energia del Void.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Relikt Axi A13",
+            "description": "Artefakt zawierający sekrety Orokin. Tylko wykorzystując energię Pustki, można go otworzyć.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Реліквія Аксі A13",
+            "description": "Артефакт, що приховує секрети орокінів. Можна відкрити лише енергією Порожнечі.",
+            "wiki_link": null
+        }
     },
     "subtypes": [
         "intact",

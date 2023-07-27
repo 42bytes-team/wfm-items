@@ -6,40 +6,42 @@
     "url_name": "courier",
     "icon": "npc/images/courier.0d39d2a885eac433fa99f3a845cd6265.png",
     "thumb": "npc/images/thumbs/courier.0d39d2a885eac433fa99f3a845cd6265.128x128.png",
-    "en": {
-        "name": "Courier"
-    },
-    "ru": {
-        "name": "Courier"
-    },
-    "ko": {
-        "name": "Courier"
-    },
-    "de": {
-        "name": "Courier"
-    },
-    "fr": {
-        "name": "Courier"
-    },
-    "pt": {
-        "name": "Courier"
-    },
-    "zh-hans": {
-        "name": "运输船"
-    },
-    "zh-hant": {
-        "name": "通信船"
-    },
-    "es": {
-        "name": "Courier"
-    },
-    "it": {
-        "name": "Courier"
-    },
-    "pl": {
-        "name": "Courier"
-    },
-    "uk": {
-        "name": "Courier"
+    "i18n": {
+        "en": {
+            "name": "Courier"
+        },
+        "ru": {
+            "name": "Courier"
+        },
+        "ko": {
+            "name": "Courier"
+        },
+        "de": {
+            "name": "Courier"
+        },
+        "fr": {
+            "name": "Courier"
+        },
+        "pt": {
+            "name": "Courier"
+        },
+        "zh-hans": {
+            "name": "运输船"
+        },
+        "zh-hant": {
+            "name": "通信船"
+        },
+        "es": {
+            "name": "Courier"
+        },
+        "it": {
+            "name": "Courier"
+        },
+        "pl": {
+            "name": "Courier"
+        },
+        "uk": {
+            "name": "Courier"
+        }
     }
 }

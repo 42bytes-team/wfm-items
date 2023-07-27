@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree"
     },
-    "en": {
-        "item_name": "Crossing Snakes",
-        "description": "Multi-angle strikes and deadly thrust attacks.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Crossing_Snakes"
-    },
-    "ru": {
-        "item_name": "Перекрещенные Змеи",
-        "description": "Удары с разных углов и смертельные выпады.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%97%D0%BC%D0%B5%D0%B8",
-        "icon": "items/images/ru/crossing_snakes.9ad484202f980ce6eec048dacc067a11.png",
-        "thumb": "items/images/ru/thumbs/crossing_snakes.9ad484202f980ce6eec048dacc067a11.128x128.png"
-    },
-    "ko": {
-        "item_name": "크로싱 스네이크",
-        "description": "다양한 각도로 찔러 치명적인 상처를 입히는 공격입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Crossing_Snakes"
-    },
-    "de": {
-        "item_name": "Gekreuzte Schlangen",
-        "description": "Mehrwinklige Schläge und tödliche Stoßangriffe.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gekreuzte_Schlangen"
-    },
-    "fr": {
-        "item_name": "Serpents Croisés",
-        "description": "Frappes à angles multiples et estocades mortelles.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Serpents_Crois%C3%A9s"
-    },
-    "pt": {
-        "item_name": "Crossing Snakes",
-        "description": "Golpes de vários ângulos com empurrões mortais.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Crossing_Snakes"
-    },
-    "zh-hans": {
-        "item_name": "双蛇牙突",
-        "description": "多重角度攻击和致命刺击。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Crossing_Snakes"
-    },
-    "zh-hant": {
-        "item_name": "雙蛇牙突",
-        "description": "多重角度攻擊和致命刺擊.",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Crossing_Snakes"
-    },
-    "es": {
-        "item_name": "Serpientes Cruzadas",
-        "description": "Ataques desde múltiples ángulos con estocadas mortales.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Serpientes_cruzadas"
-    },
-    "it": {
-        "item_name": "Crossing Snakes",
-        "description": "Colpi da più angolazioni e letali affondi.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Crossing_Snakes"
-    },
-    "pl": {
-        "item_name": "Skrzyżowane Węże",
-        "description": "Ataki wyprowadzane pod wieloma kątami i zabójcze pchnięcia.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Skrzy%C5%BCowane_W%C4%99%C5%BCe"
-    },
-    "uk": {
-        "item_name": "Схрещенні Змії",
-        "description": "Множинні скісні атаки зі смертоносними підсиленими ударами.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Crossing_Snakes"
+    "i18n": {
+        "en": {
+            "item_name": "Crossing Snakes",
+            "description": "Multi-angle strikes and deadly thrust attacks.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Crossing_Snakes",
+            "icon": "items/images/en/crossing_snakes.cfbb8e6095d5810c5e11a994d31c8883.png",
+            "thumb": "items/images/en/thumbs/crossing_snakes.cfbb8e6095d5810c5e11a994d31c8883.128x128.png"
+        },
+        "ru": {
+            "item_name": "Перекрещенные Змеи",
+            "description": "Удары с разных углов и смертельные выпады.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%97%D0%BC%D0%B5%D0%B8",
+            "icon": "items/images/ru/crossing_snakes.9ad484202f980ce6eec048dacc067a11.png",
+            "thumb": "items/images/ru/thumbs/crossing_snakes.9ad484202f980ce6eec048dacc067a11.128x128.png"
+        },
+        "ko": {
+            "item_name": "크로싱 스네이크",
+            "description": "다양한 각도로 찔러 치명적인 상처를 입히는 공격입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Crossing_Snakes"
+        },
+        "de": {
+            "item_name": "Gekreuzte Schlangen",
+            "description": "Mehrwinklige Schläge und tödliche Stoßangriffe.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gekreuzte_Schlangen"
+        },
+        "fr": {
+            "item_name": "Serpents Croisés",
+            "description": "Frappes à angles multiples et estocades mortelles.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Serpents_Crois%C3%A9s"
+        },
+        "pt": {
+            "item_name": "Crossing Snakes",
+            "description": "Golpes de vários ângulos com empurrões mortais.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Crossing_Snakes"
+        },
+        "zh-hans": {
+            "item_name": "双蛇牙突",
+            "description": "多重角度攻击和致命刺击。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Crossing_Snakes"
+        },
+        "zh-hant": {
+            "item_name": "雙蛇牙突",
+            "description": "多重角度攻擊和致命刺擊.",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Crossing_Snakes"
+        },
+        "es": {
+            "item_name": "Serpientes Cruzadas",
+            "description": "Ataques desde múltiples ángulos con estocadas mortales.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Serpientes_cruzadas"
+        },
+        "it": {
+            "item_name": "Crossing Snakes",
+            "description": "Colpi da più angolazioni e letali affondi.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Crossing_Snakes"
+        },
+        "pl": {
+            "item_name": "Skrzyżowane Węże",
+            "description": "Ataki wyprowadzane pod wieloma kątami i zabójcze pchnięcia.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Skrzy%C5%BCowane_W%C4%99%C5%BCe"
+        },
+        "uk": {
+            "item_name": "Схрещенні Змії",
+            "description": "Множинні скісні атаки зі смертоносними підсиленими ударами.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Crossing_Snakes"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/WeaponSlashDamageMod"
     },
-    "en": {
-        "item_name": "Razor Shot",
-        "description": "+60% Slash",
-        "wiki_link": "https://warframe.fandom.com/wiki/Razor_Shot"
-    },
-    "ru": {
-        "item_name": "Выстрел Лезвием",
-        "description": "+60% разрезающего урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_%D0%9B%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5%D0%BC",
-        "icon": "items/images/ru/razor_shot.a8d66b00b24d13e518dd722b38f26e18.png",
-        "thumb": "items/images/ru/thumbs/razor_shot.a8d66b00b24d13e518dd722b38f26e18.128x128.png"
-    },
-    "ko": {
-        "item_name": "레이저 샷",
-        "description": "+60% 베기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Razor_Shot"
-    },
-    "de": {
-        "item_name": "Klingenschuss",
-        "description": "+60 % Schnitt",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Klingenschuss"
-    },
-    "fr": {
-        "item_name": "Tir De Rasoir",
-        "description": "+60% Tranchant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tir_de_Rasoir"
-    },
-    "pt": {
-        "item_name": "Razor Shot",
-        "description": "+60% de Cortante",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Razor_Shot"
-    },
-    "zh-hans": {
-        "item_name": "剃刀射击",
-        "description": "+60% 切割伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Razor_Shot"
-    },
-    "zh-hant": {
-        "item_name": "剃刀射擊",
-        "description": "+60% 切割傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Razor_Shot"
-    },
-    "es": {
-        "item_name": "Disparo Rasurador",
-        "description": "+60% de cortante",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_rasurador"
-    },
-    "it": {
-        "item_name": "Razor Shot",
-        "description": "+60% Taglio",
-        "wiki_link": "http://warframe.wikia.com/wiki/Razor_Shot"
-    },
-    "pl": {
-        "item_name": "Tnący Strzał",
-        "description": "+60% Obrażeń Tnących",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pewny_Strza%C5%82"
-    },
-    "uk": {
-        "item_name": "Лезостріл",
-        "description": "+60% до різальної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Razor_Shot"
+    "i18n": {
+        "en": {
+            "item_name": "Razor Shot",
+            "description": "+90% Slash",
+            "wiki_link": "https://warframe.fandom.com/wiki/Razor_Shot",
+            "icon": "items/images/en/razor_shot.d8e458d15e2db1b17648dfe00019a062.png",
+            "thumb": "items/images/en/thumbs/razor_shot.d8e458d15e2db1b17648dfe00019a062.128x128.png"
+        },
+        "ru": {
+            "item_name": "Выстрел Лезвием",
+            "description": "+90% разрезающего урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_%D0%9B%D0%B5%D0%B7%D0%B2%D0%B8%D0%B5%D0%BC",
+            "icon": "items/images/ru/razor_shot.a8d66b00b24d13e518dd722b38f26e18.png",
+            "thumb": "items/images/ru/thumbs/razor_shot.a8d66b00b24d13e518dd722b38f26e18.128x128.png"
+        },
+        "ko": {
+            "item_name": "레이저 샷",
+            "description": "+90% 베기",
+            "wiki_link": "https://warframe.fandom.com/wiki/Razor_Shot"
+        },
+        "de": {
+            "item_name": "Klingenschuss",
+            "description": "+90 % Schnitt",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Klingenschuss"
+        },
+        "fr": {
+            "item_name": "Tir De Rasoir",
+            "description": "+90% Tranchant",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Tir_de_Rasoir"
+        },
+        "pt": {
+            "item_name": "Razor Shot",
+            "description": "+90% de Cortante",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Razor_Shot"
+        },
+        "zh-hans": {
+            "item_name": "剃刀射击",
+            "description": "+90% 切割伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Razor_Shot"
+        },
+        "zh-hant": {
+            "item_name": "剃刀射擊",
+            "description": "+90% 切割傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Razor_Shot"
+        },
+        "es": {
+            "item_name": "Disparo Rasurador",
+            "description": "+90% de cortante",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Disparo_rasurador"
+        },
+        "it": {
+            "item_name": "Razor Shot",
+            "description": "+90% Taglio",
+            "wiki_link": "http://warframe.wikia.com/wiki/Razor_Shot"
+        },
+        "pl": {
+            "item_name": "Tnący Strzał",
+            "description": "+90% Obrażeń Tnących",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Pewny_Strza%C5%82"
+        },
+        "uk": {
+            "item_name": "Лезостріл",
+            "description": "+90% до різальної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Razor_Shot"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

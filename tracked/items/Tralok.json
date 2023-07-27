@@ -16,65 +16,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem"
     },
-    "en": {
-        "item_name": "Tralok",
-        "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
-    },
-    "ru": {
-        "item_name": "Тралок",
-        "description": "Мощная, хищная рыба, чьи глаза способны видеть даже в самых темных местах.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B0%D0%BB%D0%BE%D0%BA"
-    },
-    "ko": {
-        "item_name": "트랄록",
-        "description": "아주 어두운 그림자도 꿰뚫어볼 수 있는 눈을 가진 강한 포식성 물고기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
-    },
-    "de": {
-        "item_name": "Tralok",
-        "description": "Ein starker Raubfisch mit Augen, die durch die dunkelsten Schatten dringen können.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Tralok"
-    },
-    "fr": {
-        "item_name": "Tralok",
-        "description": "Un poisson prédateur costaud ayant des yeux pouvant percer les ombres les plus sombres.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
-    },
-    "pt": {
-        "item_name": "Tralok",
-        "description": "Peixe forte e predatório com olhos que podem perfurar as sombras mais sombrias.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
-    },
-    "zh-hans": {
-        "item_name": "塔洛",
-        "description": "强壮的捕食者，视力优异，足以看透最暗的阴影。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tralok"
-    },
-    "zh-hant": {
-        "item_name": "塔洛",
-        "description": "強壯的捕食者，視力優異，足以看透最暗的陰影。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tralok"
-    },
-    "es": {
-        "item_name": "Tralok",
-        "description": "Fuerte pez predador con ojos que pueden atravesar hasta las más oscuras sombras.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tralok"
-    },
-    "it": {
-        "item_name": "Tralok",
-        "description": "Un forte pesce predatore con occhi che possono vedere nel buio più oscuro.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
-    },
-    "pl": {
-        "item_name": "Tralok",
-        "description": "Silna, drapieżna ryba z oczami, które widzą nawet w największych mrokach.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tralok"
-    },
-    "uk": {
-        "item_name": "Трелок",
-        "description": "Сильний хижак, чиї очі можуть бачити навіть у найнепрогляднішій темряві.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
+    "i18n": {
+        "en": {
+            "item_name": "Tralok",
+            "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tralok",
+            "icon": "items/images/en/tralok.22c468b53ea71bc7a6687c60b851f85e.png",
+            "thumb": "items/images/en/thumbs/tralok.22c468b53ea71bc7a6687c60b851f85e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Тралок",
+            "description": "Мощная, хищная рыба, чьи глаза способны видеть даже в самых темных местах.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B0%D0%BB%D0%BE%D0%BA"
+        },
+        "ko": {
+            "item_name": "트랄록",
+            "description": "아주 어두운 그림자도 꿰뚫어볼 수 있는 눈을 가진 강한 포식성 물고기입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
+        },
+        "de": {
+            "item_name": "Tralok",
+            "description": "Ein starker Raubfisch mit Augen, die durch die dunkelsten Schatten dringen können.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Tralok"
+        },
+        "fr": {
+            "item_name": "Tralok",
+            "description": "Un poisson prédateur costaud ayant des yeux pouvant percer les ombres les plus sombres.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
+        },
+        "pt": {
+            "item_name": "Tralok",
+            "description": "Peixe forte e predatório com olhos que podem perfurar as sombras mais sombrias.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
+        },
+        "zh-hans": {
+            "item_name": "塔洛",
+            "description": "强壮的捕食者，视力优异，足以看透最暗的阴影。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tralok"
+        },
+        "zh-hant": {
+            "item_name": "塔洛",
+            "description": "強壯的捕食者，視力優異，足以看透最暗的陰影。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tralok"
+        },
+        "es": {
+            "item_name": "Tralok",
+            "description": "Fuerte pez predador con ojos que pueden atravesar hasta las más oscuras sombras.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tralok"
+        },
+        "it": {
+            "item_name": "Tralok",
+            "description": "Un forte pesce predatore con occhi che possono vedere nel buio più oscuro.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
+        },
+        "pl": {
+            "item_name": "Tralok",
+            "description": "Silna, drapieżna ryba z oczami, które widzą nawet w największych mrokach.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Tralok"
+        },
+        "uk": {
+            "item_name": "Трелок",
+            "description": "Сильний хижак, чиї очі можуть бачити навіть у найнепрогляднішій темряві.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tralok"
+        }
     },
     "subtypes": [
         "small",

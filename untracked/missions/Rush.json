@@ -6,40 +6,42 @@
     "url_name": "rush",
     "icon": "missions/images/rush.cb12f5cf2b3e66dc77305f289c0f47e8.png",
     "thumb": "missions/images/thumbs/rush.cb12f5cf2b3e66dc77305f289c0f47e8.128x128.png",
-    "en": {
-        "name": "Rush"
-    },
-    "ru": {
-        "name": "Rush"
-    },
-    "ko": {
-        "name": "Rush"
-    },
-    "de": {
-        "name": "Hetzjagd"
-    },
-    "fr": {
-        "name": "Rush"
-    },
-    "pt": {
-        "name": "Rush"
-    },
-    "zh-hans": {
-        "name": "突击"
-    },
-    "zh-hant": {
-        "name": "突擊"
-    },
-    "es": {
-        "name": "Rush"
-    },
-    "it": {
-        "name": "Rush"
-    },
-    "pl": {
-        "name": "Rush"
-    },
-    "uk": {
-        "name": "Стрімкий напад"
+    "i18n": {
+        "en": {
+            "name": "Rush"
+        },
+        "ru": {
+            "name": "Rush"
+        },
+        "ko": {
+            "name": "Rush"
+        },
+        "de": {
+            "name": "Hetzjagd"
+        },
+        "fr": {
+            "name": "Rush"
+        },
+        "pt": {
+            "name": "Rush"
+        },
+        "zh-hans": {
+            "name": "突击"
+        },
+        "zh-hant": {
+            "name": "突擊"
+        },
+        "es": {
+            "name": "Rush"
+        },
+        "it": {
+            "name": "Rush"
+        },
+        "pl": {
+            "name": "Rush"
+        },
+        "uk": {
+            "name": "Стрімкий напад"
+        }
     }
 }

@@ -24,65 +24,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Ghoulsaw Grip Blueprint",
-        "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "ru": {
-        "item_name": "Пила Упыря: Рукоять (Чертеж)",
-        "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "ko": {
-        "item_name": "구울소우 그립 설계도",
-        "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "de": {
-        "item_name": "Ghulsäge: Griff Blaupause",
-        "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "fr": {
-        "item_name": "Scie De Goule - Prise (Schéma)",
-        "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "pt": {
-        "item_name": "Serra Carniçal: Punho (Diagrama)",
-        "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "zh-hans": {
-        "item_name": "尸鬼电锯 握把 蓝图",
-        "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "zh-hant": {
-        "item_name": "屍鬼輪鋸握把 藍圖",
-        "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "es": {
-        "item_name": "Plano de Empuñadura De Ghoulsaw",
-        "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "it": {
-        "item_name": "Ghoulsaw - Impugnatura (Schema)",
-        "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "pl": {
-        "item_name": "Piła Ghula: Uchwyt - Schemat",
-        "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
-    },
-    "uk": {
-        "item_name": "Гулепилка: Руків’я (креслення)",
-        "description": "Деталь зброї.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+    "i18n": {
+        "en": {
+            "item_name": "Ghoulsaw Grip Blueprint",
+            "description": "A weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw",
+            "icon": "items/images/en/ghoulsaw_grip.f9a355d3f35098841d346d536abd801c.png",
+            "thumb": "items/images/en/thumbs/ghoulsaw_grip.f9a355d3f35098841d346d536abd801c.128x128.png"
+        },
+        "ru": {
+            "item_name": "Пила Упыря: Рукоять (Чертеж)",
+            "description": "Компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "ko": {
+            "item_name": "구울소우 그립 설계도",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "de": {
+            "item_name": "Ghulsäge: Griff Blaupause",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "fr": {
+            "item_name": "Scie De Goule - Prise (Schéma)",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "pt": {
+            "item_name": "Serra Carniçal: Punho (Diagrama)",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "zh-hans": {
+            "item_name": "尸鬼电锯 握把 蓝图",
+            "description": "一个武器的制作部件。",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "zh-hant": {
+            "item_name": "屍鬼輪鋸握把 藍圖",
+            "description": "製作武器的部件。",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "es": {
+            "item_name": "Plano de Empuñadura De Ghoulsaw",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "it": {
+            "item_name": "Ghoulsaw - Impugnatura (Schema)",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "pl": {
+            "item_name": "Piła Ghula: Uchwyt - Schemat",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        },
+        "uk": {
+            "item_name": "Гулепилка: Руків’я (креслення)",
+            "description": "Деталь зброї.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
+        }
     },
     "mastery_level": 7,
     "trading_tax": 2000

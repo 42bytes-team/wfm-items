@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowGrabPrecept"
     },
-    "en": {
-        "item_name": "Proboscis",
-        "description": "Helminth Charger whips a proboscis out at an enemy within 30m, pulling them back and dealing 100 damage.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proboscis"
-    },
-    "ru": {
-        "item_name": "Хоботок",
-        "description": "Гельминтов Инфестоид бьет хоботком врага в радиусе 30м, отталкивая его и нанося 100 урона.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%BA",
-        "icon": "items/images/ru/proboscis.1308bd2545b659b10a4998be450e5e1b.png",
-        "thumb": "items/images/ru/thumbs/proboscis.1308bd2545b659b10a4998be450e5e1b.128x128.png"
-    },
-    "ko": {
-        "item_name": "프로보시스",
-        "description": "헬민스 차저가 30m 내의 적 한 체에게 기다란 주둥이를 내리쳐 끌어당김과 동시에 100의 피해를 입힙니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proboscis"
-    },
-    "de": {
-        "item_name": "Rüssel",
-        "description": "Der Helminth Stürmer packt einen Gegner innerhalb von 30m, zieht ihn zurück und verursacht 100 Schaden.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Proboscis"
-    },
-    "fr": {
-        "item_name": "Proboscis",
-        "description": "Le chargeur Helminth attrape un ennemi se trouvant dans un rayon de 30m avec un proboscis, le tirant vers lui en lui infligeant 100 points de Dégâts.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Proboscis"
-    },
-    "pt": {
-        "item_name": "Proboscis",
-        "description": "O Bandoleiro do Helminte chicoteia um inimigo dentro de 30m com uma probóscida, puxando-o para perto e causando 100 de Dano.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Proboscis"
-    },
-    "zh-hans": {
-        "item_name": "长吻",
-        "description": "Helminth 疾冲者将长吻抽向一名在 30米内的敌人，把他们拉回并且造成 100 伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proboscis"
-    },
-    "zh-hant": {
-        "item_name": "長吻",
-        "description": "Helminth 疾衝者使用長吻鞭打一名在 30公尺內的敵人，把他們拉回並且造成 100 傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Proboscis"
-    },
-    "es": {
-        "item_name": "Probóscide",
-        "description": "El cargador Helminto lanza una probóscide a un enemigo dentro de un radio de 30m, halándolo y causandole 100 de daño.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Prob%C3%B3scide"
-    },
-    "it": {
-        "item_name": "Proboscis",
-        "description": "Helminth Charger estrae una proboscide da un nemico nel raggio di 30m, spingendoli indietro e infliggendo 100 danno.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Proboscis"
-    },
-    "pl": {
-        "item_name": "Ssawka",
-        "description": "Taran Helminth uderza Ssawką przeciwnika niczym batem w zasięgu 30m, przyciągając go i zadając 100 obrażeń.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Proboscis"
-    },
-    "uk": {
-        "item_name": "Хобіток",
-        "description": "Гельмінтовий гінчак шмагає хобітком ворогів у межах 30 м, тягне їх назад і завдає 100 шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Proboscis"
+    "i18n": {
+        "en": {
+            "item_name": "Proboscis",
+            "description": "Helminth Charger whips a proboscis out at an enemy within 30m, pulling them back and dealing 100 damage.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Proboscis",
+            "icon": "items/images/en/proboscis.aa653fa8633125a7e94b9ad74878948b.png",
+            "thumb": "items/images/en/thumbs/proboscis.aa653fa8633125a7e94b9ad74878948b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Хоботок",
+            "description": "Гельминтов Инфестоид бьет хоботком врага в радиусе 30м, отталкивая его и нанося 100 урона.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%BA",
+            "icon": "items/images/ru/proboscis.1308bd2545b659b10a4998be450e5e1b.png",
+            "thumb": "items/images/ru/thumbs/proboscis.1308bd2545b659b10a4998be450e5e1b.128x128.png"
+        },
+        "ko": {
+            "item_name": "프로보시스",
+            "description": "헬민스 차저가 30m 내의 적 한 체에게 기다란 주둥이를 내리쳐 끌어당김과 동시에 100의 피해를 입힙니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Proboscis"
+        },
+        "de": {
+            "item_name": "Rüssel",
+            "description": "Der Helminth Stürmer packt einen Gegner innerhalb von 30m, zieht ihn zurück und verursacht 100 Schaden.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Proboscis"
+        },
+        "fr": {
+            "item_name": "Proboscis",
+            "description": "Le chargeur Helminth attrape un ennemi se trouvant dans un rayon de 30m avec un proboscis, le tirant vers lui en lui infligeant 100 points de Dégâts.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Proboscis"
+        },
+        "pt": {
+            "item_name": "Proboscis",
+            "description": "O Bandoleiro do Helminte chicoteia um inimigo dentro de 30m com uma probóscida, puxando-o para perto e causando 100 de Dano.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Proboscis"
+        },
+        "zh-hans": {
+            "item_name": "长吻",
+            "description": "Helminth 疾冲者将长吻抽向一名在 30米内的敌人，把他们拉回并且造成 100 伤害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Proboscis"
+        },
+        "zh-hant": {
+            "item_name": "長吻",
+            "description": "Helminth 疾衝者使用長吻鞭打一名在 30公尺內的敵人，把他們拉回並且造成 100 傷害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Proboscis"
+        },
+        "es": {
+            "item_name": "Probóscide",
+            "description": "El cargador Helminto lanza una probóscide a un enemigo dentro de un radio de 30m, halándolo y causandole 100 de daño.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Prob%C3%B3scide"
+        },
+        "it": {
+            "item_name": "Proboscis",
+            "description": "Helminth Charger estrae una proboscide da un nemico nel raggio di 30m, spingendoli indietro e infliggendo 100 danno.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Proboscis"
+        },
+        "pl": {
+            "item_name": "Ssawka",
+            "description": "Taran Helminth uderza Ssawką przeciwnika niczym batem w zasięgu 30m, przyciągając go i zadając 100 obrażeń.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Proboscis"
+        },
+        "uk": {
+            "item_name": "Хобіток",
+            "description": "Гельмінтовий гінчак шмагає хобітком ворогів у межах 30 м, тягне їх назад і завдає 100 шкоди.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Proboscis"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

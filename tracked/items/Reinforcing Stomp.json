@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Rhino/RhinoStompAugmentCard"
     },
-    "en": {
-        "item_name": "Reinforcing Stomp",
-        "description": "Rhino Stomp Augment: Iron Skin Health is replenished by 4% for each enemy affected.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Reinforcing_Stomp"
-    },
-    "ru": {
-        "item_name": "Укрепляющий Топот",
-        "description": "Улучшение способности «Топот»: восполняет 4% прочности «Железной кожи» за каждого задетого врага.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%A2%D0%BE%D0%BF%D0%BE%D1%82"
-    },
-    "ko": {
-        "item_name": "리인포싱 스톰프",
-        "description": "라이노 스톰프 개조: 스톰프에 영향을 받은 적 하나당 아이언 스킨의 내구도가 4%씩 회복됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Reinforcing_Stomp"
-    },
-    "de": {
-        "item_name": "Verstärkender Stampfer",
-        "description": "Rhino Stampfer Augment: Eisenhaut wird um 4 % für jeden betroffenen Gegner wiederhergestellt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Verst%C3%A4rkender_Stampfer"
-    },
-    "fr": {
-        "item_name": "Piétinement Renforçant",
-        "description": "Augmentation de Piétinement: La Santé de la Peau de Fer est régénérée de 4% pour chaque ennemi affecté.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pi%C3%A9tinement_Renfor%C3%A7ant"
-    },
-    "pt": {
-        "item_name": "Reinforcing Stomp",
-        "description": "Ampliação Rhino Stomp: a Vida da Iron Skin será restaurada em 4% para cada inimigo atingido.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Reinforcing_Stomp"
-    },
-    "zh-hans": {
-        "item_name": "践踏加固",
-        "description": "犀牛践踏强化：每一个被践踏影响的敌人会补充 4% 的钢化皮肤生命值。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reinforcing_Stomp"
-    },
-    "zh-hant": {
-        "item_name": "踐踏加固",
-        "description": "犀牛踐踏強化：每一個被踐踏影響的敵人會補充 4% 的鋼化皮膚生命值。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Reinforcing_Stomp"
-    },
-    "es": {
-        "item_name": "Pisotón Reforzante",
-        "description": "Aumento de Rhinopisotón: la salud de Piel de hierro se recupera en un 4 % por cada enemigo afectado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pisot%C3%B3n_reforzante"
-    },
-    "it": {
-        "item_name": "Reinforcing Stomp",
-        "description": "Potenziamento Rhino Stomp: Ripristina la salute di Iron Skin del 4% per ogni nemico colpito.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Stomp"
-    },
-    "pl": {
-        "item_name": "Odbudowujące Tąpnięcie",
-        "description": "Modyfikacja Tąpnięcia Rhino: Odnawia życie Żelaznej Skóry o 4% za każdego trafionego przeciwnika.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Odbudowuj%C4%85ce_T%C4%85pni%C4%99cie"
-    },
-    "uk": {
-        "item_name": "Посилювальне Тупання",
-        "description": "Розширення здібності «Тупання»: міцність Залізної шкури відновлюється на 4% за кожного враженого ворога.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Reinforcing_Stomp"
+    "i18n": {
+        "en": {
+            "item_name": "Reinforcing Stomp",
+            "description": "Rhino Stomp Augment: Iron Skin Health is replenished by 4% for each enemy affected.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Reinforcing_Stomp",
+            "icon": "items/images/en/reinforcing_stomp.0437d19bb098f84f2f1b91bc00bae7f5.png",
+            "thumb": "items/images/en/thumbs/reinforcing_stomp.0437d19bb098f84f2f1b91bc00bae7f5.128x128.png"
+        },
+        "ru": {
+            "item_name": "Укрепляющий Топот",
+            "description": "Улучшение способности «Топот»: восполняет 4% прочности «Железной кожи» за каждого задетого врага.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%A2%D0%BE%D0%BF%D0%BE%D1%82"
+        },
+        "ko": {
+            "item_name": "리인포싱 스톰프",
+            "description": "라이노 스톰프 개조: 스톰프에 영향을 받은 적 하나당 아이언 스킨의 내구도가 4%씩 회복됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Reinforcing_Stomp"
+        },
+        "de": {
+            "item_name": "Verstärkender Stampfer",
+            "description": "Rhino Stampfer Augment: Eisenhaut wird um 4 % für jeden betroffenen Gegner wiederhergestellt.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Verst%C3%A4rkender_Stampfer"
+        },
+        "fr": {
+            "item_name": "Piétinement Renforçant",
+            "description": "Augmentation de Piétinement: La Santé de la Peau de Fer est régénérée de 4% pour chaque ennemi affecté.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Pi%C3%A9tinement_Renfor%C3%A7ant"
+        },
+        "pt": {
+            "item_name": "Reinforcing Stomp",
+            "description": "Ampliação Rhino Stomp: a Vida da Iron Skin será restaurada em 4% para cada inimigo atingido.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Reinforcing_Stomp"
+        },
+        "zh-hans": {
+            "item_name": "践踏加固",
+            "description": "犀牛践踏强化：每一个被践踏影响的敌人会补充 4% 的钢化皮肤生命值。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Reinforcing_Stomp"
+        },
+        "zh-hant": {
+            "item_name": "踐踏加固",
+            "description": "犀牛踐踏強化：每一個被踐踏影響的敵人會補充 4% 的鋼化皮膚生命值。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Reinforcing_Stomp"
+        },
+        "es": {
+            "item_name": "Pisotón Reforzante",
+            "description": "Aumento de Rhinopisotón: la salud de Piel de hierro se recupera en un 4 % por cada enemigo afectado.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Pisot%C3%B3n_reforzante"
+        },
+        "it": {
+            "item_name": "Reinforcing Stomp",
+            "description": "Potenziamento Rhino Stomp: Ripristina la salute di Iron Skin del 4% per ogni nemico colpito.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Rhino_Stomp"
+        },
+        "pl": {
+            "item_name": "Odbudowujące Tąpnięcie",
+            "description": "Modyfikacja Tąpnięcia Rhino: Odnawia życie Żelaznej Skóry o 4% za każdego trafionego przeciwnika.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Odbudowuj%C4%85ce_T%C4%85pni%C4%99cie"
+        },
+        "uk": {
+            "item_name": "Посилювальне Тупання",
+            "description": "Розширення здібності «Тупання»: міцність Залізної шкури відновлюється на 4% за кожного враженого ворога.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Reinforcing_Stomp"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

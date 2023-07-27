@@ -11,65 +11,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem"
     },
-    "en": {
-        "item_name": "Radiant Zodian",
-        "description": "Polished and cut to perfection.\nBlueprint sold by Smokefinger in Fortuna, Venus.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Radiant_Zodian"
-    },
-    "ru": {
-        "item_name": "Сияющий Зодиан",
-        "description": "Отполированный и ограненный до совершенства.\nЧертёж можно купить у Смоукфингера в Фортуне на Венере.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%97%D0%BE%D0%B4%D0%B8%D0%B0%D0%BD"
-    },
-    "ko": {
-        "item_name": "레이디언트 조디안",
-        "description": "완벽하게 갈고 광을 낸 보석입니다.\n금성의 포르투나에 있는 스모크핑거에게서 설계도를 구매할 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Radiant_Zodian"
-    },
-    "de": {
-        "item_name": "Strahlender Zodian",
-        "description": "Poliert und perfekt geschnitten.\nFundort: Blaupause erhältlich von Smokefinger in Fortuna, Venus.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Strahlender_Zodian"
-    },
-    "fr": {
-        "item_name": "Zodian Radiant",
-        "description": "Poli et taillé à la perfection.\nSchéma vendu par Smokefinger à Fortuna, Vénus.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Zodian_Radiant"
-    },
-    "pt": {
-        "item_name": "Zodiana Radiante",
-        "description": "Polida e talhada à perfeição.\nSeu Diagrama pode ser obtido junto ao Smokefinger, em Fortuna, em Vênus.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Zodian_Radiante"
-    },
-    "zh-hans": {
-        "item_name": "发光的黄道宝石",
-        "description": "经过切割打磨，已至臻完美。\n来源：金星上福尔图娜的 Smokefinger 出售的蓝图。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Radiant_Zodian"
-    },
-    "zh-hant": {
-        "item_name": "發光的黃道寶石",
-        "description": "經切割打磨後至完美狀態。\n來源：Smokefinger 出售的藍圖（福爾圖娜，金星）。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Radiant_Zodian"
-    },
-    "es": {
-        "item_name": "Zodian Radiante",
-        "description": "Pulida y cortada a la perfección.\nEl plano lo vende Smokefinger en Fortuna, Venus.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Zodian_radiante"
-    },
-    "it": {
-        "item_name": "Zodian Radiante",
-        "description": "Lucidato e tagliato alla perfezione.\nLo schema è acquistabile da Smokefinger su Fortuna (Venere).",
-        "wiki_link": "https://warframe.fandom.com/wiki/Radiant_Zodian"
-    },
-    "pl": {
-        "item_name": "Promienisty Zodian",
-        "description": "Przycięty i oszlifowany do perfekcji.\nSchemat do kupienia u Smokefingera na Fortunie, Wenus.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Promienisty_Zodian"
-    },
-    "uk": {
-        "item_name": "Сяйнистий Зодіан",
-        "description": "Досконало відполірований і відшліфований самоцвіт.\nКреслення можна придбати в Пальцедима у Фортуні на Венері.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Radiant_Zodian"
+    "i18n": {
+        "en": {
+            "item_name": "Radiant Zodian",
+            "description": "Polished and cut to perfection.\nBlueprint sold by Smokefinger in Fortuna, Venus.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Radiant_Zodian",
+            "icon": "items/images/en/radiant_zodian.e2aefff3921bbf6045832fe9b77b0480.png",
+            "thumb": "items/images/en/thumbs/radiant_zodian.e2aefff3921bbf6045832fe9b77b0480.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сияющий Зодиан",
+            "description": "Отполированный и ограненный до совершенства.\nЧертёж можно купить у Смоукфингера в Фортуне на Венере.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B8%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%97%D0%BE%D0%B4%D0%B8%D0%B0%D0%BD"
+        },
+        "ko": {
+            "item_name": "레이디언트 조디안",
+            "description": "완벽하게 갈고 광을 낸 보석입니다.\n금성의 포르투나에 있는 스모크핑거에게서 설계도를 구매할 수 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Radiant_Zodian"
+        },
+        "de": {
+            "item_name": "Strahlender Zodian",
+            "description": "Poliert und perfekt geschnitten.\nFundort: Blaupause erhältlich von Smokefinger in Fortuna, Venus.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Strahlender_Zodian"
+        },
+        "fr": {
+            "item_name": "Zodian Radiant",
+            "description": "Poli et taillé à la perfection.\nSchéma vendu par Smokefinger à Fortuna, Vénus.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Zodian_Radiant"
+        },
+        "pt": {
+            "item_name": "Zodiana Radiante",
+            "description": "Polida e talhada à perfeição.\nSeu Diagrama pode ser obtido junto ao Smokefinger, em Fortuna, em Vênus.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Zodian_Radiante"
+        },
+        "zh-hans": {
+            "item_name": "发光的黄道宝石",
+            "description": "经过切割打磨，已至臻完美。\n来源：金星上福尔图娜的 Smokefinger 出售的蓝图。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Radiant_Zodian"
+        },
+        "zh-hant": {
+            "item_name": "發光的黃道寶石",
+            "description": "經切割打磨後至完美狀態。\n來源：Smokefinger 出售的藍圖（福爾圖娜，金星）。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Radiant_Zodian"
+        },
+        "es": {
+            "item_name": "Zodian Radiante",
+            "description": "Pulida y cortada a la perfección.\nEl plano lo vende Smokefinger en Fortuna, Venus.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Zodian_radiante"
+        },
+        "it": {
+            "item_name": "Zodian Radiante",
+            "description": "Lucidato e tagliato alla perfezione.\nLo schema è acquistabile da Smokefinger su Fortuna (Venere).",
+            "wiki_link": "https://warframe.fandom.com/wiki/Radiant_Zodian"
+        },
+        "pl": {
+            "item_name": "Promienisty Zodian",
+            "description": "Przycięty i oszlifowany do perfekcji.\nSchemat do kupienia u Smokefingera na Fortunie, Wenus.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Promienisty_Zodian"
+        },
+        "uk": {
+            "item_name": "Сяйнистий Зодіан",
+            "description": "Досконало відполірований і відшліфований самоцвіт.\nКреслення можна придбати в Пальцедима у Фортуні на Венері.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Radiant_Zodian"
+        }
     },
     "trading_tax": 2000
 }

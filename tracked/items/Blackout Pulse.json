@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipEMPAbilityCard"
     },
-    "en": {
-        "item_name": "Blackout Pulse",
-        "description": "Electro-Magnetic Pulse that damages enemies and disables them temporarily.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blackout_Pulse"
-    },
-    "ru": {
-        "item_name": "Импульс Затмения",
-        "description": "Создаёт электромагнитный импульс, который наносит урон врагам и временно отключает их.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81_%D0%97%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F"
-    },
-    "ko": {
-        "item_name": "블랙아웃 펄스",
-        "description": "적들에게 피해를 입히고 일시적으로 무력화시키는 전자기 펄스입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blackout_Pulse"
-    },
-    "de": {
-        "item_name": "Schwarzfall-Puls",
-        "description": "Elektromagnetischer Puls, der Feinden Schaden zufügt und sie vorübergehend deaktiviert.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
-    },
-    "fr": {
-        "item_name": "Impulsion Atonique",
-        "description": "Impulsion électromagnétique qui endommage les ennemis et les neutralise temporairement.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
-    },
-    "pt": {
-        "item_name": "Pulso De Interrupção",
-        "description": "Pulso eletromagnético que danifica e desativa os inimigos temporariamente.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
-    },
-    "zh-hans": {
-        "item_name": "熄扰脉冲",
-        "description": "电磁脉冲可对敌人造成伤害并且使它们暂时瘫痪。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blackout_Pulse"
-    },
-    "zh-hant": {
-        "item_name": "封鎖脈衝",
-        "description": "電磁脈衝波能對敵人造成傷害並且暫時受到癱瘓。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Blackout_Pulse"
-    },
-    "es": {
-        "item_name": "Pulso De Interrupción",
-        "description": "Pulso electromagnético que daña a los enemigos y los desactiva temporalmente.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pulso_de_interrupci%C3%B3n"
-    },
-    "it": {
-        "item_name": "Blackout Pulse",
-        "description": "Impulso Elettromagnetico che danneggia i nemici e li disabilita temporaneamente.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
-    },
-    "pl": {
-        "item_name": "Impuls Zaćmienia",
-        "description": "Impuls elektromagnetyczny, który zadaje obrażenia wrogom i tymczasowo ich rozbraja.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
-    },
-    "uk": {
-        "item_name": "Імпульс Знеструмлення",
-        "description": "Електромагнітний імпульс завдає ворогам шкоди й тимчасово їх вимикає.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Blackout_Pulse"
+    "i18n": {
+        "en": {
+            "item_name": "Blackout Pulse",
+            "description": "Electro-Magnetic Pulse that damages enemies and disables them temporarily.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Blackout_Pulse",
+            "icon": "items/images/en/blackout_pulse.c419ed4b310b69260f459d268c6a5a7d.png",
+            "thumb": "items/images/en/thumbs/blackout_pulse.c419ed4b310b69260f459d268c6a5a7d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Импульс Затмения",
+            "description": "Создаёт электромагнитный импульс, который наносит урон врагам и временно отключает их.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81_%D0%97%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F"
+        },
+        "ko": {
+            "item_name": "블랙아웃 펄스",
+            "description": "적들에게 피해를 입히고 일시적으로 무력화시키는 전자기 펄스입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Blackout_Pulse"
+        },
+        "de": {
+            "item_name": "Schwarzfall-Puls",
+            "description": "Elektromagnetischer Puls, der Feinden Schaden zufügt und sie vorübergehend deaktiviert.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
+        },
+        "fr": {
+            "item_name": "Impulsion Atonique",
+            "description": "Impulsion électromagnétique qui endommage les ennemis et les neutralise temporairement.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
+        },
+        "pt": {
+            "item_name": "Pulso De Interrupção",
+            "description": "Pulso eletromagnético que danifica e desativa os inimigos temporariamente.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
+        },
+        "zh-hans": {
+            "item_name": "熄扰脉冲",
+            "description": "电磁脉冲可对敌人造成伤害并且使它们暂时瘫痪。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Blackout_Pulse"
+        },
+        "zh-hant": {
+            "item_name": "封鎖脈衝",
+            "description": "電磁脈衝波能對敵人造成傷害並且暫時受到癱瘓。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Blackout_Pulse"
+        },
+        "es": {
+            "item_name": "Pulso De Interrupción",
+            "description": "Pulso electromagnético que daña a los enemigos y los desactiva temporalmente.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Pulso_de_interrupci%C3%B3n"
+        },
+        "it": {
+            "item_name": "Blackout Pulse",
+            "description": "Impulso Elettromagnetico che danneggia i nemici e li disabilita temporaneamente.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
+        },
+        "pl": {
+            "item_name": "Impuls Zaćmienia",
+            "description": "Impuls elektromagnetyczny, który zadaje obrażenia wrogom i tymczasowo ich rozbraja.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Blackout_Pulse"
+        },
+        "uk": {
+            "item_name": "Імпульс Знеструмлення",
+            "description": "Електромагнітний імпульс завдає ворогам шкоди й тимчасово їх вимикає.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Blackout_Pulse"
+        }
     },
     "rarity": "rare",
     "max_rank": 10,

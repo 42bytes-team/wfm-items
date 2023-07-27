@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": null
     },
-    "en": {
-        "item_name": "Companion Weapon Riven Mod (Veiled)",
-        "description": "For Companions",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
-    },
-    "ru": {
-        "item_name": "Мод Разлома Для Оружия Компаньона (Закрытый)",
-        "description": "Для компаньонов",
-        "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%B4%D1%8B_%D1%80%D0%B0%D0%B7%D0%BB%D0%BE%D0%BC%D0%B0"
-    },
-    "ko": {
-        "item_name": "동반자 무기 리벤 모드 (미개봉)",
-        "description": "For Companions",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
-    },
-    "de": {
-        "item_name": "Companion Weapon Riven Mod (Veiled)",
-        "description": "For Companions",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
-    },
-    "fr": {
-        "item_name": "Companion Weapon Riven Mod (Veiled)",
-        "description": "For Companions",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
-    },
-    "pt": {
-        "item_name": "Companion Weapon Riven Mod (Veiled)",
-        "description": "For Companions",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
-    },
-    "zh-hans": {
-        "item_name": "同伴武器裂罅 Mod (尚未揭开)",
-        "description": "供同伴武器使用",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E8%A3%82%E7%BD%85MOD"
-    },
-    "zh-hant": {
-        "item_name": "夥伴武器裂罅 Mod （尚未揭開）",
-        "description": "供夥伴武器使用",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E8%A3%82%E7%BD%85MOD"
-    },
-    "es": {
-        "item_name": "Agrietado de arma para compañero (Velado)",
-        "description": "Para compañeros",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mod_agrietado"
-    },
-    "it": {
-        "item_name": "Companion Weapon Riven Mod (Veiled)",
-        "description": "For Companions",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
-    },
-    "pl": {
-        "item_name": "Companion Weapon Riven Mod (Veiled)",
-        "description": "For Companions",
-        "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
-    },
-    "uk": {
-        "item_name": "Модифікатор розколу для зброї супутників (закритий)",
-        "description": "Для супутників",
-        "wiki_link": "http://warframe.fandom.com/uk/wiki/Модифікатори_розколу"
+    "i18n": {
+        "en": {
+            "item_name": "Companion Weapon Riven Mod (Veiled)",
+            "description": "For Companions",
+            "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods",
+            "icon": "items/images/en/companion_weapon_riven_mod_(veiled).9f36fed315c9300a4bf479feb32a8712.png",
+            "thumb": "items/images/en/thumbs/companion_weapon_riven_mod_(veiled).9f36fed315c9300a4bf479feb32a8712.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мод Разлома Для Оружия Компаньона (Закрытый)",
+            "description": "Для компаньонов",
+            "wiki_link": "http://ru.warframe.wikia.com/wiki/%D0%9C%D0%BE%D0%B4%D1%8B_%D1%80%D0%B0%D0%B7%D0%BB%D0%BE%D0%BC%D0%B0"
+        },
+        "ko": {
+            "item_name": "동반자 무기 리벤 모드 (미개봉)",
+            "description": "For Companions",
+            "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
+        },
+        "de": {
+            "item_name": "Companion Weapon Riven Mod (Veiled)",
+            "description": "For Companions",
+            "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
+        },
+        "fr": {
+            "item_name": "Companion Weapon Riven Mod (Veiled)",
+            "description": "For Companions",
+            "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
+        },
+        "pt": {
+            "item_name": "Companion Weapon Riven Mod (Veiled)",
+            "description": "For Companions",
+            "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
+        },
+        "zh-hans": {
+            "item_name": "同伴武器裂罅 Mod (尚未揭开)",
+            "description": "供同伴武器使用",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/%E8%A3%82%E7%BD%85MOD"
+        },
+        "zh-hant": {
+            "item_name": "夥伴武器裂罅 Mod （尚未揭開）",
+            "description": "供夥伴武器使用",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/%E8%A3%82%E7%BD%85MOD"
+        },
+        "es": {
+            "item_name": "Agrietado de arma para compañero (Velado)",
+            "description": "Para compañeros",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Mod_agrietado"
+        },
+        "it": {
+            "item_name": "Companion Weapon Riven Mod (Veiled)",
+            "description": "For Companions",
+            "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
+        },
+        "pl": {
+            "item_name": "Companion Weapon Riven Mod (Veiled)",
+            "description": "For Companions",
+            "wiki_link": "http://warframe.wikia.com/wiki/Riven_Mods"
+        },
+        "uk": {
+            "item_name": "Модифікатор розколу для зброї супутників (закритий)",
+            "description": "Для супутників",
+            "wiki_link": "http://warframe.fandom.com/uk/wiki/Модифікатори_розколу"
+        }
     },
     "rarity": "riven",
     "subtypes": [

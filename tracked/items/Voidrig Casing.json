@@ -20,65 +20,69 @@
         "voidrig_weapon_pod"
     ],
     "set_root": false,
-    "en": {
-        "item_name": "Voidrig Casing",
-        "description": "Casing component for the VOIDRIG Necramech.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Voidrig"
-    },
-    "ru": {
-        "item_name": "Войдриг: Каркас",
-        "description": "Компонент Некрамеха Войдриг - каркас.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D0%B9%D0%B4%D1%80%D0%B8%D0%B3"
-    },
-    "ko": {
-        "item_name": "보이드리그 케이싱",
-        "description": "보이드리그 네크라메크의 케이싱 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Voidrig"
-    },
-    "de": {
-        "item_name": "Voidrig: Karkasse",
-        "description": "Karkasse-Komponente für den VOIDRIG Necramech.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Void"
-    },
-    "fr": {
-        "item_name": "Voidrig - Châssis",
-        "description": "Le composant Châssis du Necramech VOIDRIG.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Voidrig"
-    },
-    "pt": {
-        "item_name": "Voidrig: Revestimento",
-        "description": "Revestimento componente do Necramech Voidrig.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Void"
-    },
-    "zh-hans": {
-        "item_name": "虚空锐将 外壳",
-        "description": "“虚空锐将”殁世机甲的外壳组件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Voidrig"
-    },
-    "zh-hant": {
-        "item_name": "虛空魂 外殼",
-        "description": "虛空魂亡骸機甲的外殼部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Voidrig"
-    },
-    "es": {
-        "item_name": "Cubierta De Voidrig",
-        "description": "Componente de la cubierta del Necramech VOIDRIG.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Voidrig"
-    },
-    "it": {
-        "item_name": "Voidrig - Telaio",
-        "description": "Il componente Telaio per il Necramech VOIDRIG.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Void"
-    },
-    "pl": {
-        "item_name": "Voidrig: Okrycie",
-        "description": "Komponent okrycia Nekramecha VOIDRIG.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Voidrig"
-    },
-    "uk": {
-        "item_name": "Бур Порожнечі: Корпус",
-        "description": "Деталі корпуса для некрамеха «Бур Порожнечі».",
-        "wiki_link": "https://warframe.fandom.com/wiki/Voidrig"
+    "i18n": {
+        "en": {
+            "item_name": "Voidrig Casing",
+            "description": "Casing component for the VOIDRIG Necramech.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Voidrig",
+            "icon": "items/images/en/voidrig_casing.d8acf865db09a10d93fdac2cdd1e8211.png",
+            "thumb": "items/images/en/thumbs/voidrig_casing.d8acf865db09a10d93fdac2cdd1e8211.128x128.png"
+        },
+        "ru": {
+            "item_name": "Войдриг: Каркас",
+            "description": "Компонент Некрамеха Войдриг - каркас.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D0%B9%D0%B4%D1%80%D0%B8%D0%B3"
+        },
+        "ko": {
+            "item_name": "보이드리그 케이싱",
+            "description": "보이드리그 네크라메크의 케이싱 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Voidrig"
+        },
+        "de": {
+            "item_name": "Voidrig: Karkasse",
+            "description": "Karkasse-Komponente für den VOIDRIG Necramech.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Void"
+        },
+        "fr": {
+            "item_name": "Voidrig - Châssis",
+            "description": "Le composant Châssis du Necramech VOIDRIG.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Voidrig"
+        },
+        "pt": {
+            "item_name": "Voidrig: Revestimento",
+            "description": "Revestimento componente do Necramech Voidrig.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Void"
+        },
+        "zh-hans": {
+            "item_name": "虚空锐将 外壳",
+            "description": "“虚空锐将”殁世机甲的外壳组件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Voidrig"
+        },
+        "zh-hant": {
+            "item_name": "虛空魂 外殼",
+            "description": "虛空魂亡骸機甲的外殼部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Voidrig"
+        },
+        "es": {
+            "item_name": "Cubierta De Voidrig",
+            "description": "Componente de la cubierta del Necramech VOIDRIG.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Voidrig"
+        },
+        "it": {
+            "item_name": "Voidrig - Telaio",
+            "description": "Il componente Telaio per il Necramech VOIDRIG.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Void"
+        },
+        "pl": {
+            "item_name": "Voidrig: Okrycie",
+            "description": "Komponent okrycia Nekramecha VOIDRIG.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Voidrig"
+        },
+        "uk": {
+            "item_name": "Бур Порожнечі: Корпус",
+            "description": "Деталі корпуса для некрамеха «Бур Порожнечі».",
+            "wiki_link": "https://warframe.fandom.com/wiki/Voidrig"
+        }
     },
     "mastery_level": 0,
     "trading_tax": 2000

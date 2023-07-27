@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteFervorMod"
     },
-    "en": {
-        "item_name": "Vigilante Fervor",
-        "description": "+45% Fire Rate (x2 for Bows)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Fervor"
-    },
-    "ru": {
-        "item_name": "Карательный Запал",
-        "description": "+45% к скорострельности (x2 для луков)",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%97%D0%B0%D0%BF%D0%B0%D0%BB",
-        "icon": "items/images/ru/vigilante_fervor.b9e7e42a62339a6231303827e7fb56d0.png",
-        "thumb": "items/images/ru/thumbs/vigilante_fervor.b9e7e42a62339a6231303827e7fb56d0.128x128.png"
-    },
-    "ko": {
-        "item_name": "비질란티 퍼버",
-        "description": "+45% 연사력 (활 계열 무기에 2배)",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Fervor"
-    },
-    "de": {
-        "item_name": "Vigilanten: Eifer",
-        "description": "+45 % Feuerrate (x2 für Bögen)",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Vigilanten:_Eifer"
-    },
-    "fr": {
-        "item_name": "Ferveur Du Vigile",
-        "description": "+45% de Cadence de Tir (x2 pour les Arcs)",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ferveur_du_Vigile"
-    },
-    "pt": {
-        "item_name": "Vigilante Fervor",
-        "description": "+45% de Cadência de Tiro (x2 em Arcos)",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vigilante_Fervor"
-    },
-    "zh-hans": {
-        "item_name": "私法 热诚",
-        "description": "+45% 射速（弓类武器效果加倍）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vigilante_Fervor"
-    },
-    "zh-hant": {
-        "item_name": "私法 熱誠",
-        "description": "+45% 射速（弓類武器效果加倍）",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Vigilante_Fervor"
-    },
-    "es": {
-        "item_name": "Fervor Del Vigilante",
-        "description": "+45% de cadencia de fuego (x2 para arcos)",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Fervor_del_vigilante"
-    },
-    "it": {
-        "item_name": "Vigilante Fervor",
-        "description": "+45% Cadenza di Tiro (x2 per Archi)",
-        "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Fervor"
-    },
-    "pl": {
-        "item_name": "Strażniczy Ferwor",
-        "description": "+45% Szybkostrzelność (x2 dla Łuków)",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Stra%C5%BCniczy_Ferwor"
-    },
-    "uk": {
-        "item_name": "Запал Чатового",
-        "description": "+45% до швидкострільності (подвоюється для луків).",
-        "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Fervor"
+    "i18n": {
+        "en": {
+            "item_name": "Vigilante Fervor",
+            "description": "+45% Fire Rate (x2 for Bows)",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Fervor",
+            "icon": "items/images/en/vigilante_fervor.b9db93a4d9747d176e6b644bb8e86c52.png",
+            "thumb": "items/images/en/thumbs/vigilante_fervor.b9db93a4d9747d176e6b644bb8e86c52.128x128.png"
+        },
+        "ru": {
+            "item_name": "Карательный Запал",
+            "description": "+45% к скорострельности (x2 для луков)",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%97%D0%B0%D0%BF%D0%B0%D0%BB",
+            "icon": "items/images/ru/vigilante_fervor.b9e7e42a62339a6231303827e7fb56d0.png",
+            "thumb": "items/images/ru/thumbs/vigilante_fervor.b9e7e42a62339a6231303827e7fb56d0.128x128.png"
+        },
+        "ko": {
+            "item_name": "비질란티 퍼버",
+            "description": "+45% 연사력 (활 계열 무기에 2배)",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Fervor"
+        },
+        "de": {
+            "item_name": "Vigilanten: Eifer",
+            "description": "+45 % Feuerrate (x2 für Bögen)",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Vigilanten:_Eifer"
+        },
+        "fr": {
+            "item_name": "Ferveur Du Vigile",
+            "description": "+45% de Cadence de Tir (x2 pour les Arcs)",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Ferveur_du_Vigile"
+        },
+        "pt": {
+            "item_name": "Vigilante Fervor",
+            "description": "+45% de Cadência de Tiro (x2 em Arcos)",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Vigilante_Fervor"
+        },
+        "zh-hans": {
+            "item_name": "私法 热诚",
+            "description": "+45% 射速（弓类武器效果加倍）",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vigilante_Fervor"
+        },
+        "zh-hant": {
+            "item_name": "私法 熱誠",
+            "description": "+45% 射速（弓類武器效果加倍）",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vigilante_Fervor"
+        },
+        "es": {
+            "item_name": "Fervor Del Vigilante",
+            "description": "+45% de cadencia de fuego (x2 para arcos)",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Fervor_del_vigilante"
+        },
+        "it": {
+            "item_name": "Vigilante Fervor",
+            "description": "+45% Cadenza di Tiro (x2 per Archi)",
+            "wiki_link": "http://warframe.wikia.com/wiki/Vigilante_Fervor"
+        },
+        "pl": {
+            "item_name": "Strażniczy Ferwor",
+            "description": "+45% Szybkostrzelność (x2 dla Łuków)",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Stra%C5%BCniczy_Ferwor"
+        },
+        "uk": {
+            "item_name": "Запал Чатового",
+            "description": "+45% до швидкострільності (подвоюється для луків)",
+            "wiki_link": "https://warframe.fandom.com/wiki/Vigilante_Fervor"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

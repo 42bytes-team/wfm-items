@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB"
     },
-    "en": {
-        "item_name": "Hinta Stabilizer",
-        "description": "",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Стабилизатор: Хинта",
-        "description": "",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "힌타 스테빌라이저",
-        "description": "",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Stabilisierer: Hinta",
-        "description": "",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Stabilisateur Hinta",
-        "description": "",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Estabilizador: Hinta",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "辛塔稳定器",
-        "description": "",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "興達穩椎",
-        "description": "",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Estabilizador Hinta",
-        "description": "",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Hinta - Stabilizzatore",
-        "description": "",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Stabilizator Hinta",
-        "description": "",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Стабілізатор «Гінта»",
-        "description": "",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Hinta Stabilizer",
+            "description": "",
+            "wiki_link": null,
+            "icon": "items/images/en/hinta_stabilizer.788fd43cb395faacf145f8ed45aad5a1.png",
+            "thumb": "items/images/en/thumbs/hinta_stabilizer.788fd43cb395faacf145f8ed45aad5a1.128x128.png"
+        },
+        "ru": {
+            "item_name": "Стабилизатор: Хинта",
+            "description": "",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "힌타 스테빌라이저",
+            "description": "",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Stabilisierer: Hinta",
+            "description": "",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Stabilisateur Hinta",
+            "description": "",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Estabilizador: Hinta",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "辛塔稳定器",
+            "description": "",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "興達穩椎",
+            "description": "",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Estabilizador Hinta",
+            "description": "",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Hinta - Stabilizzatore",
+            "description": "",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Stabilizator Hinta",
+            "description": "",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Стабілізатор «Гінта»",
+            "description": "",
+            "wiki_link": null
+        }
     },
     "mastery_level": 0,
     "trading_tax": 2000

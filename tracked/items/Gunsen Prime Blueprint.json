@@ -1,0 +1,93 @@
+{
+    "_id": "64c2aa1466456704eba6ba2e",
+    "tags": [
+        "melee",
+        "prime",
+        "weapon",
+        "blueprint"
+    ],
+    "icon": "items/images/en/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.png",
+    "thumb": "items/images/en/thumbs/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
+    "icon_format": "port",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "gunsen_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/GunsenPrimeBlueprint"
+    },
+    "part_of_set": [
+        "gunsen_prime_blade",
+        "gunsen_prime_blueprint",
+        "gunsen_prime_handle",
+        "gunsen_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Gunsen Prime Blueprint",
+            "description": "Command the beauty and lethality of these ornate warfans.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Gunsen_Prime",
+            "icon": "items/images/en/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.png",
+            "thumb": "items/images/en/thumbs/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.128x128.png"
+        },
+        "ru": {
+            "item_name": "Гансен Прайм (Чертеж)",
+            "description": "Управляйте красотой и смертоносностью этих богато украшенных боевых вееров.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "군센 프라임 설계도",
+            "description": "이 화려한 전투 부채의 아름다움과 치명성 모두를 마음 가는 대로 지배해 보세요.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Gunsen Prime Blaupause",
+            "description": "Beherrsche die Schönheit und Tödlichkeit dieser verzierten Kriegsfächer.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Gunsen Prime (Schéma)",
+            "description": "Profitez de la beauté et de la létalité de ces Éventails de guerre finement travaillés.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Gunsen Prime (Diagrama)",
+            "description": "Comande a beleza e a letalidade desses Leques de Batalha ornamentados.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "军扇 Prime 蓝图",
+            "description": "（英文：GUNSEN PRIME）让这对华丽的武扇彰显其绝美的杀伤力。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "軍扇 Prime 藍圖",
+            "description": "（英文：GUNSEN PRIME）舞動這對精美的武扇，來掌握它優美以及殺傷力。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Plano de Gunsen Prime",
+            "description": "Domina la belleza y la letalidad de estos abanicos de guerra ornamentales.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Gunsen Prime (Schema)",
+            "description": "Domina la bellezza e la letalità di questi ventagli finemente ornati.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Gunsen Prime - Schemat",
+            "description": "Zawładnij zabójczym pięknem tych ozdobnych wachlarzy.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Ґунсен-Прайм (креслення)",
+            "description": "Скеровуйте чарівне й водночас смертельне оздоблене бойове віяло.",
+            "wiki_link": null
+        }
+    },
+    "mastery_level": 12,
+    "ducats": 15,
+    "trading_tax": 2000
+}

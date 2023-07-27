@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatSlashStatusMod"
     },
-    "en": {
-        "item_name": "Zodiac Shred",
-        "description": "+90% Slash",
-        "wiki_link": "https://warframe.fandom.com/wiki/Zodiac_Shred"
-    },
-    "ru": {
-        "item_name": "Зодиакальное Кромсание",
-        "description": "+90% разрезающего урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%BE%D0%B4%D0%B8%D0%B0%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/zodiac_shred.4063c870dfc5d7c2547bbc40759b45b7.png",
-        "thumb": "items/images/ru/thumbs/zodiac_shred.4063c870dfc5d7c2547bbc40759b45b7.128x128.png"
-    },
-    "ko": {
-        "item_name": "조디악 슈레드",
-        "description": "+90% 베기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Zodiac_Shred"
-    },
-    "de": {
-        "item_name": "Sternenvernichter",
-        "description": "+90 % Schnitt",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sternenvernichter"
-    },
-    "fr": {
-        "item_name": "Zodiaque Déchirant",
-        "description": "+90% Tranchant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Zodiaque_D%C3%A9chirant"
-    },
-    "pt": {
-        "item_name": "Zodiac Shred",
-        "description": "+90% de Cortante",
-        "wiki_link": "http://warframe.wikia.com/wiki/Zodiac_Shred"
-    },
-    "zh-hans": {
-        "item_name": "黄道碎裂",
-        "description": "+90% 切割伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zodiac_Shred"
-    },
-    "zh-hant": {
-        "item_name": "黃道碎裂",
-        "description": "+90% 切割傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Zodiac_Shred"
-    },
-    "es": {
-        "item_name": "Desgarrar El Zodíaco",
-        "description": "+90% de cortante",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Desgarrar_el_zod%C3%ADaco"
-    },
-    "it": {
-        "item_name": "Zodiac Shred",
-        "description": "+90% Taglio",
-        "wiki_link": "http://warframe.wikia.com/wiki/Zodiac_Shred"
-    },
-    "pl": {
-        "item_name": "Zodiakalny Strzęp",
-        "description": "+90% Obrażeń Tnących",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zodiakalny_Strz%C4%99p"
-    },
-    "uk": {
-        "item_name": "Зодіакальне Чикриження",
-        "description": "+90% до різальної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Zodiac_Shred"
+    "i18n": {
+        "en": {
+            "item_name": "Zodiac Shred",
+            "description": "+90% Slash",
+            "wiki_link": "https://warframe.fandom.com/wiki/Zodiac_Shred",
+            "icon": "items/images/en/zodiac_shred.40a59b5cf4eed9e5ecd47c86f00170a4.png",
+            "thumb": "items/images/en/thumbs/zodiac_shred.40a59b5cf4eed9e5ecd47c86f00170a4.128x128.png"
+        },
+        "ru": {
+            "item_name": "Зодиакальное Кромсание",
+            "description": "+90% разрезающего урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%BE%D0%B4%D0%B8%D0%B0%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%9A%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/zodiac_shred.4063c870dfc5d7c2547bbc40759b45b7.png",
+            "thumb": "items/images/ru/thumbs/zodiac_shred.4063c870dfc5d7c2547bbc40759b45b7.128x128.png"
+        },
+        "ko": {
+            "item_name": "조디악 슈레드",
+            "description": "+90% 베기",
+            "wiki_link": "https://warframe.fandom.com/wiki/Zodiac_Shred"
+        },
+        "de": {
+            "item_name": "Sternenvernichter",
+            "description": "+90 % Schnitt",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Sternenvernichter"
+        },
+        "fr": {
+            "item_name": "Zodiaque Déchirant",
+            "description": "+90% Tranchant",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Zodiaque_D%C3%A9chirant"
+        },
+        "pt": {
+            "item_name": "Zodiac Shred",
+            "description": "+90% de Cortante",
+            "wiki_link": "http://warframe.wikia.com/wiki/Zodiac_Shred"
+        },
+        "zh-hans": {
+            "item_name": "黄道碎裂",
+            "description": "+90% 切割伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Zodiac_Shred"
+        },
+        "zh-hant": {
+            "item_name": "黃道碎裂",
+            "description": "+90% 切割傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Zodiac_Shred"
+        },
+        "es": {
+            "item_name": "Desgarrar El Zodíaco",
+            "description": "+90% de cortante",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Desgarrar_el_zod%C3%ADaco"
+        },
+        "it": {
+            "item_name": "Zodiac Shred",
+            "description": "+90% Taglio",
+            "wiki_link": "http://warframe.wikia.com/wiki/Zodiac_Shred"
+        },
+        "pl": {
+            "item_name": "Zodiakalny Strzęp",
+            "description": "+90% Obrażeń Tnących",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zodiakalny_Strz%C4%99p"
+        },
+        "uk": {
+            "item_name": "Зодіакальне Чикриження",
+            "description": "+90% до різальної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Zodiac_Shred"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

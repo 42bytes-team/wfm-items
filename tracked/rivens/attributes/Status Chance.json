@@ -14,40 +14,42 @@
     "game_ref": {
         "uniq_name": "WeaponStunChanceMod"
     },
-    "en": {
-        "effect": "Status Chance"
-    },
-    "ru": {
-        "effect": "Шанс Статуса"
-    },
-    "ko": {
-        "effect": "상태이상 확률"
-    },
-    "de": {
-        "effect": "Statuschance"
-    },
-    "fr": {
-        "effect": "Chance de Statut"
-    },
-    "pt": {
-        "effect": "Status Chance"
-    },
-    "zh-hans": {
-        "effect": "触发几率"
-    },
-    "zh-hant": {
-        "effect": "觸發機率"
-    },
-    "es": {
-        "effect": "Probabilidad de estado"
-    },
-    "it": {
-        "effect": "Status Chance"
-    },
-    "pl": {
-        "effect": "Szansa Statusu"
-    },
-    "uk": {
-        "effect": "Status Chance"
+    "i18n": {
+        "en": {
+            "effect": "Status Chance"
+        },
+        "ru": {
+            "effect": "Шанс Статуса"
+        },
+        "ko": {
+            "effect": "상태이상 확률"
+        },
+        "de": {
+            "effect": "Statuschance"
+        },
+        "fr": {
+            "effect": "Chance de Statut"
+        },
+        "pt": {
+            "effect": "Status Chance"
+        },
+        "zh-hans": {
+            "effect": "触发几率"
+        },
+        "zh-hant": {
+            "effect": "觸發機率"
+        },
+        "es": {
+            "effect": "Probabilidad de estado"
+        },
+        "it": {
+            "effect": "Status Chance"
+        },
+        "pl": {
+            "effect": "Szansa Statusu"
+        },
+        "uk": {
+            "effect": "Status Chance"
+        }
     }
 }

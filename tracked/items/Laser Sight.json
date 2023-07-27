@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Shotgun/Event/CritChanceWhileAimingShotgunMod"
     },
-    "en": {
-        "item_name": "Laser Sight",
-        "description": "On Headshot:\n+120% Critical Chance when Aiming for 9s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Laser_Sight"
-    },
-    "ru": {
-        "item_name": "Лазерный Прицел",
-        "description": "При попадании в голову:\n+120% к шансу критического урона при прицеливании в течение 9с",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%9F%D1%80%D0%B8%D1%86%D0%B5%D0%BB",
-        "icon": "items/images/ru/laser_sight.31a117c34ed4403704e13e888af597a4.png",
-        "thumb": "items/images/ru/thumbs/laser_sight.31a117c34ed4403704e13e888af597a4.128x128.png"
-    },
-    "ko": {
-        "item_name": "레이저 사이트",
-        "description": "헤드샷을 맞출 시:\n9초 동안 조준 시 +120% 치명타 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Laser_Sight"
-    },
-    "de": {
-        "item_name": "Laservisier",
-        "description": "Bei Kopfschuss:\n+120 % Krit. Chance beim Zielen für 9s",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Laservisier"
-    },
-    "fr": {
-        "item_name": "Vision Laser",
-        "description": "Sur Tir à la tête:\nPendant 9s, +120% de Chance de Critique en Visant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Vision_Laser"
-    },
-    "pt": {
-        "item_name": "Laser Sight",
-        "description": "No Acerto de Precisão:\n+120% de Chance Crítica ao Mirar por 9s",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Laser_Sight"
-    },
-    "zh-hans": {
-        "item_name": "雷射瞄具",
-        "description": "造成爆头后：\n瞄准时增加 +120% 暴击几率，持续 9 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Laser_Sight"
-    },
-    "zh-hant": {
-        "item_name": "雷射瞄具",
-        "description": "爆頭時：\n瞄準時增加 +120% 暴擊機率，持續 9 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Laser_Sight"
-    },
-    "es": {
-        "item_name": "Mira Láser",
-        "description": "Al disparar a la cabeza:\n+120% de probabilidad crítica mientras apuntas por 9s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mira_l%C3%A1ser"
-    },
-    "it": {
-        "item_name": "Laser Sight",
-        "description": "Dopo un Colpo alla Testa:\n+120% Probabilità Critico durante la mira per 9s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Laser_Sight"
-    },
-    "pl": {
-        "item_name": "Celownik Laserowy",
-        "description": "Po trafieniu w głowę:\n+120% Szansy Obr. Kryt. podczas celowania przez 9s",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Celownik_Argonowy"
-    },
-    "uk": {
-        "item_name": "Лазерний Приціл",
-        "description": "У разі влучання в голову:\n+120% до ймовірності критичної шкоди під час прицілювання. Тривалість: 9 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Laser_Sight"
+    "i18n": {
+        "en": {
+            "item_name": "Laser Sight",
+            "description": "On Headshot:\n+120% Critical Chance when Aiming for 9s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Laser_Sight",
+            "icon": "items/images/en/laser_sight.856fb0b93fb9bd6cc8bbd68041666039.png",
+            "thumb": "items/images/en/thumbs/laser_sight.856fb0b93fb9bd6cc8bbd68041666039.128x128.png"
+        },
+        "ru": {
+            "item_name": "Лазерный Прицел",
+            "description": "При попадании в голову:\n+120% к шансу критического урона при прицеливании в течение 9с",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%9F%D1%80%D0%B8%D1%86%D0%B5%D0%BB",
+            "icon": "items/images/ru/laser_sight.31a117c34ed4403704e13e888af597a4.png",
+            "thumb": "items/images/ru/thumbs/laser_sight.31a117c34ed4403704e13e888af597a4.128x128.png"
+        },
+        "ko": {
+            "item_name": "레이저 사이트",
+            "description": "헤드샷을 맞출 시:\n9초 동안 조준 시 +120% 치명타 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Laser_Sight"
+        },
+        "de": {
+            "item_name": "Laservisier",
+            "description": "Bei Kopfschuss:\n+120 % Krit. Chance beim Zielen für 9s",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Laservisier"
+        },
+        "fr": {
+            "item_name": "Vision Laser",
+            "description": "Sur Tir à la tête:\nPendant 9s, +120% de Chance de Critique en Visant",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Vision_Laser"
+        },
+        "pt": {
+            "item_name": "Laser Sight",
+            "description": "No Acerto de Precisão:\n+120% de Chance Crítica ao Mirar por 9s",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Laser_Sight"
+        },
+        "zh-hans": {
+            "item_name": "雷射瞄具",
+            "description": "造成爆头后：\n瞄准时增加 +120% 暴击几率，持续 9 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Laser_Sight"
+        },
+        "zh-hant": {
+            "item_name": "雷射瞄具",
+            "description": "爆頭時：\n瞄準時增加 +120% 暴擊機率，持續 9 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Laser_Sight"
+        },
+        "es": {
+            "item_name": "Mira Láser",
+            "description": "Al disparar a la cabeza:\n+120% de probabilidad crítica mientras apuntas por 9s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Mira_l%C3%A1ser"
+        },
+        "it": {
+            "item_name": "Laser Sight",
+            "description": "Dopo un Colpo alla Testa:\n+120% Probabilità Critico durante la mira per 9s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Laser_Sight"
+        },
+        "pl": {
+            "item_name": "Celownik Laserowy",
+            "description": "Po trafieniu w głowę:\n+120% Szansy Obr. Kryt. podczas celowania przez 9s",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Celownik_Argonowy"
+        },
+        "uk": {
+            "item_name": "Лазерний Приціл",
+            "description": "У разі влучання в голову:\n+120% до ймовірності критичної шкоди під час прицілювання. Тривалість: 9 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Laser_Sight"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

@@ -22,65 +22,69 @@
         "imperator_vandal_set"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Imperator Vandal Set",
-        "description": "The Imperator Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the barrel.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Imperator_Vandal"
-    },
-    "ru": {
-        "item_name": "Император Вандал: Комплект",
-        "description": "Император Вандал раскрашен Тэнно в сине-зелёный цвет, с символом Лотос на стволе.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%92%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB"
-    },
-    "ko": {
-        "item_name": "임페라토르 반달 세트",
-        "description": "임페라토르 반달은 배럴 부분에 로터스 문양을 새긴 뒤 청록색의 금속질감으로 마무리한 텐노식 개조 무기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Imperator_Vandal"
-    },
-    "de": {
-        "item_name": "Imperator Vandal: Set",
-        "description": "Die Imperator Vandal wurde von den Tenno angepasst und mit einem Blau-Grün Metallischen Lack sowie einem Lotus-Symbol auf dem Lauf verziert.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Imperator_Vandal"
-    },
-    "fr": {
-        "item_name": "Imperator Vandal - Set",
-        "description": "L'Imperator Vandal a été personnalisé par les Tenno avec une finition métallique bleu-vert et la marque du Lotus sur le canon.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Imperator_Vandal"
-    },
-    "pt": {
-        "item_name": "Imperator Vandalizada: Conjunto",
-        "description": "A Imperator Vandalizada foi personalizada pelos Tenno com um acabamento azul esverdeado metálico e a marca da Lótus no barril.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Imperator_Vandal"
-    },
-    "zh-hans": {
-        "item_name": "凯旋将军·破坏者 一套",
-        "description": "（英文：IMPERATOR VANDAL）这款为 Tenno 量身打造的凯旋将军破坏者带有蓝绿色的金属质感，枪管上还有 Lotus 的铭刻。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Imperator_Vandal"
-    },
-    "zh-hant": {
-        "item_name": "凱旋將軍 破壞者 一套",
-        "description": "（英文：IMPERATOR VANDAL）這款為 Tenno 量身打造的凱旋將軍破壞者帶有藍綠色的金屬質感，槍管上還有 Lotus 的銘刻。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Imperator_Vandal"
-    },
-    "es": {
-        "item_name": "Set de Imperator Vándalo",
-        "description": "El Imperator Vándalo ha sido personalizado por los tenno con un acabado metálico verdiazul y con la insignia de Lotus en el cañón.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Imperator_V%C3%A1ndalo"
-    },
-    "it": {
-        "item_name": "Imperator Vandal Set",
-        "description": "L'Imperator Vandal è stato personalizzato dai Tenno con una rifinitura metallica blu-verde ed il marchio di Lotus sulla canna.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Braton_Vandal"
-    },
-    "pl": {
-        "item_name": "Imperator Vandal: Zestaw",
-        "description": "Imperator Vandal został spersonalizowany przez Tenno przez pokrycie go błękitno-zieloną oksydą i umieszczenie znaku Lotus na lufie.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Imperator_Vandal"
-    },
-    "uk": {
-        "item_name": "Імператор-Вандал (комплект)",
-        "description": "Особлива версія арк-гармати. Має синьо-зелене металеве покриття та символ Лотос на стволі.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Imperator_Vandal"
+    "i18n": {
+        "en": {
+            "item_name": "Imperator Vandal Set",
+            "description": "The Imperator Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the barrel.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Imperator_Vandal",
+            "icon": "items/images/en/imperator_vandal_set.a7802d291f16f9dcd97afb2e69c879b6.png",
+            "thumb": "items/images/en/thumbs/imperator_vandal_set.a7802d291f16f9dcd97afb2e69c879b6.128x128.png"
+        },
+        "ru": {
+            "item_name": "Император Вандал: Комплект",
+            "description": "Император Вандал раскрашен Тэнно в сине-зелёный цвет, с символом Лотос на стволе.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%92%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB"
+        },
+        "ko": {
+            "item_name": "임페라토르 반달 세트",
+            "description": "임페라토르 반달은 배럴 부분에 로터스 문양을 새긴 뒤 청록색의 금속질감으로 마무리한 텐노식 개조 무기입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Imperator_Vandal"
+        },
+        "de": {
+            "item_name": "Imperator Vandal: Set",
+            "description": "Die Imperator Vandal wurde von den Tenno angepasst und mit einem Blau-Grün Metallischen Lack sowie einem Lotus-Symbol auf dem Lauf verziert.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Imperator_Vandal"
+        },
+        "fr": {
+            "item_name": "Imperator Vandal - Set",
+            "description": "L'Imperator Vandal a été personnalisé par les Tenno avec une finition métallique bleu-vert et la marque du Lotus sur le canon.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Imperator_Vandal"
+        },
+        "pt": {
+            "item_name": "Imperator Vandalizada: Conjunto",
+            "description": "A Imperator Vandalizada foi personalizada pelos Tenno com um acabamento azul esverdeado metálico e a marca da Lótus no barril.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Imperator_Vandal"
+        },
+        "zh-hans": {
+            "item_name": "凯旋将军·破坏者 一套",
+            "description": "（英文：IMPERATOR VANDAL）这款为 Tenno 量身打造的凯旋将军破坏者带有蓝绿色的金属质感，枪管上还有 Lotus 的铭刻。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Imperator_Vandal"
+        },
+        "zh-hant": {
+            "item_name": "凱旋將軍 破壞者 一套",
+            "description": "（英文：IMPERATOR VANDAL）這款為 Tenno 量身打造的凱旋將軍破壞者帶有藍綠色的金屬質感，槍管上還有 Lotus 的銘刻。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Imperator_Vandal"
+        },
+        "es": {
+            "item_name": "Set de Imperator Vándalo",
+            "description": "El Imperator Vándalo ha sido personalizado por los tenno con un acabado metálico verdiazul y con la insignia de Lotus en el cañón.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Imperator_V%C3%A1ndalo"
+        },
+        "it": {
+            "item_name": "Imperator Vandal Set",
+            "description": "L'Imperator Vandal è stato personalizzato dai Tenno con una rifinitura metallica blu-verde ed il marchio di Lotus sulla canna.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Braton_Vandal"
+        },
+        "pl": {
+            "item_name": "Imperator Vandal: Zestaw",
+            "description": "Imperator Vandal został spersonalizowany przez Tenno przez pokrycie go błękitno-zieloną oksydą i umieszczenie znaku Lotus na lufie.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Imperator_Vandal"
+        },
+        "uk": {
+            "item_name": "Імператор-Вандал (комплект)",
+            "description": "Особлива версія арк-гармати. Має синьо-зелене металеве покриття та символ Лотос на стволі.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Imperator_Vandal"
+        }
     },
     "mastery_level": 5,
     "trading_tax": 6000

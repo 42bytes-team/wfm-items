@@ -22,65 +22,69 @@
         "cinta_upper_limb_blueprint"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Cinta Set",
-        "description": "The versatile Cinta can fire arrows in quick succession, quickly charge a shock wave, or fully charge a powerful focused shot.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Синта: Комплект",
-        "description": "Универсальный лук «Синта» может быстро выпускать рой стрел, заряжать и выпускать ударную волну или мощный заряженный выстрел.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "신타 세트",
-        "description": "다양한 곳에서 유용성을 가진 신타는 연속해서 빠르게 화살을 쏘거나, 빠른 차징을 통해 충격파를 내보내거나, 완전 차징을 통해 한 점에 집중된 강력한 한 발을 쏘아 보낼 수 있습니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Cinta: Set",
-        "description": "Der vielseitige Cinta kann schnell hintereinander Pfeile abfeuern, eine Schockwelle aufladen oder einen kraftvollen, fokussierten Schuss voll aufladen.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Cinta - Set",
-        "description": "Le Cinta polyvalent peut tirer des flèches en succession rapide, charger rapidement une onde de choc ou charger complètement un puissant tir ciblé.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Cinta: Conjunto",
-        "description": "A versátil Cinta pode disparar flechas em rápida sucessão, carregar rapidamente uma onda de choque ou carregar completamente um poderoso disparo concentrado.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "遂心 一套",
-        "description": "（英文：CINTA）遂心的功能非常多样化，可以快速连续地射出箭矢，迅速充能释放冲击震波，或完全充能并进行威力强大的聚焦式射击。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "如意 一套",
-        "description": "（英文：CINTA）萬用的如意可以快速地連續射出箭矢，快速充能並釋放衝擊波，或完整充能以射出強大的聚焦射擊。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Set de Cinta",
-        "description": "La versátil Cinta puede disparar flechas en rápida sucesión, cargar rápidamente una onda de choque o cargar por completo para un disparo poderoso y preciso.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Cinta Set",
-        "description": "La versatile Cinta può scoccare frecce in rapida successione, caricare velocemente un'onda d'urto o caricare completamente un colpo potente e preciso.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Cinta: Zestaw",
-        "description": "Wszechstronna Cinta umożliwia szybki ostrzał. Częściowe naciągnięcie tworzy falę uderzeniową, a pełne naciągnięcie wystrzeliwuje potężną, precyzyjną strzałę.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Цінта (комплект)",
-        "description": "Універсальний лук Цінта може швидко випускати рій стріл, а також заряджати й випускати ударну хвилю чи потужний заряджений постріл.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Cinta Set",
+            "description": "The versatile Cinta can fire arrows in quick succession, quickly charge a shock wave, or fully charge a powerful focused shot.",
+            "wiki_link": null,
+            "icon": "items/images/en/cinta_set.9362297c3ebd9acd6e874dd3b8a85e34.png",
+            "thumb": "items/images/en/thumbs/cinta_set.9362297c3ebd9acd6e874dd3b8a85e34.128x128.png"
+        },
+        "ru": {
+            "item_name": "Синта: Комплект",
+            "description": "Универсальный лук «Синта» может быстро выпускать рой стрел, заряжать и выпускать ударную волну или мощный заряженный выстрел.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "신타 세트",
+            "description": "다양한 곳에서 유용성을 가진 신타는 연속해서 빠르게 화살을 쏘거나, 빠른 차징을 통해 충격파를 내보내거나, 완전 차징을 통해 한 점에 집중된 강력한 한 발을 쏘아 보낼 수 있습니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Cinta: Set",
+            "description": "Der vielseitige Cinta kann schnell hintereinander Pfeile abfeuern, eine Schockwelle aufladen oder einen kraftvollen, fokussierten Schuss voll aufladen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Cinta - Set",
+            "description": "Le Cinta polyvalent peut tirer des flèches en succession rapide, charger rapidement une onde de choc ou charger complètement un puissant tir ciblé.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Cinta: Conjunto",
+            "description": "A versátil Cinta pode disparar flechas em rápida sucessão, carregar rapidamente uma onda de choque ou carregar completamente um poderoso disparo concentrado.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "遂心 一套",
+            "description": "（英文：CINTA）遂心的功能非常多样化，可以快速连续地射出箭矢，迅速充能释放冲击震波，或完全充能并进行威力强大的聚焦式射击。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "如意 一套",
+            "description": "（英文：CINTA）萬用的如意可以快速地連續射出箭矢，快速充能並釋放衝擊波，或完整充能以射出強大的聚焦射擊。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Set de Cinta",
+            "description": "La versátil Cinta puede disparar flechas en rápida sucesión, cargar rápidamente una onda de choque o cargar por completo para un disparo poderoso y preciso.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Cinta Set",
+            "description": "La versatile Cinta può scoccare frecce in rapida successione, caricare velocemente un'onda d'urto o caricare completamente un colpo potente e preciso.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Cinta: Zestaw",
+            "description": "Wszechstronna Cinta umożliwia szybki ostrzał. Częściowe naciągnięcie tworzy falę uderzeniową, a pełne naciągnięcie wystrzeliwuje potężną, precyzyjną strzałę.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Цінта (комплект)",
+            "description": "Універсальний лук Цінта може швидко випускати рій стріл, а також заряджати й випускати ударну хвилю чи потужний заряджений постріл.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 6,
     "trading_tax": 8000

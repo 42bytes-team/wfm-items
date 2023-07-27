@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Moa/MoaMeleeMod"
     },
-    "en": {
-        "item_name": "Hard Engage",
-        "description": "Engages enemies within 10m with melee attacks, dealing 90  Impact Damage. Melee attacks are enhanced by Mods equipped in the Moa's weapon.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
-    },
-    "ru": {
-        "item_name": "Грубое Вмешательство",
-        "description": "Атакует врага на расстоянии до 10 м оружием ближнего боя, нанося 90 ударного урона. Атаки ближнего боя усиливаются модами, экипированными на оружие МОА.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D1%83%D0%B1%D0%BE%D0%B5_%D0%92%D0%BC%D0%B5%D1%88%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE"
-    },
-    "ko": {
-        "item_name": "하드 인게이지",
-        "description": "10m 내의 적들과 근접 공격으로 교전하며, 90 충격 피해를 가합니다. MOA의 무기에 모드를 장착하여 근접 공격을 강화할 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
-    },
-    "de": {
-        "item_name": "Harter Angriff",
-        "description": "Greift Gegner innerhalb von 10 m mit Nahkampfangriffen an und teilt 90 Einschlagschaden aus. Nahkampfangriffe werden durch Mods verstärkt, die auf der Waffe des MOAs ausgerüstet sind.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Hysterischer_Angriff"
-    },
-    "fr": {
-        "item_name": "Combat Rapproché",
-        "description": "Attaque les ennemis en Mêlée dans une zone de 10m, infligeant 90 points de Dégâts d'Impact. Les attaques de Mêlée sont améliorées grâce aux Mods équipés sur l'arme du MOA.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Combat_Rapproch%C3%A9"
-    },
-    "pt": {
-        "item_name": "Hard Engage",
-        "description": "Atacará inimigos dentro de 10m, com investidas de corpo a corpo, causando 90 Dano Colisivo. Os ataques de corpo a corpo serão aprimorados com base nos Mods equipados na arma da Moa.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
-    },
-    "zh-hans": {
-        "item_name": "以硬碰硬",
-        "description": "使用近战攻击 10 米内的敌人，并造成 90 冲击伤害。近战攻击的伤害会随着恐鸟武器上装备的 Mod 提升。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hard_Engage"
-    },
-    "zh-hant": {
-        "item_name": "短兵相接",
-        "description": "透過近戰攻擊對 10 公尺範圍內的敵人發動攻擊，造成 90 衝擊傷害。近戰攻擊由裝備在恐鳥的武器中的 MOD 強化。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hard_Engage"
-    },
-    "es": {
-        "item_name": "Combate Duro",
-        "description": "Enfrenta a los enemigos dentro de 10m con ataques cuerpo a cuerpo, infligiendo 90 de daño de impacto. Los ataques con armas cuerpo a cuerpo son mejorados por los mods equipados en el arma del Moa.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Combate_duro"
-    },
-    "it": {
-        "item_name": "Hard Engage",
-        "description": "Attacca i nemici nel raggio di 10m con attacchi corpo a corpo che infliggono 90 Danno . Gli attacchi sono potenziati dai Mod equipaggiati sull'arma del Moa.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
-    },
-    "pl": {
-        "item_name": "Ciężka Bitwa",
-        "description": "Atakuje wręcz wrogów w zasięgu 10m, zadając 90 Obr. Miażdżących. Ataki wręcz są wzmacniane przez Mody założone na broń Moa.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
-    },
-    "uk": {
-        "item_name": "Жорстке Зіткнення",
-        "description": "Нападає на ворогів у межах 10 м, завдаючи 90 ударної шкоди. Атаки ближнього бою посилюються модифікаторами, спорядженими в зброю МОА.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
+    "i18n": {
+        "en": {
+            "item_name": "Hard Engage",
+            "description": "Engages enemies within 10m with melee attacks, dealing 90  Impact Damage. Melee attacks are enhanced by Mods equipped in the Moa's weapon.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage",
+            "icon": "items/images/en/hard_engage.d7fe88b2f84043d5c691b9d6531c4087.png",
+            "thumb": "items/images/en/thumbs/hard_engage.d7fe88b2f84043d5c691b9d6531c4087.128x128.png"
+        },
+        "ru": {
+            "item_name": "Грубое Вмешательство",
+            "description": "Атакует врага на расстоянии до 10 м оружием ближнего боя, нанося 90 ударного урона. Атаки ближнего боя усиливаются модами, экипированными на оружие МОА.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D1%83%D0%B1%D0%BE%D0%B5_%D0%92%D0%BC%D0%B5%D1%88%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE"
+        },
+        "ko": {
+            "item_name": "하드 인게이지",
+            "description": "10m 내의 적들과 근접 공격으로 교전하며, 90 충격 피해를 가합니다. MOA의 무기에 모드를 장착하여 근접 공격을 강화할 수 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
+        },
+        "de": {
+            "item_name": "Harter Angriff",
+            "description": "Greift Gegner innerhalb von 10 m mit Nahkampfangriffen an und teilt 90 Einschlagschaden aus. Nahkampfangriffe werden durch Mods verstärkt, die auf der Waffe des MOAs ausgerüstet sind.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Hysterischer_Angriff"
+        },
+        "fr": {
+            "item_name": "Combat Rapproché",
+            "description": "Attaque les ennemis en Mêlée dans une zone de 10m, infligeant 90 points de Dégâts d'Impact. Les attaques de Mêlée sont améliorées grâce aux Mods équipés sur l'arme du MOA.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Combat_Rapproch%C3%A9"
+        },
+        "pt": {
+            "item_name": "Hard Engage",
+            "description": "Atacará inimigos dentro de 10m, com investidas de corpo a corpo, causando 90 Dano Colisivo. Os ataques de corpo a corpo serão aprimorados com base nos Mods equipados na arma da Moa.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
+        },
+        "zh-hans": {
+            "item_name": "以硬碰硬",
+            "description": "使用近战攻击 10 米内的敌人，并造成 90 冲击伤害。近战攻击的伤害会随着恐鸟武器上装备的 Mod 提升。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hard_Engage"
+        },
+        "zh-hant": {
+            "item_name": "短兵相接",
+            "description": "透過近戰攻擊對 10 公尺範圍內的敵人發動攻擊，造成 90 衝擊傷害。近戰攻擊由裝備在恐鳥的武器中的 MOD 強化。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hard_Engage"
+        },
+        "es": {
+            "item_name": "Combate Duro",
+            "description": "Enfrenta a los enemigos dentro de 10m con ataques cuerpo a cuerpo, infligiendo 90 de daño de impacto. Los ataques con armas cuerpo a cuerpo son mejorados por los mods equipados en el arma del Moa.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Combate_duro"
+        },
+        "it": {
+            "item_name": "Hard Engage",
+            "description": "Attacca i nemici nel raggio di 10m con attacchi corpo a corpo che infliggono 90 Danno . Gli attacchi sono potenziati dai Mod equipaggiati sull'arma del Moa.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
+        },
+        "pl": {
+            "item_name": "Ciężka Bitwa",
+            "description": "Atakuje wręcz wrogów w zasięgu 10m, zadając 90 Obr. Miażdżących. Ataki wręcz są wzmacniane przez Mody założone na broń Moa.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
+        },
+        "uk": {
+            "item_name": "Жорстке Зіткнення",
+            "description": "Нападає на ворогів у межах 10 м, завдаючи 90 ударної шкоди. Атаки ближнього бою посилюються модифікаторами, спорядженими в зброю МОА.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hard_Engage"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

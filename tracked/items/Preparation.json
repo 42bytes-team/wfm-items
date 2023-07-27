@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Warframe/AvatarSpawnEnergyMod"
     },
-    "en": {
-        "item_name": "Preparation",
-        "description": "+100% Maximum Energy is filled on Spawn",
-        "wiki_link": "https://warframe.fandom.com/wiki/Preparation"
-    },
-    "ru": {
-        "item_name": "Подготовка",
-        "description": "Пополняет запас энергии на +100% от максимально возможного при появлении",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0"
-    },
-    "ko": {
-        "item_name": "프레퍼레이션",
-        "description": "스폰 시 최대 에너지량의 +100% 충전",
-        "wiki_link": "https://warframe.fandom.com/wiki/Preparation"
-    },
-    "de": {
-        "item_name": "Vorbereitung",
-        "description": "+100 % maximale Energie beim Spawnen",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Vergeltung"
-    },
-    "fr": {
-        "item_name": "Préparation",
-        "description": "+100% de l'Énergie Max est remplie dès l'apparition",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pr%C3%A9paration"
-    },
-    "pt": {
-        "item_name": "Preparation",
-        "description": "+100% de Energia Máxima fornecida ao Aparecer",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Serration"
-    },
-    "zh-hans": {
-        "item_name": "有备而来",
-        "description": "进入任务时获得 +100% 最大能量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Preparation"
-    },
-    "zh-hant": {
-        "item_name": "萬事俱備",
-        "description": "任務初始獲得 +100% 最大能量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Preparation"
-    },
-    "es": {
-        "item_name": "Preparación",
-        "description": "+100% de la energía máxima es rellenada al aparecer",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Preparaci%C3%B3n"
-    },
-    "it": {
-        "item_name": "Preparation",
-        "description": "+100% Energia Massima viene riempita alla Generazione",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Serration"
-    },
-    "pl": {
-        "item_name": "Przygotowanie",
-        "description": "+100% Maksymalnej Początkowej Energi zostanie napełniona",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przetrwanie"
-    },
-    "uk": {
-        "item_name": "Приготування",
-        "description": "+100% до максимальної енергії під час відродження.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Preparation"
+    "i18n": {
+        "en": {
+            "item_name": "Preparation",
+            "description": "+100% Maximum Energy is filled on Spawn",
+            "wiki_link": "https://warframe.fandom.com/wiki/Preparation",
+            "icon": "items/images/en/preparation.f41baaf0f6a981eac9583d5b4cda7162.png",
+            "thumb": "items/images/en/thumbs/preparation.f41baaf0f6a981eac9583d5b4cda7162.128x128.png"
+        },
+        "ru": {
+            "item_name": "Подготовка",
+            "description": "Пополняет запас энергии на +100% от максимально возможного при появлении",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0"
+        },
+        "ko": {
+            "item_name": "프레퍼레이션",
+            "description": "스폰 시 최대 에너지량의 +100% 충전",
+            "wiki_link": "https://warframe.fandom.com/wiki/Preparation"
+        },
+        "de": {
+            "item_name": "Vorbereitung",
+            "description": "+100 % maximale Energie beim Spawnen",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Vergeltung"
+        },
+        "fr": {
+            "item_name": "Préparation",
+            "description": "+100% de l'Énergie Max est remplie dès l'apparition",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Pr%C3%A9paration"
+        },
+        "pt": {
+            "item_name": "Preparation",
+            "description": "+100% de Energia Máxima fornecida ao Aparecer",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Serration"
+        },
+        "zh-hans": {
+            "item_name": "有备而来",
+            "description": "进入任务时获得 +100% 最大能量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Preparation"
+        },
+        "zh-hant": {
+            "item_name": "萬事俱備",
+            "description": "任務初始獲得 +100% 最大能量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Preparation"
+        },
+        "es": {
+            "item_name": "Preparación",
+            "description": "+100% de la energía máxima es rellenada al aparecer",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Preparaci%C3%B3n"
+        },
+        "it": {
+            "item_name": "Preparation",
+            "description": "+100% Energia Massima viene riempita alla Generazione",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Serration"
+        },
+        "pl": {
+            "item_name": "Przygotowanie",
+            "description": "+100% Maksymalnej Początkowej Energi zostanie napełniona",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Przetrwanie"
+        },
+        "uk": {
+            "item_name": "Приготування",
+            "description": "+100% до максимальної енергії під час відродження",
+            "wiki_link": "https://warframe.fandom.com/wiki/Preparation"
+        }
     },
     "rarity": "rare",
     "max_rank": 10,

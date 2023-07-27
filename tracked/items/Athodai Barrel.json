@@ -21,65 +21,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Athodai Barrel",
-        "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "ru": {
-        "item_name": "Атодай: Ствол",
-        "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BE%D0%B4%D0%B0%D0%B9"
-    },
-    "ko": {
-        "item_name": "아쏘다이 배럴",
-        "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "de": {
-        "item_name": "Athodai: Lauf",
-        "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "fr": {
-        "item_name": "Athodai - Canon",
-        "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Athodai"
-    },
-    "pt": {
-        "item_name": "Athodai: Cano",
-        "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "zh-hans": {
-        "item_name": "阿索代 枪管",
-        "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Athodai"
-    },
-    "zh-hant": {
-        "item_name": "厄索戴 槍管",
-        "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Athodai"
-    },
-    "es": {
-        "item_name": "Cañón De Athodai",
-        "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "it": {
-        "item_name": "Athodai - Canna",
-        "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "pl": {
-        "item_name": "Athodai: Lufa",
-        "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
-    },
-    "uk": {
-        "item_name": "Атодай: Ствол",
-        "description": "Деталь зброї.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+    "i18n": {
+        "en": {
+            "item_name": "Athodai Barrel",
+            "description": "A weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai",
+            "icon": "items/images/en/athodai_barrel.df278ff7a927e6fa6e2c3a20f4ccdcfb.png",
+            "thumb": "items/images/en/thumbs/athodai_barrel.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png"
+        },
+        "ru": {
+            "item_name": "Атодай: Ствол",
+            "description": "Компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%82%D0%BE%D0%B4%D0%B0%D0%B9"
+        },
+        "ko": {
+            "item_name": "아쏘다이 배럴",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "de": {
+            "item_name": "Athodai: Lauf",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "fr": {
+            "item_name": "Athodai - Canon",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Athodai"
+        },
+        "pt": {
+            "item_name": "Athodai: Cano",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "zh-hans": {
+            "item_name": "阿索代 枪管",
+            "description": "一个武器的制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Athodai"
+        },
+        "zh-hant": {
+            "item_name": "厄索戴 槍管",
+            "description": "製作武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Athodai"
+        },
+        "es": {
+            "item_name": "Cañón De Athodai",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "it": {
+            "item_name": "Athodai - Canna",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "pl": {
+            "item_name": "Athodai: Lufa",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        },
+        "uk": {
+            "item_name": "Атодай: Ствол",
+            "description": "Деталь зброї.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Athodai"
+        }
     },
     "mastery_level": 10,
     "trading_tax": 2000

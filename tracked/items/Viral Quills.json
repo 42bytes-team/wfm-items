@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedKavatViralQuillsPrecept"
     },
-    "en": {
-        "item_name": "Viral Quills",
-        "description": "Launches 6 quills at enemies within 20m, each dealing 60 Viral Damage with 40% Status Chance. If the target is affected by a Viral Status, a Spore is added. 4s cooldown.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
-    },
-    "ru": {
-        "item_name": "Вирусные Иглы",
-        "description": "Выпускает 6 игл во врагов в радиусе 20м, каждое из которых наносит 60 Вирусного урона с 40% шансом статуса. Если на цель наложен вирусный эффект, добавляется Спора. Восстановление: 4с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B8%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B5_%D0%98%D0%B3%D0%BB%D1%8B"
-    },
-    "ko": {
-        "item_name": "바이럴 퀼스",
-        "description": "20m 내의 적들을 향해 6개의 침을 쏘아내 각각의 적에게 60의 바이러스 피해를 입히며 40%의 확률로 바이러스 상태 이상을 부여합니다. 적이 이미 바이러스 상태 이상에 걸려 있을 경우, 스포어를 추가로 생성시킵니다. 재사용 대기 시간: 4초",
-        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
-    },
-    "de": {
-        "item_name": "Virale Stacheln",
-        "description": "Verschießt 6 Stacheln gegen Feinde innerhalb von 20 m und verursacht 60 Virusschaden pro Stachel mit 40 % Chance auf Virus-Statuseffekt. Leidet das Ziel unter Virus-Status, wird eine Spore hinzugefügt. 4 s Abklingzeit.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
-    },
-    "fr": {
-        "item_name": "Piques Virales",
-        "description": "Lance 6 piques sur les ennemis à moins de 20m, infligeant 60 points de Dégâts Viraux avec 40% de Chances de Statut. Si la cible est affectée par un Effet de Statut Viral, une spore est ajoutée. Temps de recharge de 4s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
-    },
-    "pt": {
-        "item_name": "Viral Quills",
-        "description": "Dispara 6 espinhos nos inimigos dentro de 20m, cada um causando 60 de Dano Viral, com 40% de chance de Efeito de Status. Se o alvo for afetado pelo Efeito de Status Viral, um Esporo também será gerado. Tempo de recarga: 4s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
-    },
-    "zh-hans": {
-        "item_name": "疫病尖刺",
-        "description": "对 20 米内的敌人发射 6 毛刺，每发造成 60 病毒伤害，且有 40% 的触发几率。如果目标已带有病毒异常状态，则会有一个孢子生出。4 秒冷却时间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Viral_Quills"
-    },
-    "zh-hant": {
-        "item_name": "病毒羽刺",
-        "description": "向 20 公尺內的敵人發射 6 支羽刺，每支羽刺可造成 60 病毒傷害，並有 40% 的機率觸發中毒狀態。如命中已經中毒的目標，則會再增生一枚孢子。觸發冷卻時間 4 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Viral_Quills"
-    },
-    "es": {
-        "item_name": "Púas Virales",
-        "description": "Lanza 6 púas a los enemigos dentro de 20 m, infligiendo 60 de daño viral con 40 % de probabilidad de efecto. Si el objetivo se ve afectado por un estado viral, se agrega una espora. 4 s de tiempo de espera.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/P%C3%BAas_virales"
-    },
-    "it": {
-        "item_name": "Viral Quills",
-        "description": "Lancia 6 aculei contro i nemici nel raggio di 20m, infliggendo 60 Danno Virale ciascuno e con il 40% Probabilità Effetto. Se il bersaglio subisce l'Effetto Virale, viene generata anche una Spora. Tempo di ricarica: 4s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
-    },
-    "pl": {
-        "item_name": "Zakaźne Kolce",
-        "description": "Wystrzeliwuje 6 kolców we wrogów w zasięgu 20m, zadając 60 Obr. Wirusowych z 40% Szansy Statusu. Jeśli na cel nałożony jest już Status Obr. Wirusowych, dodaje również Zarodnik. Czas odnowienia: 4s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
-    },
-    "uk": {
-        "item_name": "Заражені Голки",
-        "description": "Випускає голки (6 шт.) у ворогів у межах 20 м, кожна з яких завдає 60 вірусної шкоди та має 40% імовірності накласти ефект вірусного стану. Якщо такий на ворогові вже є, то додає спору. Перезаряджання: 4 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
+    "i18n": {
+        "en": {
+            "item_name": "Viral Quills",
+            "description": "Launches 6 quills at enemies within 20m, each dealing 60 Viral Damage with 40% Status Chance. If the target is affected by a Viral Status, a Spore is added. 4s cooldown.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills",
+            "icon": "items/images/en/viral_quills.7c3d803df0d4955872187242adbfda57.png",
+            "thumb": "items/images/en/thumbs/viral_quills.7c3d803df0d4955872187242adbfda57.128x128.png"
+        },
+        "ru": {
+            "item_name": "Вирусные Иглы",
+            "description": "Выпускает 6 игл во врагов в радиусе 20м, каждое из которых наносит 60 Вирусного урона с 40% шансом статуса. Если на цель наложен вирусный эффект, добавляется Спора. Восстановление: 4с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B8%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B5_%D0%98%D0%B3%D0%BB%D1%8B"
+        },
+        "ko": {
+            "item_name": "바이럴 퀼스",
+            "description": "20m 내의 적들을 향해 6개의 침을 쏘아내 각각의 적에게 60의 바이러스 피해를 입히며 40%의 확률로 바이러스 상태 이상을 부여합니다. 적이 이미 바이러스 상태 이상에 걸려 있을 경우, 스포어를 추가로 생성시킵니다. 재사용 대기 시간: 4초",
+            "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
+        },
+        "de": {
+            "item_name": "Virale Stacheln",
+            "description": "Verschießt 6 Stacheln gegen Feinde innerhalb von 20 m und verursacht 60 Virusschaden pro Stachel mit 40 % Chance auf Virus-Statuseffekt. Leidet das Ziel unter Virus-Status, wird eine Spore hinzugefügt. 4 s Abklingzeit.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
+        },
+        "fr": {
+            "item_name": "Piques Virales",
+            "description": "Lance 6 piques sur les ennemis à moins de 20m, infligeant 60 points de Dégâts Viraux avec 40% de Chances de Statut. Si la cible est affectée par un Effet de Statut Viral, une spore est ajoutée. Temps de recharge de 4s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
+        },
+        "pt": {
+            "item_name": "Viral Quills",
+            "description": "Dispara 6 espinhos nos inimigos dentro de 20m, cada um causando 60 de Dano Viral, com 40% de chance de Efeito de Status. Se o alvo for afetado pelo Efeito de Status Viral, um Esporo também será gerado. Tempo de recarga: 4s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
+        },
+        "zh-hans": {
+            "item_name": "疫病尖刺",
+            "description": "对 20 米内的敌人发射 6 毛刺，每发造成 60 病毒伤害，且有 40% 的触发几率。如果目标已带有病毒异常状态，则会有一个孢子生出。4 秒冷却时间。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Viral_Quills"
+        },
+        "zh-hant": {
+            "item_name": "病毒羽刺",
+            "description": "向 20 公尺內的敵人發射 6 支羽刺，每支羽刺可造成 60 病毒傷害，並有 40% 的機率觸發中毒狀態。如命中已經中毒的目標，則會再增生一枚孢子。觸發冷卻時間 4 秒。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Viral_Quills"
+        },
+        "es": {
+            "item_name": "Púas Virales",
+            "description": "Lanza 6 púas a los enemigos dentro de 20 m, infligiendo 60 de daño viral con 40 % de probabilidad de efecto. Si el objetivo se ve afectado por un estado viral, se agrega una espora. 4 s de tiempo de espera.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/P%C3%BAas_virales"
+        },
+        "it": {
+            "item_name": "Viral Quills",
+            "description": "Lancia 6 aculei contro i nemici nel raggio di 20m, infliggendo 60 Danno Virale ciascuno e con il 40% Probabilità Effetto. Se il bersaglio subisce l'Effetto Virale, viene generata anche una Spora. Tempo di ricarica: 4s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
+        },
+        "pl": {
+            "item_name": "Zakaźne Kolce",
+            "description": "Wystrzeliwuje 6 kolców we wrogów w zasięgu 20m, zadając 60 Obr. Wirusowych z 40% Szansy Statusu. Jeśli na cel nałożony jest już Status Obr. Wirusowych, dodaje również Zarodnik. Czas odnowienia: 4s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
+        },
+        "uk": {
+            "item_name": "Заражені Голки",
+            "description": "Випускає голки (6 шт.) у ворогів у межах 20 м, кожна з яких завдає 60 вірусної шкоди та має 40% імовірності накласти ефект вірусного стану. Якщо такий на ворогові вже є, то додає спору. Перезаряджання: 4 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Viral_Quills"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

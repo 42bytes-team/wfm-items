@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree"
     },
-    "en": {
-        "item_name": "Tranquil Cleave",
-        "description": "Powerful arcs with frenzied combo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tranquil_Cleave"
-    },
-    "ru": {
-        "item_name": "Безмятежный Раскол",
-        "description": "Мощные взмахи с бешеным комбо.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B5%D0%B7%D0%BC%D1%8F%D1%82%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%BB",
-        "icon": "items/images/ru/tranquil_cleave.8fc669d8763e1d16d9f882ccd0f8c7fe.png",
-        "thumb": "items/images/ru/thumbs/tranquil_cleave.8fc669d8763e1d16d9f882ccd0f8c7fe.128x128.png"
-    },
-    "ko": {
-        "item_name": "트랭퀼 클리브",
-        "description": "반달형으로 휘어지며 강하게 몰아치는 연속기입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tranquil_Cleave"
-    },
-    "de": {
-        "item_name": "Gespaltene Ruhe",
-        "description": "Mächtige Bögen mit fieberhafter Kombo.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Gespaltene_Ruhe"
-    },
-    "fr": {
-        "item_name": "Fente Tranquille",
-        "description": "Arcs puissants suivis d’un tranchant fulgurant.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fente_tranquille"
-    },
-    "pt": {
-        "item_name": "Tranquil Cleave",
-        "description": "Curvas poderosas com um combo frenético.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tranquil_Cleave"
-    },
-    "zh-hans": {
-        "item_name": "秋风落叶",
-        "description": "强力弧斩附带疯狂的连段。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tranquil_Cleave"
-    },
-    "zh-hant": {
-        "item_name": "秋風落葉",
-        "description": "強力弧斬附帶瘋狂的連段。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tranquil_Cleave"
-    },
-    "es": {
-        "item_name": "Corte Calmado",
-        "description": "Arcos poderosos con combos frenéticos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Corte_calmado"
-    },
-    "it": {
-        "item_name": "Tranquil Cleave",
-        "description": "Archi potenti con combo frenetiche.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tranquil_Cleave"
-    },
-    "pl": {
-        "item_name": "Niezmącone Przecięcie",
-        "description": "Potężne łuki z szaloną kombinacją.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Niezm%C4%85cone_Przeci%C4%99cie"
-    },
-    "uk": {
-        "item_name": "Супокійний Розкол",
-        "description": "Потужні дугові атаки з шаленою серією ударів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tranquil_Cleave"
+    "i18n": {
+        "en": {
+            "item_name": "Tranquil Cleave",
+            "description": "Powerful arcs with frenzied combo.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tranquil_Cleave",
+            "icon": "items/images/en/tranquil_cleave.e23ba51f66afdbde9fdf05c445ea99c2.png",
+            "thumb": "items/images/en/thumbs/tranquil_cleave.e23ba51f66afdbde9fdf05c445ea99c2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Безмятежный Раскол",
+            "description": "Мощные взмахи с бешеным комбо.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B5%D0%B7%D0%BC%D1%8F%D1%82%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%BB",
+            "icon": "items/images/ru/tranquil_cleave.8fc669d8763e1d16d9f882ccd0f8c7fe.png",
+            "thumb": "items/images/ru/thumbs/tranquil_cleave.8fc669d8763e1d16d9f882ccd0f8c7fe.128x128.png"
+        },
+        "ko": {
+            "item_name": "트랭퀼 클리브",
+            "description": "반달형으로 휘어지며 강하게 몰아치는 연속기입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tranquil_Cleave"
+        },
+        "de": {
+            "item_name": "Gespaltene Ruhe",
+            "description": "Mächtige Bögen mit fieberhafter Kombo.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Gespaltene_Ruhe"
+        },
+        "fr": {
+            "item_name": "Fente Tranquille",
+            "description": "Arcs puissants suivis d’un tranchant fulgurant.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Fente_tranquille"
+        },
+        "pt": {
+            "item_name": "Tranquil Cleave",
+            "description": "Curvas poderosas com um combo frenético.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Tranquil_Cleave"
+        },
+        "zh-hans": {
+            "item_name": "秋风落叶",
+            "description": "强力弧斩附带疯狂的连段。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tranquil_Cleave"
+        },
+        "zh-hant": {
+            "item_name": "秋風落葉",
+            "description": "強力弧斬附帶瘋狂的連段。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tranquil_Cleave"
+        },
+        "es": {
+            "item_name": "Corte Calmado",
+            "description": "Arcos poderosos con combos frenéticos.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Corte_calmado"
+        },
+        "it": {
+            "item_name": "Tranquil Cleave",
+            "description": "Archi potenti con combo frenetiche.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Tranquil_Cleave"
+        },
+        "pl": {
+            "item_name": "Niezmącone Przecięcie",
+            "description": "Potężne łuki z szaloną kombinacją.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Niezm%C4%85cone_Przeci%C4%99cie"
+        },
+        "uk": {
+            "item_name": "Супокійний Розкол",
+            "description": "Потужні дугові атаки з шаленою серією ударів.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tranquil_Cleave"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

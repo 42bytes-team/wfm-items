@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Emotes/Syndicate/SMCombatEmote"
     },
-    "en": {
-        "item_name": "Steel Meridian Combat Emote",
-        "description": "Prepare for combat with this crew-inspired emote.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Жест: Стальной Меридиан - Бой",
-        "description": "Приготовьтесь к бою с этим жестом, вдохновлённым вашим экипажем.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "스틸 메리디안 전투 감정 표현",
-        "description": "승무원에게서 영감을 받은 이 감정 표현으로 전투를 준비해보세요.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Emote: Steel Meridian Kampf",
-        "description": "Bereite dich mit diesem von der Crew inspirierten Emote auf den Kampf vor.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Geste De Combat - Méridien D'Acier",
-        "description": "Préparez-vous au combat avec ce Geste inspiré de votre équipage.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Emote: Combate Do Meridiano De Aço",
-        "description": "Prepare-se para o combate com este emote inspirado em seus membros da tripulação.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "钢铁防线战斗表情动作",
-        "description": "通过这款受舰员启发的表情动作来为战斗做好准备。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "鋼鐵防線戰鬥表情動作",
-        "description": "透過這款以船員作靈感的表情動作來準備好戰鬥。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Gesto De Combate De Meridiano De Acero",
-        "description": "Prepárate para el combate con este gesto inspirado en los tripulantes.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Emote Combattimento Steel Meridian",
-        "description": "Preparati a combattere con questa emote ispirata all'equipaggio.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Gest Walki Stalowego Meridianu",
-        "description": "Przygotuj się do walki dzięki temu inspirowanemu załogą gestowi.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Боєць «Сталевого Меридіана»",
-        "description": "Готуйтеся до бою із жестом, на створення якого надихнув екіпаж.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Steel Meridian Combat Emote",
+            "description": "Prepare for combat with this crew-inspired emote.",
+            "wiki_link": null,
+            "icon": "items/images/en/steel_meridian_combat_emote.96715bf1a467fae9a0173adf2dca39f0.png",
+            "thumb": "items/images/en/thumbs/steel_meridian_combat_emote.96715bf1a467fae9a0173adf2dca39f0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Жест: Стальной Меридиан - Бой",
+            "description": "Приготовьтесь к бою с этим жестом, вдохновлённым вашим экипажем.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "스틸 메리디안 전투 감정 표현",
+            "description": "승무원에게서 영감을 받은 이 감정 표현으로 전투를 준비해보세요.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Emote: Steel Meridian Kampf",
+            "description": "Bereite dich mit diesem von der Crew inspirierten Emote auf den Kampf vor.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Geste De Combat - Méridien D'Acier",
+            "description": "Préparez-vous au combat avec ce Geste inspiré de votre équipage.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Emote: Combate Do Meridiano De Aço",
+            "description": "Prepare-se para o combate com este emote inspirado em seus membros da tripulação.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "钢铁防线战斗表情动作",
+            "description": "通过这款受舰员启发的表情动作来为战斗做好准备。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "鋼鐵防線戰鬥表情動作",
+            "description": "透過這款以船員作靈感的表情動作來準備好戰鬥。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Gesto De Combate De Meridiano De Acero",
+            "description": "Prepárate para el combate con este gesto inspirado en los tripulantes.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Emote Combattimento Steel Meridian",
+            "description": "Preparati a combattere con questa emote ispirata all'equipaggio.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Gest Walki Stalowego Meridianu",
+            "description": "Przygotuj się do walki dzięki temu inspirowanemu załogą gestowi.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Боєць «Сталевого Меридіана»",
+            "description": "Готуйтеся до бою із жестом, на створення якого надихнув екіпаж.",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

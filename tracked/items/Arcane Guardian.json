@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ArmourOnDamage"
     },
-    "en": {
-        "item_name": "Arcane Guardian",
-        "description": "On Damaged:\n15% chance for +900 Armor for 20s\n+1 Arcane Revive\n+1 Arcane Revive",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Guardian"
-    },
-    "ru": {
-        "item_name": "Мистический Страж",
-        "description": "При получении урона:\n15% шанс +900 к броне в течение 20c.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D0%B0%D0%B6"
-    },
-    "ko": {
-        "item_name": "아케인 가디언",
-        "description": "피해를 입을 시:\n15% 확률로 20초 동안 +900 방어력\n+1 아케인 부활\n+1 아케인 부활",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Guardian"
-    },
-    "de": {
-        "item_name": "Arkana: Beschützer",
-        "description": "Bei Schaden:\n15 % Chance auf +900 Rüstung für 20 s\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana_Besch%C3%BCtzer"
-    },
-    "fr": {
-        "item_name": "Arcane Gardien",
-        "description": "Sur Dégâts reçus:\n15% de chances de: +900 Armure pendant 20s\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Gardien"
-    },
-    "pt": {
-        "item_name": "Guardião Arcano",
-        "description": "Ao Receber Dano:\n15% de chance de +900 Armadura durante 20s\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Guardian"
-    },
-    "zh-hans": {
-        "item_name": "赋能·保卫者",
-        "description": "受到伤害时：\n15% 几率得到 +900 护甲，持续 20 秒\n赋能复活次数 +1\n赋能复活次数 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Guardian"
-    },
-    "zh-hant": {
-        "item_name": "保衛者賦能",
-        "description": "受到傷害後：\n15% 機率得到 +900 護甲 效果，持續 20 秒\n賦能復活次數 +1\n賦能復活次數 +1",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Guardian"
-    },
-    "es": {
-        "item_name": "Guardián Arcano",
-        "description": "Al recibir daño:\n15% de probabilidad de +900 de armadura durante 20s\n+1 Revivir Arcano\n+1 Revivir Arcano",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Guardi%C3%A1n_arcano"
-    },
-    "it": {
-        "item_name": "Arcane Guardian",
-        "description": "Dopo aver subito Danni:\n15% probabilità di +900 Armatura per 20s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Arcane_Guardian"
-    },
-    "pl": {
-        "item_name": "Arkanum Strażnika",
-        "description": "Po otrzymaniu obrażeń:\n15% szans na +900 Pancerza przez 20s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Stra%C5%BCnika"
-    },
-    "uk": {
-        "item_name": "Містичний Вартовий",
-        "description": "У разі отримання шкоди:\n15% імовірності на 20 с отримати +900 до захисту.\n+1 містичне відродження.\n+1 містичне відродження.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Guardian"
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Guardian",
+            "description": "On Damaged:\n15% chance for +900 Armor for 20s\n+1 Arcane Revive\n+1 Arcane Revive",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Guardian",
+            "icon": "items/images/en/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.png",
+            "thumb": "items/images/en/thumbs/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мистический Страж",
+            "description": "При получении урона:\n15% шанс +900 к броне в течение 20c.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D0%B0%D0%B6"
+        },
+        "ko": {
+            "item_name": "아케인 가디언",
+            "description": "피해를 입을 시:\n15% 확률로 20초 동안 +900 방어력\n+1 아케인 부활\n+1 아케인 부활",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Guardian"
+        },
+        "de": {
+            "item_name": "Arkana: Beschützer",
+            "description": "Bei Schaden:\n15 % Chance auf +900 Rüstung für 20 s\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana_Besch%C3%BCtzer"
+        },
+        "fr": {
+            "item_name": "Arcane Gardien",
+            "description": "Sur Dégâts reçus:\n15% de chances de: +900 Armure pendant 20s\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_Gardien"
+        },
+        "pt": {
+            "item_name": "Guardião Arcano",
+            "description": "Ao Receber Dano:\n15% de chance de +900 Armadura durante 20s\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Arcano_Guardian"
+        },
+        "zh-hans": {
+            "item_name": "赋能·保卫者",
+            "description": "受到伤害时：\n15% 几率得到 +900 护甲，持续 20 秒\n赋能复活次数 +1\n赋能复活次数 +1",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Guardian"
+        },
+        "zh-hant": {
+            "item_name": "保衛者賦能",
+            "description": "受到傷害後：\n15% 機率得到 +900 護甲 效果，持續 20 秒\n賦能復活次數 +1\n賦能復活次數 +1",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Arcane_Guardian"
+        },
+        "es": {
+            "item_name": "Guardián Arcano",
+            "description": "Al recibir daño:\n15% de probabilidad de +900 de armadura durante 20s\n+1 Revivir Arcano\n+1 Revivir Arcano",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Guardi%C3%A1n_arcano"
+        },
+        "it": {
+            "item_name": "Arcane Guardian",
+            "description": "Dopo aver subito Danni:\n15% probabilità di +900 Armatura per 20s\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Arcane_Guardian"
+        },
+        "pl": {
+            "item_name": "Arkanum Strażnika",
+            "description": "Po otrzymaniu obrażeń:\n15% szans na +900 Pancerza przez 20s\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Stra%C5%BCnika"
+        },
+        "uk": {
+            "item_name": "Містичний Вартовий",
+            "description": "У разі отримання шкоди:\n15% імовірності на 20 с отримати: +900 до захисту.\n+1 містичне відродження\n+1 містичне відродження",
+            "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Guardian"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

@@ -2,54 +2,56 @@
     "_id": "60f3feb2b64404003f0bf614",
     "url_name": "hatred_of_infested",
     "group": "default",
-    "icon": "sister_quirks/images/hatred_of_infested.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "sister_quirks/images/thumbs/hatred_of_infested.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
-    "en": {
-        "item_name": "Hatred of Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "ru": {
-        "item_name": "Hatred of Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "ko": {
-        "item_name": "Hatred of Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "de": {
-        "item_name": "Hatred of Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "fr": {
-        "item_name": "Hatred of Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "pt": {
-        "item_name": "Hatred of Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "zh-hans": {
-        "item_name": "痛恨Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "zh-hant": {
-        "item_name": "痛恨Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "es": {
-        "item_name": "Odio a los Infestados",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "it": {
-        "item_name": "Hatred of Infested",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "pl": {
-        "item_name": "Nienawiść do Plagi",
-        "description": "Talks about hating Infested when spawned on Infested tilesets"
-    },
-    "uk": {
-        "item_name": "Ненавидить заражених",
-        "description": "Говорить про ненависть до заражених, коли з’являється на мапах заражених."
+    "icon": "sister_quirks/unknown.png",
+    "thumb": "sister_quirks/unknown.thumb.png",
+    "i18n": {
+        "en": {
+            "item_name": "Hatred of Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "ru": {
+            "item_name": "Hatred of Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "ko": {
+            "item_name": "Hatred of Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "de": {
+            "item_name": "Hatred of Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "fr": {
+            "item_name": "Hatred of Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "pt": {
+            "item_name": "Hatred of Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "zh-hans": {
+            "item_name": "痛恨Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "zh-hant": {
+            "item_name": "痛恨Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "es": {
+            "item_name": "Odio a los Infestados",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "it": {
+            "item_name": "Hatred of Infested",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "pl": {
+            "item_name": "Nienawiść do Plagi",
+            "description": "Talks about hating Infested when spawned on Infested tilesets"
+        },
+        "uk": {
+            "item_name": "Ненавидить заражених",
+            "description": "Говорить про ненависть до заражених, коли з’являється на мапах заражених."
+        }
     }
 }

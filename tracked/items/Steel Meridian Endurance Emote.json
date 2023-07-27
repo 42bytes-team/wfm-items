@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Emotes/Syndicate/SMSurvivabilityEmote"
     },
-    "en": {
-        "item_name": "Steel Meridian Endurance Emote",
-        "description": "Dig in and get through anything with this crew-inspired emote.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Жест: Стальной Меридиан - Выносливость",
-        "description": "Преодолейте любые трудности с помощью этого жеста, вдохновлённого командой.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "스틸 메리디안 내구 감정 표현",
-        "description": "승무원에게서 영감을 받은 이 감정 표현으로 무엇이든 버티며 헤쳐나가 보세요.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Emote: Steel Meridian Ausdauer",
-        "description": "Mit diesem von der Crew inspirierten Emote kannst du alles durchstehen.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Geste D'Endurance - Méridien D'Acier",
-        "description": "Plongez dans le feu de l'action et survivez avec ce Geste inspiré de votre équipage.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Emote: Resistência Do Meridiano De Aço",
-        "description": "Seja o baluarte que suporta tudo com este emote inspirado em seus membros da tripulação.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "钢铁防线耐力表情动作",
-        "description": "通过这款受舰员启发的表情动作来克服各种困难。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "鋼鐵防線生存表情動作",
-        "description": "透過這款以船員作靈感的表情動作來上刀山下油鍋。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Gesto De Resistencia De Meridiano De Acero",
-        "description": "Entra en acción y consíguelo todo con este gesto inspirado en los tripulantes.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Emote Resistenza Steel Meridian",
-        "description": "Entra in azione e supera qualsiasi cosa con questa emote ispirata all'equipaggio.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Gest Wytrwania Stalowego Meridianu",
-        "description": "Zaprzyj się mocno i wytrwaj wszystko dzięki temu inspirowanemu załogą gestowi.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Витривалість «Сталевого Меридіана»",
-        "description": "Ви витримаєте будь-які негаразди з жестом, на створення якого надихнув екіпаж.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Steel Meridian Endurance Emote",
+            "description": "Dig in and get through anything with this crew-inspired emote.",
+            "wiki_link": null,
+            "icon": "items/images/en/steel_meridian_endurance_emote.741528d08c2c142e4761b97fa57daa5e.png",
+            "thumb": "items/images/en/thumbs/steel_meridian_endurance_emote.741528d08c2c142e4761b97fa57daa5e.128x128.png"
+        },
+        "ru": {
+            "item_name": "Жест: Стальной Меридиан - Выносливость",
+            "description": "Преодолейте любые трудности с помощью этого жеста, вдохновлённого командой.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "스틸 메리디안 내구 감정 표현",
+            "description": "승무원에게서 영감을 받은 이 감정 표현으로 무엇이든 버티며 헤쳐나가 보세요.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Emote: Steel Meridian Ausdauer",
+            "description": "Mit diesem von der Crew inspirierten Emote kannst du alles durchstehen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Geste D'Endurance - Méridien D'Acier",
+            "description": "Plongez dans le feu de l'action et survivez avec ce Geste inspiré de votre équipage.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Emote: Resistência Do Meridiano De Aço",
+            "description": "Seja o baluarte que suporta tudo com este emote inspirado em seus membros da tripulação.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "钢铁防线耐力表情动作",
+            "description": "通过这款受舰员启发的表情动作来克服各种困难。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "鋼鐵防線生存表情動作",
+            "description": "透過這款以船員作靈感的表情動作來上刀山下油鍋。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Gesto De Resistencia De Meridiano De Acero",
+            "description": "Entra en acción y consíguelo todo con este gesto inspirado en los tripulantes.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Emote Resistenza Steel Meridian",
+            "description": "Entra in azione e supera qualsiasi cosa con questa emote ispirata all'equipaggio.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Gest Wytrwania Stalowego Meridianu",
+            "description": "Zaprzyj się mocno i wytrwaj wszystko dzięki temu inspirowanemu załogą gestowi.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Витривалість «Сталевого Меридіана»",
+            "description": "Ви витримаєте будь-які негаразди з жестом, на створення якого надихнув екіпаж.",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

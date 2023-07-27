@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/PrismaGrinlokWeapon"
     },
-    "en": {
-        "item_name": "Prisma Grinlok",
-        "description": "Prisma-crystal enhancement creates here a prestige instrument; a weapon capable of taking life at astonishing range with but a single pull of its exquisitely-tooled trigger.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Grinlok"
-    },
-    "ru": {
-        "item_name": "Гринлок Призма",
-        "description": "Улучшение призматическими кристаллами позволило создать величественное оружие; оружие, способное отнять жизнь с огромного расстояния за одно нажатие на изящный спусковой крючок.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D0%B8%D0%BD%D0%BB%D0%BE%D0%BA_%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0"
-    },
-    "ko": {
-        "item_name": "프리즈마 그린락",
-        "description": "프리즈마-크리스탈 강화가 이 명망 있는 도구를 만들어냅니다. 이 무기는 정교하게 조정된 방아쇠를 한 번 당기는 것으로 놀라운 거리에서 생명을 앗아갈 수 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Grinlok"
-    },
-    "de": {
-        "item_name": "Prisma Grinlok",
-        "description": "Mit der Verbesserung durch Prisma-Kristallen entsteht ein Präzisionswerkzeug; eine Waffe, die mit einem einzigen Zug des exquisiten Abzugs, auf erstaunliche lange Reichweite ein Leben nehmen kann.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Prisma_Grinlok"
-    },
-    "fr": {
-        "item_name": "Grinlok Prisma",
-        "description": "Cette amélioration aux cristaux prisma nous apporte ici un instrument prestigieux. Une arme capable d'abattre sa cible à une distance surprenante avec une seule pression sur cette détente de confection exquise.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Grinlok_Prisma"
-    },
-    "pt": {
-        "item_name": "Grinlok Prisma",
-        "description": "Os cristais prisma formam um instrumento de alto prestígio; uma arma capaz de acabar com vidas à uma distância impressionante, tudo com um simples puxão do seu sofisticado gatilho.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Grinlok"
-    },
-    "zh-hans": {
-        "item_name": "棱晶·葛恩火枪",
-        "description": "（英文：PRISMA GRINLOK）棱晶的强化铸造了一个名贵的器械；一把能够在意想不到的范围内夺走生命的武器，并且只需要扣一次其精确好使的扳机。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Grinlok"
-    },
-    "zh-hant": {
-        "item_name": "棱晶 葛恩火槍",
-        "description": "（英文：PRISMA GRINLOK）棱晶的強化鑄造了一個名貴的器械；一把能夠在意想不到的範圍內奪走生命的武器，並且只需要扣一次其精確好使的扳機。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Grinlok"
-    },
-    "es": {
-        "item_name": "Grinlok Prisma",
-        "description": "Las mejoras de cristal prisma crean aquí un instrumento de prestigio; un arma capaz de tomar vidas a un ritmo asombroso con solo tirar una vez de su gatillo exquisitamente elaborado.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Grinlok_Prisma"
-    },
-    "it": {
-        "item_name": "Prisma Grinlok",
-        "description": "Il potenziamento con i cristalli prismatici crea uno strumento di prestigio; un'arma in grado di strappare la vita da una distanza sorprendente con solo una pressione del suo grilletto squisitamente rifinito.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Prisma_Grakata"
-    },
-    "pl": {
-        "item_name": "Grinlok Prisma",
-        "description": "Wzbogacenie Kryształami Prisma Przekształca tę broń w prestiżowy instrument; w broń zdolną do zabrania życia z zadziwiającego zasięgu, za pośrednictwem pojedynczego pociągnięcia za spust.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Grinlok_Prisma"
-    },
-    "uk": {
-        "item_name": "Ґрінлок-Призма",
-        "description": "Престижний на вигляд легкий ракетомет, що може розірвати ворога на шматки з неймовірної відстані одним натисканням свого майстерно виточеного гачка.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Grinlok"
+    "i18n": {
+        "en": {
+            "item_name": "Prisma Grinlok",
+            "description": "Prisma-crystal enhancement creates here a prestige instrument; a weapon capable of taking life at astonishing range with but a single pull of its exquisitely-tooled trigger.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Grinlok",
+            "icon": "items/images/en/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.png",
+            "thumb": "items/images/en/thumbs/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.128x128.png"
+        },
+        "ru": {
+            "item_name": "Гринлок Призма",
+            "description": "Улучшение призматическими кристаллами позволило создать величественное оружие; оружие, способное отнять жизнь с огромного расстояния за одно нажатие на изящный спусковой крючок.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D1%80%D0%B8%D0%BD%D0%BB%D0%BE%D0%BA_%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0"
+        },
+        "ko": {
+            "item_name": "프리즈마 그린락",
+            "description": "프리즈마-크리스탈 강화가 이 명망 있는 도구를 만들어냅니다. 이 무기는 정교하게 조정된 방아쇠를 한 번 당기는 것으로 놀라운 거리에서 생명을 앗아갈 수 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Grinlok"
+        },
+        "de": {
+            "item_name": "Prisma Grinlok",
+            "description": "Mit der Verbesserung durch Prisma-Kristallen entsteht ein Präzisionswerkzeug; eine Waffe, die mit einem einzigen Zug des exquisiten Abzugs, auf erstaunliche lange Reichweite ein Leben nehmen kann.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Prisma_Grinlok"
+        },
+        "fr": {
+            "item_name": "Grinlok Prisma",
+            "description": "Cette amélioration aux cristaux prisma nous apporte ici un instrument prestigieux. Une arme capable d'abattre sa cible à une distance surprenante avec une seule pression sur cette détente de confection exquise.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Grinlok_Prisma"
+        },
+        "pt": {
+            "item_name": "Grinlok Prisma",
+            "description": "Os cristais prisma formam um instrumento de alto prestígio; uma arma capaz de acabar com vidas à uma distância impressionante, tudo com um simples puxão do seu sofisticado gatilho.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Grinlok"
+        },
+        "zh-hans": {
+            "item_name": "棱晶·葛恩火枪",
+            "description": "（英文：PRISMA GRINLOK）棱晶的强化铸造了一个名贵的器械；一把能够在意想不到的范围内夺走生命的武器，并且只需要扣一次其精确好使的扳机。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Grinlok"
+        },
+        "zh-hant": {
+            "item_name": "棱晶 葛恩火槍",
+            "description": "（英文：PRISMA GRINLOK）棱晶的強化鑄造了一個名貴的器械；一把能夠在意想不到的範圍內奪走生命的武器，並且只需要扣一次其精確好使的扳機。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Prisma_Grinlok"
+        },
+        "es": {
+            "item_name": "Grinlok Prisma",
+            "description": "Las mejoras de cristal prisma crean aquí un instrumento de prestigio; un arma capaz de tomar vidas a un ritmo asombroso con solo tirar una vez de su gatillo exquisitamente elaborado.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Grinlok_Prisma"
+        },
+        "it": {
+            "item_name": "Prisma Grinlok",
+            "description": "Il potenziamento con i cristalli prismatici crea uno strumento di prestigio; un'arma in grado di strappare la vita da una distanza sorprendente con solo una pressione del suo grilletto squisitamente rifinito.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Prisma_Grakata"
+        },
+        "pl": {
+            "item_name": "Grinlok Prisma",
+            "description": "Wzbogacenie Kryształami Prisma Przekształca tę broń w prestiżowy instrument; w broń zdolną do zabrania życia z zadziwiającego zasięgu, za pośrednictwem pojedynczego pociągnięcia za spust.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Grinlok_Prisma"
+        },
+        "uk": {
+            "item_name": "Ґрінлок-Призма",
+            "description": "Престижний на вигляд легкий ракетомет, що може розірвати ворога на шматки з неймовірної відстані одним натисканням свого майстерно виточеного гачка.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Prisma_Grinlok"
+        }
     },
     "mastery_level": 11,
     "trading_tax": 2000

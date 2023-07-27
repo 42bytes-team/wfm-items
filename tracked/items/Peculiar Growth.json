@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Peculiars/InflationMod"
     },
-    "en": {
-        "item_name": "Peculiar Growth",
-        "description": "Damaging an enemy will inflate the body part hit for 6s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Peculiar_Growth"
-    },
-    "ru": {
-        "item_name": "Специфичное Вздутие",
-        "description": "Нанесение урона противнику раздует часть тела, в которую велся огонь, на 6с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%92%D0%B7%D0%B4%D1%83%D1%82%D0%B8%D0%B5"
-    },
-    "ko": {
-        "item_name": "페큘리어 그로스",
-        "description": "적에게 피해를 가할 시 타격된 부위가 6초 동안 부풀어오릅니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Peculiar_Growth"
-    },
-    "de": {
-        "item_name": "Kuriose Mod: Wachstum",
-        "description": "Der getroffene Körperteil eines verwundeten Feindes wird für 6 s aufgeblasen",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Kuriose_Mod:_Wachstum"
-    },
-    "fr": {
-        "item_name": "Boursouflure Atypique",
-        "description": "Infliger des Dégâts à un ennemi fera gonfler la partie du corps touchée pendant 6s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Boursouflure_Atypique"
-    },
-    "pt": {
-        "item_name": "Peculiar Growth",
-        "description": "Causar Dano à um inimigo inflará a parte do corpo do alvo atingida durante 6s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Peculiar_Growth"
-    },
-    "zh-hans": {
-        "item_name": "生长怪奇",
-        "description": "对敌人造成伤害将使被击中的身体部位膨胀，持续 6 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Peculiar_Growth"
-    },
-    "zh-hant": {
-        "item_name": "生長怪奇",
-        "description": "對敵人造成傷害將使被擊中的身體部位膨脹，持續 6 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Peculiar_Growth"
-    },
-    "es": {
-        "item_name": "Crecimiento Peculiar",
-        "description": "Dañar a un enemigo inflará la parte del cuerpo golpeada por 6s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Crecimiento_peculiar"
-    },
-    "it": {
-        "item_name": "Peculiar Growth",
-        "description": "Danneggiare un nemico gonfierà la parte colpita per 6s",
-        "wiki_link": "http://warframe.wikia.com/wiki/Peculiar_Growth"
-    },
-    "pl": {
-        "item_name": "Atypowy Wzrost",
-        "description": "Trafiając przeciwnika spowoduje trwające 6s, spuchnięcie trafionej części ciała.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Atypowy_Wzrost"
-    },
-    "uk": {
-        "item_name": "Особливий Ріст",
-        "description": "Влучання у ворога надимає ту частину тіла на 6 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Peculiar_Growth"
+    "i18n": {
+        "en": {
+            "item_name": "Peculiar Growth",
+            "description": "Damaging an enemy will inflate the body part hit for 6s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Peculiar_Growth",
+            "icon": "items/images/en/peculiar_growth.5300b360bad6d7c97e3700baa3451a51.png",
+            "thumb": "items/images/en/thumbs/peculiar_growth.5300b360bad6d7c97e3700baa3451a51.128x128.png"
+        },
+        "ru": {
+            "item_name": "Специфичное Вздутие",
+            "description": "Нанесение урона противнику раздует часть тела, в которую велся огонь, на 6с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%92%D0%B7%D0%B4%D1%83%D1%82%D0%B8%D0%B5"
+        },
+        "ko": {
+            "item_name": "페큘리어 그로스",
+            "description": "적에게 피해를 가할 시 타격된 부위가 6초 동안 부풀어오릅니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Peculiar_Growth"
+        },
+        "de": {
+            "item_name": "Kuriose Mod: Wachstum",
+            "description": "Der getroffene Körperteil eines verwundeten Feindes wird für 6 s aufgeblasen",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Kuriose_Mod:_Wachstum"
+        },
+        "fr": {
+            "item_name": "Boursouflure Atypique",
+            "description": "Infliger des Dégâts à un ennemi fera gonfler la partie du corps touchée pendant 6s.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Boursouflure_Atypique"
+        },
+        "pt": {
+            "item_name": "Peculiar Growth",
+            "description": "Causar Dano à um inimigo inflará a parte do corpo do alvo atingida durante 6s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Peculiar_Growth"
+        },
+        "zh-hans": {
+            "item_name": "生长怪奇",
+            "description": "对敌人造成伤害将使被击中的身体部位膨胀，持续 6 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Peculiar_Growth"
+        },
+        "zh-hant": {
+            "item_name": "生長怪奇",
+            "description": "對敵人造成傷害將使被擊中的身體部位膨脹，持續 6 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Peculiar_Growth"
+        },
+        "es": {
+            "item_name": "Crecimiento Peculiar",
+            "description": "Dañar a un enemigo inflará la parte del cuerpo golpeada por 6s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Crecimiento_peculiar"
+        },
+        "it": {
+            "item_name": "Peculiar Growth",
+            "description": "Danneggiare un nemico gonfierà la parte colpita per 6s",
+            "wiki_link": "http://warframe.wikia.com/wiki/Peculiar_Growth"
+        },
+        "pl": {
+            "item_name": "Atypowy Wzrost",
+            "description": "Trafiając przeciwnika spowoduje trwające 6s, spuchnięcie trafionej części ciała.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Atypowy_Wzrost"
+        },
+        "uk": {
+            "item_name": "Особливий Ріст",
+            "description": "Влучання у ворога надимає ту частину тіла на 6 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Peculiar_Growth"
+        }
     },
     "rarity": "peculiar",
     "max_rank": 5,

@@ -20,65 +20,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Mantis Fuselage Blueprint",
-        "description": "Fuselage component of the Mantis landing craft.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
-    },
-    "ru": {
-        "item_name": "Мантис: Фюзеляж (Чертеж)",
-        "description": "Компонент корабля 'Мантис': Фюзеляж.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B8%D1%81"
-    },
-    "ko": {
-        "item_name": "맨티스 동체 설계도",
-        "description": "맨티스 착륙정의 동체 부분입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
-    },
-    "de": {
-        "item_name": "Mantis: Rumpf Blaupause",
-        "description": "Die Rumpf-Komponente für das Mantis Landungsschiff.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Mantis"
-    },
-    "fr": {
-        "item_name": "Mantis - Fuselage (Schéma)",
-        "description": "Le composant Fuselage du Mantis.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Mantis"
-    },
-    "pt": {
-        "item_name": "Mantis: Fuselagem (Diagrama)",
-        "description": "Fuselagem componente da Nave de Pouso Mantis.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
-    },
-    "zh-hans": {
-        "item_name": "Mantis 机身 蓝图",
-        "description": "Mantis 登陆艇的机身部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis"
-    },
-    "zh-hant": {
-        "item_name": "Mantis 機身 藍圖",
-        "description": "Mantis 登陸艇的機身部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis"
-    },
-    "es": {
-        "item_name": "Plano de Fuselaje De Mantis",
-        "description": "Componente de fuselaje de la nave de desembarco Mantis.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mantis"
-    },
-    "it": {
-        "item_name": "Mantis - Fusoliera (Schema)",
-        "description": "Componente Fusoliera della navicella Mantis.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
-    },
-    "pl": {
-        "item_name": "Mantis: Kadłub - Schemat",
-        "description": "Kadłub statku desantowego Mantis.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Mantis"
-    },
-    "uk": {
-        "item_name": "Богомол: Фюзеляж (креслення)",
-        "description": "Деталі фюзеляжу для десантного судна «Богомол».",
-        "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+    "i18n": {
+        "en": {
+            "item_name": "Mantis Fuselage Blueprint",
+            "description": "Fuselage component of the Mantis landing craft.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis",
+            "icon": "items/images/en/mantis_fuselage.d4716b0defc2695308eb9b5a4b18d935.png",
+            "thumb": "items/images/en/thumbs/mantis_fuselage.d4716b0defc2695308eb9b5a4b18d935.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мантис: Фюзеляж (Чертеж)",
+            "description": "Компонент корабля 'Мантис': Фюзеляж.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B8%D1%81"
+        },
+        "ko": {
+            "item_name": "맨티스 동체 설계도",
+            "description": "맨티스 착륙정의 동체 부분입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+        },
+        "de": {
+            "item_name": "Mantis: Rumpf Blaupause",
+            "description": "Die Rumpf-Komponente für das Mantis Landungsschiff.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Mantis"
+        },
+        "fr": {
+            "item_name": "Mantis - Fuselage (Schéma)",
+            "description": "Le composant Fuselage du Mantis.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Mantis"
+        },
+        "pt": {
+            "item_name": "Mantis: Fuselagem (Diagrama)",
+            "description": "Fuselagem componente da Nave de Pouso Mantis.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+        },
+        "zh-hans": {
+            "item_name": "Mantis 机身 蓝图",
+            "description": "Mantis 登陆艇的机身部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis"
+        },
+        "zh-hant": {
+            "item_name": "Mantis 機身 藍圖",
+            "description": "Mantis 登陸艇的機身部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mantis"
+        },
+        "es": {
+            "item_name": "Plano de Fuselaje De Mantis",
+            "description": "Componente de fuselaje de la nave de desembarco Mantis.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Mantis"
+        },
+        "it": {
+            "item_name": "Mantis - Fusoliera (Schema)",
+            "description": "Componente Fusoliera della navicella Mantis.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+        },
+        "pl": {
+            "item_name": "Mantis: Kadłub - Schemat",
+            "description": "Kadłub statku desantowego Mantis.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Mantis"
+        },
+        "uk": {
+            "item_name": "Богомол: Фюзеляж (креслення)",
+            "description": "Деталі фюзеляжу для десантного судна «Богомол».",
+            "wiki_link": "https://warframe.fandom.com/wiki/Mantis"
+        }
     },
     "trading_tax": 2000
 }

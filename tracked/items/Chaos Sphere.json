@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Jade/ChaosAugmentCard"
     },
-    "en": {
-        "item_name": "Chaos Sphere",
-        "description": "Chaos Augment: Enemies entering the Effect Range will be inflicted with Chaos. Effect Range lasts for 50% of the ability duration and shrinks over time.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chaos_Sphere"
-    },
-    "ru": {
-        "item_name": "Сфера Хаоса",
-        "description": "Улучшение способности «Хаос»: враги, вошедшие в зону эффекта, будут подвержены хаосу. Продолжительность существования зоны эффекта составляет 50% от длительности способности и уменьшается со временем.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%B0_%D0%A5%D0%B0%D0%BE%D1%81%D0%B0",
-        "icon": "items/images/ru/chaos_sphere.0817b4d140831b93701d6b2593da45f1.png",
-        "thumb": "items/images/ru/thumbs/chaos_sphere.0817b4d140831b93701d6b2593da45f1.128x128.png"
-    },
-    "ko": {
-        "item_name": "카오스 스피어",
-        "description": "카오스 개조: 영향 범위 안에 들어오는 대상이 카오스에 당하도록 만듭니다. 효과 범위는 지속 시간의 50%만큼 유지되며 점점 범위가 줄어듭니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chaos_Sphere"
-    },
-    "de": {
-        "item_name": "Chaos Sphäre",
-        "description": "Chaos Augment: Feinde, die den Wirkungsbereich betreten, werden von Chaos betroffen. Wirkungsbereich bleibt für 50 % der Fähigkeitsdauer bestehen und sinkt dann mit der Zeit.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Chaos_Sph%C3%A4re"
-    },
-    "fr": {
-        "item_name": "Sphère De Chaos",
-        "description": "Augmentation de Chaos: Les ennemis qui entrent dans la Zone d'Effet seront affectés par Chaos eux aussi. La Zone d'Effet persiste pour 50% de la durée du pouvoir et rétrécit continuellement.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sph%C3%A8re_de_Chaos"
-    },
-    "pt": {
-        "item_name": "Chaos Sphere",
-        "description": "Ampliação Chaos: criará uma Área de Efeito na qual os inimigos que se aproximarem serão afetados pela Chaos. Tal Área de Efeito permanecerá por 50% da Duração da Habilidade e diminuirá ao longo do tempo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Chaos_Sphere"
-    },
-    "zh-hans": {
-        "item_name": "混乱领域",
-        "description": "精神混乱强化：进入效果范围的敌人会陷入混乱，有效时间为技能持续时间的 50%，且会逐渐缩小。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chaos_Sphere"
-    },
-    "zh-hant": {
-        "item_name": "混亂領域",
-        "description": "精神混亂強化：進入領域範圍內的敵人會受精神混亂影響，有效時間為技能持續時間的 50%，且領域會逐漸縮小。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chaos_Sphere"
-    },
-    "es": {
-        "item_name": "Esfera De Caos",
-        "description": "Aumento de Caos: los enemigos que entren al área de efecto serán afectados por Caos. El área de efecto dura un 50% de la duración de la habilidad y disminuye con el tiempo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Esfera_de_caos"
-    },
-    "it": {
-        "item_name": "Chaos Sphere",
-        "description": "Potenziamento Chaos: Crea un'area che infligge l'Effetto di Chaos. Il Raggio massimo dura per il 50% della durata abilità, poi si restringe con il tempo.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Chaos_Sphere"
-    },
-    "pl": {
-        "item_name": "Sfera Chaosu",
-        "description": "Modyfikacja Chaosu: Wrogowie wchodzący w zasięg działania mocy znajdą się pod wpływem Chaosu. Zasięg działania utrzymuje się przez 50% czasu trwania umiejętności i kurczy się wraz z upływem czasu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sfera_Chaosu"
-    },
-    "uk": {
-        "item_name": "Куля Хаосу",
-        "description": "Розширення здібності «Хаос»: вороги, що входять в область дії здібності, також підпадають під її вплив. Область дії триває 50% від дії здібності та зменшується з часом.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chaos_Sphere"
+    "i18n": {
+        "en": {
+            "item_name": "Chaos Sphere",
+            "description": "Chaos Augment: Enemies entering the Effect Range will be inflicted with Chaos. Effect Range lasts for 50% of the ability duration and shrinks over time.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chaos_Sphere",
+            "icon": "items/images/en/chaos_sphere.4194f4d65e462bfc107592b025aef339.png",
+            "thumb": "items/images/en/thumbs/chaos_sphere.4194f4d65e462bfc107592b025aef339.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сфера Хаоса",
+            "description": "Улучшение способности «Хаос»: враги, вошедшие в зону эффекта, будут подвержены хаосу. Продолжительность существования зоны эффекта составляет 50% от длительности способности и уменьшается со временем.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%B0_%D0%A5%D0%B0%D0%BE%D1%81%D0%B0",
+            "icon": "items/images/ru/chaos_sphere.0817b4d140831b93701d6b2593da45f1.png",
+            "thumb": "items/images/ru/thumbs/chaos_sphere.0817b4d140831b93701d6b2593da45f1.128x128.png"
+        },
+        "ko": {
+            "item_name": "카오스 스피어",
+            "description": "카오스 개조: 영향 범위 안에 들어오는 대상이 카오스에 당하도록 만듭니다. 효과 범위는 지속 시간의 50%만큼 유지되며 점점 범위가 줄어듭니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chaos_Sphere"
+        },
+        "de": {
+            "item_name": "Chaos Sphäre",
+            "description": "Chaos Augment: Feinde, die den Wirkungsbereich betreten, werden von Chaos betroffen. Wirkungsbereich bleibt für 50 % der Fähigkeitsdauer bestehen und sinkt dann mit der Zeit.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Chaos_Sph%C3%A4re"
+        },
+        "fr": {
+            "item_name": "Sphère De Chaos",
+            "description": "Augmentation de Chaos: Les ennemis qui entrent dans la Zone d'Effet seront affectés par Chaos eux aussi. La Zone d'Effet persiste pour 50% de la durée du pouvoir et rétrécit continuellement.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Sph%C3%A8re_de_Chaos"
+        },
+        "pt": {
+            "item_name": "Chaos Sphere",
+            "description": "Ampliação Chaos: criará uma Área de Efeito na qual os inimigos que se aproximarem serão afetados pela Chaos. Tal Área de Efeito permanecerá por 50% da Duração da Habilidade e diminuirá ao longo do tempo.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Chaos_Sphere"
+        },
+        "zh-hans": {
+            "item_name": "混乱领域",
+            "description": "精神混乱强化：进入效果范围的敌人会陷入混乱，有效时间为技能持续时间的 50%，且会逐渐缩小。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Chaos_Sphere"
+        },
+        "zh-hant": {
+            "item_name": "混亂領域",
+            "description": "精神混亂強化：進入領域範圍內的敵人會受精神混亂影響，有效時間為技能持續時間的 50%，且領域會逐漸縮小。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Chaos_Sphere"
+        },
+        "es": {
+            "item_name": "Esfera De Caos",
+            "description": "Aumento de Caos: los enemigos que entren al área de efecto serán afectados por Caos. El área de efecto dura un 50% de la duración de la habilidad y disminuye con el tiempo.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Esfera_de_caos"
+        },
+        "it": {
+            "item_name": "Chaos Sphere",
+            "description": "Potenziamento Chaos: Crea un'area che infligge l'Effetto di Chaos. Il Raggio massimo dura per il 50% della durata abilità, poi si restringe con il tempo.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Chaos_Sphere"
+        },
+        "pl": {
+            "item_name": "Sfera Chaosu",
+            "description": "Modyfikacja Chaosu: Wrogowie wchodzący w zasięg działania mocy znajdą się pod wpływem Chaosu. Zasięg działania utrzymuje się przez 50% czasu trwania umiejętności i kurczy się wraz z upływem czasu.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Sfera_Chaosu"
+        },
+        "uk": {
+            "item_name": "Куля Хаосу",
+            "description": "Розширення здібності «Хаос»: вороги, що входять в область дії здібності, також підпадають під її вплив. Область дії триває 50% від дії здібності та зменшується з часом.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chaos_Sphere"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

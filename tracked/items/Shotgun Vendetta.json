@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ShotgunMultishotAndReloadSpeedOnCloseKill"
     },
-    "en": {
-        "item_name": "Shotgun Vendetta",
-        "description": "On shotgun kill within 5m of target:\n+180% Multishot and +75% Reload Speed for 15s.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Вендетта Дробовика",
-        "description": "Убить из дробовика в пределах 5 м от цели:\n+180% мультивыстрел и +75% к скорости перезарядки в течение 15 с.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "샷건 벤데타",
-        "description": "목표물로부터 5m 거리 이내에서 산탄총으로 처치 시:\n15초 동안 +180% 멀티샷 및 +75% 재장전 속도.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Arkana: Schrotflinten Vendetta",
-        "description": "Bei Schrotflinten-Kill innerhalb von 5 m des Ziels:\n+180 % Mehrfachschuss und +75 % Nachladegeschwindigkeit für 15 s.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Vendetta Au Fusil",
-        "description": "Sur élimination au Fusil à Pompe à moins de 5m de la cible:\n+180% de Tir Multiple et +75% de Vitesse de Recharge pendant 15s.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Vendeta De Escopeta",
-        "description": "Ao eliminar um alvo dentro de 5m com uma Escopeta:\n+180% de Tiro Múltiplo e +75% de Velocidade de Recarga durante 15s.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "霰弹·仇杀",
-        "description": "在目标 5 米以内使用霰弹枪击杀时：\n+180% 多重射击 和 +75% 装填速度，持续 15 秒。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "霰彈槍仇殺",
-        "description": "使用霰彈槍擊殺 5 公尺內的目標時：\n+180% 多重射擊 和 +75% 裝填速度，持續 15 秒。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Venganza De La Escopeta",
-        "description": "Al matar con una escopeta a menos de 5 m del objetivo:\n+180% de multidisparo y +75% de velocidad de recarga por 15 s.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Shotgun Vendetta",
-        "description": "All'uccisione con un fucile a pompa entro 5m dal bersaglio:\n+180% Sparo Multiplo e +75% Velocità di ricarica per 15s.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Wendeta Strzelby",
-        "description": "Po zabiciu strzelbą w zasięgu 5 metrów:\n+180% Wielostrzału i +75% Prędkości Przeładowania przez 15s.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Рушнична Вендета",
-        "description": "У разі вбивства з рушниці в межах 5 м від цілі:\n+180% до ймовірності мультипострілу. +75% до швидкості заряджання. Тривалість: 15 с.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Shotgun Vendetta",
+            "description": "On shotgun kill within 5m of target:\n+180% Multishot and +75% Reload Speed for 15s.",
+            "wiki_link": null,
+            "icon": "items/images/en/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.png",
+            "thumb": "items/images/en/thumbs/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.128x128.png"
+        },
+        "ru": {
+            "item_name": "Вендетта Дробовика",
+            "description": "Убить из дробовика в пределах 5 м от цели:\n+180% мультивыстрел и +75% к скорости перезарядки в течение 15 с.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "샷건 벤데타",
+            "description": "목표물로부터 5m 거리 이내에서 산탄총으로 처치 시:\n15초 동안 +180% 멀티샷 및 +75% 재장전 속도.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Arkana: Schrotflinten Vendetta",
+            "description": "Bei Schrotflinten-Kill innerhalb von 5 m des Ziels:\n+180 % Mehrfachschuss und +75 % Nachladegeschwindigkeit für 15 s.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Vendetta Au Fusil",
+            "description": "Sur élimination au Fusil à Pompe à moins de 5m de la cible:\n+180% de Tir Multiple et +75% de Vitesse de Recharge pendant 15s.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Vendeta De Escopeta",
+            "description": "Ao eliminar um alvo dentro de 5m com uma Escopeta:\n+180% de Tiro Múltiplo e +75% de Velocidade de Recarga durante 15s.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "霰弹·仇杀",
+            "description": "在目标 5 米以内使用霰弹枪击杀时：\n+180% 多重射击 和 +75% 装填速度，持续 15 秒。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "霰彈槍仇殺",
+            "description": "使用霰彈槍擊殺 5 公尺內的目標時：\n+180% 多重射擊 和 +75% 裝填速度，持續 15 秒。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Venganza De La Escopeta",
+            "description": "Al matar con una escopeta a menos de 5 m del objetivo:\n+180% de multidisparo y +75% de velocidad de recarga por 15 s.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Shotgun Vendetta",
+            "description": "All'uccisione con un fucile a pompa entro 5m dal bersaglio:\n+180% Sparo Multiplo e +75% Velocità di ricarica per 15s.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Wendeta Strzelby",
+            "description": "Po zabiciu strzelbą w zasięgu 5 metrów:\n+180% Wielostrzału i +75% Prędkości Przeładowania przez 15s.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Рушнична Вендета",
+            "description": "У разі вбивства з рушниці в межах 5 м від цілі:\n+180% до мультипострілу. +75% до швидкості заряджання. Тривалість: 15 с.",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

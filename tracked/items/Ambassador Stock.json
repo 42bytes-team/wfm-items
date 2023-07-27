@@ -22,65 +22,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Ambassador Stock",
-        "description": "A weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
-    },
-    "ru": {
-        "item_name": "Амбассадор: Приклад",
-        "description": "Компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BC%D0%B1%D0%B0%D1%81%D1%81%D0%B0%D0%B4%D0%BE%D1%80"
-    },
-    "ko": {
-        "item_name": "앰배서더 스톡",
-        "description": "무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
-    },
-    "de": {
-        "item_name": "Ambassador: Schaft",
-        "description": "Eine Komponente für die Herstellung von Waffen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
-    },
-    "fr": {
-        "item_name": "Ambassadeur - Crosse",
-        "description": "Un composant servant à la fabrication d'armes.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Ambassadeur"
-    },
-    "pt": {
-        "item_name": "Ambassador: Coronha",
-        "description": "Um componente de fabricação de armas.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
-    },
-    "zh-hans": {
-        "item_name": "使节 枪托",
-        "description": "一个武器的制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ambassador"
-    },
-    "zh-hant": {
-        "item_name": "大使 槍托",
-        "description": "製作武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Ambassador"
-    },
-    "es": {
-        "item_name": "Culata De Ambassador",
-        "description": "Un componente de fabricación de arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
-    },
-    "it": {
-        "item_name": "Ambassador -Calcio",
-        "description": "Un componente per la costruzione di un'arma.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
-    },
-    "pl": {
-        "item_name": "Ambassador: Kolba",
-        "description": "Element wytwarzania Broni.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
-    },
-    "uk": {
-        "item_name": "Посол: Ложе",
-        "description": "Деталь зброї.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
+    "i18n": {
+        "en": {
+            "item_name": "Ambassador Stock",
+            "description": "A weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ambassador",
+            "icon": "items/images/en/ambassador_stock.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
+            "thumb": "items/images/en/thumbs/ambassador_stock.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Амбассадор: Приклад",
+            "description": "Компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BC%D0%B1%D0%B0%D1%81%D1%81%D0%B0%D0%B4%D0%BE%D1%80"
+        },
+        "ko": {
+            "item_name": "앰배서더 스톡",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
+        },
+        "de": {
+            "item_name": "Ambassador: Schaft",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
+        },
+        "fr": {
+            "item_name": "Ambassadeur - Crosse",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Ambassadeur"
+        },
+        "pt": {
+            "item_name": "Ambassador: Coronha",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
+        },
+        "zh-hans": {
+            "item_name": "使节 枪托",
+            "description": "一个武器的制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ambassador"
+        },
+        "zh-hant": {
+            "item_name": "大使 槍托",
+            "description": "製作武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ambassador"
+        },
+        "es": {
+            "item_name": "Culata De Ambassador",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
+        },
+        "it": {
+            "item_name": "Ambassador -Calcio",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
+        },
+        "pl": {
+            "item_name": "Ambassador: Kolba",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
+        },
+        "uk": {
+            "item_name": "Посол: Ложе",
+            "description": "Деталь зброї.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Ambassador"
+        }
     },
     "subtypes": [
         "blueprint",

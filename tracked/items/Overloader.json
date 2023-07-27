@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanMaxOrdnanceMunitions"
     },
-    "en": {
-        "item_name": "Overloader",
-        "description": "+87% Maximum Ordnance Munitions",
-        "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
-    },
-    "ru": {
-        "item_name": "Перегружатель",
-        "description": "+87% к максимуму боеприпасов артиллерии",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B6%D0%B0%D1%82%D0%B5%D0%BB%D1%8C"
-    },
-    "ko": {
-        "item_name": "오버로더",
-        "description": "+87% 최대 대포 뮤니션",
-        "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
-    },
-    "de": {
-        "item_name": "Überlader",
-        "description": "+87 % max. Munition für Bewaffnung",
-        "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
-    },
-    "fr": {
-        "item_name": "Surchargeur",
-        "description": "+87% de Munitions Max pour Calamité",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Surcharge"
-    },
-    "pt": {
-        "item_name": "Sobrecarregador",
-        "description": "+87% de Munição Máxima da Armaria",
-        "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
-    },
-    "zh-hans": {
-        "item_name": "超量载弹",
-        "description": "+87% 火炮最大弹药数量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Overloader"
-    },
-    "zh-hant": {
-        "item_name": "超量填彈",
-        "description": "+87% 最大火砲彈藥數量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Overloader"
-    },
-    "es": {
-        "item_name": "Sobrecargador",
-        "description": "+87 % de munición máxima de artillería",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sobrecargador"
-    },
-    "it": {
-        "item_name": "Overloader",
-        "description": "+87% Munizioni Massime degli Armamenti",
-        "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
-    },
-    "pl": {
-        "item_name": "Przeciążacz",
-        "description": "+87% Maksymalnej Municji Uzbrojenia",
-        "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
-    },
-    "uk": {
-        "item_name": "Надмір",
-        "description": "+87% до граничної кількості снарядів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
+    "i18n": {
+        "en": {
+            "item_name": "Overloader",
+            "description": "+87% Maximum Ordnance Munitions",
+            "wiki_link": "https://warframe.fandom.com/wiki/Overloader",
+            "icon": "items/images/en/overloader.f1adfd8533786d59432ade8a2c6e5898.png",
+            "thumb": "items/images/en/thumbs/overloader.f1adfd8533786d59432ade8a2c6e5898.128x128.png"
+        },
+        "ru": {
+            "item_name": "Перегружатель",
+            "description": "+87% к максимуму боеприпасов артиллерии",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B6%D0%B0%D1%82%D0%B5%D0%BB%D1%8C"
+        },
+        "ko": {
+            "item_name": "오버로더",
+            "description": "+87% 최대 대포 뮤니션",
+            "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
+        },
+        "de": {
+            "item_name": "Überlader",
+            "description": "+87 % max. Munition für Bewaffnung",
+            "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
+        },
+        "fr": {
+            "item_name": "Surchargeur",
+            "description": "+87% de Munitions Max pour Calamité",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Surcharge"
+        },
+        "pt": {
+            "item_name": "Sobrecarregador",
+            "description": "+87% de Munição Máxima da Armaria",
+            "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
+        },
+        "zh-hans": {
+            "item_name": "超量载弹",
+            "description": "+87% 火炮最大弹药数量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Overloader"
+        },
+        "zh-hant": {
+            "item_name": "超量填彈",
+            "description": "+87% 最大火砲彈藥數量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Overloader"
+        },
+        "es": {
+            "item_name": "Sobrecargador",
+            "description": "+87 % de munición máxima de artillería",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sobrecargador"
+        },
+        "it": {
+            "item_name": "Overloader",
+            "description": "+87% Munizioni Massime degli Armamenti",
+            "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
+        },
+        "pl": {
+            "item_name": "Przeciążacz",
+            "description": "+87% Maksymalnej Municji Uzbrojenia",
+            "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
+        },
+        "uk": {
+            "item_name": "Надмір",
+            "description": "+87% до граничної кількості снарядів.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Overloader"
+        }
     },
     "rarity": "common",
     "max_rank": 3,

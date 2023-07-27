@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Chroma Prime Blueprint",
-        "description": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
-    },
-    "ru": {
-        "item_name": "Хрома Прайм (Чертеж)",
-        "description": "Подчините стихии и высвободите неописуемые разрушения с Варфреймом Хрома Прайм. Обладает дополнительными полярностями слотов для более тонкой настройки.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "크로마 프라임 설계도",
-        "description": "크로마 프라임으로 원소들을 결속시켜 막대한 파괴를 불러일으켜보세요. 더욱 다채로운 특성화를 위한 추가 모드 극성이 포함되어 있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
-    },
-    "de": {
-        "item_name": "Chroma Prime Blaupause",
-        "description": "Meistere die Elemente und entfessele nie gekannte Zerstörung, mit Chroma Prime. Bietet veränderte Mod-Polaritäten für noch bessere Anpassungsmöglichkeiten.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Chroma_Prime"
-    },
-    "fr": {
-        "item_name": "Chroma Prime (Schéma)",
-        "description": "Maîtrisez les éléments et libérez une destruction sans précédent avec Chroma Prime. Elle possède des polarités de mods altérées pour une meilleure personnalisation.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chroma_Prime"
-    },
-    "pt": {
-        "item_name": "Chroma Prime (Diagrama)",
-        "description": "Combine os elementos e desencadeie destruição imensurável com o Chroma Prime. Inclusas polaridades alteradas de mods para uma maior personalização.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chroma_Prime"
-    },
-    "zh-hans": {
-        "item_name": "Chroma Prime 蓝图",
-        "description": "与元素紧密结合并发动无尽毁灭之力的 Chroma Prime。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
-    },
-    "zh-hant": {
-        "item_name": "Chroma Prime 藍圖",
-        "description": "與元素緊密結合並發動無盡毀滅之力的 Chroma Prime，擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
-    },
-    "es": {
-        "item_name": "Plano de Chroma Prime",
-        "description": "Enlaza los elementos y desencadena la destrucción indecible con el Chroma Prime. Cuenta con polaridades de mod alteradas para una mayor personalización.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Chroma_Prime"
-    },
-    "it": {
-        "item_name": "Chroma Prime (Schema)",
-        "description": "Imbriglia gli elementi e scatena un'inenarrabile distruzione con Chroma Prime. Presenta polarità mod alterate per una maggiore personalizzazione.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Soma_Prime"
-    },
-    "pl": {
-        "item_name": "Chroma Prime - Schemat",
-        "description": "Połącz żywioły rozpętując nieopętaną destrukcję Chromą Prime. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Chroma_Prime"
-    },
-    "uk": {
-        "item_name": "Хрома-Прайм (креслення)",
-        "description": "Майстер із керування стихійними елементами, вивільнює на ворогів неймовірні сили руйнування. Має змінені полярності комірок модифікаторів задля гнучкості вдосконалення.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Chroma Prime Blueprint",
+            "description": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime",
+            "icon": "items/images/en/chroma_prime_blueprint.746ea1c1556aa60f94f0c2399946baaf.png",
+            "thumb": "items/images/en/thumbs/chroma_prime_blueprint.746ea1c1556aa60f94f0c2399946baaf.128x128.png"
+        },
+        "ru": {
+            "item_name": "Хрома Прайм (Чертеж)",
+            "description": "Подчините стихии и высвободите неописуемые разрушения с Варфреймом Хрома Прайм. Обладает дополнительными полярностями слотов для более тонкой настройки.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "크로마 프라임 설계도",
+            "description": "크로마 프라임으로 원소들을 결속시켜 막대한 파괴를 불러일으켜보세요. 더욱 다채로운 특성화를 위한 추가 모드 극성이 포함되어 있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+        },
+        "de": {
+            "item_name": "Chroma Prime Blaupause",
+            "description": "Meistere die Elemente und entfessele nie gekannte Zerstörung, mit Chroma Prime. Bietet veränderte Mod-Polaritäten für noch bessere Anpassungsmöglichkeiten.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Chroma_Prime"
+        },
+        "fr": {
+            "item_name": "Chroma Prime (Schéma)",
+            "description": "Maîtrisez les éléments et libérez une destruction sans précédent avec Chroma Prime. Elle possède des polarités de mods altérées pour une meilleure personnalisation.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Chroma_Prime"
+        },
+        "pt": {
+            "item_name": "Chroma Prime (Diagrama)",
+            "description": "Combine os elementos e desencadeie destruição imensurável com o Chroma Prime. Inclusas polaridades alteradas de mods para uma maior personalização.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Chroma_Prime"
+        },
+        "zh-hans": {
+            "item_name": "Chroma Prime 蓝图",
+            "description": "与元素紧密结合并发动无尽毁灭之力的 Chroma Prime。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+        },
+        "zh-hant": {
+            "item_name": "Chroma Prime 藍圖",
+            "description": "與元素緊密結合並發動無盡毀滅之力的 Chroma Prime，擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Chroma_Prime"
+        },
+        "es": {
+            "item_name": "Plano de Chroma Prime",
+            "description": "Enlaza los elementos y desencadena la destrucción indecible con el Chroma Prime. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Chroma_Prime"
+        },
+        "it": {
+            "item_name": "Chroma Prime (Schema)",
+            "description": "Imbriglia gli elementi e scatena un'inenarrabile distruzione con Chroma Prime. Presenta polarità mod alterate per una maggiore personalizzazione.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Soma_Prime"
+        },
+        "pl": {
+            "item_name": "Chroma Prime - Schemat",
+            "description": "Połącz żywioły rozpętując nieopętaną destrukcję Chromą Prime. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Chroma_Prime"
+        },
+        "uk": {
+            "item_name": "Хрома-Прайм (креслення)",
+            "description": "Майстер із керування стихійними елементами, вивільнює на ворогів неймовірні сили руйнування. Має змінені полярності комірок модифікаторів задля гнучкості вдосконалення.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Chroma_Prime"
+        }
     },
     "mastery_level": 0,
     "ducats": 15,

@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionDrainPowerMod"
     },
-    "en": {
-        "item_name": "Power Drain",
-        "description": "100% chance for next ability cast to gain +50% Ability Strength",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Истощение Энергии",
-        "description": "100% шанса, что следующая примененная способность получит +50% к силе способности",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "파워 드레인",
-        "description": "100% 확률로 다음 어빌리티 시전에 +50% 어빌리티 위력",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Kraftentzug",
-        "description": "100 % Chance, dass die nächste Fähigkeit bei Anwendung + 50 % Fähigkeitsstärke hat",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Drain De Puissance",
-        "description": "100% de chance que le prochain Pouvoir lancé gagne +50% de Puissance de Pouvoir",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Power Drain",
-        "description": "100% de chance de fornecer +50% de Força da Habilidade para a próxima habilidade conjurada",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "力量汲取",
-        "description": "100% 几率使下一次技能施放的强度提升 50%",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "汲能釋放",
-        "description": "100% 的機率使下一次施放技能的強度增加 50%",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Drenaje De Energía",
-        "description": "100 % de probabilidad de que el siguiente lanzamiento de habilidad gane 50 % más de fuerza de habilidad",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Power Drain",
-        "description": "100% probabilità che la prossima abilità utilizzata ottenga +50% di Potenza Abilità",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Drenaż Mocy",
-        "description": "100% szansy na uzyskanie +50% Siły Umiejętności dla następnej użytej umiejętności",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Витягування Енергії",
-        "description": "100% до ймовірності отримати +50% до потужності наступної здібності.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Power Drain",
+            "description": "100% chance for next ability cast to gain +50% Ability Strength",
+            "wiki_link": null,
+            "icon": "items/images/en/power_drain.228c179d1f62f564826c09ab6c5abd48.png",
+            "thumb": "items/images/en/thumbs/power_drain.228c179d1f62f564826c09ab6c5abd48.128x128.png"
+        },
+        "ru": {
+            "item_name": "Истощение Энергии",
+            "description": "100% шанса, что следующая примененная способность получит +50% к силе способности",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "파워 드레인",
+            "description": "100% 확률로 다음 어빌리티 시전에 +50% 어빌리티 위력",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Kraftentzug",
+            "description": "100 % Chance, dass die nächste Fähigkeit bei Anwendung + 50 % Fähigkeitsstärke hat",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Drain De Puissance",
+            "description": "100% de chance que le prochain Pouvoir lancé gagne +50% de Puissance de Pouvoir",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Power Drain",
+            "description": "100% de chance de fornecer +50% de Força da Habilidade para a próxima habilidade conjurada",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "力量汲取",
+            "description": "100% 几率使下一次技能施放的强度提升 50%",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "汲能釋放",
+            "description": "100% 的機率使下一次施放技能的強度增加 50%",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Drenaje De Energía",
+            "description": "100 % de probabilidad de que el siguiente lanzamiento de habilidad gane 50 % más de fuerza de habilidad",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Power Drain",
+            "description": "100% probabilità che la prossima abilità utilizzata ottenga +50% di Potenza Abilità",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Drenaż Mocy",
+            "description": "100% szansy na uzyskanie +50% Siły Umiejętności dla następnej użytej umiejętności",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Витягування Енергії",
+            "description": "100% до ймовірності отримати +50% до потужності наступної здібності.",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "trading_tax": 4000

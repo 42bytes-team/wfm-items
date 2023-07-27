@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Amar/AmarExilusMod"
     },
-    "en": {
-        "item_name": "Amar's Anguish",
-        "description": "+15% to Bullet Jump\n+15% Sprint Speed",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Мучения Амара",
-        "description": "+15% к прыжку-выстрелу\n+15% к скорости бега",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "아마르 앵귀시",
-        "description": "+15% 불릿 점프\n+15% 질주 속도",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Amars Pein",
-        "description": "+15 % für Projektilsprung\n+15 % Sprintgeschwindigkeit",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Angoisse D'Amar",
-        "description": "+15% vitesse au Saut Propulsé\n+15% Vitesse de Course",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Angústia Do Amar",
-        "description": "+15% de Potência do Salto-Bala\n+15% de Velocidade da Corrida",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "欺谋狼主之苦",
-        "description": "旋身飞跃速度提升 +15%\n+15% 冲刺速度",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "亞瑪爾的痛苦",
-        "description": "旋身飛躍速度提升 +15%\n+15% 衝刺速度",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Angustia De Amar",
-        "description": "+15 % de salto-bala\n+15% de velocidad al correr",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Amar's Anguish",
-        "description": "+15% velocità Bullet Jump\n+15% Velocità Scatto",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Rozpacz Amara",
-        "description": "+15% do Skoku Balistycznego\n+15% Szybkość Sprintu",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Туга Амара",
-        "description": "+15% до гвинтового стрибка.\n+15% до швидкості бігу.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Amar's Anguish",
+            "description": "+15% to Bullet Jump\n+15% Sprint Speed",
+            "wiki_link": null,
+            "icon": "items/images/en/amars_anguish.7ce47cf13b6ff894df2eaf142af0caf2.png",
+            "thumb": "items/images/en/thumbs/amars_anguish.7ce47cf13b6ff894df2eaf142af0caf2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мучения Амара",
+            "description": "+15% к прыжку-выстрелу\n+15% к скорости бега",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "아마르 앵귀시",
+            "description": "+15% 불릿 점프\n+15% 질주 속도",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Amars Pein",
+            "description": "+15 % für Projektilsprung\n+15 % Sprintgeschwindigkeit",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Angoisse D'Amar",
+            "description": "+15% vitesse au Saut Propulsé\n+15% Vitesse de Course",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Angústia Do Amar",
+            "description": "+15% de Potência do Salto-Bala\n+15% de Velocidade da Corrida",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "欺谋狼主之苦",
+            "description": "旋身飞跃速度提升 +15%\n+15% 冲刺速度",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "亞瑪爾的痛苦",
+            "description": "旋身飛躍速度提升 +15%\n+15% 衝刺速度",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Angustia De Amar",
+            "description": "+15 % de salto-bala\n+15% de velocidad al correr",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Amar's Anguish",
+            "description": "+15% velocità Bullet Jump\n+15% Velocità Scatto",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Rozpacz Amara",
+            "description": "+15% do Skoku Balistycznego\n+15% Szybkość Sprintu",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Туга Амара",
+            "description": "+15% до гвинтового стрибка.\n+15% до швидкості бігу.",
+            "wiki_link": null
+        }
     },
     "rarity": "common",
     "max_rank": 5,

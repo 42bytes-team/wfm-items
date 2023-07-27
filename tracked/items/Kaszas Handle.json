@@ -21,65 +21,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Kaszas Handle",
-        "description": "An Archwing weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kaszas"
-    },
-    "ru": {
-        "item_name": "Косаш: Рукоять",
-        "description": "Компонент оружия арчвинга.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%88"
-    },
-    "ko": {
-        "item_name": "카스자스 핸들",
-        "description": "아크윙 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kaszas"
-    },
-    "de": {
-        "item_name": "Kaszas: Griff",
-        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Kaszas"
-    },
-    "fr": {
-        "item_name": "Kaszas - Manche",
-        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kaszas"
-    },
-    "pt": {
-        "item_name": "Kaszas: Cabo",
-        "description": "Um componente de fabricação de armas Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Kaszas"
-    },
-    "zh-hans": {
-        "item_name": "死亡使徒 握柄",
-        "description": "一个 Archwing 武器制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kaszas"
-    },
-    "zh-hant": {
-        "item_name": "死亡使徒 握柄",
-        "description": "製作 Archwing 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Kaszas"
-    },
-    "es": {
-        "item_name": "Empuñadura De Kaszas",
-        "description": "Un componente de fabricación de arma de archwing.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Kaszas"
-    },
-    "it": {
-        "item_name": "Kaszas - Manico",
-        "description": "Un componente per la costruzione di un'arma Archwing.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kaszas"
-    },
-    "pl": {
-        "item_name": "Kaszas: Drzewce",
-        "description": "Element wytwarzania broni Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kaszas"
-    },
-    "uk": {
-        "item_name": "Косаш: Руків’я",
-        "description": "Деталь зброї арквінґа.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Kaszas"
+    "i18n": {
+        "en": {
+            "item_name": "Kaszas Handle",
+            "description": "An Archwing weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Kaszas",
+            "icon": "items/images/en/kaszas_handle.11baea8229af2d3500c79b829f9dfcee.png",
+            "thumb": "items/images/en/thumbs/kaszas_handle.11baea8229af2d3500c79b829f9dfcee.128x128.png"
+        },
+        "ru": {
+            "item_name": "Косаш: Рукоять",
+            "description": "Компонент оружия арчвинга.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%88"
+        },
+        "ko": {
+            "item_name": "카스자스 핸들",
+            "description": "아크윙 무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Kaszas"
+        },
+        "de": {
+            "item_name": "Kaszas: Griff",
+            "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Kaszas"
+        },
+        "fr": {
+            "item_name": "Kaszas - Manche",
+            "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Kaszas"
+        },
+        "pt": {
+            "item_name": "Kaszas: Cabo",
+            "description": "Um componente de fabricação de armas Archwing.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Kaszas"
+        },
+        "zh-hans": {
+            "item_name": "死亡使徒 握柄",
+            "description": "一个 Archwing 武器制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Kaszas"
+        },
+        "zh-hant": {
+            "item_name": "死亡使徒 握柄",
+            "description": "製作 Archwing 武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Kaszas"
+        },
+        "es": {
+            "item_name": "Empuñadura De Kaszas",
+            "description": "Un componente de fabricación de arma de archwing.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Kaszas"
+        },
+        "it": {
+            "item_name": "Kaszas - Manico",
+            "description": "Un componente per la costruzione di un'arma Archwing.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Kaszas"
+        },
+        "pl": {
+            "item_name": "Kaszas: Drzewce",
+            "description": "Element wytwarzania broni Archwing.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Kaszas"
+        },
+        "uk": {
+            "item_name": "Косаш: Руків’я",
+            "description": "Деталь зброї арквінґа.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Kaszas"
+        }
     },
     "mastery_level": 4,
     "trading_tax": 2000

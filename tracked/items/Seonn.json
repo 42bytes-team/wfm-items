@@ -9,65 +9,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishEItem"
     },
-    "en": {
-        "item_name": "Seonn",
-        "description": "The Seonn’s ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Сеонн",
-        "description": "Способность сеоннов расширять шею и капюшон делает невозможным его проглатывание для большинства хищников, но Золотая пасть может преодолеть эту защиту.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "선",
-        "description": "목깃과 볏을 부풀릴 수 있는 선의 능력으로 인해 대부분의 포식자들은 이 물고기를 삼킬 수 없지만, 황금의 아귀는 이 방어 수단을 무시할 수 있습니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Seonn",
-        "description": "Die Fähigkeit des Seonns, seinen Nacken zu spreizen, macht es den meisten Raubtieren unmöglich, ihn zu verschlucken. Der Goldschlund, jedoch, kann diese Verteidigung überwinden.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Seonn",
-        "description": "La capacité du Seonn à dilater son cou et sa protection empêchent la plupart des prédateurs de l'avaler, mais la Gueule d'Or peut surmonter sa défense.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Seonn",
-        "description": "A habilidade do Seonn de dilatar seu pescoço impossibilita que a maioria dos predadores o engula, mesmo assim, ele não é páreo para a Mandíbula Dourada.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "精灵鱼",
-        "description": "精灵鱼的颈部和头鳍可以伸展，让大多数的捕食者无法吞咽，但是黄金喉兽可以攻克它的防御。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "鱻",
-        "description": "鱻可以張開牠的頸部及頭蓋，使牠無法被大部分掠食者吞嚥，但黃金喉獸可以克服牠的防禦。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Seonn",
-        "description": "La capacidad del seonn para expandir su cuello y branquias evita que la mayoría de los depredadores se lo traguen, pero las Fauces Doradas puede vencer su defensa.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Seonn",
-        "description": "La capacità del Seonn di espandere il collo e le branchie impediscono alla maggior parte dei predatori di inghiottirlo, ma il Golden Maw può superare la sua difesa.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Seonn",
-        "description": "Seonn jest zdolny do rozłożenia swojej szyi i kaptura, co uniemożliwia jego połknięcie przez większość drapieżników. Nie jest to jednak problem dla Złotego Czerwia.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Сонн",
-        "description": "Здібність соннів роздувати шию й розгортати каптур робить цю рибу непридатною для ковтання більшістю хижаків, але злотопащі зжеруть і таких хитрунів.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Seonn",
+            "description": "The Seonn’s ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.",
+            "wiki_link": null,
+            "icon": "items/images/en/seonn.7390238e2129d768901d3b289407169b.png",
+            "thumb": "items/images/en/thumbs/seonn.7390238e2129d768901d3b289407169b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сеонн",
+            "description": "Способность сеоннов расширять шею и капюшон делает невозможным его проглатывание для большинства хищников, но Золотая пасть может преодолеть эту защиту.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "선",
+            "description": "목깃과 볏을 부풀릴 수 있는 선의 능력으로 인해 대부분의 포식자들은 이 물고기를 삼킬 수 없지만, 황금의 아귀는 이 방어 수단을 무시할 수 있습니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Seonn",
+            "description": "Die Fähigkeit des Seonns, seinen Nacken zu spreizen, macht es den meisten Raubtieren unmöglich, ihn zu verschlucken. Der Goldschlund, jedoch, kann diese Verteidigung überwinden.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Seonn",
+            "description": "La capacité du Seonn à dilater son cou et sa protection empêchent la plupart des prédateurs de l'avaler, mais la Gueule d'Or peut surmonter sa défense.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Seonn",
+            "description": "A habilidade do Seonn de dilatar seu pescoço impossibilita que a maioria dos predadores o engula, mesmo assim, ele não é páreo para a Mandíbula Dourada.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "精灵鱼",
+            "description": "精灵鱼的颈部和头鳍可以伸展，让大多数的捕食者无法吞咽，但是黄金喉兽可以攻克它的防御。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "鱻",
+            "description": "鱻可以張開牠的頸部及頭蓋，使牠無法被大部分掠食者吞嚥，但黃金喉獸可以克服牠的防禦。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Seonn",
+            "description": "La capacidad del seonn para expandir su cuello y branquias evita que la mayoría de los depredadores se lo traguen, pero las Fauces Doradas puede vencer su defensa.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Seonn",
+            "description": "La capacità del Seonn di espandere il collo e le branchie impediscono alla maggior parte dei predatori di inghiottirlo, ma il Golden Maw può superare la sua difesa.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Seonn",
+            "description": "Seonn jest zdolny do rozłożenia swojej szyi i kaptura, co uniemożliwia jego połknięcie przez większość drapieżników. Nie jest to jednak problem dla Złotego Czerwia.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Сонн",
+            "description": "Здібність соннів роздувати шию й розгортати каптур робить цю рибу непридатною для ковтання більшістю хижаків, але злотопащі зжеруть і таких хитрунів.",
+            "wiki_link": null
+        }
     },
     "subtypes": [
         "small"

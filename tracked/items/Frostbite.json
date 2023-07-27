@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceEventPistolMod"
     },
-    "en": {
-        "item_name": "Frostbite",
-        "description": "+60% Cold\n+60% Status Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Frostbite"
-    },
-    "ru": {
-        "item_name": "Обморожение",
-        "description": "+60% урона холодом\n+60% к шансу статуса",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B1%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
-        "icon": "items/images/ru/frostbite.6870d89e932383a58a083313f2c74102.png",
-        "thumb": "items/images/ru/thumbs/frostbite.6870d89e932383a58a083313f2c74102.128x128.png"
-    },
-    "ko": {
-        "item_name": "프로스트바이트",
-        "description": "+60% 냉기\n+60% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Frostbite"
-    },
-    "de": {
-        "item_name": "Erfrierung",
-        "description": "+60 % Kälte\n+60 % Statuschance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Erfrierung"
-    },
-    "fr": {
-        "item_name": "Engelure",
-        "description": "+60% Glace\n+60% de Chances de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Engelure"
-    },
-    "pt": {
-        "item_name": "Frostbite",
-        "description": "+60% de Glacial\n+60% de Chance de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Frostbite"
-    },
-    "zh-hans": {
-        "item_name": "结霜侵蚀",
-        "description": "+60% 冰冻伤害\n+60% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Frostbite"
-    },
-    "zh-hant": {
-        "item_name": "結霜侵蝕",
-        "description": "+60% 冰凍傷害\n+60% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Frostbite"
-    },
-    "es": {
-        "item_name": "Congelación",
-        "description": "+60% de frío\n+60% de probabilidad de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Congelaci%C3%B3n"
-    },
-    "it": {
-        "item_name": "Frostbite",
-        "description": "+60% Ghiaccio\n+60% Probabilità Effetto",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Frostbite"
-    },
-    "pl": {
-        "item_name": "Odmrożenie",
-        "description": "+60% Obrażeń Zimna\n+60% Szansa Statusu",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Zamro%C5%BCenie"
-    },
-    "uk": {
-        "item_name": "Обмороження",
-        "description": "+60% до крижаної шкоди.\n+60% до ймовірності застосування ефекту стану.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Frostbite"
+    "i18n": {
+        "en": {
+            "item_name": "Frostbite",
+            "description": "+60% Cold\n+60% Status Chance",
+            "wiki_link": "https://warframe.fandom.com/wiki/Frostbite",
+            "icon": "items/images/en/frostbite.e8c9b830402b0f3228c0c14efcae34fe.png",
+            "thumb": "items/images/en/thumbs/frostbite.e8c9b830402b0f3228c0c14efcae34fe.128x128.png"
+        },
+        "ru": {
+            "item_name": "Обморожение",
+            "description": "+60% урона холодом\n+60% к шансу статуса",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B1%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+            "icon": "items/images/ru/frostbite.6870d89e932383a58a083313f2c74102.png",
+            "thumb": "items/images/ru/thumbs/frostbite.6870d89e932383a58a083313f2c74102.128x128.png"
+        },
+        "ko": {
+            "item_name": "프로스트바이트",
+            "description": "+60% 냉기\n+60% 상태 이상 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Frostbite"
+        },
+        "de": {
+            "item_name": "Erfrierung",
+            "description": "+60 % Kälte\n+60 % Statuschance",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Erfrierung"
+        },
+        "fr": {
+            "item_name": "Engelure",
+            "description": "+60% Glace\n+60% de Chances de Statut",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Engelure"
+        },
+        "pt": {
+            "item_name": "Frostbite",
+            "description": "+60% de Glacial\n+60% de Chance de Status",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Frostbite"
+        },
+        "zh-hans": {
+            "item_name": "结霜侵蚀",
+            "description": "+60% 冰冻伤害\n+60% 触发几率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Frostbite"
+        },
+        "zh-hant": {
+            "item_name": "結霜侵蝕",
+            "description": "+60% 冰凍傷害\n+60% 觸發機率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Frostbite"
+        },
+        "es": {
+            "item_name": "Congelación",
+            "description": "+60% de frío\n+60% de probabilidad de estado",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Congelaci%C3%B3n"
+        },
+        "it": {
+            "item_name": "Frostbite",
+            "description": "+60% Ghiaccio\n+60% Probabilità Effetto",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Frostbite"
+        },
+        "pl": {
+            "item_name": "Odmrożenie",
+            "description": "+60% Obrażeń Zimna\n+60% Szansa Statusu",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zamro%C5%BCenie"
+        },
+        "uk": {
+            "item_name": "Обмороження",
+            "description": "+60% до крижаної шкоди\n+60% до ймовірності накладання ефекту стану",
+            "wiki_link": "https://warframe.fandom.com/wiki/Frostbite"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

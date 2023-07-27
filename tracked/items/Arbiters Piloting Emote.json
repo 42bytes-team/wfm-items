@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Emotes/Syndicate/AHPilotingEmote"
     },
-    "en": {
-        "item_name": "Arbiters Piloting Emote",
-        "description": "Take the controls with this crew-inspired emote.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Жест: Арбитры - Пилотирование",
-        "description": "Возьмите на себя управление с помощью этого жеста, вдохновлённого командой.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "아비터즈 조종 감정 표현",
-        "description": "승무원에게서 영감을 받은 이 감정 표현으로 조종간을 잡아보세요.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Emote: Arbiters Steuerung",
-        "description": "Übernimm die Steuerung mit diesem von der Crew inspirierten Emote.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Geste De Pilotage - Arbitres",
-        "description": "Prenez les commandes avec ce Geste inspiré de votre équipage.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Emote: Pilotagem Dos Árbitros",
-        "description": "Assuma os comandos com este emote inspirado em seus membros da tripulação.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "均衡仲裁者操纵表情动作",
-        "description": "通过这款受舰员启发的表情动作来掌控全局。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "仲裁者操縱表情動作",
-        "description": "透過這款以船員作靈感的表情動作來統領大局。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Gesto De Pilotaje De Árbitros",
-        "description": "Toma el control con este gesto inspirado en los tripulantes.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Emote Pilotaggio Arbiters",
-        "description": "Prendi il comando con questa emote ispirata all'equipaggio.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Gest: Pilotaż Arbitrów",
-        "description": "Przejmij kontrolę dzięki temu inspirowanemu załogą gestowi.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Пілот «Арбітрів Гексису»",
-        "description": "Керуйте зорельотом із жестом, на створення якого надихнув екіпаж.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Arbiters Piloting Emote",
+            "description": "Take the controls with this crew-inspired emote.",
+            "wiki_link": null,
+            "icon": "items/images/en/arbiters_piloting_emote.d63ff0680b57af6c8cfb21d699374b9f.png",
+            "thumb": "items/images/en/thumbs/arbiters_piloting_emote.d63ff0680b57af6c8cfb21d699374b9f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Жест: Арбитры - Пилотирование",
+            "description": "Возьмите на себя управление с помощью этого жеста, вдохновлённого командой.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "아비터즈 조종 감정 표현",
+            "description": "승무원에게서 영감을 받은 이 감정 표현으로 조종간을 잡아보세요.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Emote: Arbiters Steuerung",
+            "description": "Übernimm die Steuerung mit diesem von der Crew inspirierten Emote.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Geste De Pilotage - Arbitres",
+            "description": "Prenez les commandes avec ce Geste inspiré de votre équipage.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Emote: Pilotagem Dos Árbitros",
+            "description": "Assuma os comandos com este emote inspirado em seus membros da tripulação.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "均衡仲裁者操纵表情动作",
+            "description": "通过这款受舰员启发的表情动作来掌控全局。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "仲裁者操縱表情動作",
+            "description": "透過這款以船員作靈感的表情動作來統領大局。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Gesto De Pilotaje De Árbitros",
+            "description": "Toma el control con este gesto inspirado en los tripulantes.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Emote Pilotaggio Arbiters",
+            "description": "Prendi il comando con questa emote ispirata all'equipaggio.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Gest: Pilotaż Arbitrów",
+            "description": "Przejmij kontrolę dzięki temu inspirowanemu załogą gestowi.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Пілот «Арбітрів Гексису»",
+            "description": "Керуйте зорельотом із жестом, на створення якого надихнув екіпаж.",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

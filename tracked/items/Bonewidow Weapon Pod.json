@@ -20,65 +20,69 @@
         "bonewidow_weapon_pod"
     ],
     "set_root": false,
-    "en": {
-        "item_name": "Bonewidow Weapon Pod",
-        "description": "Weapon Pod component for the Bonewidow Necramech.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bonewidow"
-    },
-    "ru": {
-        "item_name": "Костяная Вдова: Оружейная Капсула",
-        "description": "Оружейная капсула для Костяной Вдовы.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%8F%D0%BD%D0%B0%D1%8F_%D0%92%D0%B4%D0%BE%D0%B2%D0%B0"
-    },
-    "ko": {
-        "item_name": "본위도우 웨펀 포드",
-        "description": "본위도우 네크라메크의 웨펀 포드 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bonewidow"
-    },
-    "de": {
-        "item_name": "Bonewidow: Waffenkapsel",
-        "description": "Waffenkapsel-Komponente für den Bonewidow Necramech.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
-    },
-    "fr": {
-        "item_name": "Bonewidow - Nacelle D'Armes",
-        "description": "Le composant Nacelle d'arme du Necramech Bonewidow.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Bonewidow"
-    },
-    "pt": {
-        "item_name": "Bonewidow: Câmara De Arma",
-        "description": "Câmara de Arma componente do Necramech Bonewidow.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
-    },
-    "zh-hans": {
-        "item_name": "骨骸寡妇 武器舱",
-        "description": "“骨骸寡妇”殁世机甲的武器舱组件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bonewidow"
-    },
-    "zh-hant": {
-        "item_name": "骨寡婦 武器吊艙",
-        "description": "骨寡婦亡骸機甲的武器吊艙部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Bonewidow"
-    },
-    "es": {
-        "item_name": "Cápsula De Arma De Bonewidow",
-        "description": "Componente de la cápsula del arma del Necramech Bonewidow.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
-    },
-    "it": {
-        "item_name": "Bonewidow - Capsula Arma",
-        "description": "Il componente Capsula Arma per il Necramech Bonewidow.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
-    },
-    "pl": {
-        "item_name": "Bonewidow: Kapsuła Broni",
-        "description": "Komponent kapsuły broni Nekramecha Bonewidow.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
-    },
-    "uk": {
-        "item_name": "Кістяна Вдова: Збройовий Відсік",
-        "description": "Деталі збройового відсіку для некрамеха «Кістяна Вдова».",
-        "wiki_link": "https://warframe.fandom.com/wiki/Bonewidow"
+    "i18n": {
+        "en": {
+            "item_name": "Bonewidow Weapon Pod",
+            "description": "Weapon Pod component for the Bonewidow Necramech.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bonewidow",
+            "icon": "items/images/en/bonewidow_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.png",
+            "thumb": "items/images/en/thumbs/bonewidow_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.128x128.png"
+        },
+        "ru": {
+            "item_name": "Костяная Вдова: Оружейная Капсула",
+            "description": "Оружейная капсула для Костяной Вдовы.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%8F%D0%BD%D0%B0%D1%8F_%D0%92%D0%B4%D0%BE%D0%B2%D0%B0"
+        },
+        "ko": {
+            "item_name": "본위도우 웨펀 포드",
+            "description": "본위도우 네크라메크의 웨펀 포드 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bonewidow"
+        },
+        "de": {
+            "item_name": "Bonewidow: Waffenkapsel",
+            "description": "Waffenkapsel-Komponente für den Bonewidow Necramech.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
+        },
+        "fr": {
+            "item_name": "Bonewidow - Nacelle D'Armes",
+            "description": "Le composant Nacelle d'arme du Necramech Bonewidow.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Bonewidow"
+        },
+        "pt": {
+            "item_name": "Bonewidow: Câmara De Arma",
+            "description": "Câmara de Arma componente do Necramech Bonewidow.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
+        },
+        "zh-hans": {
+            "item_name": "骨骸寡妇 武器舱",
+            "description": "“骨骸寡妇”殁世机甲的武器舱组件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bonewidow"
+        },
+        "zh-hant": {
+            "item_name": "骨寡婦 武器吊艙",
+            "description": "骨寡婦亡骸機甲的武器吊艙部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Bonewidow"
+        },
+        "es": {
+            "item_name": "Cápsula De Arma De Bonewidow",
+            "description": "Componente de la cápsula del arma del Necramech Bonewidow.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
+        },
+        "it": {
+            "item_name": "Bonewidow - Capsula Arma",
+            "description": "Il componente Capsula Arma per il Necramech Bonewidow.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
+        },
+        "pl": {
+            "item_name": "Bonewidow: Kapsuła Broni",
+            "description": "Komponent kapsuły broni Nekramecha Bonewidow.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech"
+        },
+        "uk": {
+            "item_name": "Кістяна Вдова: Збройовий Відсік",
+            "description": "Деталі збройового відсіку для некрамеха «Кістяна Вдова».",
+            "wiki_link": "https://warframe.fandom.com/wiki/Bonewidow"
+        }
     },
     "mastery_level": 0,
     "trading_tax": 2000

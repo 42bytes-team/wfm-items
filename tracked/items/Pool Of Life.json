@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Trinity/WellOfLifeAugmentCard"
     },
-    "en": {
-        "item_name": "Pool Of Life",
-        "description": "Well of Life Augment: On death, marked enemies will drop 4 Health Orbs with a 100% chance of dropping an Energy Orb.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pool_of_Life"
-    },
-    "ru": {
-        "item_name": "Жизненный Пруд",
-        "description": "Улучшение способности «Источник жизни»: из убитых врагов будут выпадать сферы здоровья в количестве 4 и, с шансом 100%, сферы энергии.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9F%D1%80%D1%83%D0%B4",
-        "icon": "items/images/ru/pool_of_life.61819d55fa32eb55e62603eee7ea13c4.png",
-        "thumb": "items/images/ru/thumbs/pool_of_life.61819d55fa32eb55e62603eee7ea13c4.128x128.png"
-    },
-    "ko": {
-        "item_name": "풀 오브 라이프",
-        "description": "웰 오브 라이프 개조: 표적이 된 적이 사망할 시 4개의 체력 오브를 드롭하며, 100%의 확률로 에너지 오브 또한 드롭됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pool_of_Life"
-    },
-    "de": {
-        "item_name": "Fluss Des Lebens",
-        "description": "Quell des Lebens Augment: Bei ihrem Tod lassen markierte Feinde 4 Gesundheitskugeln fallen und verfügen über eine 100 % Chance, eine Energiekugel fallen zu lassen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Fluss_des_Lebens"
-    },
-    "fr": {
-        "item_name": "Bassin De Vie",
-        "description": "Augmentation de Puits de Vie: Les ennemis marqués laisseront tomber, si tués, 4 Orbes de Santé avec 100% de chances de laisser tomber un Orbe d'Énergie.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Bassin_de_Vie"
-    },
-    "pt": {
-        "item_name": "Pool Of Life",
-        "description": "Ampliação Well of Life: inimigos marcados que morrerem sob o efeito da habilidade deixarão 4 Orbes de Vida, contendo uma chance de 100% de deixar um Orbe de Energia.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pool_of_Life"
-    },
-    "zh-hans": {
-        "item_name": "生命之池",
-        "description": "生命之井强化：被标记的敌人死亡时会掉落 4 个生命球，并有 100% 的几率掉落额外的能量球。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pool_of_Life"
-    },
-    "zh-hant": {
-        "item_name": "生命之池",
-        "description": "生命之井強化：被標記的敵人死亡時會掉落 4 個生命球，並有 100% 的機率掉落額外的能量球。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pool_of_Life"
-    },
-    "es": {
-        "item_name": "Depósito De Vida",
-        "description": "Aumento de Fuente de vida: al morir, los enemigos marcados dejarán caer 4 orbes de salud, con un 100 % de probabilidad de dejar caer un orbe de energía.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Dep%C3%B3sito_de_vida"
-    },
-    "it": {
-        "item_name": "Pool Of Life",
-        "description": "Potenziamento Well Of Life: Alla morte, il nemico affetto dall'Abilità rilascerà 4 Sfere di Salute e, con il 100% di probabilità, una Sfera di Energia.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Well_Of_Life"
-    },
-    "pl": {
-        "item_name": "Woda Życia",
-        "description": "Modyfikacja Studni Życia: w momencie śmierci zaznaczeni wrogowie upuszczą 4 Kul Życia z 100% szansą na upuszczenie Kuli Energii.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Woda_%C5%BBycia"
-    },
-    "uk": {
-        "item_name": "Ставок Життя",
-        "description": "Розширення здібності «Джерело життя»: після смерті цілі лишають згустки здоров’я (4) і з 100% імовірності можуть лишити згусток енергії.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pool_of_Life"
+    "i18n": {
+        "en": {
+            "item_name": "Pool Of Life",
+            "description": "Well of Life Augment: On death, marked enemies will drop 4 Health Orbs with a 100% chance of dropping an Energy Orb.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pool_of_Life",
+            "icon": "items/images/en/pool_of_life.86c8aad96e3d49f9d2dbb0a3be6d7ae1.png",
+            "thumb": "items/images/en/thumbs/pool_of_life.86c8aad96e3d49f9d2dbb0a3be6d7ae1.128x128.png"
+        },
+        "ru": {
+            "item_name": "Жизненный Пруд",
+            "description": "Улучшение способности «Источник жизни»: из убитых врагов будут выпадать сферы здоровья в количестве 4 и, с шансом 100%, сферы энергии.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9F%D1%80%D1%83%D0%B4",
+            "icon": "items/images/ru/pool_of_life.61819d55fa32eb55e62603eee7ea13c4.png",
+            "thumb": "items/images/ru/thumbs/pool_of_life.61819d55fa32eb55e62603eee7ea13c4.128x128.png"
+        },
+        "ko": {
+            "item_name": "풀 오브 라이프",
+            "description": "웰 오브 라이프 개조: 표적이 된 적이 사망할 시 4개의 체력 오브를 드롭하며, 100%의 확률로 에너지 오브 또한 드롭됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pool_of_Life"
+        },
+        "de": {
+            "item_name": "Fluss Des Lebens",
+            "description": "Quell des Lebens Augment: Bei ihrem Tod lassen markierte Feinde 4 Gesundheitskugeln fallen und verfügen über eine 100 % Chance, eine Energiekugel fallen zu lassen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Fluss_des_Lebens"
+        },
+        "fr": {
+            "item_name": "Bassin De Vie",
+            "description": "Augmentation de Puits de Vie: Les ennemis marqués laisseront tomber, si tués, 4 Orbes de Santé avec 100% de chances de laisser tomber un Orbe d'Énergie.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Bassin_de_Vie"
+        },
+        "pt": {
+            "item_name": "Pool Of Life",
+            "description": "Ampliação Well of Life: inimigos marcados que morrerem sob o efeito da habilidade deixarão 4 Orbes de Vida, contendo uma chance de 100% de deixar um Orbe de Energia.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pool_of_Life"
+        },
+        "zh-hans": {
+            "item_name": "生命之池",
+            "description": "生命之井强化：被标记的敌人死亡时会掉落 4 个生命球，并有 100% 的几率掉落额外的能量球。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pool_of_Life"
+        },
+        "zh-hant": {
+            "item_name": "生命之池",
+            "description": "生命之井強化：被標記的敵人死亡時會掉落 4 個生命球，並有 100% 的機率掉落額外的能量球。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pool_of_Life"
+        },
+        "es": {
+            "item_name": "Depósito De Vida",
+            "description": "Aumento de Fuente de vida: al morir, los enemigos marcados dejarán caer 4 orbes de salud, con un 100 % de probabilidad de dejar caer un orbe de energía.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Dep%C3%B3sito_de_vida"
+        },
+        "it": {
+            "item_name": "Pool Of Life",
+            "description": "Potenziamento Well Of Life: Alla morte, il nemico affetto dall'Abilità rilascerà 4 Sfere di Salute e, con il 100% di probabilità, una Sfera di Energia.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Well_Of_Life"
+        },
+        "pl": {
+            "item_name": "Woda Życia",
+            "description": "Modyfikacja Studni Życia: w momencie śmierci zaznaczeni wrogowie upuszczą 4 Kul Życia z 100% szansą na upuszczenie Kuli Energii.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Woda_%C5%BBycia"
+        },
+        "uk": {
+            "item_name": "Ставок Життя",
+            "description": "Розширення здібності «Джерело життя»: після смерті цілі лишають згустки здоров’я (4) і з 100% імовірності можуть лишити згусток енергії.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pool_of_Life"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/QuantaVandal"
     },
-    "en": {
-        "item_name": "Quanta Vandal",
-        "description": "A customized version of the Quanta, with metallic finish and Lotus decal.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Quanta_Vandal"
-    },
-    "ru": {
-        "item_name": "Кванта Вандал",
-        "description": "Модернизированная версия Кванты, отличающаяся металлическим покрытием и символом Лотос.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%B0_%D0%B2%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB"
-    },
-    "ko": {
-        "item_name": "콴타 반달",
-        "description": "콴타의 개조 버전으로, 금속 질감의 로터스 무늬로 장식 되어있습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Quanta_Vandal"
-    },
-    "de": {
-        "item_name": "Quanta Vandal",
-        "description": "Eine angepasste Version des Quanta, mit metallischem Überzug und Lotus-Deko.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Quanta_Vandal"
-    },
-    "fr": {
-        "item_name": "Quanta Vandal",
-        "description": "Une version personnalisée du Quanta, avec finition métallique estampillée de la marque du Lotus.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Quanta_Vandal"
-    },
-    "pt": {
-        "item_name": "Quanta Vandalizada",
-        "description": "Uma versão personalizada da Quanta, com acabamento metálico e o decalque da Lótus.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Quanta_Vandal"
-    },
-    "zh-hans": {
-        "item_name": "量子切割器·破坏者",
-        "description": "（英文：QUANTA VANDAL）这把是定制化版本的量子切割器，拥有着金属质感及 Lotus 的徽记。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Quanta_Vandal"
-    },
-    "zh-hant": {
-        "item_name": "量子切割器 破壞者",
-        "description": "（英文：QUANTA VANDAL）這把是客製化版本的量子切割器，擁有著金屬質感及 Lotus 的徽記。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Quanta_Vandal"
-    },
-    "es": {
-        "item_name": "Quanta Vándalo",
-        "description": "Una versión personalizada de la Quanta, con acabado metalizado y el logo de Lotus.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Quanta_V%C3%A1ndalo"
-    },
-    "it": {
-        "item_name": "Quanta Vandal",
-        "description": "Una versione personalizzata della Quanta, con finiture metalliche e simbolo di Lotus.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Quanta_Vandal"
-    },
-    "pl": {
-        "item_name": "Quanta Vandal",
-        "description": "Specjalna wersja Quanty z metalicznym wykończeniem i symbolem Lotus.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Quanta_Vandal"
-    },
-    "uk": {
-        "item_name": "Кванта-Вандал",
-        "description": "Видозмінена версія Кванти з блискучим металевим покриттям і символом Лотос.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Quanta_Vandal"
+    "i18n": {
+        "en": {
+            "item_name": "Quanta Vandal",
+            "description": "A customized version of the Quanta, with metallic finish and Lotus decal.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Quanta_Vandal",
+            "icon": "items/images/en/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.png",
+            "thumb": "items/images/en/thumbs/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кванта Вандал",
+            "description": "Модернизированная версия Кванты, отличающаяся металлическим покрытием и символом Лотос.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%B0_%D0%B2%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB"
+        },
+        "ko": {
+            "item_name": "콴타 반달",
+            "description": "콴타의 개조 버전으로, 금속 질감의 로터스 무늬로 장식 되어있습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Quanta_Vandal"
+        },
+        "de": {
+            "item_name": "Quanta Vandal",
+            "description": "Eine angepasste Version des Quanta, mit metallischem Überzug und Lotus-Deko.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Quanta_Vandal"
+        },
+        "fr": {
+            "item_name": "Quanta Vandal",
+            "description": "Une version personnalisée du Quanta, avec finition métallique estampillée de la marque du Lotus.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Quanta_Vandal"
+        },
+        "pt": {
+            "item_name": "Quanta Vandalizada",
+            "description": "Uma versão personalizada da Quanta, com acabamento metálico e o decalque da Lótus.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Quanta_Vandal"
+        },
+        "zh-hans": {
+            "item_name": "量子切割器·破坏者",
+            "description": "（英文：QUANTA VANDAL）这把是定制化版本的量子切割器，拥有着金属质感及 Lotus 的徽记。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Quanta_Vandal"
+        },
+        "zh-hant": {
+            "item_name": "量子切割器 破壞者",
+            "description": "（英文：QUANTA VANDAL）這把是客製化版本的量子切割器，擁有著金屬質感及 Lotus 的徽記。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Quanta_Vandal"
+        },
+        "es": {
+            "item_name": "Quanta Vándalo",
+            "description": "Una versión personalizada de la Quanta, con acabado metalizado y el logo de Lotus.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Quanta_V%C3%A1ndalo"
+        },
+        "it": {
+            "item_name": "Quanta Vandal",
+            "description": "Una versione personalizzata della Quanta, con finiture metalliche e simbolo di Lotus.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Quanta_Vandal"
+        },
+        "pl": {
+            "item_name": "Quanta Vandal",
+            "description": "Specjalna wersja Quanty z metalicznym wykończeniem i symbolem Lotus.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Quanta_Vandal"
+        },
+        "uk": {
+            "item_name": "Кванта-Вандал",
+            "description": "Видозмінена версія Кванти з блискучим металевим покриттям і символом Лотос.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Quanta_Vandal"
+        }
     },
     "mastery_level": 10,
     "trading_tax": 2000

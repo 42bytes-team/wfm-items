@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Ranger/RangerBowAugmentCard"
     },
-    "en": {
-        "item_name": "Concentrated Arrow",
-        "description": "Artemis Bow Augment: Fires a single arrow that has +50% Critical Chance on Headshots and explodes in a 7m radius. Removes Punch Through.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Concentrated_Arrow"
-    },
-    "ru": {
-        "item_name": "Сфокусированная Стрела",
-        "description": "Улучшение способности «Лук Артемиды»: выпускает единственную стрелу, которая при попадании в голову имеет +50% шанса критического урона и создает взрыв радиусом 7 м. Пронзание навылет отсутствует.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%84%D0%BE%D0%BA%D1%83%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0",
-        "icon": "items/images/ru/concentrated_arrow.b43665653ee315d37e273243766d878d.png",
-        "thumb": "items/images/ru/thumbs/concentrated_arrow.b43665653ee315d37e273243766d878d.128x128.png"
-    },
-    "ko": {
-        "item_name": "컨센트레이티드 애로우",
-        "description": "아르테미스 보우 개조: 헤드샷 시 50%의 치명타 확률이 증가하고 7m 범위에 폭발을 일으키는 한 발의 화살을 발사하며, 두께 꿰뚫기 기능이 사라집니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Concentrated_Arrow"
-    },
-    "de": {
-        "item_name": "Konzentrierter Pfeil",
-        "description": "Artemis Bogen Augment: Feuert einen einzelnen Pfeil der bei Kopftreffern eine +50 % Krit. Chance hat und in einem 7 m Radius explodiert. Entfernt Durchdringung.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Konzentrierter_Pfeil"
-    },
-    "fr": {
-        "item_name": "Flèche Concentrée",
-        "description": "Augmentation Arc d'Artémis : Tire une flèche unique qui, en cas de Tir à la tête, offre +50% de Chances de Critique et explose ensuite sur un rayon de 7m. Retire la pénétration.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Fl%C3%A8che_Concentr%C3%A9e"
-    },
-    "pt": {
-        "item_name": "Concentrated Arrow",
-        "description": "Ampliação Arco de Ártemis: dispara uma única flecha com +50% de Chance Crítica nos Acertos de Precisão, e causa uma explosão em um raio de 7m. Remove a Penetração da flecha.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Concentrated_Arrow"
-    },
-    "zh-hans": {
-        "item_name": "集中箭矢",
-        "description": "月神狩弓强化：射出单箭矢，爆头时可获得 +50% 暴击几率，并且造成 7 米范围的爆炸。但移除了弓箭的穿透效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Concentrated_Arrow"
-    },
-    "zh-hant": {
-        "item_name": "集中箭矢",
-        "description": "月神狩弓強化：射出發單箭矢，爆頭時可獲得 +50% 暴擊率，並且造成 7 公尺範圍的爆炸。但移除了弓箭的穿透效果。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Concentrated_Arrow"
-    },
-    "es": {
-        "item_name": "Flecha Concentrada",
-        "description": "Aumento de Arco de Artemisa: dispara una sola flecha que, en disparos a la cabeza, adquiere +50 % de probabilidad crítica y explota en un radio de 7 m. Y elimina Atravesar.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Flecha_Concentrada"
-    },
-    "it": {
-        "item_name": "Concentrated Arrow",
-        "description": "Potenziamento Artemis Bow: Scaglia una singola freccia che, in caso di colpo alla testa, ha il 50% in più di Probabilità Critico ed esplode con un raggio di 7m. Rimuove l'Attraversamento.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Concentrated_Arrow"
-    },
-    "pl": {
-        "item_name": "Skoncentrowana Strzała",
-        "description": "Modyfikacja Łuku Artemidy: Wystrzeliwuje pojedynczą strzałę. Przy trafieniu w głowę ma +50% szansę na obr. krytyczne i eksploduje rażąc przeciwników w zasięgu 7m. Usuwa efekt przebicia na wylot.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Skoncentrowana_Strza%C5%82a"
-    },
-    "uk": {
-        "item_name": "Зосереджена Стріла",
-        "description": "Розширення здібності «Лук Артеміди»: випускає одну стрілу, яка має +50% імовірності критичної шкоди від влучання в голову та вибухає на 7 метрів. Прибирає пробивання.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Concentrated_Arrow"
+    "i18n": {
+        "en": {
+            "item_name": "Concentrated Arrow",
+            "description": "Artemis Bow Augment: Fires a single arrow that has +50% Critical Chance on Headshots and explodes in a 7m radius. Removes Punch Through.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Concentrated_Arrow",
+            "icon": "items/images/en/concentrated_arrow.85c0266f9521db62d11d6f5c95aeebc2.png",
+            "thumb": "items/images/en/thumbs/concentrated_arrow.85c0266f9521db62d11d6f5c95aeebc2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сфокусированная Стрела",
+            "description": "Улучшение способности «Лук Артемиды»: выпускает единственную стрелу, которая при попадании в голову имеет +50% шанса критического урона и создает взрыв радиусом 7 м. Пронзание навылет отсутствует.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%84%D0%BE%D0%BA%D1%83%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0",
+            "icon": "items/images/ru/concentrated_arrow.b43665653ee315d37e273243766d878d.png",
+            "thumb": "items/images/ru/thumbs/concentrated_arrow.b43665653ee315d37e273243766d878d.128x128.png"
+        },
+        "ko": {
+            "item_name": "컨센트레이티드 애로우",
+            "description": "아르테미스 보우 개조: 헤드샷 시 50%의 치명타 확률이 증가하고 7m 범위에 폭발을 일으키는 한 발의 화살을 발사하며, 두께 꿰뚫기 기능이 사라집니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Concentrated_Arrow"
+        },
+        "de": {
+            "item_name": "Konzentrierter Pfeil",
+            "description": "Artemis Bogen Augment: Feuert einen einzelnen Pfeil der bei Kopftreffern eine +50 % Krit. Chance hat und in einem 7 m Radius explodiert. Entfernt Durchdringung.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Konzentrierter_Pfeil"
+        },
+        "fr": {
+            "item_name": "Flèche Concentrée",
+            "description": "Augmentation Arc d'Artémis : Tire une flèche unique qui, en cas de Tir à la tête, offre +50% de Chances de Critique et explose ensuite sur un rayon de 7m. Retire la pénétration.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Fl%C3%A8che_Concentr%C3%A9e"
+        },
+        "pt": {
+            "item_name": "Concentrated Arrow",
+            "description": "Ampliação Arco de Ártemis: dispara uma única flecha com +50% de Chance Crítica nos Acertos de Precisão, e causa uma explosão em um raio de 7m. Remove a Penetração da flecha.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Concentrated_Arrow"
+        },
+        "zh-hans": {
+            "item_name": "集中箭矢",
+            "description": "月神狩弓强化：射出单箭矢，爆头时可获得 +50% 暴击几率，并且造成 7 米范围的爆炸。但移除了弓箭的穿透效果。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Concentrated_Arrow"
+        },
+        "zh-hant": {
+            "item_name": "集中箭矢",
+            "description": "月神狩弓強化：射出發單箭矢，爆頭時可獲得 +50% 暴擊率，並且造成 7 公尺範圍的爆炸。但移除了弓箭的穿透效果。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Concentrated_Arrow"
+        },
+        "es": {
+            "item_name": "Flecha Concentrada",
+            "description": "Aumento de Arco de Artemisa: dispara una sola flecha que, en disparos a la cabeza, adquiere +50 % de probabilidad crítica y explota en un radio de 7 m. Y elimina Atravesar.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Flecha_Concentrada"
+        },
+        "it": {
+            "item_name": "Concentrated Arrow",
+            "description": "Potenziamento Artemis Bow: Scaglia una singola freccia che, in caso di colpo alla testa, ha il 50% in più di Probabilità Critico ed esplode con un raggio di 7m. Rimuove l'Attraversamento.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Concentrated_Arrow"
+        },
+        "pl": {
+            "item_name": "Skoncentrowana Strzała",
+            "description": "Modyfikacja Łuku Artemidy: Wystrzeliwuje pojedynczą strzałę. Przy trafieniu w głowę ma +50% szansę na obr. krytyczne i eksploduje rażąc przeciwników w zasięgu 7m. Usuwa efekt przebicia na wylot.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Skoncentrowana_Strza%C5%82a"
+        },
+        "uk": {
+            "item_name": "Зосереджена Стріла",
+            "description": "Розширення здібності «Лук Артеміди»: випускає одну стрілу, яка має +50% імовірності критичної шкоди від влучання в голову та вибухає на 7 метрів. Прибирає пробивання.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Concentrated_Arrow"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

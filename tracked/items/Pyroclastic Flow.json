@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Nezha/NezhaTrailAugmentCard"
     },
-    "en": {
-        "item_name": "Pyroclastic Flow",
-        "description": "Fire Walker Augment: Accumulate 150% of the damage Fire Walker deals, unleashing it in a trail of fire that lasts 10s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pyroclastic_Flow"
-    },
-    "ru": {
-        "item_name": "Пирокластерный Поток",
-        "description": "Улучшение способности «Идущий в огне»: накапливает 150% урона, нанесённого способностью, выпуская его в форме пламенного следа, который наносит урон в течение 10 с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
-        "icon": "items/images/ru/pyroclastic_flow.8ab2a7e9c970d93cbabac8e879a10914.png",
-        "thumb": "items/images/ru/thumbs/pyroclastic_flow.8ab2a7e9c970d93cbabac8e879a10914.128x128.png"
-    },
-    "ko": {
-        "item_name": "파이로클라스틱 플로우",
-        "description": "파이어 워커 개조: 파이어 워커가 가하는 피해 중 250%를 누적시키며, 이 피해를 10초 동안 지속되는 불길 흔적으로 발산합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pyroclastic_Flow"
-    },
-    "de": {
-        "item_name": "Pyroklastischer Strom",
-        "description": "Feuerläufer Augment: 150 % des von \"Feuerläufer\" verursachten Schadens wird angesammelt und in einer Feuerspur für 10s freigesetzt.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pyroclastic_Flow"
-    },
-    "fr": {
-        "item_name": "Flux Pyroclastique",
-        "description": "Augmentation de Danse du Feu: Accumule 250% des Dégâts infligés par Danse du Feu, pour les libérer en une traînée de feu qui dure 10s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Flux_Pyroclastique"
-    },
-    "pt": {
-        "item_name": "Pyroclastic Flow",
-        "description": "Ampliação Fire Walker: acumulará 250% do dano causado pela Fire Walker, liberando-a em uma trilha de fogo que durará 10s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pyroclastic_Flow"
-    },
-    "zh-hans": {
-        "item_name": "火成碎流",
-        "description": "风火飞轮强化：累积风火轮输出伤害的250%，并可释放形成一条持续 10秒的火焰之道。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pyroclastic_Flow"
-    },
-    "zh-hant": {
-        "item_name": "火成碎流",
-        "description": "風火飛輪強化：累積風火輪傷害輸出的 250%，並在持續 10 秒的火焰之道將其釋放出來。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pyroclastic_Flow"
-    },
-    "es": {
-        "item_name": "Flujo Piroclástico",
-        "description": "Aumento de Caminante de fuego: acumula un 250 % del daño causado por Caminante de fuego, desatándolo en un rastro de fuego que dura 10 s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Flujo_pirocl%C3%A1stico"
-    },
-    "it": {
-        "item_name": "Pyroclastic Flow",
-        "description": "Potenziamento Fire Walker: Accumula 150% del danno inflitto da Fire Walker, scatenandolo in una scia di fuoco che dura 10s.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pyroclastic_Flow"
-    },
-    "pl": {
-        "item_name": "Wulkaniczny Przepływ",
-        "description": "Modyfikacja Kroczącego z Ogniem: Kumuluje 150% obrażeń zadawanych przez Kroczącego z Ogniem, by następnie uwolnić je jako szlak ognia, trwający 10s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wulkaniczny_Przep%C5%82yw"
-    },
-    "uk": {
-        "item_name": "Пірокластичний Потік",
-        "description": "Розширення здібності «Вогнеступ»: накопичує 250% завданої Вогнеступом шкоди й випускає полум’яний слід, який горить протягом 10 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pyroclastic_Flow"
+    "i18n": {
+        "en": {
+            "item_name": "Pyroclastic Flow",
+            "description": "Fire Walker Augment: Accumulate 150% of the damage Fire Walker deals, unleashing it in a trail of fire that lasts 10s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pyroclastic_Flow",
+            "icon": "items/images/en/pyroclastic_flow.ac94de8b2515a96114dec14cc78ce907.png",
+            "thumb": "items/images/en/thumbs/pyroclastic_flow.ac94de8b2515a96114dec14cc78ce907.128x128.png"
+        },
+        "ru": {
+            "item_name": "Пирокластерный Поток",
+            "description": "Улучшение способности «Идущий в огне»: накапливает 150% урона, нанесённого способностью, выпуская его в форме пламенного следа, который наносит урон в течение 10 с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
+            "icon": "items/images/ru/pyroclastic_flow.8ab2a7e9c970d93cbabac8e879a10914.png",
+            "thumb": "items/images/ru/thumbs/pyroclastic_flow.8ab2a7e9c970d93cbabac8e879a10914.128x128.png"
+        },
+        "ko": {
+            "item_name": "파이로클라스틱 플로우",
+            "description": "파이어 워커 개조: 파이어 워커가 가하는 피해 중 250%를 누적시키며, 이 피해를 10초 동안 지속되는 불길 흔적으로 발산합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pyroclastic_Flow"
+        },
+        "de": {
+            "item_name": "Pyroklastischer Strom",
+            "description": "Feuerläufer Augment: 150 % des von \"Feuerläufer\" verursachten Schadens wird angesammelt und in einer Feuerspur für 10s freigesetzt.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Pyroclastic_Flow"
+        },
+        "fr": {
+            "item_name": "Flux Pyroclastique",
+            "description": "Augmentation de Danse du Feu: Accumule 250% des Dégâts infligés par Danse du Feu, pour les libérer en une traînée de feu qui dure 10s.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Flux_Pyroclastique"
+        },
+        "pt": {
+            "item_name": "Pyroclastic Flow",
+            "description": "Ampliação Fire Walker: acumulará 250% do dano causado pela Fire Walker, liberando-a em uma trilha de fogo que durará 10s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Pyroclastic_Flow"
+        },
+        "zh-hans": {
+            "item_name": "火成碎流",
+            "description": "风火飞轮强化：累积风火轮输出伤害的250%，并可释放形成一条持续 10秒的火焰之道。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pyroclastic_Flow"
+        },
+        "zh-hant": {
+            "item_name": "火成碎流",
+            "description": "風火飛輪強化：累積風火輪傷害輸出的 250%，並在持續 10 秒的火焰之道將其釋放出來。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pyroclastic_Flow"
+        },
+        "es": {
+            "item_name": "Flujo Piroclástico",
+            "description": "Aumento de Caminante de fuego: acumula un 250 % del daño causado por Caminante de fuego, desatándolo en un rastro de fuego que dura 10 s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Flujo_pirocl%C3%A1stico"
+        },
+        "it": {
+            "item_name": "Pyroclastic Flow",
+            "description": "Potenziamento Fire Walker: Accumula 150% del danno inflitto da Fire Walker, scatenandolo in una scia di fuoco che dura 10s.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Pyroclastic_Flow"
+        },
+        "pl": {
+            "item_name": "Wulkaniczny Przepływ",
+            "description": "Modyfikacja Kroczącego z Ogniem: Kumuluje 150% obrażeń zadawanych przez Kroczącego z Ogniem, by następnie uwolnić je jako szlak ognia, trwający 10s.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Wulkaniczny_Przep%C5%82yw"
+        },
+        "uk": {
+            "item_name": "Пірокластичний Потік",
+            "description": "Розширення здібності «Вогнеступ»: накопичує 250% завданої Вогнеступом шкоди й випускає полум’яний слід, який горить протягом 10 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pyroclastic_Flow"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

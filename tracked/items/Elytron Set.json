@@ -20,65 +20,69 @@
         "elytron_wings"
     ],
     "set_root": true,
-    "en": {
-        "item_name": "Elytron Set",
-        "description": "This heavy duty Archwing was designed for one purpose, destruction.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Elytron"
-    },
-    "ru": {
-        "item_name": "Элитрон: Комплект",
-        "description": "Этот тяжелый арчвинг был сконструирован с одним лишь предназначением - уничтожение.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%BD"
-    },
-    "ko": {
-        "item_name": "엘리트론 세트",
-        "description": "이 육중한 아크윙은 오로지 파괴, 단 하나만을 위하여 설계되었습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Elytron"
-    },
-    "de": {
-        "item_name": "Elytron: Set",
-        "description": "Dieser Hochleistungs-Archwing wurde für nur eine Aufgabe geschaffen: Zerstörung.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Elytron"
-    },
-    "fr": {
-        "item_name": "Elytron - Set",
-        "description": "Cette Archwing lourde a été conçue pour une seule raison, la destruction.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Elytron"
-    },
-    "pt": {
-        "item_name": "Elytron: Conjunto",
-        "description": "Esta Archwing robusta foi projetada com um único propósito: destruição.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Elytron"
-    },
-    "zh-hans": {
-        "item_name": "Elytron 一套",
-        "description": "这种重型 Archwing 只为了一个目的而被设计出来: 破坏。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Elytron"
-    },
-    "zh-hant": {
-        "item_name": "Elytron 一套",
-        "description": "這種重型 Archwing 只為了一個目的而被設計出來：破壞。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Elytron"
-    },
-    "es": {
-        "item_name": "Set de Elytron",
-        "description": "Este pesado archwing fue diseñado con un solo propósito, destrucción.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Elytron"
-    },
-    "it": {
-        "item_name": "Elytron Set",
-        "description": "Questo Archwing pesante è stato pensato per un solo scopo, la distruzione.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Elytron"
-    },
-    "pl": {
-        "item_name": "Elytron: Zestaw",
-        "description": "Ten ciężki Archwing został zaprojektowany w jednym celu - destrukcji.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Elytron"
-    },
-    "uk": {
-        "item_name": "Елитрон (комплект)",
-        "description": "Цей тяжкий арквінґ спроєктований лише для одного — руйнування.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Elytron"
+    "i18n": {
+        "en": {
+            "item_name": "Elytron Set",
+            "description": "This heavy duty Archwing was designed for one purpose, destruction.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Elytron",
+            "icon": "items/images/en/elytron_set.971d1e23ad3033ff3af37147302efb8b.png",
+            "thumb": "items/images/en/thumbs/elytron_set.971d1e23ad3033ff3af37147302efb8b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Элитрон: Комплект",
+            "description": "Этот тяжелый арчвинг был сконструирован с одним лишь предназначением - уничтожение.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%AD%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%BD"
+        },
+        "ko": {
+            "item_name": "엘리트론 세트",
+            "description": "이 육중한 아크윙은 오로지 파괴, 단 하나만을 위하여 설계되었습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Elytron"
+        },
+        "de": {
+            "item_name": "Elytron: Set",
+            "description": "Dieser Hochleistungs-Archwing wurde für nur eine Aufgabe geschaffen: Zerstörung.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Elytron"
+        },
+        "fr": {
+            "item_name": "Elytron - Set",
+            "description": "Cette Archwing lourde a été conçue pour une seule raison, la destruction.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Elytron"
+        },
+        "pt": {
+            "item_name": "Elytron: Conjunto",
+            "description": "Esta Archwing robusta foi projetada com um único propósito: destruição.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Elytron"
+        },
+        "zh-hans": {
+            "item_name": "Elytron 一套",
+            "description": "这种重型 Archwing 只为了一个目的而被设计出来: 破坏。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Elytron"
+        },
+        "zh-hant": {
+            "item_name": "Elytron 一套",
+            "description": "這種重型 Archwing 只為了一個目的而被設計出來：破壞。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Elytron"
+        },
+        "es": {
+            "item_name": "Set de Elytron",
+            "description": "Este pesado archwing fue diseñado con un solo propósito, destrucción.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Elytron"
+        },
+        "it": {
+            "item_name": "Elytron Set",
+            "description": "Questo Archwing pesante è stato pensato per un solo scopo, la distruzione.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Elytron"
+        },
+        "pl": {
+            "item_name": "Elytron: Zestaw",
+            "description": "Ten ciężki Archwing został zaprojektowany w jednym celu - destrukcji.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Elytron"
+        },
+        "uk": {
+            "item_name": "Елитрон (комплект)",
+            "description": "Цей тяжкий арквінґ спроєктований лише для одного — руйнування.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Elytron"
+        }
     },
     "mastery_level": 0,
     "trading_tax": 6000

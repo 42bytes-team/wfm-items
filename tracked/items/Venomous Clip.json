@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponToxinDamageMod"
     },
-    "en": {
-        "item_name": "Venomous Clip",
-        "description": "+120% Toxin",
-        "wiki_link": "https://warframe.fandom.com/wiki/Venomous_Clip"
-    },
-    "ru": {
-        "item_name": "Отравленный Магазин",
-        "description": "+120% урона токсином",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
-        "icon": "items/images/ru/venomous_clip.93c153fad59411503b07fbd4d3a84045.png",
-        "thumb": "items/images/ru/thumbs/venomous_clip.93c153fad59411503b07fbd4d3a84045.128x128.png"
-    },
-    "ko": {
-        "item_name": "베노머스 클립",
-        "description": "+120% 독성",
-        "wiki_link": "https://warframe.fandom.com/wiki/Venomous_Clip"
-    },
-    "de": {
-        "item_name": "Giftiges Magazin",
-        "description": "+120 % Gift",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Giftiges_Magazin"
-    },
-    "fr": {
-        "item_name": "Chargeur Venimeux",
-        "description": "+120% Poison",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Chargeur_Venimeux"
-    },
-    "pt": {
-        "item_name": "Venomous Clip",
-        "description": "+120% de Tóxico",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Venomous_Clip"
-    },
-    "zh-hans": {
-        "item_name": "恶毒弹匣",
-        "description": "+120% 毒素伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Venomous_Clip"
-    },
-    "zh-hant": {
-        "item_name": "惡毒彈匣",
-        "description": "+120% 毒素傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Venomous_Clip"
-    },
-    "es": {
-        "item_name": "Peine Ponzoñoso",
-        "description": "+120% de toxina",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Peine_ponzo%C3%B1oso"
-    },
-    "it": {
-        "item_name": "Venomous Clip",
-        "description": "+120% Tossina",
-        "wiki_link": "http://warframe.wikia.com/wiki/Venomous_Clip"
-    },
-    "pl": {
-        "item_name": "Jadowity Magazynek",
-        "description": "+120% Obrażeń Toksycznych",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Jadowity_Magazynek"
-    },
-    "uk": {
-        "item_name": "Отруйна Обойма",
-        "description": "+120% токсичної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Venomous_Clip"
+    "i18n": {
+        "en": {
+            "item_name": "Venomous Clip",
+            "description": "+120% Toxin",
+            "wiki_link": "https://warframe.fandom.com/wiki/Venomous_Clip",
+            "icon": "items/images/en/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.png",
+            "thumb": "items/images/en/thumbs/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.128x128.png"
+        },
+        "ru": {
+            "item_name": "Отравленный Магазин",
+            "description": "+120% урона токсином",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+            "icon": "items/images/ru/venomous_clip.93c153fad59411503b07fbd4d3a84045.png",
+            "thumb": "items/images/ru/thumbs/venomous_clip.93c153fad59411503b07fbd4d3a84045.128x128.png"
+        },
+        "ko": {
+            "item_name": "베노머스 클립",
+            "description": "+120% 독성",
+            "wiki_link": "https://warframe.fandom.com/wiki/Venomous_Clip"
+        },
+        "de": {
+            "item_name": "Giftiges Magazin",
+            "description": "+120 % Gift",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Giftiges_Magazin"
+        },
+        "fr": {
+            "item_name": "Chargeur Venimeux",
+            "description": "+120% Poison",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Chargeur_Venimeux"
+        },
+        "pt": {
+            "item_name": "Venomous Clip",
+            "description": "+120% de Tóxico",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Venomous_Clip"
+        },
+        "zh-hans": {
+            "item_name": "恶毒弹匣",
+            "description": "+120% 毒素伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Venomous_Clip"
+        },
+        "zh-hant": {
+            "item_name": "惡毒彈匣",
+            "description": "+120% 毒素傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Venomous_Clip"
+        },
+        "es": {
+            "item_name": "Peine Ponzoñoso",
+            "description": "+120% de toxina",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Peine_ponzo%C3%B1oso"
+        },
+        "it": {
+            "item_name": "Venomous Clip",
+            "description": "+120% Tossina",
+            "wiki_link": "http://warframe.wikia.com/wiki/Venomous_Clip"
+        },
+        "pl": {
+            "item_name": "Jadowity Magazynek",
+            "description": "+120% Obrażeń Toksycznych",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Jadowity_Magazynek"
+        },
+        "uk": {
+            "item_name": "Отруйна Обойма",
+            "description": "+120% токсичної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Venomous_Clip"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

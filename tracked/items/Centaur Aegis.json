@@ -22,65 +22,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Centaur Aegis",
-        "description": "An Archwing weapon-crafting component.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Centaur"
-    },
-    "ru": {
-        "item_name": "Кентавр: Эгида",
-        "description": "Компонент оружия арчвинга.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D0%B0%D0%B2%D1%80"
-    },
-    "ko": {
-        "item_name": "센타우르 이지스",
-        "description": "아크윙 무기 제작 부품입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Centaur"
-    },
-    "de": {
-        "item_name": "Centaur: Ägis",
-        "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Centaur"
-    },
-    "fr": {
-        "item_name": "Centaure - Égide",
-        "description": "Un composant servant à la fabrication d'armes d'Archwing.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Centaur"
-    },
-    "pt": {
-        "item_name": "Centaur: Aegis",
-        "description": "Um componente de fabricação de armas Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Centaur"
-    },
-    "zh-hans": {
-        "item_name": "半人马 盾",
-        "description": "一个 Archwing 武器制作部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Centaur"
-    },
-    "zh-hant": {
-        "item_name": "半人馬 盾牌",
-        "description": "製作 Archwing 武器的部件。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Centaur"
-    },
-    "es": {
-        "item_name": "Égida De Centauro",
-        "description": "Un componente de fabricación de arma de archwing.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Centauro"
-    },
-    "it": {
-        "item_name": "Centaur - Aegis",
-        "description": "Un componente per la costruzione di un'arma Archwing.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Centaur"
-    },
-    "pl": {
-        "item_name": "Centaur: Egida",
-        "description": "Element wytwarzania broni Archwing.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Centaur"
-    },
-    "uk": {
-        "item_name": "Кентавр: Еґіда",
-        "description": "Деталь зброї арквінґа.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Centaur"
+    "i18n": {
+        "en": {
+            "item_name": "Centaur Aegis",
+            "description": "An Archwing weapon-crafting component.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Centaur",
+            "icon": "items/images/en/centaur_aegis.7365135b7b3831714b657721d6b1df22.png",
+            "thumb": "items/images/en/thumbs/centaur_aegis.7365135b7b3831714b657721d6b1df22.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кентавр: Эгида",
+            "description": "Компонент оружия арчвинга.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D0%B0%D0%B2%D1%80"
+        },
+        "ko": {
+            "item_name": "센타우르 이지스",
+            "description": "아크윙 무기 제작 부품입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Centaur"
+        },
+        "de": {
+            "item_name": "Centaur: Ägis",
+            "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Centaur"
+        },
+        "fr": {
+            "item_name": "Centaure - Égide",
+            "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Centaur"
+        },
+        "pt": {
+            "item_name": "Centaur: Aegis",
+            "description": "Um componente de fabricação de armas Archwing.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Centaur"
+        },
+        "zh-hans": {
+            "item_name": "半人马 盾",
+            "description": "一个 Archwing 武器制作部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Centaur"
+        },
+        "zh-hant": {
+            "item_name": "半人馬 盾牌",
+            "description": "製作 Archwing 武器的部件。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Centaur"
+        },
+        "es": {
+            "item_name": "Égida De Centauro",
+            "description": "Un componente de fabricación de arma de archwing.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Centauro"
+        },
+        "it": {
+            "item_name": "Centaur - Aegis",
+            "description": "Un componente per la costruzione di un'arma Archwing.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Centaur"
+        },
+        "pl": {
+            "item_name": "Centaur: Egida",
+            "description": "Element wytwarzania broni Archwing.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Centaur"
+        },
+        "uk": {
+            "item_name": "Кентавр: Еґіда",
+            "description": "Деталь зброї арквінґа.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Centaur"
+        }
     },
     "mastery_level": 8,
     "trading_tax": 2000

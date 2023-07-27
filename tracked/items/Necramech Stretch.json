@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityRangeMod"
     },
-    "en": {
-        "item_name": "Necramech Stretch",
-        "description": "+45% Ability Range",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
-    },
-    "ru": {
-        "item_name": "Растяжение Некрамеха",
-        "description": "+45% к зоне поражения",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D1%81%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
-    },
-    "ko": {
-        "item_name": "네크라메크 스트레치",
-        "description": "+45% 어빌리티 거리",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
-    },
-    "de": {
-        "item_name": "Necramech: Ausdehnung",
-        "description": "+45 % Fähigkeitsreichweite",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
-    },
-    "fr": {
-        "item_name": "Allonge Du Necramech",
-        "description": "+45% Portée de Pouvoir",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Allonge_du_Necramech"
-    },
-    "pt": {
-        "item_name": "Necramech Stretch",
-        "description": "+45% de Alcance da Habilidade",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
-    },
-    "zh-hans": {
-        "item_name": "殁世机甲 延伸",
-        "description": "+45% 技能范围",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Stretch"
-    },
-    "zh-hant": {
-        "item_name": "亡骸機甲 延伸",
-        "description": "+45% 技能範圍",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Stretch"
-    },
-    "es": {
-        "item_name": "Estiramiento Necramech",
-        "description": "+45% Rango de habilidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Estela_Necramech"
-    },
-    "it": {
-        "item_name": "Necramech Stretch",
-        "description": "+45% Portata Abilità",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
-    },
-    "pl": {
-        "item_name": "Nekramechowe Rozciągnięcie",
-        "description": "+45% Zasięg Umiejętności",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
-    },
-    "uk": {
-        "item_name": "Простягнення Некрамеха",
-        "description": "+45% до досяжності здібностей.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
+    "i18n": {
+        "en": {
+            "item_name": "Necramech Stretch",
+            "description": "+45% Ability Range",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch",
+            "icon": "items/images/en/necramech_stretch.b9ce692c97d911a5124428cf359bbcd6.png",
+            "thumb": "items/images/en/thumbs/necramech_stretch.b9ce692c97d911a5124428cf359bbcd6.128x128.png"
+        },
+        "ru": {
+            "item_name": "Растяжение Некрамеха",
+            "description": "+45% к зоне поражения",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D1%81%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D0%BC%D0%B5%D1%85%D0%B0"
+        },
+        "ko": {
+            "item_name": "네크라메크 스트레치",
+            "description": "+45% 어빌리티 거리",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
+        },
+        "de": {
+            "item_name": "Necramech: Ausdehnung",
+            "description": "+45 % Fähigkeitsreichweite",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
+        },
+        "fr": {
+            "item_name": "Allonge Du Necramech",
+            "description": "+45% Portée de Pouvoir",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Allonge_du_Necramech"
+        },
+        "pt": {
+            "item_name": "Necramech Stretch",
+            "description": "+45% de Alcance da Habilidade",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
+        },
+        "zh-hans": {
+            "item_name": "殁世机甲 延伸",
+            "description": "+45% 技能范围",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Stretch"
+        },
+        "zh-hant": {
+            "item_name": "亡骸機甲 延伸",
+            "description": "+45% 技能範圍",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Necramech_Stretch"
+        },
+        "es": {
+            "item_name": "Estiramiento Necramech",
+            "description": "+45% Rango de habilidad",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Estela_Necramech"
+        },
+        "it": {
+            "item_name": "Necramech Stretch",
+            "description": "+45% Portata Abilità",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
+        },
+        "pl": {
+            "item_name": "Nekramechowe Rozciągnięcie",
+            "description": "+45% Zasięg Umiejętności",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
+        },
+        "uk": {
+            "item_name": "Простягнення Некрамеха",
+            "description": "+45% до досяжності здібностей",
+            "wiki_link": "https://warframe.fandom.com/wiki/Necramech_Stretch"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

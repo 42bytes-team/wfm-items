@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponGrenadeStickyMod"
     },
-    "en": {
-        "item_name": "Adhesive Blast",
-        "description": "Grenades have 100% chance to stick to surfaces.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Adhesive_Blast"
-    },
-    "ru": {
-        "item_name": "Адгезивный Взрыв",
-        "description": "С шансом в 100% гранаты могут прилипнуть к поверхностям.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B4%D0%B3%D0%B5%D0%B7%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
-        "icon": "items/images/ru/adhesive_blast.d0669fd97778e3ce363c0b5901482af4.png",
-        "thumb": "items/images/ru/thumbs/adhesive_blast.d0669fd97778e3ce363c0b5901482af4.128x128.png"
-    },
-    "ko": {
-        "item_name": "애드히시브 블래스트",
-        "description": "수류탄이 100%의 확률로 표면에 붙습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Adhesive_Blast"
-    },
-    "de": {
-        "item_name": "Haftsprengung",
-        "description": "Granaten haben eine 100 % Chance, an Oberflächen haften zu bleiben.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Haftsprengung"
-    },
-    "fr": {
-        "item_name": "Grenade Adhésive",
-        "description": "Les grenades ont 100% de chance de coller aux surfaces.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Grenade_Adh%C3%A9sive"
-    },
-    "pt": {
-        "item_name": "Adhesive Blast",
-        "description": "Granadas possuirão 100% de chance de aderirem em superfícies.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast"
-    },
-    "zh-hans": {
-        "item_name": "凝胶爆破",
-        "description": "榴弹有 100% 的几率粘在物体表面。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Adhesive_Blast"
-    },
-    "zh-hant": {
-        "item_name": "凝膠爆破",
-        "description": "榴彈有 100% 的機率粘在物體表面。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Adhesive_Blast"
-    },
-    "es": {
-        "item_name": "Explosión Adhesiva",
-        "description": "Las granadas tienen 100% de probabilidad de quedar pegadas en las superficies.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Explosi%C3%B3n_adhesiva"
-    },
-    "it": {
-        "item_name": "Adhesive Blast",
-        "description": "Le granate hanno il 100% di probabilità di attaccarsi alle superfici.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast"
-    },
-    "pl": {
-        "item_name": "Kleisty Wybuch",
-        "description": "Granaty mają 100% szansy, aby przyczepić się do powierzchni.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast"
-    },
-    "uk": {
-        "item_name": "Клейкий Вибух",
-        "description": "100% до ймовірності гранат прилипнути до поверхні.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Adhesive_Blast"
+    "i18n": {
+        "en": {
+            "item_name": "Adhesive Blast",
+            "description": "Grenades have 100% chance to stick to surfaces.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Adhesive_Blast",
+            "icon": "items/images/en/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.png",
+            "thumb": "items/images/en/thumbs/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Адгезивный Взрыв",
+            "description": "С шансом в 100% гранаты могут прилипнуть к поверхностям.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B4%D0%B3%D0%B5%D0%B7%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2",
+            "icon": "items/images/ru/adhesive_blast.d0669fd97778e3ce363c0b5901482af4.png",
+            "thumb": "items/images/ru/thumbs/adhesive_blast.d0669fd97778e3ce363c0b5901482af4.128x128.png"
+        },
+        "ko": {
+            "item_name": "애드히시브 블래스트",
+            "description": "수류탄이 100%의 확률로 표면에 붙습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Adhesive_Blast"
+        },
+        "de": {
+            "item_name": "Haftsprengung",
+            "description": "Granaten haben eine 100 % Chance, an Oberflächen haften zu bleiben.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Haftsprengung"
+        },
+        "fr": {
+            "item_name": "Grenade Adhésive",
+            "description": "Les grenades ont 100% de chance de coller aux surfaces.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Grenade_Adh%C3%A9sive"
+        },
+        "pt": {
+            "item_name": "Adhesive Blast",
+            "description": "Granadas possuirão 100% de chance de aderirem em superfícies.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast"
+        },
+        "zh-hans": {
+            "item_name": "凝胶爆破",
+            "description": "榴弹有 100% 的几率粘在物体表面。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Adhesive_Blast"
+        },
+        "zh-hant": {
+            "item_name": "凝膠爆破",
+            "description": "榴彈有 100% 的機率粘在物體表面。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Adhesive_Blast"
+        },
+        "es": {
+            "item_name": "Explosión Adhesiva",
+            "description": "Las granadas tienen 100% de probabilidad de quedar pegadas en las superficies.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Explosi%C3%B3n_adhesiva"
+        },
+        "it": {
+            "item_name": "Adhesive Blast",
+            "description": "Le granate hanno il 100% di probabilità di attaccarsi alle superfici.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast"
+        },
+        "pl": {
+            "item_name": "Kleisty Wybuch",
+            "description": "Granaty mają 100% szansy, aby przyczepić się do powierzchni.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Adhesive_Blast"
+        },
+        "uk": {
+            "item_name": "Клейкий Вибух",
+            "description": "100% до ймовірності гранат прилипнути до поверхні.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Adhesive_Blast"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

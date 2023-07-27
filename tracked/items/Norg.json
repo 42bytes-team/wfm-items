@@ -16,65 +16,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem"
     },
-    "en": {
-        "item_name": "Norg",
-        "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Norg"
-    },
-    "ru": {
-        "item_name": "Норга",
-        "description": "Эта рыба обитает на побережьях и питается крабами и мелкими ракообразными. При угрозе своей жизни она нагнетает в мозг воздух, из-за чего кажется куда крупнее обычного.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%BE%D1%80%D0%B3%D0%B0"
-    },
-    "ko": {
-        "item_name": "노그",
-        "description": "이 물고기의 서식지는 얕은 곳이며 게나 다른 작은 갑각류에게 먹이를 공급합니다. 이 물고기를 위협하면 평소보다 더 큰 존재로 인상을 주기 위해서 뇌 쪽에 공기를 밀어넣습니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Norg"
-    },
-    "de": {
-        "item_name": "Norg",
-        "description": "Dieser Fisch bewohnt seichtes Wasser und ernährt sich von Krabben sowie anderen, kleinen Krustentieren. Wenn er bedroht wird, drückt er Luft in seinen Kopf, um wesentlich größer zu wirken, als er eigentlich ist.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Norg"
-    },
-    "fr": {
-        "item_name": "Norg",
-        "description": "Ce poisson habite les bas-fonds où il peut se nourrir de crabes et de petits crustacés. Quand il se sent menacé, il insuffle de l'air dans son cerveau afin d'apparaître plus gros qu'il ne l'est vraiment.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Norg"
-    },
-    "pt": {
-        "item_name": "Norg",
-        "description": "Este peixe habita as partes rasas de lagos e se alimenta de caranguejos e outros crustáceos menores. Ao sentir-se ameaçado, o Norg infla o seu cérebro para aumentar o seu tamanho, passando a impressão de que ele é maior do que parece.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Norg"
-    },
-    "zh-hans": {
-        "item_name": "诺格",
-        "description": "这种鱼栖息在浅水，以螃蟹及其他小型甲壳类为食。当受到威胁时，它会将空气挤入脑部，令其看起来比正常要大得多。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Norg"
-    },
-    "zh-hant": {
-        "item_name": "諾格",
-        "description": "這種魚棲息在淺水，以螃蟹及其他小型甲殼類為食。當受到威脅時，它會將空氣擠入腦部，令其看起來比正常要大得多。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Norg"
-    },
-    "es": {
-        "item_name": "Norg",
-        "description": "Este pez habita los bajíos y se alimenta de cangrejos y otros pequeños crustáceos. Al verse amenazado fuerza aire a su cerebro para dar la impresión de ser mucho más grande de lo que realmente es.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Norg"
-    },
-    "it": {
-        "item_name": "Norg",
-        "description": "Questo pesce abita le acque poco profonde e si nutre di granchi e altri piccoli crostacei. Quando minacciato trattiene l'aria nel cervello per dare l'impressione di essere molto più grande di quanto normalmente sia.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Norg"
-    },
-    "pl": {
-        "item_name": "Norg",
-        "description": "Ta ryba zamieszkuje płytkie powierzchnie i żywi się krabami i innymi skorupiakami. Kiedy jest zagrożona wpuszcza powietrze do swojego mózgu, aby sprawić wrażenie znacznie większej niż jest normalnie.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Norg"
-    },
-    "uk": {
-        "item_name": "Норґ",
-        "description": "Мешкає на мілководді, харчується крабами й іншими дрібними ракоподібними. У загрозливі моменти наганяє повітря в мозок, щоби здаватися значно більшим, ніж є зазвичай.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Norg"
+    "i18n": {
+        "en": {
+            "item_name": "Norg",
+            "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Norg",
+            "icon": "items/images/en/norg.6ed3a518e958e16e5f1e162a9ea829b7.png",
+            "thumb": "items/images/en/thumbs/norg.6ed3a518e958e16e5f1e162a9ea829b7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Норга",
+            "description": "Эта рыба обитает на побережьях и питается крабами и мелкими ракообразными. При угрозе своей жизни она нагнетает в мозг воздух, из-за чего кажется куда крупнее обычного.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9D%D0%BE%D1%80%D0%B3%D0%B0"
+        },
+        "ko": {
+            "item_name": "노그",
+            "description": "이 물고기의 서식지는 얕은 곳이며 게나 다른 작은 갑각류에게 먹이를 공급합니다. 이 물고기를 위협하면 평소보다 더 큰 존재로 인상을 주기 위해서 뇌 쪽에 공기를 밀어넣습니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Norg"
+        },
+        "de": {
+            "item_name": "Norg",
+            "description": "Dieser Fisch bewohnt seichtes Wasser und ernährt sich von Krabben sowie anderen, kleinen Krustentieren. Wenn er bedroht wird, drückt er Luft in seinen Kopf, um wesentlich größer zu wirken, als er eigentlich ist.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Norg"
+        },
+        "fr": {
+            "item_name": "Norg",
+            "description": "Ce poisson habite les bas-fonds où il peut se nourrir de crabes et de petits crustacés. Quand il se sent menacé, il insuffle de l'air dans son cerveau afin d'apparaître plus gros qu'il ne l'est vraiment.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Norg"
+        },
+        "pt": {
+            "item_name": "Norg",
+            "description": "Este peixe habita as partes rasas de lagos e se alimenta de caranguejos e outros crustáceos menores. Ao sentir-se ameaçado, o Norg infla o seu cérebro para aumentar o seu tamanho, passando a impressão de que ele é maior do que parece.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Norg"
+        },
+        "zh-hans": {
+            "item_name": "诺格",
+            "description": "这种鱼栖息在浅水，以螃蟹及其他小型甲壳类为食。当受到威胁时，它会将空气挤入脑部，令其看起来比正常要大得多。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Norg"
+        },
+        "zh-hant": {
+            "item_name": "諾格",
+            "description": "這種魚棲息在淺水，以螃蟹及其他小型甲殼類為食。當受到威脅時，它會將空氣擠入腦部，令其看起來比正常要大得多。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Norg"
+        },
+        "es": {
+            "item_name": "Norg",
+            "description": "Este pez habita los bajíos y se alimenta de cangrejos y otros pequeños crustáceos. Al verse amenazado fuerza aire a su cerebro para dar la impresión de ser mucho más grande de lo que realmente es.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Norg"
+        },
+        "it": {
+            "item_name": "Norg",
+            "description": "Questo pesce abita le acque poco profonde e si nutre di granchi e altri piccoli crostacei. Quando minacciato trattiene l'aria nel cervello per dare l'impressione di essere molto più grande di quanto normalmente sia.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Norg"
+        },
+        "pl": {
+            "item_name": "Norg",
+            "description": "Ta ryba zamieszkuje płytkie powierzchnie i żywi się krabami i innymi skorupiakami. Kiedy jest zagrożona wpuszcza powietrze do swojego mózgu, aby sprawić wrażenie znacznie większej niż jest normalnie.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Norg"
+        },
+        "uk": {
+            "item_name": "Норґ",
+            "description": "Мешкає на мілководді, харчується крабами й іншими дрібними ракоподібними. У загрозливі моменти наганяє повітря в мозок, щоби здаватися значно більшим, ніж є зазвичай.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Norg"
+        }
     },
     "subtypes": [
         "small",

@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryEnergyRegenOnImpactProc"
     },
-    "en": {
-        "item_name": "Primary Exhilarate",
-        "description": "On Weapon Impact Status Effect:\n+1.2 Energy Regen/s for 10s. Stacks up to 3x.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Основное Веселье",
-        "description": "При наложении эффекта удара от оружия:\n+1.2 восстановление энергии/с на 10с. Складывается до 3 раз.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "프라이머리 익질러레이트",
-        "description": "무기로 충격 상태 이상 효과 시:\n10초 동안 초당 +1.2 에너지 재생, 최대 3회 중첩",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Arkana: Primärer Aufschwung",
-        "description": "Bei Waffen Einschlag-Statuseffekt:\n+1.2 Energieregeneration/s für 10 s. Bis zu 3x stapelbar.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Euphorie - Principal",
-        "description": "Sur Effet de Statut d'Impact d'arme:\n+1.2% de Régénération d'Énergie/s pendant 10s. Cumulable jusqu'à 3x.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Euforia (Armas Primárias)",
-        "description": "Ao aplicar um Efeito de Status Colisivo com Armas:\n+1.2 de Regeneração de Energia/s durante 10s. Acumulará até 3 vezes.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "主要·激昂",
-        "description": "武器触发冲击异常状态：\n每秒恢复 +1.2 能量，持续 10 秒。最多叠加到 3 层。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "主要昂揚",
-        "description": "武器觸發狀態效果時：\n每秒恢復 +1.2 能量，持續 10 秒。最多可疊加 3 次。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Entusiasmo Primario",
-        "description": "Al aplicar efecto de estado de impacto de arma:\n+1.2 de regeneración de energía/s por 10 s. Se acumula hasta 3 veces.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Primary Exhilarate",
-        "description": "Applicando un Effetto Impatto con un'Arma:\n+1.2 Rigenerazione Energia/s per 10s. Si accumula fino a 3x.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Główne Uradowanie",
-        "description": "Przy Efekcie Statusu Obr. Miażdżących:\n+1.2 Energii/s przez 10s. Kumuluje się do 3 razy.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Основне Звеселяння",
-        "description": "У разі додавання пробивного ефекту стану:\n+1.2 відновлення енергії за секунду. Тривалість: 10 с. Накопичується до 3 разів.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Primary Exhilarate",
+            "description": "On Weapon Impact Status Effect:\n+1.2 Energy Regen/s for 10s. Stacks up to 3x.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.png",
+            "thumb": "items/images/en/thumbs/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.128x128.png"
+        },
+        "ru": {
+            "item_name": "Основное Веселье",
+            "description": "При наложении эффекта удара от оружия:\n+1.2 восстановление энергии/с на 10с. Складывается до 3 раз.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "프라이머리 익질러레이트",
+            "description": "무기로 충격 상태 이상 효과 시:\n10초 동안 초당 +1.2 에너지 재생, 최대 3회 중첩",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Arkana: Primärer Aufschwung",
+            "description": "Bei Waffen Einschlag-Statuseffekt:\n+1.2 Energieregeneration/s für 10 s. Bis zu 3x stapelbar.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Euphorie - Principal",
+            "description": "Sur Effet de Statut d'Impact d'arme:\n+1.2% de Régénération d'Énergie/s pendant 10s. Cumulable jusqu'à 3x.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Euforia (Armas Primárias)",
+            "description": "Ao aplicar um Efeito de Status Colisivo com Armas:\n+1.2 de Regeneração de Energia/s durante 10s. Acumulará até 3 vezes.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "主要·激昂",
+            "description": "武器触发冲击异常状态：\n每秒恢复 +1.2 能量，持续 10 秒。最多叠加到 3 层。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "主要昂揚",
+            "description": "武器觸發狀態效果時：\n每秒恢復 +1.2 能量，持續 10 秒。最多可疊加 3 次。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Entusiasmo Primario",
+            "description": "Al aplicar efecto de estado de impacto de arma:\n+1.2 de regeneración de energía/s por 10 s. Se acumula hasta 3 veces.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Primary Exhilarate",
+            "description": "Applicando un Effetto Impatto con un'Arma:\n+1.2 Rigenerazione Energia/s per 10s. Si accumula fino a 3x.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Główne Uradowanie",
+            "description": "Przy Efekcie Statusu Obr. Miażdżących:\n+1.2 Energii/s przez 10s. Kumuluje się do 3 razy.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Основне Звеселяння",
+            "description": "У разі додавання пробивного ефекту стану:\n+1.2 відновлення енергії за секунду. Тривалість: 10 с. Накопичується до 3 разів.",
+            "wiki_link": null
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

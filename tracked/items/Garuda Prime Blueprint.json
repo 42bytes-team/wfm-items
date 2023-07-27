@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Garuda Prime Blueprint",
-        "description": "White, gold and deepest scarlet, the queen of gore in full regalia.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
-    },
-    "ru": {
-        "item_name": "Гаруда Прайм (Чертеж)",
-        "description": "Белый, золотой и насыщенно-алый — кровавая королева в полном облачении.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "가루다 프라임 설계도",
-        "description": "순백과 황금, 그리고 깊은 심홍색의 휘장을 온 몸에 두른 피의 여왕의 모습입니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
-    },
-    "de": {
-        "item_name": "Garuda Prime Blaupause",
-        "description": "Weiß, Gold und tiefstes Scharlachrot, die Königin von Blut und Gewalt in vollem Ornat.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Garuda/Prime"
-    },
-    "fr": {
-        "item_name": "Garuda Prime (Schéma)",
-        "description": "Parée de blanc, d'or et d'un écarlate des plus profonds, la reine sanglante se présente dans toute sa gloire.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Garuda/Prime"
-    },
-    "pt": {
-        "item_name": "Garuda Prime (Diagrama)",
-        "description": "Os tons brancos, dourados e escarlates mais profundos que há, representando a rainha sanguinária por completo.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Garuda/Prime"
-    },
-    "zh-hans": {
-        "item_name": "Garuda Prime 蓝图",
-        "description": "纯白、耀金与至深猩红，血腥女王盛装登场。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Garuda/Prime"
-    },
-    "zh-hant": {
-        "item_name": "Garuda Prime 藍圖",
-        "description": "白色、金色，及最深的紅色，血腥女皇，全副盛裝。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Garuda/Prime"
-    },
-    "es": {
-        "item_name": "Plano de Garuda Prime",
-        "description": "La reina sanguinaria se viste de gala en blanco, dorado y el más intenso rojo escarlata.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Garuda/Prime"
-    },
-    "it": {
-        "item_name": "Garuda Prime (Schema)",
-        "description": "Bianca, oro e di uno scarlatto profondo, la regina del sangue in tutta la sua gloria.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
-    },
-    "pl": {
-        "item_name": "Garuda Prime - Schemat",
-        "description": "Biel, złoto i najgłębszy szkarłat, królowa rozlewu krwi w pełnej glorii.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Garuda/Prime"
-    },
-    "uk": {
-        "item_name": "Ґаруда-Прайм (креслення)",
-        "description": "Білий, золотий і найбагряніший — істинні кольори королеви.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
+    "i18n": {
+        "en": {
+            "item_name": "Garuda Prime Blueprint",
+            "description": "White, gold and deepest scarlet, the queen of gore in full regalia.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime",
+            "icon": "items/images/en/garuda_prime_blueprint.283072e865cfc5da28d322b15a2065fa.png",
+            "thumb": "items/images/en/thumbs/garuda_prime_blueprint.283072e865cfc5da28d322b15a2065fa.128x128.png"
+        },
+        "ru": {
+            "item_name": "Гаруда Прайм (Чертеж)",
+            "description": "Белый, золотой и насыщенно-алый — кровавая королева в полном облачении.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "가루다 프라임 설계도",
+            "description": "순백과 황금, 그리고 깊은 심홍색의 휘장을 온 몸에 두른 피의 여왕의 모습입니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
+        },
+        "de": {
+            "item_name": "Garuda Prime Blaupause",
+            "description": "Weiß, Gold und tiefstes Scharlachrot, die Königin von Blut und Gewalt in vollem Ornat.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Garuda/Prime"
+        },
+        "fr": {
+            "item_name": "Garuda Prime (Schéma)",
+            "description": "Parée de blanc, d'or et d'un écarlate des plus profonds, la reine sanglante se présente dans toute sa gloire.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Garuda/Prime"
+        },
+        "pt": {
+            "item_name": "Garuda Prime (Diagrama)",
+            "description": "Os tons brancos, dourados e escarlates mais profundos que há, representando a rainha sanguinária por completo.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Garuda/Prime"
+        },
+        "zh-hans": {
+            "item_name": "Garuda Prime 蓝图",
+            "description": "纯白、耀金与至深猩红，血腥女王盛装登场。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Garuda/Prime"
+        },
+        "zh-hant": {
+            "item_name": "Garuda Prime 藍圖",
+            "description": "白色、金色，及最深的紅色，血腥女皇，全副盛裝。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Garuda/Prime"
+        },
+        "es": {
+            "item_name": "Plano de Garuda Prime",
+            "description": "La reina sanguinaria se viste de gala en blanco, dorado y el más intenso rojo escarlata.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Garuda/Prime"
+        },
+        "it": {
+            "item_name": "Garuda Prime (Schema)",
+            "description": "Bianca, oro e di uno scarlatto profondo, la regina del sangue in tutta la sua gloria.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
+        },
+        "pl": {
+            "item_name": "Garuda Prime - Schemat",
+            "description": "Biel, złoto i najgłębszy szkarłat, królowa rozlewu krwi w pełnej glorii.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Garuda/Prime"
+        },
+        "uk": {
+            "item_name": "Ґаруда-Прайм (креслення)",
+            "description": "Білий, золотий і найбагряніший — істинні кольори королеви.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Garuda/Prime"
+        }
     },
     "mastery_level": 0,
     "ducats": 15,

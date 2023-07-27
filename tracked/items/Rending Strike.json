@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Melee/DualStat/RendingStrikeMod"
     },
-    "en": {
-        "item_name": "Rending Strike",
-        "description": "+60% Slash\n+80% Puncture",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rending_Strike"
-    },
-    "ru": {
-        "item_name": "Разрушающий Удар",
-        "description": "+60% разрезающего урона\n+80% пронзающего урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%A3%D0%B4%D0%B0%D1%80",
-        "icon": "items/images/ru/rending_strike.296a9f8e97bce04104bd8612ec717b1a.png",
-        "thumb": "items/images/ru/thumbs/rending_strike.296a9f8e97bce04104bd8612ec717b1a.128x128.png"
-    },
-    "ko": {
-        "item_name": "렌딩 스트라이크",
-        "description": "+60% 베기\n+80% 관통",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rending_Strike"
-    },
-    "de": {
-        "item_name": "Zerreißender Schlag",
-        "description": "+60 % Schnitt\n+80 % Durchschlag",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Zerrei%C3%9Fender_Schlag"
-    },
-    "fr": {
-        "item_name": "Frappe Déchirante",
-        "description": "+60% Tranchant\n+80% Perforation",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_d%C3%A9chirante"
-    },
-    "pt": {
-        "item_name": "Rending Strike",
-        "description": "+60% de Cortante\n+80% de Perfurante",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rending_Strike"
-    },
-    "zh-hans": {
-        "item_name": "撕裂打击",
-        "description": "+60% 切割伤害\n+80% 穿刺伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rending_Strike"
-    },
-    "zh-hant": {
-        "item_name": "撕裂打擊",
-        "description": "+60% 切割傷害\n+80% 穿刺傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Rending_Strike"
-    },
-    "es": {
-        "item_name": "Golpe Desgarrador",
-        "description": "+60% de cortante\n+80% de perforación",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_desgarrador"
-    },
-    "it": {
-        "item_name": "Rending Strike",
-        "description": "+60% Taglio\n+80% Perforazione",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Rending_Strike"
-    },
-    "pl": {
-        "item_name": "Rozdzierający Cios",
-        "description": "+60% Obrażeń Tnących\n+80% Przebijających",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozdzieraj%C4%85cy_Wiatr"
-    },
-    "uk": {
-        "item_name": "Розшматування",
-        "description": "+60% до різальної шкоди.\n+80% до пробивної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Rending_Strike"
+    "i18n": {
+        "en": {
+            "item_name": "Rending Strike",
+            "description": "+60% Slash\n+80% Puncture",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rending_Strike",
+            "icon": "items/images/en/rending_strike.07440fd328749d627d981654c4dd4a84.png",
+            "thumb": "items/images/en/thumbs/rending_strike.07440fd328749d627d981654c4dd4a84.128x128.png"
+        },
+        "ru": {
+            "item_name": "Разрушающий Удар",
+            "description": "+60% разрезающего урона\n+80% пронзающего урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%A3%D0%B4%D0%B0%D1%80",
+            "icon": "items/images/ru/rending_strike.296a9f8e97bce04104bd8612ec717b1a.png",
+            "thumb": "items/images/ru/thumbs/rending_strike.296a9f8e97bce04104bd8612ec717b1a.128x128.png"
+        },
+        "ko": {
+            "item_name": "렌딩 스트라이크",
+            "description": "+60% 베기\n+80% 관통",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rending_Strike"
+        },
+        "de": {
+            "item_name": "Zerreißender Schlag",
+            "description": "+60 % Schnitt\n+80 % Durchschlag",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Zerrei%C3%9Fender_Schlag"
+        },
+        "fr": {
+            "item_name": "Frappe Déchirante",
+            "description": "+60% Tranchant\n+80% Perforation",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_d%C3%A9chirante"
+        },
+        "pt": {
+            "item_name": "Rending Strike",
+            "description": "+60% de Cortante\n+80% de Perfurante",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Rending_Strike"
+        },
+        "zh-hans": {
+            "item_name": "撕裂打击",
+            "description": "+60% 切割伤害\n+80% 穿刺伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rending_Strike"
+        },
+        "zh-hant": {
+            "item_name": "撕裂打擊",
+            "description": "+60% 切割傷害\n+80% 穿刺傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Rending_Strike"
+        },
+        "es": {
+            "item_name": "Golpe Desgarrador",
+            "description": "+60% de cortante\n+80% de perforación",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_desgarrador"
+        },
+        "it": {
+            "item_name": "Rending Strike",
+            "description": "+60% Taglio\n+80% Perforazione",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Rending_Strike"
+        },
+        "pl": {
+            "item_name": "Rozdzierający Cios",
+            "description": "+60% Obrażeń Tnących\n+80% Przebijających",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Rozdzieraj%C4%85cy_Wiatr"
+        },
+        "uk": {
+            "item_name": "Розшматування",
+            "description": "+60% до різальної шкоди\n+80% до пробивної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Rending_Strike"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

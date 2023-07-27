@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Sentinels/SentinelPrecepts/Sanctuary"
     },
-    "en": {
-        "item_name": "Sanctuary",
-        "description": "Creates a shield with 600 Health around the player when they are reviving fallen allies.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sanctuary"
-    },
-    "ru": {
-        "item_name": "Убежище",
-        "description": "Создаёт щит с 600 единиц прочности вокруг игрока, когда он воскрешает поверженных союзников.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
-        "icon": "items/images/ru/sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
-        "thumb": "items/images/ru/thumbs/sanctuary.1b90eedee92421a6c3ff165d10d46fb5.128x128.png"
-    },
-    "ko": {
-        "item_name": "생츄어리",
-        "description": "아군을 살리는 동안 600의 체력을 가진 실드를 소유자의 주변에 생성합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sanctuary"
-    },
-    "de": {
-        "item_name": "Schutzort",
-        "description": "Erstellt einen Schild mit 600 Gesundheit um den Spieler, wenn dieser Verbündete wiederbelebt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schutzort"
-    },
-    "fr": {
-        "item_name": "Sanctuaire",
-        "description": "Crée un Bouclier de 600 points de Santé autour du joueur tandis qu'il réanime ses alliés tombés au combat.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sanctuaire"
-    },
-    "pt": {
-        "item_name": "Sanctuary",
-        "description": "Criará uma barreira protetora com 600 de Vida em torno do jogador quando ele estiver revivendo aliados abatidos.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)"
-    },
-    "zh-hans": {
-        "item_name": "守护光罩",
-        "description": "在救助倒地同伴的玩家身边产生一层拥有生命值 600 的护盾",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sanctuary"
-    },
-    "zh-hant": {
-        "item_name": "守護光罩",
-        "description": "在救助倒地盟友的玩家身邊產生一層擁有生命值 600 的護盾。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sanctuary"
-    },
-    "es": {
-        "item_name": "Santuario",
-        "description": "Crea un escudo con 600 de salud alrededor del jugador cuando se está reviviendo aliados caídos.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Santuario"
-    },
-    "it": {
-        "item_name": "Sanctuary",
-        "description": "Crea uno scudo con 600 Punti Salute attorno al giocatore mentre riporta in vita gli alleati atterrati.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)"
-    },
-    "pl": {
-        "item_name": "Sanktuarium",
-        "description": "Tworzy tarczę wokół właściciela posiadającą 600 Życia, kiedy ten wskrzesza innych graczy.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rze%C5%BA_Sanktuarium"
-    },
-    "uk": {
-        "item_name": "Укриття",
-        "description": "Під час зцілення союзників гравцем створює довкола нього щит міцністю 600.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sanctuary"
+    "i18n": {
+        "en": {
+            "item_name": "Sanctuary",
+            "description": "Creates a shield with 600 Health around the player when they are reviving fallen allies.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sanctuary",
+            "icon": "items/images/en/sanctuary.69a5b2425b10b1ee21c9ea5a9a641898.png",
+            "thumb": "items/images/en/thumbs/sanctuary.69a5b2425b10b1ee21c9ea5a9a641898.128x128.png"
+        },
+        "ru": {
+            "item_name": "Убежище",
+            "description": "Создаёт щит с 600 единиц прочности вокруг игрока, когда он воскрешает поверженных союзников.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
+            "icon": "items/images/ru/sanctuary.1b90eedee92421a6c3ff165d10d46fb5.png",
+            "thumb": "items/images/ru/thumbs/sanctuary.1b90eedee92421a6c3ff165d10d46fb5.128x128.png"
+        },
+        "ko": {
+            "item_name": "생츄어리",
+            "description": "아군을 살리는 동안 600의 체력을 가진 실드를 소유자의 주변에 생성합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sanctuary"
+        },
+        "de": {
+            "item_name": "Schutzort",
+            "description": "Erstellt einen Schild mit 600 Gesundheit um den Spieler, wenn dieser Verbündete wiederbelebt.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Schutzort"
+        },
+        "fr": {
+            "item_name": "Sanctuaire",
+            "description": "Crée un Bouclier de 600 points de Santé autour du joueur tandis qu'il réanime ses alliés tombés au combat.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Sanctuaire"
+        },
+        "pt": {
+            "item_name": "Sanctuary",
+            "description": "Criará uma barreira protetora com 600 de Vida em torno do jogador quando ele estiver revivendo aliados abatidos.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)"
+        },
+        "zh-hans": {
+            "item_name": "守护光罩",
+            "description": "在救助倒地同伴的玩家身边产生一层拥有生命值 600 的护盾",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sanctuary"
+        },
+        "zh-hant": {
+            "item_name": "守護光罩",
+            "description": "在救助倒地盟友的玩家身邊產生一層擁有生命值 600 的護盾。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sanctuary"
+        },
+        "es": {
+            "item_name": "Santuario",
+            "description": "Crea un escudo con 600 de salud alrededor del jugador cuando se está reviviendo aliados caídos.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Santuario"
+        },
+        "it": {
+            "item_name": "Sanctuary",
+            "description": "Crea uno scudo con 600 Punti Salute attorno al giocatore mentre riporta in vita gli alleati atterrati.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Sanctuary_(Mod)"
+        },
+        "pl": {
+            "item_name": "Sanktuarium",
+            "description": "Tworzy tarczę wokół właściciela posiadającą 600 Życia, kiedy ten wskrzesza innych graczy.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Rze%C5%BA_Sanktuarium"
+        },
+        "uk": {
+            "item_name": "Укриття",
+            "description": "Під час зцілення союзників гравцем створює довкола нього щит міцністю 600.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sanctuary"
+        }
     },
     "rarity": "rare",
     "max_rank": 10,

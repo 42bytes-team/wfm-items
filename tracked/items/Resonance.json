@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Banshee/SonarAugmentCard"
     },
-    "en": {
-        "item_name": "Resonance",
-        "description": "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 100% of remaining duration.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Resonance"
-    },
-    "ru": {
-        "item_name": "Резонанс",
-        "description": "Улучшение способности «Сонар»: убийство врага через болевые точки запустит новый сонар на 100% от оставшегося время действия текущего.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0%D0%BD%D1%81",
-        "icon": "items/images/ru/resonance.8c2840e117b3f46eca1139f1ba6334b7.png",
-        "thumb": "items/images/ru/thumbs/resonance.8c2840e117b3f46eca1139f1ba6334b7.128x128.png"
-    },
-    "ko": {
-        "item_name": "레저넌스",
-        "description": "소나 개조: 적의 약점을 노려 쓰러뜨릴 경우 남은 지속 시간의 100% 동안 또 한번의 소나를 발생시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Resonance"
-    },
-    "de": {
-        "item_name": "Resonanz",
-        "description": "Sonar Augment: Wenn du einen Feind tötest, indem du auf seinen Schwachpunkt schießt, löst dies ein weiteres Sonar für 100 % der verbliebenen Dauer aus.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Resonanz"
-    },
-    "fr": {
-        "item_name": "Résonance",
-        "description": "Augmentation de Sonar: Éliminer un ennemi en visant son point faible déclenchera un nouveau Sonar avec 100% de la durée restante.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9sonance"
-    },
-    "pt": {
-        "item_name": "Resonance",
-        "description": "Ampliação Sonar: abater um inimigo ao atirar no seu ponto fraco acionará outro Sonar que permanecerá por 100% da duração restante.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Resonance"
-    },
-    "zh-hans": {
-        "item_name": "残响共鸣",
-        "description": "声纳强化：敌人因弱点部位受到射击而阵亡时，会依声纳剩余时间有 100% 的几率触发另一次声纳。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Resonance"
-    },
-    "zh-hant": {
-        "item_name": "殘響共鳴",
-        "description": "聲納強化：敵人因弱點部位受到射擊而陣亡時，會依聲納剩餘時間有 100% 觸發另一次聲納。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Resonance"
-    },
-    "es": {
-        "item_name": "Resonancia",
-        "description": "Aumento de Sonar: matar a un enemigo disparando a su punto débil activará otro Sonar durante un 100 % de la duración restante.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Resonancia"
-    },
-    "it": {
-        "item_name": "Resonance",
-        "description": "Potenziamento Sonar: Uccidere un nemico sparandogli ad un punto debole crea un altro Sonar per il 100% della durata rimanente.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Penance"
-    },
-    "pl": {
-        "item_name": "Rezonans",
-        "description": "Modyfikacja Sonaru: Zabicie wroga przez strzał w słaby punkt uruchomi kolejny Sonar na 100% pozostałego czasu trwania.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Rezonans"
-    },
-    "uk": {
-        "item_name": "Резонанс",
-        "description": "Розширення здібності «Сонар»: якщо вбити ворога влучанням у слабке місце, то запуститься ще один сонар на 100% від залишкового часу поточного.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Resonance"
+    "i18n": {
+        "en": {
+            "item_name": "Resonance",
+            "description": "Sonar Augment: Killing an enemy by shooting their weak spot will trigger another Sonar for 100% of remaining duration.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Resonance",
+            "icon": "items/images/en/resonance.75838284d4cc149b3c5b0746dabaf146.png",
+            "thumb": "items/images/en/thumbs/resonance.75838284d4cc149b3c5b0746dabaf146.128x128.png"
+        },
+        "ru": {
+            "item_name": "Резонанс",
+            "description": "Улучшение способности «Сонар»: убийство врага через болевые точки запустит новый сонар на 100% от оставшегося время действия текущего.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0%D0%BD%D1%81",
+            "icon": "items/images/ru/resonance.8c2840e117b3f46eca1139f1ba6334b7.png",
+            "thumb": "items/images/ru/thumbs/resonance.8c2840e117b3f46eca1139f1ba6334b7.128x128.png"
+        },
+        "ko": {
+            "item_name": "레저넌스",
+            "description": "소나 개조: 적의 약점을 노려 쓰러뜨릴 경우 남은 지속 시간의 100% 동안 또 한번의 소나를 발생시킵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Resonance"
+        },
+        "de": {
+            "item_name": "Resonanz",
+            "description": "Sonar Augment: Wenn du einen Feind tötest, indem du auf seinen Schwachpunkt schießt, löst dies ein weiteres Sonar für 100 % der verbliebenen Dauer aus.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Resonanz"
+        },
+        "fr": {
+            "item_name": "Résonance",
+            "description": "Augmentation de Sonar: Éliminer un ennemi en visant son point faible déclenchera un nouveau Sonar avec 100% de la durée restante.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/R%C3%A9sonance"
+        },
+        "pt": {
+            "item_name": "Resonance",
+            "description": "Ampliação Sonar: abater um inimigo ao atirar no seu ponto fraco acionará outro Sonar que permanecerá por 100% da duração restante.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Resonance"
+        },
+        "zh-hans": {
+            "item_name": "残响共鸣",
+            "description": "声纳强化：敌人因弱点部位受到射击而阵亡时，会依声纳剩余时间有 100% 的几率触发另一次声纳。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Resonance"
+        },
+        "zh-hant": {
+            "item_name": "殘響共鳴",
+            "description": "聲納強化：敵人因弱點部位受到射擊而陣亡時，會依聲納剩餘時間有 100% 觸發另一次聲納。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Resonance"
+        },
+        "es": {
+            "item_name": "Resonancia",
+            "description": "Aumento de Sonar: matar a un enemigo disparando a su punto débil activará otro Sonar durante un 100 % de la duración restante.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Resonancia"
+        },
+        "it": {
+            "item_name": "Resonance",
+            "description": "Potenziamento Sonar: Uccidere un nemico sparandogli ad un punto debole crea un altro Sonar per il 100% della durata rimanente.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Penance"
+        },
+        "pl": {
+            "item_name": "Rezonans",
+            "description": "Modyfikacja Sonaru: Zabicie wroga przez strzał w słaby punkt uruchomi kolejny Sonar na 100% pozostałego czasu trwania.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Rezonans"
+        },
+        "uk": {
+            "item_name": "Резонанс",
+            "description": "Розширення здібності «Сонар»: якщо вбити ворога влучанням у слабке місце, то запуститься ще один сонар на 100% від залишкового часу поточного.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Resonance"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

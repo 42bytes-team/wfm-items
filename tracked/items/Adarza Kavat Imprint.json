@@ -14,65 +14,69 @@
         "uniq_name": "/Lotus/Types/Game/CatbrowPet/MirrorCatbrowPetPowerSuit",
         "type": "imprint"
     },
-    "en": {
-        "item_name": "Adarza Kavat Imprint",
-        "description": "Piercing eyes reflect deadly instincts.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Adarza_Kavat"
-    },
-    "ru": {
-        "item_name": "Кават: Адарза: Отпечаток",
-        "description": "Имеет пронзающий взор, выдающий инстинкты убийцы.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B4%D0%B0%D1%80%D0%B7%D0%B0_%D0%9A%D0%B0%D0%B2%D0%B0%D1%82"
-    },
-    "ko": {
-        "item_name": "아다르자 카밧 임프린트",
-        "description": "날카로운 눈빛은 치명적인 본능을 반영합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Adarza_Kavat"
-    },
-    "de": {
-        "item_name": "Adarza Kavat (Genetischer Abdruck)",
-        "description": "Ihre durchdringende Augen reflektieren tödliche Instinkte.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Adarza_Kavat"
-    },
-    "fr": {
-        "item_name": "Kavat Adarza (Empreinte)",
-        "description": "Ses yeux perçants reflètent ses instincts meurtriers.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Kavat_Adarza"
-    },
-    "pt": {
-        "item_name": "Kavat Adarza (Código Genético)",
-        "description": "Seus olhos penetrantes refletem os instintos letais.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kavat#Adarza%20Kavat"
-    },
-    "zh-hans": {
-        "item_name": "镜像型库娃 基因印记",
-        "description": "炯炯有神的眼睛反映出其致命的本能。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Adarza_Kavat"
-    },
-    "zh-hant": {
-        "item_name": "鏡像型庫娃 基因印記",
-        "description": "炯炯有神的眼睛反映出其致命的本能。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Adarza_Kavat"
-    },
-    "es": {
-        "item_name": "Impronta de Kavat Adarza",
-        "description": "Ojos penetrantes reflejan instintos letales.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Kavat_Adarza"
-    },
-    "it": {
-        "item_name": "Adarza Kavat Imprint",
-        "description": "Occhi profondi che riflettono istinti mortali.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Kavat#Adarza%20Kavat"
-    },
-    "pl": {
-        "item_name": "Kavat Adarza: Genotyp",
-        "description": "Przeszywający wzrok, jest odbiciem morderczych instynktów.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Kavat_Adarza"
-    },
-    "uk": {
-        "item_name": "Відбиток: Адарзовий Кават",
-        "description": "У проникливих очах убачаються смертоносні інстинкти.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Adarza_Kavat"
+    "i18n": {
+        "en": {
+            "item_name": "Adarza Kavat Imprint",
+            "description": "Piercing eyes reflect deadly instincts.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Adarza_Kavat",
+            "icon": "items/images/en/adarza_kavat_imprint.cd718330ac1d7e42ba6eaddf777f73f0.png",
+            "thumb": "items/images/en/thumbs/adarza_kavat_imprint.cd718330ac1d7e42ba6eaddf777f73f0.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кават: Адарза: Отпечаток",
+            "description": "Имеет пронзающий взор, выдающий инстинкты убийцы.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%B4%D0%B0%D1%80%D0%B7%D0%B0_%D0%9A%D0%B0%D0%B2%D0%B0%D1%82"
+        },
+        "ko": {
+            "item_name": "아다르자 카밧 임프린트",
+            "description": "날카로운 눈빛은 치명적인 본능을 반영합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Adarza_Kavat"
+        },
+        "de": {
+            "item_name": "Adarza Kavat (Genetischer Abdruck)",
+            "description": "Ihre durchdringende Augen reflektieren tödliche Instinkte.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Adarza_Kavat"
+        },
+        "fr": {
+            "item_name": "Kavat Adarza (Empreinte)",
+            "description": "Ses yeux perçants reflètent ses instincts meurtriers.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Kavat_Adarza"
+        },
+        "pt": {
+            "item_name": "Kavat Adarza (Código Genético)",
+            "description": "Seus olhos penetrantes refletem os instintos letais.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Kavat#Adarza%20Kavat"
+        },
+        "zh-hans": {
+            "item_name": "镜像型库娃 基因印记",
+            "description": "炯炯有神的眼睛反映出其致命的本能。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Adarza_Kavat"
+        },
+        "zh-hant": {
+            "item_name": "鏡像型庫娃 基因印記",
+            "description": "炯炯有神的眼睛反映出其致命的本能。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Adarza_Kavat"
+        },
+        "es": {
+            "item_name": "Impronta de Kavat Adarza",
+            "description": "Ojos penetrantes reflejan instintos letales.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Kavat_Adarza"
+        },
+        "it": {
+            "item_name": "Adarza Kavat Imprint",
+            "description": "Occhi profondi che riflettono istinti mortali.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Kavat#Adarza%20Kavat"
+        },
+        "pl": {
+            "item_name": "Kavat Adarza: Genotyp",
+            "description": "Przeszywający wzrok, jest odbiciem morderczych instynktów.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Kavat_Adarza"
+        },
+        "uk": {
+            "item_name": "Відбиток: Адарзовий Кават",
+            "description": "У проникливих очах убачаються смертоносні інстинкти.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Adarza_Kavat"
+        }
     },
     "trading_tax": 2000
 }

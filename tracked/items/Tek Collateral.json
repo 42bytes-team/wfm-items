@@ -13,68 +13,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Tek/WarframeTekCollateralMod"
     },
-    "en": {
-        "item_name": "Tek Collateral",
-        "description": "Increased Pistol Ammo recovery. +100% Critical Damage when inside the Marked Zone.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tek_Collateral"
-    },
-    "ru": {
-        "item_name": "Тех-Родство",
-        "description": "Увеличивает количество собираемых патронов для пистолета. +100% к критическому урону при нахождении внутри отмеченной зоны.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B5%D1%85-%D0%A0%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
-        "icon": "items/images/ru/tek_collateral.ebf038f70b66b9c33ca4ef057aad0d5d.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/tek_collateral.ebf038f70b66b9c33ca4ef057aad0d5d.128x128.png"
-    },
-    "ko": {
-        "item_name": "텍 콜래트럴",
-        "description": "권총 탄약의 획득량을 증가시킵니다. 표시된 구역 내에 있을 시 +100% 치명타 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tek_Collateral"
-    },
-    "de": {
-        "item_name": "Tek: Absicherung",
-        "description": "Mehr Munition für Pistolen erhalten. +100 % Krit. Schaden, wenn innerhalb der markierten Zone",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Tek:_Absicherung"
-    },
-    "fr": {
-        "item_name": "Garantie Tek",
-        "description": "Récupération accrue de munitions de Pistolet. +100% de Dégâts Critiques à l'intérieur de la Zone Marquée.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Garantie_Tek"
-    },
-    "pt": {
-        "item_name": "Tek Collateral",
-        "description": "Maior recuperação de Munição de Pistola. +100% de Dano Crítico enquanto estiver dentro da Área Demarcada.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tek_Collateral"
-    },
-    "zh-hans": {
-        "item_name": "技法 连带",
-        "description": "增加拾起的手枪弹药 站在标记区域中可获得 +100% 暴击伤害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tek_Collateral"
-    },
-    "zh-hant": {
-        "item_name": "技法 連帶",
-        "description": "增加拾起的手槍彈藥 站在標記區域中可獲得 +100% 暴擊傷害。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tek_Collateral"
-    },
-    "es": {
-        "item_name": "Garantía De Tek",
-        "description": "Recuperación de munición de pistola aumentada. +100% de daño crítico mientras estás en la zona marcada.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Garant%C3%ADa_de_tek"
-    },
-    "it": {
-        "item_name": "Tek Collateral",
-        "description": "Recupero munizioni per pistola aumentato. +100% Danno Critico mentre si è all'interno della Zona Marcata.",
-        "wiki_link": "http://warframe.fandom.com/wiki/Tek_Collateral"
-    },
-    "pl": {
-        "item_name": "Techniczny Dodatek",
-        "description": "Zwiększenie odzysku amunicji do pistoletu. +100% Obrażeń krytycznych będąc w Zaznaczonej strefie",
-        "wiki_link": "http://warframe.fandom.com/wiki/Tek_Collateral"
-    },
-    "uk": {
-        "item_name": "Допоміжні Технології",
-        "description": "Збільшує кількість підібраних набоїв до пістолетів. +100% до критичної шкоди в позначеній області.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tek_Collateral"
+    "i18n": {
+        "en": {
+            "item_name": "Tek Collateral",
+            "description": "Increased Pistol Ammo recovery. +100% Critical Damage when inside the Marked Zone.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tek_Collateral",
+            "icon": "items/images/en/tek_collateral.f16578482edfed66a1bd5dca84cd778b.png",
+            "thumb": "items/images/en/thumbs/tek_collateral.f16578482edfed66a1bd5dca84cd778b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Тех-Родство",
+            "description": "Увеличивает количество собираемых патронов для пистолета. +100% к критическому урону при нахождении внутри отмеченной зоны.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%B5%D1%85-%D0%A0%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+            "icon": "items/images/ru/tek_collateral.ebf038f70b66b9c33ca4ef057aad0d5d.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/tek_collateral.ebf038f70b66b9c33ca4ef057aad0d5d.128x128.png"
+        },
+        "ko": {
+            "item_name": "텍 콜래트럴",
+            "description": "권총 탄약의 획득량을 증가시킵니다. 표시된 구역 내에 있을 시 +100% 치명타 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tek_Collateral"
+        },
+        "de": {
+            "item_name": "Tek: Absicherung",
+            "description": "Mehr Munition für Pistolen erhalten. +100 % Krit. Schaden, wenn innerhalb der markierten Zone",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Tek:_Absicherung"
+        },
+        "fr": {
+            "item_name": "Garantie Tek",
+            "description": "Récupération accrue de munitions de Pistolet. +100% de Dégâts Critiques à l'intérieur de la Zone Marquée.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Garantie_Tek"
+        },
+        "pt": {
+            "item_name": "Tek Collateral",
+            "description": "Maior recuperação de Munição de Pistola. +100% de Dano Crítico enquanto estiver dentro da Área Demarcada.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Tek_Collateral"
+        },
+        "zh-hans": {
+            "item_name": "技法 连带",
+            "description": "增加拾起的手枪弹药 站在标记区域中可获得 +100% 暴击伤害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tek_Collateral"
+        },
+        "zh-hant": {
+            "item_name": "技法 連帶",
+            "description": "增加拾起的手槍彈藥 站在標記區域中可獲得 +100% 暴擊傷害。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tek_Collateral"
+        },
+        "es": {
+            "item_name": "Garantía De Tek",
+            "description": "Recuperación de munición de pistola aumentada. +100% de daño crítico mientras estás en la zona marcada.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Garant%C3%ADa_de_tek"
+        },
+        "it": {
+            "item_name": "Tek Collateral",
+            "description": "Recupero munizioni per pistola aumentato. +100% Danno Critico mentre si è all'interno della Zona Marcata.",
+            "wiki_link": "http://warframe.fandom.com/wiki/Tek_Collateral"
+        },
+        "pl": {
+            "item_name": "Techniczny Dodatek",
+            "description": "Zwiększenie odzysku amunicji do pistoletu. +100% Obrażeń krytycznych będąc w Zaznaczonej strefie",
+            "wiki_link": "http://warframe.fandom.com/wiki/Tek_Collateral"
+        },
+        "uk": {
+            "item_name": "Допоміжні Технології",
+            "description": "Збільшує кількість підібраних набоїв до пістолетів. +100% до критичної шкоди в позначеній області.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tek_Collateral"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

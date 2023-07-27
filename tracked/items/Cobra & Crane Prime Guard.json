@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Cobra & Crane Prime Guard",
-        "description": "A prime weapon-crafting component.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Кобра И Журавль Прайм: Щит",
-        "description": "Прайм-компонент оружия.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "코브라 & 크레인 프라임 가드",
-        "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Cobra & Crane Prime: Schutz",
-        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Cobra & Crane Prime - Quillon",
-        "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Cobra & Crane Prime: Guarda",
-        "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "眼镜蛇 & 鹤 Prime 护手",
-        "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "眼鏡蛇 & 鶴 Prime 護手",
-        "description": "製作 Prime 武器的部件。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Escudo De Cobra & Crane Prime",
-        "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Cobra & Crane Prime - Scudo",
-        "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Cobra I Crane Prime: Garda",
-        "description": "Element wytwarzania broni Prime.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Кобра Й Журавель-Прайм: Гарда",
-        "description": "Деталь прайм-зброї.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Cobra & Crane Prime Guard",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/cobra_and_crane_prime_guard.84b2733b9f7486c23028b5a2b4e012b4.png",
+            "thumb": "items/images/en/thumbs/cobra_and_crane_prime_guard.84b2733b9f7486c23028b5a2b4e012b4.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кобра И Журавль Прайм: Щит",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "코브라 & 크레인 프라임 가드",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Cobra & Crane Prime: Schutz",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Cobra & Crane Prime - Quillon",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Cobra & Crane Prime: Guarda",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "眼镜蛇 & 鹤 Prime 护手",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "眼鏡蛇 & 鶴 Prime 護手",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Escudo De Cobra & Crane Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Cobra & Crane Prime - Scudo",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Cobra I Crane Prime: Garda",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Кобра Й Журавель-Прайм: Гарда",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 14,
     "ducats": 100,

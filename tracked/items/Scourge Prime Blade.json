@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Scourge Prime Blade",
-        "description": "A prime weapon-crafting component.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Кара Прайм: Лезвие",
-        "description": "Прайм-компонент оружия.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "스커지 프라임 블레이드",
-        "description": "프라임 무기 제작 부품입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Scourge Prime: Klinge",
-        "description": "Eine Komponente für die Herstellung von Prime Waffen.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Scourge Prime - Lame",
-        "description": "Un composant servant à la fabrication d'armes Prime.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Scourge Prime: Lâmina",
-        "description": "Um componente de fabricação de Armas Prime.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "祸根 Prime 刀刃",
-        "description": "一个 Prime 武器的制作部件。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "禍根 Prime 刀刃",
-        "description": "製作 Prime 武器的部件。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Hoja De Scourge Prime",
-        "description": "Un componente de fabricación de arma prime.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Scourge Prime - Lama",
-        "description": "Un componente Prime per la costruzione di un'arma.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Scourge Prime: Ostrze",
-        "description": "Element wytwarzania broni Prime.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Бич-Прайм: Клинок",
-        "description": "Деталь прайм-зброї.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Scourge Prime Blade",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/scourge_prime_blade.0a3ad76487e9722f613f6e57e3983cbd.png",
+            "thumb": "items/images/en/thumbs/scourge_prime_blade.0a3ad76487e9722f613f6e57e3983cbd.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кара Прайм: Лезвие",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B0_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "스커지 프라임 블레이드",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Scourge Prime: Klinge",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Scourge Prime - Lame",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Scourge Prime: Lâmina",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "祸根 Prime 刀刃",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "禍根 Prime 刀刃",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Hoja De Scourge Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Scourge Prime - Lama",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Scourge Prime: Ostrze",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Бич-Прайм: Клинок",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null
+        }
     },
     "mastery_level": 14,
     "ducats": 15,

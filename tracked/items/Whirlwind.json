@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSpeedMod"
     },
-    "en": {
-        "item_name": "Whirlwind",
-        "description": "+180% Projectile Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whirlwind"
-    },
-    "ru": {
-        "item_name": "Ураган",
-        "description": "+180% к скорости полёта снаряда",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
-        "icon": "items/images/ru/whirlwind.f00eaf345d79e6b673e748f66b635833.png",
-        "thumb": "items/images/ru/thumbs/whirlwind.f00eaf345d79e6b673e748f66b635833.128x128.png"
-    },
-    "ko": {
-        "item_name": "훨윈드",
-        "description": "+180% 발사체 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whirlwind"
-    },
-    "de": {
-        "item_name": "Wirbelwind",
-        "description": "+180 % Projektilgeschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Wirbelwind"
-    },
-    "fr": {
-        "item_name": "Tourbillon",
-        "description": "+180% de Vitesse des Projectiles",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Tourbillon"
-    },
-    "pt": {
-        "item_name": "Whirlwind",
-        "description": "+180% de Velocidade do Projétil",
-        "wiki_link": "http://warframe.wikia.com/wiki/Whirlwind"
-    },
-    "zh-hans": {
-        "item_name": "旋风",
-        "description": "+180% 投射物速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Whirlwind"
-    },
-    "zh-hant": {
-        "item_name": "旋風",
-        "description": "+180% 投射物速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Whirlwind"
-    },
-    "es": {
-        "item_name": "Torbellino",
-        "description": "+180% de velocidad de proyectil",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Torbellino"
-    },
-    "it": {
-        "item_name": "Whirlwind",
-        "description": "+180% Velocità Proiettile",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Whirlwind"
-    },
-    "pl": {
-        "item_name": "Tornado",
-        "description": "+180% Prędkość Pocisku",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Tornado"
-    },
-    "uk": {
-        "item_name": "Смерч",
-        "description": "+180% до швидкості польоту снарядів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whirlwind"
+    "i18n": {
+        "en": {
+            "item_name": "Whirlwind",
+            "description": "+180% Projectile Speed",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whirlwind",
+            "icon": "items/images/en/whirlwind.80aebc2d1fc7a32c71c31d57142b555b.png",
+            "thumb": "items/images/en/thumbs/whirlwind.80aebc2d1fc7a32c71c31d57142b555b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ураган",
+            "description": "+180% к скорости полёта снаряда",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
+            "icon": "items/images/ru/whirlwind.f00eaf345d79e6b673e748f66b635833.png",
+            "thumb": "items/images/ru/thumbs/whirlwind.f00eaf345d79e6b673e748f66b635833.128x128.png"
+        },
+        "ko": {
+            "item_name": "훨윈드",
+            "description": "+180% 발사체 속도",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whirlwind"
+        },
+        "de": {
+            "item_name": "Wirbelwind",
+            "description": "+180 % Projektilgeschwindigkeit",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Wirbelwind"
+        },
+        "fr": {
+            "item_name": "Tourbillon",
+            "description": "+180% de Vitesse des Projectiles",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Tourbillon"
+        },
+        "pt": {
+            "item_name": "Whirlwind",
+            "description": "+180% de Velocidade do Projétil",
+            "wiki_link": "http://warframe.wikia.com/wiki/Whirlwind"
+        },
+        "zh-hans": {
+            "item_name": "旋风",
+            "description": "+180% 投射物速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Whirlwind"
+        },
+        "zh-hant": {
+            "item_name": "旋風",
+            "description": "+180% 投射物速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Whirlwind"
+        },
+        "es": {
+            "item_name": "Torbellino",
+            "description": "+180% de velocidad de proyectil",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Torbellino"
+        },
+        "it": {
+            "item_name": "Whirlwind",
+            "description": "+180% Velocità Proiettile",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Whirlwind"
+        },
+        "pl": {
+            "item_name": "Tornado",
+            "description": "+180% Prędkość Pocisku",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Tornado"
+        },
+        "uk": {
+            "item_name": "Смерч",
+            "description": "+180% до швидкості польоту снарядів",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whirlwind"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

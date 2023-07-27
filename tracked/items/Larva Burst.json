@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Infestation/InfestTendrilsAugmentCard"
     },
-    "en": {
-        "item_name": "Larva Burst",
-        "description": "Larva Augment: Reactivate Larva to detonate and deal 600 Toxin damage in a 8m radius. This damage stacks for every enemy grabbed by the Larva.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Larva_Burst"
-    },
-    "ru": {
-        "item_name": "Разрыв Личинки",
-        "description": "Улучшение способности «Личинка»: повторная активация личинки подорвет ее, нанеся 600 урона токсином в радиусе 8 м. Урон суммируется в зависимости от количества удерживаемых личинкой врагов.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2_%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B8"
-    },
-    "ko": {
-        "item_name": "라바 버스트",
-        "description": "라바 개조: 라바를 재시전할 시 라바를 폭발시켜 8m 내에 600의 독성 피해를 가합니다. 라바에 끌려온 적들이 많을수록 피해량이 증가합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Larva_Burst"
-    },
-    "de": {
-        "item_name": "Larvenexplosion",
-        "description": "Larve Augment: Aktivere Larve erneut, um diese zu detonieren und 600 Giftschaden in 8 m Reichweite zu verursachen. Dieser Schaden steigert sich für jeden Gegner, der von Larve ergriffen wird.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Larva_Burst"
-    },
-    "fr": {
-        "item_name": "Éclatement De Larve",
-        "description": "Augmentation de Larve: Réactiver la larve la fait éclater et infliger 600 points de Dégâts de Poison sur 8m. Ces Dégâts se cumulent pour chaque ennemi attrapé par la Larve.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89clatement_de_Larve"
-    },
-    "pt": {
-        "item_name": "Larva Burst",
-        "description": "Ampliação Larva: ativar a habilidade novamente fará com que ela detone, causando 600 de Dano Tóxico em um raio de 8m. Este dano aumentará para cada inimigo agarrado pela habilidade.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Larva_Burst"
-    },
-    "zh-hans": {
-        "item_name": "幼体爆发",
-        "description": "幼体强化：再次激活幼体可将其引爆，并造成半径 8 米的 600 毒素伤害。每有一名敌人被幼体捕获，该毒素伤害则叠加一次。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Larva_Burst"
-    },
-    "zh-hant": {
-        "item_name": "幼體爆發",
-        "description": "幼體強化：再次使用技能可將其引爆，並造成半徑 8 公尺的 600 毒素傷害。幼體每多捕獲一名敵人，該毒素傷害疊加一次。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Larva_Burst"
-    },
-    "es": {
-        "item_name": "Estallido De Larva",
-        "description": "Aumento de Larva: reactiva Larva para detonarla y causar 600 de daño de toxina en un radio de 8 m. Este daño se acumula por cada enemigo sujetado por la Larva.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Estallido_de_larva"
-    },
-    "it": {
-        "item_name": "Larva Burst",
-        "description": "Potenziamento Larva: Riattiva Larva per farla detonare e infliggere 600 danno Tossina entro 8m. Il danno si accumula per ogni nemico afferrato dalla Larva.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Larva_Burst"
-    },
-    "pl": {
-        "item_name": "Wybuchowa Larwa",
-        "description": "Modyfikacja Larwy: Reaktywacja Larwy spowoduje jej detonację i zada 600 Obrażeń Toksycznych w zasięgu 8m. Obrażenia kumulują się z każdym złapanym przez Larwę przeciwnikiem.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Wybuchowa_Larwa"
-    },
-    "uk": {
-        "item_name": "Личинковий Вибух",
-        "description": "Розширення здібності «Личинка»: повторне застосування здібності підриває личинку й завдає 600 токсичної шкоди в межах 8 м. Шкода збільшується за кожного схопленого личинкою ворога.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Larva_Burst"
+    "i18n": {
+        "en": {
+            "item_name": "Larva Burst",
+            "description": "Larva Augment: Reactivate Larva to detonate and deal 600 Toxin damage in a 8m radius. This damage stacks for every enemy grabbed by the Larva.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Larva_Burst",
+            "icon": "items/images/en/larva_burst.cc35be884ce7c5ef3c9913a9586a76aa.png",
+            "thumb": "items/images/en/thumbs/larva_burst.cc35be884ce7c5ef3c9913a9586a76aa.128x128.png"
+        },
+        "ru": {
+            "item_name": "Разрыв Личинки",
+            "description": "Улучшение способности «Личинка»: повторная активация личинки подорвет ее, нанеся 600 урона токсином в радиусе 8 м. Урон суммируется в зависимости от количества удерживаемых личинкой врагов.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2_%D0%9B%D0%B8%D1%87%D0%B8%D0%BD%D0%BA%D0%B8"
+        },
+        "ko": {
+            "item_name": "라바 버스트",
+            "description": "라바 개조: 라바를 재시전할 시 라바를 폭발시켜 8m 내에 600의 독성 피해를 가합니다. 라바에 끌려온 적들이 많을수록 피해량이 증가합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Larva_Burst"
+        },
+        "de": {
+            "item_name": "Larvenexplosion",
+            "description": "Larve Augment: Aktivere Larve erneut, um diese zu detonieren und 600 Giftschaden in 8 m Reichweite zu verursachen. Dieser Schaden steigert sich für jeden Gegner, der von Larve ergriffen wird.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Larva_Burst"
+        },
+        "fr": {
+            "item_name": "Éclatement De Larve",
+            "description": "Augmentation de Larve: Réactiver la larve la fait éclater et infliger 600 points de Dégâts de Poison sur 8m. Ces Dégâts se cumulent pour chaque ennemi attrapé par la Larve.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/%C3%89clatement_de_Larve"
+        },
+        "pt": {
+            "item_name": "Larva Burst",
+            "description": "Ampliação Larva: ativar a habilidade novamente fará com que ela detone, causando 600 de Dano Tóxico em um raio de 8m. Este dano aumentará para cada inimigo agarrado pela habilidade.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Larva_Burst"
+        },
+        "zh-hans": {
+            "item_name": "幼体爆发",
+            "description": "幼体强化：再次激活幼体可将其引爆，并造成半径 8 米的 600 毒素伤害。每有一名敌人被幼体捕获，该毒素伤害则叠加一次。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Larva_Burst"
+        },
+        "zh-hant": {
+            "item_name": "幼體爆發",
+            "description": "幼體強化：再次使用技能可將其引爆，並造成半徑 8 公尺的 600 毒素傷害。幼體每多捕獲一名敵人，該毒素傷害疊加一次。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Larva_Burst"
+        },
+        "es": {
+            "item_name": "Estallido De Larva",
+            "description": "Aumento de Larva: reactiva Larva para detonarla y causar 600 de daño de toxina en un radio de 8 m. Este daño se acumula por cada enemigo sujetado por la Larva.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Estallido_de_larva"
+        },
+        "it": {
+            "item_name": "Larva Burst",
+            "description": "Potenziamento Larva: Riattiva Larva per farla detonare e infliggere 600 danno Tossina entro 8m. Il danno si accumula per ogni nemico afferrato dalla Larva.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Larva_Burst"
+        },
+        "pl": {
+            "item_name": "Wybuchowa Larwa",
+            "description": "Modyfikacja Larwy: Reaktywacja Larwy spowoduje jej detonację i zada 600 Obrażeń Toksycznych w zasięgu 8m. Obrażenia kumulują się z każdym złapanym przez Larwę przeciwnikiem.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Wybuchowa_Larwa"
+        },
+        "uk": {
+            "item_name": "Личинковий Вибух",
+            "description": "Розширення здібності «Личинка»: повторне застосування здібності підриває личинку й завдає 600 токсичної шкоди в межах 8 м. Шкода збільшується за кожного схопленого личинкою ворога.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Larva_Burst"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

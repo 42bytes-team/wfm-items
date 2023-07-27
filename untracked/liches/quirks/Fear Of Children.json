@@ -2,54 +2,56 @@
     "_id": "5e9855a43d9f6400697e8960",
     "url_name": "fear_of_children",
     "group": "default",
-    "icon": "lich_quirks/images/fear_of_children.ff5f23593d0850514dd7b63c3a16d8c9.png",
-    "thumb": "lich_quirks/images/thumbs/fear_of_children.ff5f23593d0850514dd7b63c3a16d8c9.128x128.png",
-    "en": {
-        "item_name": "Fear of Children",
-        "description": "Is afraid of the player's Operator"
-    },
-    "ru": {
-        "item_name": "Fear of Children",
-        "description": "Is afraid of the player's Operator"
-    },
-    "ko": {
-        "item_name": "아이를 두려워함",
-        "description": "Is afraid of the player's Operator"
-    },
-    "de": {
-        "item_name": "Fear of Children",
-        "description": "Is afraid of the player's Operator"
-    },
-    "fr": {
-        "item_name": "Fear of Children",
-        "description": "Is afraid of the player's Operator"
-    },
-    "pt": {
-        "item_name": "Fear of Children",
-        "description": "Is afraid of the player's Operator"
-    },
-    "zh-hans": {
-        "item_name": "害怕小孩",
-        "description": "Is afraid of the player's Operator"
-    },
-    "zh-hant": {
-        "item_name": "對小孩有恐懼",
-        "description": "Is afraid of the player's Operator"
-    },
-    "es": {
-        "item_name": "Miedo a los niños",
-        "description": "Le dan miedo los Operadores."
-    },
-    "it": {
-        "item_name": "Fear of Children",
-        "description": "Is afraid of the player's Operator"
-    },
-    "pl": {
-        "item_name": "Strach przed Dziećmi",
-        "description": "Is afraid of the player's Operator"
-    },
-    "uk": {
-        "item_name": "Боїться дітей",
-        "description": "Боїться оператора гравця."
+    "icon": "lich_quirks/unknown.png",
+    "thumb": "lich_quirks/unknown.thumb.png",
+    "i18n": {
+        "en": {
+            "item_name": "Fear of Children",
+            "description": "Is afraid of the player's Operator"
+        },
+        "ru": {
+            "item_name": "Fear of Children",
+            "description": "Is afraid of the player's Operator"
+        },
+        "ko": {
+            "item_name": "아이를 두려워함",
+            "description": "Is afraid of the player's Operator"
+        },
+        "de": {
+            "item_name": "Fear of Children",
+            "description": "Is afraid of the player's Operator"
+        },
+        "fr": {
+            "item_name": "Fear of Children",
+            "description": "Is afraid of the player's Operator"
+        },
+        "pt": {
+            "item_name": "Fear of Children",
+            "description": "Is afraid of the player's Operator"
+        },
+        "zh-hans": {
+            "item_name": "害怕小孩",
+            "description": "Is afraid of the player's Operator"
+        },
+        "zh-hant": {
+            "item_name": "對小孩有恐懼",
+            "description": "Is afraid of the player's Operator"
+        },
+        "es": {
+            "item_name": "Miedo a los niños",
+            "description": "Le dan miedo los Operadores."
+        },
+        "it": {
+            "item_name": "Fear of Children",
+            "description": "Is afraid of the player's Operator"
+        },
+        "pl": {
+            "item_name": "Strach przed Dziećmi",
+            "description": "Is afraid of the player's Operator"
+        },
+        "uk": {
+            "item_name": "Боїться дітей",
+            "description": "Боїться оператора гравця."
+        }
     }
 }

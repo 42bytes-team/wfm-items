@@ -14,68 +14,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Ninja/GlaiveAugmentCard"
     },
-    "en": {
-        "item_name": "Seeking Shuriken",
-        "description": "Shuriken Augment: Hits expose weaknesses on enemies, reducing their Armor by 70% for 8s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Seeking_Shuriken"
-    },
-    "ru": {
-        "item_name": "Ищущий Сюрикен",
-        "description": "Улучшение способности «Сюрикен»: при попадании вскрывает болевые точки врага, снижая броню на 70% в течение 8 с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%89%D1%83%D1%89%D0%B8%D0%B9_%D0%A1%D1%8E%D1%80%D0%B8%D0%BA%D0%B5%D0%BD",
-        "icon": "items/images/ru/seeking_shuriken.df66b5560b525ca8afcd6bf50bd2b605.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/seeking_shuriken.df66b5560b525ca8afcd6bf50bd2b605.128x128.png"
-    },
-    "ko": {
-        "item_name": "시킹 슈리켄",
-        "description": "슈리켄 개조: 명중 시 적의 약점을 노출시켜, 8초 동안 70%의 방어력을 저하시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Seeking_Shuriken"
-    },
-    "de": {
-        "item_name": "Suchende Shuriken",
-        "description": "Shuriken Augment: Trifft exponierte Schwachpunkte am Feind und reduziert seine Rüstung für die Dauer von 8 s um 70 %.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Suchende_Shuriken"
-    },
-    "fr": {
-        "item_name": "Shuriken Chercheur",
-        "description": "Augmentation de Shuriken: Chaque ennemi touché voit ses faiblesses dévoilées, réduisant leur Armure de 70% pendant 8s.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Shuriken_Chercheur"
-    },
-    "pt": {
-        "item_name": "Seeking Shuriken",
-        "description": "Ampliação Shuriken: inimigos atingidos pela habilidade terão suas fraquezas reveladas, reduzindo sua Armadura em 70% durante 8s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Seeking_Shuriken"
-    },
-    "zh-hans": {
-        "item_name": "削甲手里剑",
-        "description": "手里剑强化：敌人被击中后其弱点将被暴露在外，于 8 秒内降低 70% 护甲。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Seeking_Shuriken"
-    },
-    "zh-hant": {
-        "item_name": "削甲手裡劍",
-        "description": "手裡劍強化：敵人被擊中後其弱點將被暴露在外，於 8 秒內降低 70% 護甲。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Seeking_Shuriken"
-    },
-    "es": {
-        "item_name": "Shuriken Buscador",
-        "description": "Aumento de Shuriken: los impactos exponen las debilidades de los enemigos, reduciendo su armadura en 70% por 8s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Shuriken_buscador"
-    },
-    "it": {
-        "item_name": "Seeking Shuriken",
-        "description": "Potenziamento Shuriken: I colpi espongono i punti deboli dei nemici, riducendone l'Armatura del 70% per 8s.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Seeking_Shuriken"
-    },
-    "pl": {
-        "item_name": "Poszukujący Shuriken",
-        "description": "Modyfikacja Shurikena: Trafienie odsłania słabości wrogów, zmniejszając ich pancerz o 70% przez 8s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Poszukuj%C4%85cy_Shuriken"
-    },
-    "uk": {
-        "item_name": "Сюрикен-Шукач",
-        "description": "Розширення здібності «Сюрикен»: влучання виявляє слабкі місця ворогів, послаблюючи їхній захист на 70% впродовж 8 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Seeking_Shuriken"
+    "i18n": {
+        "en": {
+            "item_name": "Seeking Shuriken",
+            "description": "Shuriken Augment: Hits expose weaknesses on enemies, reducing their Armor by 70% for 8s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Seeking_Shuriken",
+            "icon": "items/images/en/seeking_shuriken.815652a6488e8e4df314308ad4a872d4.png",
+            "thumb": "items/images/en/thumbs/seeking_shuriken.815652a6488e8e4df314308ad4a872d4.128x128.png"
+        },
+        "ru": {
+            "item_name": "Ищущий Сюрикен",
+            "description": "Улучшение способности «Сюрикен»: при попадании вскрывает болевые точки врага, снижая броню на 70% в течение 8 с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%89%D1%83%D1%89%D0%B8%D0%B9_%D0%A1%D1%8E%D1%80%D0%B8%D0%BA%D0%B5%D0%BD",
+            "icon": "items/images/ru/seeking_shuriken.df66b5560b525ca8afcd6bf50bd2b605.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/seeking_shuriken.df66b5560b525ca8afcd6bf50bd2b605.128x128.png"
+        },
+        "ko": {
+            "item_name": "시킹 슈리켄",
+            "description": "슈리켄 개조: 명중 시 적의 약점을 노출시켜, 8초 동안 70%의 방어력을 저하시킵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Seeking_Shuriken"
+        },
+        "de": {
+            "item_name": "Suchende Shuriken",
+            "description": "Shuriken Augment: Trifft exponierte Schwachpunkte am Feind und reduziert seine Rüstung für die Dauer von 8 s um 70 %.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Suchende_Shuriken"
+        },
+        "fr": {
+            "item_name": "Shuriken Chercheur",
+            "description": "Augmentation de Shuriken: Chaque ennemi touché voit ses faiblesses dévoilées, réduisant leur Armure de 70% pendant 8s.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Shuriken_Chercheur"
+        },
+        "pt": {
+            "item_name": "Seeking Shuriken",
+            "description": "Ampliação Shuriken: inimigos atingidos pela habilidade terão suas fraquezas reveladas, reduzindo sua Armadura em 70% durante 8s.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Seeking_Shuriken"
+        },
+        "zh-hans": {
+            "item_name": "削甲手里剑",
+            "description": "手里剑强化：敌人被击中后其弱点将被暴露在外，于 8 秒内降低 70% 护甲。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Seeking_Shuriken"
+        },
+        "zh-hant": {
+            "item_name": "削甲手裡劍",
+            "description": "手裡劍強化：敵人被擊中後其弱點將被暴露在外，於 8 秒內降低 70% 護甲。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Seeking_Shuriken"
+        },
+        "es": {
+            "item_name": "Shuriken Buscador",
+            "description": "Aumento de Shuriken: los impactos exponen las debilidades de los enemigos, reduciendo su armadura en 70% por 8s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Shuriken_buscador"
+        },
+        "it": {
+            "item_name": "Seeking Shuriken",
+            "description": "Potenziamento Shuriken: I colpi espongono i punti deboli dei nemici, riducendone l'Armatura del 70% per 8s.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Seeking_Shuriken"
+        },
+        "pl": {
+            "item_name": "Poszukujący Shuriken",
+            "description": "Modyfikacja Shurikena: Trafienie odsłania słabości wrogów, zmniejszając ich pancerz o 70% przez 8s.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Poszukuj%C4%85cy_Shuriken"
+        },
+        "uk": {
+            "item_name": "Сюрикен-Шукач",
+            "description": "Розширення здібності «Сюрикен»: влучання виявляє слабкі місця ворогів, послаблюючи їхній захист на 70% впродовж 8 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Seeking_Shuriken"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiSpeed"
     },
-    "en": {
-        "item_name": "Conic Nozzle",
-        "description": "+38.3% Speed",
-        "wiki_link": "https://warframe.fandom.com/wiki/Conic_Nozzle"
-    },
-    "ru": {
-        "item_name": "Коническое Сопло",
-        "description": "+38.3% к скорости",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%A1%D0%BE%D0%BF%D0%BB%D0%BE"
-    },
-    "ko": {
-        "item_name": "코닉 노즐",
-        "description": "+38.3% 속도",
-        "wiki_link": "https://warframe.fandom.com/wiki/Conic_Nozzle"
-    },
-    "de": {
-        "item_name": "Konische Düse",
-        "description": "+38.3 % Geschwindigkeit",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Conic_Nozzle"
-    },
-    "fr": {
-        "item_name": "Jet Conique",
-        "description": "+38.3% de Vitesse",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Jet_Conique"
-    },
-    "pt": {
-        "item_name": "Bocal Cônico",
-        "description": "+38.3% de Velocidade",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Conic_Nozzle"
-    },
-    "zh-hans": {
-        "item_name": "锥型推进器",
-        "description": "+38.3% 移动速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Conic_Nozzle"
-    },
-    "zh-hant": {
-        "item_name": "圓錐噴管",
-        "description": "+38.3% 速度",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Conic_Nozzle"
-    },
-    "es": {
-        "item_name": "Boquilla Cónica",
-        "description": "+38.3 % de velocidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Boquilla_c%C3%B3nica"
-    },
-    "it": {
-        "item_name": "Conic Nozzle",
-        "description": "+38.3% Velocità",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Conic_Nozzle"
-    },
-    "pl": {
-        "item_name": "Dysza Stożkowa",
-        "description": "+38.3% Szybkość",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Conic_Nozzle"
-    },
-    "uk": {
-        "item_name": "Конічне Сопло",
-        "description": "+38.3% до швидкості.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Conic_Nozzle"
+    "i18n": {
+        "en": {
+            "item_name": "Conic Nozzle",
+            "description": "+38.3% Speed",
+            "wiki_link": "https://warframe.fandom.com/wiki/Conic_Nozzle",
+            "icon": "items/images/en/conic_nozzle.2a28d8acc04a19e0e5caae4c447db6f9.png",
+            "thumb": "items/images/en/thumbs/conic_nozzle.2a28d8acc04a19e0e5caae4c447db6f9.128x128.png"
+        },
+        "ru": {
+            "item_name": "Коническое Сопло",
+            "description": "+38.3% к скорости",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%A1%D0%BE%D0%BF%D0%BB%D0%BE"
+        },
+        "ko": {
+            "item_name": "코닉 노즐",
+            "description": "+38.3% 속도",
+            "wiki_link": "https://warframe.fandom.com/wiki/Conic_Nozzle"
+        },
+        "de": {
+            "item_name": "Konische Düse",
+            "description": "+38.3 % Geschwindigkeit",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Conic_Nozzle"
+        },
+        "fr": {
+            "item_name": "Jet Conique",
+            "description": "+38.3% de Vitesse",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Jet_Conique"
+        },
+        "pt": {
+            "item_name": "Bocal Cônico",
+            "description": "+38.3% de Velocidade",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Conic_Nozzle"
+        },
+        "zh-hans": {
+            "item_name": "锥型推进器",
+            "description": "+38.3% 移动速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Conic_Nozzle"
+        },
+        "zh-hant": {
+            "item_name": "圓錐噴管",
+            "description": "+38.3% 速度",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Conic_Nozzle"
+        },
+        "es": {
+            "item_name": "Boquilla Cónica",
+            "description": "+38.3 % de velocidad",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Boquilla_c%C3%B3nica"
+        },
+        "it": {
+            "item_name": "Conic Nozzle",
+            "description": "+38.3% Velocità",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Conic_Nozzle"
+        },
+        "pl": {
+            "item_name": "Dysza Stożkowa",
+            "description": "+38.3% Szybkość",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Conic_Nozzle"
+        },
+        "uk": {
+            "item_name": "Конічне Сопло",
+            "description": "+38.3% до швидкості.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Conic_Nozzle"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

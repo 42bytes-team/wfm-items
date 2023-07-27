@@ -23,65 +23,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Sheev Blueprint",
-        "description": "Built for close combat, the Sheev's plasma blade slices through flesh and armor with equal ease.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sheev"
-    },
-    "ru": {
-        "item_name": "Шиив (Чертеж)",
-        "description": "Созданный для ближнего боя, плазменный клинок «Шиив» разрезает плоть и броню с одинаковой легкостью.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D0%B8%D0%B8%D0%B2"
-    },
-    "ko": {
-        "item_name": "쉬브 설계도",
-        "description": "근접전을 위해 제작된 쉬브의 플라즈마 칼날은 갑옷을 살점과도 같이, 살점을 공기와도 같이 베어냅니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sheev"
-    },
-    "de": {
-        "item_name": "Sheev Blaupause",
-        "description": "Gebaut für den Nahkampf, schneidet die Plasma-Klinge des Sheev gleichermaßen mühelos durch Panzerung und Fleisch.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Sheev"
-    },
-    "fr": {
-        "item_name": "Sheev (Schéma)",
-        "description": "Conçue pour le combat rapproché, la lame plasma du Sheev découpe la chair et les armures avec la même aisance.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Sheev"
-    },
-    "pt": {
-        "item_name": "Sheev (Diagrama)",
-        "description": "Feita para combate corpo a corpo, a lâmina de plasma da Sheev corta através de carne e Armadura com a mesma facilidade.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sheev"
-    },
-    "zh-hans": {
-        "item_name": "希芙 蓝图",
-        "description": "（英文：SHEEV）专为近身战斗设计，希芙的等离子刀刃能轻而易举切开肉体与护甲。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sheev"
-    },
-    "zh-hant": {
-        "item_name": "希芙 藍圖",
-        "description": "（英文：SHEEV）專為近身戰鬥設計，希芙的電漿刀刃能輕而易舉切開肉體與盔甲。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Sheev"
-    },
-    "es": {
-        "item_name": "Plano de Sheev",
-        "description": "Creada para el combate cercano, la hoja de plasma de la Sheev corta a través de carne y armadura con idéntica facilidad.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Sheev"
-    },
-    "it": {
-        "item_name": "Sheev (Schema)",
-        "description": "La lama al plasma della SHEEV eccelle nel combattimento ravvicinato, facendo a fette le corazze con la stessa facilità della carne.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Sheev"
-    },
-    "pl": {
-        "item_name": "Sheev - Schemat",
-        "description": "Stworzony do walki wręcz, plazmowe ostrze noża Sheev z równą łatwością przecina ciało jak i pancerz.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Sheev"
-    },
-    "uk": {
-        "item_name": "Шив (креслення)",
-        "description": "Кинджал із плазмовим лезом, що з легкістю прорізає як плоть, так і обладунки. Створений для близького бою.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Sheev"
+    "i18n": {
+        "en": {
+            "item_name": "Sheev Blueprint",
+            "description": "Built for close combat, the Sheev's plasma blade slices through flesh and armor with equal ease.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sheev",
+            "icon": "items/images/en/sheev_blueprint.96c63b432f3d71f2bf5918e9f8d721fa.png",
+            "thumb": "items/images/en/thumbs/sheev_blueprint.96c63b432f3d71f2bf5918e9f8d721fa.128x128.png"
+        },
+        "ru": {
+            "item_name": "Шиив (Чертеж)",
+            "description": "Созданный для ближнего боя, плазменный клинок «Шиив» разрезает плоть и броню с одинаковой легкостью.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D0%B8%D0%B8%D0%B2"
+        },
+        "ko": {
+            "item_name": "쉬브 설계도",
+            "description": "근접전을 위해 제작된 쉬브의 플라즈마 칼날은 갑옷을 살점과도 같이, 살점을 공기와도 같이 베어냅니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sheev"
+        },
+        "de": {
+            "item_name": "Sheev Blaupause",
+            "description": "Gebaut für den Nahkampf, schneidet die Plasma-Klinge des Sheev gleichermaßen mühelos durch Panzerung und Fleisch.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Sheev"
+        },
+        "fr": {
+            "item_name": "Sheev (Schéma)",
+            "description": "Conçue pour le combat rapproché, la lame plasma du Sheev découpe la chair et les armures avec la même aisance.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Sheev"
+        },
+        "pt": {
+            "item_name": "Sheev (Diagrama)",
+            "description": "Feita para combate corpo a corpo, a lâmina de plasma da Sheev corta através de carne e Armadura com a mesma facilidade.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Sheev"
+        },
+        "zh-hans": {
+            "item_name": "希芙 蓝图",
+            "description": "（英文：SHEEV）专为近身战斗设计，希芙的等离子刀刃能轻而易举切开肉体与护甲。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sheev"
+        },
+        "zh-hant": {
+            "item_name": "希芙 藍圖",
+            "description": "（英文：SHEEV）專為近身戰鬥設計，希芙的電漿刀刃能輕而易舉切開肉體與盔甲。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sheev"
+        },
+        "es": {
+            "item_name": "Plano de Sheev",
+            "description": "Creada para el combate cercano, la hoja de plasma de la Sheev corta a través de carne y armadura con idéntica facilidad.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sheev"
+        },
+        "it": {
+            "item_name": "Sheev (Schema)",
+            "description": "La lama al plasma della SHEEV eccelle nel combattimento ravvicinato, facendo a fette le corazze con la stessa facilità della carne.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Sheev"
+        },
+        "pl": {
+            "item_name": "Sheev - Schemat",
+            "description": "Stworzony do walki wręcz, plazmowe ostrze noża Sheev z równą łatwością przecina ciało jak i pancerz.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Sheev"
+        },
+        "uk": {
+            "item_name": "Шив (креслення)",
+            "description": "Кинджал із плазмовим лезом, що з легкістю прорізає як плоть, так і обладунки. Створений для близького бою.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Sheev"
+        }
     },
     "mastery_level": 5,
     "trading_tax": 2000

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/PoisonEventPistolMod"
     },
-    "en": {
-        "item_name": "Pistol Pestilence",
-        "description": "+60% Toxin\n+60% Status Chance",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Pestilence"
-    },
-    "ru": {
-        "item_name": "Чумной Пистолет",
-        "description": "+60% урона токсином\n+60% к шансу статуса",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A7%D1%83%D0%BC%D0%BD%D0%BE%D0%B9_%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
-        "icon": "items/images/ru/pistol_pestilence.1efd228a723537fc2e42c4bc48260c2b.png",
-        "thumb": "items/images/ru/thumbs/pistol_pestilence.1efd228a723537fc2e42c4bc48260c2b.128x128.png"
-    },
-    "ko": {
-        "item_name": "피스톨 페스틸런스",
-        "description": "+60% 독성\n+60% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Pestilence"
-    },
-    "de": {
-        "item_name": "Pistolen Pestilenz",
-        "description": "+60 % Gift\n+60 % Statuschance",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pistolen_Pestilenz"
-    },
-    "fr": {
-        "item_name": "Pistolet De Peste",
-        "description": "+60% Poison\n+60% de Chances de Statut",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pistolet_de_Peste"
-    },
-    "pt": {
-        "item_name": "Pistol Pestilence",
-        "description": "+60% de Tóxico\n+60% de Chance de Status",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pistol_Pestilence"
-    },
-    "zh-hans": {
-        "item_name": "瘟疫手枪",
-        "description": "+60% 毒素伤害\n+60% 触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pistol_Pestilence"
-    },
-    "zh-hant": {
-        "item_name": "瘟疫手槍",
-        "description": "+60% 毒素傷害\n+60% 觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pistol_Pestilence"
-    },
-    "es": {
-        "item_name": "Pestilencia De Pistola",
-        "description": "+60% de toxina\n+60% de probabilidad de estado",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Pestilencia_de_pistola"
-    },
-    "it": {
-        "item_name": "Pistol Pestilence",
-        "description": "+60% Tossina\n+60% Probabilità Effetto",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Pistol_Pestilence"
-    },
-    "pl": {
-        "item_name": "Pistoletowa Zaraza",
-        "description": "+60% Obrażeń Toksycznych\n+60% Szansa Statusu",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Pestilence"
-    },
-    "uk": {
-        "item_name": "Бубонний Пістолет",
-        "description": "+60% токсичної шкоди.\n+60% до ймовірності застосування ефекту стану.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Pestilence"
+    "i18n": {
+        "en": {
+            "item_name": "Pistol Pestilence",
+            "description": "+60% Toxin\n+60% Status Chance",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Pestilence",
+            "icon": "items/images/en/pistol_pestilence.ff61efb2028ea3b8aa22bf9b7b94f32f.png",
+            "thumb": "items/images/en/thumbs/pistol_pestilence.ff61efb2028ea3b8aa22bf9b7b94f32f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Чумной Пистолет",
+            "description": "+60% урона токсином\n+60% к шансу статуса",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A7%D1%83%D0%BC%D0%BD%D0%BE%D0%B9_%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
+            "icon": "items/images/ru/pistol_pestilence.1efd228a723537fc2e42c4bc48260c2b.png",
+            "thumb": "items/images/ru/thumbs/pistol_pestilence.1efd228a723537fc2e42c4bc48260c2b.128x128.png"
+        },
+        "ko": {
+            "item_name": "피스톨 페스틸런스",
+            "description": "+60% 독성\n+60% 상태 이상 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Pestilence"
+        },
+        "de": {
+            "item_name": "Pistolen Pestilenz",
+            "description": "+60 % Gift\n+60 % Statuschance",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Pistolen_Pestilenz"
+        },
+        "fr": {
+            "item_name": "Pistolet De Peste",
+            "description": "+60% Poison\n+60% de Chances de Statut",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Pistolet_de_Peste"
+        },
+        "pt": {
+            "item_name": "Pistol Pestilence",
+            "description": "+60% de Tóxico\n+60% de Chance de Status",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pistol_Pestilence"
+        },
+        "zh-hans": {
+            "item_name": "瘟疫手枪",
+            "description": "+60% 毒素伤害\n+60% 触发几率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pistol_Pestilence"
+        },
+        "zh-hant": {
+            "item_name": "瘟疫手槍",
+            "description": "+60% 毒素傷害\n+60% 觸發機率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pistol_Pestilence"
+        },
+        "es": {
+            "item_name": "Pestilencia De Pistola",
+            "description": "+60% de toxina\n+60% de probabilidad de estado",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Pestilencia_de_pistola"
+        },
+        "it": {
+            "item_name": "Pistol Pestilence",
+            "description": "+60% Tossina\n+60% Probabilità Effetto",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Pistol_Pestilence"
+        },
+        "pl": {
+            "item_name": "Pistoletowa Zaraza",
+            "description": "+60% Obrażeń Toksycznych\n+60% Szansa Statusu",
+            "wiki_link": "http://warframe.wikia.com/wiki/Pistol_Pestilence"
+        },
+        "uk": {
+            "item_name": "Бубонний Пістолет",
+            "description": "+60% токсичної шкоди\n+60% до ймовірності накладання ефекту стану",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pistol_Pestilence"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

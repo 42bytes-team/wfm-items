@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Volt/ShockAugmentCard"
     },
-    "en": {
-        "item_name": "Shock Trooper",
-        "description": "Shock Augment: Hold to cast will grant all allies within 15m an additional 100% Electricity Damage to their attacks for 40s.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shock_Trooper"
-    },
-    "ru": {
-        "item_name": "Шоковый Пехотинец",
-        "description": "Улучшение способности «Шок»: удержание кнопки активации добавит союзникам в радиусе 15 м 100% урона электричеством к их атакам на 40 с.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%9F%D0%B5%D1%85%D0%BE%D1%82%D0%B8%D0%BD%D0%B5%D1%86",
-        "icon": "items/images/ru/shock_trooper.07e77085524f4a64d7215d1555d7bf2b.png",
-        "thumb": "items/images/ru/thumbs/shock_trooper.07e77085524f4a64d7215d1555d7bf2b.128x128.png"
-    },
-    "ko": {
-        "item_name": "쇼크 트루퍼",
-        "description": "쇼크 개조: 길게 눌러 시전할 시 15m 범위 내 모든 아군들의 공격에 40초 동안 100%의 추가 전기 피해를 부여합니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shock_Trooper"
-    },
-    "de": {
-        "item_name": "Schocktruppe",
-        "description": "Schock Augment: Aufgeladenes Ausführen, bietet Verbündeten innerhalb von 15 m zusätzlich 100 % Elektrizitätsschaden für ihre Angriffe für 40 s.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Schocktruppe"
-    },
-    "fr": {
-        "item_name": "Unité De Choc",
-        "description": "Augmentation Choc: Maintenir ajoutera 100% de Dégâts Électriques supplémentaires pendant 40s aux attaques des alliés dans un rayon de 15m.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Unit%C3%A9_de_Choc"
-    },
-    "pt": {
-        "item_name": "Shock Trooper",
-        "description": "Ampliação Shock: segurar o botão da habilidade fornecerá 100% Dano Elétrico adicional para o Volt e seus aliados no raio de 15m durante 40s.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shock_Trooper"
-    },
-    "zh-hans": {
-        "item_name": "电击奇兵",
-        "description": "电击强化：对队友施展技能，能使 15 米范围内队友的攻击增加 100% 电击伤害，持续 40 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shock_Trooper"
-    },
-    "zh-hant": {
-        "item_name": "電擊震盪",
-        "description": "電擊強化：長按技能鍵可使 15 公尺範圍內盟友的攻擊附加 100% 電擊傷害，持續 40 秒。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Shock_Trooper"
-    },
-    "es": {
-        "item_name": "Tropa De Choque",
-        "description": "Aumento de Sacudida: mantén para otorgar a todos los aliados dentro de 15 m un 100 % de daño de electricidad a sus ataques por 40 s.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tropa_de_choque"
-    },
-    "it": {
-        "item_name": "Shock Trooper",
-        "description": "Potenziamento Shock: Tenere premuto per l'utilizzo garantirà a tutti gli alleati nel raggio di 15m un ulteriore 100% di Danno Elettrico sui loro attacchi per 40s.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Trooper"
-    },
-    "pl": {
-        "item_name": "Elektrowstrząs",
-        "description": "Modyfikacja Porażenia: użycie na sojusznikach doda sojusznikom w zasięgu 15m 100% obrażeń Elektrycznych do ich ataków na 40s.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Elektrowstrz%C4%85s"
-    },
-    "uk": {
-        "item_name": "Шоковий Десантник",
-        "description": "Розширення здібності «Шок»: утримуйте, щоби дати атакам союзників у межах 15 м додатково 100% електричної шкоди на 40 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Shock_Trooper"
+    "i18n": {
+        "en": {
+            "item_name": "Shock Trooper",
+            "description": "Shock Augment: Hold to cast will grant all allies within 15m an additional 100% Electricity Damage to their attacks for 40s.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shock_Trooper",
+            "icon": "items/images/en/shock_trooper.c7ff5b51ab859ff72643c66b6349af52.png",
+            "thumb": "items/images/en/thumbs/shock_trooper.c7ff5b51ab859ff72643c66b6349af52.128x128.png"
+        },
+        "ru": {
+            "item_name": "Шоковый Пехотинец",
+            "description": "Улучшение способности «Шок»: удержание кнопки активации добавит союзникам в радиусе 15 м 100% урона электричеством к их атакам на 40 с.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%9F%D0%B5%D1%85%D0%BE%D1%82%D0%B8%D0%BD%D0%B5%D1%86",
+            "icon": "items/images/ru/shock_trooper.07e77085524f4a64d7215d1555d7bf2b.png",
+            "thumb": "items/images/ru/thumbs/shock_trooper.07e77085524f4a64d7215d1555d7bf2b.128x128.png"
+        },
+        "ko": {
+            "item_name": "쇼크 트루퍼",
+            "description": "쇼크 개조: 길게 눌러 시전할 시 15m 범위 내 모든 아군들의 공격에 40초 동안 100%의 추가 전기 피해를 부여합니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shock_Trooper"
+        },
+        "de": {
+            "item_name": "Schocktruppe",
+            "description": "Schock Augment: Aufgeladenes Ausführen, bietet Verbündeten innerhalb von 15 m zusätzlich 100 % Elektrizitätsschaden für ihre Angriffe für 40 s.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Schocktruppe"
+        },
+        "fr": {
+            "item_name": "Unité De Choc",
+            "description": "Augmentation Choc: Maintenir ajoutera 100% de Dégâts Électriques supplémentaires pendant 40s aux attaques des alliés dans un rayon de 15m.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Unit%C3%A9_de_Choc"
+        },
+        "pt": {
+            "item_name": "Shock Trooper",
+            "description": "Ampliação Shock: segurar o botão da habilidade fornecerá 100% Dano Elétrico adicional para o Volt e seus aliados no raio de 15m durante 40s.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Shock_Trooper"
+        },
+        "zh-hans": {
+            "item_name": "电击奇兵",
+            "description": "电击强化：对队友施展技能，能使 15 米范围内队友的攻击增加 100% 电击伤害，持续 40 秒。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Shock_Trooper"
+        },
+        "zh-hant": {
+            "item_name": "電擊震盪",
+            "description": "電擊強化：長按技能鍵可使 15 公尺範圍內盟友的攻擊附加 100% 電擊傷害，持續 40 秒。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Shock_Trooper"
+        },
+        "es": {
+            "item_name": "Tropa De Choque",
+            "description": "Aumento de Sacudida: mantén para otorgar a todos los aliados dentro de 15 m un 100 % de daño de electricidad a sus ataques por 40 s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tropa_de_choque"
+        },
+        "it": {
+            "item_name": "Shock Trooper",
+            "description": "Potenziamento Shock: Tenere premuto per l'utilizzo garantirà a tutti gli alleati nel raggio di 15m un ulteriore 100% di Danno Elettrico sui loro attacchi per 40s.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Trooper"
+        },
+        "pl": {
+            "item_name": "Elektrowstrząs",
+            "description": "Modyfikacja Porażenia: użycie na sojusznikach doda sojusznikom w zasięgu 15m 100% obrażeń Elektrycznych do ich ataków na 40s.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Elektrowstrz%C4%85s"
+        },
+        "uk": {
+            "item_name": "Шоковий Десантник",
+            "description": "Розширення здібності «Шок»: утримуйте, щоби дати атакам союзників у межах 15 м додатково 100% електричної шкоди на 40 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Shock_Trooper"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

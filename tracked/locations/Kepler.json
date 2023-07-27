@@ -9,52 +9,54 @@
     "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
     "min_level": 12,
     "max_level": 14,
-    "en": {
-        "node_name": "Kepler",
-        "system_name": "Phobos"
-    },
-    "ru": {
-        "node_name": "Kepler",
-        "system_name": "Фобос"
-    },
-    "ko": {
-        "node_name": "Kepler",
-        "system_name": "포보스"
-    },
-    "de": {
-        "node_name": "Kepler",
-        "system_name": "Phobos"
-    },
-    "fr": {
-        "node_name": "Kepler",
-        "system_name": "Phobos"
-    },
-    "pt": {
-        "node_name": "Kepler",
-        "system_name": "Fobos"
-    },
-    "zh-hans": {
-        "node_name": "Kepler",
-        "system_name": "火卫一"
-    },
-    "zh-hant": {
-        "node_name": "Kepler",
-        "system_name": "火衛一"
-    },
-    "es": {
-        "node_name": "Kepler",
-        "system_name": "Fobos"
-    },
-    "it": {
-        "node_name": "Kepler",
-        "system_name": "Phobos"
-    },
-    "pl": {
-        "node_name": "Kepler",
-        "system_name": "Fobos"
-    },
-    "uk": {
-        "node_name": "Кеплер",
-        "system_name": "Фобос"
+    "i18n": {
+        "en": {
+            "node_name": "Kepler",
+            "system_name": "Phobos"
+        },
+        "ru": {
+            "node_name": "Kepler",
+            "system_name": "Фобос"
+        },
+        "ko": {
+            "node_name": "Kepler",
+            "system_name": "포보스"
+        },
+        "de": {
+            "node_name": "Kepler",
+            "system_name": "Phobos"
+        },
+        "fr": {
+            "node_name": "Kepler",
+            "system_name": "Phobos"
+        },
+        "pt": {
+            "node_name": "Kepler",
+            "system_name": "Fobos"
+        },
+        "zh-hans": {
+            "node_name": "Kepler",
+            "system_name": "火卫一"
+        },
+        "zh-hant": {
+            "node_name": "Kepler",
+            "system_name": "火衛一"
+        },
+        "es": {
+            "node_name": "Kepler",
+            "system_name": "Fobos"
+        },
+        "it": {
+            "node_name": "Kepler",
+            "system_name": "Phobos"
+        },
+        "pl": {
+            "node_name": "Kepler",
+            "system_name": "Fobos"
+        },
+        "uk": {
+            "node_name": "Кеплер",
+            "system_name": "Фобос"
+        }
     }
 }

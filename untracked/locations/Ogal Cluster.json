@@ -9,52 +9,54 @@
     "thumb": "locations/images/thumbs/earth.608f116848b865847123226a9a7babdf.128x128.png",
     "min_level": null,
     "max_level": null,
-    "en": {
-        "node_name": "Ogal Cluster",
-        "system_name": "Earth"
-    },
-    "ru": {
-        "node_name": "Ogal Cluster",
-        "system_name": "Земля"
-    },
-    "ko": {
-        "node_name": "Ogal Cluster",
-        "system_name": "지구"
-    },
-    "de": {
-        "node_name": "Ogal Cluster",
-        "system_name": "Erde"
-    },
-    "fr": {
-        "node_name": "Ogal Cluster",
-        "system_name": "Terre"
-    },
-    "pt": {
-        "node_name": "Ogal Cluster",
-        "system_name": "Terra"
-    },
-    "zh-hans": {
-        "node_name": "Ogal Cluster",
-        "system_name": "地球"
-    },
-    "zh-hant": {
-        "node_name": "Ogal Cluster",
-        "system_name": "地球"
-    },
-    "es": {
-        "node_name": "Ogal Cluster",
-        "system_name": "Tierra"
-    },
-    "it": {
-        "node_name": "Ogal Cluster",
-        "system_name": "Terra"
-    },
-    "pl": {
-        "node_name": "Ogal Cluster",
-        "system_name": "Ziemia"
-    },
-    "uk": {
-        "node_name": "Скупчення Оґала",
-        "system_name": "Земля"
+    "i18n": {
+        "en": {
+            "node_name": "Ogal Cluster",
+            "system_name": "Earth"
+        },
+        "ru": {
+            "node_name": "Ogal Cluster",
+            "system_name": "Земля"
+        },
+        "ko": {
+            "node_name": "Ogal Cluster",
+            "system_name": "지구"
+        },
+        "de": {
+            "node_name": "Ogal Cluster",
+            "system_name": "Erde"
+        },
+        "fr": {
+            "node_name": "Ogal Cluster",
+            "system_name": "Terre"
+        },
+        "pt": {
+            "node_name": "Ogal Cluster",
+            "system_name": "Terra"
+        },
+        "zh-hans": {
+            "node_name": "Ogal Cluster",
+            "system_name": "地球"
+        },
+        "zh-hant": {
+            "node_name": "Ogal Cluster",
+            "system_name": "地球"
+        },
+        "es": {
+            "node_name": "Ogal Cluster",
+            "system_name": "Tierra"
+        },
+        "it": {
+            "node_name": "Ogal Cluster",
+            "system_name": "Terra"
+        },
+        "pl": {
+            "node_name": "Ogal Cluster",
+            "system_name": "Ziemia"
+        },
+        "uk": {
+            "node_name": "Скупчення Оґала",
+            "system_name": "Земля"
+        }
     }
 }

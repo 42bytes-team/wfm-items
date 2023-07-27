@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponIncreaseRadialExplosionModExpert"
     },
-    "en": {
-        "item_name": "Primed Firestorm",
-        "description": "Improves the Blast Radius of weapons with Radial Attacks. +44% Blast Radius",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Firestorm"
-    },
-    "ru": {
-        "item_name": "Огненный Шторм Прайм",
-        "description": "Увеличивает радиус взрыва снарядов оружия с атакой по площади. +44% радиус взрыва",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%A8%D1%82%D0%BE%D1%80%D0%BC_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
-    },
-    "ko": {
-        "item_name": "프라임드 파이어스톰",
-        "description": "범위 공격 무기의 폭발 반경을 향상시킵니다. +44% 폭발 범위 증가",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Firestorm"
-    },
-    "de": {
-        "item_name": "Primed Feuersturm",
-        "description": "Verbessert den Explosionsradius von Waffen mit radialen Angriffen. +44 % Explosionsradius",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Feuersturm"
-    },
-    "fr": {
-        "item_name": "Tempête De Feu Accrue",
-        "description": "Améliore le rayon d'explosion des armes avec attaques radiales. +44% de Rayon d'Explosion",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_de_Feu_Accrue"
-    },
-    "pt": {
-        "item_name": "Primed Firestorm",
-        "description": "Melhora o Raio da Explosão das armas com Ataques Radiais. +44% de Raio da Explosão",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Firestorm"
-    },
-    "zh-hans": {
-        "item_name": "烈焰风暴 Prime",
-        "description": "提高范围攻击武器的爆炸半径。 +44% 爆炸半径",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Firestorm"
-    },
-    "zh-hant": {
-        "item_name": "烈焰風暴 Prime",
-        "description": "增加範圍攻擊武器的爆裂半徑。 +44% 爆炸半徑",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Firestorm"
-    },
-    "es": {
-        "item_name": "Tormenta De Fuego Prime",
-        "description": "Mejora el radio de explosión de las armas con ataques radiales. +44% de radio de explosión",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Tormenta_de_fuego"
-    },
-    "it": {
-        "item_name": "Primed Firestorm",
-        "description": "Migliora il Raggio di Esplosione delle armi con Attacchi Radiali. +44% Raggio Esplosione",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Primed_Vigor"
-    },
-    "pl": {
-        "item_name": "Burza Ognia Prime",
-        "description": "Zwiększa zasięg wybuchu broni z Atakiem Radialnym. +44% Promienia Rażenia",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Burza_Ognia"
-    },
-    "uk": {
-        "item_name": "Праймований Вогнешторм",
-        "description": "Збільшує радіус вибуху у зброї, яка має атаку по площі. +44% до радіуса вибуху.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Firestorm"
+    "i18n": {
+        "en": {
+            "item_name": "Primed Firestorm",
+            "description": "Improves the Blast Radius of weapons with Radial Attacks. +44% Blast Radius",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Firestorm",
+            "icon": "items/images/en/primed_firestorm.37a27c8080456fbe614ced671beed66b.png",
+            "thumb": "items/images/en/thumbs/primed_firestorm.37a27c8080456fbe614ced671beed66b.128x128.png"
+        },
+        "ru": {
+            "item_name": "Огненный Шторм Прайм",
+            "description": "Увеличивает радиус взрыва снарядов оружия с атакой по площади. +44% радиус взрыва",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%A8%D1%82%D0%BE%D1%80%D0%BC_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC"
+        },
+        "ko": {
+            "item_name": "프라임드 파이어스톰",
+            "description": "범위 공격 무기의 폭발 반경을 향상시킵니다. +44% 폭발 범위 증가",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Firestorm"
+        },
+        "de": {
+            "item_name": "Primed Feuersturm",
+            "description": "Verbessert den Explosionsradius von Waffen mit radialen Angriffen. +44 % Explosionsradius",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Feuersturm"
+        },
+        "fr": {
+            "item_name": "Tempête De Feu Accrue",
+            "description": "Améliore le rayon d'explosion des armes avec attaques radiales. +44% de Rayon d'Explosion",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_de_Feu_Accrue"
+        },
+        "pt": {
+            "item_name": "Primed Firestorm",
+            "description": "Melhora o Raio da Explosão das armas com Ataques Radiais. +44% de Raio da Explosão",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Firestorm"
+        },
+        "zh-hans": {
+            "item_name": "烈焰风暴 Prime",
+            "description": "提高范围攻击武器的爆炸半径。 +44% 爆炸半径",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Firestorm"
+        },
+        "zh-hant": {
+            "item_name": "烈焰風暴 Prime",
+            "description": "增加範圍攻擊武器的爆裂半徑。 +44% 爆炸半徑",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Firestorm"
+        },
+        "es": {
+            "item_name": "Tormenta De Fuego Prime",
+            "description": "Mejora el radio de explosión de las armas con ataques radiales. +44% de radio de explosión",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Tormenta_de_fuego"
+        },
+        "it": {
+            "item_name": "Primed Firestorm",
+            "description": "Migliora il Raggio di Esplosione delle armi con Attacchi Radiali. +44% Raggio Esplosione",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Primed_Vigor"
+        },
+        "pl": {
+            "item_name": "Burza Ognia Prime",
+            "description": "Zwiększa zasięg wybuchu broni z Atakiem Radialnym. +44% Promienia Rażenia",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Burza_Ognia"
+        },
+        "uk": {
+            "item_name": "Праймований Вогнешторм",
+            "description": "Збільшує радіус вибуху у зброї, яка має атаку по площі. +44% до дальності вибуху",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Firestorm"
+        }
     },
     "rarity": "legendary",
     "max_rank": 10,

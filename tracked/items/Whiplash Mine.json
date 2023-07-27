@@ -14,68 +14,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaTetherVaccumMinePrecept"
     },
-    "en": {
-        "item_name": "Whiplash Mine",
-        "description": "Deploys a mine that tethers all enemies in 20m. After 3s, all enemies still in range get pulled to the mine.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
-    },
-    "ru": {
-        "item_name": "Кнутовая Мина",
-        "description": "Размещает мину, которая опутывает всех врагов в радиусе 20м. По истечении 3с все враги внутри зоны поражения притягиваются к мине.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BD%D1%83%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%9C%D0%B8%D0%BD%D0%B0",
-        "icon": "items/images/ru/whiplash_mine.39e15113515ae4be3ad64495ddf848df.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/whiplash_mine.39e15113515ae4be3ad64495ddf848df.128x128.png"
-    },
-    "ko": {
-        "item_name": "윕래쉬 마인",
-        "description": "20m 내의 모든 적을 묶는 지뢰를 발사합니다. 3초 후, 범위 안에 남아있는 모든 적을 지뢰로 끌어옵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
-    },
-    "de": {
-        "item_name": "Schleudertrauma-Mine",
-        "description": "Setzt eine Mine ein, die sich mit allen Gegner in 20 m verbindet. Nach 3 s werden alle Gegner, die noch in Reichweite sind, zur Mine gezogen.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
-    },
-    "fr": {
-        "item_name": "Mine Choc",
-        "description": "Déploie une mine qui lie tous les ennemis dans un rayon de 20m. Après 3s, tous les ennemis encore à portée sont attirés vers la mine.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
-    },
-    "pt": {
-        "item_name": "Whiplash Mine",
-        "description": "Disparará uma mina que se conecta em todos os inimigos no raio de 20m. Após 3s, todos os inimigos no alcance serão puxados para a mina.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
-    },
-    "zh-hans": {
-        "item_name": "牵绳机雷",
-        "description": "设置一枚机雷牵制半径 20米内的敌人。3 秒后将范围内的敌人拉向机雷。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Whiplash_Mine"
-    },
-    "zh-hant": {
-        "item_name": "牽繩機雷",
-        "description": "設置一枚機雷牽制半徑 20公尺內的敵人。3 秒後將範圍內的敵人拉向機雷。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Whiplash_Mine"
-    },
-    "es": {
-        "item_name": "Mina De Traumatismo",
-        "description": "Despliega una mina que ancla a todos los enemigos a 20m. Luego de 3s, todos los enemigos que siguen en el rango son halados hacia la mina.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Mina_de_traumatismo"
-    },
-    "it": {
-        "item_name": "Whiplash Mine",
-        "description": "Piazza una mina che si aggancia ai nemici entro 20m. Dopo 3s, tutti i nemici ancora nel raggio d'azione vengono trascinati verso la mina.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
-    },
-    "pl": {
-        "item_name": "Mina Wiążąca",
-        "description": "Stawia minę, która związuje wszystkich wrogów w promieniu 20m. Po 3s wszyscy wrogowie wciąż znajdujący się w zasięgu zostaną przyciągnięci do miny.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
-    },
-    "uk": {
-        "item_name": "Притягувальна Міна",
-        "description": "Ставляться міни, які зв’язують ворогів у межах 20 м. Через 3 с зв’язані вороги притягуються до міни.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
+    "i18n": {
+        "en": {
+            "item_name": "Whiplash Mine",
+            "description": "Deploys a mine that tethers all enemies in 20m. After 3s, all enemies still in range get pulled to the mine.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine",
+            "icon": "items/images/en/whiplash_mine.456875d6f4b1d774c8f880dca0bf9975.png",
+            "thumb": "items/images/en/thumbs/whiplash_mine.456875d6f4b1d774c8f880dca0bf9975.128x128.png"
+        },
+        "ru": {
+            "item_name": "Кнутовая Мина",
+            "description": "Размещает мину, которая опутывает всех врагов в радиусе 20м. По истечении 3с все враги внутри зоны поражения притягиваются к мине.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%BD%D1%83%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%9C%D0%B8%D0%BD%D0%B0",
+            "icon": "items/images/ru/whiplash_mine.39e15113515ae4be3ad64495ddf848df.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/whiplash_mine.39e15113515ae4be3ad64495ddf848df.128x128.png"
+        },
+        "ko": {
+            "item_name": "윕래쉬 마인",
+            "description": "20m 내의 모든 적을 묶는 지뢰를 발사합니다. 3초 후, 범위 안에 남아있는 모든 적을 지뢰로 끌어옵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
+        },
+        "de": {
+            "item_name": "Schleudertrauma-Mine",
+            "description": "Setzt eine Mine ein, die sich mit allen Gegner in 20 m verbindet. Nach 3 s werden alle Gegner, die noch in Reichweite sind, zur Mine gezogen.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
+        },
+        "fr": {
+            "item_name": "Mine Choc",
+            "description": "Déploie une mine qui lie tous les ennemis dans un rayon de 20m. Après 3s, tous les ennemis encore à portée sont attirés vers la mine.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
+        },
+        "pt": {
+            "item_name": "Whiplash Mine",
+            "description": "Disparará uma mina que se conecta em todos os inimigos no raio de 20m. Após 3s, todos os inimigos no alcance serão puxados para a mina.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
+        },
+        "zh-hans": {
+            "item_name": "牵绳机雷",
+            "description": "设置一枚机雷牵制半径 20米内的敌人。3 秒后将范围内的敌人拉向机雷。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Whiplash_Mine"
+        },
+        "zh-hant": {
+            "item_name": "牽繩機雷",
+            "description": "設置一枚機雷牽制半徑 20公尺內的敵人。3 秒後將範圍內的敵人拉向機雷。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Whiplash_Mine"
+        },
+        "es": {
+            "item_name": "Mina De Traumatismo",
+            "description": "Despliega una mina que ancla a todos los enemigos a 20m. Luego de 3s, todos los enemigos que siguen en el rango son halados hacia la mina.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Mina_de_traumatismo"
+        },
+        "it": {
+            "item_name": "Whiplash Mine",
+            "description": "Piazza una mina che si aggancia ai nemici entro 20m. Dopo 3s, tutti i nemici ancora nel raggio d'azione vengono trascinati verso la mina.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
+        },
+        "pl": {
+            "item_name": "Mina Wiążąca",
+            "description": "Stawia minę, która związuje wszystkich wrogów w promieniu 20m. Po 3s wszyscy wrogowie wciąż znajdujący się w zasięgu zostaną przyciągnięci do miny.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
+        },
+        "uk": {
+            "item_name": "Притягувальна Міна",
+            "description": "Ставляться міни, які зв’язують ворогів у межах 20 м. Через 3 с зв’язані вороги притягуються до міни.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Whiplash_Mine"
+        }
     },
     "rarity": "common",
     "max_rank": 3,

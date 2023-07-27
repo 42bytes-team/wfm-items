@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponElectricityDamageModExpert"
     },
-    "en": {
-        "item_name": "Primed Charged Shell",
-        "description": "+165% Electricity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Charged_Shell"
-    },
-    "ru": {
-        "item_name": "Заряженные Снаряды Прайм",
-        "description": "+165% урона электричеством",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
-        "icon": "items/images/ru/primed_charged_shell.e16375ca6bd7f0cc28902659b90df1b4.png",
-        "thumb": "items/images/ru/thumbs/primed_charged_shell.e16375ca6bd7f0cc28902659b90df1b4.128x128.png"
-    },
-    "ko": {
-        "item_name": "프라임드 차지드 쉘",
-        "description": "+165% 전기",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Charged_Shell"
-    },
-    "de": {
-        "item_name": "Primed Geladene Patrone",
-        "description": "+165 % Elektrizität",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Aufgeladene_Patrone"
-    },
-    "fr": {
-        "item_name": "Cartouche Chargée Accrue",
-        "description": "+165% Électrique",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cartouche_Charg%C3%A9e_Accrue"
-    },
-    "pt": {
-        "item_name": "Primed Charged Shell",
-        "description": "+165% de Elétrico",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Charged_Shell"
-    },
-    "zh-hans": {
-        "item_name": "充电弹头 Prime",
-        "description": "+165% 电击伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Charged_Shell"
-    },
-    "zh-hant": {
-        "item_name": "充電彈頭 Prime",
-        "description": "+165% 電擊傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Charged_Shell"
-    },
-    "es": {
-        "item_name": "Cartucho Cargado Prime",
-        "description": "+165% de electricidad",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Cartucho_cargado_Prime"
-    },
-    "it": {
-        "item_name": "Primed Charged Shell",
-        "description": "+165% Elettrico",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Charged_Shell"
-    },
-    "pl": {
-        "item_name": "Elektryczny Nabój Prime",
-        "description": "+165% Obrażeń Elektrycznych",
-        "wiki_link": "http://warframe.wikia.com/wiki/Primed_Charged_Shell"
-    },
-    "uk": {
-        "item_name": "Праймовані Заряджені Набої",
-        "description": "+165% до електричної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Primed_Charged_Shell"
+    "i18n": {
+        "en": {
+            "item_name": "Primed Charged Shell",
+            "description": "+165% Electricity",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Charged_Shell",
+            "icon": "items/images/en/primed_charged_shell.057b97c27209ec391d8d4e0ca1a2a5e9.png",
+            "thumb": "items/images/en/thumbs/primed_charged_shell.057b97c27209ec391d8d4e0ca1a2a5e9.128x128.png"
+        },
+        "ru": {
+            "item_name": "Заряженные Снаряды Прайм",
+            "description": "+165% урона электричеством",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D0%BD%D0%B0%D1%80%D1%8F%D0%B4%D1%8B_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+            "icon": "items/images/ru/primed_charged_shell.e16375ca6bd7f0cc28902659b90df1b4.png",
+            "thumb": "items/images/ru/thumbs/primed_charged_shell.e16375ca6bd7f0cc28902659b90df1b4.128x128.png"
+        },
+        "ko": {
+            "item_name": "프라임드 차지드 쉘",
+            "description": "+165% 전기",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Charged_Shell"
+        },
+        "de": {
+            "item_name": "Primed Geladene Patrone",
+            "description": "+165 % Elektrizität",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Primed_Aufgeladene_Patrone"
+        },
+        "fr": {
+            "item_name": "Cartouche Chargée Accrue",
+            "description": "+165% Électrique",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Cartouche_Charg%C3%A9e_Accrue"
+        },
+        "pt": {
+            "item_name": "Primed Charged Shell",
+            "description": "+165% de Elétrico",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Charged_Shell"
+        },
+        "zh-hans": {
+            "item_name": "充电弹头 Prime",
+            "description": "+165% 电击伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Charged_Shell"
+        },
+        "zh-hant": {
+            "item_name": "充電彈頭 Prime",
+            "description": "+165% 電擊傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primed_Charged_Shell"
+        },
+        "es": {
+            "item_name": "Cartucho Cargado Prime",
+            "description": "+165% de electricidad",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Cartucho_cargado_Prime"
+        },
+        "it": {
+            "item_name": "Primed Charged Shell",
+            "description": "+165% Elettrico",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Charged_Shell"
+        },
+        "pl": {
+            "item_name": "Elektryczny Nabój Prime",
+            "description": "+165% Obrażeń Elektrycznych",
+            "wiki_link": "http://warframe.wikia.com/wiki/Primed_Charged_Shell"
+        },
+        "uk": {
+            "item_name": "Праймовані Заряджені Набої",
+            "description": "+165% до електричної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Primed_Charged_Shell"
+        }
     },
     "rarity": "legendary",
     "max_rank": 10,

@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/WeaponToxinDamageMod"
     },
-    "en": {
-        "item_name": "Pathogen Rounds",
-        "description": "+90% Toxin",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pathogen_Rounds"
-    },
-    "ru": {
-        "item_name": "Патогенные Патроны",
-        "description": "+90% урона токсином",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%82%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
-        "icon": "items/images/ru/pathogen_rounds.278bf56394303424da82f55c93586702.png",
-        "thumb": "items/images/ru/thumbs/pathogen_rounds.278bf56394303424da82f55c93586702.128x128.png"
-    },
-    "ko": {
-        "item_name": "패서전 라운즈",
-        "description": "+90% 독성",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pathogen_Rounds"
-    },
-    "de": {
-        "item_name": "Pathogenprojektile",
-        "description": "+90 % Gift",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pathogenprojektile"
-    },
-    "fr": {
-        "item_name": "Balles Pathogènes",
-        "description": "+90% Poison",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Balles_Pathog%C3%A8nes"
-    },
-    "pt": {
-        "item_name": "Pathogen Rounds",
-        "description": "+90% de Tóxico",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pathogen_Rounds"
-    },
-    "zh-hans": {
-        "item_name": "病原弹头",
-        "description": "+90% 毒素伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pathogen_Rounds"
-    },
-    "zh-hant": {
-        "item_name": "病原彈頭",
-        "description": "+90% 毒素傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pathogen_Rounds"
-    },
-    "es": {
-        "item_name": "Munición Patógena",
-        "description": "+90% de toxina",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Munici%C3%B3n_pat%C3%B3gena"
-    },
-    "it": {
-        "item_name": "Pathogen Rounds",
-        "description": "+90% Tossina",
-        "wiki_link": "http://warframe.wikia.com/wiki/Pathogen_Rounds"
-    },
-    "pl": {
-        "item_name": "Pociski Patogenowe",
-        "description": "+90% Obrażeń Toksycznych",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Pociski_Kometowe"
-    },
-    "uk": {
-        "item_name": "Набої З Патогеном",
-        "description": "+90% токсичної шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pathogen_Rounds"
+    "i18n": {
+        "en": {
+            "item_name": "Pathogen Rounds",
+            "description": "+90% Toxin",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pathogen_Rounds",
+            "icon": "items/images/en/pathogen_rounds.4eef46cd7b866eea2ac8009ec61901e9.png",
+            "thumb": "items/images/en/thumbs/pathogen_rounds.4eef46cd7b866eea2ac8009ec61901e9.128x128.png"
+        },
+        "ru": {
+            "item_name": "Патогенные Патроны",
+            "description": "+90% урона токсином",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D1%82%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
+            "icon": "items/images/ru/pathogen_rounds.278bf56394303424da82f55c93586702.png",
+            "thumb": "items/images/ru/thumbs/pathogen_rounds.278bf56394303424da82f55c93586702.128x128.png"
+        },
+        "ko": {
+            "item_name": "패서전 라운즈",
+            "description": "+90% 독성",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pathogen_Rounds"
+        },
+        "de": {
+            "item_name": "Pathogenprojektile",
+            "description": "+90 % Gift",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Pathogenprojektile"
+        },
+        "fr": {
+            "item_name": "Balles Pathogènes",
+            "description": "+90% Poison",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Balles_Pathog%C3%A8nes"
+        },
+        "pt": {
+            "item_name": "Pathogen Rounds",
+            "description": "+90% de Tóxico",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Pathogen_Rounds"
+        },
+        "zh-hans": {
+            "item_name": "病原弹头",
+            "description": "+90% 毒素伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pathogen_Rounds"
+        },
+        "zh-hant": {
+            "item_name": "病原彈頭",
+            "description": "+90% 毒素傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pathogen_Rounds"
+        },
+        "es": {
+            "item_name": "Munición Patógena",
+            "description": "+90% de toxina",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Munici%C3%B3n_pat%C3%B3gena"
+        },
+        "it": {
+            "item_name": "Pathogen Rounds",
+            "description": "+90% Tossina",
+            "wiki_link": "http://warframe.wikia.com/wiki/Pathogen_Rounds"
+        },
+        "pl": {
+            "item_name": "Pociski Patogenowe",
+            "description": "+90% Obrażeń Toksycznych",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Pociski_Kometowe"
+        },
+        "uk": {
+            "item_name": "Набої З Патогеном",
+            "description": "+90% токсичної шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pathogen_Rounds"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

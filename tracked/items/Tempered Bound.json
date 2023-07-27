@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreShieldLessBulletJumpMod"
     },
-    "en": {
-        "item_name": "Tempered Bound",
-        "description": "-10% Mobility\n+30 Shield Capacity",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tempered_Bound"
-    },
-    "ru": {
-        "item_name": "Умеренный Прыжок",
-        "description": "-10% мобильности\n+30 к мощности щита",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
-        "icon": "items/images/ru/tempered_bound.668e99d27a772886e71c6580f94233f7.png",
-        "thumb": "items/images/ru/thumbs/tempered_bound.668e99d27a772886e71c6580f94233f7.128x128.png"
-    },
-    "ko": {
-        "item_name": "템퍼드 바운드",
-        "description": "-10% 기동성\n+30 최대 실드량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tempered_Bound"
-    },
-    "de": {
-        "item_name": "Gehärtete Bindung",
-        "description": "-10 % Mobilität\n+30 Schildkapazität",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Geh%C3%A4rtete_Bindung"
-    },
-    "fr": {
-        "item_name": "Saut Tempéré",
-        "description": "-10% de Mobilité\n+30 de capacité de Boucliers",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Lame_Temp%C3%A9r%C3%A9e"
-    },
-    "pt": {
-        "item_name": "Tempered Bound",
-        "description": "-10% de Mobilidade\n+30 Capacidade do Escudo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tempered_Bound"
-    },
-    "zh-hans": {
-        "item_name": "调节跳跃",
-        "description": "-10% 移动力加成\n+30 护盾容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tempered_Bound"
-    },
-    "zh-hant": {
-        "item_name": "調節跳躍",
-        "description": "-10% 移動力加成\n+30 護盾容量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Tempered_Bound"
-    },
-    "es": {
-        "item_name": "Rumbo De Templanza",
-        "description": "-10% de movilidad\n+30 de capacidad de escudo",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Rumbo_de_templanza"
-    },
-    "it": {
-        "item_name": "Tempered Bound",
-        "description": "-10% Mobilità\n+30 Capienza Scudo",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tempered_Bound"
-    },
-    "pl": {
-        "item_name": "Porywcze Działanie",
-        "description": "-10% Mobilności\n+30 Wytrzymałość Tarcz",
-        "wiki_link": "http://warframe.wikia.com/wiki/Tempered_Bound"
-    },
-    "uk": {
-        "item_name": "Виважений Стрибок",
-        "description": "-10% до рухливості.\n+30 до місткості щитів.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Tempered_Bound"
+    "i18n": {
+        "en": {
+            "item_name": "Tempered Bound",
+            "description": "-10% Mobility\n+30 Shield Capacity",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tempered_Bound",
+            "icon": "items/images/en/tempered_bound.cdc7368fa20d61eaecae92f5527dfb18.png",
+            "thumb": "items/images/en/thumbs/tempered_bound.cdc7368fa20d61eaecae92f5527dfb18.128x128.png"
+        },
+        "ru": {
+            "item_name": "Умеренный Прыжок",
+            "description": "-10% мобильности\n+30 к мощности щита",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA",
+            "icon": "items/images/ru/tempered_bound.668e99d27a772886e71c6580f94233f7.png",
+            "thumb": "items/images/ru/thumbs/tempered_bound.668e99d27a772886e71c6580f94233f7.128x128.png"
+        },
+        "ko": {
+            "item_name": "템퍼드 바운드",
+            "description": "-10% 기동성\n+30 최대 실드량",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tempered_Bound"
+        },
+        "de": {
+            "item_name": "Gehärtete Bindung",
+            "description": "-10 % Mobilität\n+30 Schildkapazität",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Geh%C3%A4rtete_Bindung"
+        },
+        "fr": {
+            "item_name": "Saut Tempéré",
+            "description": "-10% de Mobilité\n+30 de capacité de Boucliers",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Lame_Temp%C3%A9r%C3%A9e"
+        },
+        "pt": {
+            "item_name": "Tempered Bound",
+            "description": "-10% de Mobilidade\n+30 Capacidade do Escudo",
+            "wiki_link": "http://warframe.wikia.com/wiki/Tempered_Bound"
+        },
+        "zh-hans": {
+            "item_name": "调节跳跃",
+            "description": "-10% 移动力加成\n+30 护盾容量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tempered_Bound"
+        },
+        "zh-hant": {
+            "item_name": "調節跳躍",
+            "description": "-10% 移動力加成\n+30 護盾容量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Tempered_Bound"
+        },
+        "es": {
+            "item_name": "Rumbo De Templanza",
+            "description": "-10% de movilidad\n+30 de capacidad de escudo",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Rumbo_de_templanza"
+        },
+        "it": {
+            "item_name": "Tempered Bound",
+            "description": "-10% Mobilità\n+30 Capienza Scudo",
+            "wiki_link": "http://warframe.wikia.com/wiki/Tempered_Bound"
+        },
+        "pl": {
+            "item_name": "Porywcze Działanie",
+            "description": "-10% Mobilności\n+30 Wytrzymałość Tarcz",
+            "wiki_link": "http://warframe.wikia.com/wiki/Tempered_Bound"
+        },
+        "uk": {
+            "item_name": "Виважений Стрибок",
+            "description": "-10% до рухливості\n+30 до місткості щитів",
+            "wiki_link": "https://warframe.fandom.com/wiki/Tempered_Bound"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 3,

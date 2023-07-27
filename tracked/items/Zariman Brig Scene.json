@@ -11,65 +11,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarCellBlock"
     },
-    "en": {
-        "item_name": "Zariman Brig Scene",
-        "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Сцена: Бриг Заримана",
-        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "자리만 구금실 배경",
-        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Photora-Szene: Zariman Brücke",
-        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Scène Prison Du Zariman",
-        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Cena: Cadeia Da Zariman",
-        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "扎里曼牢房场景",
-        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "扎日曼監獄場景",
-        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Escena De La Prisión Zariman",
-        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Scenario Carcere Zariman",
-        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Scena: Bryg Zarimana",
-        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Панорама: Бриг На «Заримені»",
-        "description": "Розблоковує цю панораму для використання у cвітлописці (клацніть «Змінити вигляд» у зброярні).",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Zariman Brig Scene",
+            "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+            "wiki_link": null,
+            "icon": "items/images/en/zariman_brig_scene.3e639e5e5131d895f931ed76bd217538.png",
+            "thumb": "items/images/en/thumbs/zariman_brig_scene.3e639e5e5131d895f931ed76bd217538.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сцена: Бриг Заримана",
+            "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "자리만 구금실 배경",
+            "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Photora-Szene: Zariman Brücke",
+            "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Scène Prison Du Zariman",
+            "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Cena: Cadeia Da Zariman",
+            "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "扎里曼牢房场景",
+            "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "扎日曼監獄場景",
+            "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Escena De La Prisión Zariman",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Scenario Carcere Zariman",
+            "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Scena: Bryg Zarimana",
+            "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Панорама: Бриг На «Заримені»",
+            "description": "Розблоковує цю панораму для використання у cвітлописці (клацніть «Змінити вигляд» у зброярні).",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

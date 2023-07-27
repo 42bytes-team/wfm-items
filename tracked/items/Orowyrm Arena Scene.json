@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriDragonArena"
     },
-    "en": {
-        "item_name": "Orowyrm Arena Scene",
-        "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Сцена: Арена Оровирма",
-        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "오로 용 아레나 배경",
-        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Photora-Szene: Orowyrm Arena",
-        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Scène Arène De L'Orowyrm",
-        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Cena: Arena Do Orowyrm",
-        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "奥金魇龙角斗场场景",
-        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "奧金蛟龍競技場場景",
-        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Escena De La Arena Orowyrm",
-        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Scenario Arena Dell'Orowyrm",
-        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Scena: Arena Orożmija",
-        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Панорама: Арена Орозміїв",
-        "description": "Розблоковує цю панораму для використання у cвітлописці (клацніть «Змінити вигляд» у зброярні).",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Orowyrm Arena Scene",
+            "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+            "wiki_link": null,
+            "icon": "items/images/en/orowyrm_arena_scene.8f093769b21dd47231b44837cd3835d1.png",
+            "thumb": "items/images/en/thumbs/orowyrm_arena_scene.8f093769b21dd47231b44837cd3835d1.128x128.png"
+        },
+        "ru": {
+            "item_name": "Сцена: Арена Оровирма",
+            "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "오로 용 아레나 배경",
+            "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Photora-Szene: Orowyrm Arena",
+            "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Scène Arène De L'Orowyrm",
+            "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Cena: Arena Do Orowyrm",
+            "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "奥金魇龙角斗场场景",
+            "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "奧金蛟龍競技場場景",
+            "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Escena De La Arena Orowyrm",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Scenario Arena Dell'Orowyrm",
+            "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Scena: Arena Orożmija",
+            "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Панорама: Арена Орозміїв",
+            "description": "Розблоковує цю панораму для використання у cвітлописці (клацніть «Змінити вигляд» у зброярні).",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

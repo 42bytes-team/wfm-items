@@ -13,65 +13,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipQuadDamageAbilityCard"
     },
-    "en": {
-        "item_name": "Battle Stations",
-        "description": "Boost Turret Damage by 75% for 30s\nCooldown: 240s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
-    },
-    "ru": {
-        "item_name": "Боевые Станции",
-        "description": "Усиливает урон, наносимый турелями на 75% в течение 30 сек.\nВосстановление: 240 сек.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
-    },
-    "ko": {
-        "item_name": "배틀 스테이션즈",
-        "description": "포탑 피해량을 30초 동안 75%만큼 향상시킵니다.\n재사용 대기 시간: 240초",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
-    },
-    "de": {
-        "item_name": "Kampfstationen",
-        "description": "Erhöht den Geschützschaden für 30 s um 75 %\nAbklingzeit: 240 s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
-    },
-    "fr": {
-        "item_name": "Stations De Combat",
-        "description": "Améliore les Dégâts des Tourelles de 75% pendant 30s\nTemps de recharge: 240s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
-    },
-    "pt": {
-        "item_name": "Estações De Combate",
-        "description": "Aprimora o Dano da Torre em 75% durante 30s\nTempo de Recarga: 240s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
-    },
-    "zh-hans": {
-        "item_name": "战位",
-        "description": "炮台伤害提高 75%，持续 30 秒\n冷却时间：240 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E4%BD%8D"
-    },
-    "zh-hant": {
-        "item_name": "戰鬥崗位",
-        "description": "增加砲塔傷害 75%，持續 30 秒。\n冷卻時間：240 秒",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E4%BD%8D"
-    },
-    "es": {
-        "item_name": "Estaciones De Batalla",
-        "description": "Aumenta el daño de torreta por 75 % durante 30 s\nTiempo de espera: 240 s",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Estaciones_de_batalla"
-    },
-    "it": {
-        "item_name": "Battle Stations",
-        "description": "Potenzia il Danno della Torretta del 75% per 30s\nTempo di Ricarica: 240s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
-    },
-    "pl": {
-        "item_name": "Stacje Bojowe",
-        "description": "Zwiększa Obrażenia Wieżyczki o 75% na 30s\nCzas odnowienia: 240s",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
-    },
-    "uk": {
-        "item_name": "Бойові Позиції",
-        "description": "Посилює шкоду від турелей на 75% протягом 30 с.\nПерезаряджання: 240 с.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+    "i18n": {
+        "en": {
+            "item_name": "Battle Stations",
+            "description": "Boost Turret Damage by 75% for 30s\nCooldown: 240s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations",
+            "icon": "items/images/en/battle_stations.7140bba7146e58d1479718becd0271cf.png",
+            "thumb": "items/images/en/thumbs/battle_stations.7140bba7146e58d1479718becd0271cf.128x128.png"
+        },
+        "ru": {
+            "item_name": "Боевые Станции",
+            "description": "Усиливает урон, наносимый турелями на 75% в течение 30 сек.\nВосстановление: 240 сек.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+        },
+        "ko": {
+            "item_name": "배틀 스테이션즈",
+            "description": "포탑 피해량을 30초 동안 75%만큼 향상시킵니다.\n재사용 대기 시간: 240초",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+        },
+        "de": {
+            "item_name": "Kampfstationen",
+            "description": "Erhöht den Geschützschaden für 30 s um 75 %\nAbklingzeit: 240 s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+        },
+        "fr": {
+            "item_name": "Stations De Combat",
+            "description": "Améliore les Dégâts des Tourelles de 75% pendant 30s\nTemps de recharge: 240s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+        },
+        "pt": {
+            "item_name": "Estações De Combate",
+            "description": "Aprimora o Dano da Torre em 75% durante 30s\nTempo de Recarga: 240s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+        },
+        "zh-hans": {
+            "item_name": "战位",
+            "description": "炮台伤害提高 75%，持续 30 秒\n冷却时间：240 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E4%BD%8D"
+        },
+        "zh-hant": {
+            "item_name": "戰鬥崗位",
+            "description": "增加砲塔傷害 75%，持續 30 秒。\n冷卻時間：240 秒",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/%E6%88%98%E4%BD%8D"
+        },
+        "es": {
+            "item_name": "Estaciones De Batalla",
+            "description": "Aumenta el daño de torreta por 75 % durante 30 s\nTiempo de espera: 240 s",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Estaciones_de_batalla"
+        },
+        "it": {
+            "item_name": "Battle Stations",
+            "description": "Potenzia il Danno della Torretta del 75% per 30s\nTempo di Ricarica: 240s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+        },
+        "pl": {
+            "item_name": "Stacje Bojowe",
+            "description": "Zwiększa Obrażenia Wieżyczki o 75% na 30s\nCzas odnowienia: 240s",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+        },
+        "uk": {
+            "item_name": "Бойові Позиції",
+            "description": "Посилює шкоду від турелей на 75% протягом 30 с.\nПерезаряджання: 240 с.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Avionics#Battle_Stations"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

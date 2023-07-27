@@ -14,68 +14,72 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModB"
     },
-    "en": {
-        "item_name": "Motus Setup",
-        "description": "100% Critical and Status Chance for 4s after landing from a Double or Bullet Jump.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
-    },
-    "ru": {
-        "item_name": "Западня Мотуса",
-        "description": "100% к шансу критического выстрела и статуса на 4с при приземлении после прыжка-выстрела или двойного прыжка.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8F_%D0%9C%D0%BE%D1%82%D1%83%D1%81%D0%B0",
-        "icon": "items/images/ru/motus_setup.574d31234a9ef0883a736ca2b50e6395.png",
-        "icon_format": "port",
-        "thumb": "items/images/ru/thumbs/motus_setup.574d31234a9ef0883a736ca2b50e6395.128x128.png"
-    },
-    "ko": {
-        "item_name": "모터스 셋업",
-        "description": "더블 점프 및 불릿 점프 후 착지 시 4초 동안 100% 치명타 및 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
-    },
-    "de": {
-        "item_name": "Motus: Setup",
-        "description": "100 % Krit. und Statuschance für 4 s, nach Landung nach einem Doppel- oder Projektilsprung",
-        "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
-    },
-    "fr": {
-        "item_name": "Configuration Motus",
-        "description": "100% de Chance de Critique et de Statut pendant 4s lors de l'atterrissage après un Double Saut ou un Saut Propulsé.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Configuration_Motus"
-    },
-    "pt": {
-        "item_name": "Motus Setup",
-        "description": "100% de Chance Crítica e de Status por 4s ao pousar de um Salto-Bala ou Pulo Duplo.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
-    },
-    "zh-hans": {
-        "item_name": "跃动 设局",
-        "description": "二段跳或旋身飞跃落地后获得 4 秒的 100% 暴击和触发几率加成。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Motus_Setup"
-    },
-    "zh-hant": {
-        "item_name": "躍動 設局",
-        "description": "二段跳或旋身飛躍落地後獲得 4 秒的 100% 暴擊和觸發機率加成。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Motus_Setup"
-    },
-    "es": {
-        "item_name": "Ajuste De Motus",
-        "description": "100 % de probabilidad crítica y de estado por 4 s luego de aterrizar de un salto-bala o salto doble.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Ajuste_de_Motus"
-    },
-    "it": {
-        "item_name": "Motus Setup",
-        "description": "100% Probabilità Critico e Effetto per 4s dopo l'atterraggio da un Doppio Salto o Bullet Jump.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
-    },
-    "pl": {
-        "item_name": "Drapieżne Ustawienie",
-        "description": "100% szansy na spowodowanie Szansy Obr. Kryt. i Szansy Statusu na 4s po wylądowaniu z Podwójnego lub Balistycznego Skoku.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
-    },
-    "uk": {
-        "item_name": "План Хижака",
-        "description": "100% до ймовірності критичної шкоди та застосування ефекту стану на 4 с після приземлення з подвійного чи гвинтового стрибка.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
+    "i18n": {
+        "en": {
+            "item_name": "Motus Setup",
+            "description": "100% Critical and Status Chance for 4s after landing from a Double or Bullet Jump.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup",
+            "icon": "items/images/en/motus_setup.a901c441bed40b5e7ab7726de16313c2.png",
+            "thumb": "items/images/en/thumbs/motus_setup.a901c441bed40b5e7ab7726de16313c2.128x128.png"
+        },
+        "ru": {
+            "item_name": "Западня Мотуса",
+            "description": "100% к шансу критического выстрела и статуса на 4с при приземлении после прыжка-выстрела или двойного прыжка.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8F_%D0%9C%D0%BE%D1%82%D1%83%D1%81%D0%B0",
+            "icon": "items/images/ru/motus_setup.574d31234a9ef0883a736ca2b50e6395.png",
+            "icon_format": "port",
+            "thumb": "items/images/ru/thumbs/motus_setup.574d31234a9ef0883a736ca2b50e6395.128x128.png"
+        },
+        "ko": {
+            "item_name": "모터스 셋업",
+            "description": "더블 점프 및 불릿 점프 후 착지 시 4초 동안 100% 치명타 및 상태 이상 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
+        },
+        "de": {
+            "item_name": "Motus: Setup",
+            "description": "100 % Krit. und Statuschance für 4 s, nach Landung nach einem Doppel- oder Projektilsprung",
+            "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
+        },
+        "fr": {
+            "item_name": "Configuration Motus",
+            "description": "100% de Chance de Critique et de Statut pendant 4s lors de l'atterrissage après un Double Saut ou un Saut Propulsé.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Configuration_Motus"
+        },
+        "pt": {
+            "item_name": "Motus Setup",
+            "description": "100% de Chance Crítica e de Status por 4s ao pousar de um Salto-Bala ou Pulo Duplo.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
+        },
+        "zh-hans": {
+            "item_name": "跃动 设局",
+            "description": "二段跳或旋身飞跃落地后获得 4 秒的 100% 暴击和触发几率加成。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Motus_Setup"
+        },
+        "zh-hant": {
+            "item_name": "躍動 設局",
+            "description": "二段跳或旋身飛躍落地後獲得 4 秒的 100% 暴擊和觸發機率加成。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Motus_Setup"
+        },
+        "es": {
+            "item_name": "Ajuste De Motus",
+            "description": "100 % de probabilidad crítica y de estado por 4 s luego de aterrizar de un salto-bala o salto doble.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Ajuste_de_Motus"
+        },
+        "it": {
+            "item_name": "Motus Setup",
+            "description": "100% Probabilità Critico e Effetto per 4s dopo l'atterraggio da un Doppio Salto o Bullet Jump.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
+        },
+        "pl": {
+            "item_name": "Drapieżne Ustawienie",
+            "description": "100% szansy na spowodowanie Szansy Obr. Kryt. i Szansy Statusu na 4s po wylądowaniu z Podwójnego lub Balistycznego Skoku.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
+        },
+        "uk": {
+            "item_name": "План Хижака",
+            "description": "100% до ймовірності завдання критичної шкоди та накладання ефекту стану на 4 с після приземлення з подвійного чи гвинтового стрибка.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Motus_Setup"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

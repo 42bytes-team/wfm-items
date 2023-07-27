@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/EyeInTheSky"
     },
-    "en": {
-        "item_name": "Pax Soar",
-        "description": "+50% Accuracy while Airborne\n-50% Weapon Recoil while Airborne\n+5s Aim Glide/Wall Latch Duration",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
-    },
-    "ru": {
-        "item_name": "Пакс Парение",
-        "description": "+50% к точности в воздухе\n-50% к отдаче в воздухе\n+5c ко времени управляемого полета/фиксации на стене",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BA%D1%81_%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5"
-    },
-    "ko": {
-        "item_name": "팍스 소어",
-        "description": "공중에 떠 있는 동안 +50% 정확도\n공중에 떠 있는 동안 -50% 반동\n에임 글라이드/월 래치 지속 시간 +5초",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
-    },
-    "de": {
-        "item_name": "Pax: Aufstieg",
-        "description": "+50 % Genauigkeit wenn in der Luft\n-50 % Waffenrückstoß wenn in der Luft\n+5 s Zielgleiten-/Wandhalten-Dauer",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Pax:_Aufstieg"
-    },
-    "fr": {
-        "item_name": "Pax Envol",
-        "description": "+50% de Précision dans les Airs\n-50% de Recul de l'Arme dans les Airs\n+5s de Durée de la Visée Planée/Prise Murale",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Pax_Envol"
-    },
-    "pt": {
-        "item_name": "Planeio De Pax",
-        "description": "+50% de Precisão enquanto no Ar\n-50% de Recuo da Arma enquanto estiver no Ar\n+5s de Duração do Planar e Mirar/Segurar na Parede",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
-    },
-    "zh-hans": {
-        "item_name": "和平·高飞",
-        "description": "在空中时有 +50% 精准度\n在空中时有 -50% 武器后坐力\n+5秒 飞身瞄准/壁面攀附持续时间",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pax_Soar"
-    },
-    "zh-hant": {
-        "item_name": "和平衝天",
-        "description": "在空中時有 +50% 精準度\n在空中時有 -50% 武器後座力\n+5 秒飛身瞄準/壁面攀附持續時間",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Pax_Soar"
-    },
-    "es": {
-        "item_name": "Elevación De Pax",
-        "description": "+50% precisión mientras estás en el aire\n-50% de retroceso mientras estás en el aire\n+5s de duración de planear/posarse",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Elevaci%C3%B3n_de_Pax"
-    },
-    "it": {
-        "item_name": "Pax Soar",
-        "description": "+50% Precisione mentre si è in Volo\n-50% Rinculo mentre si è in Volo\n+5s Durata Planata/Aggrappata",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
-    },
-    "pl": {
-        "item_name": "Paks Szybowania",
-        "description": "+50% Celności w czasie szybowania\n-50% Odrzutu broni w czasie szybowania\n+5s Czasu Trwania Celowania w locie / Przywarcia do Ściany",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
-    },
-    "uk": {
-        "item_name": "Пакс «Ширяння»",
-        "description": "+50% до влучності в повітрі.\n-50% до віддачі в повітрі.\n+5 с до тривалості прицілювання в повітрі/утримування на стіні.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
+    "i18n": {
+        "en": {
+            "item_name": "Pax Soar",
+            "description": "+50% Accuracy while Airborne\n-50% Weapon Recoil while Airborne\n+5s Aim Glide/Wall Latch Duration",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar",
+            "icon": "items/images/en/pax_soar.b1cec46096b57bd8c82c974fbd376baa.png",
+            "thumb": "items/images/en/thumbs/pax_soar.b1cec46096b57bd8c82c974fbd376baa.128x128.png"
+        },
+        "ru": {
+            "item_name": "Пакс Парение",
+            "description": "+50% к точности в воздухе\n-50% к отдаче в воздухе\n+5c ко времени управляемого полета/фиксации на стене",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%BA%D1%81_%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5"
+        },
+        "ko": {
+            "item_name": "팍스 소어",
+            "description": "공중에 떠 있는 동안 +50% 정확도\n공중에 떠 있는 동안 -50% 반동\n에임 글라이드/월 래치 지속 시간 +5초",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
+        },
+        "de": {
+            "item_name": "Pax: Aufstieg",
+            "description": "+50 % Genauigkeit wenn in der Luft\n-50 % Waffenrückstoß wenn in der Luft\n+5 s Zielgleiten-/Wandhalten-Dauer",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Pax:_Aufstieg"
+        },
+        "fr": {
+            "item_name": "Pax Envol",
+            "description": "+50% de Précision dans les Airs\n-50% de Recul de l'Arme dans les Airs\n+5s de Durée de la Visée Planée/Prise Murale",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Pax_Envol"
+        },
+        "pt": {
+            "item_name": "Planeio De Pax",
+            "description": "+50% de Precisão enquanto no Ar\n-50% de Recuo da Arma enquanto estiver no Ar\n+5s de Duração do Planar e Mirar/Segurar na Parede",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
+        },
+        "zh-hans": {
+            "item_name": "和平·高飞",
+            "description": "在空中时有 +50% 精准度\n在空中时有 -50% 武器后坐力\n+5秒 飞身瞄准/壁面攀附持续时间",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pax_Soar"
+        },
+        "zh-hant": {
+            "item_name": "和平衝天",
+            "description": "在空中時有 +50% 精準度\n在空中時有 -50% 武器後座力\n+5 秒飛身瞄準/壁面攀附持續時間",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Pax_Soar"
+        },
+        "es": {
+            "item_name": "Elevación De Pax",
+            "description": "+50% precisión mientras estás en el aire\n-50% de retroceso mientras estás en el aire\n+5s de duración de planear/posarse",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Elevaci%C3%B3n_de_Pax"
+        },
+        "it": {
+            "item_name": "Pax Soar",
+            "description": "+50% Precisione mentre si è in Volo\n-50% Rinculo mentre si è in Volo\n+5s Durata Planata/Aggrappata",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
+        },
+        "pl": {
+            "item_name": "Paks Szybowania",
+            "description": "+50% Celności w czasie szybowania\n-50% Odrzutu broni w czasie szybowania\n+5s Czasu Trwania Celowania w locie / Przywarcia do Ściany",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
+        },
+        "uk": {
+            "item_name": "Пакс «Ширяння»",
+            "description": "+50% до влучності в повітрі\n-50% до віддачі в повітрі\n+5 с до тривалості прицілювання в повітрі/утримування на стіні",
+            "wiki_link": "https://warframe.fandom.com/wiki/Pax_Soar"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

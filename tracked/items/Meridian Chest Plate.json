@@ -19,65 +19,69 @@
     ],
     "set_root": false,
     "quantity_for_set": 1,
-    "en": {
-        "item_name": "Meridian Chest Plate",
-        "description": "Pieced together from salvage, this ad hoc armor set is signature to the Grineer renegades of Steel Meridian.",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Нагрудник: Меридиан",
-        "description": "Этот специальный комплект брони, собранный из обломков, является визитной карточкой отступников Гринир из Стального Меридиана.",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "메리디안 체스트 플레이드",
-        "description": "인양된 잔해를 조각조각 모아 맞춰진 이 즉석 제작 아머 세트는 그리니어를 등지고 스틸 메리디안이 된 이탈자들의 상징적인 장식입니다.",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Brustplatte: Meridian",
-        "description": "Dieses Ad hoc-Rüstungsset wurde aus Bergungsgut zusammengesetzt und ist das Markenzeichen der Grineer Abtrünnigen von Steel Meridian.",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Plastron Du Méridien",
-        "description": "Assemblée à partir d'éléments de récupération, cette Armure ad hoc est emblématique des renégats Grineers du Méridien d'Acier.",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Peitoral: Meridiano",
-        "description": "Construído a partir de sucatas, este conjunto de armaduras foi criado e utilizado pelos Grineers renegados do Meridiano de Aço.",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "钢铁防线胸甲",
-        "description": "这套特别的护甲由残骸拼接打造而成，是钢铁防线 Grineer 反叛者的标志性护甲。",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "防線胸甲",
-        "description": "這套特別的護甲是由回收物品拼湊而成，是鋼鐵防線的 Grineer 叛變者的標誌性謢甲。",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Peto De Placas Meridiano",
-        "description": "Ensamblado a partir de restos, este conjunto de armadura ad hoc, es el sello distintivo de los renegados grineer de Meridiano de Acero.",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Pettorina Meridian",
-        "description": "Assemblato partendo da rottami, questo set armatura creato ad hoc è il segno distintivo dei rinnegati Grineer di Steel Meridian.",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Napierśnik: Meridian",
-        "description": "Poskładany ze złomu, ten zestaw pancerza jest charakterystyczny dla renegatów Grineer w Stalowym Meridianie.",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Нагрудник «Меридіан»",
-        "description": "Особливий набір обладунків, зібраний з уламків. Це визначні обладунки ґрінерських відступників зі «Сталевого Меридіана».",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Meridian Chest Plate",
+            "description": "Pieced together from salvage, this ad hoc armor set is signature to the Grineer renegades of Steel Meridian.",
+            "wiki_link": null,
+            "icon": "items/images/en/meridian_chest_plate.cfd18c36942cccc4c759369e348090d3.png",
+            "thumb": "items/images/en/thumbs/meridian_chest_plate.cfd18c36942cccc4c759369e348090d3.128x128.png"
+        },
+        "ru": {
+            "item_name": "Нагрудник: Меридиан",
+            "description": "Этот специальный комплект брони, собранный из обломков, является визитной карточкой отступников Гринир из Стального Меридиана.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "메리디안 체스트 플레이드",
+            "description": "인양된 잔해를 조각조각 모아 맞춰진 이 즉석 제작 아머 세트는 그리니어를 등지고 스틸 메리디안이 된 이탈자들의 상징적인 장식입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Brustplatte: Meridian",
+            "description": "Dieses Ad hoc-Rüstungsset wurde aus Bergungsgut zusammengesetzt und ist das Markenzeichen der Grineer Abtrünnigen von Steel Meridian.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Plastron Du Méridien",
+            "description": "Assemblée à partir d'éléments de récupération, cette Armure ad hoc est emblématique des renégats Grineers du Méridien d'Acier.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Peitoral: Meridiano",
+            "description": "Construído a partir de sucatas, este conjunto de armaduras foi criado e utilizado pelos Grineers renegados do Meridiano de Aço.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "钢铁防线胸甲",
+            "description": "这套特别的护甲由残骸拼接打造而成，是钢铁防线 Grineer 反叛者的标志性护甲。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "防線胸甲",
+            "description": "這套特別的護甲是由回收物品拼湊而成，是鋼鐵防線的 Grineer 叛變者的標誌性謢甲。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Peto De Placas Meridiano",
+            "description": "Ensamblado a partir de restos, este conjunto de armadura ad hoc, es el sello distintivo de los renegados grineer de Meridiano de Acero.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Pettorina Meridian",
+            "description": "Assemblato partendo da rottami, questo set armatura creato ad hoc è il segno distintivo dei rinnegati Grineer di Steel Meridian.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Napierśnik: Meridian",
+            "description": "Poskładany ze złomu, ten zestaw pancerza jest charakterystyczny dla renegatów Grineer w Stalowym Meridianie.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Нагрудник «Меридіан»",
+            "description": "Особливий набір обладунків, зібраний з уламків. Це визначні обладунки ґрінерських відступників зі «Сталевого Меридіана».",
+            "wiki_link": null
+        }
     },
     "trading_tax": 2000
 }

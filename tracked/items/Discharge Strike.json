@@ -14,65 +14,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Necro/SoulPunchPvPAugmentCard"
     },
-    "en": {
-        "item_name": "Discharge Strike",
-        "description": "Soul Punch Augment: Depletes up to 25 Energy from the target.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Discharge_Strike"
-    },
-    "ru": {
-        "item_name": "Иссушающий Удар",
-        "description": "Улучшение Удара Души: сжигает до 25 единиц энергии у цели.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D1%81%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80"
-    },
-    "ko": {
-        "item_name": "디스차지 스트라이크",
-        "description": "소울 펀치 개조: 대상의 남은 에너지를 최대 25만큼 감소시킵니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Discharge_Strike"
-    },
-    "de": {
-        "item_name": "Entladender Schlag",
-        "description": "Seelenhieb Augment: Verbraucht bis zu 25 Energie des Zieles.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Entladender_Schlag"
-    },
-    "fr": {
-        "item_name": "Frappe Spoliante",
-        "description": "Augmentation de Perforation d'Âme: retire jusqu'à 25 points d'Énergie de la cible.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_Spoliante"
-    },
-    "pt": {
-        "item_name": "Discharge Strike",
-        "description": "Ampliação Soul Punch: roubará até 25 de Energia do alvo.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Discharge"
-    },
-    "zh-hans": {
-        "item_name": "卸能打击",
-        "description": "灵魂重击强化：撤销目标身上多达 25 点的能量。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Discharge_Strike"
-    },
-    "zh-hant": {
-        "item_name": "卸能打擊",
-        "description": "靈魂重擊強化：撤銷目標身上多達 25 點的能量。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Discharge_Strike"
-    },
-    "es": {
-        "item_name": "Golpe De Descarga",
-        "description": "Aumento de Golpe espiritual: agota hasta 25 de energía del objetivo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_de_descarga"
-    },
-    "it": {
-        "item_name": "Discharge Strike",
-        "description": "Potenziamento Soul Punch: Rimuove 25 di Energia dal bersaglio.",
-        "wiki_link": "http://warframe.wikia.com/wiki/Discharge_Strike"
-    },
-    "pl": {
-        "item_name": "Drenujące Uderzenie",
-        "description": "Modyfikacja Pięści Duszy: Trafienie we wroga drenuje 25 energii z celu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Drenuj%C4%85ce_Uderzenie"
-    },
-    "uk": {
-        "item_name": "Удар Розряджання",
-        "description": "Розширення здібності «Вибийдух»: витягує з цілі 25 енергії.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Discharge_Strike"
+    "i18n": {
+        "en": {
+            "item_name": "Discharge Strike",
+            "description": "Soul Punch Augment: Depletes up to 25 Energy from the target.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Discharge_Strike",
+            "icon": "items/images/en/discharge_strike.11efeba0f37f6436bad4160e0d60ec15.png",
+            "thumb": "items/images/en/thumbs/discharge_strike.11efeba0f37f6436bad4160e0d60ec15.128x128.png"
+        },
+        "ru": {
+            "item_name": "Иссушающий Удар",
+            "description": "Улучшение Удара Души: сжигает до 25 единиц энергии у цели.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D1%81%D1%83%D1%88%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%83%D0%B4%D0%B0%D1%80"
+        },
+        "ko": {
+            "item_name": "디스차지 스트라이크",
+            "description": "소울 펀치 개조: 대상의 남은 에너지를 최대 25만큼 감소시킵니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Discharge_Strike"
+        },
+        "de": {
+            "item_name": "Entladender Schlag",
+            "description": "Seelenhieb Augment: Verbraucht bis zu 25 Energie des Zieles.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Entladender_Schlag"
+        },
+        "fr": {
+            "item_name": "Frappe Spoliante",
+            "description": "Augmentation de Perforation d'Âme: retire jusqu'à 25 points d'Énergie de la cible.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Frappe_Spoliante"
+        },
+        "pt": {
+            "item_name": "Discharge Strike",
+            "description": "Ampliação Soul Punch: roubará até 25 de Energia do alvo.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Discharge"
+        },
+        "zh-hans": {
+            "item_name": "卸能打击",
+            "description": "灵魂重击强化：撤销目标身上多达 25 点的能量。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Discharge_Strike"
+        },
+        "zh-hant": {
+            "item_name": "卸能打擊",
+            "description": "靈魂重擊強化：撤銷目標身上多達 25 點的能量。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Discharge_Strike"
+        },
+        "es": {
+            "item_name": "Golpe De Descarga",
+            "description": "Aumento de Golpe espiritual: agota hasta 25 de energía del objetivo.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_de_descarga"
+        },
+        "it": {
+            "item_name": "Discharge Strike",
+            "description": "Potenziamento Soul Punch: Rimuove 25 di Energia dal bersaglio.",
+            "wiki_link": "http://warframe.wikia.com/wiki/Discharge_Strike"
+        },
+        "pl": {
+            "item_name": "Drenujące Uderzenie",
+            "description": "Modyfikacja Pięści Duszy: Trafienie we wroga drenuje 25 energii z celu.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Drenuj%C4%85ce_Uderzenie"
+        },
+        "uk": {
+            "item_name": "Удар Розряджання",
+            "description": "Розширення здібності «Вибийдух»: витягує з цілі 25 енергії.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Discharge_Strike"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

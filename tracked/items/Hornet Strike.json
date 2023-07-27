@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Pistol/WeaponDamageAmountMod"
     },
-    "en": {
-        "item_name": "Hornet Strike",
-        "description": "+220% Damage",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hornet_Strike"
-    },
-    "ru": {
-        "item_name": "Удар Осы",
-        "description": "+220% урона",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B4%D0%B0%D1%80_%D0%9E%D1%81%D1%8B",
-        "icon": "items/images/ru/hornet_strike.1c3197bb17bf720985347754d12b7e5e.png",
-        "thumb": "items/images/ru/thumbs/hornet_strike.1c3197bb17bf720985347754d12b7e5e.128x128.png"
-    },
-    "ko": {
-        "item_name": "호넷 스트라이크",
-        "description": "+220% 피해",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hornet_Strike"
-    },
-    "de": {
-        "item_name": "Hornissenstich",
-        "description": "+220 % Schaden",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Hornissenstich"
-    },
-    "fr": {
-        "item_name": "Nuée De Dards",
-        "description": "+220% de Dégâts",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Nu%C3%A9e_de_Dards"
-    },
-    "pt": {
-        "item_name": "Hornet Strike",
-        "description": "+220% de Dano",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hornet_Strike"
-    },
-    "zh-hans": {
-        "item_name": "黄蜂螫刺",
-        "description": "+220% 伤害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hornet_Strike"
-    },
-    "zh-hant": {
-        "item_name": "黃蜂蟄刺",
-        "description": "+220% 傷害",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Hornet_Strike"
-    },
-    "es": {
-        "item_name": "Golpe De Avispa",
-        "description": "+220% de daño",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_de_avispa"
-    },
-    "it": {
-        "item_name": "Hornet Strike",
-        "description": "+220% Danno",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Hornet_Strike"
-    },
-    "pl": {
-        "item_name": "Uderzenie Szerszenia",
-        "description": "+220% Obrażeń",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Uderzenie_Szerszenia"
-    },
-    "uk": {
-        "item_name": "Напад Шершня",
-        "description": "+220% до шкоди.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Hornet_Strike"
+    "i18n": {
+        "en": {
+            "item_name": "Hornet Strike",
+            "description": "+220% Damage",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hornet_Strike",
+            "icon": "items/images/en/hornet_strike.32575979b8a9bf623daba85ca07c3d54.png",
+            "thumb": "items/images/en/thumbs/hornet_strike.32575979b8a9bf623daba85ca07c3d54.128x128.png"
+        },
+        "ru": {
+            "item_name": "Удар Осы",
+            "description": "+220% урона",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B4%D0%B0%D1%80_%D0%9E%D1%81%D1%8B",
+            "icon": "items/images/ru/hornet_strike.1c3197bb17bf720985347754d12b7e5e.png",
+            "thumb": "items/images/ru/thumbs/hornet_strike.1c3197bb17bf720985347754d12b7e5e.128x128.png"
+        },
+        "ko": {
+            "item_name": "호넷 스트라이크",
+            "description": "+220% 피해",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hornet_Strike"
+        },
+        "de": {
+            "item_name": "Hornissenstich",
+            "description": "+220 % Schaden",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Hornissenstich"
+        },
+        "fr": {
+            "item_name": "Nuée De Dards",
+            "description": "+220% de Dégâts",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Nu%C3%A9e_de_Dards"
+        },
+        "pt": {
+            "item_name": "Hornet Strike",
+            "description": "+220% de Dano",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Hornet_Strike"
+        },
+        "zh-hans": {
+            "item_name": "黄蜂螫刺",
+            "description": "+220% 伤害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hornet_Strike"
+        },
+        "zh-hant": {
+            "item_name": "黃蜂蟄刺",
+            "description": "+220% 傷害",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hornet_Strike"
+        },
+        "es": {
+            "item_name": "Golpe De Avispa",
+            "description": "+220% de daño",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Golpe_de_avispa"
+        },
+        "it": {
+            "item_name": "Hornet Strike",
+            "description": "+220% Danno",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Hornet_Strike"
+        },
+        "pl": {
+            "item_name": "Uderzenie Szerszenia",
+            "description": "+220% Obrażeń",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Uderzenie_Szerszenia"
+        },
+        "uk": {
+            "item_name": "Напад Шершня",
+            "description": "+220% до шкоди",
+            "wiki_link": "https://warframe.fandom.com/wiki/Hornet_Strike"
+        }
     },
     "rarity": "uncommon",
     "max_rank": 10,

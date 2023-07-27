@@ -13,67 +13,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Warframe/AvatarPowerMaxMod"
     },
-    "en": {
-        "item_name": "Flow",
-        "description": "+150% Energy Max",
-        "wiki_link": "https://warframe.fandom.com/wiki/Flow"
-    },
-    "ru": {
-        "item_name": "Поток",
-        "description": "+150% к запасу энергии",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
-        "icon": "items/images/ru/flow.fbd625752e6c15063fea368b83f7eaf3.png",
-        "thumb": "items/images/ru/thumbs/flow.fbd625752e6c15063fea368b83f7eaf3.128x128.png"
-    },
-    "ko": {
-        "item_name": "플로우",
-        "description": "+150% 최대 에너지량",
-        "wiki_link": "https://warframe.fandom.com/wiki/Flow"
-    },
-    "de": {
-        "item_name": "Fluss",
-        "description": "+150 % Maximale Energie",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Fluss"
-    },
-    "fr": {
-        "item_name": "Flux",
-        "description": "+150% d'Énergie Max",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Flux"
-    },
-    "pt": {
-        "item_name": "Flow",
-        "description": "+150% de Energia Máxima",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Flow"
-    },
-    "zh-hans": {
-        "item_name": "川流不息",
-        "description": "+150% 最大能量",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Flow"
-    },
-    "zh-hant": {
-        "item_name": "川流不息",
-        "description": "+150% 最大能量值",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Flow"
-    },
-    "es": {
-        "item_name": "Flujo",
-        "description": "+150% de energía máxima",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Flujo"
-    },
-    "it": {
-        "item_name": "Flow",
-        "description": "+150% Energia Massima",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Flow"
-    },
-    "pl": {
-        "item_name": "Przepływ",
-        "description": "+150% Maks. Energii",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/Przep%C5%82yw"
-    },
-    "uk": {
-        "item_name": "Прилив",
-        "description": "+150% до максимальної енергії.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Flow"
+    "i18n": {
+        "en": {
+            "item_name": "Flow",
+            "description": "+150% Energy Max",
+            "wiki_link": "https://warframe.fandom.com/wiki/Flow",
+            "icon": "items/images/en/flow.f8307937a89740f0650d730c3d59da3f.png",
+            "thumb": "items/images/en/thumbs/flow.f8307937a89740f0650d730c3d59da3f.128x128.png"
+        },
+        "ru": {
+            "item_name": "Поток",
+            "description": "+150% к запасу энергии",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
+            "icon": "items/images/ru/flow.fbd625752e6c15063fea368b83f7eaf3.png",
+            "thumb": "items/images/ru/thumbs/flow.fbd625752e6c15063fea368b83f7eaf3.128x128.png"
+        },
+        "ko": {
+            "item_name": "플로우",
+            "description": "+150% 최대 에너지량",
+            "wiki_link": "https://warframe.fandom.com/wiki/Flow"
+        },
+        "de": {
+            "item_name": "Fluss",
+            "description": "+150 % Maximale Energie",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Fluss"
+        },
+        "fr": {
+            "item_name": "Flux",
+            "description": "+150% d'Énergie Max",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Flux"
+        },
+        "pt": {
+            "item_name": "Flow",
+            "description": "+150% de Energia Máxima",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Flow"
+        },
+        "zh-hans": {
+            "item_name": "川流不息",
+            "description": "+150% 最大能量",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Flow"
+        },
+        "zh-hant": {
+            "item_name": "川流不息",
+            "description": "+150% 最大能量值",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Flow"
+        },
+        "es": {
+            "item_name": "Flujo",
+            "description": "+150% de energía máxima",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Flujo"
+        },
+        "it": {
+            "item_name": "Flow",
+            "description": "+150% Energia Massima",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Flow"
+        },
+        "pl": {
+            "item_name": "Przepływ",
+            "description": "+150% Maks. Energii",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Przep%C5%82yw"
+        },
+        "uk": {
+            "item_name": "Прилив",
+            "description": "+150% до максимальної енергії",
+            "wiki_link": "https://warframe.fandom.com/wiki/Flow"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,

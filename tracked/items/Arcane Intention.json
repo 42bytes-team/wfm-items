@@ -12,65 +12,69 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Utility/HealthWhileUsingChanneledAbilities"
     },
-    "en": {
-        "item_name": "Arcane Intention",
-        "description": "Gain +250 Max Health per active channeled ability.\n+1 Arcane Revive",
-        "wiki_link": null
-    },
-    "ru": {
-        "item_name": "Мистическое Намерение",
-        "description": "Получите +250 к максимальному здоровью за каждую активную поддерживаемую способность.\n+1 Мистическое Воскрешение",
-        "wiki_link": null
-    },
-    "ko": {
-        "item_name": "아케인 인텐션",
-        "description": "현재 활성화된 토글형 어빌리티 1개 당 최대 체력에 +250의 보너스를 획득합니다.\n+1 아케인 부활",
-        "wiki_link": null
-    },
-    "de": {
-        "item_name": "Arkana: Absicht",
-        "description": "Erhalte +250 max. Gesundheit pro aktiver laufender Fähigkeit.\n+1 Arkana Wiederbelebung",
-        "wiki_link": null
-    },
-    "fr": {
-        "item_name": "Arcane Intention",
-        "description": "Gagne +250 points de Santé Max par Pouvoir canalisé actif.\n+1 Réanimation Arcane",
-        "wiki_link": null
-    },
-    "pt": {
-        "item_name": "Intenção Arcana",
-        "description": "Fornecerá +250 de Vida Máxima para cada Habilidade canalizada ativa.\n+1 Reanimação Arcana",
-        "wiki_link": null
-    },
-    "zh-hans": {
-        "item_name": "赋能·心相",
-        "description": "每个激活的导引技能提供 +250 最大生命值。\n赋能复活次数 +1",
-        "wiki_link": null
-    },
-    "zh-hant": {
-        "item_name": "意圖賦能",
-        "description": "每個啟用中的導引技能提供 +250 最大生命值。\n賦能復活次數 +1",
-        "wiki_link": null
-    },
-    "es": {
-        "item_name": "Intención Arcana",
-        "description": "Obtén +250 de salud máxima por cada habilidad canalizada activa.\n+1 Revivir Arcano",
-        "wiki_link": null
-    },
-    "it": {
-        "item_name": "Arcane Intention",
-        "description": "Ottieni +250 Salute Massima per ogni abilità canalizzata attiva.\n+1 Rianimazione Arcane",
-        "wiki_link": null
-    },
-    "pl": {
-        "item_name": "Arkanum Intencji",
-        "description": "Zyskaj +250 Maks. Życia za każdą aktywną, podtrzymywaną umiejętność.\n+1 Wskrzeszenie Arkanum",
-        "wiki_link": null
-    },
-    "uk": {
-        "item_name": "Містичний Намір",
-        "description": "Отримайте +250 до максимального здоров’я за активну здібність.\n+1 містичне відродження.",
-        "wiki_link": null
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Intention",
+            "description": "Gain +250 Max Health per active channeled ability.\n+1 Arcane Revive",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.png",
+            "thumb": "items/images/en/thumbs/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.128x128.png"
+        },
+        "ru": {
+            "item_name": "Мистическое Намерение",
+            "description": "Получите +250 к максимальному здоровью за каждую активную поддерживаемую способность.\n+1 Мистическое Воскрешение",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "아케인 인텐션",
+            "description": "현재 활성화된 토글형 어빌리티 1개 당 최대 체력에 +250의 보너스를 획득합니다.\n+1 아케인 부활",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Arkana: Absicht",
+            "description": "Erhalte +250 max. Gesundheit pro aktiver laufender Fähigkeit.\n+1 Arkana Wiederbelebung",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Arcane Intention",
+            "description": "Gagne +250 points de Santé Max par Pouvoir canalisé actif.\n+1 Réanimation Arcane",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Intenção Arcana",
+            "description": "Fornecerá +250 de Vida Máxima para cada Habilidade canalizada ativa.\n+1 Reanimação Arcana",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "赋能·心相",
+            "description": "每个激活的导引技能提供 +250 最大生命值。\n赋能复活次数 +1",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "意圖賦能",
+            "description": "每個啟用中的導引技能提供 +250 最大生命值。\n賦能復活次數 +1",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Intención Arcana",
+            "description": "Obtén +250 de salud máxima por cada habilidad canalizada activa.\n+1 Revivir Arcano",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Arcane Intention",
+            "description": "Ottieni +250 Salute Massima per ogni abilità canalizzata attiva.\n+1 Rianimazione Arcane",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Arkanum Intencji",
+            "description": "Zyskaj +250 Maks. Życia za każdą aktywną, podtrzymywaną umiejętność.\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Містичний Намір",
+            "description": "Отримайте +250 до максимального здоров’я за активну здібність.\n+1 містичне відродження.",
+            "wiki_link": null
+        }
     },
     "rarity": "uncommon",
     "max_rank": 5,

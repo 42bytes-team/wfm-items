@@ -14,67 +14,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Ninja/TeleportToAugmentCard"
     },
-    "en": {
-        "item_name": "Fatal Teleport",
-        "description": "Teleport Augment: Teleport will perform a Finisher on the target, dealing 200% Extra Damage. 50% of Energy cost is refunded on a kill.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fatal_Teleport"
-    },
-    "ru": {
-        "item_name": "Смертельный Телепорт",
-        "description": "Улучшение способности «Телепорт»: телепорт завершается добивающим приемом, наносящим 200% дополнительного урона. 50% энергии возвращается при убийстве.",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%BE%D1%80%D1%82",
-        "icon": "items/images/ru/fatal_teleport.dc869ed8219868a32c9eff74c16a3880.png",
-        "thumb": "items/images/ru/thumbs/fatal_teleport.dc869ed8219868a32c9eff74c16a3880.128x128.png"
-    },
-    "ko": {
-        "item_name": "페이탈 텔레포트",
-        "description": "텔레포트 개조: 텔레포트를 시전할 시 목표물에게 마무리 일격을 가하며, 피해량이 200% 추가됩니다. 적 처치 시 소모한 에너지의 50%가 다시 반환됩니다.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fatal_Teleport"
-    },
-    "de": {
-        "item_name": "Fataler Teleport",
-        "description": "Teleport Augment: Teleport wird einen Todesstoß am Ziel ausführen, der 200 % extra Schaden verursacht. 50 % Energiekosten werden zurückerstattet, wenn dies zum Tod des Gegners führt.",
-        "wiki_link": "https://warframe.fandom.com/de/wiki/Fataler_Teleport"
-    },
-    "fr": {
-        "item_name": "Téléportation Fatale",
-        "description": "Augmentation de Téléportation: Téléportation déclenchera un Coup de Grâce sur la cible, infligeant 200% de Dégâts supplémentaires. 50% du coût en Énergie sera restauré si la cible est éliminée.",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/T%C3%A9l%C3%A9portation_Fatale"
-    },
-    "pt": {
-        "item_name": "Fatal Teleport",
-        "description": "Ampliação Teleport: usar a habilidade em um alvo o finalizará, causando 200% de Dano Extra e ressarcindo 50% da Energia gasta no abate.",
-        "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fatal_Teleport"
-    },
-    "zh-hans": {
-        "item_name": "致命传送",
-        "description": "瞬移强化：瞬移会对目标造成处决攻击，造成200%额外伤害。50%的能量消耗将会在击杀时被退还。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fatal_Teleport"
-    },
-    "zh-hant": {
-        "item_name": "致命傳送",
-        "description": "瞬移強化：瞬移會對目標進行處決攻擊，造成 200% 額外傷害。50% 的能量消耗將於擊殺目標時返還。",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Fatal_Teleport"
-    },
-    "es": {
-        "item_name": "Teletransporte Fatal",
-        "description": "Aumento de Teletransportación: Teletransportación realizará un remate sobre el objetivo, causando 200 % de daño adicional. El 50 % del costo de energía se regresa al matarlo.",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Teletransporte_fatal"
-    },
-    "it": {
-        "item_name": "Fatal Teleport",
-        "description": "Potenziamento Teleport: Teleport effettuerà un'Esecuzione sul bersaglio, infliggendo un Danno Aggiuntivo di 200%. Il 50% dell'energia utilizzata verrà ripristinata in caso di uccisione.",
-        "wiki_link": "https://warframe.fandom.com/it/wiki/Fatal_Teleport"
-    },
-    "pl": {
-        "item_name": "Śmiertelny Teleport",
-        "description": "Modyfikacja Teleportu: Teleport spowoduje wykonanie egzekucji na celu, zadając 200% dodatkowych obrażeń. 50% kosztu energii zostanie zwróconej po zabiciu celu.",
-        "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%9Amiertelny_Teleport"
-    },
-    "uk": {
-        "item_name": "Смертоносне Переміщення",
-        "description": "Розширення здібності «Переміщення»: переміщення одразу виконує добивання, завдаючи 200% додаткової шкоди. Якщо ціль убито, Еш отримує 50% витраченої на здібність енергії.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Fatal_Teleport"
+    "i18n": {
+        "en": {
+            "item_name": "Fatal Teleport",
+            "description": "Teleport Augment: Teleport will perform a Finisher on the target, dealing 200% Extra Damage. 50% of Energy cost is refunded on a kill.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Fatal_Teleport",
+            "icon": "items/images/en/fatal_teleport.88b75d1675894c1efec4b62c74cd0ce9.png",
+            "thumb": "items/images/en/thumbs/fatal_teleport.88b75d1675894c1efec4b62c74cd0ce9.128x128.png"
+        },
+        "ru": {
+            "item_name": "Смертельный Телепорт",
+            "description": "Улучшение способности «Телепорт»: телепорт завершается добивающим приемом, наносящим 200% дополнительного урона. 50% энергии возвращается при убийстве.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%BE%D1%80%D1%82",
+            "icon": "items/images/ru/fatal_teleport.dc869ed8219868a32c9eff74c16a3880.png",
+            "thumb": "items/images/ru/thumbs/fatal_teleport.dc869ed8219868a32c9eff74c16a3880.128x128.png"
+        },
+        "ko": {
+            "item_name": "페이탈 텔레포트",
+            "description": "텔레포트 개조: 텔레포트를 시전할 시 목표물에게 마무리 일격을 가하며, 피해량이 200% 추가됩니다. 적 처치 시 소모한 에너지의 50%가 다시 반환됩니다.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Fatal_Teleport"
+        },
+        "de": {
+            "item_name": "Fataler Teleport",
+            "description": "Teleport Augment: Teleport wird einen Todesstoß am Ziel ausführen, der 200 % extra Schaden verursacht. 50 % Energiekosten werden zurückerstattet, wenn dies zum Tod des Gegners führt.",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Fataler_Teleport"
+        },
+        "fr": {
+            "item_name": "Téléportation Fatale",
+            "description": "Augmentation de Téléportation: Téléportation déclenchera un Coup de Grâce sur la cible, infligeant 200% de Dégâts supplémentaires. 50% du coût en Énergie sera restauré si la cible est éliminée.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/T%C3%A9l%C3%A9portation_Fatale"
+        },
+        "pt": {
+            "item_name": "Fatal Teleport",
+            "description": "Ampliação Teleport: usar a habilidade em um alvo o finalizará, causando 200% de Dano Extra e ressarcindo 50% da Energia gasta no abate.",
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Fatal_Teleport"
+        },
+        "zh-hans": {
+            "item_name": "致命传送",
+            "description": "瞬移强化：瞬移会对目标造成处决攻击，造成200%额外伤害。50%的能量消耗将会在击杀时被退还。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Fatal_Teleport"
+        },
+        "zh-hant": {
+            "item_name": "致命傳送",
+            "description": "瞬移強化：瞬移會對目標進行處決攻擊，造成 200% 額外傷害。50% 的能量消耗將於擊殺目標時返還。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Fatal_Teleport"
+        },
+        "es": {
+            "item_name": "Teletransporte Fatal",
+            "description": "Aumento de Teletransportación: Teletransportación realizará un remate sobre el objetivo, causando 200 % de daño adicional. El 50 % del costo de energía se regresa al matarlo.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Teletransporte_fatal"
+        },
+        "it": {
+            "item_name": "Fatal Teleport",
+            "description": "Potenziamento Teleport: Teleport effettuerà un'Esecuzione sul bersaglio, infliggendo un Danno Aggiuntivo di 200%. Il 50% dell'energia utilizzata verrà ripristinata in caso di uccisione.",
+            "wiki_link": "https://warframe.fandom.com/it/wiki/Fatal_Teleport"
+        },
+        "pl": {
+            "item_name": "Śmiertelny Teleport",
+            "description": "Modyfikacja Teleportu: Teleport spowoduje wykonanie egzekucji na celu, zadając 200% dodatkowych obrażeń. 50% kosztu energii zostanie zwróconej po zabiciu celu.",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/%C5%9Amiertelny_Teleport"
+        },
+        "uk": {
+            "item_name": "Смертоносне Переміщення",
+            "description": "Розширення здібності «Переміщення»: переміщення одразу виконує добивання, завдаючи 200% додаткової шкоди. Якщо ціль убито, Еш отримує 50% витраченої на здібність енергії.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Fatal_Teleport"
+        }
     },
     "rarity": "rare",
     "max_rank": 3,

@@ -15,67 +15,71 @@
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceAimingMod"
     },
-    "en": {
-        "item_name": "Marked Target",
-        "description": "+120% Status Chance when Aiming",
-        "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
-    },
-    "ru": {
-        "item_name": "Отмеченная Цель",
-        "description": "+120% к шансу статуса при прицеливании",
-        "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D0%BC%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A6%D0%B5%D0%BB%D1%8C",
-        "icon": "items/images/ru/marked_target.8bd529e41c6ad792209e6282f1f4f297.png",
-        "thumb": "items/images/ru/thumbs/marked_target.8bd529e41c6ad792209e6282f1f4f297.128x128.png"
-    },
-    "ko": {
-        "item_name": "마크드 타겟",
-        "description": "조준 시 +120% 상태 이상 확률",
-        "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
-    },
-    "de": {
-        "item_name": "Markiertes Ziel",
-        "description": "+120% Statuschance beim Zielen",
-        "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
-    },
-    "fr": {
-        "item_name": "Cible Marquée",
-        "description": "+120% de Chances de Statut en Visant",
-        "wiki_link": "https://warframe.fandom.com/fr/wiki/Cible_Marqu%C3%A9e"
-    },
-    "pt": {
-        "item_name": "Marked Target",
-        "description": "+120% de Chance de Status ao Mirar",
-        "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
-    },
-    "zh-hans": {
-        "item_name": "标记目标",
-        "description": "+120% 瞄准时的触发几率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Marked_Target"
-    },
-    "zh-hant": {
-        "item_name": "標記目標",
-        "description": "+120% 瞄準時的觸發機率",
-        "wiki_link": "https://warframe.huijiwiki.com/wiki/Marked_Target"
-    },
-    "es": {
-        "item_name": "Objetivo Marcado",
-        "description": "+120% de probabilidad de estado al apuntar",
-        "wiki_link": "https://warframe.fandom.com/es/wiki/Objetivo_marcado"
-    },
-    "it": {
-        "item_name": "Marked Target",
-        "description": "+120% Probabilità Effetto durante la Mira",
-        "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
-    },
-    "pl": {
-        "item_name": "Zaznaczony Cel",
-        "description": "+120% Szansy na Status podczas Celowania",
-        "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
-    },
-    "uk": {
-        "item_name": "Позначена Ціль",
-        "description": "+120% до ймовірності застосувати ефект стану під час прицілювання.",
-        "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
+    "i18n": {
+        "en": {
+            "item_name": "Marked Target",
+            "description": "+120% Status Chance when Aiming",
+            "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target",
+            "icon": "items/images/en/marked_target.1ad2a7f2e824f40970eeb194184935d3.png",
+            "thumb": "items/images/en/thumbs/marked_target.1ad2a7f2e824f40970eeb194184935d3.128x128.png"
+        },
+        "ru": {
+            "item_name": "Отмеченная Цель",
+            "description": "+120% к шансу статуса при прицеливании",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D1%82%D0%BC%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A6%D0%B5%D0%BB%D1%8C",
+            "icon": "items/images/ru/marked_target.8bd529e41c6ad792209e6282f1f4f297.png",
+            "thumb": "items/images/ru/thumbs/marked_target.8bd529e41c6ad792209e6282f1f4f297.128x128.png"
+        },
+        "ko": {
+            "item_name": "마크드 타겟",
+            "description": "조준 시 +120% 상태 이상 확률",
+            "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
+        },
+        "de": {
+            "item_name": "Markiertes Ziel",
+            "description": "+120% Statuschance beim Zielen",
+            "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
+        },
+        "fr": {
+            "item_name": "Cible Marquée",
+            "description": "+120% de Chances de Statut en Visant",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Cible_Marqu%C3%A9e"
+        },
+        "pt": {
+            "item_name": "Marked Target",
+            "description": "+120% de Chance de Status ao Mirar",
+            "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
+        },
+        "zh-hans": {
+            "item_name": "标记目标",
+            "description": "+120% 瞄准时的触发几率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Marked_Target"
+        },
+        "zh-hant": {
+            "item_name": "標記目標",
+            "description": "+120% 瞄準時的觸發機率",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Marked_Target"
+        },
+        "es": {
+            "item_name": "Objetivo Marcado",
+            "description": "+120% de probabilidad de estado al apuntar",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Objetivo_marcado"
+        },
+        "it": {
+            "item_name": "Marked Target",
+            "description": "+120% Probabilità Effetto durante la Mira",
+            "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
+        },
+        "pl": {
+            "item_name": "Zaznaczony Cel",
+            "description": "+120% Szansy na Status podczas Celowania",
+            "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
+        },
+        "uk": {
+            "item_name": "Позначена Ціль",
+            "description": "+120% до ймовірності накладання ефекту стану під час прицілювання",
+            "wiki_link": "https://warframe.fandom.com/wiki/Marked_Target"
+        }
     },
     "rarity": "rare",
     "max_rank": 5,
