@@ -1,0 +1,92 @@
+{
+    "_id": "6530694622c7fd9770508548",
+    "tags": [
+        "prime",
+        "secondary",
+        "weapon",
+        "set"
+    ],
+    "icon": "items/images/en/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.png",
+    "thumb": "items/images/en/thumbs/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+    "url_name": "zylok_prime_set",
+    "redirect_from": [
+        "zylok_prime"
+    ],
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Tenno/Pistols/PrimeZylok/ZylokPrimePistol",
+        "type": "set"
+    },
+    "part_of_set": [
+        "zylok_prime_barrel",
+        "zylok_prime_blueprint",
+        "zylok_prime_receiver",
+        "zylok_prime_set"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Zylok Prime Set",
+            "description": "A lightweight weapon that packs a punch worthy of its golden design.",
+            "wiki_link": "https://warframe.fandom.com/wiki/Zylok_Prime"
+        },
+        "ru": {
+            "item_name": "Зайлок Прайм: Комплект",
+            "description": "Легкое оружие, обладающее мощью, достойной своего золочёного дизайна.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "자일락 프라임 세트",
+            "description": "경량화된 외형 속, 황금빛의 디자인에 걸맞는 강력한 파괴력을 숨긴 무기입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Zylok Prime: Set",
+            "description": "Eine leichte Waffe mit einer Schlagkraft, die ihres goldenen Designs würdig ist.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Zylok Prime - Set",
+            "description": "Une arme légère qui a un punch digne de son aspect doré.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Zylok Prime: Conjunto",
+            "description": "Uma arma leve que tem um impacto digno de sua aparência dourada.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "席尔火枪 Prime 一套",
+            "description": "（英文：ZYLOK PRIME）看似轻巧的武器，却有着与其金色设计相称的巨大威力。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Zylok_Prime"
+        },
+        "zh-hant": {
+            "item_name": "賽爾火槍 Prime 一套",
+            "description": "（英文：ZYLOK PRIME）威力與其金色設計相稱的輕量武器。",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Zylok_Prime"
+        },
+        "es": {
+            "item_name": "Set de Zylok Prime",
+            "description": "Un arma ligera que tiene una potencia digna de su diseño dorado.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Zylok Prime Set",
+            "description": "Un'arma leggera che sprigiona una potenza degna del suo aspetto dorato.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Zylok Prime: Zestaw",
+            "description": "Lekka broń o dużej mocy godnej swojej złotej budowy.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Зайлок-Прайм (комплект)",
+            "description": "Легка зброя, яка завдає шкоди, вартої її золотого покриву.",
+            "wiki_link": null
+        }
+    },
+    "mastery_level": 13,
+    "ducats": 160,
+    "trading_tax": 6000
+}

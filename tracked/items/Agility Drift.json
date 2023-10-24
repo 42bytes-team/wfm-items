@@ -16,14 +16,14 @@
     "i18n": {
         "en": {
             "item_name": "Agility Drift",
-            "description": "Reduces damage by 12% when Airborne.\n+6% Evasion",
+            "description": "Reduced damage by 12% while airborne\n-6% Enemy Accuracy when targeting Warframe",
             "wiki_link": "https://warframe.fandom.com/wiki/Agility_Drift",
             "icon": "items/images/en/agility_drift.b2bb6cdbb38b3b7531de8b626a7805c6.png",
             "thumb": "items/images/en/thumbs/agility_drift.b2bb6cdbb38b3b7531de8b626a7805c6.128x128.png"
         },
         "ru": {
             "item_name": "Проворное Течение",
-            "description": "Уменьшенный на 12% урон во время полета.\n+6% уклонение",
+            "description": "Получаемый в воздухе урон снижается на 12%\n-6% к точности врага при прицеливании в варфрейма",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%A2%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
             "icon": "items/images/ru/agility_drift.cb29e4e3d9336e3fb7b2d93a891dde48.png",
             "icon_format": "port",
@@ -31,52 +31,52 @@
         },
         "ko": {
             "item_name": "어질리티 드리프트",
-            "description": "공중에 떠 있을 시 12% 피해 감소\n+6% 회피",
+            "description": "공중에 떠 있을 시 12% 피해 감소\n적이 워프레임을 겨냥할 때의 정확도가 -6% 감소합니다.",
             "wiki_link": "https://warframe.fandom.com/wiki/Agility_Drift"
         },
         "de": {
             "item_name": "Agile Trift",
-            "description": "Schaden während Sprüngen reduziert um 12 %.\n+6 % Ausweichen",
+            "description": "Reduziert Schaden in der Luft um 12 %\n-6 % Genauigkeit bei Feinden, wenn sie auf einen Warframe zielen",
             "wiki_link": "https://warframe.fandom.com/de/wiki/Agile_Trift"
         },
         "fr": {
             "item_name": "Art De L'Agilité",
-            "description": "Réduction des Dégâts reçus dans les airs de 12%.\n+6% d'Esquive",
+            "description": "Réduction des dégâts de 12% en vol\n-6% de précision de l'ennemi quand ils ciblent une Warframe",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Art_de_l%27Agilit%C3%A9"
         },
         "pt": {
             "item_name": "Agility Drift",
-            "description": "Reduzirá o dano em 12% enquanto estiver no ar.\n+6% de Evasão",
+            "description": "Reduzirá o dano em 12% enquanto estiver no ar\n-6% de Precisão do inimigo ao mirar no Warframe",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Agility_Drift"
         },
         "zh-hans": {
             "item_name": "矫捷窜升",
-            "description": "在空中时减少12%的损伤\n+6% 回避",
+            "description": "在空中时受到的伤害降低 12%\n当敌人瞄准战甲时，精准度为 -6%",
             "wiki_link": "https://warframe.huijiwiki.com/wiki/Agility_Drift"
         },
         "zh-hant": {
             "item_name": "矯捷竄升",
-            "description": "在空中時減少 12% 的損傷\n+6% 迴避",
+            "description": "在空中時，減少受到的傷害 12%\n以 Warframe 為目標時，敵人精準度為 -6%。",
             "wiki_link": "https://warframe.huijiwiki.com/wiki/Agility_Drift"
         },
         "es": {
             "item_name": "Derivación Ágil",
-            "description": "Reduce el daño en un 12 % al estar en el aire.\n+6% de evasión",
+            "description": "Daño reducido en un 12 % al estar en el aire\n-6 % de precisión del enemigo al apuntar al warframe",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Derivaci%C3%B3n_%C3%A1gil"
         },
         "it": {
             "item_name": "Agility Drift",
-            "description": "Danno ridotto del 12% mentre in Volo.\n+6% Evasione",
+            "description": "Danno ridotto del 12% mentre in Volo\n-6% Precisione Nemica quando prende di mira un Warframe",
             "wiki_link": "http://warframe.wikia.com/wiki/Agility_Drift"
         },
         "pl": {
             "item_name": "Dryf Zwinności",
-            "description": "Zmniejsza otrzymywane obrażenia w czasie przebywania w powietrzu o 12%.\n+6% Uniku",
+            "description": "Zmniejsza otrzymywane obrażenia w czasie przebywania w powietrzu o 12%\n-6% Celności Wrogów przy atakowaniu Warframe'ów",
             "wiki_link": "https://warframe.fandom.com/pl/wiki/Dryf_Zwinno%C5%9Bci"
         },
         "uk": {
             "item_name": "Припливна Спритність",
-            "description": "Отримувана в повітрі шкода зменшується на 12%.\n+6% до ухилення.",
+            "description": "Отримувана в повітрі шкода зменшується на 12%\n-6% до ворожої влучності у ворфреймів",
             "wiki_link": "https://warframe.fandom.com/wiki/Agility_Drift"
         }
     },

@@ -1,0 +1,89 @@
+{
+    "_id": "6530694722c7fd977050854b",
+    "tags": [
+        "weapon",
+        "prime",
+        "component"
+    ],
+    "icon": "items/images/en/zylok_prime_receiver.3e33bc4a5c48f70000b4ad50fa283437.png",
+    "thumb": "items/images/en/thumbs/zylok_prime_receiver.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+    "url_name": "zylok_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZylokPrimeReceiver"
+    },
+    "part_of_set": [
+        "zylok_prime_barrel",
+        "zylok_prime_blueprint",
+        "zylok_prime_receiver",
+        "zylok_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Zylok Prime Receiver",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Зайлок Прайм: Приёмник",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "자일락 프라임 리시버",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Zylok Prime: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Zylok Prime - Culasse",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Zylok Prime: Receptor",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "席尔火枪 Prime 枪机",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "賽爾火槍 Prime 槍機",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Receptor De Zylok Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Zylok Prime - Castello",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Zylok Prime: Korpus",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Зайлок-Прайм: Ствольна Коробка",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null
+        }
+    },
+    "mastery_level": 13,
+    "ducats": 45,
+    "trading_tax": 2000
+}

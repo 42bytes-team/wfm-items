@@ -16,66 +16,66 @@
     "i18n": {
         "en": {
             "item_name": "Fired Up",
-            "description": "+60% Heat at Max Overheat",
+            "description": "5% Heat Damage on weapon per hit. Stacks up to 100%. Resets after 5s with no hits.",
             "wiki_link": "https://warframe.fandom.com/wiki/Fired_Up",
             "icon": "items/images/en/fired_up.33e41b63a3f193f1e801b503a1afb585.png",
             "thumb": "items/images/en/thumbs/fired_up.33e41b63a3f193f1e801b503a1afb585.128x128.png"
         },
         "ru": {
             "item_name": "С Огоньком",
-            "description": "+60% урона огнем при Перегреве",
+            "description": "5% урона огнём за удар. Суммируется до 100%. Сбрасывается через 5 сек. при отсутствии попаданий.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1_%D0%9E%D0%B3%D0%BE%D0%BD%D1%8C%D0%BA%D0%BE%D0%BC",
             "icon": "items/images/ru/fired_up.0b83271365ce0a0aa27e2c52ff9eed89.png",
             "thumb": "items/images/ru/thumbs/fired_up.0b83271365ce0a0aa27e2c52ff9eed89.128x128.png"
         },
         "ko": {
             "item_name": "파이어드 업",
-            "description": "최대 과열 시 +60% 화염",
+            "description": "공격이 명중할 때마다 무기에 5%의 화염 피해가 쌓이며, 최대 100%까지 중첩됩니다. 공격이 명중하지 못한 채로 5초가 지나면 초기화됩니다.",
             "wiki_link": "https://warframe.fandom.com/wiki/Fired_Up"
         },
         "de": {
             "item_name": "Anheizen",
-            "description": "+60 % Hitze bei maximalem Anheizen",
+            "description": "5 % Hitzeschaden der Waffe pro Treffer. Bis zu 100 % stapelbar. Wird nach 5 s ohne Treffer zurückgesetzt.",
             "wiki_link": "https://warframe.fandom.com/de/wiki/Anheizen"
         },
         "fr": {
             "item_name": "Allumage",
-            "description": "+60% de Feu en Surchauffe Maximale",
+            "description": "5% de Dégâts de Feu à l'arme par coup. Se cumule jusqu'à 100%. Se réinitialise après 5s sans coup.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Allumage"
         },
         "pt": {
             "item_name": "Fired Up",
-            "description": "+60% de Ígneo no Superaquecimento Máximo",
+            "description": "5% de Dano Ígneo na arma por acerto. Acumulará até 100%. Reiniciará após 5s sem acertos.",
             "wiki_link": "http://warframe.wikia.com/wiki/Fired_Up"
         },
         "zh-hans": {
             "item_name": "过热射击",
-            "description": "最大过热射击时增加 +60% 火焰伤害",
+            "description": "武器每次击中造成 5% 火焰伤害。伤害最多叠加 100%。未命中 5 秒后重置。",
             "wiki_link": "https://warframe.huijiwiki.com/wiki/Fired_Up"
         },
         "zh-hant": {
             "item_name": "過熱射擊",
-            "description": "最大過熱射擊時增加 +60% 火焰傷害",
+            "description": "武器每次擊中造成 火焰傷害 5%。最多可疊加 100%。未擊中時，於 5 秒後重置。",
             "wiki_link": "https://warframe.huijiwiki.com/wiki/Fired_Up"
         },
         "es": {
             "item_name": "Encendido",
-            "description": "+60% de calor al alcanzar máximo sobrecalentamiento",
+            "description": "5 % de daño de calor al arma por golpe. Se acumula hasta un 100 %. Se reinicia después de 5 s sin un golpe.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Encendido"
         },
         "it": {
             "item_name": "Fired Up",
-            "description": "+60% Fuoco al Massimo Surriscaldamento",
+            "description": "5% Danno Fuoco su un'arma per colpo. Si accumula fino al 100%. Si ripristina dopo 5s senza colpi.",
             "wiki_link": "http://warframe.wikia.com/wiki/Fired_Up"
         },
         "pl": {
             "item_name": "Przegrzanie",
-            "description": "+60% Ognia przy Maks. Przegrzaniu",
+            "description": "5% Obr. od Ognia przy trafieniu. Kumuluje się do 100%. Premia resetuje się po 5 s bez trafienia.",
             "wiki_link": "https://warframe.fandom.com/pl/wiki/Przegrzanie"
         },
         "uk": {
             "item_name": "Розігрів",
-            "description": "+60% до термічної шкоди під час максимального перегрівання.",
+            "description": "5% термічної шкоди для зброї за влучання. Накопичується до 100%. Скидається після 5 с без влучань.",
             "wiki_link": "https://warframe.fandom.com/wiki/Fired_Up"
         }
     },

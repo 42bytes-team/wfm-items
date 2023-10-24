@@ -1,0 +1,81 @@
+{
+    "_id": "65316998f31453d36319c573",
+    "tags": [
+        "mod",
+        "rare",
+        "sentinel",
+        "companion"
+    ],
+    "icon": "items/images/en/restorative_bond.d60acbbcc963996e5e591492e5938a17.png",
+    "thumb": "items/images/en/thumbs/restorative_bond.d60acbbcc963996e5e591492e5938a17.128x128.png",
+    "url_name": "restorative_bond",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Sentinels/SentinelPrecepts/VoidBond/MutualNourishment"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Restorative Bond",
+            "description": "Health Orbs restore 60 more health and reduce Companion Recovery by 3s.",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Восстановительная Связь",
+            "description": "Сферы здоровья восстанавливают ещё 60 единиц здоровья и уменьшают время восстановления компаньона на 3 сек.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "리스토레이티브 본드",
+            "description": "체력 오브 획득 시 60의 체력을 추가로 회복하며, 동반자의 회복 시간이 3초 감소합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Heilende Bindung",
+            "description": "Gesundheitskugeln stellen 60 extra Gesundheit her und verringern die Erholung des Begleiters um 3 s.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Lien Revigorant",
+            "description": "Les Orbes de Santé restaurent 60 points de Santé supplémentaires et réduisent le temps de récupération du Compagnon de 3s.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Restorative Bond",
+            "description": "Orbes de Vida restaurarão mais 60 de Vida e reduzirão o Tempo de Recuperação do Companheiro em 3s.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "恢复连结",
+            "description": "生命球可恢复额外 60 生命值，并减少同伴恢复时间 3 秒。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "復甦鏈結",
+            "description": "生命球恢復額外 60 生命並降低同伴恢復時間 3 秒。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Vínculo Restaurativo",
+            "description": "Los orbes de salud restauran 60 más de salud y reducen el tiempo de recuperación de tu compañero en 3 s.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Restorative Bond",
+            "description": "Le Sfere Salute ripristinano 60 più salute e riducono il Recupero del Compagno di 3s.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Więź Odnowy",
+            "description": "Kule Życia przywracają 60 więcej życia i skracają czas Obezwładnienia Towarzysza o 3 sek.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Відновний Зв’язок",
+            "description": "Згустки здоров’я відновлюють на 60 більше здоров’я й зменшують час повернення супутників на 3 с.",
+            "wiki_link": null
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

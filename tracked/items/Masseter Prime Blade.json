@@ -1,0 +1,89 @@
+{
+    "_id": "6530690f22c7fd9770508546",
+    "tags": [
+        "weapon",
+        "prime",
+        "component"
+    ],
+    "icon": "items/images/en/masseter_prime_blade.d507aa3bf568e9ca76f7bc9b6d2288c8.png",
+    "thumb": "items/images/en/thumbs/masseter_prime_blade.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png",
+    "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
+    "url_name": "masseter_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/MasseterPrimeBlade"
+    },
+    "part_of_set": [
+        "masseter_prime_blade",
+        "masseter_prime_blueprint",
+        "masseter_prime_handle",
+        "masseter_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Masseter Prime Blade",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Массетер Прайм: Лезвие",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "매시터 프라임 블레이드",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Masseter Prime: Klinge",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Masseter Prime - Lame",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Masseter Prime: Lâmina",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "咀嚼金棒 Prime 刀刃",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "咀嚼金棒 Prime 刀刃",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Hoja De Masseter Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Masseter Prime - Lama",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Masseter Prime: Ostrze",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Масетер-Прайм: Клинок",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null
+        }
+    },
+    "mastery_level": 14,
+    "ducats": 100,
+    "trading_tax": 2000
+}
