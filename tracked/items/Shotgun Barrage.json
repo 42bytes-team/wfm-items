@@ -9,7 +9,10 @@
     "icon": "items/images/en/shotgun_spazz.447f21a32bb091abf33aede1d2f32295.png",
     "thumb": "items/images/en/thumbs/shotgun_spazz.447f21a32bb091abf33aede1d2f32295.128x128.png",
     "icon_format": "port",
-    "url_name": "shotgun_spazz",
+    "url_name": "shotgun_barrage",
+    "redirect_from": [
+        "shotgun_spazz"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireRateMod"

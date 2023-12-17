@@ -10,7 +10,10 @@
     "icon": "items/images/en/conductive_blade.dbd843a5bdcdf3c963a99b8afbf906c8.png",
     "thumb": "items/images/en/thumbs/conductive_blade.dbd843a5bdcdf3c963a99b8afbf906c8.128x128.png",
     "icon_format": "port",
-    "url_name": "galvanized_blade",
+    "url_name": "conductive_blade",
+    "redirect_from": [
+        "galvanized_blade"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponElectricityDamageMod"

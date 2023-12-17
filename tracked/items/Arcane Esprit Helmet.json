@@ -7,7 +7,10 @@
     "icon": "items/images/en/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.png",
     "thumb": "items/images/en/thumbs/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.128x128.png",
     "icon_format": "land",
-    "url_name": "arcane_esprit_vauban_helmet",
+    "url_name": "arcane_esprit_helmet",
+    "redirect_from": [
+        "arcane_esprit_vauban_helmet"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAlt"

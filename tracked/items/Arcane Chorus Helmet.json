@@ -7,7 +7,10 @@
     "icon": "items/images/en/arcane_chorus_banshee_helmet.77feb6495c839bdc977d61a22f02bbcc.png",
     "thumb": "items/images/en/thumbs/arcane_chorus_banshee_helmet.77feb6495c839bdc977d61a22f02bbcc.128x128.png",
     "icon_format": "land",
-    "url_name": "arcane_chorus_banshee_helmet",
+    "url_name": "arcane_chorus_helmet",
+    "redirect_from": [
+        "arcane_chorus_banshee_helmet"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetB"

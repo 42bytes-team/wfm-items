@@ -10,7 +10,10 @@
     "icon": "items/images/en/static_alacrity.6b3933168d44d40b5c6c70f0f53d1eb2.png",
     "thumb": "items/images/en/thumbs/static_alacrity.6b3933168d44d40b5c6c70f0f53d1eb2.128x128.png",
     "icon_format": "port",
-    "url_name": "static_alacrity_(staticor)",
+    "url_name": "static_alacrity",
+    "redirect_from": [
+        "static_alacrity_(staticor)"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/StaticorFasterProjLessAoE"

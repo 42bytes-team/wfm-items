@@ -9,7 +9,10 @@
     "icon": "items/images/en/curative_undertow.fa308482fddacdfa8814c5625d5e0284.png",
     "thumb": "items/images/en/thumbs/curative_undertow.fa308482fddacdfa8814c5625d5e0284.128x128.png",
     "icon_format": "port",
-    "url_name": "curative_undertow",
+    "url_name": "rousing_plunder",
+    "redirect_from": [
+        "curative_undertow"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Pirate/LiquifyAugmentCard"
@@ -61,7 +64,7 @@
         },
         "es": {
             "item_name": "Saqueo Entusiasta",
-            "description": "Aumento de Saqueo: Saqueo gana 50 % máximo de daño corrosivo y armadura, y cura a los aliados dentro del rango de afinidad por 50 de salud.",
+            "description": "Aumento de Saqueo: Saqueo gana un 50 % de daño corrosivo y armadura máxima, y cura a los aliados dentro del rango de afinidad por 50 de salud.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Resaca_curativa"
         },
         "it": {
@@ -76,7 +79,7 @@
         },
         "uk": {
             "item_name": "Надихальний Грабіж",
-            "description": "Розширення здібності «Грабіж»: здібність збільшує максимальний захист і корозійну шкоду на 50%, а також зцілює 50 ОЗ союзникам у межах дії єдності.",
+            "description": "Розширення здібності «Грабіж»: здібність збільшує максимальний захист і корозійну шкоду на 50%, а також зцілює 50 ОЗ союзникам у межах досяжності єдності.",
             "wiki_link": "https://warframe.fandom.com/wiki/Curative_Undertow"
         }
     },

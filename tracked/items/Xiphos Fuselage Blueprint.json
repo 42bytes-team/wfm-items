@@ -7,15 +7,18 @@
     "thumb": "items/images/en/thumbs/xiphos_fuselage.452dba7ad34799a24d7d72d8f5e206eb.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/landingCraft/generic_fuselage_128x128.png",
-    "url_name": "xiphos_fuselage",
+    "url_name": "xiphos_fuselage_blueprint",
+    "redirect_from": [
+        "xiphos_fuselage"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/Gyroscope/GyroscopeFuselageBlueprint"
     },
     "part_of_set": [
-        "xiphos_avionics",
-        "xiphos_engines",
-        "xiphos_fuselage",
+        "xiphos_avionics_blueprint",
+        "xiphos_engines_blueprint",
+        "xiphos_fuselage_blueprint",
         "xiphos_set"
     ],
     "set_root": false,

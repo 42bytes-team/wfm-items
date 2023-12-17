@@ -8,7 +8,10 @@
     "icon": "items/images/en/speed_holster.54553d4b3c642c7702ab942455e005bb.png",
     "thumb": "items/images/en/thumbs/speed_holster.54553d4b3c642c7702ab942455e005bb.128x128.png",
     "icon_format": "port",
-    "url_name": "speed_holster",
+    "url_name": "holster_amp",
+    "redirect_from": [
+        "speed_holster"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Aura/PlayerHolsterSpeedAuraMod"

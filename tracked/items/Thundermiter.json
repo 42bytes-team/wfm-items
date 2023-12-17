@@ -10,7 +10,10 @@
     "icon": "items/images/en/thundermiter_(miter).238b4e97a7f06da1447b393de0611e9b.png",
     "thumb": "items/images/en/thumbs/thundermiter_(miter).238b4e97a7f06da1447b393de0611e9b.128x128.png",
     "icon_format": "port",
-    "url_name": "thundermiter_(miter)",
+    "url_name": "thundermiter",
+    "redirect_from": [
+        "thundermiter_(miter)"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/ExplodingMiterBlades"

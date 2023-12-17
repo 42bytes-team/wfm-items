@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/banshee_prime_neuroptics.a0956816beb733841bce57e69a568cd6.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "banshee_prime_neuroptics",
+    "url_name": "banshee_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "banshee_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeHelmetBlueprint"
     },
     "part_of_set": [
         "banshee_prime_blueprint",
-        "banshee_prime_chassis",
-        "banshee_prime_neuroptics",
+        "banshee_prime_chassis_blueprint",
+        "banshee_prime_neuroptics_blueprint",
         "banshee_prime_set",
-        "banshee_prime_systems"
+        "banshee_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

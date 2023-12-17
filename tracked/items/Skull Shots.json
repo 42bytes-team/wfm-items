@@ -10,7 +10,10 @@
     "icon": "items/images/en/skull_shots_(viper).b6e5631fe9ba10e002354a889629234a.png",
     "thumb": "items/images/en/thumbs/skull_shots_(viper).b6e5631fe9ba10e002354a889629234a.128x128.png",
     "icon_format": "port",
-    "url_name": "skull_shots_(viper)",
+    "url_name": "skull_shots",
+    "redirect_from": [
+        "skull_shots_(viper)"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/ViperUnlimitedAmmo"

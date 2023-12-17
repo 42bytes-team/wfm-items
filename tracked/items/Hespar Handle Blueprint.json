@@ -9,14 +9,17 @@
     "thumb": "items/images/en/thumbs/hespar_handle.58bd4fbd6ed4930402342b2662d68ac4.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_handle_128x128.png",
-    "url_name": "hespar_handle",
+    "url_name": "hespar_handle_blueprint",
+    "redirect_from": [
+        "hespar_handle"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriHeavyScytheHandleBlueprint"
     },
     "part_of_set": [
-        "hespar_blade",
-        "hespar_handle",
+        "hespar_blade_blueprint",
+        "hespar_handle_blueprint",
         "hespar_set"
     ],
     "set_root": false,

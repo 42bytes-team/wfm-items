@@ -7,7 +7,10 @@
     "icon": "items/images/en/arcane_aura_trinity_helmet.d2b86ccdef9653830055ab389ef0d577.png",
     "thumb": "items/images/en/thumbs/arcane_aura_trinity_helmet.d2b86ccdef9653830055ab389ef0d577.128x128.png",
     "icon_format": "land",
-    "url_name": "arcane_aura_trinity_helmet",
+    "url_name": "arcane_aura_helmet",
+    "redirect_from": [
+        "arcane_aura_trinity_helmet"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAlt"
@@ -72,7 +75,7 @@
         },
         "uk": {
             "item_name": "Містичний Шолом «Ореол»",
-            "description": "Цей шолом збільшує тривалість здібностей Трініті, але зменшує її здоров’я.",
+            "description": "Цей шолом збільшує тривалість дії здібностей Трініті, але зменшує її здоров’я.",
             "wiki_link": "https://warframe.fandom.com/wiki/Arcane_Helmet"
         }
     },

@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/frost_prime_neuroptics.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "frost_prime_neuroptics",
+    "url_name": "frost_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "frost_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/FrostPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "frost_prime_blueprint",
-        "frost_prime_chassis",
-        "frost_prime_neuroptics",
+        "frost_prime_chassis_blueprint",
+        "frost_prime_neuroptics_blueprint",
         "frost_prime_set",
-        "frost_prime_systems"
+        "frost_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

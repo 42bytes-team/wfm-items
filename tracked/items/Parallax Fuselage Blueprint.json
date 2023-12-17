@@ -7,15 +7,18 @@
     "thumb": "items/images/en/thumbs/parallax_fuselage.75e7e972c395cb8f385c810b9c73b55c.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/landingCraft/generic_fuselage_128x128.png",
-    "url_name": "parallax_fuselage",
+    "url_name": "parallax_fuselage_blueprint",
+    "redirect_from": [
+        "parallax_fuselage"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/ZarimanShip/ZarimanShipFuselageBlueprint"
     },
     "part_of_set": [
-        "parallax_avionics",
-        "parallax_engines",
-        "parallax_fuselage",
+        "parallax_avionics_blueprint",
+        "parallax_engines_blueprint",
+        "parallax_fuselage_blueprint",
         "parallax_set"
     ],
     "set_root": false,

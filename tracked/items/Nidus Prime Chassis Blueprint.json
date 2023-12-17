@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/nidus_prime_chassis.1cf479b37c98ce42340156c9c005e91e.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
-    "url_name": "nidus_prime_chassis",
+    "url_name": "nidus_prime_chassis_blueprint",
+    "redirect_from": [
+        "nidus_prime_chassis"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeChassisBlueprint"
     },
     "part_of_set": [
         "nidus_prime_blueprint",
-        "nidus_prime_chassis",
-        "nidus_prime_neuroptics",
+        "nidus_prime_chassis_blueprint",
+        "nidus_prime_neuroptics_blueprint",
         "nidus_prime_set",
-        "nidus_prime_systems"
+        "nidus_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

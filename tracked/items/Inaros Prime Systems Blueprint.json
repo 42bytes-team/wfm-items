@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/inaros_prime_systems.58fc170fbf04332e7d541a615c198b41.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
-    "url_name": "inaros_prime_systems",
+    "url_name": "inaros_prime_systems_blueprint",
+    "redirect_from": [
+        "inaros_prime_systems"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/InarosPrimeSystemsBlueprint"
     },
     "part_of_set": [
         "inaros_prime_blueprint",
-        "inaros_prime_chassis",
-        "inaros_prime_neuroptics",
+        "inaros_prime_chassis_blueprint",
+        "inaros_prime_neuroptics_blueprint",
         "inaros_prime_set",
-        "inaros_prime_systems"
+        "inaros_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

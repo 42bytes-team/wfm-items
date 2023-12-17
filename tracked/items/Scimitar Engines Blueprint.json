@@ -7,15 +7,18 @@
     "thumb": "items/images/en/thumbs/scimitar_engines.c8644ada3c4381efbe9a11b55c58b0a7.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/landingCraft/generic_engines_128x128.png",
-    "url_name": "scimitar_engines",
+    "url_name": "scimitar_engines_blueprint",
+    "redirect_from": [
+        "scimitar_engines"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/BlueSky/BlueSkyEnginesBlueprint"
     },
     "part_of_set": [
-        "scimitar_avionics",
-        "scimitar_engines",
-        "scimitar_fuselage",
+        "scimitar_avionics_blueprint",
+        "scimitar_engines_blueprint",
+        "scimitar_fuselage_blueprint",
         "scimitar_set"
     ],
     "set_root": false,

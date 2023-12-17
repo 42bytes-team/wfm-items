@@ -10,7 +10,10 @@
     "icon": "items/images/en/ambush_optics_(rubico).95034bc198404a324392a661e7e6cd0c.png",
     "thumb": "items/images/en/thumbs/ambush_optics_(rubico).95034bc198404a324392a661e7e6cd0c.128x128.png",
     "icon_format": "port",
-    "url_name": "ambush_optics_(rubico)",
+    "url_name": "ambush_optics",
+    "redirect_from": [
+        "ambush_optics_(rubico)"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RubicoLowZoom"

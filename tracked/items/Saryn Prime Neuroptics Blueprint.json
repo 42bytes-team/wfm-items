@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/saryn_prime_neuroptics.394094bef0383f954bd38d622bb075e5.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "saryn_prime_neuroptics",
+    "url_name": "saryn_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "saryn_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "saryn_prime_blueprint",
-        "saryn_prime_chassis",
-        "saryn_prime_neuroptics",
+        "saryn_prime_chassis_blueprint",
+        "saryn_prime_neuroptics_blueprint",
         "saryn_prime_set",
-        "saryn_prime_systems"
+        "saryn_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

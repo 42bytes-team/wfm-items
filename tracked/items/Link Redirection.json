@@ -9,7 +9,10 @@
     "icon": "items/images/en/link_shields.37eaecc66465a26b78684db586e56335.png",
     "thumb": "items/images/en/thumbs/link_shields.37eaecc66465a26b78684db586e56335.128x128.png",
     "icon_format": "port",
-    "url_name": "link_shields",
+    "url_name": "link_redirection",
+    "redirect_from": [
+        "link_shields"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkShieldMaxMod"
@@ -57,7 +60,7 @@
         },
         "zh-hant": {
             "item_name": "連動 蓄能",
-            "description": "護盾值增加 Warframe 最大護盾值的 +125%",
+            "description": "增加同伴護盾值相當於 Warframe 最大護盾值的 +125%",
             "wiki_link": "https://warframe.huijiwiki.com/wiki/Link_Shields"
         },
         "es": {

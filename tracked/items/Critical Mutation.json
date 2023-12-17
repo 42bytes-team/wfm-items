@@ -1,0 +1,81 @@
+{
+    "_id": "657af5ab21646e595134f5bf",
+    "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "catabolyst"
+    ],
+    "icon": "items/images/en/critical_mutation.d8b12c6827d7cd28babb791557e58eb6.png",
+    "thumb": "items/images/en/thumbs/critical_mutation.d8b12c6827d7cd28babb791557e58eb6.128x128.png",
+    "url_name": "critical_mutation",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Pistol/Event/Nightwave/NightwaveCatabolystAugmentMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Critical Mutation",
+            "description": "Each kill increases Critical Chance and Critical Damage by 30% up to 300%. Reduce by 30% when fewer than 3 enemies are struck by the grenade explosion.",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Критическая Мутация",
+            "description": "Каждое убийство увеличивает шанс критического урона и критический урон на 30% до 300%. Уменьшается на 30%, если от взрыва гранаты пострадало менее 3 врагов.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "크리티컬 뮤테이션",
+            "description": "적을 처치할 때마다 치명타 확률 및 치명타 피해가 30%씩 증가하며, 최대 300%까지 중첩됩니다. 수류탄 폭발에 타격당한 적이 3체 미만일 경우 중첩량이 30% 감소합니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Kritische Mutation",
+            "description": "Jeder Kill erhöht krit. Chance und krit. Schaden um 30 %, bis zu 300 %. Reduziert um 30 %, wenn weniger als 3 Feinde von der Explosion der Granate getroffen werden.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Mutation Critique",
+            "description": "Chaque élimination augmente les Chances de Critique et les Dégâts Critiques de 30% jusqu'à 300%. Diminution de 30% lorsque moins de 3 ennemis sont touchés par l'explosion d'une grenade.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Critical Mutation",
+            "description": "Cada eliminação aumentará a Chance Crítica e o Dano Crítico em 30%, até o limite de 300%. Reduzirá em 30% quando menos de 3 inimigos forem atingidos pela explosão da granada.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "关键突变",
+            "description": "每击杀一个敌人，暴击几率和暴击伤害都增加 30%，最高可达 300%。当手雷爆炸击中的敌人少于 3 个时，减少 30%。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "關鍵突變",
+            "description": "每次擊殺增加暴擊機率及暴擊傷害 30%，高達 300%。少於 3 名敵人被手榴彈爆炸擊中時，減少加成 30%。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Mutación Crítica",
+            "description": "Cada muerte aumenta la probabilidad crítica y el daño crítico entre 30 % y 300 %. Se reduce en un 30 % cuando menos de 3 enemigos son alcanzados por la explosión de la granada.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Critical Mutation",
+            "description": "Ogni uccisione aumenta la Probabilità Critico e il Danno Critico del 30% fino al 300%. Si riduce del 30% quando meno di 3 nemici vengono colpiti dall'esplosione di una granata.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Krytyczna Mutacja",
+            "description": "Każde zabicie zwiększa Szansę na Obrażenia Krytyczne i Obrażenia Krytyczne o 30% do 300%. Zmniejsza o 30%, gdy eksplozja granatu trafi mniej niż 3 wrogów.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Критична Мутація",
+            "description": "Кожне вбивство збільшує ймовірність критичної шкоди та саму критичну шкоду на 30%, максимум до 300%. Зменшує на 30%, коли від вибуху гранати зазнали шкоди не більше ніж 3 ворога.",
+            "wiki_link": null
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

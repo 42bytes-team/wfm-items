@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "valkyr_prime_neuroptics",
+    "url_name": "valkyr_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "valkyr_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "valkyr_prime_blueprint",
-        "valkyr_prime_chassis",
-        "valkyr_prime_neuroptics",
+        "valkyr_prime_chassis_blueprint",
+        "valkyr_prime_neuroptics_blueprint",
         "valkyr_prime_set",
-        "valkyr_prime_systems"
+        "valkyr_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

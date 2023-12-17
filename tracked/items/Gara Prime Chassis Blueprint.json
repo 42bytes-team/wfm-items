@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/gara_prime_chassis.e0359bcb2d3e747c46edd23083f39de8.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
-    "url_name": "gara_prime_chassis",
+    "url_name": "gara_prime_chassis_blueprint",
+    "redirect_from": [
+        "gara_prime_chassis"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeChassisBlueprint"
     },
     "part_of_set": [
         "gara_prime_blueprint",
-        "gara_prime_chassis",
-        "gara_prime_neuroptics",
+        "gara_prime_chassis_blueprint",
+        "gara_prime_neuroptics_blueprint",
         "gara_prime_set",
-        "gara_prime_systems"
+        "gara_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

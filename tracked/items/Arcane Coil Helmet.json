@@ -7,7 +7,10 @@
     "icon": "items/images/en/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.png",
     "thumb": "items/images/en/thumbs/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.128x128.png",
     "icon_format": "land",
-    "url_name": "arcane_coil_mag_helmet",
+    "url_name": "arcane_coil_helmet",
+    "redirect_from": [
+        "arcane_coil_mag_helmet"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt"

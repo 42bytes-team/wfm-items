@@ -10,7 +10,10 @@
     "icon": "items/images/en/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.png",
     "thumb": "items/images/en/thumbs/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.128x128.png",
     "icon_format": "port",
-    "url_name": "brain_storm_(grakata)",
+    "url_name": "brain_storm",
+    "redirect_from": [
+        "brain_storm_(grakata)"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/GrakataUnlimitedAmmo"

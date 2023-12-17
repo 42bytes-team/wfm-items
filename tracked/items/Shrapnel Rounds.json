@@ -10,7 +10,10 @@
     "icon": "items/images/en/shrapnel_rounds.5d6970e62fed4b7e5806a691540249e8.png",
     "thumb": "items/images/en/thumbs/shrapnel_rounds.5d6970e62fed4b7e5806a691540249e8.128x128.png",
     "icon_format": "port",
-    "url_name": "shrapnel_rounds_(marelok)",
+    "url_name": "shrapnel_rounds",
+    "redirect_from": [
+        "shrapnel_rounds_(marelok)"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarelokMultishot"

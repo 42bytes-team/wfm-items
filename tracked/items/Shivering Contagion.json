@@ -1,0 +1,80 @@
+{
+    "_id": "657af5ab21646e595134f5ba",
+    "tags": [
+        "mod",
+        "rare",
+        "primary"
+    ],
+    "icon": "items/images/en/shivering_contagion.18e6094431317c01e2deaf6939f00e87.png",
+    "thumb": "items/images/en/thumbs/shivering_contagion.18e6094431317c01e2deaf6939f00e87.128x128.png",
+    "url_name": "shivering_contagion",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Rifle/WeaponSpreadFreezeProcsMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Shivering Contagion",
+            "description": "Enemies affected by Cold Status have a 30% chance to spread that status to other enemies within 6m.",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Дрожащая Зараза",
+            "description": "Враги, находящиеся под действием статуса холода, имеют 30% шанс распространить этот статус на других врагов в радиусе 6 м.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "쉬버링 컨테이젼",
+            "description": "적에게 적용된 냉기 상태 이상 효과가 30%의 확률로 6m 범위 내의 다른 적에게 펴져나갈 수 있게 됩니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Bebende Ansteckung",
+            "description": "Feinde, die von Kälte-Statuseffekt betroffen sind, haben eine 30 % Chance diesen Effekt auf Feinde im Umkreis von 6 m zu übertragen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Contagion Frissonnante",
+            "description": "Les ennemis affectés par un Effet de Statut de Glace ont 30% de chances de propager ce Statut à d'autres ennemis dans un rayon de 6m.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Shivering Contagion",
+            "description": "Inimigos afetados pelo Efeito de Status Glacial terão 30% de chance de espalhá-lo para outros inimigos em um raio de 6m.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "冷颤触染",
+            "description": "受到冰冻异常状态影响的敌人有 30% 几率将此状态传播给 6 米内的敌人。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "寒顫觸染",
+            "description": "受冰凍觸發狀態效果影響的敵人有 30% 機率將該狀態效果傳播給 6 公尺內的其他敵人。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Contagio Tembloroso",
+            "description": "Los enemigos afectados por el estado de frío tienen un 30 % de probabilidades de transmitir ese estado a otros enemigos en un radio de 6 m.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Shivering Contagion",
+            "description": "I nemici affetti dall'Effetto Ghiaccio hanno il 30% Probabilità di diffondere l'effetto agli altri nemici entro 6m.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Przeziębienie",
+            "description": "Przeciwnicy pod wpływem Efektu Statusu Obr. od Zimna mają 30% szansy rozprzestrzenić go na innych przeciwników w zasięgu 6 metrów.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Тремтяче Зараження",
+            "description": "Вороги під дією ефекту стану крижаної шкоди мають 30% імовірності поширити цей ефект на інших ворогів у межах 6 м.",
+            "wiki_link": null
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

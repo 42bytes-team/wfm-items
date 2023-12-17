@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/nyx_prime_neuroptics.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "nyx_prime_neuroptics",
+    "url_name": "nyx_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "nyx_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "nyx_prime_blueprint",
-        "nyx_prime_chassis",
-        "nyx_prime_neuroptics",
+        "nyx_prime_chassis_blueprint",
+        "nyx_prime_neuroptics_blueprint",
         "nyx_prime_set",
-        "nyx_prime_systems"
+        "nyx_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

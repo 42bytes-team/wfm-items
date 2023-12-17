@@ -7,7 +7,10 @@
     "icon": "items/images/en/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.png",
     "thumb": "items/images/en/thumbs/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.128x128.png",
     "icon_format": "land",
-    "url_name": "arcane_avalon_excalibur_helmet",
+    "url_name": "arcane_avalon_helmet",
+    "redirect_from": [
+        "arcane_avalon_excalibur_helmet"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt"

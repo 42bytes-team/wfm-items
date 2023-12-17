@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/nova_prime_neuroptics.639a9222e1cb351cd6dd09ef28155ef0.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "nova_prime_neuroptics",
+    "url_name": "nova_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "nova_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NovaPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "nova_prime_blueprint",
-        "nova_prime_chassis",
-        "nova_prime_neuroptics",
+        "nova_prime_chassis_blueprint",
+        "nova_prime_neuroptics_blueprint",
         "nova_prime_set",
-        "nova_prime_systems"
+        "nova_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

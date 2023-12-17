@@ -7,7 +7,10 @@
     "icon": "items/images/en/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.png",
     "thumb": "items/images/en/thumbs/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.128x128.png",
     "icon_format": "land",
-    "url_name": "arcane_gauss_mag_helmet",
+    "url_name": "arcane_mag_gauss_helmet",
+    "redirect_from": [
+        "arcane_gauss_mag_helmet"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltB"

@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/vauban_prime_neuroptics.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "vauban_prime_neuroptics",
+    "url_name": "vauban_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "vauban_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/VaubanPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "vauban_prime_blueprint",
-        "vauban_prime_chassis",
-        "vauban_prime_neuroptics",
+        "vauban_prime_chassis_blueprint",
+        "vauban_prime_neuroptics_blueprint",
         "vauban_prime_set",
-        "vauban_prime_systems"
+        "vauban_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

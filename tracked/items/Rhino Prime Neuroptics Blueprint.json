@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/rhino_prime_neuroptics.22301207f9463fe9ab215e40eb23a326.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "rhino_prime_neuroptics",
+    "url_name": "rhino_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "rhino_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "rhino_prime_blueprint",
-        "rhino_prime_chassis",
-        "rhino_prime_neuroptics",
+        "rhino_prime_chassis_blueprint",
+        "rhino_prime_neuroptics_blueprint",
         "rhino_prime_set",
-        "rhino_prime_systems"
+        "rhino_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

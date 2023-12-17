@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/odonata_prime_systems.9087f5267b49dee37c38d36f57387753.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/archwing/prime_systems_128x128.png",
-    "url_name": "odonata_prime_systems",
+    "url_name": "odonata_prime_systems_blueprint",
+    "redirect_from": [
+        "odonata_prime_systems"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingSystemsBlueprint"
     },
     "part_of_set": [
         "odonata_prime_blueprint",
-        "odonata_prime_harness",
+        "odonata_prime_harness_blueprint",
         "odonata_prime_set",
-        "odonata_prime_systems",
-        "odonata_prime_wings"
+        "odonata_prime_systems_blueprint",
+        "odonata_prime_wings_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

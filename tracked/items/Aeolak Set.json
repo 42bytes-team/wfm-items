@@ -15,10 +15,10 @@
         "type": "set"
     },
     "part_of_set": [
-        "aeolak_barrel",
-        "aeolak_receiver",
+        "aeolak_barrel_blueprint",
+        "aeolak_receiver_blueprint",
         "aeolak_set",
-        "aeolak_stock"
+        "aeolak_stock_blueprint"
     ],
     "set_root": true,
     "i18n": {
@@ -46,7 +46,7 @@
         },
         "fr": {
             "item_name": "Aeolak - Set",
-            "description": "Ce Fusil automatique inhabituel semble étrangement familier et dispose de deux modes de tir. Le tir principal inflige des Dégâts de Radiations. Le tir secondaire envoie un projectile explosif.",
+            "description": "Ce Fusil automatique inhabituel semble étrangement familier et dispose de deux modes de tir. Le tir principal inflige des Dégâts de Radiations. Le tir alternatif envoie un projectile explosif.",
             "wiki_link": null
         },
         "pt": {

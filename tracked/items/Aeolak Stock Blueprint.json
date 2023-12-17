@@ -9,16 +9,19 @@
     "thumb": "items/images/en/thumbs/aeolak_stock.6bea718eeee31f702d625029e035b646.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
-    "url_name": "aeolak_stock",
+    "url_name": "aeolak_stock_blueprint",
+    "redirect_from": [
+        "aeolak_stock"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriRifleStockBlueprint"
     },
     "part_of_set": [
-        "aeolak_barrel",
-        "aeolak_receiver",
+        "aeolak_barrel_blueprint",
+        "aeolak_receiver_blueprint",
         "aeolak_set",
-        "aeolak_stock"
+        "aeolak_stock_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

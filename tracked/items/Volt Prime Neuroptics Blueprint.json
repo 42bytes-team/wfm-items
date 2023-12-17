@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/volt_prime_neuroptics.9481daa3eb02aaec1108cdbeeaeea159.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "volt_prime_neuroptics",
+    "url_name": "volt_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "volt_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/VoltPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "volt_prime_blueprint",
-        "volt_prime_chassis",
-        "volt_prime_neuroptics",
+        "volt_prime_chassis_blueprint",
+        "volt_prime_neuroptics_blueprint",
         "volt_prime_set",
-        "volt_prime_systems"
+        "volt_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

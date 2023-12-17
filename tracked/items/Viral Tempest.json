@@ -9,7 +9,10 @@
     "icon": "items/images/en/corroding_barrage.98840ac4923a0115b6d43b24f745e34e.png",
     "thumb": "items/images/en/thumbs/corroding_barrage.98840ac4923a0115b6d43b24f745e34e.128x128.png",
     "icon_format": "port",
-    "url_name": "corroding_barrage",
+    "url_name": "viral_tempest",
+    "redirect_from": [
+        "corroding_barrage"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Powersuits/Pirate/CannonBarrageAugmentCard"

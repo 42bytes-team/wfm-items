@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/oberon_prime_systems.d7f1623552bce11f166b715679e27022.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
-    "url_name": "oberon_prime_systems",
+    "url_name": "oberon_prime_systems_blueprint",
+    "redirect_from": [
+        "oberon_prime_systems"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeSystemsBlueprint"
     },
     "part_of_set": [
         "oberon_prime_blueprint",
-        "oberon_prime_chassis",
-        "oberon_prime_neuroptics",
+        "oberon_prime_chassis_blueprint",
+        "oberon_prime_neuroptics_blueprint",
         "oberon_prime_set",
-        "oberon_prime_systems"
+        "oberon_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

@@ -7,15 +7,18 @@
     "thumb": "items/images/en/thumbs/mantis_avionics.d4716b0defc2695308eb9b5a4b18d935.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/landingCraft/generic_chart_128x128.png",
-    "url_name": "mantis_avionics",
+    "url_name": "mantis_avionics_blueprint",
+    "redirect_from": [
+        "mantis_avionics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/LandingCraftRecipes/Mantys/MantysStarChartBlueprint"
     },
     "part_of_set": [
-        "mantis_avionics",
-        "mantis_engines",
-        "mantis_fuselage",
+        "mantis_avionics_blueprint",
+        "mantis_engines_blueprint",
+        "mantis_fuselage_blueprint",
         "mantis_set"
     ],
     "set_root": false,

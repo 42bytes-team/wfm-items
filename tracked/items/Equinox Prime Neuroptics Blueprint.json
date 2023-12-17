@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/equinox_prime_neuroptics.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "equinox_prime_neuroptics",
+    "url_name": "equinox_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "equinox_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "equinox_prime_blueprint",
-        "equinox_prime_chassis",
-        "equinox_prime_neuroptics",
+        "equinox_prime_chassis_blueprint",
+        "equinox_prime_neuroptics_blueprint",
         "equinox_prime_set",
-        "equinox_prime_systems"
+        "equinox_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

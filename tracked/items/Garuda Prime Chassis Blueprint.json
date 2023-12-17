@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/garuda_prime_chassis.283072e865cfc5da28d322b15a2065fa.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
-    "url_name": "garuda_prime_chassis",
+    "url_name": "garuda_prime_chassis_blueprint",
+    "redirect_from": [
+        "garuda_prime_chassis"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeChassisBlueprint"
     },
     "part_of_set": [
         "garuda_prime_blueprint",
-        "garuda_prime_chassis",
-        "garuda_prime_neuroptics",
+        "garuda_prime_chassis_blueprint",
+        "garuda_prime_neuroptics_blueprint",
         "garuda_prime_set",
-        "garuda_prime_systems"
+        "garuda_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

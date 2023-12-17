@@ -1,79 +1,75 @@
 {
-    "_id": "5f4ed3fad5c36d0086f55b0c",
+    "_id": "657af5aa21646e595134f5b5",
     "tags": [
-        "scene",
-        "misc"
+        "scene"
     ],
-    "icon": "items/images/en/hydroids_relay_scene.91e768cedeaa603df03763941db3120a.png",
-    "thumb": "items/images/en/thumbs/hydroids_relay_scene.91e768cedeaa603df03763941db3120a.128x128.png",
-    "icon_format": "land",
-    "url_name": "hydroids_relay_scene",
+    "icon": "items/images/en/fabrica_anatomica_scene.4d3dead09b81e08cc67cd839331be8bd.png",
+    "thumb": "items/images/en/thumbs/fabrica_anatomica_scene.4d3dead09b81e08cc67cd839331be8bd.128x128.png",
+    "url_name": "fabrica_anatomica_scene",
     "tradable": true,
     "game_ref": {
-        "uniq_name": "/Lotus/Types/Items/MiscItems/PhotoboothTileHydroidRelay"
+        "uniq_name": "/Lotus/Types/Items/PhotoBooth/Entrati/PhotoboothTileTriExperiment"
     },
     "i18n": {
         "en": {
-            "item_name": "Hydroid's Relay Scene",
+            "item_name": "Fabrica Anatomica Scene",
             "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Captura",
-            "icon": "items/images/en/hydroids_relay_scene.91e768cedeaa603df03763941db3120a.png",
-            "thumb": "items/images/en/thumbs/hydroids_relay_scene.91e768cedeaa603df03763941db3120a.128x128.png"
+            "wiki_link": null
         },
         "ru": {
-            "item_name": "Сцена: Реле Гидроида",
+            "item_name": "Сцена: Фабрика Анатомика",
             "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
-            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BF%D1%82%D1%83%D1%80%D0%B0"
+            "wiki_link": null
         },
         "ko": {
-            "item_name": "하이드로이드 릴레이 배경",
+            "item_name": "장치의 성역 배경",
             "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+            "wiki_link": null
         },
         "de": {
-            "item_name": "Photora-Szene: Hydroids Relais",
+            "item_name": "Photora-Szene: Fabrica Anatomica",
             "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+            "wiki_link": null
         },
         "fr": {
-            "item_name": "Scène Du Relais D'Hydroid",
+            "item_name": "Scène Fabrica Anatomica",
             "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
-            "wiki_link": "https://warframe.fandom.com/fr/wiki/Captura"
+            "wiki_link": null
         },
         "pt": {
-            "item_name": "Cena: Relay Do Hydroid",
+            "item_name": "Cena: Fabrica Anatomica",
             "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
-            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Captura"
+            "wiki_link": null
         },
         "zh-hans": {
-            "item_name": "Hydroid 的中继站场景",
+            "item_name": "解剖构造场景",
             "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Captura"
+            "wiki_link": null
         },
         "zh-hant": {
-            "item_name": "Hydroid 的中繼站場景",
+            "item_name": "解剖構造場景",
             "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Captura"
+            "wiki_link": null
         },
         "es": {
-            "item_name": "Escena Del Repetidor De Hydroid",
+            "item_name": "Escena De Fabrica Anatomica",
             "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
-            "wiki_link": "https://warframe.fandom.com/es/wiki/Estudio"
+            "wiki_link": null
         },
         "it": {
-            "item_name": "Scenario Stazione Hydroid",
+            "item_name": "Scenario Fabrica Anatomica",
             "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+            "wiki_link": null
         },
         "pl": {
-            "item_name": "Scena: Przekaźnik Hydroida",
+            "item_name": "Scena: Fabrica Anatomica",
             "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+            "wiki_link": null
         },
         "uk": {
-            "item_name": "Панорама: Реле Гідроїда",
+            "item_name": "Панорама: Завод Анатоміки",
             "description": "Розблоковує цю панораму для використання у cвітлописці (клацніть «Змінити вигляд» у зброярні).",
-            "wiki_link": "https://warframe.fandom.com/wiki/Captura"
+            "wiki_link": null
         }
     },
     "trading_tax": 2000

@@ -7,7 +7,10 @@
     "icon": "items/images/en/arcane_vespa_nyx_helmet.a37db070518d6e37e74bf59692dff155.png",
     "thumb": "items/images/en/thumbs/arcane_vespa_nyx_helmet.a37db070518d6e37e74bf59692dff155.128x128.png",
     "icon_format": "land",
-    "url_name": "arcane_vespa_nyx_helmet",
+    "url_name": "arcane_vespa_helmet",
+    "redirect_from": [
+        "arcane_vespa_nyx_helmet"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltB"

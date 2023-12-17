@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/hydroid_prime_neuroptics.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "hydroid_prime_neuroptics",
+    "url_name": "hydroid_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "hydroid_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "hydroid_prime_blueprint",
-        "hydroid_prime_chassis",
-        "hydroid_prime_neuroptics",
+        "hydroid_prime_chassis_blueprint",
+        "hydroid_prime_neuroptics_blueprint",
         "hydroid_prime_set",
-        "hydroid_prime_systems"
+        "hydroid_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

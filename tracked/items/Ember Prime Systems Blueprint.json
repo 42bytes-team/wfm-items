@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/ember_prime_systems.971255acc3f1ad8a374d236c6af1c816.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
-    "url_name": "ember_prime_systems",
+    "url_name": "ember_prime_systems_blueprint",
+    "redirect_from": [
+        "ember_prime_systems"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeSystemsBlueprint"
     },
     "part_of_set": [
         "ember_prime_blueprint",
-        "ember_prime_chassis",
-        "ember_prime_neuroptics",
+        "ember_prime_chassis_blueprint",
+        "ember_prime_neuroptics_blueprint",
         "ember_prime_set",
-        "ember_prime_systems"
+        "ember_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

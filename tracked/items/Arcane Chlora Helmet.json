@@ -7,7 +7,10 @@
     "icon": "items/images/en/arcane_chlora_saryn_helmet.142e97dacf6f8ea77e8f325358cef0d0.png",
     "thumb": "items/images/en/thumbs/arcane_chlora_saryn_helmet.142e97dacf6f8ea77e8f325358cef0d0.128x128.png",
     "icon_format": "land",
-    "url_name": "arcane_chlora_saryn_helmet",
+    "url_name": "arcane_chlora_helmet",
+    "redirect_from": [
+        "arcane_chlora_saryn_helmet"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetB"
@@ -72,7 +75,7 @@
         },
         "uk": {
             "item_name": "Містичний Шолом «Хлора»",
-            "description": "Цей шолом пришвидшує прийоми паркуру Зарини, але зменшує тривалість її здібностей.",
+            "description": "Цей шолом пришвидшує прийоми паркуру Зарини, але зменшує тривалість дії її здібностей.",
             "wiki_link": "https://warframe.fandom.com/wiki/Saryn_Chlora_Helmet"
         }
     },

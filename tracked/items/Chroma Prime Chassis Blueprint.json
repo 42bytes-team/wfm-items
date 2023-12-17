@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/chroma_prime_chassis.746ea1c1556aa60f94f0c2399946baaf.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
-    "url_name": "chroma_prime_chassis",
+    "url_name": "chroma_prime_chassis_blueprint",
+    "redirect_from": [
+        "chroma_prime_chassis"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeChassisBlueprint"
     },
     "part_of_set": [
         "chroma_prime_blueprint",
-        "chroma_prime_chassis",
-        "chroma_prime_neuroptics",
+        "chroma_prime_chassis_blueprint",
+        "chroma_prime_neuroptics_blueprint",
         "chroma_prime_set",
-        "chroma_prime_systems"
+        "chroma_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

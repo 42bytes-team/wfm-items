@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/nekros_prime_chassis.523943a15c82985ebe7cf14eac98966d.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
-    "url_name": "nekros_prime_chassis",
+    "url_name": "nekros_prime_chassis_blueprint",
+    "redirect_from": [
+        "nekros_prime_chassis"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/NekrosPrimeChassisBlueprint"
     },
     "part_of_set": [
         "nekros_prime_blueprint",
-        "nekros_prime_chassis",
-        "nekros_prime_neuroptics",
+        "nekros_prime_chassis_blueprint",
+        "nekros_prime_neuroptics_blueprint",
         "nekros_prime_set",
-        "nekros_prime_systems"
+        "nekros_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

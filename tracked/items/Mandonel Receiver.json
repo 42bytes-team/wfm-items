@@ -1,0 +1,88 @@
+{
+    "_id": "657f14f38820fb8f3c5f465b",
+    "tags": [
+        "weapon",
+        "component"
+    ],
+    "icon": "items/images/en/mandonel_receiver.242783b92f4aeadf1270b7012dfa9079.png",
+    "thumb": "items/images/en/thumbs/mandonel_receiver.242783b92f4aeadf1270b7012dfa9079.128x128.png",
+    "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+    "url_name": "mandonel_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunReceiver"
+    },
+    "part_of_set": [
+        "mandonel_barrel",
+        "mandonel_blueprint",
+        "mandonel_receiver",
+        "mandonel_set",
+        "mandonel_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Mandonel Receiver",
+            "description": "An Archwing weapon-crafting component.",
+            "wiki_link": null
+        },
+        "ru": {
+            "item_name": "Мандонель: Приёмник",
+            "description": "Компонент оружия арчвинга.",
+            "wiki_link": null
+        },
+        "ko": {
+            "item_name": "만도넬 리시버",
+            "description": "아크윙 무기 제작 부품입니다.",
+            "wiki_link": null
+        },
+        "de": {
+            "item_name": "Mandonel: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Archwing Waffen.",
+            "wiki_link": null
+        },
+        "fr": {
+            "item_name": "Mandonel - Culasse",
+            "description": "Un composant servant à la fabrication d'armes d'Archwing.",
+            "wiki_link": null
+        },
+        "pt": {
+            "item_name": "Mandonel: Receptor",
+            "description": "Um componente de fabricação de armas Archwing.",
+            "wiki_link": null
+        },
+        "zh-hans": {
+            "item_name": "辐光弩炮 枪机",
+            "description": "一个曲翼武器制作部件。",
+            "wiki_link": null
+        },
+        "zh-hant": {
+            "item_name": "曼多重砲 槍機",
+            "description": "製作 Archwing 武器的部件。",
+            "wiki_link": null
+        },
+        "es": {
+            "item_name": "Receptor De Mandonel",
+            "description": "Un componente de fabricación de arma de archwing.",
+            "wiki_link": null
+        },
+        "it": {
+            "item_name": "Mandonel - Castello",
+            "description": "Un componente per la costruzione di un'arma Archwing.",
+            "wiki_link": null
+        },
+        "pl": {
+            "item_name": "Mandonel: Korpus",
+            "description": "Element wytwarzania broni Archwing.",
+            "wiki_link": null
+        },
+        "uk": {
+            "item_name": "Мандонель: Ствольна Коробка",
+            "description": "Деталь зброї арквінґа.",
+            "wiki_link": null
+        }
+    },
+    "mastery_level": 10,
+    "trading_tax": 2000
+}

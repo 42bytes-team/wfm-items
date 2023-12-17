@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/atlas_prime_neuroptics.91fb26397de19c27bfece550a8315a14.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
-    "url_name": "atlas_prime_neuroptics",
+    "url_name": "atlas_prime_neuroptics_blueprint",
+    "redirect_from": [
+        "atlas_prime_neuroptics"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/AtlasPrimeHelmetBlueprint"
     },
     "part_of_set": [
         "atlas_prime_blueprint",
-        "atlas_prime_chassis",
-        "atlas_prime_neuroptics",
+        "atlas_prime_chassis_blueprint",
+        "atlas_prime_neuroptics_blueprint",
         "atlas_prime_set",
-        "atlas_prime_systems"
+        "atlas_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

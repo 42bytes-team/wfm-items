@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/octavia_prime_systems.4e24ab1ec9ff333596952d391e69b397.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
-    "url_name": "octavia_prime_systems",
+    "url_name": "octavia_prime_systems_blueprint",
+    "redirect_from": [
+        "octavia_prime_systems"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeSystemsBlueprint"
     },
     "part_of_set": [
         "octavia_prime_blueprint",
-        "octavia_prime_chassis",
-        "octavia_prime_neuroptics",
+        "octavia_prime_chassis_blueprint",
+        "octavia_prime_neuroptics_blueprint",
         "octavia_prime_set",
-        "octavia_prime_systems"
+        "octavia_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

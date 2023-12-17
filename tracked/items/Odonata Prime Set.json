@@ -16,10 +16,10 @@
     },
     "part_of_set": [
         "odonata_prime_blueprint",
-        "odonata_prime_harness",
+        "odonata_prime_harness_blueprint",
         "odonata_prime_set",
-        "odonata_prime_systems",
-        "odonata_prime_wings"
+        "odonata_prime_systems_blueprint",
+        "odonata_prime_wings_blueprint"
     ],
     "set_root": true,
     "i18n": {
@@ -57,7 +57,7 @@
         },
         "zh-hans": {
             "item_name": "陨蜓 Prime 一套",
-            "description": "第一架曲翼原型的强化机型，已将其设计为到理论上的极限状态。",
+            "description": "（英文：ODONATA PRIME）第一架曲翼原型的强化机型，已将其设计为到理论上的极限状态。",
             "wiki_link": "https://warframe.huijiwiki.com/wiki/Odonata_Prime"
         },
         "zh-hant": {

@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/trinity_prime_systems.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
-    "url_name": "trinity_prime_systems",
+    "url_name": "trinity_prime_systems_blueprint",
+    "redirect_from": [
+        "trinity_prime_systems"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeSystemsBlueprint"
     },
     "part_of_set": [
         "trinity_prime_blueprint",
-        "trinity_prime_chassis",
-        "trinity_prime_neuroptics",
+        "trinity_prime_chassis_blueprint",
+        "trinity_prime_neuroptics_blueprint",
         "trinity_prime_set",
-        "trinity_prime_systems"
+        "trinity_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

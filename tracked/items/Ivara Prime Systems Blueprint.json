@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/ivara_prime_systems.5c4fbd8ffa071c741cf93e260e43b6db.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
-    "url_name": "ivara_prime_systems",
+    "url_name": "ivara_prime_systems_blueprint",
+    "redirect_from": [
+        "ivara_prime_systems"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/IvaraPrimeSystemsBlueprint"
     },
     "part_of_set": [
         "ivara_prime_blueprint",
-        "ivara_prime_chassis",
-        "ivara_prime_neuroptics",
+        "ivara_prime_chassis_blueprint",
+        "ivara_prime_neuroptics_blueprint",
         "ivara_prime_set",
-        "ivara_prime_systems"
+        "ivara_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

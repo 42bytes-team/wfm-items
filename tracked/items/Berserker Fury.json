@@ -8,7 +8,10 @@
     "icon": "items/images/en/berserker_fury.ab192773d6352d5bfddb8da40d59dee3.png",
     "thumb": "items/images/en/thumbs/berserker_fury.ab192773d6352d5bfddb8da40d59dee3.128x128.png",
     "icon_format": "port",
-    "url_name": "berserker",
+    "url_name": "berserker_fury",
+    "redirect_from": [
+        "berserker"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/Mods/Melee/WeaponCritFireRateBonusMod"

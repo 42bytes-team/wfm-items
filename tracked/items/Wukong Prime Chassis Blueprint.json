@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/wukong_prime_chassis.6fa7196ae48a7a3901c35834476f3891.128x128.png",
     "icon_format": "port",
     "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
-    "url_name": "wukong_prime_chassis",
+    "url_name": "wukong_prime_chassis_blueprint",
+    "redirect_from": [
+        "wukong_prime_chassis"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeChassisBlueprint"
     },
     "part_of_set": [
         "wukong_prime_blueprint",
-        "wukong_prime_chassis",
-        "wukong_prime_neuroptics",
+        "wukong_prime_chassis_blueprint",
+        "wukong_prime_neuroptics_blueprint",
         "wukong_prime_set",
-        "wukong_prime_systems"
+        "wukong_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

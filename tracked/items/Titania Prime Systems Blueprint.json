@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/titania_prime_systems.d783da2b4926bc3760d50bba21eff7db.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
-    "url_name": "titania_prime_systems",
+    "url_name": "titania_prime_systems_blueprint",
+    "redirect_from": [
+        "titania_prime_systems"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeSystemsBlueprint"
     },
     "part_of_set": [
         "titania_prime_blueprint",
-        "titania_prime_chassis",
-        "titania_prime_neuroptics",
+        "titania_prime_chassis_blueprint",
+        "titania_prime_neuroptics_blueprint",
         "titania_prime_set",
-        "titania_prime_systems"
+        "titania_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

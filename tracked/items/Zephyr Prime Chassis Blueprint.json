@@ -10,17 +10,20 @@
     "thumb": "items/images/en/thumbs/zephyr_prime_chassis.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
     "icon_format": "land",
     "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
-    "url_name": "zephyr_prime_chassis",
+    "url_name": "zephyr_prime_chassis_blueprint",
+    "redirect_from": [
+        "zephyr_prime_chassis"
+    ],
     "tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeChassisBlueprint"
     },
     "part_of_set": [
         "zephyr_prime_blueprint",
-        "zephyr_prime_chassis",
-        "zephyr_prime_neuroptics",
+        "zephyr_prime_chassis_blueprint",
+        "zephyr_prime_neuroptics_blueprint",
         "zephyr_prime_set",
-        "zephyr_prime_systems"
+        "zephyr_prime_systems_blueprint"
     ],
     "set_root": false,
     "quantity_for_set": 1,

@@ -15,11 +15,11 @@
         "type": "set"
     },
     "part_of_set": [
-        "ghoulsaw_blade",
+        "ghoulsaw_blade_blueprint",
         "ghoulsaw_blueprint",
-        "ghoulsaw_chassis",
-        "ghoulsaw_engine",
-        "ghoulsaw_grip",
+        "ghoulsaw_chassis_blueprint",
+        "ghoulsaw_engine_blueprint",
+        "ghoulsaw_grip_blueprint",
         "ghoulsaw_set"
     ],
     "set_root": true,
@@ -87,6 +87,10 @@
             "wiki_link": "https://warframe.fandom.com/wiki/Ghoulsaw"
         }
     },
+    "subtypes": [
+        "blueprint",
+        "crafted"
+    ],
     "mastery_level": 7,
     "trading_tax": 10000
 }
