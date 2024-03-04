@@ -1,0 +1,30 @@
+{
+    "_id": "",
+    "tags": [
+        "legendary",
+        "arcane_enhancement"
+    ],
+    "icon": "items/images/en/melee_crescendo.77d5db086323725c5f8650e8f7e68f44.png",
+    "thumb": "items/images/en/thumbs/melee_crescendo.77d5db086323725c5f8650e8f7e68f44.128x128.png",
+    "icon_format": "land",
+    "url_name": "melee_Crescendo",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": ""
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Melee Crescendo",
+            "description": "On Finisher Kill:\nGain 6 Initial Combo for the rest of your mission\n+1 Arcane Revive\n+1 Arcane Revive",
+            "wiki_link": "https://warframe.fandom.com/wiki/Melee_Crescendo",
+        },
+        "zh-hans": {
+            "item_name": "近战·渐强",
+            "description": "处决击杀时：\n永久获得 6 初始连击，直到任务结束\n赋能复活次数 +1\n赋能复活次数 +1",
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Melee_Crescendo"
+        },
+    },
+    "rarity": "legendary",
+    "max_rank": 5,
+    "trading_tax": 2100000
+}
