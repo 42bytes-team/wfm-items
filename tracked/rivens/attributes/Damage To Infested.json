@@ -8,8 +8,9 @@
     "thumb": "riven_attribute/unknown.thumb.png",
     "positive_is_negative": false,
     "negative_only": false,
+    "positive_only": false,
     "exclusive_to": null,
-    "units": "percent",
+    "units": "multiply",
     "search_only": false,
     "game_ref": {
         "uniq_name": "WeaponFactionDamageInfested"
