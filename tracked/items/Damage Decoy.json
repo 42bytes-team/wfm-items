@@ -1,0 +1,105 @@
+{
+    "_id": "6604a66edbdd5c1673781db9",
+    "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "loki"
+    ],
+    "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+    "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png",
+    "url_name": "damage_decoy",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Powersuits/Loki/DecoyAugmentTwoCard"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Damage Decoy",
+            "description": "Decoy Augment: Decoy can be cast on enemies. Enemies who attack that decoy receive 5 random Status Effects, and the reflected damage is increased by 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "ru": {
+            "item_name": "Опасная Приманка",
+            "description": "Улучшение способности «Приманка»: «Приманку» можно применить против врагов. Враги, атакующие эту приманку, получают случайные эффекты статуса (5), а отражённый урон увеличивается на 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "ko": {
+            "item_name": "데미지 디코이",
+            "description": "디코이 개조: 디코이를 적에게 직접 시전할 수 있게 됩니다. 디코이를 공격하는 적들이 5개의 상태 이상 효과를 무작위로 받게 되며, 반사 피해가 350% 증가합니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "de": {
+            "item_name": "Schadensköder",
+            "description": "Köder Augment: Köder kann auf Feinde genutzt werden. Feinde, die diesen Köder angreifen, erhalten 5 zufällige Statuseffekte und der reflektierte Schaden ist um 350 % erhöht.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "fr": {
+            "item_name": "Leurre De Dégâts",
+            "description": "Augmentation de Leurre: Leurre peut être lancé sur les ennemis. Les ennemis qui attaquent ce Leurre reçoivent 5 Effets de Statut aléatoires et les Dégâts réfléchis sont augmentés de 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "pt": {
+            "item_name": "Damage Decoy",
+            "description": "Ampliação Decoy: a habilidade poderá ser conjurada nos inimigos. Aqueles que atacarem a habilidade Decoy receberão 5 Efeitos de Status aleatórios, e o dano refletido será aumentado em 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "zh-hans": {
+            "item_name": "易伤诱饵",
+            "description": "诱饵强化：可以对敌人施放诱饵。攻击诱饵的敌人会被施加 5 个随机异常状态，且反射伤害增加 350%。",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "zh-hant": {
+            "item_name": "傷敵誘餌",
+            "description": "誘餌強化：誘餌技能可以對敵人施放。攻擊該誘餌的敵人會承受 5 個隨機的觸發狀態效果，反射傷害增加至 350%。",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "es": {
+            "item_name": "Señuelo De Daño",
+            "description": "Aumento de Señuelo: el señuelo se puede lanzar sobre los enemigos. Los enemigos que atacan al señuelo reciben 5 efectos de estado aleatorios y el daño reflejado aumenta en un 350 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "it": {
+            "item_name": "Damage Decoy",
+            "description": "Potenziamento Decoy: Le Esche possono essere utilizzate sui nemici. I nemici che attaccano l'esca ricevono 5 Effetti casuali e il danno riflesso aumenta del 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "pl": {
+            "item_name": "Wabik Obrażeń",
+            "description": "Modyfikacja Przynęty: Przynęta może zostać rzucona na wrogów. Przeciwnicy atakujący przynętę otrzymują 5 losowych Efektów Statusu, a odbite obrażenia są zwiększane o 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        },
+        "uk": {
+            "item_name": "Шкідлива Принада",
+            "description": "Розширення здібності «Принада»: Принаду можна застосовувати на ворогів. Вороги, котрі нападатимуть на таку принаду, отримають випадкові ефекти стану (5), а кількість відбитої шкоди збільшиться на 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+            "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 3,
+    "trading_tax": 8000
+}
