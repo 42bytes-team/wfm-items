@@ -9,6 +9,7 @@
     "icon_format": "land",
     "url_name": "residual_boils",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill"
     },
@@ -50,7 +51,7 @@
         },
         "pt": {
             "item_name": "Fervura Residual",
-            "description": "Ao Matar com Kitguns: 20% de chance de gera colmeias voláteis durante 12s, que explodem caso os inimigos se aproximem, causando 80 de Dano Ígneo, em um raio de 10m. Permanecer na sua área aplicará o Dano Ígneo aos Arcanos Teorema.",
+            "description": "Ao Eliminar Inimigos com Kitguns: 20% de chance de gera colmeias voláteis durante 12s, que explodem caso os inimigos se aproximem, causando 80 de Dano Ígneo, em um raio de 10m. Permanecer na sua área aplicará o Dano Ígneo aos Arcanos Teorema.",
             "wiki_link": "https://warframe.fandom.com/wiki/Residual_Boils",
             "icon": "items/images/en/residual_boils.93e9e7547e47068d710a638a90529a79.png",
             "thumb": "items/images/en/thumbs/residual_boils.93e9e7547e47068d710a638a90529a79.128x128.png"

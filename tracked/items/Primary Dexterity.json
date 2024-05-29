@@ -9,6 +9,7 @@
     "icon_format": "land",
     "url_name": "primary_dexterity",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnMeleeKill"
     },
@@ -50,7 +51,7 @@
         },
         "pt": {
             "item_name": "Destreza (Armas Primárias)",
-            "description": "Ao Matar no Corpo a corpo:\n+60% de Dano durante 20s. Acumulará até 6 vezes.\n+7.5s de Duração do Combo\n+7.5s de Duração do Combo",
+            "description": "Ao Eliminar Inimigos no Corpo a corpo:\n+60% de Dano durante 20s. Acumulará até 6 vezes.\n+7.5s de Duração do Combo\n+7.5s de Duração do Combo",
             "wiki_link": "https://warframe.fandom.com/wiki/Primary_Dexterity",
             "icon": "items/images/en/primary_dexterity.accc2c9a2780152f354696b2549814bc.png",
             "thumb": "items/images/en/thumbs/primary_dexterity.accc2c9a2780152f354696b2549814bc.128x128.png"

@@ -9,6 +9,7 @@
     "icon_format": "land",
     "url_name": "exodia_brave",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ChannelKillEnergyRate"
     },
@@ -50,7 +51,7 @@
         },
         "pt": {
             "item_name": "Bravura De Exódia",
-            "description": "Ao Matar com Ataque Pesado:\n+5 Taxa de Energia durante 4s. Acumulará até 3 vezes.",
+            "description": "Ao Eliminar Inimigos com Ataques Pesados:\n+5 Taxa de Energia durante 4s. Acumulará até 3 vezes.",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Exodia_Brave",
             "icon": "items/images/en/exodia_brave.46667ed53d81bf2cc9aacde46019c7e9.png",
             "thumb": "items/images/en/thumbs/exodia_brave.46667ed53d81bf2cc9aacde46019c7e9.128x128.png"

@@ -10,6 +10,7 @@
     "icon_format": "land",
     "url_name": "virtuos_tempo",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill"
     },
@@ -51,7 +52,7 @@
         },
         "pt": {
             "item_name": "Ritmo Virtuoso",
-            "description": "Ao Matar:\n60% de chance de +60% de Cadência de Tiro durante 8s",
+            "description": "Ao Eliminar Inimigos:\n60% de chance de +60% de Cadência de Tiro durante 8s",
             "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Tempo",
             "icon": "items/images/en/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.png",
             "thumb": "items/images/en/thumbs/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.128x128.png"

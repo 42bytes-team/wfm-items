@@ -9,6 +9,7 @@
     "icon_format": "land",
     "url_name": "residual_malodor",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill"
     },
@@ -36,7 +37,7 @@
         },
         "de": {
             "item_name": "Residuum: Gestank",
-            "description": "Bei Kitgun-Kill:\n20 % Chance für erstellt einen eisigen Nebel für 12 s, der 40Kälteschaden/s zu verursacht. Das Stehen im Einflussbereich fügt Theorem Arkana Kälteschaden hinzu.",
+            "description": "Bei Kitgun-Kill:\n20 % Chance auf erstellt einen eisigen Nebel für 12 s, der 40Kälteschaden/s zu verursacht. Das Stehen im Einflussbereich fügt Theorem Arkana Kälteschaden hinzu.",
             "wiki_link": "https://warframe.fandom.com/wiki/Residual_Malodor",
             "icon": "items/images/en/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.png",
             "thumb": "items/images/en/thumbs/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.128x128.png"
@@ -50,7 +51,7 @@
         },
         "pt": {
             "item_name": "Catinga Residual",
-            "description": "Ao Matar com Kitguns: 20% de chance de cria uma névoa gélida durante 12s, que causa 40 de Dano Glacial/s. Permanecer na sua área aplicará o Dano Glacial aos Arcanos Teorema.",
+            "description": "Ao Eliminar Inimigos com Kitguns: 20% de chance de cria uma névoa gélida durante 12s, que causa 40 de Dano Glacial/s. Permanecer na sua área aplicará o Dano Glacial aos Arcanos Teorema.",
             "wiki_link": "https://warframe.fandom.com/wiki/Residual_Malodor",
             "icon": "items/images/en/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.png",
             "thumb": "items/images/en/thumbs/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.128x128.png"

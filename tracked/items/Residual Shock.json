@@ -9,6 +9,7 @@
     "icon_format": "land",
     "url_name": "residual_shock",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill"
     },
@@ -50,7 +51,7 @@
         },
         "pt": {
             "item_name": "Choque Residual",
-            "description": "Ao Matar com Kitguns: 20% de chance de gera uma estaca eletrificada durante 12s, que causa 200 de Dano Elétrico aos inimigos, em um raio de 10m. Permanecer na sua área aplicará o Dano Elétrico aos Arcanos Teorema.",
+            "description": "Ao Eliminar Inimigos com Kitguns: 20% de chance de gera uma estaca eletrificada durante 12s, que causa 200 de Dano Elétrico aos inimigos, em um raio de 10m. Permanecer na sua área aplicará o Dano Elétrico aos Arcanos Teorema.",
             "wiki_link": "https://warframe.fandom.com/wiki/Residual_Shock",
             "icon": "items/images/en/residual_shock.931038e226263ca655a8e3e4eeb76cf6.png",
             "thumb": "items/images/en/thumbs/residual_shock.931038e226263ca655a8e3e4eeb76cf6.128x128.png"

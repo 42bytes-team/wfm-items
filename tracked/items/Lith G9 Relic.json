@@ -8,6 +8,7 @@
     "thumb": "items/images/en/thumbs/lith_g9_relic.b9883727b21e25d81bc115605254460a.128x128.png",
     "url_name": "lith_g9_relic",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeD"
     },
@@ -103,6 +104,6 @@
         "flawless",
         "radiant"
     ],
-    "vaulted": false,
+    "vaulted": true,
     "trading_tax": 2000
 }

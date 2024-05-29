@@ -9,6 +9,7 @@
     "icon_format": "land",
     "url_name": "primary_merciless",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnKill"
     },
@@ -50,7 +51,7 @@
         },
         "pt": {
             "item_name": "Impiedade (Armas Primárias)",
-            "description": "Ao Matar:\n+30% de Dano durante 4s. Acumulará até 12 vezes.\n+30% de Velocidade de Recarga\n+30% de Velocidade de Recarga",
+            "description": "Ao Eliminar Inimigos:\n+30% de Dano durante 4s. Acumulará até 12 vezes.\n+30% de Velocidade de Recarga\n+30% de Velocidade de Recarga",
             "wiki_link": "https://warframe.fandom.com/wiki/Primary_Merciless",
             "icon": "items/images/en/primary_merciless.baca700cca91762be6465c5f52584fa7.png",
             "thumb": "items/images/en/thumbs/primary_merciless.baca700cca91762be6465c5f52584fa7.128x128.png"

@@ -9,6 +9,7 @@
     "icon_format": "land",
     "url_name": "secondary_deadhead",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnNoMelee"
     },
@@ -50,7 +51,7 @@
         },
         "pt": {
             "item_name": "Precisão Letal (Armas Secundárias)",
-            "description": "Ao Matar Inimigos com Acertos de Precisão:\n+120% de Dano durante 24s. Acumulará até 3 vezes.\n+30% de Multiplicador de Acertos de Precisão\n-50% de Recuo da Arma\n+30% de Multiplicador de Acertos de Precisão\n-50% de Recuo da Arma",
+            "description": "Ao Eliminar Inimigos com Acertos de Precisão:\n+120% de Dano durante 24s. Acumulará até 3 vezes.\n+30% de Multiplicador de Acertos de Precisão\n-50% de Recuo da Arma\n+30% de Multiplicador de Acertos de Precisão\n-50% de Recuo da Arma",
             "wiki_link": "https://warframe.fandom.com/wiki/Secondary_Deadhead",
             "icon": "items/images/en/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.png",
             "thumb": "items/images/en/thumbs/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.128x128.png"

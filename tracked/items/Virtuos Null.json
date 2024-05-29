@@ -10,6 +10,7 @@
     "icon_format": "land",
     "url_name": "virtuos_null",
     "tradable": true,
+    "bulk_tradable": true,
     "game_ref": {
         "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill"
     },
@@ -51,7 +52,7 @@
         },
         "pt": {
             "item_name": "Anulação Virtuosa",
-            "description": "Ao Matar:\n+20% de Regeneração de Energia da Amp por 4s",
+            "description": "Ao Eliminar Inimigos:\n+20% de Regeneração de Energia da Amp por 4s",
             "wiki_link": "http://warframe.wikia.com/wiki/Virtuos_Null",
             "icon": "items/images/en/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.png",
             "thumb": "items/images/en/thumbs/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.128x128.png"
