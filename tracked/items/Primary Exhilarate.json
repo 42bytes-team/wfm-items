@@ -23,7 +23,7 @@
         },
         "ru": {
             "item_name": "Основное Веселье",
-            "description": "При наложении эффекта удара от оружия:\n+1.2 восстановление энергии/с на 10с. Складывается до 3 раз.",
+            "description": "При наложении статуса удара от оружия:\n+1.2 восстановление энергии/с на 10с. Складывается до 3 раз.",
             "wiki_link": null,
             "icon": "items/images/en/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.png",
             "thumb": "items/images/en/thumbs/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.128x128.png"
@@ -58,7 +58,7 @@
         },
         "zh-hans": {
             "item_name": "主要·激昂",
-            "description": "武器触发冲击异常状态：\n每秒恢复 +1.2 能量，持续 10 秒。最多叠加到 3 层。",
+            "description": "武器触发 冲击异常状态：\n每秒恢复 +1.2 能量，持续 10 秒。最多叠加到 3 层。",
             "wiki_link": null,
             "icon": "items/images/en/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.png",
             "thumb": "items/images/en/thumbs/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.128x128.png"
@@ -72,7 +72,7 @@
         },
         "es": {
             "item_name": "Entusiasmo Primario",
-            "description": "Al aplicar efecto de estado de impacto de arma:\n+1.2 de regeneración de energía/s por 10 s. Se acumula hasta 3 veces.",
+            "description": "Al aplicar un efecto de estado de impacto de arma:\n+1.2 de regeneración de energía/s por 10 s. Se acumula hasta 3 veces.",
             "wiki_link": null,
             "icon": "items/images/en/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.png",
             "thumb": "items/images/en/thumbs/primary_exhilarate.faf6786dd12bc3e40a3c88a6b5bfac22.128x128.png"

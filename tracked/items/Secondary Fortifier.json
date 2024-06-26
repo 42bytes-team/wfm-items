@@ -1,0 +1,103 @@
+{
+    "_id": "667237598ba7c81b70d02c96",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "secondary_fortifier",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OverguardSteal"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Secondary Fortifier",
+            "description": "Gain 1 Overguard for every 100 Damage dealt to an enemy's Overguard.\nDeals x8 Extra Damage to Overguard.\nDeals x8 Extra Damage to Overguard.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Дополнительный Фортификатор",
+            "description": "Получите 1 сверхзащиту за каждые 100 единиц урона, нанесённых сверхзащите противника.\nНаносит x8 дополнительный урон сверхзащите.\nНаносит x8 дополнительный урон сверхзащите.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "ko": {
+            "item_name": "세컨더리 포티파이어",
+            "description": "적의 오버가드에 가한 피해 100 당 오버가드 1을 획득합니다.\n오버가드에 x8의 추가 피해를 가합니다.\n오버가드에 x8의 추가 피해를 가합니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Sekundäre Verstärkung",
+            "description": "Erhalte 1 Überschutz für jeweils 100 Schaden, der dem Überschutz eines Feindes zugefügt wird.\nFügt x8 zusätzlichen Schaden zu Überschutz hinzu.\nFügt x8 zusätzlichen Schaden zu Überschutz hinzu.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Fortifiant Secondaire",
+            "description": "Gagnez 1 point de Garde Renforcée tous les 100 points de Dégâts infligés à la Garde Renforcée de l'ennemi.\nInflige des Dégâts supplémentaires x8 à la Garde Renforcée.\nInflige des Dégâts supplémentaires x8 à la Garde Renforcée.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Fortificação (Armas Secundárias)",
+            "description": "Ganhará 1 de Guarda Reforçada para cada 100 de dano causado à Guarda Reforçada de um inimigo.\nCausará x8 de dano extra à Guarda Reforçada.\nCausará x8 de dano extra à Guarda Reforçada.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "次要·强化",
+            "description": "每对敌人的超宏防护造成 100 伤害，便获得 1 超宏防护。\n对超宏防护造成 x8 额外伤害。\n对超宏防护造成 x8 额外伤害。",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "次要矯健",
+            "description": "對敵方的超量防護每造成 100 傷害，獲得 1 超量防護。\n對超量防護造成額外 x8 傷害。\n對超量防護造成額外 x8 傷害。",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "es": {
+            "item_name": "Fortificador Secundario",
+            "description": "Gana 1 Sobreguardia por cada 100 de daño infligido a Sobreguardia.\nInflige x8 de daño adicional a Sobreguardia.\nInflige x8 de daño adicional a Sobreguardia.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "it": {
+            "item_name": "Secondary Fortifier",
+            "description": "Guadagni 1 punto di Sovraguardia per ogni 100 Danni inflitti alla Sovraguardia di un nemico.\nInfligge x8 Danni Extra alla Sovraguardia.\nInfligge x8 Danni Extra alla Sovraguardia.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Umocnienie Broni Bocznej",
+            "description": "Zyskaj 1 Gardy za każde 100 Obrażeń zadanych Gardzie wroga.\nZadaje x8 dodatkowych Obrażeń Gardzie.\nZadaje x8 dodatkowych Obrażeń Gardzie.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Допоміжне Зміцнення",
+            "description": "Дає 1 одиницю надзахисту за кожні 100 одиниць шкоди, завдані ворожому надзахисту.\nЗавдає x8 додаткової шкоди назахисту.\nЗавдає x8 додаткової шкоди назахисту.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+            "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

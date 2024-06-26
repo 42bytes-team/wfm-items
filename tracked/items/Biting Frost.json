@@ -17,84 +17,84 @@
     "i18n": {
         "en": {
             "item_name": "Biting Frost",
-            "description": "Frost gains 200% Critical Chance and 200% Critical Damage against frozen enemies.",
+            "description": "Frost gains +|CHANCE|% Critical Chance and +|DAMAGE|% Critical Damage against frozen enemies.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "ru": {
             "item_name": "Кусачий Мороз",
-            "description": "Фрост получает 200% к шансу критического урона и 200% к критическому урону против замороженных врагов.",
+            "description": "Фрост получает +|CHANCE|% к шансу критического урона и +|DAMAGE|% к критическому урону против замороженных врагов.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "ko": {
             "item_name": "바이팅 프로스트",
-            "description": "프로스트가 얼어붙은 적들을 대상으로 200%의 치명타 확률 및 200%의 치명타 피해를 얻습니다.",
+            "description": "프로스트가 얼어붙은 적들을 대상으로 +|CHANCE|%의 치명타 확률 및 +|DAMAGE|%의 치명타 피해를 얻습니다.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "de": {
             "item_name": "Beißender Frost",
-            "description": "Frost erhält 200 % kritische Trefferchance und 200 % kritischen Schaden gegen eingefrorene Feinde.",
+            "description": "Frost erhält +|CHANCE| % Krit. Chance und +|DAMAGE| % Krit. Schaden gegen eingefrorene Feinde.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "fr": {
             "item_name": "Froid Mordant",
-            "description": "Frost gagne 200% de Chances de Coup Critique et 200% de Dégâts Critiques contre les ennemis gelés.",
+            "description": "Frost gagne +|CHANCE|% de Chances de Coup Critique et +|DAMAGE|% de Dégâts Critiques contre les ennemis gelés.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "pt": {
             "item_name": "Biting Frost",
-            "description": "Frost receberá 200% de Chance Crítica e 200% de Dano Crítico em inimigos congelados.",
+            "description": "O Frost receberá +|CHANCE|% de Chance Crítica e +|DAMAGE|% de Dano Crítico contra inimigos congelados.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "zh-hans": {
             "item_name": "刺骨寒霜",
-            "description": "被动强化：Frost 攻击被冻住的敌人时获得 200% 暴击几率和 200% 暴击伤害。",
+            "description": "被动强化：Frost 攻击被冻住的敌人时获得 +|CHANCE|% 暴击几率和 +|DAMAGE|% 暴击伤害。",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "zh-hant": {
             "item_name": "削骨寒霜",
-            "description": "Frost 攻擊被凍住的敵人時獲得 200% 暴擊機率和 200% 暴擊傷害。",
+            "description": "Frost 對抗凍結的敵人增加暴擊機率 |CHANCE|%，暴擊傷害 |DAMAGE|%。",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "es": {
             "item_name": "Escarcha Mordaz",
-            "description": "Frost obtiene un 200 % de probabilidad crítica y un 200 % de daño crítico contra enemigos congelados.",
+            "description": "Frost obtiene +|CHANCE| % de probabilidad crítica y +|DAMAGE| % de daño crítico contra enemigos congelados.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "it": {
             "item_name": "Biting Frost",
-            "description": "Frost ottiene 200% Probabilità Critico e 200% Danno Critico contro i nemici congelati.",
+            "description": "Frost ottiene +|CHANCE|% Probabilità Critico e +|DAMAGE|% Danno Critico contro i nemici congelati.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "pl": {
             "item_name": "Dręczący Mróz",
-            "description": "Frost zyskuje 200% Szansy na Obrażenia Krytyczne oraz 200% Obrażeń Krytycznych przeciwko zamrożonym przeciwnikom.",
+            "description": "Frost zyskuje +|CHANCE|% Szansy na Obrażenia Krytyczne oraz +|DAMAGE|% Obrażeń Krytycznych przeciwko zamrożonym przeciwnikom.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"
         },
         "uk": {
             "item_name": "Кусючий Мороз",
-            "description": "Фрост отримує 200% до ймовірності критичної шкоди й 200% до критичної шкоди замороженим ворогам.",
+            "description": "Фрост отримує +|CHANCE|% до ймовірності критичної шкоди й +|DAMAGE|% до критичної шкоди замороженим ворогам.",
             "wiki_link": null,
             "icon": "items/images/en/biting_frost.57f924dc30744246ab2cac245b1b5ef9.png",
             "thumb": "items/images/en/thumbs/biting_frost.57f924dc30744246ab2cac245b1b5ef9.128x128.png"

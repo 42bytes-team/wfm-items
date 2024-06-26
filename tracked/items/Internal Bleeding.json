@@ -52,14 +52,14 @@
         },
         "pt": {
             "item_name": "Internal Bleeding",
-            "description": "Efeitos de Status Colisivo terão 35% de chance de aplicar um Efeito de Status Cortante (x2 quando a Cadência de Tiro estiver abaixo de 2.5)",
+            "description": "Efeitos de Status Colisivo terão 35% de chance de aplicar um Efeito de Status Cortante (dobro de chance se a Cadência de Tiro estiver abaixo de 2.5).",
             "wiki_link": null,
             "icon": "items/images/en/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.png",
             "thumb": "items/images/en/thumbs/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.128x128.png"
         },
         "zh-hans": {
             "item_name": "内部出血",
-            "description": "冲击异常状态有 35% 的几率施加一个切割异常状态（射速低于 2.5 时 x2）。",
+            "description": "冲击异常状态有 35% 的几率施加一个 切割异常状态（射速低于 2.5 时 x2）。",
             "wiki_link": null,
             "icon": "items/images/en/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.png",
             "thumb": "items/images/en/thumbs/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.128x128.png"
@@ -87,14 +87,14 @@
         },
         "pl": {
             "item_name": "Krwotok Wewnętrzny",
-            "description": "Efekt Statusu Miażdżącego ma 35% szansy na nałożenie Efektu Statusu Tnącego (x2 gdy Szybkostrzelność jest poniżej 2.5)",
+            "description": "Efekty Statusu Obr. Miażdżących mają 35% szansę na nałożenie Efektu Status Obr. Tnących (x 2, gdy Szybkostrzelność jest poniżej 2.5)",
             "wiki_link": null,
             "icon": "items/images/en/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.png",
             "thumb": "items/images/en/thumbs/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.128x128.png"
         },
         "uk": {
             "item_name": "Внутрішня Кровотеча",
-            "description": "Ефекти ударної шкоди мають 35% імовірності накласти ефекти стану різальної шкоди (подвійні, якщо швидкість атаки нижча ніж 2.5).",
+            "description": "Ударні ефекти стану мають 35% імовірності накласти різальні ефекти стану(подвійні, якщо швидкість атаки нижча ніж 2.5).",
             "wiki_link": null,
             "icon": "items/images/en/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.png",
             "thumb": "items/images/en/thumbs/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.128x128.png"
