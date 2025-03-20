@@ -1,0 +1,105 @@
+{
+    "_id": "66fd69603a826eccf651cd63",
+    "tags": [
+        "mod",
+        "common",
+        "stance",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "protector_posture",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Friendly/Pets/BeastWeapons/Stances/BeastProtectorStance"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Protector Posture",
+            "description": "The companion will prioritize attacking enemies within 15m of the Warframe. Attacks inflict +4 Puncture Procs",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Поведение: Защита",
+            "description": "Компаньон будет отдавать приоритет атаке врагов в радиусе 15 м от варфрейма. Атаки наносят +4 урона от статуса пронзания.",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "프로텍터 포스처",
+            "description": "동반자가 워프레임의 15m 범위 내에 있는 적을 우선적으로 공격합니다. 공격은 +4회의 관통 상태 이상 효과를 부여합니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Beschützende Stellung",
+            "description": "Der Begleiter wird vorrangig Feinde angreifen, die sich innerhalb von 15 m um den Warframe befinden. Angriffe verursachen +4 Durchschlags-Procs.",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Posture Protectrice",
+            "description": "Le Compagnon attaquera en priorité les ennemis à moins de 15m de la Warframe. Les attaques infligent +4 de procs de Perforation",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Protector Posture",
+            "description": "O companheiro priorizará atacar inimigos dentro de um raio de 15 metros ao redor do Warframe. Seus ataques infligirão +4 acúmulos do Efeito de Status Perfurante.",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "护卫姿势",
+            "description": "同伴将优先攻击战甲 15 米范围内的敌人。攻击造成 +4 穿刺异常状态",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "保衛天性",
+            "description": "同伴優先攻擊距離 Warframe 15 公尺內的敵人。攻擊造成 +4 穿刺觸發狀態",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Postura Protectora",
+            "description": "El compañero priorizará los ataques a los enemigos que se encuentren a 15 m del warframe. Los ataques infligen +4 de efecto de perforación",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Protector Posture",
+            "description": "Il compagno darà priorità ad attaccare i nemici entro 15m dal Warframe. Gli attacchi infliggono +4 Effetti Perforazione",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Postawa Obrońcy",
+            "description": "Towarzysz skupi ataki na wrogach w zasięgu 15 metrów od Warframe'a. Ataki nakładają +4 instancji Statusu Obr. Przebijających",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Поведінка: Захист",
+            "description": "Супутник надаватиме перевагу нападу на ворогів у межах 15 м від ворфрейма. Атаки додають +4 ефектів стану пробивної шкоди",
+            "wiki_link": "https://wiki.warframe.com/w/Protector_Posture",
+            "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

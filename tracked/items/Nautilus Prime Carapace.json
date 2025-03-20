@@ -1,0 +1,113 @@
+{
+    "_id": "66c60c9066bbb2aedca695ab",
+    "tags": [
+        "component",
+        "prime",
+        "weapon"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_carapace_128x128.png",
+    "url_name": "nautilus_prime_carapace",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace"
+    },
+    "part_of_set": [
+        "nautilus_prime_set",
+        "nautilus_prime_blueprint",
+        "nautilus_prime_carapace",
+        "nautilus_prime_cerebrum",
+        "nautilus_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Nautilus Prime Carapace",
+            "description": "A prime sentinel-crafting component.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Наутилус Прайм: Панцирь",
+            "description": "Прайм-компонент стража.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "노틸러스 프라임 카라페이스",
+            "description": "프라임 센티넬 제작 부품입니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Nautilus Prime: Panzer",
+            "description": "Eine Komponente für die Herstellung von Prime Wächtern.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Nautilus Prime - Carapace",
+            "description": "Un composant servant à la fabrication de sentinelles Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Nautilus Prime: Carapaça",
+            "description": "Um componente de fabricação de sentinelas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "鹦鹉螺 Prime 外壳",
+            "description": "一个 Prime 守护的制作部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "鸚鵡螺 Prime 外殼",
+            "description": "製作 Prime 守護的部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Caparazón De Nautilus Prime",
+            "description": "Un componente de fabricación de centinela prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Nautilus Prime - Carapace",
+            "description": "Un componente Prime per la costruzione di una sentinella.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Nautilus Prime: Karapaks",
+            "description": "Element wytwarzania Strażników Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Наутилус-Прайм: Панцир",
+            "description": "Деталь прайм-вартового.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "ducats": 15,
+    "trading_tax": 2000
+}

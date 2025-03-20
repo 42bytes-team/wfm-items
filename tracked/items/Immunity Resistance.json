@@ -1,0 +1,105 @@
+{
+    "_id": "66fd6a1c3a826eccf651cd73",
+    "tags": [
+        "mod",
+        "common",
+        "melee",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "immunity_resistance",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/BeastWeakenedImmunityMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Immunity Resistance",
+            "description": "+50% Status Damage",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Иммунное Сопротивление",
+            "description": "+50% к урону статусом",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "이뮤니티 레지스턴스",
+            "description": "+50% 상태 이상 피해",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Immunitäts-Widerstand",
+            "description": "+50 % Statusschaden",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Résistance Immunitaire",
+            "description": "+50% de Dégâts d'Effet de Statut",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Immunity Resistance",
+            "description": "+50% de Dano de Status",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "免疫抵御",
+            "description": "+50% 异常状态伤害",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "免疫抵抗",
+            "description": "+50% 狀態傷害",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Resistencia Inmunitaria",
+            "description": "+50 % de daño de estado",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Immunity Resistance",
+            "description": "+50% Danno Effetto",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Osłabiona Odporność",
+            "description": "+50% Obr. Statusu",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Опір Невразливості",
+            "description": "+50 % до шкоди від ефекту стану",
+            "wiki_link": "https://wiki.warframe.com/w/Immunity_Resistance",
+            "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

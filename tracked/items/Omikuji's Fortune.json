@@ -1,0 +1,105 @@
+{
+    "_id": "67db60849cec3e52e62523f1",
+    "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "koumei"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "omikujis_fortune",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Powersuits/Koumei/KoumeiFortuneAugmentCard"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Omikuji's Fortune",
+            "description": "Omikuji Augment: Reduce Omikuji's Cooldown by 4s when you kill an enemy with the weapon affected by Koumei's Passive.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Удача Омикудзи",
+            "description": "Улучшение Омикудзи: сокращает время перезарядки Омикудзи на 4 сек. при убийстве врага с оружием, затронутым пассивной способностью Комеи.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "ko": {
+            "item_name": "오미쿠지 포츈",
+            "description": "오미쿠지 개조: 코우메이의 패시브에 영향을 받은 무기로 적을 처치할 시 오미쿠지의 재사용 대기시간이 4초 감소합니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "de": {
+            "item_name": "Omikujis Glück",
+            "description": "Omikuji Augment: Reduziere Omikujis Abklingzeit um 4 s, wenn du einen Feind mit der Waffe tötest, die von Koumeis passiver Fähigkeit betroffen ist.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Fortune D'Omikuji",
+            "description": "Augmentation d'Omikuji: réduit le temps de recharge d'Omikuji de 4s lorsque vous tuez un ennemi avec l'arme affectée par le Passif de Koumei.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Fortuna De Omikuji",
+            "description": "Ampliação - Omikuji: reduzirá o tempo de recarga da habilidade Omikuji em 4s ao eliminar um inimigo com uma arma afetada pela habilidade passiva da Koumei.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "御神签运势",
+            "description": "御神签强化：当你使用受 Koumei 被动效果强化的武器击杀敌人时，御神签的冷却时间减少 4 秒。",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "御神籤運",
+            "description": "御神籤詩強化：使用 Koumei 被動技能加持過的武器擊殺敵人時，減少御神籤詩的冷卻時間 4 秒。",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "es": {
+            "item_name": "Fortuna De Omikuji",
+            "description": "Aumento de Omikuji: reduce el tiempo de espera de Omikuji en 4 s cuando matas a un enemigo con el arma afectada por la pasiva de Koumei.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "it": {
+            "item_name": "Omikuji's Fortune",
+            "description": "Potenziamento Omikuji: Riduce il tempo di ricarica di Omikuji di 4 quando uccidi un nemico con l'arma influenzata dalla Passiva di Koumei.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Fortuna Omikuji",
+            "description": "Modyfikacja Omikuji: Skraca czas odnowienia Omikuji o 4 s, gdy zabijesz wroga bronią, na którą ma wpływ umiejętność pasywna Koumei.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Удача Омікуджі",
+            "description": "Розширення здібності «Омікуджі»: зменшує час заряджання здібності на 4 с у разі вбивства ворога зброєю, на яку діє пасивна здібність Кумей.",
+            "wiki_link": null,
+            "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+            "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 3,
+    "trading_tax": 8000
+}

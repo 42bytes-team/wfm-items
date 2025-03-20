@@ -1,0 +1,103 @@
+{
+    "_id": "67db60869cec3e52e62523f4",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "arcane_escapist",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InvulnerabilityOnDeathOnMercyKill"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Escapist",
+            "description": "On Mercy Kill: Gain a stack of Escapist, up to 9x. On taking fatal damage, consume 3 stacks to avoid death and become invulnerable for 12s.\n+1 Arcane Revive\n+1 Arcane Revive",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Мистический Уворот",
+            "description": "При добивании Милосердием: происходит накопление до 9 раз. При получении смертельного урона поглощается 3 стаков для избежания смерти и обретения неуязвимости на 12 сек.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "ko": {
+            "item_name": "아케인 이스케이피스트",
+            "description": "자비의 일격 처치 시: 이스케이피스트 중첩을 1회씩, 최대 9회 까지 획득합니다. 죽음에 이르는 피해를 입을 시 3의 중첩을 소모해 죽음을 피하며 12초 동안 무적 상태가 됩니다.\n+1 아케인 부활\n+1 아케인 부활",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Ausreißer",
+            "description": "Bei Gnadenstoß: Erhalte einen Stapel Ausreißer, bis zu 9x. Beim Erleiden von tödlichem Schaden werden 3 Stapel verbraucht und es wird für 12 s Unverwundbarkeit gewährt.\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Arcane Retour",
+            "description": "Sur élimination par Miséricorde: gagnez une charge de Retour, jusqu'à un maximum de 9. En cas de dégâts mortels reçus, consommez 3 charges pour éviter la mort et devenir invulnérable pendant 12s.\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Escapista Arcano",
+            "description": "Na Eliminação de Misericórdia: fornecerá 1 acúmulo de Escapista, que acumulará até 9x. Ao receber dano fatal, consumirá 3 acúmulos para evitar a morte e fornecerá invulnerabilidade por 12s.\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "赋能·脱逃",
+            "description": "怜悯之击时：获得一层脱逃效果，最多拥有 9 层。受到致命伤害时，可消耗 3 层脱逃效果，以避免死亡并获得 12 秒无敌。\n赋能复活次数 +1\n赋能复活次数 +1",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "避劫賦能",
+            "description": "慈悲斬殺時：賦予 1 層避劫，最多 9 層。承受致命傷害時消耗 3 層並無敵 12 秒。\n賦能復活次數 +1\n賦能復活次數 +1",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "es": {
+            "item_name": "Escapista Arcano",
+            "description": "Al matar con misericordia: obtienes una acumulación de Escapista, hasta 9 veces. Al recibir daño fatal, consumes 3 acumulaciones para evitar la muerte y volverte invulnerable durante 12 s.\n+1 Revivir Arcano\n+1 Revivir Arcano",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "it": {
+            "item_name": "Arcane Escapist",
+            "description": "All'Uccisione Mercy: conferisce una carica di Escapist, fino a 9x. Quando subisci danni fatali, consuma 3 cariche per evitare la morte, rendendoti invulnerabile per 12s.\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Arkanum Oszusta",
+            "description": "Zabicie Miłosierdziem przyznaje instancję Oszustwa, do maks. 9. Otrzymanie śmiertelnych obrażeń zużywa 3 instancji, zapobiegając śmierci i przyznaje niewrażliwość na obrażenia przez 12 s.\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Arkanum_Oszustwa",
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Містична Втеча",
+            "description": "У разі добивання паразоном: до 9 разів накопичується «втеча». У разі отримання смертельної шкоди накопичення (3) споживаються, щоб відігнати смерть і отримати невразливість на 12 с.\n+1 містичне відродження.\n+1 містичне відродження.",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+            "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

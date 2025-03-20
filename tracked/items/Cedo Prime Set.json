@@ -1,0 +1,114 @@
+{
+    "_id": "67acd8fa125398d92c8bb4df",
+    "tags": [
+        "primary",
+        "weapon",
+        "prime",
+        "set"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "cedo_prime_set",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/PrimeCedo/PrimeCedoWeapon",
+        "type": "set"
+    },
+    "part_of_set": [
+        "cedo_prime_barrel",
+        "cedo_prime_blueprint",
+        "cedo_prime_receiver",
+        "cedo_prime_set",
+        "cedo_prime_stock"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Cedo Prime Set",
+            "description": "A golden shotgun, forged for those who deliver judgment.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Седо Прайм: Комплект",
+            "description": "Золотой дробовик, выкованный для тех, кто вершит правосудие.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "ko": {
+            "item_name": "세도 프라임 세트",
+            "description": "심판을 내리는 이들을 위해 주조된, 황금빛 산탄총입니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "de": {
+            "item_name": "Cedo Prime: Set",
+            "description": "Eine goldene Schrotflinte, für diejenigen geschmiedet, die Urteile fällen.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Cedo Prime - Set",
+            "description": "Un Fusil à Pompe en or, forgé pour ceux qui rendent le jugement.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Cedo Prime: Conjunto",
+            "description": "Uma escopeta áurea forjada para aqueles que executam sentenças.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "塞多 Prime 一套",
+            "description": "（英文：CEDO PRIME）一把金色的霰弹枪，为那些执裁者而打造。",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "席多 Prime 一套",
+            "description": "（英文：CEDO PRIME）為那些祭出判決之人而鑄造的金色霰彈槍。",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "es": {
+            "item_name": "Set de Cedo Prime",
+            "description": "Una escopeta de oro, forjada para quienes dictan sentencia.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "it": {
+            "item_name": "Cedo Prime Set",
+            "description": "Un fucile a pompa dorato, forgiato per coloro che rendono giustizia.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Cedo Prime: Zestaw",
+            "description": "Złota strzelba, stworzona dla tych, którzy wykonują wyroki.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Цедо-Прайм (комплект)",
+            "description": "Золотиста рушниця, створена для тих, хто несе правосуддя.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        }
+    },
+    "mastery_level": 15,
+    "ducats": 205,
+    "trading_tax": 8000
+}

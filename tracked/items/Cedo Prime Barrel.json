@@ -1,0 +1,114 @@
+{
+    "_id": "67acd8fd125398d92c8bb4e2",
+    "tags": [
+        "component",
+        "weapon",
+        "prime"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+    "url_name": "cedo_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/CedoPrimeBarrel"
+    },
+    "part_of_set": [
+        "cedo_prime_barrel",
+        "cedo_prime_blueprint",
+        "cedo_prime_receiver",
+        "cedo_prime_set",
+        "cedo_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Cedo Prime Barrel",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Седо Прайм: Ствол",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "ko": {
+            "item_name": "세도 프라임 배럴",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "de": {
+            "item_name": "Cedo Prime: Lauf",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Cedo Prime - Canon",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Cedo Prime: Cano",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "塞多 Prime 枪管",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "席多 Prime 槍管",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "es": {
+            "item_name": "Cañón De Cedo Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "it": {
+            "item_name": "Cedo Prime - Canna",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Cedo Prime: Lufa",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Цедо-Прайм: Ствол",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+            "icon": "items/images/en/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.webp",
+            "thumb": "items/images/en/thumbs/cedo_prime_barrel.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+        }
+    },
+    "mastery_level": 15,
+    "ducats": 45,
+    "trading_tax": 2000
+}

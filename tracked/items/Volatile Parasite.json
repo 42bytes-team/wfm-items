@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
     "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
-    "icon_format": "port",
     "url_name": "volatile_parasite",
     "tradable": true,
     "game_ref": {
@@ -17,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Volatile Parasite",
-            "description": "In combat, spits up a maggot every 15s. The maggot latches onto the nearest enemy and provokes other enemies within 40m to attack them. It then explodes dealing 400 Viral Damage within 10m.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Parasite",
+            "description": "Every 15s spits out a maggot that latches onto the nearest enemy, drawing fire from those within 40m. On death, the maggot bursts, dealing 100% of accumulated damage Viral Damage (+40% damage if the enemy dies while latched) to those within 10m.",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "ru": {
             "item_name": "Летучий Паразит",
-            "description": "Выплевывает личинку каждые 15с во время боя. Личинка цепляется за ближайшего врага и провоцирует других врагов в радиусе 40м атаковать их. Затем она взрывается, нанося 400 вирусного урона в радиусе 10м.",
+            "description": "Каждые 15 с выплевывает личинку в ближайшего врага, притягивая выстрелы в радиусе 40 м. После смерти личинка взрывается, нанося 100% накопленного урона в виде Вирусного урона (+40% урона, если враг умирает, пока личинка прикреплена) врагам, находящимся в радиусе 10 м.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B8%D0%B9_%D0%9F%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D1%82",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "ko": {
             "item_name": "볼래틸 패러사이트",
-            "description": "전투 중 매 15초마다 마고트를 뱉어냅니다. 마고트는 가장 가까운 적에게 달라붙어 40m 내의 다른 적들이 달라붙은 적을 공격하도록 유발한 후 폭발을 일으키며 10m 내에 400의 바이러스 피해를 가합니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Parasite",
+            "description": "매 15초마다 근처에 있는 적에게 달라붙어 40m 내의 사격을 유도하는 마고트를 뱉어냅니다. 마고트가 죽을 경우 폭발하며 10m 이내의 적들에게 누적 피해 중 100%의 피해를 바이러스 피해로 (적에게 달라붙어 있는 동안 적들이 죽었을 시 +40% 피해) 방출합니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "de": {
             "item_name": "Instabiler Parasit",
-            "description": "Spuckt im Kampf alle 15 s eine Made aus. Die Made heftet sich an den nächsten Feind und provoziert andere Feinde in einer Reichweite von 40 m, diesen anzugreifen. Dann explodiert sie und verursacht 400 Virusschaden innerhalb von 10 m.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Parasite",
+            "description": "Spuckt alle 15 s eine Made aus, die sich am nächsten Gegner anhaftet und das Feuer anderer Feinde im Umkreis von 40 m auf sich zieht. Beim Tod platzt die Made und verursacht bei allen im Umkreis von 10 m 100 % des angesammelten Schadens als Virusschaden (+40 % Schaden, wenn der Gegner stirbt, während er behaftet ist).",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "fr": {
             "item_name": "Parasite Volatil",
-            "description": "Au combat, crache une larve toutes les 15s. Elle s'accroche à l'ennemi le plus proche et force d'autres ennemis à moins de 40m à les attaquer. Elle explose alors et inflige 400 points de Dégâts Viraux dans un rayon de 10m.",
+            "description": "Toutes les 15s, crache une larve sur l'ennemi le plus proche, attirant les tirs dans un rayon de 40m. À la mort, la larve explose pour 100% des Dégâts accumulés sous forme de Dégâts Viraux (+40% de Dégâts si l'ennemi meurt alors que la larve est accrochée) dans un rayon de 10m.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Parasite_Volatil",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "pt": {
             "item_name": "Volatile Parasite",
-            "description": "Durante o combate, cospe uma Larva a cada 15s. Esta larva se agarra ao inimigo mais próximo e faz com que os demais inimigos que estão dentro do raio de 40m a ataquem. Após isso, provoca uma explosão que causa 400 de Dano Viral dentro do raio de 10m.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Parasite",
+            "description": "A cada 15s, cuspirá uma larva que se prenderá ao inimigo mais próximo, atraindo os disparos de alvos dentro de um raio de 40m. Ao morrer, a larva explodirá, causando 100% do dano acumulado como Dano Viral (amplificado em 40% se o inimigo for eliminado enquanto estiver sob o efeito da larva) a todos dentro de um raio de 10m.",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "zh-hans": {
             "item_name": "暴怒寄生",
-            "description": "在战斗中，每隔 15 秒吐出一条蛆虫。蛆虫会吸附在最近的敌人身上，并激怒 40 米内的其他敌人对其进行攻击。然后它会爆炸，在 10 米范围内造成 400 病毒伤害。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Parasite",
+            "description": "每隔 15 秒吐出一条蛆虫。蛆虫会吸附在最近的敌人身上，吸引 40 米内的其他敌人对其进行攻击。蛆虫死亡时会爆炸，在 10 米范围内造成等于其积累伤害 100% 的 100 病毒伤害（如果敌人在被吸附期间死亡则 +40 伤害）。",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "zh-hant": {
             "item_name": "爆毒寄生",
-            "description": "在戰鬥中，每 15 秒吐出一個蛆蟲。蛆蟲會攀附在最近的敵人身上並激怒 40 公尺內的其他敵人來攻擊他們。蛆蟲接著會爆炸，在 10 公尺內造成 400 病毒傷害。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Volatile_Parasite",
+            "description": "每 15 秒吐出一個蛆蟲。蛆蟲會攀附在最近的敵人身上並吸引 40 公尺內敵人的火力。蛆蟲死亡時會爆炸，以 100% 累積的傷害（若蛆蟲攀附時敵人死亡即 +40%）對 10 公尺內的敵人造成病毒傷害。",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "es": {
             "item_name": "Parásito Volátil",
-            "description": "En combate, escupe una larva cada 15s. La larva se engancha al enemigo más cercano y provoca que otros enemigos dentro de un radio de 40m los ataque. Luego explota e inflige 400 de daño viral dentro de un radio de 10m.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Parasite",
+            "description": "Cada 15 s escupe una larva que se adhiere al enemigo más cercano, atrayendo el fuego de aquellos dentro de 40 m. Al morir, la larva explota e inflige 100 % del daño acumulado como daño viral (+40 % de daño si el enemigo muere mientras está adherido) a aquellos dentro de 10 m.",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "it": {
             "item_name": "Volatile Parasite",
-            "description": "Durante il combattimento, sputa un verme ogni 15s. Questo si attacca al bersaglio più vicino e induce altri nemici entro 40m ad attaccarlo. Infine esplode infliggendo 400 Danno Virale entro 10m.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Parasite",
+            "description": "Sputa una larva ogni 15s che si attacca al nemico più vicino, attirando il fuoco di coloro che si trovano entro 40m. Alla morte, la larva esplode, infliggendo 100% del danno accumulato sottoforma di Danno Virale (+40% Danno se il nemico muore mentre la larva è attaccata) ai nemici entro 10m.",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "pl": {
             "item_name": "Lotny Pasożyt",
-            "description": "W walce wypluwa czerwia, co 15s. Czerw przykleja się do najbliższego wroga i prowokuje innych wrogów w zasięgu 40m do atakowania go. Następnie eksploduje zadając 400 Obrażeń Wirusowych w obrębie 10m.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Parasite",
+            "description": "Wypluwa czerwia co 15 sekund, który czepia się najbliższego wroga, ściągając na siebie ogień wrogów w zasięgu 40 m. Po śmierci, czerw wybucha, zadając 100% otrzymanych obrażeń jako Obr. Wirusowe (+40% obrażeń, jeśli nosiciel umrze przed czerwiem) w zasięgu 10 m.",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         },
         "uk": {
             "item_name": "Летючий Паразит",
-            "description": "У бою кожні 15 с випльовує личинку. Личинка чіпляється за найближчого ворога, якого атакуватимуть інші вороги в межах 40 м. Потім личинка вибухає й завдає 400 вірусної шкоди в межах 10 м.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Volatile_Parasite",
+            "description": "Кожні 15 с випльовує личинку, яка чіпляється за найближчого ворога, привертаючи увагу інших ворогів у межах 40 м. Після смерті личинка вибухає й завдає 100 % від накопиченої шкоди, як вірусну (+40 % до шкоди, якщо ворог загинув під час прикріплення), у межах 10 м.",
+            "wiki_link": "https://wiki.warframe.com/w/Volatile_Parasite",
             "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
             "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
         }

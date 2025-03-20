@@ -2,13 +2,12 @@
     "_id": "5be5f5a23ffcc7038857f117",
     "tags": [
         "mod",
-        "beast",
-        "sentinel",
-        "rare"
+        "rare",
+        "melee",
+        "claws"
     ],
     "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
     "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png",
-    "icon_format": "port",
     "url_name": "frost_jaw",
     "tradable": true,
     "game_ref": {
@@ -18,7 +17,7 @@
         "en": {
             "item_name": "Frost Jaw",
             "description": "+60% Cold\n+60% Status Chance",
-            "wiki_link": "https://warframe.fandom.com/wiki/Frost_Jaw",
+            "wiki_link": "https://wiki.warframe.com/w/Frost_Jaw",
             "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
             "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
         },
@@ -32,14 +31,14 @@
         "ko": {
             "item_name": "프로스트 조우",
             "description": "+60% 냉기\n+60% 상태 이상 확률",
-            "wiki_link": "https://warframe.fandom.com/wiki/Frost_Jaw",
+            "wiki_link": "https://wiki.warframe.com/w/Frost_Jaw",
             "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
             "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
         },
         "de": {
             "item_name": "Frostkiefer",
             "description": "+60 % Kälte\n+60 % Statuschance",
-            "wiki_link": "http://warframe.fandom.com/wiki/Frost_Jaw",
+            "wiki_link": null,
             "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
             "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
         },
@@ -60,14 +59,14 @@
         "zh-hans": {
             "item_name": "冰冻双颚",
             "description": "+60% 冰冻伤害\n+60% 触发几率",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Frost_Jaw",
+            "wiki_link": "https://wiki.warframe.com/w/Frost_Jaw",
             "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
             "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
         },
         "zh-hant": {
             "item_name": "冰凍雙顎",
             "description": "+60% 冰凍傷害\n+60% 觸發機率",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Frost_Jaw",
+            "wiki_link": "https://wiki.warframe.com/w/Frost_Jaw",
             "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
             "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
         },
@@ -81,21 +80,21 @@
         "it": {
             "item_name": "Frost Jaw",
             "description": "+60% Ghiaccio\n+60% Probabilità Effetto",
-            "wiki_link": "https://warframe.fandom.com/it/wiki/Frost",
+            "wiki_link": null,
             "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
             "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
         },
         "pl": {
             "item_name": "Mroźna Żuchwa",
             "description": "+60% Obrażeń Zimna\n+60% Szansa Statusu",
-            "wiki_link": "http://warframe.fandom.com/wiki/Frost_Jaw",
+            "wiki_link": null,
             "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
             "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
         },
         "uk": {
             "item_name": "Крижана Щелепа",
-            "description": "+60% до крижаної шкоди\n+60% до ймовірності накладання ефекту стану",
-            "wiki_link": "https://warframe.fandom.com/wiki/Frost_Jaw",
+            "description": "+60 % до крижаної шкоди\n+60 % до ймовірності накладання ефекту стану",
+            "wiki_link": "https://wiki.warframe.com/w/Frost_Jaw",
             "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
             "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
         }

@@ -1,0 +1,115 @@
+{
+    "_id": "66c60c9066bbb2aedca695a8",
+    "tags": [
+        "prime",
+        "sentinel",
+        "set"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "nautilus_prime_set",
+    "redirect_from": [
+        "nautilus_prime"
+    ],
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Sentinels/SentinelPowersuits/NautilusPrimeSentinelPowerSuit",
+        "type": "set"
+    },
+    "part_of_set": [
+        "nautilus_prime_set",
+        "nautilus_prime_blueprint",
+        "nautilus_prime_carapace",
+        "nautilus_prime_cerebrum",
+        "nautilus_prime_systems"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Nautilus Prime Set",
+            "description": "This brave deckhand defends his crew with Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Наутилус Прайм: Комплект",
+            "description": "Отважный моряк защищает корабль с помощью оружия Верглас Прайм.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "ko": {
+            "item_name": "노틸러스 프라임 세트",
+            "description": "이 용감한 갑판원은 베르글라 프라임으로 승무원을 보호합니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "de": {
+            "item_name": "Nautilus Prime: Set",
+            "description": "Dieser mutige Deckarbeiter verteidigt seine Crew mit Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Nautilus Prime - Set",
+            "description": "Ce courageux matelot défend son équipage avec Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Nautilus Prime: Conjunto",
+            "description": "Este bravo marinheiro defende sua tripulação com a Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "鹦鹉螺 Prime 一套",
+            "description": "（英文：NAUTILUS PRIME）这位勇敢的水手使用冰凇 Prime 来保护他的船员。",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "鸚鵡螺 Prime 一套",
+            "description": "這名勇敢的水手使用雨淞 Prime 來保護他的船員。",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "es": {
+            "item_name": "Set de Nautilus Prime",
+            "description": "Este valiente marinero defiende a su tripulación con el Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "it": {
+            "item_name": "Nautilus Prime Set",
+            "description": "Questo coraggioso marinaio difende il suo equipaggio con Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Nautilus Prime: Zestaw",
+            "description": "Dzielny marynarz broni statku dzięki broni Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Наутилус-Прайм (комплект)",
+            "description": "Цей хоробрий помічник захищає своїх за допомогою Верґласа-прайм.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+        }
+    },
+    "ducats": 260,
+    "trading_tax": 8000
+}

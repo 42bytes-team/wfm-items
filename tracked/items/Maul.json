@@ -3,12 +3,11 @@
     "tags": [
         "mod",
         "uncommon",
-        "sentinel",
-        "beast"
+        "melee",
+        "claws"
     ],
     "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
     "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png",
-    "icon_format": "port",
     "url_name": "maul",
     "tradable": true,
     "game_ref": {
@@ -18,7 +17,7 @@
         "en": {
             "item_name": "Maul",
             "description": "+330% Melee Damage",
-            "wiki_link": "https://warframe.fandom.com/wiki/Maul",
+            "wiki_link": "https://wiki.warframe.com/w/Maul",
             "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
             "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
         },
@@ -27,13 +26,12 @@
             "description": "+330% урона в ближнем бою",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9A%D1%83%D0%B2%D0%B0%D0%BB%D0%B4%D0%B0",
             "icon": "items/images/ru/maul.89a6afe157d0e3738cddb2d96b3a58ff.png",
-            "icon_format": "port",
             "thumb": "items/images/ru/thumbs/maul.89a6afe157d0e3738cddb2d96b3a58ff.128x128.png"
         },
         "ko": {
             "item_name": "머울",
             "description": "+330% 근접 피해",
-            "wiki_link": "https://warframe.fandom.com/wiki/Maul",
+            "wiki_link": "https://wiki.warframe.com/w/Maul",
             "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
             "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
         },
@@ -54,21 +52,21 @@
         "pt": {
             "item_name": "Maul",
             "description": "+330% de Dano Corpo a Corpo",
-            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Maul",
+            "wiki_link": null,
             "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
             "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
         },
         "zh-hans": {
             "item_name": "捶击",
             "description": "+330% 近战伤害",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Maul",
+            "wiki_link": "https://wiki.warframe.com/w/Maul",
             "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
             "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
         },
         "zh-hant": {
             "item_name": "捶擊",
             "description": "+330% 近戰傷害",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Maul",
+            "wiki_link": "https://wiki.warframe.com/w/Maul",
             "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
             "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
         },
@@ -82,21 +80,21 @@
         "it": {
             "item_name": "Maul",
             "description": "+330% Danno Corpo a Corpo",
-            "wiki_link": "http://warframe.wikia.com/wiki/Maul",
+            "wiki_link": null,
             "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
             "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
         },
         "pl": {
             "item_name": "Uderzenie",
             "description": "+330% Obrażeń w Walce Wręcz",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/Uderzenie_M%C5%82ota",
+            "wiki_link": null,
             "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
             "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
         },
         "uk": {
             "item_name": "Нівечення",
-            "description": "+330% до шкоди від атак ближнього бою",
-            "wiki_link": "https://warframe.fandom.com/wiki/Maul",
+            "description": "+330 % до шкоди від атак ближнього бою",
+            "wiki_link": "https://wiki.warframe.com/w/Maul",
             "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
             "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
         }

@@ -1,0 +1,105 @@
+{
+    "_id": "675c621d7b18977f6e64541c",
+    "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "pistol"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "pistol_acuity",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Pistol/WeaponWeakpointCriticalChanceMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Pistol Acuity",
+            "description": "+350% Weak Point Damage\n+350% Weak Point Critical Chance. Multishot cannot be modified.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Пистолетная Точность",
+            "description": "+350% к урону по уязвимым местам\n+350% к шансу крит. урона по слабым местам. Мультивыстрел не может быть изменён.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "ko": {
+            "item_name": "피스톨 어큐이티",
+            "description": "+350% 약점 피해\n+350% 약점 치명타 확률. 멀티샷 수치는 조정할 수 없습니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "de": {
+            "item_name": "Pistolen-Scharfsinn",
+            "description": "+350 % Schwachpunktschaden\n+350 % Krit. Chance auf Schwachstellentreffer. Mehrfachschuss kann nicht modifiziert werden.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Précision De Pistolet",
+            "description": "+350% de Dégâts aux Points Faibles\n+350% de Chances de Critique sur les Points faibles. Tir Multiple ne peut pas être modifié.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Pistol Acuity",
+            "description": "+350% de dano em Acertos de Precisão\n+350% de Chance Crítica em Acertos de Precisão, mas impedirá que o Tiro Múltiplo seja alterado.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "敏锐手枪",
+            "description": "+350% 弱点伤害\n+350% 弱点暴击几率。多重射击无法变动。",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "手槍敏銳",
+            "description": "+350% 弱點傷害\n+350% 弱點暴擊機率。多重射擊無法改動。",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "es": {
+            "item_name": "Agudeza De Pistola",
+            "description": "+350 % de daño en puntos débiles\n+350 % de probabilidad crítica en el punto débil. El multidisparo no se puede modificar.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "it": {
+            "item_name": "Pistol Acuity",
+            "description": "+350% Danni ai Punti Deboli\n+350% Probabilità Critico Punto Debole. Lo Sparo Multiplo non può essere modificato.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Precyzja Pistoletu",
+            "description": "+350% Obrażeń Słabych Punktów\n+350% Szansy Obr. Krytycznych przy trafieniu w Słaby Punkt. Wielostrzał nie może zostać zmodyfikowany.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Пістолетна Гострозорість",
+            "description": "+350 % до шкоди слабким місцям\n+350 % до ймовірності критичної шкоди слабким місцям. Мультипостріл не можна модифікувати.",
+            "wiki_link": "https://wiki.warframe.com/w/Pistol_Acuity",
+            "icon": "items/images/en/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+            "thumb": "items/images/en/thumbs/pistol_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 10,
+    "trading_tax": 8000
+}

@@ -1,0 +1,114 @@
+{
+    "_id": "675d11b247952ab3ea1928f8",
+    "tags": [
+        "weapon",
+        "primary",
+        "set"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "reconifex_set",
+    "redirect_from": [
+        "reconifex"
+    ],
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Tenno/LongGuns/TnBeltFedRifle/TnBeltFedRifleWeapon",
+        "type": "set"
+    },
+    "part_of_set": [
+        "reconifex_barrel",
+        "reconifex_receiver",
+        "reconifex_set",
+        "reconifex_stock"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Reconifex Set",
+            "description": "Cyte-09's signature rifle is an ideal match for forceful gunners. A precisely timed reload increases reload speed and infuses the new magazine with Heat Damage.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Реконифекс: Комплект",
+            "description": "Фирменная винтовка Цита-09, которая идеально подходит для сильных стрелков. Точно рассчитанная перезарядка происходит в ускоренном режиме и наполняет новый магазин огненным уроном.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "ko": {
+            "item_name": "리코니펙스 세트",
+            "description": "이 Cyte-09의 대표 소총은 강력한 사수와 이상적인 조합을 이룹니다. 정확한 타이밍에 재장전할 시 재장전 속도를 높이고 새로 장전한 탄창에 화염 피해가 주입됩니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "de": {
+            "item_name": "Reconifex: Set",
+            "description": "Das bevorzugte Gewehr von Cyte-09 ist ideal für energische Schützen. Ein präzise getimtes Nachladen erhöht die Nachladegeschwindigkeit und verleiht dem neuen Magazin Hitzeschaden.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Reconifex - Set",
+            "description": "Le Fusil emblématique de Cyte-09 est idéal pour les tireurs énergiques. Un rechargement minuté avec précision augmente la Vitesse de rechargement et confère au nouveau Chargeur des Dégâts de Feu.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Reconifex: Conjunto",
+            "description": "O rifle tradicional do Cyte-09 é uma combinação ideal para atiradores precisos. Realizar uma recarga no momento correto aumentará a velocidade de recarga e infundirá o novo carregador com Dano Ígneo adicional.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "侦察者 一套",
+            "description": "（英文：RECONIFEX）Cyte-09 的标志性步枪是强力枪手的理想搭档。精确的装填可提高装填速度，并为下一个弹匣注入火焰伤害。",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "偵察佐 一套",
+            "description": "（英文：RECONIFEX）Cyte-09 的標誌性步槍是猛攻槍手的最佳夥伴。抓準時機裝填可提升裝填速度並對新彈匣注入火焰傷害。",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "es": {
+            "item_name": "Set de Reconifex",
+            "description": "El rifle distintivo de Cyte-09 es la opción ideal para los tiradores más enérgicos. Una recarga en el momento preciso aumenta la velocidad de recarga e infunde daño de calor al nuevo cargador.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "it": {
+            "item_name": "Reconifex Set",
+            "description": "Il fucile distintivo di Cyte-09 è la scelta ideale per i tiratori più energici. Una precisa ricarica a tempo aumenta la Velocità di Ricarica e infonde il nuovo caricatore con Danno Fuoco.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Reconifex: Zestaw",
+            "description": "Charakterystyczny karabin Cyte-09 idealnie pasuje do strzelców o silnym charakterze. Precyzyjnie dopracowanie Przeładowanie zwiększa Prędkość Przeładowania i nakłada na nowy magazynek Obr. od Ognia.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Розвідниця (комплект)",
+            "description": "Визначна гвинтівка Клітини-09 ідеально пасує потужним стрільцям. Точно розрахований момент перезаряджання пришвидшує саме перезаряджання й насичує термічною шкодою набої з нового магазину.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_set.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 6000
+}

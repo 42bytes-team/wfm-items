@@ -1,0 +1,104 @@
+{
+    "_id": "67db60569cec3e52e62523eb",
+    "tags": [
+        "mod",
+        "uncommon",
+        "parazon"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "threat_blocker",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusAndWeaponDamageOnUseMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Threat Blocker",
+            "description": "Gain 10% Disinfection and 25% chance to drop a Potency mod",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Блокировщик Угроз",
+            "description": "Получите 10% Защиты и 25% шанс на выпадение мода Сила",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "ko": {
+            "item_name": "트리트 블로커",
+            "description": "멀웨어 제거율 10% 획득 및 포텐시 모드 드롭 확률 25% 증가",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "de": {
+            "item_name": "Gefahren-Blocker",
+            "description": "Gewährt 10 % Desinfektion und eine Chance von 25 %, dass eine Potzenz-Mod fallen gelassen wird",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Bloqueur De Menaces",
+            "description": "Gagnez 10% de Désinfection et 25% de chances d'obtenir un Mod de Puissance.",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Threat Blocker",
+            "description": "Ao utilizar, fornecerá 10% de Desinfecção e 25% de chance de fornecer um Mod de Potência",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "威胁壁垒",
+            "description": "获得 10% 查杀进度和 25% 几率掉落效价 Mod",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "威脅攔截",
+            "description": "獲得消毒 10%，掉落效力 MOD 的機率 25%",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "es": {
+            "item_name": "Bloqueador De Amenazas",
+            "description": "Se obtiene un 10 % de desinfección y un 25 % de probabilidad de obtener un mod de Potencia",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "it": {
+            "item_name": "Threat Blocker",
+            "description": "Conferisce 10% Disinfezione e 25% probabilità di rilasciare un mod Potency",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Blokada Zagrożeń",
+            "description": "Zyskaj 10% Dezynfekcji i 25% szansy na zdobycie Moda Wiralności",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Блокувальник Загроз",
+            "description": "Отримайте 10 % шкали дезінфекції й 25 % до ймовірності здобути модифікатор вірусності",
+            "wiki_link": null,
+            "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+            "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+        }
+    },
+    "rarity": "uncommon",
+    "max_rank": 3,
+    "trading_tax": 4000
+}

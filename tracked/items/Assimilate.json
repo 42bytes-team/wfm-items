@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
     "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png",
-    "icon_format": "port",
     "url_name": "assimilate",
     "tradable": true,
     "game_ref": {
@@ -17,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Assimilate",
-            "description": "Absorb Augment: Nyx can move at 50% Speed and use weapons while using Absorb, but the area of effect is reduced by half.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Assimilate",
+            "description": "Absorb Augment: Nyx can use weapons during Absorb and its duration is infinite, but it consumes 6.5 Energy/s and its area of effect is halved.",
+            "wiki_link": "https://wiki.warframe.com/w/Assimilate",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "ru": {
             "item_name": "Ассимиляция",
-            "description": "Улучшение способности «Поглощение»: Никс может передвигаться с увеличенной на 50% скоростью и использовать оружие при применении «Поглощения», однако область действия уменьшена вдвое.",
+            "description": "Улучшение способности «Поглощение»: Никс может использовать оружие во время «Поглощения», а длительность становится бесконечной, потребляя 6.5 энергии в сек., но радиус действия сокращается вдвое.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D1%81%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F",
             "icon": "items/images/ru/assimilate.26836cc9cd5e5d9ef0e92e93c42018c0.png",
             "thumb": "items/images/ru/thumbs/assimilate.26836cc9cd5e5d9ef0e92e93c42018c0.128x128.png"
         },
         "ko": {
             "item_name": "어시밀레이트",
-            "description": "업소브 개조: 닉스가 업소브를 사용하는 동안 무기를 사용하고 50%의 속도로 움직일 수 있게 되나, 업소브의 범위가 반으로 줄어듭니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Assimilate",
+            "description": "업소브 개조: 닉스가 업소브를 사용하는 동안 무기를 사용할 수 있게 되며 지속 시간이 무한해지지만, 업소브의 범위가 절반으로 감소되며 초당 6.5 에너지를 소모하게 됩니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Assimilate",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "de": {
             "item_name": "Assimilieren",
-            "description": "Absorbieren Augment: Nyx kann sich mit 50 % Geschwindigkeit bewegen und Waffen nutzen, während Absorbieren aktiviert ist, aber der Wirkungsbereich ist halbiert.",
+            "description": "Absorbieren Augment: Nyx kann während der Verwendung von Absorbieren Waffen verwenden und die Dauer ist unendlich, aber die Fähigkeit verbraucht 6.5 Energie/s und der Wirkungsbereich ist um die Hälfte reduziert.",
             "wiki_link": "https://warframe.fandom.com/de/wiki/Assimilieren",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "fr": {
             "item_name": "Assimilation",
-            "description": "Augmentation d'Absorption: Nyx peut se déplacer à 50% de sa Vitesse et utiliser des armes en utilisant l'Absorption, mais la zone d'effet est réduite de moitié.",
+            "description": "Augmentation d'Absorption: Nyx peut utiliser des armes pendant Absorption et sa durée est infinie, mais elle consomme 6.5 points d'Énergie/s et sa zone d'effet est divisée par deux.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Assimilation",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "pt": {
-            "item_name": "Assimilate",
-            "description": "Ampliação Absorb: a Nyx poderá se mover com 50% de Velocidade e usar armas enquanto a Absorb estiver ativa, entretanto, a área de efeito da habilidade será reduzida pela metade.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Assimilate",
+            "item_name": "Assimilação",
+            "description": "Ampliação - Absorção: a Nyx poderá usar armas enquanto a habilidade Absorção estiver ativa. Entretanto, a área de efeito da habilidade será reduzida pela metade e consumirá 6.5 de Energia/s.",
+            "wiki_link": null,
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "zh-hans": {
             "item_name": "同化",
-            "description": "聚合吸收强化：Nyx 能够在使用吸收的时候以 50% 速度移动并使用武器，但技能范围会减半。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Assimilate",
+            "description": "聚合吸收增强：Nyx 可以在聚合吸收期间使用武器，并且技能持续时间无限，但每秒消耗 6.5 能量，并且技能范围减半。",
+            "wiki_link": "https://wiki.warframe.com/w/Assimilate",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "zh-hant": {
             "item_name": "同化",
-            "description": "聚合吸收強化：Nyx 在使用聚合吸收時，以 50% 速度移動並使用武器，但球體的範圍會減半。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Assimilate",
+            "description": "聚合吸收強化：Nyx 在聚合吸收期間，可以使用武器並且其持續時間為無限，但每秒消耗 6.5 能量並且效果範圍減半。",
+            "wiki_link": "https://wiki.warframe.com/w/Assimilate",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "es": {
             "item_name": "Asimilar",
-            "description": "Aumento de Absorber: Nyx puede moverse a un 50 % de velocidad y usar armas mientras usa Absorber, pero el área de efecto se reduce a la mitad.",
+            "description": "Aumento de Absorción: Nyx puede usar armas durante Absorción y su duración es infinita, pero consume 6.5 de energía/s y su área de efecto se reduce a la mitad.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Asimilar",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "it": {
             "item_name": "Assimilate",
-            "description": "Potenziamento Absorb: Nyx può muoversi e utilizzare le armi durante Absorb al 50% della Velocità, ma la portata è dimezzata.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Assimilate",
+            "description": "Potenziamento Absorb: Nyx può utilizzare le armi durante Absorb e la sua durata è infinita, ma consuma 6.5 Energia/s e la sua area d'effetto è dimezzata.",
+            "wiki_link": null,
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "pl": {
             "item_name": "Asymilacja",
-            "description": "Modyfikacja Absorpcji: Nyx może poruszać się z 50% prędkością i używać broni podczas korzystania z Absorpcji, ale obszar działania jest zredukowany o połowę.",
+            "description": "Modyfikacja Absorpcji: Nyx może używać broni podczas Absorpcji, a jej Czas Trwania jest nieskończony - zamiast tego zużywa 6.5 Energii/sek, a jej zasięg jest zmniejszony o połowę.",
             "wiki_link": "https://warframe.fandom.com/pl/wiki/Asymilacja",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         },
         "uk": {
             "item_name": "Засвоєння",
-            "description": "Розширення здібності «Поглинання»: Нікс може рухатися з 50% швидкості й використовувати зброю під час застосування Поглинання, проте область дії зменшена вдвічі.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Assimilate",
+            "description": "Розширення здібності «Поглинання»: Нікс може використовувати зброю під час застосування Поглинання. Тривалість нескінченна, проте область дії зменшена вдвічі, а споживання енергії — 6.5 за секунду.",
+            "wiki_link": "https://wiki.warframe.com/w/Assimilate",
             "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
             "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
         }

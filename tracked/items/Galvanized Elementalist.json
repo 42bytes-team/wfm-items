@@ -1,0 +1,105 @@
+{
+    "_id": "66fd6ca03a826eccf651cd86",
+    "tags": [
+        "mod",
+        "rare",
+        "primary",
+        "shotgun"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "galvanized_elementalist",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeStatusChanceSPSubMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Galvanized Elementalist",
+            "description": "On Melee Kill:\n+30% Status Chance for 20s. Stacks up to 4x.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Гальванизированный Элементалист",
+            "description": "При убийстве в ближнем бою:\n+30% к шансу статуса на 20с. Складывается до 4 раз.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "갈바나이즈드 엘리멘탈리스트",
+            "description": "근접 처치 시:\n20초 동안 +30% 상태 이상 확률, 최대 4회 중첩",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Galvanisierter Elementalist",
+            "description": "Bei Nahkampf-Kill:\n+30 % Statuschance für 20 s. Bis zu 4x stapelbar.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Elémentaliste Galvanisé",
+            "description": "Sur Élimination en Mêlée:\n+30% de Chances de Statut pendant 20s. Cumulable jusqu'à 4x.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Galvanized Elementalist",
+            "description": "Ao Eliminar Inimigos no Corpo a corpo:\n+30% de Chance de Status durante 20s. Acumulará até 4 vezes.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "镀层 元素师",
+            "description": "近战击杀时：\n+30% 触发几率，持续 20 秒。最多叠加到 4 层。",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "激昂元素士",
+            "description": "近戰擊殺時：\n+30% 觸發機率，持續 20 秒。最多可疊加 4 次。",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Elementalista Galvanizado",
+            "description": "Al asesinar con cuerpo a cuerpo:\n+30% de probabilidad de estado por 20 s. Se acumula hasta 4 veces.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Galvanized Elementalist",
+            "description": "Dopo un'Uccisione Corpo a Corpo:\n+30% Probabilità Effetto per 20s. Si accumula fino a 4x.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Galwanizowany Elementalista",
+            "description": "Po zabójstwie Bronią Białą:\n+30% Szansa Statusu przez 20s. Kumuluje się do 4 razy.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Гартована Стихія",
+            "description": "У разі вбивства холодною зброєю:\n+30 % до ймовірності накладання ефекту стану. Тривалість: 20 с. Накопичується до 4 разів.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Elementalist",
+            "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 10,
+    "trading_tax": 8000
+}

@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
     "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png",
-    "icon_format": "port",
     "url_name": "mischief",
     "tradable": true,
     "game_ref": {
@@ -17,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Mischief",
-            "description": "Allows Smeeta Kavat to become invisible for 9s every 7s while a decoy kavat draws fire. Decoy has a 15% chance to evade damage.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Mischief",
+            "description": "Smeeta Kavat becomes invisible for 9s every 7s while a decoy kavat draws fire. Decoy has a 15% chance to evade damage and blinds nearby enemies on death.",
+            "wiki_link": "https://wiki.warframe.com/w/Mischief",
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "ru": {
             "item_name": "Озорство",
-            "description": "Кават может стать невидимым на 9с каждые 7с и создаёт приманку, оттягивающую огонь противников на себя. Приманка может избежать вражеского огня в 15% случаев.",
+            "description": "Кават Смита становится невидимым на 9 с каждые 7 с, в то время как кават-приманка отвлекает огонь врагов на себя. Приманка имеет 15% шанс уклониться от урона и ослепляет ближайших врагов при смерти.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9E%D0%B7%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE",
             "icon": "items/images/ru/mischief.1a4faef62888a8ac53ca586f0dc36af2.png",
             "thumb": "items/images/ru/thumbs/mischief.1a4faef62888a8ac53ca586f0dc36af2.128x128.png"
         },
         "ko": {
             "item_name": "미스치프",
-            "description": "스미타 카밧이 7초마다 9초 동안 은신 상태가 되며 적의 사격을 유도하는 유인용 카밧을 보냅니다. 유인용 카밧은 15%의 확률로 피해를 회피합니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Mischief",
+            "description": "스미타 카밧이 매 7초마다 한 번 9초동안 은신 상태가 되며 적의 공격을 유도하는 유인용 카밧을 내보냅니다. 유인용 카밧은 15%의 확률로 피해를 회피하며 죽을 시 주변 적들을 실명시킵니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Mischief",
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "de": {
             "item_name": "Schalk",
-            "description": "Erlaubt es der Smeeta Kavat alle 7 s für 9 s unsichtbar zu werden, während ein Köder das Feuer auf sich zieht. Köder hat eine 15 % Chance Schaden auszuweichen.",
-            "wiki_link": "https://warframe.fandom.com/de/wiki/Shaku",
+            "description": "Smeeta Kavat wird alle 7 s für 9 s unsichtbar, während ein Köder Feuer auf sich zieht. Der Köder hat eine Chance von 15 %, Schaden zu vermeiden, und blendet Gegner in der Nähe, wenn er stirbt.",
+            "wiki_link": null,
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "fr": {
             "item_name": "Malice",
-            "description": "Permet au Kavat Smeeta de devenir invisible pour 9s toutes les 7s pendant qu'un leurre kavat attire les tirs. Le leurre a 15% de chance d'éviter les dégâts.",
+            "description": "Le Kavat Smeeta devient invisible pendant 9s toutes les 7s tant qu'un Kavat leurre attire les tirs. Le Kavat leurre a 15% de chances d'échapper aux dégâts et aveugle les ennemis proches lorsqu'il meurt.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Malice",
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "pt": {
             "item_name": "Mischief",
-            "description": "Permite que o Kavat Smeeta se torne invisível durante 9s a cada 7s enquanto um kavat de distração atrai fogo inimigo. O chamariz possui 15% chance de evadir o dano.",
+            "description": "O Kavat Smeeta ficará invisível por 9s a cada 7s, enquanto um Kavat chamariz atrai o fogo inimigo. O chamariz possui 15% de chance de evadir o dano e cegar os inimigos próximos ao ser eliminado.",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Mischief",
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "zh-hans": {
             "item_name": "顽皮",
-            "description": "笑面型库娃每过 7 秒，便能进入隐身状态 9 秒，同时放出拥有 15% 回避几率的诱饵库娃来吸引火力。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mischief",
+            "description": "笑面型库娃每过 7 秒，便能进入隐身状态 9 秒，同时放出拥有 15% 回避几率的诱饵库娃来吸引火力并在死亡时致盲附近的敌人。",
+            "wiki_link": "https://wiki.warframe.com/w/Mischief",
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "zh-hant": {
             "item_name": "頑皮",
-            "description": "笑面型庫娃每過 7 秒，便能進入隱身狀態 9 秒，同時放出擁有 15% 迴避機率的誘餌庫娃來吸引火力。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Mischief",
+            "description": "笑面型庫娃每過 7 秒，便能進入隱身狀態 9 秒，同時放出擁有 15% 迴避機率的誘餌庫娃來吸引火力並於死亡時致盲附近的敵人。",
+            "wiki_link": "https://wiki.warframe.com/w/Mischief",
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "es": {
             "item_name": "Travesura",
-            "description": "Permite al kavat Smeeta hacerse invisible durante 9s cada 7s mientras un kavat señuelo atrae la atención. El señuelo tiene un 15% de probabilidades de evadir el daño.",
+            "description": "El kavat Smeeta se vuelve invisible durante 9 s cada 7 s mientras un kavat señuelo atrae el fuego. El señuelo tiene un 15 % de probabilidad de evadir el daño y ciega a los enemigos cercanos al morir.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Travesura",
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "it": {
             "item_name": "Mischief",
-            "description": "Permette al Kavat Smeeta di diventare invisibile per 9s ogni 7s mentre un kavat esca attira il fuoco nemico. L'esca ha il 15% di probabilità di schivare i danni.",
-            "wiki_link": "https://warframe.fandom.com/it/wiki/Mischia",
+            "description": "Il Kavat Smeeta diventa invisibile per 9s ogni 7s mentre un kavat esca attira il fuoco nemico. L'esca ha il 15% di probabilità di schivare i danni e acceca i nemici prossimi alla morte.",
+            "wiki_link": null,
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "pl": {
             "item_name": "Psota",
-            "description": "Kavat Smeeta zniknie na 9s co 7s podczas gdy jego przynęta przyciągnie ostrzał wroga. Przynęta ma 15% szansy na uniknięcie obrażeń.",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/Pustka",
+            "description": "Kavat Smeeta zniknie na 9 s co 7 s, podczas gdy jego przynęta przyciągnie ostrzał wroga. Przynęta ma 15% szansy na uniknięcie obrażeń i oślepienie pobliskich wrogów po zniszczeniu.",
+            "wiki_link": null,
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         },
         "uk": {
             "item_name": "Капості",
-            "description": "Дозволяє смітовому кавату ставати непомітним на 9 с кожні 7 с. Також створює приманку, яка бере на себе ворожий вогонь та має 15% імовірності уникнути шкоди.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Mischief",
+            "description": "Смітовий кават стає непомітним на 9 с кожні 7 с. Також створює приманку, яка бере на себе ворожий вогонь та має 15 % імовірності уникнути шкоди, а також засліплює ворогів поблизу після своєї смерті.",
+            "wiki_link": "https://wiki.warframe.com/w/Mischief",
             "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
             "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
         }

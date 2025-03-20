@@ -1,0 +1,115 @@
+{
+    "_id": "66a51c8e66bbb2aedca694b0",
+    "tags": [
+        "prime",
+        "secondary",
+        "weapon",
+        "set"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "akmagnus_prime_set",
+    "redirect_from": [
+        "akmagnus_prime"
+    ],
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime",
+        "type": "set"
+    },
+    "part_of_set": [
+        "akmagnus_prime_set",
+        "akmagnus_prime_blueprint",
+        "akmagnus_prime_link"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Akmagnus Prime Set",
+            "description": "Fill your fists with golden cannons of fury. This refined design unlocks quicker handling and higher critical chance.",
+            "wiki_link": "https://wiki.warframe.com/w/Akmagnus_Prime",
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Акмагнус Прайм: Комплект",
+            "description": "Хватайте позолоченные орудия ярости. Их изысканный дизайн ускоряет боевое применение и увеличивает вероятность шанса критического урона.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%BC%D0%B0%D0%B3%D0%BD%D1%83%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "ko": {
+            "item_name": "아크매그너스 프라임 세트",
+            "description": "여러분의 손 안에 들어가는 분노의 금빛 대포를 쥐어 보세요. 이 세련된 설계의 권총은 더욱 빠른 핸들링과 높은 치명타 확률을 제공합니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "de": {
+            "item_name": "Akmagnus Prime: Set",
+            "description": "Verstärke deine Fäuste mit goldenen Grundprinzipen der Wut. Dieses raffinierte Design ermöglicht schnellere Handhabung und höhere kritische Trefferwahrscheinlichkeit.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Akmagnus Prime - Set",
+            "description": "Armez vos poings de formidables canons dorés. Cette conception raffinée permet une manipulation plus rapide et des Chances de Critique plus élevées.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Akmagnus Prime: Conjunto",
+            "description": "Equipe seus punhos com ​​poderosos canhões dourados. Este design refinado permite um manuseio rápido, com maior Chance Crítica.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "麦格努斯双枪 Prime 一套",
+            "description": "（英文：AKMAGNUS PRIME）给你的拳中塞上这愤怒的金色教条。这种精良的设计可加快操作速度并提高暴击几率。",
+            "wiki_link": "https://wiki.warframe.com/w/Akmagnus_Prime",
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "麥格努斯雙槍 Prime 一套",
+            "description": "（英文：AKMAGNUS PRIME）掌握憤怒的金色火砲。改良後的設計開通更靈巧的槍感及更高的暴擊機率。",
+            "wiki_link": "https://wiki.warframe.com/w/Akmagnus_Prime",
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "es": {
+            "item_name": "Set de Akmagnus Prime",
+            "description": "Arma tus puños con formidables cañones dorados. Este diseño refinado permite un manejo más rápido y una mayor probabilidad crítica.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "it": {
+            "item_name": "Akmagnus Prime Set",
+            "description": "Riempiti le mani con la furia di questi cannoni dorati. Questo design raffinato permette una manovrabilità più rapida e un'elevata Probabilità Critico.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Akmagnus Prime: Zestaw",
+            "description": "Pochwyć za złote działa. Ta udoskonalona broń cechuje się zwiększoną ergonomią i wyższą Szansą Obr. Krytycznych.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Акмагнус-Прайм (комплект)",
+            "description": "Візьміть у руки позолочені гармати люті. Поліпшена вишукана форма пришвидшує бойове застосування та збільшує ймовірність критичної шкоди.",
+            "wiki_link": "https://warframe.fandom.com/uk/wiki/%D0%90%D0%BA%D0%BC%D0%B0%D0%B3%D0%BD%D1%83%D1%81-%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+            "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        }
+    },
+    "mastery_level": 15,
+    "ducats": 60,
+    "trading_tax": 4000
+}

@@ -1,0 +1,105 @@
+{
+    "_id": "66fd69673a826eccf651cd65",
+    "tags": [
+        "mod",
+        "common",
+        "stance",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "persistent_posture",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Friendly/Pets/BeastWeapons/Stances/BeastPersistentStance"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Persistent Posture",
+            "description": "The companion will pick a target and then attack it relentlessly. +40% Impact Damage",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Поведение: Настойчивость",
+            "description": "Компаньон выберет цель, а затем будет беспощадно её атаковать. +40% к урону от удара",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "퍼시스턴트 퍼스처",
+            "description": "동반자가 목표물 하나를 선택해 무자비하게 공격합니다. +40% 충격 피해",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Beständige Stellung",
+            "description": "Der Begleiter sucht sich ein Ziel aus und greift es dann unerbittlich an. +40 % Einschlagschaden.",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Posture Persistante",
+            "description": "Le Compagnon choisira une cible et l'attaquera sans relâche. +40% de Dégâts d'Impact",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Persistent Posture",
+            "description": "O companheiro escolherá um alvo e o atacará incessantemente. Também receberá +40% de Dano Colisivo.",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "坚韧姿势",
+            "description": "同伴会选择一个目标，然后无情地攻击它。+40% 冲击伤害",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "執著天性",
+            "description": "同伴鎖定一個目標並持續地攻擊他們。增加 40% 衝擊傷害",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Postura Persistente",
+            "description": "El compañero elegirá un objetivo y luego lo atacará sin descanso. +40 % de daño de impacto",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Persistent Posture",
+            "description": "Il compagno sceglierà un bersaglio e lo attaccherà senza sosta. +40% Danno Impatto",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Postawa Uparta",
+            "description": "Towarzysz wybiera cel i nieustannie go atakuje. +40% Obr. Miażdżących",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Поведінка: Наполегливість",
+            "description": "Супутник вибиратиме ціль і невідступно її атакуватиме. +40 % до ударної шкоди",
+            "wiki_link": "https://wiki.warframe.com/w/Persistent_Posture",
+            "icon": "items/images/en/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/persistent_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

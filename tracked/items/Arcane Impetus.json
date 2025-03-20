@@ -1,0 +1,103 @@
+{
+    "_id": "675c59297b18977f6e6453ea",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "arcane_impetus",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Impetus",
+            "description": "Unique Status Effects from Abilities grant +6% Ability Strength and +3% Ability Efficiency for 20s.\n+1 Arcane Revive\n+1 Arcane Revive",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Мистический Толчок",
+            "description": "Уникальные эффекты статуса от способностей дают +6% к силе способностей и +3% к эффективности способностей на 20 с.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "ko": {
+            "item_name": "아케인 임페터스",
+            "description": "어빌리티를 이용해 고유 상태 이상 효과를 적용할 시 20초 간 +6%의 어빌리티 위력 및 +3%의 어빌리티 효율을 획득합니다.\n+1 아케인 부활\n+1 아케인 부활",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Impuls",
+            "description": "Einzigartige Statuseffekte von Fähigkeiten gewähren +6 % Fähigkeitsstärke und +3% Fähigkeitseffizienz für 20 s.\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Arkana:_Puls",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Arcane Impetus",
+            "description": "Les Effets de Statut uniques des Pouvoirs confèrent +6% de Puissance de Pouvoir et +3% d'Efficacité de Pouvoir pendant 20s.\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Ímpeto Arcano",
+            "description": "Concederá +6% de Força da Habilidade e +3% de Eficiência da Habilidade por 20s para cada Efeito de Status distinto infligido por habilidades.\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "赋能·激励",
+            "description": "每使用技能造成一种异常状态可增加 6% 技能强度和 3% 技能效率，持续 20 秒。\n赋能复活次数 +1\n赋能复活次数 +1",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "動力賦能",
+            "description": "來自技能的獨特觸發狀態效果提供技能強度 6%，技能效率 3，持續 20 秒。\n賦能復活次數 +1\n賦能復活次數 +1",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "es": {
+            "item_name": "Ímpetu Arcano",
+            "description": "Los efectos de estado únicos de las habilidades otorgan +6 % de fuerza de habilidad y +3 % de eficiencia de habilidad por 20 s.\n+1 Revivir Arcano\n+1 Revivir Arcano",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "it": {
+            "item_name": "Arcane Impetus",
+            "description": "Gli Effetti unici delle Abilità garantiscono +6% Potenza Abilità e +3% Efficienza Abilità per 20s.\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Arkanum Przekierowania Żywiołu",
+            "description": "Unikatowe Efekty Statusu nałożone przez Umiejętności przyznają +6% Siły i +3 Wydajności Umiejętności na 20 s.\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Містичний Штурхіт",
+            "description": "Неповторні ефекти стану від здібностей дають +6 % до потужності здібностей й +3 % до ощадливості здібностей на 20 с.\n+1 містичне відродження\n+1 містичне відродження",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Impetus",
+            "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+            "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

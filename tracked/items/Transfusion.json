@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
     "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png",
-    "icon_format": "port",
     "url_name": "transfusion",
     "tradable": true,
     "game_ref": {
@@ -18,7 +17,7 @@
         "en": {
             "item_name": "Transfusion",
             "description": "When its Master is bleeding out, the Vasca Kavat sacrifices 20% of its Health to raise them.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Transfusion",
+            "wiki_link": "https://wiki.warframe.com/w/Transfusion",
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
         },
@@ -32,14 +31,14 @@
         "ko": {
             "item_name": "트랜스퓨전",
             "description": "주인이 출혈 중일 시, 바스카 카밧은 자신의 체력 20%를 희생하여 주인을 소생시킵니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Transfusion",
+            "wiki_link": "https://wiki.warframe.com/w/Transfusion",
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
         },
         "de": {
             "item_name": "Transfusion",
             "description": "Blutet ihr Meister aus, opfert die Vasca Kavat 20 % ihrer Gesundheit, um ihn zu heilen.",
-            "wiki_link": "https://warframe.fandom.com/de/wiki/Transmutation",
+            "wiki_link": null,
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
         },
@@ -52,7 +51,7 @@
         },
         "pt": {
             "item_name": "Transfusion",
-            "description": "Quando seu Mestre está sangrando, o Kavat Vasca sacrificará 20% de sua Vida para revivê-lo.",
+            "description": "Quando seu Mestre for abatido, o Kavat Vasca sacrificará 20% de sua Vida para revivê-lo.",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Transfusion",
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
@@ -60,20 +59,20 @@
         "zh-hans": {
             "item_name": "血注",
             "description": "当主人出血濒死时，噬血型库娃会牺牲它 20% 的生命值来救起他们。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Transfusion",
+            "wiki_link": "https://wiki.warframe.com/w/Transfusion",
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
         },
         "zh-hant": {
             "item_name": "血注",
             "description": "當主人處於瀕死狀態時，噬血型庫娃會犧牲自身 20% 生命值來復活主人。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Transfusion",
+            "wiki_link": "https://wiki.warframe.com/w/Transfusion",
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
         },
         "es": {
             "item_name": "Transfusión",
-            "description": "Cuando su amo se está desangrando, el kavat Vasca sacrifica 20% de su salud para levantarlo.",
+            "description": "Cuando su amo se está desangrando, el kavat Vasca sacrifica un 20 % de su salud para levantarlo.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Transfusi%C3%B3n",
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
@@ -81,21 +80,21 @@
         "it": {
             "item_name": "Transfusion",
             "description": "Quando il suo Padrone è in dissanguamento, il Vasca Kavat sacrifica il 20% della sua Salute per rianimarlo.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Transfusion",
+            "wiki_link": "https://wiki.warframe.com/w/Transfusion",
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
         },
         "pl": {
             "item_name": "Transfuzja",
             "description": "Kiedy jego Właściciel się wykrwawia, Kavat Vasca poświęca 20% własnego Życia, żeby go podnieść.",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/Transmutacja",
+            "wiki_link": null,
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
         },
         "uk": {
             "item_name": "Переливання",
-            "description": "Васкозний кават жертвує 20% свого здоров’я, щоби допомогти смертельно пораненому господарю підвестися на ноги.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Transfusion",
+            "description": "Васкозний кават жертвує 20 % свого здоров’я, щоби допомогти смертельно пораненому господарю підвестися на ноги.",
+            "wiki_link": "https://wiki.warframe.com/w/Transfusion",
             "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
             "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
         }

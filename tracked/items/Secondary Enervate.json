@@ -1,0 +1,103 @@
+{
+    "_id": "675c5cd07b18977f6e6453ee",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "secondary_enervate",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Secondary Enervate",
+            "description": "On Hit: Increase Critical Chance by 10%. Resets after 6 Big Critical Hits.",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Вторичное Истощение",
+            "description": "При попадании: увеличивает шанс крита на 10%. Сбрасывается после 6 большого критического попадания.",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "세컨더리 에너베이트",
+            "description": "명중 시: 치명타 확률이 10% 증가합니다. 확률 100% 이상의 치명타 6회 후 초기화됩니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Sekundäres Schwächen",
+            "description": "Bei Treffer: Erhöht Krit. Chance um 10 %. Wird nach 6 Großen Krit. Treffern zurückgesetzt.",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Énervement Secondaire",
+            "description": "Sur coup: augmentation des Chances de Critique de 10%. Se réinitialise après 6 Critiques Majeurs.",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Enervação (Armas Secundárias)",
+            "description": "No Acerto: aumentará a Chance Crítica em 10%. Este bônus será redefinido após realizar 6 Acertos Críticos Elevados (Laranjas).",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "次要·失活",
+            "description": "命中时：增加 10% 暴击几率。在 6 次强力暴击命中后重置。",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "次要削弱",
+            "description": "擊中時：增加暴擊機率 10%。在 6 次強暴擊後重置。",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Enervación Secundaria",
+            "description": "Al impactar: aumenta la probabilidad crítica en un 10 %. Se reinicia después de 6 golpes críticos fuertes.",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Secondary Enervate",
+            "description": "Dopo aver Colpito: Aumenta la Probabilità Critico del 10%. Si ripristina dopo 6 Colpi Critici Elevati.",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Kumulacja Broni Bocznej",
+            "description": "Przy trafieniu: Zyskaj premię 10% Szansy Obr. Krytycznych. Resetuje się po 6 Dużym Trafieniu Krytycznym.",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Допоміжне Послаблення",
+            "description": "У разі влучання: збільшення імовірності критичної шкоди на 10 %. Скидається після надкритичних влучань (6).",
+            "wiki_link": "https://wiki.warframe.com/w/Secondary_Enervate",
+            "icon": "items/images/en/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.webp",
+            "thumb": "items/images/en/thumbs/secondary_enervate.ad8d69119b058ad12c196bcf33352bd2.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

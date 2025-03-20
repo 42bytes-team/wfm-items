@@ -1,0 +1,115 @@
+{
+    "_id": "67acd943125398d92c8bb4ec",
+    "tags": [
+        "component",
+        "warframe",
+        "prime",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
+    "url_name": "lavos_prime_neuroptics_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeHelmetBlueprint"
+    },
+    "part_of_set": [
+        "lavos_prime_blueprint",
+        "lavos_prime_chassis_blueprint",
+        "lavos_prime_neuroptics_blueprint",
+        "lavos_prime_set",
+        "lavos_prime_systems_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Lavos Prime Neuroptics Blueprint",
+            "description": "Neuroptics component of the Lavos Prime Warframe.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Лавос Прайм: Нейрооптика (Чертеж)",
+            "description": "Компонент варфрейма Лавос Прайм: нейрооптика.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "ko": {
+            "item_name": "라보스 프라임 뉴로옵틱스 설계도",
+            "description": "라보스 프라임 워프레임의 뉴로옵틱스 부분입니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "de": {
+            "item_name": "Lavos Prime: Neuroptik Blaupause",
+            "description": "Neuroptik-Komponente für den Lavos Prime Warframe.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Lavos Prime - Neuroptiques (Schéma)",
+            "description": "Le composant Neuroptiques de la Warframe Lavos Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Lavos Prime: Neurovisor (Diagrama)",
+            "description": "Neurovisor componente do Warframe Lavos Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "Lavos Prime 头部神经光元 蓝图",
+            "description": "Lavos Prime 战甲的头部神经光元组件。",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "Lavos Prime 頭部神經光元 藍圖",
+            "description": "Lavos Prime Warframe 的頭部神經光元組件。",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "es": {
+            "item_name": "Plano de Neurópticas De Lavos Prime",
+            "description": "Componente de las neurópticas del warframe Lavos Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "it": {
+            "item_name": "Lavos Prime - Neurottiche (Schema)",
+            "description": "Il componente Neurottiche per il Warframe Lavos Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Lavos Prime: Neurooptyka - Schemat",
+            "description": "Neurooptyka dla Warframe'a Lavos Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Лавос-Прайм: Нейроптика (креслення)",
+            "description": "Деталі нейроптики для ворфрейма Лавоса-прайм.",
+            "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+            "icon": "items/images/en/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+            "thumb": "items/images/en/thumbs/lavos_prime_neuroptics_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+        }
+    },
+    "mastery_level": 0,
+    "ducats": 45,
+    "trading_tax": 2000
+}

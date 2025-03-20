@@ -2,12 +2,12 @@
     "_id": "54a74454e779892d5e515667",
     "tags": [
         "mod",
+        "uncommon",
         "sentinel",
-        "uncommon"
+        "robotic"
     ],
     "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
     "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png",
-    "icon_format": "port",
     "url_name": "spare_parts",
     "tradable": true,
     "game_ref": {
@@ -16,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Spare Parts",
-            "description": "Sentinel marks a target every 15s for 5s. The target becomes 200% more likely to drop an item when killed.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Spare_Parts",
+            "description": "Companion marks a target every 15s for 15s. The target becomes 200% more likely to drop an item when killed.",
+            "wiki_link": "https://wiki.warframe.com/w/Spare_Parts",
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "ru": {
             "item_name": "Запасные Части",
-            "description": "Страж отмечает цель каждые 15 с в течение 5 с. Вероятность выпадения предмета после убийства цели повышается на 200%.",
+            "description": "Компаньон отмечает цель каждые 15 с в течение 15 с. Вероятность выпадения предмета после убийства цели повышается на 200%.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%A7%D0%B0%D1%81%D1%82%D0%B8",
             "icon": "items/images/ru/spare_parts.28296f8ff8aa2b378e4869dc63707d30.png",
             "thumb": "items/images/ru/thumbs/spare_parts.28296f8ff8aa2b378e4869dc63707d30.128x128.png"
         },
         "ko": {
             "item_name": "스페어 파츠",
-            "description": "센티넬이 매 15초 마다 5초 동안 목표물을 마킹합니다. 목표물이 처치될 경우, 아이템을 드롭할 확률이 200% 높아집니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Spare_Parts",
+            "description": "동반자가 매 15초 마다 15초 동안 목표물을 마킹합니다. 목표물이 처치될 경우, 아이템을 드롭할 확률이 200% 높아집니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Spare_Parts",
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "de": {
             "item_name": "Ersatzteile",
-            "description": "Der Wächter markiert alle 15 s ein Ziel für 5 s. Die Chance auf einen Gegenstand, wenn es getötet wird, wird um 200 % erhöht.",
+            "description": "Der Begleiter markiert alle 15 s ein Ziel für 15 s. Die Chance auf einen Gegenstand, wird um 200 % erhöht, wenn das Ziel getötet wird.",
             "wiki_link": "https://warframe.fandom.com/de/wiki/Ersatzteile",
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "fr": {
             "item_name": "Pièces De Rechange",
-            "description": "La Sentinelle marque une cible toutes 15s pendant 5s. La cible devient 200% plus susceptible de laisser tomber un objet lorsqu'elle est éliminée.",
+            "description": "Le Compagnon marque une cible toutes 15s pendant 15s. La cible devient 200% plus susceptible de laisser tomber un objet lorsqu'elle est éliminée.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Pi%C3%A8ces_de_Rechange",
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "pt": {
             "item_name": "Spare Parts",
-            "description": "A Sentinela marcará um alvo a cada 15s por 5s. O alvo ficará 200% mais propenso a conceder itens ao ser abatido.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Spare_Parts",
+            "description": "O companheiro marcará um alvo a cada 15s por 15s. O alvo ficará 200% mais propenso a conceder itens ao ser abatido.",
+            "wiki_link": null,
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "zh-hans": {
             "item_name": "残余",
-            "description": "守护每 15 秒标记一个目标，持续 5 秒。目标被击杀时掉落物品的概率增加 200%。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Spare_Parts",
+            "description": "同伴每 15 秒标记一个目标，持续 15 秒。目标被击杀时有额外 200% 几率掉落物品。",
+            "wiki_link": "https://wiki.warframe.com/w/Spare_Parts",
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "zh-hant": {
             "item_name": "打撈掃描器",
-            "description": "每隔 15 秒守護將會標記一名目標，持續 5 秒。目標被擊殺時，掉落物品的機率增加 200%。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Spare_Parts",
+            "description": "每隔 15 秒同伴將會標記一名目標，持續 15 秒。目標被擊殺時，掉落物品的機率增加 200%。",
+            "wiki_link": "https://wiki.warframe.com/w/Spare_Parts",
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "es": {
             "item_name": "Piezas De Repuesto",
-            "description": "El centinela marca un objetivo cada 15 s durante 5 s. El objetivo tiene un 200 % más de probabilidades de soltar un objeto cuando es eliminado.",
-            "wiki_link": "https://warframe.fandom.com/es/wiki/Piezas_de_recambio",
+            "description": "El compañero marca un objetivo cada 15 s durante 15 s. El objetivo tiene un 200 % más de probabilidades de soltar un objeto cuando es eliminado.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Piezas_de_repuesto",
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "it": {
             "item_name": "Spare Parts",
-            "description": "La Sentinella contrassegna un bersaglio ogni 15s per 5s. Il bersaglio ha il 200% di probabilità in più di rilasciare un oggetto quando viene ucciso.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Spare_Parts",
+            "description": "Il Compagno contrassegna un bersaglio ogni 15s per 15s. Il bersaglio ha il 200% di probabilità in più di rilasciare un oggetto quando viene ucciso.",
+            "wiki_link": null,
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "pl": {
             "item_name": "Części Zapasowe",
-            "description": "Strażnik oznacza cel na 5 s co 15 s. Oznaczony przeciwnik ma 200% wyższą szansę na upuszczenie łupu po śmierci.",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/Zapasowe_Cz%C4%99%C5%9Bci",
+            "description": "Towarzysz oznacza cel na 15 s co 15 s. Oznaczony przeciwnik ma 200% wyższą szansę na upuszczenie łupu po śmierci.",
+            "wiki_link": null,
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         },
         "uk": {
             "item_name": "Запасні Частини",
-            "description": "Вартові позначають ціль на 5 с кожні 15 с. Ціль має на 200% більше ймовірності лишити після своєї смерті якийсь предмет.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Spare_Parts",
+            "description": "Супутники позначають ціль на 15 с кожні 15 с. Ціль має на 200 % більше ймовірності лишити після своєї смерті якийсь предмет.",
+            "wiki_link": "https://wiki.warframe.com/w/Spare_Parts",
             "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
             "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
         }

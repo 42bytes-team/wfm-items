@@ -1,0 +1,113 @@
+{
+    "_id": "66c60c9066bbb2aedca695a9",
+    "tags": [
+        "prime",
+        "sentinel",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "nautilus_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint"
+    },
+    "part_of_set": [
+        "nautilus_prime_set",
+        "nautilus_prime_blueprint",
+        "nautilus_prime_carapace",
+        "nautilus_prime_cerebrum",
+        "nautilus_prime_systems"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Nautilus Prime Blueprint",
+            "description": "This brave deckhand defends his crew with Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Наутилус Прайм (Чертеж)",
+            "description": "Отважный моряк защищает корабль с помощью оружия Верглас Прайм.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "노틸러스 프라임 설계도",
+            "description": "이 용감한 갑판원은 베르글라 프라임으로 승무원을 보호합니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Nautilus Prime Blaupause",
+            "description": "Dieser mutige Deckarbeiter verteidigt seine Crew mit Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Nautilus Prime (Schéma)",
+            "description": "Ce courageux matelot défend son équipage avec Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Nautilus Prime (Diagrama)",
+            "description": "Este bravo marinheiro defende sua tripulação com a Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "鹦鹉螺 Prime 蓝图",
+            "description": "（英文：NAUTILUS PRIME）这位勇敢的水手使用冰凇 Prime 来保护他的船员。",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "鸚鵡螺 Prime 藍圖",
+            "description": "這名勇敢的水手使用雨淞 Prime 來保護他的船員。",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Plano de Nautilus Prime",
+            "description": "Este valiente marinero defiende a su tripulación con el Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Nautilus Prime (Schema)",
+            "description": "Questo coraggioso marinaio difende il suo equipaggio con Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Nautilus Prime - Schemat",
+            "description": "Dzielny marynarz broni statku dzięki broni Verglas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Наутилус-Прайм (креслення)",
+            "description": "Цей хоробрий помічник захищає своїх за допомогою Верґласа-прайм.",
+            "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+            "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "ducats": 100,
+    "trading_tax": 2000
+}

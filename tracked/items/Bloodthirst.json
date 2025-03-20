@@ -1,0 +1,105 @@
+{
+    "_id": "66fd6a413a826eccf651cd79",
+    "tags": [
+        "mod",
+        "common",
+        "melee",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "bloodthirst",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/BeastDrainingBiteMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Bloodthirst",
+            "description": "100 health stolen each hit per stack of Slash.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Кровожадность",
+            "description": "100 здоровья похищается с каждым срабатыванием стака Разреза.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "블러드써스트",
+            "description": "매 공격마다 베기 중첩 당 100의 흡혈",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Blutdurst",
+            "description": "Pro Stapel Schnitt werden pro Treffer 100 Gesundheit gestohlen.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Soif De Sang",
+            "description": "100 points de Santé volés à chaque coup Tranchant.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Bloodthirst",
+            "description": "Em cada ataque, roubará 100 de Vida para cada acúmulo do Efeito de Status Cortante.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "嗜血",
+            "description": "每叠加一层 切割，每次攻击都会窃取 100 点生命值。",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "嗜血本性",
+            "description": "每一層觸發的切割狀態，每次攻擊會竊取 100 生命。",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Sed De Sangre",
+            "description": "100 de salud robada por cada golpe por acumulación de cortante.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Bloodthirst",
+            "description": "100 Salute rubata a ogni colpo per ogni carica di Taglio.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Rządza Krwi",
+            "description": "Kradnie 100 życia za każdą instancję Statusu Obr. Tnących na celu.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Кровожерливість",
+            "description": "Викрадається 100 здоров’я у ворогів за кожне накопичення різальної шкоди.",
+            "wiki_link": "https://wiki.warframe.com/w/Bloodthirst",
+            "icon": "items/images/en/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bloodthirst.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

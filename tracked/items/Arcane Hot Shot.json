@@ -1,0 +1,103 @@
+{
+    "_id": "67db60889cec3e52e62523f5",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "arcane_hot_shot",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityHeatProcsGiveCritChance"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Hot Shot",
+            "description": "Gain 6% weapon Critical Chance for 10s, when using abilities to inflict Heat Status effect on enemies. Maximum 50x stacks.\n+1 Arcane Revive",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Мистический Выстрел",
+            "description": "Увеличивает шанс критического урона оружием на 10 сек. при использовании способностей, наносящих врагам огневой статус. Максимум - 50 стаков.\n+1 Мистическое Воскрешение",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "ko": {
+            "item_name": "아케인 핫 샷",
+            "description": "적에게 화염 상태 이상 효과를 부여하는 어빌리티를 사용할 시 10초 동안 6%의 무기 치명타 확률이 증가합니다. 최대 50회 중첩.\n+1 아케인 부활",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Heißer Schuss",
+            "description": "Erhalte 6 % Krit. Chance für 10 s, wenn Fähigkeiten gewirkt werden, um Hitze-Statuseffekt bei Gegnern auszulösen. Maximal 50 Stapel.\n+1 Arkana Wiederbelebung",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Arcane Tonnerre De Feu",
+            "description": "Gagnez 6% de Chances de Critique avec votre arme pendant 10s lorsque vous utilisez des Pouvoirs pour infliger des Effets de Statut de Feu aux ennemis. Nombre maximal de cumuls: 50.\n+1 Réanimation Arcane",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Ignição Arcana",
+            "description": "Fornecerá 6% de Chance Crítica para armas por 10s, ao usar habilidades que infligem o Efeito de Status Ígneo em inimigos. Acumulará até 50x.\n+1 Reanimação Arcana",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "赋能·热火",
+            "description": "使用技能对敌人造成 火焰异常状态时，获得 6% 武器暴击几率，持续 10 秒。最多叠加 50 层。\n赋能复活次数 +1",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "暴炎賦能",
+            "description": "使用技能對敵人造成火焰狀態效果時，獲得 6% 武器暴擊率，持續 10 秒。最高疊加 50 層。\n賦能復活次數 +1",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "es": {
+            "item_name": "Ignición Arcana",
+            "description": "Obtén 6 % de probabilidad crítica de arma durante 10 s al usar habilidades que causen estado de calor a los enemigos. Máximo de 50 acumulaciones.\n+1 Revivir Arcano",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "it": {
+            "item_name": "Arcane Hot Shot",
+            "description": "Utilizzare un'abilità che infligge Effetto <DT_HEAT_COLOR>Fuoco ai nemici conferisce 6% Probabilità Critico Arma per 10s. Massimo 50x cariche.\n+1 Rianimazione Arcane",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Arkanum Przegrzania",
+            "description": "Zyskaj 6% Szansy Obr. Krytycznych dla Broni przez 10 s po nałożeniu Efektu Statusu Obr. od Ognia przez Umiejętności. Kumuluje się do 50 razy.\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Містичний Постріл",
+            "description": "Отримайте на 10 с 6 % до ймовірності критичної шкоди від зброї, використовуючи здібності, які накладають термічний ефект стану. Накопичується до 50 разів.\n+1 містичне відродження.",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+            "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
     "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png",
-    "icon_format": "port",
     "url_name": "primal_rage",
     "tradable": true,
     "game_ref": {
@@ -18,13 +17,13 @@
         "en": {
             "item_name": "Primal Rage",
             "description": "Primal Fury Augment: Killing an enemy increases Critical Chance by 15%. The increase decays by 1%/s",
-            "wiki_link": "https://warframe.fandom.com/wiki/Primal_Rage",
+            "wiki_link": "https://wiki.warframe.com/w/Primal_Rage",
             "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
             "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
         },
         "ru": {
             "item_name": "Первобытный Гнев",
-            "description": "Улучшение способности «Первобытная ярость»: убийство врага повышает шанс критического удара на 15%. Показатель снижается на 1%/с.",
+            "description": "Улучшение способности «Первобытная ярость»: убийство врага повышает шанс критического урона на 15%. Показатель снижается на 1%/с.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B1%D1%8B%D1%82%D0%BD%D1%8B%D0%B9_%D0%93%D0%BD%D0%B5%D0%B2",
             "icon": "items/images/ru/primal_rage.73d1fe081f2fc2a19ebab86216ff7005.png",
             "thumb": "items/images/ru/thumbs/primal_rage.73d1fe081f2fc2a19ebab86216ff7005.128x128.png"
@@ -32,7 +31,7 @@
         "ko": {
             "item_name": "프라이멀 레이지",
             "description": "프라이멀 퓨리 개조: 적 처치 시 치명타 확률이 15%증가합니다. 증가치는 매 초마다 1%씩 약해집니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Primal_Rage",
+            "wiki_link": "https://wiki.warframe.com/w/Primal_Rage",
             "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
             "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
         },
@@ -60,14 +59,14 @@
         "zh-hans": {
             "item_name": "原始暴怒",
             "description": "原始狂怒强化：每杀死一名敌人提升 15% 暴击几率。每秒衰减 1% 。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primal_Rage",
+            "wiki_link": "https://wiki.warframe.com/w/Primal_Rage",
             "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
             "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
         },
         "zh-hant": {
             "item_name": "原始暴怒",
             "description": "原始狂怒強化：殺死一名敵人提升 15% 暴擊機率。增幅的暴擊機率以每秒 1% 衰減。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Primal_Rage",
+            "wiki_link": "https://wiki.warframe.com/w/Primal_Rage",
             "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
             "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
         },
@@ -81,21 +80,21 @@
         "it": {
             "item_name": "Primal Rage",
             "description": "Potenziamento Primal Fury: Uccidere un nemico aumenta la Probabilità Critico del 15%. Questo aumento si riduce del 1%/s",
-            "wiki_link": "http://warframe.wikia.com/wiki/Primal_Rage",
+            "wiki_link": null,
             "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
             "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
         },
         "pl": {
             "item_name": "Pierwotny Szał",
             "description": "Modyfikacja Pierwotnej Furii: Zabicie wroga zwiększa Szansę Obr. Krytycznych o 15%. Przyrost słabnie o 1%/s",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/Pewny_Strza%C5%82",
+            "wiki_link": null,
             "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
             "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
         },
         "uk": {
             "item_name": "Первісне Шаленство",
-            "description": "Розширення здібності «Первісна лють»: убивство ворога збільшує ймовірність завдання критичної шкоди на 15%. Показник зменшується на 1%/с.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Primal_Rage",
+            "description": "Розширення здібності «Первісна лють»: убивство ворога збільшує ймовірність завдавання критичної шкоди на 15 %. Показник зменшується на 1 %/с.",
+            "wiki_link": "https://wiki.warframe.com/w/Primal_Rage",
             "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
             "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
         }

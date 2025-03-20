@@ -1,0 +1,104 @@
+{
+    "_id": "66fd6c7b3a826eccf651cd82",
+    "tags": [
+        "mod",
+        "rare",
+        "melee"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "galvanized_steel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponCritChanceSPMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Galvanized Steel",
+            "description": "+110% Critical Chance (x2 for Heavy Attacks)\nOn Melee Kill:\n+30% Critical Damage for 20s. Stacks up to 4x.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Гальваническая Закалка",
+            "description": "+110% к шансу критической атаки (х2 при тяжёлых атаках)\nПри убийстве в ближнем бою:\n+30% крит. урона на 20с. Складывается до 4 раз.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "갈바나이즈드 스틸",
+            "description": "+110% 치명타 확률 (강 공격 시 2배)\n근접 처치 시:\n20초 동안 +30% 치명타 피해, 최대 4회 중첩",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Galvanisierter Stahl",
+            "description": "+110 % Krit. Chance (x2 für Schwere Angriffe)\nBei Nahkampf-Kill:\n+30 % Krit. Schaden für 20 s. Bis zu 4x stapelbar.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Acier Galvanisé",
+            "description": "+110% de Chances de Critique (x2 pour les Attaques Lourdes)\nSur Élimination en Mêlée:\n+30% de Dégâts Critiques pendant 20s. Cumulable jusqu'à 4x.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Galvanized Steel",
+            "description": "+110% de Chance Crítica (x2 para Ataques Pesados)\nAo Eliminar Inimigos no Corpo a corpo:\n+30% de Dano Crítico durante 20s. Acumulará até 4 vezes.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "镀层 斩铁",
+            "description": "+110% 暴击几率（重击时 x2）\n近战击杀时：\n+30% 暴击伤害，持续 20 秒。最多叠加到 4 层。",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "激昂斬鐵",
+            "description": "+110% 暴擊機率（重擊 x 2）\n近戰擊殺時：\n+30% 暴擊傷害，持續 20 秒。最多可疊加 4 次。",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Acero Galvanizado",
+            "description": "+110% de probabilidad crítica (x2 para ataques pesados)\nAl asesinar con cuerpo a cuerpo:\n+30% de daño crítico por 20 s. Se acumula hasta 4 veces.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Galvanized Steel",
+            "description": "+110% Probabilità Critico (x2 per Attacchi Pesanti)\nDopo un'Uccisione Corpo a Corpo:\n+30% Danno Critico per 20s. Si accumula fino a 4x.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Galwanizowana Stal",
+            "description": "+110% Szansy na Trafienie Krytyczne (x2 dla Ciężkich Ataków)\nPo zabójstwie Bronią Białą:\n+30% Obrażeń Krytycznych przez 20s. Kumuluje się do 4 razy.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Гартована Сталь",
+            "description": "+110 % до ймовірності критичної шкоди (х2 для потужних ударів)\nУ разі вбивства холодною зброєю:\n+30 % до критичної шкоди. Тривалість: 20 с. Накопичується до 4 разів.",
+            "wiki_link": "https://wiki.warframe.com/w/Galvanized_Steel",
+            "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 10,
+    "trading_tax": 8000
+}

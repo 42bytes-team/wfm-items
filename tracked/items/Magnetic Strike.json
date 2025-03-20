@@ -1,0 +1,105 @@
+{
+    "_id": "66fd6a303a826eccf651cd75",
+    "tags": [
+        "mod",
+        "common",
+        "melee",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "magnetic_strike",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/BeastMagneticImpactMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Magnetic Strike",
+            "description": "100% to apply a Magnetic proc when inflicting an Impact status effect",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Магнитный Удар",
+            "description": "Шанс 100% наложить статус магнита при наложении статуса удара",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "마그네틱 스트라이크",
+            "description": "충격 상태 이상 적용 시 100%의 확률로 자성 상태 이상",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Magnetischer Schlag",
+            "description": "100 % einen magnetischen Proc einzusetzen, wenn man Einschlag-Statuseffekt verursacht.",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Frappe Magnétique",
+            "description": "100% d'appliquer un Effet Magnétique lors de l'infliction d'un Effet de Statut d'Impact",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Magnetic Strike",
+            "description": "Ao infligir um Efeito de Status Colisivo, receberá 100% de chance de aplicar um Efeito de Status Magnético.",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "磁力打击",
+            "description": "造成 冲击异常状态时，有 100% 几率施加 磁力异常状态",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "磁力打擊",
+            "description": "觸發衝擊狀態效果時，有 100% 機率觸發磁力狀態效果。",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Golpe Magnético",
+            "description": "100 % para aplicar un efecto magnético al infligir un efecto de estado de impacto",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Magnetic Strike",
+            "description": "100% di applicare un Effetto Magnetico quando si infligge un Effetto Impatto",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Magnetyczne Uderzenie",
+            "description": "100% szansy na nałożenie Efektu Statusu Obr. Magnetycznych przy nałożeniu Efektu Statusu Obr. Miażdżących",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Магнетичний Удар",
+            "description": "100 % імовірність викликати спрацьовування магнетичного ефекту стану під час накладання ударного ефекту стану",
+            "wiki_link": "https://wiki.warframe.com/w/Magnetic_Strike",
+            "icon": "items/images/en/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/magnetic_strike.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

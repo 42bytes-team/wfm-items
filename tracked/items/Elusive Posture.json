@@ -1,0 +1,105 @@
+{
+    "_id": "66fd696d3a826eccf651cd67",
+    "tags": [
+        "mod",
+        "common",
+        "stance",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "elusive_posture",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Friendly/Pets/BeastWeapons/Stances/BeastPacifistStance"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Elusive Posture",
+            "description": "The companion will avoid attacking. +50% Evasion",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Поведение: Уклонение",
+            "description": "Компаньон будет избегать атак. +50% уклонения",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "일루시브 포스처",
+            "description": "적이 동반자를 근접 무기로 먼저 공격하지 않는 한 적을 공격하지 않습니다. +50% 회피",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Scheue Stellung",
+            "description": "Der Begleiter wird Angriffe vermeiden. +50 % Ausweichen.",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Posture Insaisissable",
+            "description": "Le compagnon évitera d'attaquer. +50% d'Esquive",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Elusive Posture",
+            "description": "O companheiro evitará atacar e receberá +50% de Evasão.",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "诡秘姿势",
+            "description": "同伴将避开攻击。+50% 回避",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "避戰天性",
+            "description": "同伴避免攻擊。增加 50% 迴避",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Postura Elusiva",
+            "description": "El compañero evitará atacar. +50 % de evasión",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Elusive Posture",
+            "description": "Il compagno eviterà di attaccare. +50% Evasione",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Postawa Nieuchwytna",
+            "description": "Towarzysz unika atakowania. +50% Uniku",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Поведінка: Ухилення",
+            "description": "Супутник уникатиме нападів. +50 % до ухилення",
+            "wiki_link": "https://wiki.warframe.com/w/Elusive_Posture",
+            "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

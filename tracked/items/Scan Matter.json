@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
     "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png",
-    "icon_format": "port",
     "url_name": "scan_matter",
     "tradable": true,
     "game_ref": {
@@ -17,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Scan Matter",
-            "description": "Resource containers within 60m are revealed on the Minimap for 8s every 30s.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+            "description": "Reveals resource containers and mineral deposits within 60m. Automatically breaks containers and collects resources every 3s.",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "ru": {
             "item_name": "Сканирование Материи",
-            "description": "Каждые 30с в радиусе 60м в течение 8с на карте будут отмечаться контейнеры с ресурсами.",
+            "description": "Обнаруживает контейнеры с ресурсами и месторождения минералов в радиусе 60м. Автоматически разбивает контейнеры и собирает ресурсы каждые 3 с.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B8",
             "icon": "items/images/ru/scan_matter.5568aa84f744bfb389424fba6e9ec26f.png",
             "thumb": "items/images/ru/thumbs/scan_matter.5568aa84f744bfb389424fba6e9ec26f.128x128.png"
         },
         "ko": {
             "item_name": "스캔 매터",
-            "description": "30초마다 60m 내에 있는 자원 저장고가 8초 동안 미니맵에 표시됩니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+            "description": "60m 내의 자원 컨테이너와 광석 매장물을 보여줍니다. 매 3초마다 자동으로 저장고를 부수고 자원을 수집합니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "de": {
             "item_name": "Materie Scannen",
-            "description": "Ressourcen Container innerhalb von 60 m werden alle 30 s für 8 s auf der Minikarte angezeigt.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+            "description": "Deckt Ressourcencontainer und Mineralvorkommen im Umkreis von 60 m auf. Zerstört alle 3 s automatisch Behälter und sammelt Ressourcen ein.",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "fr": {
             "item_name": "Détecteur De Matière",
-            "description": "Les conteneurs de Ressources à moins de 60m sont affichés sur la mini-carte pour 8s toutes les 30s.",
+            "description": "Révèle les conteneurs de Ressources et les gisements minéraux dans un rayon de 60m. Ouvre automatiquement les conteneurs et collecte les Ressources toutes les 3s.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/D%C3%A9tecteur_de_Mati%C3%A8re",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "pt": {
             "item_name": "Scan Matter",
-            "description": "Contêineres de recursos dentro de 60m serão revelados no Minimapa durante 8s a cada 30s.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+            "description": "Revelará contêineres de recursos e depósitos minerais dentro de 60m. Quebrará contêineres automaticamente e coletará recursos a cada 3s.",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "zh-hans": {
             "item_name": "扫描物质",
-            "description": "每 30 秒，小地图上会持续 8 秒显示半径 60 米内的资源箱。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Scan_Matter",
+            "description": "显示 60 米范围内的资源箱和矿床。每 3 秒自动破坏资源箱并收集资源。",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "zh-hant": {
             "item_name": "掃描物質",
-            "description": "每 30 秒，小地圖上會持續 8 秒顯示半徑 60 公尺內的資源箱。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Scan_Matter",
+            "description": "顯示 60 公尺內的資源容器及礦床。每 3 秒自動破開容器及收集資源。",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "es": {
             "item_name": "Escanear Materia",
-            "description": "Los contenedores de recursos dentro de 60m son revelados en el minimapa por 8s cada 30s.",
-            "wiki_link": "https://warframe.fandom.com/es/wiki/Escanear_Materia",
+            "description": "Revela contenedores de recursos y depósitos minerales en un radio de 60 m. Rompe contenedores automáticamente y recolecta recursos cada 3 s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Escanear_materia",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "it": {
             "item_name": "Scan Matter",
-            "description": "Le casse di Risorse entro 60m vengono mostrate sulla Mappa per 8s ad intervalli di 30s.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+            "description": "Rivela i contenitori di risorse e i giacimenti minerari entro 60m. Distrugge automaticamente i contenitori e raccoglie le risorse ogni 3s.",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "pl": {
             "item_name": "Skanuj Materię",
-            "description": "Co 30s wyświetla zbiorniki z surowcami na minimapie przez 8s w zasięgu 60m.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+            "description": "Ujawnia położenie pojemników z zasobami i złóż minerałów w zasięgu 60 metrów. Automatycznie niszczy pojemnik i zbiera jego zawartość co 3 sekundy.",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         },
         "uk": {
             "item_name": "Шукач Ресурсів",
-            "description": "Контейнери з ресурсами в межах 60 м показуються на мінімапі впродовж 8 с кожні 30 с.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Scan_Matter",
+            "description": "Виявляються контейнери з ресурсами й мінеральні поклади в межах 60 м. Кожні 3 с контейнери розбиваються й автоматично збираються ресурси.",
+            "wiki_link": "https://wiki.warframe.com/w/Scan_Matter",
             "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
             "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
         }

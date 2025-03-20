@@ -1,0 +1,114 @@
+{
+    "_id": "673516c8db3ac2cfade14a79",
+    "tags": [
+        "component",
+        "weapon",
+        "prime"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+    "url_name": "trumna_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver"
+    },
+    "part_of_set": [
+        "trumna_prime_set",
+        "trumna_prime_barrel",
+        "trumna_prime_blueprint",
+        "trumna_prime_receiver",
+        "trumna_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Trumna Prime Receiver",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Трумна Прайм: Приёмник",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "ko": {
+            "item_name": "트럼나 프라임 리시버",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "de": {
+            "item_name": "Trumna Prime: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Trumna Prime - Culasse",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Trumna Prime: Receptor",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "灭杀者 Prime 枪机",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "創痍者 Prime 槍機",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "es": {
+            "item_name": "Receptor De Trumna Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "it": {
+            "item_name": "Trumna Prime - Castello",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Trumna Prime: Korpus",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Трунарка-Прайм: Ствольна Коробка",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+            "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+            "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+        }
+    },
+    "mastery_level": 15,
+    "ducats": 100,
+    "trading_tax": 2000
+}

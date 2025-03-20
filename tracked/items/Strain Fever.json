@@ -3,12 +3,11 @@
     "tags": [
         "mod",
         "rare",
-        "kubrow",
-        "helminth"
+        "melee",
+        "helminth_claws"
     ],
     "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
     "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png",
-    "icon_format": "port",
     "url_name": "strain_fever",
     "tradable": true,
     "game_ref": {
@@ -17,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Strain Fever",
-            "description": "Helminth Charger gains +30% Damage per Cyst.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Fever",
+            "description": "Helminth Charger gains +40% Damage per Cyst.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "ru": {
             "item_name": "Штамм Лихорадки",
-            "description": "Каждая киста добавляет +30% урона Гельминтову инфестоиду.",
+            "description": "Каждая киста добавляет +40% урона Гельминтову инфестоиду.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D1%82%D0%B0%D0%BC%D0%BC_%D0%9B%D0%B8%D1%85%D0%BE%D1%80%D0%B0%D0%B4%D0%BA%D0%B8",
             "icon": "items/images/ru/strain_fever.ecc7be59862bf5f4364feed7e40eadad.png",
             "thumb": "items/images/ru/thumbs/strain_fever.ecc7be59862bf5f4364feed7e40eadad.128x128.png"
         },
         "ko": {
             "item_name": "스트레인 피버",
-            "description": "헬민스 차저가 자라난 각 낭종 당 +30% 추가 피해를 가합니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Fever",
+            "description": "헬민스 차저가 자라난 각 낭종 당 +40% 추가 피해를 가합니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "de": {
             "item_name": "Infektion: Fieber",
-            "description": "Helminth Stürmer erhält +30 % Schaden pro Zyste.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Fever",
+            "description": "Helminth Stürmer erhält +40 % Schaden pro Zyste.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "fr": {
             "item_name": "Fièvre De Souche",
-            "description": "Le Chargeur Helminth inflige 30% de Dégâts en plus par Kyste.",
-            "wiki_link": "https://warframe.fandom.com/fr/wiki/Fi%C3%A8vre_de_Souche",
+            "description": "Le Chargeur Helminth inflige 40% de Dégâts en plus par Kyste.",
+            "wiki_link": null,
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "pt": {
             "item_name": "Strain Fever",
-            "description": "Bandoleiro do Helminte receberá +30% de Dano bônus por Cisto.",
+            "description": "Bandoleiro do Helminte receberá +40% de Dano bônus por Cisto.",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "zh-hans": {
             "item_name": "菌株 热毒",
-            "description": "每颗包囊都能让 Helminth 疾冲者获得 +30% 伤害。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Strain_Fever",
+            "description": "每颗包囊都能让 Helminth 疾冲者获得 +40% 伤害。",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "zh-hant": {
             "item_name": "菌株 病毒",
-            "description": "每顆包囊都能讓 Helminth 疾衝者增加 30% 的傷害。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Strain_Fever",
+            "description": "每顆包囊都能讓 Helminth 疾衝者增加 40% 的傷害。",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "es": {
             "item_name": "Fiebre De Cepa",
-            "description": "El cargador Helminto gana +30% de daño por quiste.",
-            "wiki_link": "https://warframe.fandom.com/es/wiki/Fiebre_de_cepa",
+            "description": "El cargador Helminto gana +40% de daño por quiste.",
+            "wiki_link": null,
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "it": {
             "item_name": "Strain Fever",
-            "description": "L'Helminth Charger guadagna +30% di Danno per Ciste.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Fever",
+            "description": "L'Helminth Charger guadagna +40% di Danno per Ciste.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "pl": {
             "item_name": "Szczep Gorączki",
-            "description": "Taran Helminth zyskuje +30% Obrażeń za każdą Cystę.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Fever",
+            "description": "Taran Helminth zyskuje +40% Obrażeń za każdą Cystę.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         },
         "uk": {
             "item_name": "Хвороблива Лихоманка",
-            "description": "Гельмінтовий гінчак отримує +30% до шкоди за кісту.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Fever",
+            "description": "Гельмінтовий гінчак отримує +40 % до шкоди за кісту.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Fever",
             "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
             "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png"
         }

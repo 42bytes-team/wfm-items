@@ -1,0 +1,112 @@
+{
+    "_id": "66a51c9166bbb2aedca694b2",
+    "tags": [
+        "component",
+        "prime",
+        "weapon"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_link_128x128.png",
+    "url_name": "akmagnus_prime_link",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkmagnusPrimeLink"
+    },
+    "part_of_set": [
+        "akmagnus_prime_set",
+        "akmagnus_prime_blueprint",
+        "akmagnus_prime_link"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Akmagnus Prime Link",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": "https://wiki.warframe.com/w/Akmagnus_Prime",
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Акмагнус Прайм: Связь",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%90%D0%BA%D0%BC%D0%B0%D0%B3%D0%BD%D1%83%D1%81_%D0%9F%D1%80%D0%B0%D0%B9%D0%BC",
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "ko": {
+            "item_name": "아크매그너스 프라임 링크",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "de": {
+            "item_name": "Akmagnus Prime: Verbindung",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Akmagnus Prime - Lien",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Akmagnus Prime: Conexão",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "麦格努斯双枪 Prime 连接器",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "麥格努斯雙槍 Prime 連接器",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "es": {
+            "item_name": "Enlace De Akmagnus Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "it": {
+            "item_name": "Akmagnus Prime - Collegamento",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Akmagnus Prime: Połączenie",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Акмагнус-Прайм: Спаровувач",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": "https://warframe.fandom.com/uk/wiki/%D0%90%D0%BA%D0%BC%D0%B0%D0%B3%D0%BD%D1%83%D1%81-%D0%BF%D1%80%D0%B0%D0%B9%D0%BC",
+            "icon": "items/images/en/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+            "thumb": "items/images/en/thumbs/akmagnus_prime_link.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+        }
+    },
+    "mastery_level": 15,
+    "ducats": 45,
+    "trading_tax": 2000
+}

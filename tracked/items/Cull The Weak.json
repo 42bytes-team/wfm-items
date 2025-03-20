@@ -1,0 +1,105 @@
+{
+    "_id": "66fd6a5b3a826eccf651cd7d",
+    "tags": [
+        "mod",
+        "uncommon",
+        "melee",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "cull_the_weak",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/BeastCullTheWeakMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Cull The Weak",
+            "description": "+60% Melee Damage per Status Type affecting the target\nNon-Critical hits deal +240% damage",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Естественный Отбор",
+            "description": "+60% к урону ближнего боя за каждый действующий на цель эффект статуса\nНекритические удары наносят +240% урона",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "컬 더 위크",
+            "description": "목표물에게 걸린 각 상태 이상마다 +60% 근접 피해\n치명타가 아닌 공격에 +240%의 피해",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Die Schwachen Auslesen",
+            "description": "+60 % Nahkampfschaden für jeden wirkenden Statuseffekt auf dem Gegner\nNicht-kritische Treffer verursachen +240 % Schaden.",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Loi De La Jungle",
+            "description": "+60% de Dégâts de Mêlée pour chaque Type de Statut affectant la cible\nLes coups non critiques infligent +240% de Dégâts",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Cull The Weak",
+            "description": "+60% de Dano para Armas Brancas para cada Tipo de Status afetando o alvo\nAcertos que não forem críticos causarão +240% de dano.",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "优胜劣汰",
+            "description": "目标身上的每种异常状态可增加 +60% 近战伤害\n非暴击攻击造成 +240% 伤害",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "剷弱汰劣",
+            "description": "每種影響目標的異常狀態類型將造成 +60% 的近戰傷害\n未暴擊的攻擊造成 +240% 傷害",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Sacrifica A Los Débiles",
+            "description": "+60 % de daño de cuerpo a cuerpo por cada tipo de estado aplicado al objetivo\nLos golpes no críticos infligen un +240 % de daño",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Cull The Weak",
+            "description": "+60% Danno Corpo a Corpo per ogni Tipo di Effetto sul bersaglio\nI colpi non Critici infliggono +240% danno",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Przerzedzenie Stada",
+            "description": "+60% Obrażeń broni białej za każdy typ Efektu Statusu na celu\nTrafienia nie-krytyczne zadają +240% obrażeń",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Природний Відбір",
+            "description": "+60 % до шкоди від атак ближнього бою за кожен тип ефекту стану цілі\nНе критичні удари завдають ++240 % від шкоди",
+            "wiki_link": "https://wiki.warframe.com/w/Cull_the_Weak",
+            "icon": "items/images/en/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/cull_the_weak.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "uncommon",
+    "max_rank": 5,
+    "trading_tax": 4000
+}

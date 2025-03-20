@@ -1,0 +1,114 @@
+{
+    "_id": "66c60c2766bbb2aedca695a4",
+    "tags": [
+        "prime",
+        "secondary",
+        "weapon",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "epitaph_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint"
+    },
+    "part_of_set": [
+        "epitaph_prime_set",
+        "epitaph_prime_barrel",
+        "epitaph_prime_blueprint",
+        "epitaph_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Epitaph Prime Blueprint",
+            "description": "Send shivers down your enemies' spines with this wrist-mounted sidearm. As the signature weapon of Sevagoth Prime, it deals additional headshot damage when wielded by him.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Эпитаф Прайм (Чертеж)",
+            "description": "Прогоните дрожь по спинам ваших врагов с этим запястным оружием. Как особое оружие Севагота Прайм, оно наносит дополнительный урон при выстрелах в голову, когда его использует он.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "에피타프 프라임 설계도",
+            "description": "이 손목에 장착하는 보조 무기로 적의 등골을 싸늘하게 만들어 보세요. 세바고스 프라임의 대표 무기인 이 보조 무기는 세바고스 프라임이 사용할 시 추가 헤드샷 피해를 입힙니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Epitaph Prime Blaupause",
+            "description": "Jage deinen Feinden einen Schauer über den Rücken, mit dieser, am Handgelenk angebrachten, Waffe. Sevagoth Primes unverkennbare Waffe fügt zusätzlichen Kopfschussschaden hinzu, wenn sie von ihm geführt wird.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Épitaphe Prime (Schéma)",
+            "description": "Donnez des frissons à vos ennemis avec cette arme secondaire portée sur le poignet. En tant qu'arme emblématique de Sevagoth Prime, elle inflige des Dégâts supplémentaires sur Tir à la Tête lorsqu'il l'utilise.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Epitaph Prime (Diagrama)",
+            "description": "Deixe seus inimigos arrepiados com esta arma secundária de punho. Quando empunhada pelo Sevagoth, esta sua arma tradicional causa dano adicional em Acertos de Precisão.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "葬铭 Prime 蓝图",
+            "description": "（英文：EPITAPH PRIME）这把腕式次要武器让你的敌人不寒而栗。作为 Sevagoth Prime 的标志性武器，由他使用时可造成额外的爆头伤害。",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "墓悼者 Prime 藍圖",
+            "description": "（英文：EPITAPH PRIME）透過這個夾腕式次要武器來讓你的敵人瑟瑟發抖。作為 Sevagoth Prime 的標誌性武器，由他握持時會造成額外的爆頭傷害。",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Plano de Epitaph Prime",
+            "description": "Haz temblar a tus enemigos con esta arma secundaria montada en la muñeca. Como arma distintiva de Sevagoth Prime, causa daño adicional en la cabeza cuando es él quien la empuña.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Epitaph Prime (Schema)",
+            "description": "Fai rabbrividire i nemici con questa arma secondaria da polso. Come arma distintiva di Sevagoth Prime, infligge danno colpo alla testa aggiuntivo quando impugnata da lui.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Epitaph Prime - Schemat",
+            "description": "Ta montowana na nadgarstku Broń boczna przyprawia wrogów o dreszcze. Jako charakterystyczna broń Sevagotha Prime, zadaje dodatkowe obrażenia od strzałów w głowę, gdy jest w jego posiadaniu.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Епітафія-Прайм (креслення)",
+            "description": "Нехай холодні мурашки пробіжать хребтом ваших ворогів від вигляду вмонтованої у зап’ясток допоміжної зброї. Якщо свою визначну зброю тримає Севаґот-прайм, то вона завдає додаткової шкоди в разі влучання в голову.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "ducats": 15,
+    "trading_tax": 2000
+}

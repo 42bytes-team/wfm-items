@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
     "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png",
-    "icon_format": "port",
     "url_name": "hunter_recovery",
     "tradable": true,
     "game_ref": {
@@ -18,13 +17,13 @@
         "en": {
             "item_name": "Hunter Recovery",
             "description": "Warframe healed for +30% Companion Damage dealt",
-            "wiki_link": "https://warframe.fandom.com/wiki/Hunter_Recovery",
+            "wiki_link": "https://wiki.warframe.com/w/Hunter_Recovery",
             "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
             "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png"
         },
         "ru": {
             "item_name": "Восстановление Охотника",
-            "description": "Варфрейм исцеляется на +30% от нанесённого урона компаньону",
+            "description": "Варфрейм исцеляется на +30% от урона, нанесённого компаньоном",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
             "icon": "items/images/ru/hunter_recovery.4356a139088124c9cbf56b1bfc3cde4e.png",
             "thumb": "items/images/ru/thumbs/hunter_recovery.4356a139088124c9cbf56b1bfc3cde4e.128x128.png"
@@ -32,7 +31,7 @@
         "ko": {
             "item_name": "헌터 리커버리",
             "description": "동반자가 가하는 피해의 +30%만큼 워프레임 회복",
-            "wiki_link": "https://warframe.fandom.com/wiki/Hunter_Recovery",
+            "wiki_link": "https://wiki.warframe.com/w/Hunter_Recovery",
             "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
             "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png"
         },
@@ -60,14 +59,14 @@
         "zh-hans": {
             "item_name": "猎人 复元",
             "description": "同伴造成的 +30% 伤害将治愈战甲",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter_Recovery",
+            "wiki_link": "https://wiki.warframe.com/w/Hunter_Recovery",
             "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
             "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png"
         },
         "zh-hant": {
             "item_name": "獵者 復元",
             "description": "治癒 Warframe 相當於同伴造成的 +30% 傷害",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Hunter_Recovery",
+            "wiki_link": "https://wiki.warframe.com/w/Hunter_Recovery",
             "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
             "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png"
         },
@@ -81,7 +80,7 @@
         "it": {
             "item_name": "Hunter Recovery",
             "description": "Cura il Warframe del +30% del Danno inflitto dal Compagno",
-            "wiki_link": "http://warframe.wikia.com/wiki/Hunter_Recovery",
+            "wiki_link": null,
             "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
             "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png"
         },
@@ -95,7 +94,7 @@
         "uk": {
             "item_name": "Відновлення Мисливця",
             "description": "Ворфрейм зцілюється на +30% від завдаваної супутником шкоди",
-            "wiki_link": "https://warframe.fandom.com/wiki/Hunter_Recovery",
+            "wiki_link": "https://wiki.warframe.com/w/Hunter_Recovery",
             "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
             "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png"
         }

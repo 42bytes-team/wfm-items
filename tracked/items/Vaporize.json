@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
     "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png",
-    "icon_format": "port",
     "url_name": "vaporize",
     "tradable": true,
     "game_ref": {
@@ -17,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Vaporize",
-            "description": "Sentinel will deal 600 Damage to an enemy within 30m.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Vaporize",
+            "description": "Every 10s the sentinel will stun and inflict 600 damage to an enemy within 30m. Damage dealt affected by Sentinel Weapon Mods.",
+            "wiki_link": "https://wiki.warframe.com/w/Vaporize",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "ru": {
             "item_name": "Испаритель",
-            "description": "Страж наносит 600 урона противнику в радиусе 30 м.",
+            "description": "Каждые 10 секунд страж оглушает и наносит 600 урона врагу в радиусе 30 м. Наносимый урон зависит от модов оружия стража.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%98%D1%81%D0%BF%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
             "icon": "items/images/ru/vaporize.a90e337030a8bd33ac5783fb60fe2420.png",
             "thumb": "items/images/ru/thumbs/vaporize.a90e337030a8bd33ac5783fb60fe2420.128x128.png"
         },
         "ko": {
             "item_name": "베이포라이즈",
-            "description": "센티넬이 30m 안에 들어온 적 하나에게 600 피해를 입힙니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Vaporize",
+            "description": "센티넬이 매 10초마다 30m 내의 적을 기절시키며 600의 피해를 가합니다. 피해량은 센티넬 무기 모드의 영향을 받습니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Vaporize",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "de": {
             "item_name": "Verdampfen",
-            "description": "Wächter verursacht 600 Schaden bei einem Gegner innerhalb von 30 m.",
+            "description": "Alle 10 Sekunden betäubt der Wächter einen Gegner im Umkreis von 30 m und fügt ihm 600 Schaden zu. Der zugefügte Schaden wird durch die Waffenmods des Wächters beeinflusst.",
             "wiki_link": "https://warframe.fandom.com/de/wiki/Verdampfen",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "fr": {
             "item_name": "Vaporisation",
-            "description": "La Sentinelle inflige 600 points de Dégâts à un ennemi se trouvant dans un rayon de 30m.",
+            "description": "Toutes les 10s, la Sentinelle étourdit et inflige 600 points de Dégâts à un ennemi dans un rayon de 30m. Les Dégâts infligés sont affectés par les Mods d'armes de la Sentinelle.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Vaporisation",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "pt": {
             "item_name": "Vaporize",
-            "description": "A Sentinela causará 600 de Dano a um inimigo em um raio de 30m.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Vaporize",
+            "description": "A cada 10s, a Sentinela atordoará e infligirá 600 de dano a um inimigo dentro de 30m. O dano causado será afetado pelos Mods equipados na Arma da Sentinela.",
+            "wiki_link": null,
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "zh-hans": {
             "item_name": "汽化",
-            "description": "守护会对 30 米内的单一敌人造成 600 伤害。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaporize",
+            "description": "每隔 10 秒，守护将使 30 米范围内的敌人眩晕并造成 600 点伤害。所造成的伤害受守护武器 Mod 影响。",
+            "wiki_link": "https://wiki.warframe.com/w/Vaporize",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "zh-hant": {
             "item_name": "汽化",
-            "description": "守護會對 30 公尺內的單一敵人造成 600 傷害。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Vaporize",
+            "description": "守護每 10 秒會擊暈 30 公尺內的敵人並對他們造成 600 傷害。守護武器 MOD 會影響造成的傷害。",
+            "wiki_link": "https://wiki.warframe.com/w/Vaporize",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "es": {
             "item_name": "Vaporizar",
-            "description": "El centinela tratará de producir 600 de daño a un enemigo dentro de un radio de 30m.",
+            "description": "Cada 10 s, el centinela aturdirá e infligirá 600 de daño a un enemigo dentro de 30 m. El daño infligido se ve afectado por los mods de arma del centinela.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Vaporizar",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "it": {
             "item_name": "Vaporize",
-            "description": "La Sentinella infliggerà 600 danni ad un nemico entro 30m.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Vaporize",
+            "description": "Ogni 10s la sentinella stordirà e infliggerà 600 danni a un nemico entro 30m. I danni inflitti sono influenzati dai mod equipaggiati sull'Arma della Sentinella.",
+            "wiki_link": null,
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "pl": {
             "item_name": "Zwęglenie",
-            "description": "Strażnik zada 600 obrażeń przeciwnikowi w zasięgu 30m.",
+            "description": "Strażnik ogłusza i zadaje 600 obrażeń wrogom w zasięgu 30 m co 10 sekund.\nObrażenia są zależne od Modów wyposażonych przez broń Strażnika.",
             "wiki_link": "https://warframe.fandom.com/pl/wiki/Zw%C4%99glenie",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         },
         "uk": {
             "item_name": "Випарник",
-            "description": "Вартовий завдає 600 шкоди ворогу на відстані до 30 м.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Vaporize",
+            "description": "Кожні 10 с свідомий завдає 600 шкоди й приголомшує ворогів у межах 30 м. Модифікатори зброї свідомого впливають на завдавану шкоду.",
+            "wiki_link": "https://wiki.warframe.com/w/Vaporize",
             "icon": "items/images/en/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.png",
             "thumb": "items/images/en/thumbs/vaporize.bc331504b5d2e65f346b1d2c0844ef7a.128x128.png"
         }

@@ -1,0 +1,105 @@
+{
+    "_id": "67c84009646a0f9183433501",
+    "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "vesper_77"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "leaded_gas",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Nightwave/NightwaveLasSilencedPistolAugmentMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Leaded Gas",
+            "description": "On Weak Point Hit:\n+300% Gas Damage and Status Chance for 6s",
+            "wiki_link": "https://wiki.warframe.com/w/Leaded_Gas",
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Свинцовый Газ",
+            "description": "При попадании по слабой точке:\n+300% к Газовому урону и шансу статуса в течение 6с",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D1%86%D0%BE%D0%B2%D1%8B%D0%B9_%D0%93%D0%B0%D0%B7",
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "ko": {
+            "item_name": "레디드 가스",
+            "description": "약점 명중 시:\n6초 동안 +300% 가스 피해 및 상태 이상 확률",
+            "wiki_link": null,
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "de": {
+            "item_name": "Bleihaltiges Gas",
+            "description": "Bei Schwachstellentreffer:\n+300 % Gasschaden und Statuschance für 6s",
+            "wiki_link": null,
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Gaz Au Plomb",
+            "description": "Sur coup au Point Faible:\nPendant 6s, +300% de Dégâts et de Chances de Statut de Gaz",
+            "wiki_link": null,
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Leaded Gas",
+            "description": "Em Acertos de Precisão:\n+300% de Chance de Status e Dano Gasoso por 6s",
+            "wiki_link": null,
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "毒气铅弹",
+            "description": "命中弱点时：\n+300% 毒气伤害\n+300% 毒气触发几率\n，持续 6 秒",
+            "wiki_link": "https://wiki.warframe.com/w/Leaded_Gas",
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "毒氣彈頭",
+            "description": "擊中弱點時：\n+300% 毒氣傷害及狀態觸發機率，持續 6 秒",
+            "wiki_link": "https://wiki.warframe.com/w/Leaded_Gas",
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "es": {
+            "item_name": "Gas Con Plomo",
+            "description": "Al golpear un punto débil:\n+300 % de daño de gas y probabilidad de estado por 6s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Gas_con_plomo",
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "it": {
+            "item_name": "Leaded Gas",
+            "description": "Colpendo un Punto Debole:\n+300% Danno e Probabilità Effetto Gas per 6s",
+            "wiki_link": null,
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Zatrucie Ołowiem",
+            "description": "Przy trafieniu w Słaby Punkt:\n+300% Obr. Gazowych i Szansy Statusu przez 6s",
+            "wiki_link": null,
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Свинцевий Газ",
+            "description": "У разі влучання в слабкі місця:\n+300 % до ймовірності газової шкоди та ефекту стану. Тривалість: 6 с.",
+            "wiki_link": null,
+            "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+            "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

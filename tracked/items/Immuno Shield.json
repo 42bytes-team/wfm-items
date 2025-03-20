@@ -1,0 +1,104 @@
+{
+    "_id": "67db60559cec3e52e62523e9",
+    "tags": [
+        "mod",
+        "common",
+        "parazon"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "immuno_shield",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusOnUseMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Immuno Shield",
+            "description": "Gain 15% Disinfection and gain 5000 Affinity",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Иммунный Щит",
+            "description": "Получите 15% Защиты и получите 5000 Синтеза",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "ko": {
+            "item_name": "이뮤노 실드",
+            "description": "멀웨어 제거율 15% 획득 및 5000 숙련도 획득",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "de": {
+            "item_name": "Immuno-Schild",
+            "description": "Gewährt 15 % Desinfektion und 5.000 Erfahrung",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Bouclier Immunitaire",
+            "description": "Gagnez 15% de Désinfection et 5 000 points d'Affinité",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Immuno Shield",
+            "description": "Ao utilizar, fornecerá 15% de Desinfecção e 5.000 pontos de Afinidade",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "免疫护盾",
+            "description": "获得 15% 查杀进度并获得 5000 经验值",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "免疫護罩",
+            "description": "獲得消毒 15%，5000 經驗",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "es": {
+            "item_name": "Escudo Inmunológico",
+            "description": "Se obtiene un 15 % de desinfección y 5000 de afinidad",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "it": {
+            "item_name": "Immuno Shield",
+            "description": "Conferisce 15% Disinfezione e guadagni 5000 Affinità",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Osłona Immunologiczna",
+            "description": "Zyskaj 15% Dezynfekcji i 5000 Biegłości",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Імунний Щит",
+            "description": "Отримайте 15 % шкали дезінфекції й 5 000 єдності",
+            "wiki_link": null,
+            "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+            "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

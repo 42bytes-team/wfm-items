@@ -1,0 +1,105 @@
+{
+    "_id": "67c84007646a0f91834334ff",
+    "tags": [
+        "mod",
+        "rare",
+        "primary",
+        "ax_52"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "biotic_rounds",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Nightwave/NightwaveTC2024AK47AugmentMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Biotic Rounds",
+            "description": "On Weak Point Kill:\n+150% Viral and Magnetic Damage and Status Chance for 15s",
+            "wiki_link": "https://wiki.warframe.com/w/Biotic_Rounds",
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Биотические Патроны",
+            "description": "При убийстве попаданием по слабой точке:\n+150% к вероятности вирусного и магнетического урона и шанса статуса в течение 15с",
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B8%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B",
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "ko": {
+            "item_name": "바이오틱 라운즈",
+            "description": "약점 명중으로 처치 시:\n15초 동안 +150% 바이러스, 자성 피해 및 상태 이상 확률",
+            "wiki_link": null,
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "de": {
+            "item_name": "Biotische Kugeln",
+            "description": "Bei Schwachpunkt-Kill:\n+150 % Virus- und Magnetismusschaden und Statuschance. für 15s",
+            "wiki_link": null,
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Munitions Biotiques",
+            "description": "Sur élimination via Point Faible:\nPendant 15s, +150% de Dégâts et de Chances de Statut Viraux et Magnétiques",
+            "wiki_link": null,
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Biotic Rounds",
+            "description": "Ao Eliminar com Acertos de Precisão:\n+150% de Chance de Status, Dano Viral e Dano Magnético por 15s",
+            "wiki_link": null,
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "生化弹药",
+            "description": "弱点击杀时：\n+150% 病毒伤害\n+150% 磁力伤害\n+150% 病毒触发几率\n+150% 磁力触发几率\n，持续 15 秒",
+            "wiki_link": "https://wiki.warframe.com/w/Biotic_Rounds",
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "生化彈頭",
+            "description": "弱點擊殺時：\n+150% 病毒傷害和 磁力傷害以及狀態觸發機率，持續 15 秒",
+            "wiki_link": "https://wiki.warframe.com/w/Biotic_Rounds",
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "es": {
+            "item_name": "Municiones Bióticas",
+            "description": "Al matar golpeando un punto débil:\n+150 % de daño viral y magnético y probabilidad de estado por 15s.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Municiones_bi%C3%B3ticas",
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "it": {
+            "item_name": "Biotic Rounds",
+            "description": "All'Uccisione su Punto Debole:\n+150% Danno e Probabilità Effetto Virale e Magnetico per 15s",
+            "wiki_link": null,
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Biotyczne Pociski",
+            "description": "Przy zabiciu trafieniem w Słaby Punkt:\n+150% Obr. Wirusowych i Obr. Magnetycznych oraz Szansy Statusu przez 15s",
+            "wiki_link": null,
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Біотичні Набої",
+            "description": "У разі вбивства влучанням у слабкі місця:\n+150 % до ймовірності вірусної й магнетичної шкоди та ефекту стану. Тривалість: 15 с.",
+            "wiki_link": null,
+            "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+            "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

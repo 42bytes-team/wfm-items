@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
     "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png",
-    "icon_format": "port",
     "url_name": "coolant_leak",
     "tradable": true,
     "game_ref": {
@@ -17,89 +16,90 @@
     "i18n": {
         "en": {
             "item_name": "Coolant Leak",
-            "description": "Sentinel has a 3m freeze aura, slowing incoming enemies by 10%.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Coolant_Leak",
+            "description": "Unleashes a 10m radial blast of Cold when multiple enemies are nearby. Add 3 stacks. 10s cooldown.",
+            "wiki_link": "https://wiki.warframe.com/w/Coolant_Leak",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "ru": {
             "item_name": "Утечка Охлаждения",
-            "description": "Страж получает замораживающую ауру радиусом 3м, замедляющую противников на 10%.",
+            "description": "Высвобождает радиальный взрыв с радиусом 10 м, наносящий урон Холодом, когда поблизости находится несколько врагов. Складывается 3 раза. Перезарядка 10 секунд.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D1%82%D0%B5%D1%87%D0%BA%D0%B0_%D0%9E%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F",
             "icon": "items/images/ru/coolant_leak.b30f6db540a4d2f565b33d7bef2374f4.png",
             "thumb": "items/images/ru/thumbs/coolant_leak.b30f6db540a4d2f565b33d7bef2374f4.128x128.png"
         },
         "ko": {
             "item_name": "쿨런트 리크",
-            "description": "센티넬을 기준으로 3m 안의 적을 10% 느리게 만드는 냉기 오라를 제공합니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Coolant_Leak",
+            "description": "다수의 적이 근처에 있을 시 10m 크기의 냉기 방사형 폭발을 방출합니다. 3개의 냉기 상태 이상 효과가 중첩되며, 10초의 재사용 대기 시간을 갖습니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Coolant_Leak",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "de": {
             "item_name": "Kühlmittelleck",
-            "description": "Wächter hat eine einfrierende Aura von 3 m, die Gegner um 10 % verlangsamt",
+            "description": "Löst einen 10 m breiten Radialstoß von Kälte aus, wenn sich mehrere Feinde in der Nähe befinden. Fügt 3 Stapel hinzu. 10 Sek. Abklingzeit.",
             "wiki_link": "https://warframe.fandom.com/de/wiki/K%C3%BChlmittelleck",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "fr": {
             "item_name": "Fuite De Réfrigérant",
-            "description": "La Sentinelle dégage une aura de gel d'un rayon de 3m, ralentissant les ennemis à proximité de 10%.",
-            "wiki_link": "https://warframe.fandom.com/fr/wiki/Fuite_de_R%C3%A9frig%C3%A9rant",
+            "description": "Déclenche une explosion de Glace dans un rayon de 10m lorsqu'il y a plusieurs ennemis à proximité. Ajoute 3 cumuls. Temps de recharge: 10s.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Fuite_de_r%C3%A9frig%C3%A9rant",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "pt": {
             "item_name": "Coolant Leak",
-            "description": "A Sentinela possui uma aura congelante de 3m de Alcance, que desacelera os inimigos em 10%.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Coolant_Leak",
+            "description": "Liberará uma explosão Glacial radial de 10m quando vários inimigos estiverem próximos. Adicionará 3 acúmulos. Tempo de Recarga de 10s.",
+            "wiki_link": null,
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "zh-hans": {
             "item_name": "冷却液外泄",
-            "description": "守护拥有 3 米范围的冰冷气场，减缓来袭敌人 10% 的动作速度。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Coolant_Leak",
+            "description": "当附近有多个敌人时，释放一个范围 10 米的 冰冻爆炸。叠加 3 层异常状态。冷却时间为 10 秒。",
+            "wiki_link": "https://wiki.warframe.com/w/Coolant_Leak",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "zh-hant": {
             "item_name": "冷卻液外泄",
-            "description": "守護擁有 3 公尺範圍的冰冷氣場，減緩來襲敵人 10% 的動作速度。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Coolant_Leak",
+            "description": "當周圍有複數名敵人時，釋放一陣半徑 10 公尺的冰暴，附加 3 層狀態觸發，冷卻時間 10 秒。",
+            "wiki_link": "https://wiki.warframe.com/w/Coolant_Leak",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "es": {
             "item_name": "Fuga De Refrigerante",
-            "description": "El centinela dispone de un aura de congelación en un radio de 3m, ralentizando un 10% a los enemigos entrantes.",
+            "description": "Desata una explosión radial de 10 m de daño frío cuando hay varios enemigos cerca. Agrega 3 acumulaciones. Tiempo de reutilización de 10 s.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Fuga_de_refrigerante",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "it": {
             "item_name": "Coolant Leak",
-            "description": "La Sentinella ha un'aura congelante di 3m che rallenta i nemici in arrivo del 10%",
-            "wiki_link": "http://warframe.wikia.com/wiki/Coolant_Leak",
+            "description": "Scatena un'esplosione radiale di Ghiaccio entro 10m quando più nemici sono nelle vicinanze. Aggiunge 3 cariche. Tempo di ricarica: 10s.",
+            "wiki_link": null,
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "pl": {
             "item_name": "Wyciek Chłodziwa",
-            "description": "Strażnik ma 3m zasięgu mrożącej aury, spowalnia nadchodzących wrogów o 10%.",
+            "description": "Wyzwala promienisty podmuch Obr. od Zimna o zasięgu 10 m, gdy w pobliżu znajduje się wielu wrogów. Dodaje 3 instancje. Czas odnowienia 10 s.",
             "wiki_link": "https://warframe.fandom.com/pl/wiki/Wyciek_Ch%C5%82odziwa",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         },
         "uk": {
             "item_name": "Витік Охолодження",
-            "description": "Довкола охоронця на відстані 3 м діє крижана аура, що сповільнює ворогів на 10%.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Coolant_Leak",
+            "description": "Коли кілька ворогів поблизу, створює крижаний вибух у межах 10 м. Накопичується 3 рази. Перезаряджання: 10 с.",
+            "wiki_link": "https://wiki.warframe.com/w/Coolant_Leak",
             "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
             "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
         }
     },
     "rarity": "rare",
+    "max_rank": 3,
     "trading_tax": 8000
 }

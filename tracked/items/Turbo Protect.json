@@ -1,0 +1,104 @@
+{
+    "_id": "67db60569cec3e52e62523ec",
+    "tags": [
+        "mod",
+        "rare",
+        "parazon"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "turbo_protect",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusAndSpeedOnUseMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Turbo Protect",
+            "description": "Gain 10% Disinfection and 25% chance to drop an Antivirus mod",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Турбо Защита",
+            "description": "Получите 10% Защиты и 25% шанс на выпадение мода Антивирус",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "ko": {
+            "item_name": "터보 프로텍트",
+            "description": "멀웨어 제거율 10% 획득 및 안티바이러스 모드 드롭 확률 25% 증가",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "de": {
+            "item_name": "Turbo-Schutz",
+            "description": "Gewährt 10 % Desinfektion und eine Chance von 25 %, dass eine Antivirus-Mod fallen gelassen wird",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Protection Turbo",
+            "description": "Gagnez 10% de Désinfection et 25% de chances d'obtenir un Mod Antivirus.",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Turbo Protect",
+            "description": "Ao utilizar, fornecerá 10% de Desinfecção e 25% de chance de fornecer um Mod de Antivírus",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "极速防护",
+            "description": "获得 10% 查杀进度和 25% 几率掉落杀毒 Mod",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "極限保護",
+            "description": "獲得消毒 10%，掉落防毒 MOD 的機率 25%",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "es": {
+            "item_name": "Turboprotección",
+            "description": "Se obtiene un 10 % de desinfección y un 25 % de probabilidad de obtener un mod Antivirus",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "it": {
+            "item_name": "Turbo Protect",
+            "description": "Conferisce 10% Disinfezione e 25% probabilità di rilasciare un mod Antivirus",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Turbo Ochrona",
+            "description": "Zyskaj 10% Dezynfekcji i 25% szansy na zdobycie Moda Antywirusowego",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Турбозахист",
+            "description": "Отримайте 10 % шкали дезінфекції й 25 % до ймовірності здобути антивірусний модифікатор",
+            "wiki_link": null,
+            "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+            "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 3,
+    "trading_tax": 8000
+}

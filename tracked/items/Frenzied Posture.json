@@ -1,0 +1,105 @@
+{
+    "_id": "66fd69593a826eccf651cd61",
+    "tags": [
+        "mod",
+        "common",
+        "stance",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "frenzied_posture",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Friendly/Pets/BeastWeapons/Stances/BeastSpreadAttacksStance"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Frenzied Posture",
+            "description": "The companion prefers to change its target after each attack. +80% Status Duration",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Поведение: Бешенство",
+            "description": "Компаньон предпочитает менять цель после каждой атаки. +80% к длительности статуса",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "프렌지드 포스처",
+            "description": "동반자가 각 공격마다 목표물을 변경하는 것을 선호합니다. +80% 상태 이상 지속 시간",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Ungestüme Stellung",
+            "description": "Der Begleiter wechselt nach jedem Angriff lieber sein Ziel. +80 % Statusdauer.",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Posture Frénétique",
+            "description": "Le Compagnon préfère changer de cible après chaque attaque. +80% de Durée de Statut",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Frenzied Posture",
+            "description": "O companheiro mudará seu alvo após cada ataque e receberá +80% de Duração do Status.",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "狂暴姿势",
+            "description": "同伴喜欢在每次攻击后更换目标。+80% 异常状态持续时间",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "暴狂天性",
+            "description": "同伴每次攻擊後傾向改變目標。增加 80% 狀態持續時間",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Postura Frenética",
+            "description": "El compañero prefiere cambiar de objetivo después de cada ataque. +80 % de duración de estado",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Frenzied Posture",
+            "description": "Il compagno preferisce cambiare bersaglio dopo ogni attacco. +80% Durata Effetto",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Postawa Oszalała",
+            "description": "Towarzysz zmienia cel po każdym ataku. +80% Czasu Trwania Statusu",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Поведінка: Шаленство",
+            "description": "Супутник змінюватиме ціль після кожної атаки. +80 % до тривалості ефекту стану",
+            "wiki_link": "https://wiki.warframe.com/w/Frenzied_Posture",
+            "icon": "items/images/en/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/frenzied_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 3,
+    "trading_tax": 2000
+}

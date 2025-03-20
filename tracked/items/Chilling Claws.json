@@ -1,0 +1,105 @@
+{
+    "_id": "66fd69423a826eccf651cd5d",
+    "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "chilling_claws",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/KubrowColdConversionMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Chilling Claws",
+            "description": "+330% Cold\n+330% Status Chance\nConverts all elemental damage from these claws to Cold damage",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Леденящие Когти",
+            "description": "+330% урона холодом\n+330% к шансу статуса\nПреобразует весь элементальный урон этих когтей в урон холодом.",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "칠링 클로",
+            "description": "+330% 냉기\n+330% 상태 이상 확률\n클로의 모든 원소 피해를 냉기 피해로 전환",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Eisige Klauen",
+            "description": "+330 % Kälte\n+330 % Statuschance\nWandelt allen Elementarschaden dieser Klauen zu Kälteschaden.",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Griffes Glaçantes",
+            "description": "+330% Glace\n+330% de Chances de Statut\nConvertit tous les Dégâts Élémentaires de cette arme en Dégâts de Glace",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Chilling Claws",
+            "description": "+330% de Glacial\n+330% de Chance de Status\nConverterá todo o dano elemental destas garras para Dano Glacial.",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "寒冰之爪",
+            "description": "+330% 冰冻伤害\n+330% 触发几率\n将这些利爪造成的所有元素伤害转换为 冰冻伤害",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "急凍爪子",
+            "description": "+330% 冰凍傷害\n+330% 觸發機率\n將這些爪子的元素傷害轉換為冰凍傷害",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Garras Heladas",
+            "description": "+330% de frío\n+330% de probabilidad de estado\nConvierte todo el daño elemental de estas garras en daño de frío.",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Chilling Claws",
+            "description": "+330% Ghiaccio\n+330% Probabilità Effetto\nConverte tutti i Danni Elementali di questi artigli in Danno Ghiaccio",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Mrożące Szpony",
+            "description": "+330% Obrażeń Zimna\n+330% Szansa Statusu\nKonwertuje wszystkie obrażenia żywiołowe pazurów na Obr. od Zimna",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Холодні Пазурі",
+            "description": "+330 % до крижаної шкоди\n+330 % до ймовірності накладання ефекту стану\nПеретворює всю стихійну шкоду від пазурів на крижану",
+            "wiki_link": "https://wiki.warframe.com/w/Chilling_Claws",
+            "icon": "items/images/en/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/chilling_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 10,
+    "trading_tax": 8000
+}

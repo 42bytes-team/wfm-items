@@ -7,7 +7,6 @@
     ],
     "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
     "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png",
-    "icon_format": "port",
     "url_name": "sacrifice",
     "tradable": true,
     "game_ref": {
@@ -17,7 +16,7 @@
         "en": {
             "item_name": "Sacrifice",
             "description": "Sentinel incapacitates itself to revive its downed owner to 100% health and shields in 4s. Sentinel Recovery timer increases by 15s.\n+15s Companion Recovery Time",
-            "wiki_link": "https://warframe.fandom.com/wiki/Sacrifice",
+            "wiki_link": "https://wiki.warframe.com/w/Sacrifice",
             "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
             "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
         },
@@ -31,14 +30,14 @@
         "ko": {
             "item_name": "새크리파이스",
             "description": "센티넬의 주인이 쓰러졌을 경우 센티넬이 4초의 시간을 들여 주인을 100%의 체력과 실드를 가진 상태로 부활시키고 자신은 무력화됩니다. 이 경우 센티넬의 회복 시간이 15초 증가합니다.\n+15초 동반자 회복 시간",
-            "wiki_link": "https://warframe.fandom.com/wiki/Sacrifice",
+            "wiki_link": "https://wiki.warframe.com/w/Sacrifice",
             "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
             "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
         },
         "de": {
             "item_name": "Aufopferung",
-            "description": "Der Wächter legt sich selber für 4 s lahm, um seinen Besitzer mit 100 % Gesundheit und Schilde widerzubeleben. Die Erholungszeit des Wächters erhöht sich um 15 s.\n+15 s Erholungszeit des Begleiters",
-            "wiki_link": "http://warframe.wikia.com/wiki/Sacrifice",
+            "description": "Der Wächter legt sich selbst lahm, um seinen Besitzer mit 100 % Gesundheit und Schilden über 4 s wiederzubeleben. Die Erholungszeit des Wächters erhöht sich um 15 s.\n+15 s Erholungszeit des Begleiters",
+            "wiki_link": null,
             "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
             "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
         },
@@ -52,21 +51,21 @@
         "pt": {
             "item_name": "Sacrifice",
             "description": "Se seu mestre for abatido, a Sentinela se incapacitará para poder revivê-lo, restaurando 100% de Vida e Escudos dele ao longo de 4s. O tempo de recuperação da Sentinela aumentará em 15s.\n+15s de Tempo de Recuperação do Companheiro",
-            "wiki_link": "http://warframe.wikia.com/wiki/Sacrifice",
+            "wiki_link": null,
             "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
             "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
         },
         "zh-hans": {
             "item_name": "牺牲",
             "description": "守护使自己失去战斗能力，在 4 秒内复活其倒地的主人，使其恢复 100% 的生命值和护盾。守护恢复倒计时增加 15 秒。\n+15 秒同伴恢复时间",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sacrifice",
+            "wiki_link": "https://wiki.warframe.com/w/Sacrifice",
             "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
             "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
         },
         "zh-hant": {
             "item_name": "犧牲",
             "description": "守護會在 4 秒後復活並治癒倒下的主人 100% 生命及護盾，並且癱瘓自己。守護恢復時間增加 15 秒。\n+15 秒同伴恢復時間",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Sacrifice",
+            "wiki_link": "https://wiki.warframe.com/w/Sacrifice",
             "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
             "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
         },
@@ -80,7 +79,7 @@
         "it": {
             "item_name": "Sacrifice",
             "description": "La Sentinella si rende incapacitata per rianimare il suo proprietario a terra con il 100% di salute e scudi in 4s. Il Tempo di Recupero della Sentinella aumenta di 15s.\n+15s Tempo di Recupero del Compagno",
-            "wiki_link": "https://warframe.fandom.com/it/wiki/Sacrificio",
+            "wiki_link": null,
             "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
             "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
         },
@@ -93,8 +92,8 @@
         },
         "uk": {
             "item_name": "Самопожертва",
-            "description": "Ціною власного життя вартовий зцілить господаря й відновить йому 100% здоров’я та щитів за 4с. Час повернення вартового збільшиться на 15 с.\n+15 с до відновлення супутника",
-            "wiki_link": "https://warframe.fandom.com/wiki/Sacrifice",
+            "description": "Ціною власного життя вартовий зцілить господаря й відновить йому 100 % здоров’я та щитів за 4с. Час повернення вартового збільшиться на 15 с.\n+15 с до відновлення супутника",
+            "wiki_link": "https://wiki.warframe.com/w/Sacrifice",
             "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
             "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
         }

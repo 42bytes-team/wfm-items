@@ -1,0 +1,111 @@
+{
+    "_id": "67661ffc47952ab3ea192905",
+    "tags": [
+        "weapon",
+        "secondary",
+        "set"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "vesper_77_set",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon",
+        "type": "set"
+    },
+    "part_of_set": [
+        "vesper_77_barrel",
+        "vesper_77_handle",
+        "vesper_77_receiver",
+        "vesper_77_set"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Vesper 77 Set",
+            "description": "A true masterpiece of Höllvanian engineering, Vesper 77's advanced laser sight highlights enemy Weak Points with precision. Aim to increase its Critical Damage Multiplier.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Веспер 77: Комплект",
+            "description": "Настоящий шедевр хёльванской инженерии — усовершенствованный лазерный прицел с точностью подсвечивает слабые места врагов. Цельтесь, чтобы увеличить множитель критического урона.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "ko": {
+            "item_name": "베스퍼 77 세트",
+            "description": "홀바니아 공학의 진정한 걸작인 베스퍼 77의 향상된 레이저 시야는 적의 약점을 정밀하게 표시해줍니다. 조준으로 이 약점들을 노리면 치명타 피해 배수가 향상됩니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "de": {
+            "item_name": "Vesper 77: Set",
+            "description": "Vesper 77 ist ein wahres Meisterwerk höllvanischer Ingenieurskunst. Das fortschrittliche Laservisier zeigt die Schwachstellen des Gegners präzise an. Zielen erhöht den Multiplikator für Krit. Schaden.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Vesper 77 - Set",
+            "description": "Véritable chef-d'œuvre d'ingénierie Höllvanienne, le viseur laser avancé du Vesper 77 met en évidence les Points Faibles de l'ennemi avec précision. Viser augmente son Multiplicateur de Dégâts Critiques.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Vesper 77: Conjunto",
+            "description": "Uma verdadeira obra-prima da engenharia Holvaniana. A mira laser avançada da Vesper 77 destacará os pontos de Acertos de Precisão dos inimigos. Mirar aumentará seu Multiplicador de Dano Crítico.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "夜语者 77 一套",
+            "description": "（英文：VESPER 77）夜语者 77 是霍瓦尼亚工程的真正杰作，其先进的激光瞄准器可突出显示敌人的弱点。瞄准来提高其暴击伤害倍率。",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "威斯珀 77 一套",
+            "description": "（英文：VESPER 77）威斯珀 77 屬於霍爾瓦尼亞工藝的精湛傑作，其先進的雷射準鏡精確突顯敵人的弱點。瞄準來增加其暴擊傷害倍率。",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "es": {
+            "item_name": "Set de Vesper 77",
+            "description": "Una verdadera obra maestra de la ingeniería höllvaniana, la avanzada mira láser del Vesper 77 resalta con precisión los puntos débiles del enemigo. Apuntar aumenta su multiplicador de daño crítico.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "it": {
+            "item_name": "Vesper 77 Set",
+            "description": "Un vero capolavoro di ingegneria Höllvaniana, il mirino laser avanzato del Vesper 77 evidenzia con precisione i Punti Deboli del nemico. Mirare ne aumenta il Moltiplicatore Danno Critico.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Vesper 77: Zestaw",
+            "description": "Prawdziwe arcydzieło höllvańskiej inżynierii, celownik laserowy pistoletu Vesper 77, precyzyjnie wskazuje słabe punkty wroga. Celuj, by zwiększyć mnożnik Obr. Krytycznych.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Веспер-77 (комплект)",
+            "description": "Веспер-77 — істинний шедевр голвенійських інженерів. Новітній лазерний приціл ідеально підсвічуватиме слабкі місця ворогів. Цільте в них, щоби збільшити множник критичної шкоди.",
+            "wiki_link": "https://wiki.warframe.com/w/Vesper_77",
+            "icon": "items/images/en/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.webp",
+            "thumb": "items/images/en/thumbs/vesper_77_set.8edf133ab02b6b5f87e365a67232cf28.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 6000
+}

@@ -2,13 +2,12 @@
     "_id": "5be5f5a23ffcc7038857f119",
     "tags": [
         "mod",
-        "beast",
-        "sentinel",
-        "rare"
+        "rare",
+        "melee",
+        "claws"
     ],
     "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
     "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png",
-    "icon_format": "port",
     "url_name": "flame_gland",
     "tradable": true,
     "game_ref": {
@@ -18,7 +17,7 @@
         "en": {
             "item_name": "Flame Gland",
             "description": "+60% Heat\n+60% Status Chance",
-            "wiki_link": "https://warframe.fandom.com/wiki/Flame_Gland",
+            "wiki_link": "https://wiki.warframe.com/w/Flame_Gland",
             "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
             "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
         },
@@ -32,14 +31,14 @@
         "ko": {
             "item_name": "플레임 글랜드",
             "description": "+60% 화염\n+60% 상태 이상 확률",
-            "wiki_link": "https://warframe.fandom.com/wiki/Flame_Gland",
+            "wiki_link": "https://wiki.warframe.com/w/Flame_Gland",
             "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
             "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
         },
         "de": {
             "item_name": "Flammendrüse",
             "description": "+60 % Hitze\n+60 % Statuschance",
-            "wiki_link": "http://warframe.fandom.com/wiki/Flame_Gland",
+            "wiki_link": null,
             "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
             "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
         },
@@ -60,14 +59,14 @@
         "zh-hans": {
             "item_name": "火焰腺体",
             "description": "+60% 火焰伤害\n+60% 触发几率",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Flame_Gland",
+            "wiki_link": "https://wiki.warframe.com/w/Flame_Gland",
             "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
             "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
         },
         "zh-hant": {
             "item_name": "火焰腺體",
             "description": "+60% 火焰傷害\n+60% 觸發機率",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Flame_Gland",
+            "wiki_link": "https://wiki.warframe.com/w/Flame_Gland",
             "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
             "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
         },
@@ -81,21 +80,21 @@
         "it": {
             "item_name": "Flame Gland",
             "description": "+60% Fuoco\n+60% Probabilità Effetto",
-            "wiki_link": "https://warframe.fandom.com/it/wiki/Flameblade",
+            "wiki_link": null,
             "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
             "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
         },
         "pl": {
             "item_name": "Płomienny Gruczoł",
             "description": "+60% Obrażeń Ogniowych\n+60% Szansa Statusu",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/P%C5%82omienny_Sza%C5%82",
+            "wiki_link": null,
             "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
             "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
         },
         "uk": {
             "item_name": "Вогняна Залоза",
-            "description": "+60% до термічної шкоди\n+60% до ймовірності накладання ефекту стану",
-            "wiki_link": "https://warframe.fandom.com/wiki/Flame_Gland",
+            "description": "+60 % до термічної шкоди\n+60 % до ймовірності накладання ефекту стану",
+            "wiki_link": "https://wiki.warframe.com/w/Flame_Gland",
             "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
             "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
         }

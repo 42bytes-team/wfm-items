@@ -1,0 +1,103 @@
+{
+    "_id": "675c59347b18977f6e6453ec",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "primary_crux",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Primary Crux",
+            "description": "On Weak Point Hit: Gain +30% Status Chance and +6% Ammo Efficiency for 10s. Stacks up to 10x.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Основная Точка",
+            "description": "При попадании по слабой точке: даёт +30% к шансу статуса и +6% к эффективности боеприпасов на 10 с. Складывается до 10 раз.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "ko": {
+            "item_name": "프라이머리 크럭스",
+            "description": "약점 명중 시: 10초 동안 +30%의 상태 이상 확률 및 +6%의 탄약 효율 획득. 최대 10회 중첩.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "de": {
+            "item_name": "Primäre Crux",
+            "description": "Bei Schwachpunkttreffer: Erhalte +30 % Statuschance und +6 % Munitionseffizienz für 10 s. Bis zu 10x stapelbar.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Croix Primaire",
+            "description": "Sur Point faible touché: gagnez +30% de Chances de Statut et +6% d'Efficacité des Munitions pendant 10s. Cumulable jusqu'à 10x.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Ponto Crucial (Armas Primárias)",
+            "description": "No Acerto de Precisão: fornecerá +30% de Chance de Status e +6% de Eficiência da Munição por 10s. Acumulará até 10x.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "主要·准星",
+            "description": "命中弱点时：获得 +30% 触发几率和 +6% 弹药效率，持续 10 秒。最多可叠加 10 层。",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "主要要害",
+            "description": "擊中弱點時：增加狀態觸發機率 30%，彈藥效率 6%，持續 10 秒。最多可疊加 10 次。",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "es": {
+            "item_name": "Cruz Primaria",
+            "description": "Al impactar en un punto débil: obtienes +30 % de probabilidad de estado y +6 % de eficiencia de munición por 10 s. Se acumula hasta 10 veces.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "it": {
+            "item_name": "Primary Crux",
+            "description": "Colpendo i Punti Deboli: Ottieni +30% Probabilità Effetto e +6% Efficienza Munizioni per 10s. Si accumula fino a 10x.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Migrena Broni Głównej",
+            "description": "Przy trafieniu w słaby punkt: Zyskaj +30% Szansy Statusu i +6% Wydajności Amunicji na 10 s. Kumuluje się do 10 razy.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Основна Суть",
+            "description": "У разі влучання в слабкі місця: отримайте +30 % до імовірності ефекту стану й +6 % до дієвості набоїв на 10 с. Накопичується до 10 разів.",
+            "wiki_link": "https://wiki.warframe.com/w/Primary_Crux",
+            "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+            "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

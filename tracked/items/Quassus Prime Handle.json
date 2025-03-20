@@ -1,0 +1,113 @@
+{
+    "_id": "673516dfdb3ac2cfade14a7e",
+    "tags": [
+        "component",
+        "weapon",
+        "prime"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
+    "url_name": "quassus_prime_handle",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle"
+    },
+    "part_of_set": [
+        "quassus_prime_set",
+        "quassus_prime_blade",
+        "quassus_prime_blueprint",
+        "quassus_prime_handle"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "i18n": {
+        "en": {
+            "item_name": "Quassus Prime Handle",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Кассус Прайм: Рукоять",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "ko": {
+            "item_name": "콰서스 프라임 핸들",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "de": {
+            "item_name": "Quassus Prime: Griff",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Quassus Prime - Garde",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Quassus Prime: Cabo",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "威震武扇 Prime 握柄",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "夸瑟 Prime 握柄",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "es": {
+            "item_name": "Empuñadura De Quassus Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "it": {
+            "item_name": "Quassus Prime - Impugnatura",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Quassus Prime: Rękojeść",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Квас-Прайм: Руків’я",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime_handle.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        }
+    },
+    "mastery_level": 13,
+    "ducats": 15,
+    "trading_tax": 2000
+}

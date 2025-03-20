@@ -1,0 +1,105 @@
+{
+    "_id": "66fd69223a826eccf651cd57",
+    "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "sepsis_claws",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/KubrowToxicConversionMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Sepsis Claws",
+            "description": "+330% Toxin\n+330% Status Chance\nConverts all elemental damage from these claws to Toxin damage",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Отравленные Когти",
+            "description": "+330% урона токсином\n+330% к шансу статуса\nПреобразует весь элементальный урон этих когтей в урон токсинами",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "셉시스 클로",
+            "description": "+330% 독성\n+330% 상태 이상 확률\n클로의 모든 원소 피해를 독성 피해로 전환",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Vergiftende Klauen",
+            "description": "+330 % Gift\n+330 % Statuschance\nWandelt allen Elementarschaden dieser Klauen zu Giftschaden.",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Griffes Empoisonnées",
+            "description": "+330% Poison\n+330% de Chances de Statut\nConvertit tous les Dégâts Élémentaires de cette arme en Dégâts de Poison",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Sepsis Claws",
+            "description": "+330% de Tóxico\n+330% de Chance de Status\nConverterá todo o dano elemental destas garras para Dano Tóxico.",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "脓毒之爪",
+            "description": "+330% 毒素伤害\n+330% 触发几率\n将这些利爪造成的所有元素伤害转换为 毒素伤害",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "毒化爪子",
+            "description": "+330% 毒素傷害\n+330% 觸發機率\n將這些爪子的所有元素傷害轉換為毒素傷害",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Garras Sépticas",
+            "description": "+330% de toxina\n+330% de probabilidad de estado\nConvierte todo el daño elemental de estas garras en daño de toxina",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Sepsis Claws",
+            "description": "+330% Tossina\n+330% Probabilità Effetto\nConverte tutti i Danni Elementali di questi artigli in Danno Tossina",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Septyczne Szpony",
+            "description": "+330% Obrażeń Toksycznych\n+330% Szansa Statusu\nKonwertuje wszystkie obrażenia żywiołowe pazurów na Obr. od Toksyn",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Септичні Пазурі",
+            "description": "+330 % токсичної шкоди\n+330 % до ймовірності накладання ефекту стану\nПеретворює всю стихійну шкоду від пазурів на токсичну",
+            "wiki_link": "https://wiki.warframe.com/w/Sepsis_Claws",
+            "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 10,
+    "trading_tax": 8000
+}

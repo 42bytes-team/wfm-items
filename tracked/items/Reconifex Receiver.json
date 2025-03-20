@@ -1,0 +1,111 @@
+{
+    "_id": "67661f9d47952ab3ea192902",
+    "tags": [
+        "component",
+        "weapon"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+    "url_name": "reconifex_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver"
+    },
+    "part_of_set": [
+        "reconifex_barrel",
+        "reconifex_receiver",
+        "reconifex_set",
+        "reconifex_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Reconifex Receiver",
+            "description": "A weapon-crafting component.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Реконифекс: Приёмник",
+            "description": "Компонент оружия.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "ko": {
+            "item_name": "리코니펙스 리시버",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "de": {
+            "item_name": "Reconifex: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Reconifex - Culasse",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Reconifex: Receptor",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "侦查者步枪 枪机",
+            "description": "一个武器的制作部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "偵察佐 槍機",
+            "description": "製作武器的部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "es": {
+            "item_name": "Receptor De Reconifex",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "it": {
+            "item_name": "Reconifex - Castello",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Reconifex: Korpus",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Розвідниця: Ствольна Коробка",
+            "description": "Деталь зброї.",
+            "wiki_link": "https://wiki.warframe.com/w/Reconifex",
+            "icon": "items/images/en/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.webp",
+            "thumb": "items/images/en/thumbs/reconifex_receiver.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 2000
+}

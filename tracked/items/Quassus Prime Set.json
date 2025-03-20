@@ -1,0 +1,116 @@
+{
+    "_id": "673516dddb3ac2cfade14a7c",
+    "tags": [
+        "melee",
+        "weapon",
+        "prime",
+        "set"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "quassus_prime_set",
+    "redirect_from": [
+        "quassus_prime"
+    ],
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Tenno/Melee/Warfan/PrimeQuassus/PrimeQuassusWeapon",
+        "type": "set"
+    },
+    "part_of_set": [
+        "quassus_prime_set",
+        "quassus_prime_blade",
+        "quassus_prime_blueprint",
+        "quassus_prime_handle"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Quassus Prime Set",
+            "description": "Wield Xaku Prime’s elegant fan, its gilded edges crafted for both precision and prestige.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Кассус Прайм: Комплект",
+            "description": "Орудуйте изящным веером Заку Прайм, чьи позолоченные края созданы как для точности, так и для престижа.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "ko": {
+            "item_name": "콰서스 프라임 세트",
+            "description": "자쿠 프라임의 우아한 부채를 다뤄보세요. 이 부채의 금장으로 도금된 날은 정밀함과 명망, 양쪽을 겨냥해 만들어졌습니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "de": {
+            "item_name": "Quassus Prime: Set",
+            "description": "Schwinge den eleganten Fächer von Xaku Prime, dessen vergoldete Kanten sowohl für Präzision als auch für Prestige gefertigt wurden.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Quassus Prime - Set",
+            "description": "Maniez l'élégant éventail de Xaku Prime, avec ses bords dorés conçus pour la précision et le prestige.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Quassus Prime: Conjunto",
+            "description": "Empunhe o elegante leque dos Xaku Prime, com lâminas douradas projetadas para garantir precisão e prestígio.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "威震武扇 Prime 一套",
+            "description": "（英文：QUASSUS PRIME）挥舞着 Xaku Prime 的优雅扇子，它的镀金边缘尽显精密与尊贵。",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "夸瑟 Prime 一套",
+            "description": "（英文：QUASSUS PRIME）握持 Xaku Prime 的高雅武扇，精心打造的鍍金扇緣既精準又高貴。",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "es": {
+            "item_name": "Set de Quassus Prime",
+            "description": "Empuña el elegante abanico de Xaku Prime, con bordes dorados elaborados para tener precisión y prestigio.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "it": {
+            "item_name": "Quassus Prime Set",
+            "description": "Impugna l'elegante ventaglio di Xaku Prime, con bordi dorati realizzati per offire precisione e prestigio.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Quassus Prime: Zestaw",
+            "description": "Elegancki wachlarz Xaku Prime, którego pozłacane krawędzie zapewniają precyzję i prestiż.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Квас-Прайм (комплект)",
+            "description": "Позолочені краї елегантного віяла Заку-прайм створені водночас для престижу й для точних влучань.",
+            "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+            "icon": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+            "thumb": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+        }
+    },
+    "mastery_level": 13,
+    "ducats": 275,
+    "trading_tax": 10000
+}

@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
     "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png",
-    "icon_format": "port",
     "url_name": "ferocity",
     "tradable": true,
     "game_ref": {
@@ -17,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Ferocity",
-            "description": "Allows the Kubrow to use Finisher attacks on an enemy. +120% Finisher Damage",
-            "wiki_link": "https://warframe.fandom.com/wiki/Ferocity",
+            "description": "Kubrow attacks an enemy open to finishers with +300% crit chance. If the enemy dies during the attack, enemies within 6m have a 30% chance to be knocked down and opened to finishers.",
+            "wiki_link": "https://wiki.warframe.com/w/Ferocity",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "ru": {
             "item_name": "Свирепость",
-            "description": "Позволяет кубрау использовать добивающие приемы на врагах. +120% урона при добивании",
+            "description": "Кубрау атакует врага, открытого для добивания, с дополнительным шансом +300% критического урона. Если враг погибает во время атаки, все враги в радиусе 6 метров имеют 30% шанс упасть на землю и стать уязвимыми для добиваний.​",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D0%B2%D0%B8%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C",
             "icon": "items/images/ru/ferocity.3029361db9c137c94deffa5750c3f5ba.png",
             "thumb": "items/images/ru/thumbs/ferocity.3029361db9c137c94deffa5750c3f5ba.128x128.png"
         },
         "ko": {
             "item_name": "페로시티",
-            "description": "쿠브로가 적에게 마무리 일격을 가할 수 있게 됩니다. +120% 마무리 일격 피해",
-            "wiki_link": "https://warframe.fandom.com/wiki/Ferocity",
+            "description": "쿠브로가 마무리 일격이 가능한 적에게 +300%의 치명타 확률로 공격합니다. 공격 중에 적이 죽을 경우, 6m 이내의 적들이 30%의 확률로 쓰러지며 마무리 일격이 가능해집니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Ferocity",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "de": {
             "item_name": "Bösartigkeit",
-            "description": "Erlaubt es dem Kubrow, Todesstöße gegen Gegner auszuführen. +120 % Todesstoß-Schaden",
+            "description": "Der Kubrow greift einen Gegner an, der für Todesstöße offen ist, mit einer Krit. Chance von +300 %. Stirbt der Gegner während des Angriffs, haben Gegner im Umkreis von 6 m eine Chance von 30 % niedergeschlagen und für Todesstöße anfällig zu werden.",
             "wiki_link": "https://warframe.fandom.com/de/wiki/B%C3%B6sartigkeit",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "fr": {
             "item_name": "Férocité",
-            "description": "Autorise le Kubrow à utiliser un Coup de Grâce sur un ennemi +120% de Dégâts de Coup de Grâce",
+            "description": "Le Kubrow attaque un ennemi vulnérable aux coups de grâce avec +300% de Chances de Critique. Si l'ennemi est éliminé pendant l'attaque, les ennemis à 6m ont 30% de chances d'être renversés et vulnérables aux coups de grâce.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/F%C3%A9rocit%C3%A9",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "pt": {
             "item_name": "Ferocity",
-            "description": "Permite que o Kubrow realize finalizações em um inimigo. +120% de Dano da Finalização",
+            "description": "O Kubrow atacará um inimigo aberto para Finalizações com +300% de Chance Crítica. Se o alvo for eliminado, inimigos dentro de 6m terão 30% de chance de serem derrubados e ficarão abertos para Finalizações.",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Ferocity",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "zh-hans": {
             "item_name": "凶恶终结",
-            "description": "让库狛能对敌人使出处决攻击。 +120% 处决伤害",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ferocity",
+            "description": "库狛攻击处于可处决状态的敌人时，暴击几率 +300%。如果敌人在攻击过程中死亡，则 6 米范围内的敌人有 30% 几率会被击倒并处于可处决状态。",
+            "wiki_link": "https://wiki.warframe.com/w/Ferocity",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "zh-hant": {
             "item_name": "兇惡終結",
-            "description": "讓庫狛能對敵人使出終結攻擊。 +120% 處決傷害",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Ferocity",
+            "description": "庫狛攻擊一名處於處決狀態的敵人時，暴擊機率增加 300%。如果該敵人在攻擊過程中死掉，6 公尺內的敵人有 30% 機率被擊倒並開放被處決。",
+            "wiki_link": "https://wiki.warframe.com/w/Ferocity",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "es": {
             "item_name": "Ferocidad",
-            "description": "Permite al kubrow usar ataques de remate en un enemigo. +120% de daño al rematar",
+            "description": "El kubrow ataca a un enemigo expuesto a remates con +300 % de probabilidad crítica. Si el enemigo muere durante el ataque, los enemigos que se encuentren a 6 m tienen una probabilidad de 30 % de ser derribados y expuestos a remates.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Ferocidad",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "it": {
             "item_name": "Ferocity",
-            "description": "Permette al Kubrow di effettuare Esecuzioni sui nemici. +120% Danno Esecuzione",
-            "wiki_link": "http://warframe.wikia.com/wiki/Ferocity",
+            "description": "Il Kubrow attacca un nemico vulnerabile alle esecuzioni con +300% Probabilità Critico. Se il nemico muore durante l'attacco, coloro che si trovano entro 6m hanno un 30% probabilità di venire abbattuti ed essere esposti alle esecuzioni.",
+            "wiki_link": null,
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "pl": {
             "item_name": "Zajadłość",
-            "description": "Pozwala Kubrowowi na wykonywanie ataków kończących na ofierze. +120% Obrażenia Dobicia",
-            "wiki_link": "http://warframe.wikia.com/wiki/Ferocity",
+            "description": "Kubrow atakuje wroga podatnego na Dobicie, zyskując +300% Szansy Obr. Krytycznych. Jeśli wróg umrze podczas tego ataku, wrogowie w zasięgu 6 m mają 30% szansy na powalanie i otwarci na Dobicie.",
+            "wiki_link": null,
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         },
         "uk": {
             "item_name": "Лютість",
-            "description": "Куброу добиватимуть ворогів. +120% до шкоди добиванням.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Ferocity",
+            "description": "Куброу атакує ворога, доступного до добивання, з +300 % до ймовірності критичної шкоди. Якщо ціль гине, то вороги в межах 6 мз імовірністю в 30 % збиваються з ніг і стають доступними до добивання.",
+            "wiki_link": "https://wiki.warframe.com/w/Ferocity",
             "icon": "items/images/en/ferocity.e496448d2a03f2483e844e84edf17d3a.png",
             "thumb": "items/images/en/thumbs/ferocity.e496448d2a03f2483e844e84edf17d3a.128x128.png"
         }

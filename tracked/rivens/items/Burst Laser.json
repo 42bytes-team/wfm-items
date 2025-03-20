@@ -3,9 +3,6 @@
     "url_name": "burst_laser",
     "group": "sentinel",
     "riven_type": "pistol",
-    "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
-    "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png",
-    "icon_format": "land",
     "disposition": 1.45,
     "mastery_level": 0,
     "game_ref": {
@@ -14,51 +11,75 @@
     "i18n": {
         "en": {
             "item_name": "Burst Laser",
-            "wiki_link": "https://warframe.fandom.com/wiki/Burst_Laser"
+            "wiki_link": "https://warframe.fandom.com/wiki/Burst_Laser",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "ru": {
             "item_name": "Лазерный Пистолет",
-            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82"
+            "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "ko": {
             "item_name": "버스트 레이저",
-            "wiki_link": "https://warframe.fandom.com/wiki/Burst_Laser"
+            "wiki_link": "https://warframe.fandom.com/wiki/Burst_Laser",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "de": {
             "item_name": "Salvenlaser",
-            "wiki_link": "https://warframe.fandom.com/de/wiki/Salvenlaser"
+            "wiki_link": "https://warframe.fandom.com/de/wiki/Salvenlaser",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "fr": {
             "item_name": "Laser À Rafale",
-            "wiki_link": "https://warframe.fandom.com/fr/wiki/Laser_%C3%A0_Rafale"
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Laser_%C3%A0_Rafale",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "pt": {
             "item_name": "Rajada A Laser",
-            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Burst_Laser"
+            "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Burst_Laser",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "zh-hans": {
             "item_name": "激光点发",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Burst_Laser"
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Burst_Laser",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "zh-hant": {
             "item_name": "雷射點發",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Burst_Laser"
+            "wiki_link": "https://warframe.huijiwiki.com/wiki/Burst_Laser",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "es": {
             "item_name": "Láser De Ráfagas",
-            "wiki_link": "https://warframe.fandom.com/es/wiki/L%C3%A1ser_de_r%C3%A1fagas"
+            "wiki_link": "https://warframe.fandom.com/es/wiki/L%C3%A1ser_de_r%C3%A1fagas",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "it": {
             "item_name": "Burst Laser",
-            "wiki_link": "http://warframe.wikia.com/wiki/Burst_Laser"
+            "wiki_link": "http://warframe.wikia.com/wiki/Burst_Laser",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "pl": {
             "item_name": "Laser Impulsowy",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/Laser_Impulsowy"
+            "wiki_link": "https://warframe.fandom.com/pl/wiki/Laser_Impulsowy",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         },
         "uk": {
             "item_name": "Шквальний Лазер",
-            "wiki_link": "https://warframe.fandom.com/wiki/Burst_Laser"
+            "wiki_link": "https://warframe.fandom.com/wiki/Burst_Laser",
+            "icon": "items/images/en/burst_laser.a8d766d42aed74e71e246da778345604.png",
+            "thumb": "items/images/en/thumbs/burst_laser.a8d766d42aed74e71e246da778345604.128x128.png"
         }
     }
 }

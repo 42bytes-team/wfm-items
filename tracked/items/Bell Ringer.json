@@ -1,0 +1,105 @@
+{
+    "_id": "66fd6a383a826eccf651cd77",
+    "tags": [
+        "mod",
+        "uncommon",
+        "melee",
+        "claws"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "bell_ringer",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/BeastKnockdownWeaponMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Bell Ringer",
+            "description": "Melee attacks knock down enemies and apply +4 Impact Status Effects",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Звонарь",
+            "description": "Атаки ближнего боя сбивают врагов с ног и накладывают +4 эффектов ударного статуса",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "벨 링어",
+            "description": "근접 공격 시 적을 넉다운시키고 +4의 충격 상태 이상 적용",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Glöckner",
+            "description": "Nahkampfangriffe schlagen Feinde nieder und verursachen +4 Einschlag-Statuseffekte.",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Son De Cloche",
+            "description": "Les attaques de Mêlée renversent les ennemis et appliquent +4 Effets de Statut d'Impact",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Bell Ringer",
+            "description": "Os Ataques Corpo a Corpo derrubarão os inimigos e aplicarão +4 acúmulos do Efeito de Status Colisivo.",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "击钟者",
+            "description": "近战攻击会击倒敌人并造成 +4 冲击异常状态",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "鳴鐘痛擊",
+            "description": "近戰攻擊會擊倒敵人並造成 +4 衝擊觸發狀態效果",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Campanero",
+            "description": "Los ataques cuerpo a cuerpo derriban a los enemigos y aplican +4 de efectos de estado de impacto",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Bell Ringer",
+            "description": "Gli attacchi Corpo a Corpo atterrano i nemici e applicano +4 Effetti Impatto",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Na Łopatki",
+            "description": "Ataki wręcz powalają wrogów i nakładają +4 instancji Statusu Obr. Miażdżących",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Каламар",
+            "description": "Атаки впритул збивають ворогів з ніг і накладають +4 ударних ефектів стану",
+            "wiki_link": "https://wiki.warframe.com/w/Bell_Ringer",
+            "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "uncommon",
+    "max_rank": 3,
+    "trading_tax": 4000
+}

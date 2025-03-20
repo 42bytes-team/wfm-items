@@ -1,0 +1,103 @@
+{
+    "_id": "675c5cd97b18977f6e6453f0",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "melee_doughty",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Melee Doughty",
+            "description": "Gain 1.0x Critical Multiplier for every 10% Puncture Status chance on your Melee Weapon.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Отвага Ближнего Боя",
+            "description": "Получите х1.0 множитель крита за каждые 10% статуса Пронзания на оружии ближнего боя.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "ko": {
+            "item_name": "밀리 다우티",
+            "description": "근접 무기의 관통 상태 확률이 매 10%를 달성할 때마다 치명타 배수가 1.0배 증가합니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "de": {
+            "item_name": "Kühner Nahkampf",
+            "description": "Erhalte 1.0x Krit. Multiplikator für jede 10 % Durchschlag-Statuschance deiner Nahkampfwaffe.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Mêlée Téméraire",
+            "description": "Gagnez un Multiplicateur Critique x1.0 pour chaque 10% de Chance de Statut de Perforation sur votre arme de Mêlée.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Persistência (Armas Brancas)",
+            "description": "Fornecerá 1.0x de Multiplicador Crítico para cada 10% de Chance de Status Perfurante que sua Arma Corpo a Corpo possuir.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "近战·无畏",
+            "description": "每 10% 近战武器 穿刺触发几率可获得 1.0 倍暴击倍率加成。",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "近戰剽悍",
+            "description": "每 10% 近戰武器的穿刺狀態觸發機率可獲得 1.0 倍暴擊倍率。",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "es": {
+            "item_name": "Cuerpo A Cuerpo Intrépido",
+            "description": "Obtén 1.0x de multiplicador crítico por cada 10 % de probabilidad de estado de perforación en tu arma cuerpo a cuerpo.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "it": {
+            "item_name": "Melee Doughty",
+            "description": "Ottieni 1.0x di Moltiplicatore Critico per ogni 10% di Probabilità Effetto Perforazione sulla tua Arma Corpo a Corpo.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Przebicie Broni Białej",
+            "description": "Zyskaj 1.0x Mnożnika Obr. Krytycznych za każdy 10% Szansy Statusu Obr. Przebijających Broni białej.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Рукопашна Доблесть",
+            "description": "x1.0 до множника критичної шкоди за кожні 10 % імовірності пробивного ефекту стану на холодній зброї.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Doughty",
+            "icon": "items/images/en/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.webp",
+            "thumb": "items/images/en/thumbs/melee_doughty.642bb1ab3c5d3e2b5bca70f4c2e50f39.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

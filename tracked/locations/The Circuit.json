@@ -5,58 +5,69 @@
     },
     "url_name": "the_circuit",
     "faction": "corrupted",
-    "icon": "locations/images/duviri.eed500948d3b9223390c016d94d352b4.png",
-    "thumb": "locations/images/thumbs/duviri.eed500948d3b9223390c016d94d352b4.128x128.png",
     "min_level": 35,
     "max_level": 55,
     "i18n": {
         "en": {
             "node_name": "The Circuit",
-            "system_name": "Duviri"
+            "system_name": "Duviri",
+            "icon": "locations/images/duviri.eed500948d3b9223390c016d94d352b4.png",
+            "thumb": "locations/images/thumbs/duviri.eed500948d3b9223390c016d94d352b4.128x128.png"
         },
         "ru": {
             "node_name": "Цепь",
-            "system_name": "Дувири"
+            "system_name": "Дувири",
+            "icon": null
         },
         "ko": {
             "node_name": "순환로",
-            "system_name": "두비리"
+            "system_name": "두비리",
+            "icon": null
         },
         "de": {
             "node_name": "Der Rundkurs",
-            "system_name": "Duviri"
+            "system_name": "Duviri",
+            "icon": null
         },
         "fr": {
             "node_name": "Le Circuit",
-            "system_name": "Duviri"
+            "system_name": "Duviri",
+            "icon": null
         },
         "pt": {
             "node_name": "O circuito",
-            "system_name": "Duviri"
+            "system_name": "Duviri",
+            "icon": null
         },
         "zh-hans": {
             "node_name": "无尽回廊",
-            "system_name": "双衍王境"
+            "system_name": "双衍王境",
+            "icon": null
         },
         "zh-hant": {
             "node_name": "無盡巡迴",
-            "system_name": "渡域"
+            "system_name": "渡域",
+            "icon": null
         },
         "es": {
             "node_name": "El Circuito",
-            "system_name": "Duviri"
+            "system_name": "Duviri",
+            "icon": null
         },
         "it": {
             "node_name": "Il Circuito",
-            "system_name": "Duviri"
+            "system_name": "Duviri",
+            "icon": null
         },
         "pl": {
             "node_name": "Wielobój",
-            "system_name": "Duviri"
+            "system_name": "Duviri",
+            "icon": null
         },
         "uk": {
             "node_name": "Ланцюг",
-            "system_name": "Дувірі"
+            "system_name": "Дувірі",
+            "icon": null
         }
     }
 }

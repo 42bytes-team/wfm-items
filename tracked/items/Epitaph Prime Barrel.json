@@ -1,0 +1,113 @@
+{
+    "_id": "66c60c2766bbb2aedca695a5",
+    "tags": [
+        "component",
+        "prime",
+        "weapon"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+    "url_name": "epitaph_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel"
+    },
+    "part_of_set": [
+        "epitaph_prime_set",
+        "epitaph_prime_barrel",
+        "epitaph_prime_blueprint",
+        "epitaph_prime_receiver"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Epitaph Prime Barrel",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Эпитаф Прайм: Ствол",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "에피타프 프라임 배럴",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Epitaph Prime: Lauf",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Épitaphe Prime - Canon",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Epitaph Prime: Cano",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "葬铭 Prime 枪管",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "墓悼者 Prime 槍管",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Cañón De Epitaph Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Epitaph Prime - Canna",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Epitaph Prime: Lufa",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Епітафія-Прайм: Ствол",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+            "icon": "items/images/en/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/epitaph_prime_barrel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

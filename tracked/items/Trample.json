@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
     "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png",
-    "icon_format": "port",
     "url_name": "trample",
     "tradable": true,
     "game_ref": {
@@ -17,85 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Trample",
-            "description": "The Helminth Charger rushes an enemy, dealing 160 Damage to all in its path.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Trample",
+            "description": "The Helminth Charger rushes an enemy, dealing 160 Damage to all in its path. It gains +10% Melee Damage, Max Health and Armor for every enemy hit for 5s.",
+            "wiki_link": "https://wiki.warframe.com/w/Trample",
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "ru": {
             "item_name": "Топотание",
-            "description": "Гельминтов Инфестоид совершает рывок, атакуя противника и нанося 160 урона всему, что встало на его пути.",
+            "description": "Гельминтов инфестоид бросается на врага, нанося 160 урона всем на своём пути. Он получает +10% к урону в ближнем бою, максимальному здоровью и броне за каждого поражённого врага на 5 с.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%B5",
             "icon": "items/images/ru/trample.e7fdeea6eb0523b89b5a010f7732085a.png",
             "thumb": "items/images/ru/thumbs/trample.e7fdeea6eb0523b89b5a010f7732085a.128x128.png"
         },
         "ko": {
             "item_name": "트램플",
-            "description": "헬민스 차저가 적에게 돌진하여 진로상에 있는 모든 적에게 160의 피해를 입힙니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Trample",
+            "description": "헬민스 차저가 적을 향해 돌진하여 경로상에 있는 모든 적에게 160의 피해를 가하며, 5초 동안 돌진에 적중된 적 한 체 당 +10% 피해, 최대 체력 및 방어력을 얻습니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Trample",
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "de": {
             "item_name": "Trampeln",
-            "description": "Der Helminth Stürmer hetzt einen Gegner und verursacht dabei 160 Schaden an allen in seinem Weg.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Trample",
+            "description": "Der Helminth Stürmer stürmt auf einen Gegner zu und fügt allen in seinem Weg 160 Schaden zu. Er erhält für jeden getroffenen Gegner 5 s lang +10 % Nahkampfschaden, maximale Gesundheit und Rüstung.",
+            "wiki_link": null,
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "fr": {
             "item_name": "Piétinement",
-            "description": "Le Chargeur Helminth se rue au combat pour attaquer un ennemi, infligeant 160 points de Dégâts à tout ce qui se trouve sur son chemin.",
-            "wiki_link": "https://warframe.fandom.com/fr/wiki/Pi%C3%A9tine",
+            "description": "Le Chargeur Helminth fonce sur un ennemi, infligeant 160 points de Dégâts à tous ceux qui se trouvent sur son passage. Il gagne +10% de Dégâts de Mêlée, de Santé Max et d'Armure Max pour chaque ennemi touché pendant 5s.",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Pi%C3%A9tinement",
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "pt": {
             "item_name": "Trample",
-            "description": "O Bandoleiro do Helminte avança em um inimigo, causando 160 de Dano em tudo que estiver em seu caminho.",
+            "description": "O Bandoleiro do Helminte avançará em um inimigo, causando 160 de Dano a todos pelo caminho. Durante 5s, obterá +10% de Dano Corpo a Corpo, Vida Máxima e Armadura para cada inimigo atingido.",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Trample",
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "zh-hans": {
             "item_name": "践踏",
-            "description": "Helminth 疾冲者冲去攻击一名敌人，对行径路线中的敌人造成 160 伤害。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Trample",
+            "description": "Helminth 疾冲者冲向敌人，对其行径路线上的所有敌人造成 160 伤害。每击中一个敌人，它就会获得 +10% 近战伤害、最大生命值和护甲，持续 5 秒。",
+            "wiki_link": "https://wiki.warframe.com/w/Trample",
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "zh-hant": {
             "item_name": "踐踏",
-            "description": "Helminth 疾衝者衝向一名敵人，對行徑路線中的敵人造成 160 傷害。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Trample",
+            "description": "Helminth 疾衝者衝向敵人，對牠們路徑上的敵人造成 160 傷害。每次擊中敵人可獲得 10% 近戰傷害、最大生命值及護甲，持續 5 秒。",
+            "wiki_link": "https://wiki.warframe.com/w/Trample",
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "es": {
             "item_name": "Pisotear",
-            "description": "El cargador Helminto arremete contra un enemigo, causando 160 de daño a todo en su paso.",
+            "description": "El cargador Helminto se lanza contra un enemigo y le inflige 160 de daño a todo lo que se encuentra en su camino. Obtiene +10 % de daño cuerpo a cuerpo, salud máxima y armadura por cada enemigo golpeado durante 5s.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Pisotear",
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "it": {
             "item_name": "Trample",
-            "description": "L'Helminth effettua una carica per attaccare un nemico, infliggendo 160 danni a tutto ciò che incontra.",
-            "wiki_link": "http://warframe.wikia.com/wiki/Trample",
+            "description": "L'Helminth Charger si scaglia contro un nemico, infliggendo 160 Danni a tutti coloro che incontra sulla sua traiettoria. Ottiene +10% Danni Corpo a Corpo, Salute massima e Armatura per ogni nemico colpito per 5s.",
+            "wiki_link": null,
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "pl": {
             "item_name": "Tratowanie",
-            "description": "Taran Helminth szarżuje na wroga, zadając 160 obrażeń wszystkim na swojej drodze.",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/Hakowanie",
+            "description": "Taran Helminth szarżuje na wroga, zadając 160 obrażeń wszystkim na swojej drodze. Każdy trafiony przeciwnik przyznaje +10% Obr. Broni białej, Maks. Życia i Pancerza na 5 s.",
+            "wiki_link": null,
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         },
         "uk": {
             "item_name": "Торування",
-            "description": "Гельмінтовий гінчак рушає прожогом до ворога та завдає 160 шкоди всім на шляху.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Trample",
+            "description": "Гельмінтовий гінчак рушає прожогом до ворога та завдає 160 шкоди всім на шляху. Гінчак на 5 с отримує +10 % до шкоди, максимального здоров’я та захисту за кожного зачепленого ворога.",
+            "wiki_link": "https://wiki.warframe.com/w/Trample",
             "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
             "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
         }

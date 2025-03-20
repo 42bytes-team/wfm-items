@@ -1,0 +1,105 @@
+{
+    "_id": "66fd68073a826eccf651cd55",
+    "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "amanata"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "amanata_pressure",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Tenno/Melee/Polearms/Naginata/ShrineMaidenNaginataAugment"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Amanata Pressure",
+            "description": "When Combo Multiplier reaches 8x, Heavy attacks apply a random Status Effect to enemies hit. +330% Melee Damage",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Болевая Точка Аманаты",
+            "description": "Когда множитель комбо достигает 8x, тяжёлые атаки накладывают на поражённых врагов случайный статусный эффект. +330% урона в ближнем бою",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "ko": {
+            "item_name": "아마나타 프레셔",
+            "description": "연속기 배수가 8x에 도달할 시 강 공격이 적에게 무작위로 상태 이상 효과를 부여합니다. +330% 근접 피해",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "de": {
+            "item_name": "Amanata-Druck",
+            "description": "Wenn der Kombo-Multiplikator 8x erreicht, fügen schwere Angriffe getroffenen Feinden einen Statuseffekt zu. +330 % Nahkampfschaden",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Pression Amanata",
+            "description": "Lorsque le Multiplicateur de Combo atteint 8, les Attaques Lourdes appliquent un Effet de Statut aléatoire aux ennemis touchés. +330% de Dégâts en Mêlée",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Amanata Pressure",
+            "description": "Quando o Multiplicador de Combo atingir 8x, os Ataques Pesados aplicarão um Efeito de Status aleatório aos inimigos atingidos. +330% de Dano Corpo a Corpo",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "天薙刀 压迫点",
+            "description": "当连击倍率达到 8 倍时，重击会对被击中的敌人造成随机异常状态。 +330% 近战伤害",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "天薙刀壓迫點",
+            "description": "連擊倍率達到 8 倍時，重擊對擊中的敵人造成一種隨機的觸發狀態效果。 +330% 近戰傷害",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "es": {
+            "item_name": "Presión Amanata",
+            "description": "Cuando el multiplicador de combo llega a 8, los ataques pesados aplican un efecto de estado aleatorio a los enemigos golpeados. +330 % de daño cuerpo a cuerpo",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "it": {
+            "item_name": "Amanata Pressure",
+            "description": "Quando il Moltiplicatore Combo raggiunge 8x, gli Attacchi Pesanti applicano un Effetto casuale ai nemici colpiti. +330% Danno Corpo a Corpo",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Nacisk Amanaty",
+            "description": "Gdy Mnożnik Kombo osiągnie wartość 8x, Ciężkie Ataki nałożą losowy Efekt Statusu na trafionych wrogów. +330% Obrażeń w Walce Wręcz",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Тиск Аманати",
+            "description": "Коли множник серії досягає 8, то потужні удари накладають випадкові ефекти стану ворогам, що зазнали шкоди. +330 % до шкоди від атак ближнього бою",
+            "wiki_link": "https://wiki.warframe.com/w/Amanata_Pressure",
+            "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+            "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

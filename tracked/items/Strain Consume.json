@@ -7,7 +7,6 @@
     ],
     "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
     "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png",
-    "icon_format": "port",
     "url_name": "strain_consume",
     "tradable": true,
     "game_ref": {
@@ -16,85 +15,85 @@
     "i18n": {
         "en": {
             "item_name": "Strain Consume",
-            "description": "Dead maggots within 5m are consumed, restoring 4% Missing Health.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Consume",
+            "description": "Dead Maggots within 10m are consumed, increasing Max Health by 4% and increasing Health Regen by 2/sec for 45sec.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Consume",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "ru": {
             "item_name": "Штамм Поглощения",
-            "description": "Мёртвые личинки в радиусе 5м поглощаются, восстанавливая по 4% отсутствующего здоровья.",
+            "description": "Мёртвые личинки в радиусе 10 м поглощаются, увеличивая максимальное здоровье на 4% и увеличивая восстановление здоровья на 2/с в течение 45 сек.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A8%D1%82%D0%B0%D0%BC%D0%BC_%D0%9F%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F",
             "icon": "items/images/ru/strain_consume.d0154b8d23a8288ae05ef9b5e816fa06.png",
             "thumb": "items/images/ru/thumbs/strain_consume.d0154b8d23a8288ae05ef9b5e816fa06.128x128.png"
         },
         "ko": {
             "item_name": "스트레인 컨슘",
-            "description": "5m 내의 죽은 마고트들을 소모하여 잃어버린 체력의 4%를 회복합니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Consume",
+            "description": "10 내의 죽은 마고트들을 소모하여, 최대 체력이 4%만큼 증가하고 45초 동안 최대 체력이 초당 2씩 회복됩니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Consume",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "de": {
             "item_name": "Infektion: Konsumieren",
-            "description": "Tote Maden innerhalb von 5 m werden konsumiert und stellen 4 % fehlende Gesundheit wieder her.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Consume",
+            "description": "Tote Maden innerhalb von 10 m werden konsumiert und erhöhen die max. Gesundheit um 4 % und erhöhen die Gesundheitsregeneration um 2/s für 45 s.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Consume",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "fr": {
             "item_name": "Absorption De Souche",
-            "description": "Les larves mortes qui se trouvent à moins de 5m sont consommées et restaurent 4% de Santé manquante.",
+            "description": "Les larves mortes sur 10m sont consommées, donnant +4% à la Santé max et +2/s pendant 45s.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Absorption_de_Souche",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "pt": {
             "item_name": "Strain Consume",
-            "description": "Larvas abatidas no alcance de 5m serão consumidas, restaurando 4% da Vida Restante.",
+            "description": "Consumirá as larvas mortas dentro de um raio de 10m, aumentando a Vida Máxima em 4% e a Regeneração de Vida em 2/s, durante 45s.",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Strain_Consume",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "zh-hans": {
             "item_name": "菌株 吸收",
-            "description": "吸收 5 米内死亡的蛆虫并恢复 4% 损失的生命值。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Strain_Consume",
+            "description": "吸收 10 米内死亡的蛆虫，最大生命值增加 4% 并且生命恢复速率增加 2/秒，持续 45 秒。",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Consume",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "zh-hant": {
             "item_name": "菌株 吸收",
-            "description": "5 公尺內死亡的蛆蟲將會消耗並回復 4% 失去的血量。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Strain_Consume",
+            "description": "10 公尺內死掉的蛆蟲會被吃掉，增加生命 4% 以及生命恢復率 2／秒，持續 45 秒。",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Consume",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "es": {
             "item_name": "Consumo De Cepa",
-            "description": "Las larvas muertas dentro de 5m son consumidas, restaurando 4% de la salud faltante.",
-            "wiki_link": "https://warframe.fandom.com/es/wiki/Consumo_de_cepa",
+            "description": "Las larvas muertas en un radio de 10 m son consumidas, lo que aumenta la salud máxima en 4 % y aumenta la regeneración de salud en 2/s durante 45 s.",
+            "wiki_link": null,
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "it": {
             "item_name": "Strain Consume",
-            "description": "I vermi morti nel raggio di 5m vengono consumati, ripristinando il 4% della Salute Mancante.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Consume",
+            "description": "I vermi morti entro 10m vengono consumati, aumentando la Salute Massima del 4% e aumentando la Rigenerazione Salute di 2/sec per 45sec.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Consume",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "pl": {
             "item_name": "Szczep Pochłonięcia",
-            "description": "Martwe czerwie w zasięgu 5m zostają wchłonięte, przywracając 4% Brakującego Życia.",
-            "wiki_link": "https://warframe.fandom.com/pl/wiki/Poch%C5%82oni%C4%99cie",
+            "description": "Martwe Czerwie w zasięgu 10 m są pożerane, zwiększając Maks. Życie o 4% i przyznając 2 Życia na sekundę przez 45 sekund.",
+            "wiki_link": null,
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         },
         "uk": {
             "item_name": "Хворобливе Поглинання",
-            "description": "Мертві гробаки в межах 5 м поглинаються, відновлюючи 4% від відсутнього здоров’я.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Strain_Consume",
+            "description": "Мертві гробаки в межах 10 м поглинаються, максимальне здоров’я збільшується на 4 %, а відновлення здоров’я зростає на 2/с на 45 с.",
+            "wiki_link": "https://wiki.warframe.com/w/Strain_Consume",
             "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
             "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png"
         }

@@ -8,7 +8,6 @@
     ],
     "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
     "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png",
-    "icon_format": "port",
     "url_name": "shockwave_actuators",
     "tradable": true,
     "game_ref": {
@@ -17,86 +16,85 @@
     "i18n": {
         "en": {
             "item_name": "Shockwave Actuators",
-            "description": "Readies a shockwave every 10s that knocks down nearby enemies.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
+            "description": "Blasts a shockwave knocking down those within 12m. The shockwave recharges every 10s.",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "ru": {
             "item_name": "Ударные Приводы",
-            "description": "Каждые 10с подготавливает ударную волну, сбивающую с ног врагов поблизости.",
+            "description": "Испускает ударную волну, сбивающую с ног всех в радиусе 12 метров. Ударная волна перезаряжается каждые 10 с.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A3%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B5_%D0%9F%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8B",
             "icon": "items/images/ru/shockwave_actuators.cf1ddc7a9120c6c5c4f0695e5d9a1218.png",
-            "icon_format": "port",
             "thumb": "items/images/ru/thumbs/shockwave_actuators.cf1ddc7a9120c6c5c4f0695e5d9a1218.128x128.png"
         },
         "ko": {
             "item_name": "쇼크웨이브 액츄에이터",
-            "description": "10초 마다 주변 적들을 넘어뜨리는 충격파를 준비합니다.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
+            "description": "12m 내의 적들을 쓰러트리는 충격파를 방출합니다. 충격파는 매 10초마다 재충전됩니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "de": {
             "item_name": "Schockwelle-Aktuatoren",
-            "description": "Bereitet eine Schockwelle alle 10 s vor, die Gegner in der Nähe niederschlägt.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
+            "description": "Löst eine Schockwelle aus, die jeden im Umkreis von 12 m niederstreckt. Die Schockwelle lädt sich alle 10 s wieder auf.",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "fr": {
             "item_name": "Déclencheur Onde De Choc",
-            "description": "Prépare une onde de choc toutes les 10s qui met à terre les ennemis proches.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
+            "description": "Lance une onde de choc qui renverse tous ceux qui se trouvent dans un rayon de 12m. L'onde de choc se recharge toutes les 10s.",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "pt": {
             "item_name": "Shockwave Actuators",
-            "description": "Disparará uma onda de choque a cada 10s que derrubará inimigos próximos.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
+            "description": "Disparará uma onda de choque que derrubará aqueles dentro de 12m. A onda de choque recarregará a cada 10s.",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "zh-hans": {
             "item_name": "震波驱动器",
-            "description": "每 10 秒释放一道冲击波，击倒附近的敌人。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Shockwave_Actuators",
+            "description": "发射冲击波，击倒 12 米范围内的敌人。冲击波每 10 秒充能一次。",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "zh-hant": {
             "item_name": "震波驅動器",
-            "description": "每 10 秒可使用震波擊倒鄰近敵人。",
-            "wiki_link": "https://warframe.huijiwiki.com/wiki/Shockwave_Actuators",
+            "description": "發射衝擊波，擊倒 12 公尺內的敵人。衝擊波每 10 秒充能一次。",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "es": {
             "item_name": "Accionador De Onda De Choque",
-            "description": "Prepara una onda de choque cada 10s que derriba a los enemigos.",
-            "wiki_link": "https://warframe.fandom.com/es/wiki/Accionador_de_onda_de_choque",
+            "description": "Lanza una onda expansiva que derriba a quienes se encuentran a 12 m. La onda expansiva se recarga cada 10 s.",
+            "wiki_link": null,
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "it": {
             "item_name": "Shockwave Actuators",
-            "description": "Crea un'onda d'urto ogni 10s che atterra i nemici vicini.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
+            "description": "Sprigiona un'onda d'urto che atterra chiunque si trovi entro 12m. L'onda d'urto si ricarica ogni 10s.",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "pl": {
             "item_name": "Siłowniki Fali Uderzeniowej",
-            "description": "Generuję falę uderzeniową co 10s, która powala pobliskich wrogów.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
+            "description": "Generuje falę uderzeniową, powalającą wrogów w zasięgu 12 metrów. Czas odnowienia: 10 s.",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         },
         "uk": {
             "item_name": "Сейсмічні Приводи",
-            "description": "Кожні 10 с створюється хвиля, яка збиває з ніг найближчих ворогів.",
-            "wiki_link": "https://warframe.fandom.com/wiki/Shockwave_Actuators",
+            "description": "Створює вибухову хвилю, яка збиває з ніг усіх в межах 12 м. Перезаряджання: 10 с.",
+            "wiki_link": "https://wiki.warframe.com/w/Shockwave_Actuators",
             "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
             "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
         }

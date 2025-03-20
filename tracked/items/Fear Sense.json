@@ -1,0 +1,104 @@
+{
+    "_id": "57b4e5486f6b2fda8ea6caa4",
+    "tags": [
+        "mod",
+        "kavat",
+        "uncommon"
+    ],
+    "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+    "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png",
+    "url_name": "sense_danger",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowTremorSensePrecept"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Fear Sense",
+            "description": "The Kavat senses the weaknesses of enemies within 25m. For 25s, its attacks deal +200% damage and stagger with a 30% chance of knockdown.",
+            "wiki_link": "https://wiki.warframe.com/w/Fear_sense",
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "ru": {
+            "item_name": "Чутьё Страха",
+            "description": "Кават чувствует слабости врагов в радиусе 25 м. В течение 25 с его атаки наносят +200% урона и ошеломляют с вероятностью 30% сбить врага с ног.",
+            "wiki_link": null,
+            "icon": "items/images/ru/sense_danger.60bd0efa8bfc58ac1cc369140b317e4b.png",
+            "thumb": "items/images/ru/thumbs/sense_danger.60bd0efa8bfc58ac1cc369140b317e4b.128x128.png"
+        },
+        "ko": {
+            "item_name": "피어 센스",
+            "description": "카밧이 25m 내에 있는 적들의 약점을 감지합니다. 이후 25초 동안 약점이 포착된 적을 공격할 시 +200%의 피해를 가하고 비틀거리게 만들며, 30%의 확률로 적을 쓰러뜨립니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Fear_sense",
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "de": {
+            "item_name": "Angstgespür",
+            "description": "Die Kavat spürt die Schwächen von Feinden im Umkreis von 25 m. 25 s lang verursachen ihre Angriffe +200 % Schaden und bringen den Gegner ins Taumeln, mit einer Chance von 30 % für Niederschlag.",
+            "wiki_link": null,
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "fr": {
+            "item_name": "Perception De La Peur",
+            "description": "Le Kavat détecte les faiblesses des ennemis dans un rayon de 25m. Pendant 25s, ses attaques infligent +200% de Dégâts et déstabilisent les ennemis avec 30% de chances de les renverser.",
+            "wiki_link": null,
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "pt": {
+            "item_name": "Fear Sense",
+            "description": "O Kavat detectará as fraquezas dos inimigos em um raio de 25m. Durante 25s, seus ataques causarão +200% de dano, além de atordoamento com 30% de chance de derrubada.",
+            "wiki_link": null,
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "zh-hans": {
+            "item_name": "恐惧感知",
+            "description": "库娃可以感知到 25 米范围内敌人的弱点。它的攻击会造成 +200% 伤害，并有 30% 的几率击倒敌人，持续 25 秒。",
+            "wiki_link": "https://wiki.warframe.com/w/Fear_sense",
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "zh-hant": {
+            "item_name": "恐懼感應",
+            "description": "庫娃能夠感應到 25 公尺內敵人的弱點。牠們的攻擊造成 +200% 傷害，失衡的敵人有 30% 機率被擊倒，持續 25 秒。",
+            "wiki_link": "https://wiki.warframe.com/w/Fear_sense",
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "es": {
+            "item_name": "Sentido Del Miedo",
+            "description": "El kavat detecta las debilidades de los enemigos en un radio de 25 m. Durante 25 s, sus ataques infligen un +200 % de daño y hacen tambalear a los enemigos con un 30 % de probabilidad de derribarlos.",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Sentido_del_miedo",
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "it": {
+            "item_name": "Fear Sense",
+            "description": "Il Kavat percepisce le debolezze dei nemici entro 25m. Per 25s, i suoi attacchi infliggono +200% danni e li stordisce con una probabilità del 30% di atterrarli.",
+            "wiki_link": null,
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "pl": {
+            "item_name": "Wyczucie Strachu",
+            "description": "Kavat wyczuwa słabości wrogów w zasięgu 25 metrów. Jego ataki zadają +200% obrażeń i ogłuszają wrogów, z 30% szansy na powalenie, przez 25 sekund.",
+            "wiki_link": null,
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        },
+        "uk": {
+            "item_name": "Чуття Страху",
+            "description": "Кавати відчувають страх ворогів у межах 25 м. Упродовж 25 с атаки каватів завдаватимуть на 200 % більше шкоди та спричинятимуть хитання, з 30 % імовірності збиття з ніг.",
+            "wiki_link": "https://wiki.warframe.com/w/Fear_sense",
+            "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+            "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png"
+        }
+    },
+    "rarity": "uncommon",
+    "max_rank": 3,
+    "trading_tax": 4000
+}
