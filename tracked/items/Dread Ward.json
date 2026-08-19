@@ -1,10 +1,11 @@
 {
     "_id": "5cb04868fc2db2068006980d",
     "tags": [
-        "garuda",
         "mod",
-        "rare",
-        "warframe"
+        "garuda",
+        "warframe",
+        "augment",
+        "rare"
     ],
     "icon": "items/images/en/dread_ward.4b98492ea6c4f8665ffeab29f180e535.png",
     "thumb": "items/images/en/thumbs/dread_ward.4b98492ea6c4f8665ffeab29f180e535.128x128.png",
@@ -23,7 +24,7 @@
         },
         "ru": {
             "item_name": "Страж Отчаяния",
-            "description": "Улучшение способности «Зеркало Отчаяния»: после убийства способностью дарует неуязвимость на 8 с.",
+            "description": "Улучшение способности «Зеркало Отчаяния»: после убийства способностью дарует неуязвимость на 8 с.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%B6_%D0%9E%D1%82%D1%87%D0%B0%D1%8F%D0%BD%D0%B8%D1%8F",
             "icon": "items/images/ru/dread_ward.cf447a3a6c6f53792768e928ee757d7f.png",
             "thumb": "items/images/ru/thumbs/dread_ward.cf447a3a6c6f53792768e928ee757d7f.128x128.png"
@@ -50,8 +51,8 @@
             "thumb": "items/images/en/thumbs/dread_ward.4b98492ea6c4f8665ffeab29f180e535.128x128.png"
         },
         "pt": {
-            "item_name": "Dread Ward",
-            "description": "Ampliação Dread Mirror: deixará a Garuda imortal durante 8s sempre que a Dread Mirror eliminar o alvo selecionado.",
+            "item_name": "Blindagem Instintiva",
+            "description": "Ampliação - Defesa Instintiva: deixará a Garuda imortal durante 8s sempre que a habilidade eliminar o alvo selecionado.",
             "wiki_link": "https://wiki.warframe.com/w/Dread_Ward",
             "icon": "items/images/en/dread_ward.4b98492ea6c4f8665ffeab29f180e535.png",
             "thumb": "items/images/en/thumbs/dread_ward.4b98492ea6c4f8665ffeab29f180e535.128x128.png"
@@ -93,7 +94,7 @@
         },
         "uk": {
             "item_name": "Вартова Жаху",
-            "description": "Розширення здібності «Люстерко жаху»: якщо здібність убиває ворога, Ґаруда стає невразливою на 8 с.",
+            "description": "Розширення здібності «Люстерко жаху»: якщо здібність убиває ворога, Ґаруда не може загинути впродовж 8 с.",
             "wiki_link": "https://wiki.warframe.com/w/Dread_Ward",
             "icon": "items/images/en/dread_ward.4b98492ea6c4f8665ffeab29f180e535.png",
             "thumb": "items/images/en/thumbs/dread_ward.4b98492ea6c4f8665ffeab29f180e535.128x128.png"

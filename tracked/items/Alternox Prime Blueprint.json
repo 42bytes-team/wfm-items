@@ -1,0 +1,115 @@
+{
+    "_id": "6939aa8a5d9ebda239125d2c",
+    "tags": [
+        "primary",
+        "prime",
+        "weapon",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "alternox_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/AlternoxPrimeBlueprint"
+    },
+    "part_of_set": [
+        "alternox_prime_barrel",
+        "alternox_prime_blueprint",
+        "alternox_prime_receiver",
+        "alternox_prime_set",
+        "alternox_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Alternox Prime Blueprint",
+            "description": "Orokin gold enhances the conductivity of Gyre Prime's signature rifle, enabling it to fire massive electrifying orbs.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Альтернокс Прайм (Чертеж)",
+            "description": "Орокинское золото усиливает проводимость особой винтовки Джайры Прайм, позволяя ей выпускать мощные, пронизанные электричеством сферы.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "ko": {
+            "item_name": "알터녹스 프라임 설계도",
+            "description": "오로킨 황금이 자이어 프라임의 대표 소총이 가진 전도성을 강화하여 거대한 전기 구체를 발사할 수 있게 해줍니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "de": {
+            "item_name": "Alternox Prime Blaupause",
+            "description": "Das Gold der Orokin erhöht die Leitfähigkeit von Gyre Primes bevorzugtem Gewehr, was es ihm gestattet, massive elektrisierende Kugeln abzufeuern.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Alternox Prime (Schéma)",
+            "description": "L'or Orokin améliore la conductivité du fusil emblématique de Gyre Prime, lui permettant de tirer d'énormes orbes électrifiantes.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Alternox Prime (Diagrama)",
+            "description": "O ouro Orokin aumenta a condutividade do rifle tradicional da Gyre Prime, permitindo que ele dispare orbes eletrizantes colossais.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "电幻步枪 Prime 蓝图",
+            "description": "（英文：ALTERNOX PRIME）奥罗金黄金增强了 Gyre Prime 标志性步枪的导电性，使其能够发射巨大的带电球体。",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "交電步槍 Prime 藍圖",
+            "description": "（英文：ALTERNOX PRIME）Orokin 黃金增強了 Gyre Prime 標誌性步槍的傳導性，使其能發射巨大的帶電球體。",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "es": {
+            "item_name": "Plano de Alternox Prime",
+            "description": "El oro orokin mejora la conductividad del icónico rifle de Gyre Prime, permitiéndole disparar enormes orbes electrizantes.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "it": {
+            "item_name": "Alternox Prime (Schema)",
+            "description": "L'oro Orokin aumenta la conduttività del fucile distintivo di Gyre Prime, consentendo di sparare enormi sfere elettrizzanti.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Alternox Prime - Schemat",
+            "description": "Złoto Orokin zwiększa przewodnictwo charakterystycznego karabinu Gyre Prime, umożliwiając wystrzeliwanie ogromnych, elektryzujących kul.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Альтернокс-Прайм (кресленик)",
+            "description": "Орокінське золото підвищує провідність визначної гвинтівки Джайри-прайм, забезпечуючи постріли величезним наелектризованими сферами.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        }
+    },
+    "mastery_level": 13,
+    "ducats": 100,
+    "trading_tax": 2000
+}

@@ -1,0 +1,105 @@
+{
+    "_id": "6846e70e43db1b86d7b1c613",
+    "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "athodai"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "pain_points",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Nightwave/NightwaveTnJetTurbinePistolAugmentMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Pain Points",
+            "description": "On Weak Point hits with Primary Fire:\n+60% Weak Point Damage for 5s. Stacks up to 10x.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Болевые Точки",
+            "description": "При попадании в уязвимую точку основным огнём:\n+60% к урону по уязвимым местам на 5с. Складывается до 10 раз.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "ko": {
+            "item_name": "페인 포인트",
+            "description": "주 발사로 약점 공격 시:\n5초 동안 +60% 약점 피해, 최대 10회 중첩",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "de": {
+            "item_name": "Schmerzpunkte",
+            "description": "Bei Schwachstellentreffern mit Primärfeuer.:\n+60 % Schwachpunktschaden für 5 s. Bis zu 10x stapelbar.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Points Douloureux",
+            "description": "Sur les coups aux Points Faibles avec le tir principal:\n+60% de Dégâts aux Points Faibles pendant 5s. Cumulable jusqu'à 10x.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Pain Points",
+            "description": "Em Acertos em Pontos Fracos com o Disparo Primário:\n+60% de Dano em Pontos Fracos durante 5s. Acumulará até 10 vezes.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "痛点",
+            "description": "主要射击击中弱点时：\n+60% 弱点伤害，持续 5 秒。最多叠加到 10 层。",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "痛點",
+            "description": "主要射擊擊中弱點時：\n+60% 弱點傷害，持續 5 秒。最多可疊加 10 次。",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "es": {
+            "item_name": "Puntos Dolorosos",
+            "description": "Al impactar un punto débil con fuego primario:\n+60 % de daño en puntos débiles por 5 s. Se acumula hasta 10 veces.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "it": {
+            "item_name": "Pain Points",
+            "description": "Colpendo i Punti Deboli con il Fuoco Primario:\n+60% Danni ai Punti Deboli per 5s. Si accumula fino a 10x.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Źródła Bólu",
+            "description": "Przy trafieniu w Słaby Punkt Ogniem głównym:\n+60% Obrażeń Słabych Punktów przez 5s. Kumuluje się do 10 razy.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Больові Точки",
+            "description": "У разі влучання в слабкі місця основною атакою:\n+60 % до шкоди слабким місцям. Тривалість: 5 с. Накопичується до 10 разів.",
+            "wiki_link": null,
+            "icon": "items/images/en/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.webp",
+            "thumb": "items/images/en/thumbs/pain_points.d59a864a5386cdb2d14faccfdb6e03fd.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

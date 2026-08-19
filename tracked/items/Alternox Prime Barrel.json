@@ -1,0 +1,114 @@
+{
+    "_id": "6939aa8b5d9ebda239125d2d",
+    "tags": [
+        "weapon",
+        "prime",
+        "component"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+    "url_name": "alternox_prime_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/AlternoxPrimeBarrel"
+    },
+    "part_of_set": [
+        "alternox_prime_barrel",
+        "alternox_prime_blueprint",
+        "alternox_prime_receiver",
+        "alternox_prime_set",
+        "alternox_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Alternox Prime Barrel",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Альтернокс Прайм: Ствол",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "ko": {
+            "item_name": "알터녹스 프라임 배럴",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "de": {
+            "item_name": "Alternox Prime: Lauf",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Alternox Prime - Canon",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Alternox Prime: Cano",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "电幻步枪 Prime 枪管",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "交電步槍 Prime 槍管",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "es": {
+            "item_name": "Cañón De Alternox Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "it": {
+            "item_name": "Alternox Prime - Canna",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Alternox Prime: Lufa",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Альтернокс-Прайм: Ствол",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null,
+            "icon": "items/images/en/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+            "thumb": "items/images/en/thumbs/alternox_prime_barrel.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+        }
+    },
+    "mastery_level": 13,
+    "ducats": 45,
+    "trading_tax": 2000
+}

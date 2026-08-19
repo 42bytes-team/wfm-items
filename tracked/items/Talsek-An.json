@@ -1,0 +1,104 @@
+{
+    "_id": "693e6ab703903ae8993ffb04",
+    "tags": [
+        "mod",
+        "common",
+        "any"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "talsek_an",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Antiques/EnterVoidModeOnKnockdown"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Talsek-An",
+            "description": "Gain knockdown immunity. When knockdown is blocked, enter Void Mode for 3s (cooldown 7.5s)",
+            "wiki_link": null,
+            "icon": "items/images/en/talsek_an.3535ca5d186e82c89e2f51d18128c003.webp",
+            "thumb": "items/images/en/thumbs/talsek_an.3535ca5d186e82c89e2f51d18128c003.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Талсек-Ан",
+            "description": "Иммунитет к Опрокидыванию. В случае блокировки опрокидывания, переходите в режим Бездны на 3 с (восстановление 7.5 с)",
+            "wiki_link": null,
+            "icon": "items/images/ru/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/ru/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "ko": {
+            "item_name": "탈세크-안",
+            "description": "넉다운 면역을 얻습니다. 넉다운이 차단되면, 3초 동안 보이드 모드에 돌입합니다 (재사용 대기 시간 7.5초)",
+            "wiki_link": null,
+            "icon": "items/images/ko/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/ko/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "de": {
+            "item_name": "Talsek-An",
+            "description": "Gewährt Immunität gegen Niederschlag. Wird ein Niederschlag blockiert, wechsele für 3 s in den Void-Modus (Abklingzeit 7.5 s)",
+            "wiki_link": null,
+            "icon": "items/images/de/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/de/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Talsek-An",
+            "description": "Gagnez une immunité contre les renversements. Lorsqu'un renversement est bloqué, vous entrez en Mode Néant pendant 3s (temps de recharge 7.5s).",
+            "wiki_link": null,
+            "icon": "items/images/fr/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/fr/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Talsek-An",
+            "description": "Fornecerá imunidade a derrubadas. Quando uma derrubada for bloqueada, habilitará o Modo Void por 3s. Tempo de recarga de 7.5s.",
+            "wiki_link": null,
+            "icon": "items/images/pt/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/pt/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "塔安",
+            "description": "获得击倒免疫。当击倒被格挡时，进入虚空模式，持续 3 秒（冷却时间为 7.5 秒）",
+            "wiki_link": null,
+            "icon": "items/images/zh-hans/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/zh-hans/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "塔安",
+            "description": "獲得擊倒免疫。擊倒被格擋時，進入虛空模式，持續 3 秒，冷卻時間 7.5 秒",
+            "wiki_link": null,
+            "icon": "items/images/zh-hant/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/zh-hant/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "es": {
+            "item_name": "Talsek-An",
+            "description": "Obtén inmunidad al derribar. Cuando se bloquea un derribo, entra en el modo del Vacío por 3 s (tiempo de espera: 7.5 s)",
+            "wiki_link": null,
+            "icon": "items/images/es/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/es/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "it": {
+            "item_name": "Talsek-An",
+            "description": "Ottieni l'immunità all'atterramento. Quando l'atterramento viene bloccato, entra in Modalità Void per 3s (tempo di recupero 7.5s)",
+            "wiki_link": null,
+            "icon": "items/images/it/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/it/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Talsek-An",
+            "description": "Zyskaj odporność na powalenie. Zablokowane powalenia aktywują Tryb Pustki na 3 s (czas odnowienia 7.5 s)",
+            "wiki_link": null,
+            "icon": "items/images/pl/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+            "thumb": "items/images/pl/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Талсек-Ан",
+            "description": "Отримайте невразливість до збиття з ніг. У разі блокування збиття з ніг відбудеться Перехід у Порожнечу на 3 с (перезаряджання 7.5 с)",
+            "wiki_link": null,
+            "icon": "items/images/en/talsek_an.3535ca5d186e82c89e2f51d18128c003.webp",
+            "thumb": "items/images/en/thumbs/talsek_an.3535ca5d186e82c89e2f51d18128c003.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 5,
+    "trading_tax": 2000
+}

@@ -1,0 +1,114 @@
+{
+    "_id": "6939aac85d9ebda239125d32",
+    "tags": [
+        "prime",
+        "weapon",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "kestrel_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/KestrelPrimeBlueprint"
+    },
+    "part_of_set": [
+        "kestrel_prime_blade",
+        "kestrel_prime_blueprint",
+        "kestrel_prime_grip",
+        "kestrel_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Kestrel Prime Blueprint",
+            "description": "With heightened agility and power the Kestrel Prime’s heavy attacks easily knock down foes, ensuring none shall stand before it.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Кестрел Прайм (Чертеж)",
+            "description": "Благодаря повышенной ловкости и мощи тяжёлые атаки Кестрела Прайм с лёгкостью сбивают с ног врагов, гарантируя, что никто не устоит перед ним.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "ko": {
+            "item_name": "케스트렐 프라임 설계도",
+            "description": "강화된 민첩성과 위력을 갖춘 케스트렐 프라임의 강 공격은 적들을 쉽게 쓰러뜨리며, 그 앞에는 어느 누구도 막아설 수 없습니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "de": {
+            "item_name": "Kestrel Prime Blaupause",
+            "description": "Mit erhöhter Wendigkeit und Kraft schlagen Kestrel Primes schwere Angriffe Feinde nieder, sodass ihnen kein Feind standhalten kann.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Kestrel Prime (Schéma)",
+            "description": "Grâce à son agilité et sa puissance accrues, les attaques lourdes du Kestrel Prime terrassent facilement ses ennemis, ne laissant aucune chance à quiconque de lui résister.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Kestrel Prime (Diagrama)",
+            "description": "Com agilidade e poder aprimorados, os ataques pesados da Kestrel Prime derrubam facilmente os inimigos, garantindo que nada fique em seu caminho.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "红隼 Prime 蓝图",
+            "description": "（英文：KESTREL PRIME）凭借更高的敏捷性和力量，红隼 Prime 的重击可以轻松击倒敌人，所向披靡。",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "紅隼 Prime 藍圖",
+            "description": "（英文：KESTREL PRIME）紅隼 Prime 憑藉提升的敏捷與力量，重擊能輕易擊倒敵人，確保無人能在其面前站立。",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "es": {
+            "item_name": "Plano de Kestrel Prime",
+            "description": "Gracias a su mayor agilidad y potencia, los fuertes ataques del Kestrel Prime abruman fácilmente a sus enemigos, sin dejarles ninguna posibilidad de resistir.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "it": {
+            "item_name": "Kestrel Prime (Schema)",
+            "description": "Grazie alla sua agilità e potenza il Kestrel Prime sferra attacchi pesanti che abbattono facilmente i nemici, impedendo a chiunque di resistergli.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Kestrel Prime - Schemat",
+            "description": "Dzięki zwiększonej zwrotności i sile, Ciężkie ataki bumerangu Kestrel Prime z łatwością powalają wrogów, by nikt nie śmiał stanąć mu na drodze.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Боривітер-Прайм (кресленик)",
+            "description": "Сильні атаки Боривітра-прайм легко збивають ворогів з ніг завдяки підвищеній потужності та мобільності — ніхто не встоїть на його шляху.",
+            "wiki_link": null,
+            "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+            "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+        }
+    },
+    "mastery_level": 11,
+    "ducats": 45,
+    "trading_tax": 2000
+}

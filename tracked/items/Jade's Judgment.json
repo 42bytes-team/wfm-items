@@ -1,0 +1,106 @@
+{
+    "_id": "685d4ff2f41598dddb4cc2fa",
+    "tags": [
+        "mod",
+        "warframe",
+        "jade",
+        "augment",
+        "rare"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "jades_judgment",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Powersuits/Choir/ChoirPoolAugmentCard"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Jade's Judgment",
+            "description": "Light's Judgment Augment: Enemies damaged by the well have a 5% chance per hit to spawn a Jade Light above them, damaging them for 3s.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Приговор Джейд",
+            "description": "Улучшение способности «Правосудия Света»: враги, получившие урон от колодца, имеют 5% шанс за удар создать над собой Нефритовый Свет, наносящий урон в течение 3 сек.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "ko": {
+            "item_name": "제이드 저지먼트",
+            "description": "라이트 저지먼트 개조 모드: 제이드의 샘에 피해를 입은 적의 머리 위에 타격 당 5%의 확률로 제이드 라이트가 생성되며, 3초 동안 피해를 입힙니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "de": {
+            "item_name": "Jades Urteil",
+            "description": "Lichturteil Augment: Gegner, die vom Brunnen aus Licht verwundet werden, haben eine 5 % Chance pro Treffer, ein Jade-Licht über sich spawnen zu lassen, was ihnen für 3 s Schaden zufügt.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Jugement De Jade",
+            "description": "Augmentation de Jugement de la Lumière: les ennemis blessés par le puits ont 5% de chances par coup de faire apparaître Lumière de Jade au-dessus d'eux, les blessant pendant 3s.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Julgamento Da Jade",
+            "description": "Ampliação - Julgamento da Luz: em cada acerto da habilidade, inimigos danificados terão 5% de chance de serem atingidos por uma Luz da Jade, que causará dano por 3s.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "翠玉审判",
+            "description": "圣光审判强化：受到圣光之井伤害的敌人，每次被击中时有 5% 的几率在其上方生成翠玉之光，并对其造成伤害，持续 3 秒。",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "Jade 之審判",
+            "description": "光之審判強化：受到光明之井傷害的敵人，每次被擊中有 5% 機率在其上方生成一道翠玉之光，對其造成傷害，持續 3 秒。",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "es": {
+            "item_name": "Juicio De Jade",
+            "description": "Aumento de Juicio de la luz: los enemigos dañados por el pozo tienen un 5 % de probabilidad por golpe de generar una Luz de Jade sobre ellos que los dañará durante 3 s.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "it": {
+            "item_name": "Jade's Judgment",
+            "description": "Potenziamento Light's Judgment: I nemici danneggiati dal pozzo hanno il 5% di probabilità per colpo di generare una Jade Light sopra di loro, che infligge danno per 3s.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Jadeitowy Osąd",
+            "description": "Modyfikacja Osądu Światła: Każde trafienie wrogów przez źródło ma 5% szansy na przyzwanie nad nimi Jadeitowego Światła, które zadaje obrażenia przez 3 sekund.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Вирок Джейд",
+            "description": "Розширення здібності «Світловий вирок»: зазнавши шкоди від колодязя, вороги матимуть 5 % імовірності появи нефритового світла над ними, яке завдаватиме шкоди впродовж 3 с.",
+            "wiki_link": null,
+            "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+            "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 3,
+    "trading_tax": 8000
+}

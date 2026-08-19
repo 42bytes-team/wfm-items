@@ -1,7 +1,7 @@
 {
     "_id": "67db60889cec3e52e62523f5",
     "tags": [
-        "rare",
+        "legendary",
         "arcane_enhancement"
     ],
     "icon": "items/unknown.png",
@@ -21,7 +21,7 @@
         },
         "ru": {
             "item_name": "Мистический Выстрел",
-            "description": "Увеличивает шанс критического урона оружием на 10 сек. при использовании способностей, наносящих врагам огневой статус. Максимум - 50 стаков.\n+1 Мистическое Воскрешение",
+            "description": "Увеличивает шанс критического урона оружием на 10 сек. на 10 сек при наложении способностями статуса огня на врагов. Максимум — 50 стаков.\n+1 Мистическое Воскрешение",
             "wiki_link": null,
             "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
             "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
@@ -49,7 +49,7 @@
         },
         "pt": {
             "item_name": "Ignição Arcana",
-            "description": "Fornecerá 6% de Chance Crítica para armas por 10s, ao usar habilidades que infligem o Efeito de Status Ígneo em inimigos. Acumulará até 50x.\n+1 Reanimação Arcana",
+            "description": "Ao usar habilidades que infligem o Efeito de Status Ígneo em inimigos, fornecerá 6% de Chance Crítica para armas por 10s. Acumulará até 50x.\n+1 Reanimação Arcana",
             "wiki_link": null,
             "icon": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
             "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
@@ -97,7 +97,7 @@
             "thumb": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
         }
     },
-    "rarity": "rare",
+    "rarity": "legendary",
     "max_rank": 5,
-    "trading_tax": 8000
+    "trading_tax": 2100000.0
 }

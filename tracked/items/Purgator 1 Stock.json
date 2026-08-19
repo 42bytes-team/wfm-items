@@ -1,0 +1,111 @@
+{
+    "_id": "67e8c6c0cedcd0be6d13594d",
+    "tags": [
+        "weapon",
+        "component"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
+    "url_name": "purgator_1_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasrianNoxPlayerWeaponStock"
+    },
+    "part_of_set": [
+        "purgator_1_barrel",
+        "purgator_1_receiver",
+        "purgator_1_set",
+        "purgator_1_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Purgator 1 Stock",
+            "description": "A weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Чистильщик-1: Приклад",
+            "description": "Компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "ko": {
+            "item_name": "퍼게이터 1 스톡",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "de": {
+            "item_name": "Purgator 1: Schaft",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Purgator 1 - Crosse",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Purgator 1: Coronha",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "净化者 1 枪托",
+            "description": "一个武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "淨罪者－1 槍托",
+            "description": "製作武器的部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "es": {
+            "item_name": "Culata De Purgator 1",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "it": {
+            "item_name": "Purgator 1 - Calcio",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Purgator 1: Kolba",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Чистильник-1: Ложе",
+            "description": "Деталь зброї.",
+            "wiki_link": null,
+            "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+            "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 2000
+}

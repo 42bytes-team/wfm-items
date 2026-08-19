@@ -1,0 +1,105 @@
+{
+    "_id": "6936cb0aec38d5c25abab413",
+    "tags": [
+        "mod",
+        "rare",
+        "primary",
+        "hema"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "necrophagic_vigor",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveHemaAugmentMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Necrophagic Vigor",
+            "description": "Reloading drains up to half your Health based on ammo created, increasing Critical Chance and Critical Damage by +20% for every 20 Health drained. Capped at 360%.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Некрофагическая Биоэнергия",
+            "description": "Перезарядка отнимает до половины вашего здоровья в зависимости от количества созданных боеприпасов, увеличивая шанс критического удара и критический урон на +20% за каждую 20 единицу отнятого здоровья. Ограничение составляет 360%.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "ko": {
+            "item_name": "네크로페이직 비거",
+            "description": "재장전 시 생성된 탄약의 양에 따라 최대 절반의 체력을 소모하나, 소모된 체력이 20의 배수를 넘을 때마다 치명타 확률과 치명타 피해가 +20%씩 증가합니다. 최대 증가량 360%.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "de": {
+            "item_name": "Nekrophagische Kraft",
+            "description": "Durch das Nachladen wird bis zur Hälfte der Gesundheit verbraucht, abhängig von der erzeugten Munition. Dadurch erhöht sich die Krit. Chance und der Krit. Schaden um +20 % für jede verbrauchte 20 Gesundheit. Begrenzt auf 360 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Vigueur Nécrophage",
+            "description": "Le rechargement draine jusqu'à la moitié de votre Santé selon la munition créée, augmentant les Chances et Dégâts Critiques de +20% pour chaque 20 point de Santé drainé. Limité à 360%.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Necrophagic Vigor",
+            "description": "Recarregar drenará até metade da sua Vida com base na munição gerada, aumentando a Chance Crítica em +20% para cada 20 de Vida drenada. Limite de 360%.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "噬尸活力",
+            "description": "重新装填根据产生的弹药消耗最多一半生命值，每消耗 20 点生命值，暴击几率和暴击伤害增加 20%。上限为 360%。",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "噬血活力",
+            "description": "重新裝填根據產生的彈藥消耗最多一半生命，每消耗 20 生命值，增加暴擊機率及暴擊傷害 20%。上限為 360%。",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "es": {
+            "item_name": "Vigor Necrófago",
+            "description": "Recargar drena hasta la mitad de tu salud según la munición creada, lo que aumenta la probabilidad crítica y el daño crítico en +20 % por cada 20 de salud drenada. Con un límite de 360 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "it": {
+            "item_name": "Necrophagic Vigor",
+            "description": "Ricaricare consuma fino a metà della tua salute in base alle munizioni create, aumentando la Probabilità Critico e il Danno Critico del +20% per ogni 20 Salute consumata. Limite massimo del 360%.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Nekrofagiczny Wigor",
+            "description": "Przeładowanie używa do połowy Życia, zależnie od ilości przywróconej amunicji i przyznaje premię +20% Szansy i Mnożnika Obr. Krytycznych za każde 20 zabranego Życia, do maks. 360%",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Бадьорість Некрофага",
+            "description": "Перезаряджання виснажує половину вашого здоров’я залежно від кількості створених набоїв, збільшуючи ймовірність критичної шкоди й критичну шкоду на +20 % за кожні 20 виснаженого здоров’я. Максимально: 360 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+            "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

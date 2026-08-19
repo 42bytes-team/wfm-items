@@ -1,0 +1,104 @@
+{
+    "_id": "657f2efd8820fb8f3c5f4660",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+    "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp",
+    "url_name": "melee_vortex",
+    "tradable": true,
+    "bulk_tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PullEnemiesOnMeleeKill"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Melee Vortex",
+            "description": "Kill an enemy affected by Magnetic Status for a 45% chance to pull in enemies within 18m radius",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Vortex",
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Вихрь Ближнего Боя",
+            "description": "Убейте врага, находящегося под действием магнитного статуса, и получите 45% шанс притянуть врагов в радиусе 18 м.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "ko": {
+            "item_name": "밀리 볼텍스",
+            "description": "자성 상태 이상 효과에 영향을 받는 적을 처치 시 45%의 확률로 18m 범위 내의 적들을 끌어당깁니다.",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Vortex",
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "de": {
+            "item_name": "Nahkampf: Wirbel",
+            "description": "Töte einen Feind, der von Magnetismus-Status betroffenen ist, für eine 45 % Chance, um Feinde in einem Radius von 18 m anzuziehen.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Vortex De Mêlée",
+            "description": "Éliminez un ennemi affecté par un Effet de Statut Magnétique pour avoir 45% de chances d'attirer les ennemis dans un rayon de 18m",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Vórtice (Armas Brancas)",
+            "description": "Eliminar um inimigo afetado pelo Status Magnético fornecerá 45% de chance de atrair os inimigos em um raio de 18m.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "近战·漩涡",
+            "description": "击杀受到 磁力异常状态影响的敌人时有 45% 几率将半径 18 米内的敌人拉近。",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Vortex",
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "近戰旋渦",
+            "description": "擊殺受到磁力觸發狀態效果影響的敵人時，有 45% 機率拉近 18 公尺內的敵人。",
+            "wiki_link": "https://wiki.warframe.com/w/Melee_Vortex",
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "es": {
+            "item_name": "Vórtice Cuerpo A Cuerpo",
+            "description": "Mata a un enemigo afectado por el estado magnético para tener un 45 % de probabilidad de atraer enemigos dentro de un radio 18 m",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "it": {
+            "item_name": "Melee Vortex",
+            "description": "Uccidi un nemico affetto dall'Effetto Magnetico per avere una probabilità del 45% di attirare nemici entro un raggio di 18m",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Wir Broni Białej",
+            "description": "Zabij wroga dotkniętego Efektami Statusu Obr. Magnetycznych, aby uzyskać 45% szansy na przyciągnięcie wrogów w promieniu 18 m.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Рукопашний Вир",
+            "description": "Убивство ворогів під дією магнетичного ефекту стану надає 45% імовірності притягнути ворогів у межах 18 м.",
+            "wiki_link": "https://warframe.fandom.com/uk/wiki/%D0%A0%D1%83%D0%BA%D0%BE%D0%BF%D0%B0%D1%88%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B8%D1%80",
+            "icon": "items/images/en/melee_vortex.08bdba930b9fbc44559336cb61b564f1.webp",
+            "thumb": "items/images/en/thumbs/melee_vortex.08bdba930b9fbc44559336cb61b564f1.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

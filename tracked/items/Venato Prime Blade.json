@@ -1,0 +1,101 @@
+{
+    "_id": "68add0fa731e63abe79a5d1d",
+    "tags": [
+        "component",
+        "weapon",
+        "prime"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
+    "url_name": "venato_prime_blade",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeBlade"
+    },
+    "part_of_set": [
+        "venato_prime_blade",
+        "venato_prime_blueprint",
+        "venato_prime_handle",
+        "venato_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Venato Prime Blade",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "ru": {
+            "item_name": "Венато Прайм: Лезвие",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "ko": {
+            "item_name": "베나토 프라임 블레이드",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "de": {
+            "item_name": "Venato Prime: Klinge",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "fr": {
+            "item_name": "Venato Prime - Lame",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "pt": {
+            "item_name": "Venato Prime: Lâmina",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "zh-hans": {
+            "item_name": "脉纹 Prime 刀刃",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "zh-hant": {
+            "item_name": "威拿托 Prime 刀刃",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "es": {
+            "item_name": "Hoja De Venato Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "it": {
+            "item_name": "Venato Prime - Lama",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "pl": {
+            "item_name": "Venato Prime: Ostrze",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "uk": {
+            "item_name": "Венато-Прайм: Клинок",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        }
+    },
+    "mastery_level": 14,
+    "ducats": 100,
+    "trading_tax": 2000
+}

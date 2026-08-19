@@ -1,0 +1,104 @@
+{
+    "_id": "693e6b2403903ae8993ffb0a",
+    "tags": [
+        "mod",
+        "uncommon",
+        "any"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "omn_evi",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Antiques/CritChanceSchool"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Omn-Evi",
+            "description": "+60% Amp Critical Chance\n+10% Amp Critical Damage for each <ZENURIK_CLEAN>Zenurik School Mod",
+            "wiki_link": null,
+            "icon": "items/images/en/omn_evi.e94fa423079abe78cc22f4683875c058.webp",
+            "thumb": "items/images/en/thumbs/omn_evi.e94fa423079abe78cc22f4683875c058.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Омн-Эви",
+            "description": "+60% к шансу критического урона усилителем\n+10% к повреждению от статусного эффекта усилителем за каждый <ZENURIK_CLEAN>модификатор школы Зенурик",
+            "wiki_link": null,
+            "icon": "items/images/ru/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/ru/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "ko": {
+            "item_name": "옴-에비",
+            "description": "+60% 앰프 치명타 확률\n각 <ZENURIK_CLEAN>제누릭 유파 모드 당 +10% 앰프 치명타 피해",
+            "wiki_link": null,
+            "icon": "items/images/ko/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/ko/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "de": {
+            "item_name": "Omn-Evi",
+            "description": "+60 % Verstärker-Krit. Chance\n+10 % Verstärker-Krit. Schaden für jede Mod der <ZENURIK_CLEAN>Zenurik-Schule",
+            "wiki_link": null,
+            "icon": "items/images/de/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/de/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Omn-Evi",
+            "description": "+60% de Chances de Critique d'Amplificateur\n+10% de Dégâts Critiques d'Amplificateur pour chaque Mod de l'École <ZENURIK_CLEAN>Zenurik",
+            "wiki_link": null,
+            "icon": "items/images/fr/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/fr/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Omn-Evi",
+            "description": "+60% de Chance Crítica da Amp.\n+10% de Dano Crítico da Amp para cada Mod da Escola <ZENURIK_CLEAN>Zenurik.",
+            "wiki_link": null,
+            "icon": "items/images/pt/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/pt/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "奥维",
+            "description": "+60% 增幅器暴击几率\n每个 <ZENURIK_CLEAN>Zenurik 学派 Mod 增加 10% 增幅器暴击伤害",
+            "wiki_link": null,
+            "icon": "items/images/zh-hans/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/zh-hans/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "翁伊",
+            "description": "增幅器暴擊機率 +60%\n每個<ZENURIK_CLEAN>Zenurik 學派 MOD，增加增幅器暴擊傷害 10%",
+            "wiki_link": null,
+            "icon": "items/images/zh-hant/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/zh-hant/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "es": {
+            "item_name": "Omn-Evi",
+            "description": "+60 % de probabilidad crítica de amp\n+10 % de daño crítico de amp por cada mod de la escuela <ZENURIK_CLEAN>Zenurik",
+            "wiki_link": null,
+            "icon": "items/images/es/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/es/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "it": {
+            "item_name": "Omn-Evi",
+            "description": "+60% Probabilità Critico Amp\n+10% Danno Critico Amp per ogni Mod Scuola <ZENURIK_CLEAN>Zenurik",
+            "wiki_link": null,
+            "icon": "items/images/it/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/it/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Omn-Evi",
+            "description": "+60% Szansy Obr. Krytycznych Ampa\n+10% Obr. Krytycznych Ampa za każdy <ZENURIK_CLEAN> Mod szkoły Zenurik",
+            "wiki_link": null,
+            "icon": "items/images/pl/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+            "thumb": "items/images/pl/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Омн-Еві",
+            "description": "+60 % до ймовірності критичної шкоди підсилювачем\n+10 % до критичної шкоди підсилювачем за кожен <ZENURIK_CLEAN>модифікатор школи Зенурік",
+            "wiki_link": null,
+            "icon": "items/images/en/omn_evi.e94fa423079abe78cc22f4683875c058.webp",
+            "thumb": "items/images/en/thumbs/omn_evi.e94fa423079abe78cc22f4683875c058.128x128.webp"
+        }
+    },
+    "rarity": "uncommon",
+    "max_rank": 5,
+    "trading_tax": 4000
+}

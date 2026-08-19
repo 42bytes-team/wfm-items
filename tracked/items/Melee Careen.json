@@ -1,0 +1,103 @@
+{
+    "_id": "6939d5e3d6a357b81964f867",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "melee_careen",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Utility/FreezeEnemiesOnRoll"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Melee Careen",
+            "description": "x2.50 Melee Damage against Frozen enemies. On Roll: Freeze enemies in a 5.5m radius with a 2s Cooldown.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Удар В Ближнем Бою",
+            "description": "x2.50 Урон в ближнем бою по замороженным врагам. При броске: Замораживает врагов в радиусе 5.5м с перезарядкой 2с.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "ko": {
+            "item_name": "밀리 커린",
+            "description": "얼어붙은 적에게 2.50배의 근접 피해를 입힙니다. 구르기 시: 5.5m 범위 내 적들에게 냉기 상태 이상을 적용하며 2초의 재사용 대기 시간을 가집니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "de": {
+            "item_name": "Nahkampf: Schlingern",
+            "description": "x2.50 Nahkampfschaden gegen gefrorene Feinde. Beim Rollen: friert Feinde in einem 5.5 m ein, mit 2 s Abklingzeit.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Enthousiasme De Mêlée",
+            "description": "Dégâts de Mêlée x2.50 contre les ennemis gelés. Sur Roulade: gèle les ennemis dans un rayon de 5.5m avec un temps de recharge de 2s.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Arrastão (Armas Brancas)",
+            "description": "Fornecerá x2.50 de Dano Corpo a Corpo contra inimigos congelados. Ao rolar: Congelará os inimigos em um raio de 5.5m, com um tempo de recarga de 2s.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "近战·疾驰",
+            "description": "对被冰冻的敌人造成近战伤害 x2.50。翻滚时：冰冻 5.5 米范围内的敌人，冷却时间为 2 秒。",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "近戰牽滯",
+            "description": "對冰凍狀態的敵人造成 2.50 倍近戰傷害。翻滾時，冰凍 5.5 公尺範圍內的敵人，冷卻時間 2 秒。",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "es": {
+            "item_name": "Arrastre Cuerpo A Cuerpo",
+            "description": "x2.50 de daño cuerpo a cuerpo contra enemigos congelados. Al rodar: el frío congela a los enemigos en un radio de 5.5 m con un tiempo de espera de 2 s.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "it": {
+            "item_name": "Melee Careen",
+            "description": "x2.50 Danno Corpo a Corpo contro i nemici congelati. Durante la Rotolata: Congela i nemici in un raggio di 5.5m con un Tempo di Recupero di 2s.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Zimna Fuzja Broni Białej",
+            "description": "x2.50 Obrażeń Broni białej przeciwko Zamrożonym wrogom. Przewrót: Zamraża wrogów w zasięgu 5.5 m. Czas odnowienia: 2 s.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Рукопашне Притягування",
+            "description": "x2.50 шкоди від холодної зброї проти заморожених ворогів. Під час перекочування: Заморожує ворогів у радіусі 5.5 м. Час перезаряджання: 2 с.",
+            "wiki_link": null,
+            "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+            "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

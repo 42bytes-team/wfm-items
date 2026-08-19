@@ -56,7 +56,7 @@
         },
         "zh-hans": {
             "item_name": "前纪 T7 遗物",
-            "description": "一个包含着 Orokin 秘密的神器。它只能通过虚空之力来打开。",
+            "description": "一个包含着奥罗金秘密的神器。它只能通过虚空之力来打开。",
             "wiki_link": null,
             "icon": "items/images/en/meso_t7_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
             "thumb": "items/images/en/thumbs/meso_t7_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
@@ -103,6 +103,6 @@
         "flawless",
         "radiant"
     ],
-    "vaulted": false,
+    "vaulted": true,
     "trading_tax": 2000
 }

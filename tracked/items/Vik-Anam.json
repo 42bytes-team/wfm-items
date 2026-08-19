@@ -1,0 +1,104 @@
+{
+    "_id": "693e6b6b03903ae8993ffb0e",
+    "tags": [
+        "mod",
+        "uncommon",
+        "any"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "vik_anam",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Antiques/AmmoSchool"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Vik-Anam",
+            "description": "+30% Maximum Amp Energy\n+5% Amp Energy Regen Rate for each <MADURAI_CLEAN>Madurai School Mod",
+            "wiki_link": null,
+            "icon": "items/images/en/vik_anam.aaa1420bbdd10329ec97469f7c6ccaf5.webp",
+            "thumb": "items/images/en/thumbs/vik_anam.aaa1420bbdd10329ec97469f7c6ccaf5.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Вик-Анам",
+            "description": "+30% к максимальной энергии усилителя\n+5% к скорости восстановления энергии усилителя за каждый <MADURAI_CLEAN>модификатор школы Мадурай",
+            "wiki_link": null,
+            "icon": "items/images/ru/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/ru/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "ko": {
+            "item_name": "비크-아남",
+            "description": "+30% 최대 앰프 에너지\n각 <MADURAI_CLEAN>마두라이 유파 모드 당 +5% 앰프 에너지 재생률",
+            "wiki_link": null,
+            "icon": "items/images/ko/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/ko/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "de": {
+            "item_name": "Vik-Anam",
+            "description": "+30 % max. Verstärker-Energie\n+5 % Verstärker-Energie-Regenerationsrate für jede Mod der <MADURAI_CLEAN>Madurai-Schule",
+            "wiki_link": null,
+            "icon": "items/images/de/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/de/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Vik-Anam",
+            "description": "+30% Énergie Max d'Amplificateur\n+5% de taux de régénération d'Énergie d'Amplificateur pour chaque Mod de l'École <MADURAI_CLEAN>Madurai",
+            "wiki_link": null,
+            "icon": "items/images/fr/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/fr/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Vik-Anam",
+            "description": "+30% de Energia Máxima da Amp.\n+5% de Taxa de Regeneração de Energia da Amp para cada Mod da Escola <MADURAI_CLEAN>Madurai.",
+            "wiki_link": null,
+            "icon": "items/images/pt/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/pt/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "维南",
+            "description": "+30% 最大增幅器能量\n每个 <MADURAI_CLEAN>Madurai 学派 Mod 增加 5% 增幅器能量恢复速率",
+            "wiki_link": null,
+            "icon": "items/images/zh-hans/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/zh-hans/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "維安",
+            "description": "增幅器最大能量 +30%\n每個<MADURAI_CLEAN>Madurai 學派 MOD，增加增幅器能量恢復率 5%",
+            "wiki_link": null,
+            "icon": "items/images/zh-hant/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/zh-hant/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "es": {
+            "item_name": "Vik-Anam",
+            "description": "+30 % de energía máxima de amp\n+5 % de tasa de regeneración de energía de amp para cada mod de la escuela <MADURAI_CLEAN>Madurai",
+            "wiki_link": null,
+            "icon": "items/images/es/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/es/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "it": {
+            "item_name": "Vik-Anam",
+            "description": "+30% Energia Massima Amp\n+5% Tasso di Rigenerazione dell'Energia Amp per ogni Mod Scuola <MADURAI_CLEAN>Madurai",
+            "wiki_link": null,
+            "icon": "items/images/it/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/it/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Vik-Anam",
+            "description": "+30% Maks. Energii Ampa\n+5% Regeneracji Energii Ampa za każdy <MADURAI_CLEAN> Mod szkoły Madurai",
+            "wiki_link": null,
+            "icon": "items/images/pl/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+            "thumb": "items/images/pl/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Вік-Анам",
+            "description": "+30 % до максимальної енергії підсилювача\n+5 % до швидкості відновлення енергії підсилювача за кожен <MADURAI_CLEAN>модифікатор школи Мадурай",
+            "wiki_link": null,
+            "icon": "items/images/en/vik_anam.aaa1420bbdd10329ec97469f7c6ccaf5.webp",
+            "thumb": "items/images/en/thumbs/vik_anam.aaa1420bbdd10329ec97469f7c6ccaf5.128x128.webp"
+        }
+    },
+    "rarity": "uncommon",
+    "max_rank": 5,
+    "trading_tax": 4000
+}

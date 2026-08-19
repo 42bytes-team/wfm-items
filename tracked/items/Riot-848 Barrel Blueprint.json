@@ -1,0 +1,112 @@
+{
+    "_id": "67e40053cedcd0be6d13592b",
+    "tags": [
+        "weapon",
+        "component",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+    "url_name": "riot_848_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/1999EntHybridPistolBarrelBlueprint"
+    },
+    "part_of_set": [
+        "riot_848_set",
+        "riot_848_barrel",
+        "riot_848_receiver",
+        "riot_848_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Riot-848 Barrel Blueprint",
+            "description": "A weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Мятеж-848: Ствол (Чертеж)",
+            "description": "Компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "ko": {
+            "item_name": "라이엇-848 배럴 설계도",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "de": {
+            "item_name": "Riot-848: Lauf Blaupause",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Riot-848 - Canon (Schéma)",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Riot-848: Cano (Diagrama)",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "暴乱-848 枪管 蓝图",
+            "description": "一个武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "暴動－848 槍管 藍圖",
+            "description": "製作武器的部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "es": {
+            "item_name": "Plano de Cañón De Riot-848",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "it": {
+            "item_name": "Riot-848 - Canna (Schema)",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Riot-848: Lufa - Schemat",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Бунт-848: Ствол (кресленик)",
+            "description": "Деталь зброї.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_barrel.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 2000
+}

@@ -1,0 +1,103 @@
+{
+    "_id": "6939d5e0d6a357b81964f865",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "primary_debilitate",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SplitStatusProcsOnStackedStatusHit"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Primary Debilitate",
+            "description": "If an enemy has 10 stacks of a combined Status Effect, inflicting the same Status Effect again has a 100% chance to inflict one of the base Status Effects it is composed of.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Основное Ослабление",
+            "description": "Если у противника есть 10 стеков комбинированного Эффект Статуса, повторное нанесение того же Эффект Статуса имеет 100% шанс нанести один из базовых Эффектов Статуса, из которых он состоит.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "ko": {
+            "item_name": "프라이머리 디빌리테이트",
+            "description": "적이 조합 상태 이상 효과를 10 중첩 보유하고 있는 경우, 동일한 상태 이상 효과를 다시 가할 시 100%의 확률로 해당 속성을 상태 이상을 구성하는 기본 상태 이상 효과 중 하나를 가할 수 있습니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Primäre Schwächung",
+            "description": "Hat ein Feind 10 Stapel eines kombinierten Statuseffekts, hat das Zufügen desselben Statuseffekts eine 100 % Chance, einen der Basis-Statuseffekte zuzufügen, aus denen er besteht.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Affaiblissement - Principale",
+            "description": "Si un ennemi a 10 cumuls d'un Effet de Statut combiné, infliger à nouveau le même Effet de Statut a 100% de chances d'infliger l'un des Effets de Statut de base qui le composent.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Debilitação (Armas Primárias)",
+            "description": "Se um inimigo tiver 10 acúmulos de um Efeito de Status combinado, infligir o mesmo efeito novamente terá 100% de chance de infligir um dos Efeitos de Status dos elementos base que o compõem.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "主要·衰弱",
+            "description": "如果敌人身上叠加了 10 层复合异常状态，再次造成相同的异常状态有 100% 的几率施加组成该异常状态的基础异常状态之一。",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "主要衰化",
+            "description": "如果敵人身上已有 10 層複合狀態效果，再次觸發相同的狀態效果時，有 100% 機率觸發其所構成的其中一種基礎狀態效果。",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "es": {
+            "item_name": "Debilitación Primaria",
+            "description": "Si un enemigo tiene 10 acumulaciones de un efecto de estado combinado, infligir el mismo efecto de estado nuevamente tiene un 100 % de probabilidad de infligir uno de los efectos de estado base que lo componen.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "it": {
+            "item_name": "Primary Debilitate",
+            "description": "Se un nemico ha 10 cariche di Effetto combinato, infliggere di nuovo lo stesso Effetto ha una 100% di probabilità di infliggere uno degli Effetti di cui è composto.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Arkanum Rozkładu",
+            "description": "Kiedy na wrogu nałożone są Efekty Statusu: 10 połączonych obrażeń, nałożenie kolejnego takiego Efektu Statusu ma 100% szansy na nałożenie Efektu Statusu jednego ze składowych typów obrażeń.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Основна Неприємність",
+            "description": "Якщо ворог має 10 накопичення поєднаного ефекту стану, повторне накладання того ж ефекту стану має 100 % імовірності накласти один із базових ефектів стану, з яких цей складається.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+            "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

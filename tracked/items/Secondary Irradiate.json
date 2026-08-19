@@ -1,0 +1,103 @@
+{
+    "_id": "6939d5ded6a357b81964f864",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "secondary_irradiate",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/RadialDamageOnMaxRadiationStackHit"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Secondary Irradiate",
+            "description": "On hitting enemies afflicted by 10 stacks of Radiation: Deal 180% of the hit damage to enemies within 7m.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Вторичное Облучение",
+            "description": "При поражении врагов, пораженных 10 стеками Радиации: наносит 180% от урона удара врагам в пределах 7м.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "ko": {
+            "item_name": "세컨더리 이레디에이트",
+            "description": "10중첩의 방사능 상태 이상 효과를 받는 적을 타격할 시: 7m 범위 내의 적에게 공격 피해의 180%만큼 피해를 입힙니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Sekundäre Bestrahlung",
+            "description": "Werden Gegner mit 10 Stapeln von Strahlung getroffen, wird Gegnern innerhalb von 7 m 180 % des Trefferschadens zugefügt.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Irradiation - Secondaire",
+            "description": "Frapper des ennemis subissant 10 charges de Dégâts de Radiations inflige 180% des Dégâts du coup aux ennemis dans un rayon de 7m.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Irradiação (Armas Secundárias)",
+            "description": "Ao atingir inimigos afetados por 10 acúmulos do Efeito de Status Radioativo: causará 180% do dano do ataque em todos os inimigos dentro de 7m.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "次要·照射",
+            "description": "命中受到 10 层 辐射影响的敌人时：对 7 米范围内的敌人造成 180% 的命中伤害。",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "次要輻照",
+            "description": "命中受到 10 疊輻射狀態效果影響的敵人時，對 7 公尺內的敵人造成命中傷害 180% 的傷害。",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "es": {
+            "item_name": "Irradiación Secundaria",
+            "description": "Al golpear a enemigos afectados por 10 acumulaciones de radiación: inflige un 180 % del daño del golpe a los enemigos dentro de 7 m.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "it": {
+            "item_name": "Secondary Irradiate",
+            "description": "Al colpire i nemici afflitti da 10 cariche di Radiazione: Infligge il 180% del danno da colpo ai nemici entro 7m.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Napromieniowanie Broni Bocznej",
+            "description": "Przy trafieniu wrogów dotkniętych 10 instancjami Efektu Statusu Obr. Radiacyjnych: zadaj 180% obrażeń wszystkim wrogom w zasięgu 7 m.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Допоміжне Опромінення",
+            "description": "Із влучанням у ворога з 10 накопиченнями радіації: 180 % від шкоди влучання завдасться ворогам у межах 7 м.",
+            "wiki_link": null,
+            "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+            "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

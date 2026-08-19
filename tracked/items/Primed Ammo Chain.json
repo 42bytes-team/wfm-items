@@ -1,0 +1,106 @@
+{
+    "_id": "69988d58bdd67bd33c02704b",
+    "tags": [
+        "primary",
+        "archwing",
+        "legendary",
+        "mod",
+        "archgun"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "primed_ammo_chain",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleAmmoMaxModExpert"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Primed Ammo Chain",
+            "description": "+165% Ammo Maximum",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Цепь Боеприпасов Прайм",
+            "description": "+165% максимум патронов",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "ko": {
+            "item_name": "프라임드 애모 체인",
+            "description": "+165% 탄약 최대량",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "de": {
+            "item_name": "Primed Munitionsgurt",
+            "description": "+165 % Maximale Munition",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Chaîne De Balles Accrue",
+            "description": "+165% de Munitions Max",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Primed Ammo Chain",
+            "description": "+165% de Munição Máxima",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "弹链 Prime",
+            "description": "+165% 弹药最大值",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "彈鏈 Prime",
+            "description": "+165% 彈藥最大值",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "es": {
+            "item_name": "Cadena De Munición Prime",
+            "description": "+165% de munición máxima",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "it": {
+            "item_name": "Primed Ammo Chain",
+            "description": "+165% Munizioni Massime",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Taśma Amunicyjna Prime",
+            "description": "+165% Maks. Amunicji",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Праймована Лента За Лентою",
+            "description": "+165 % до максимуму боєзапасу",
+            "wiki_link": null,
+            "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+            "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+        }
+    },
+    "rarity": "legendary",
+    "max_rank": 10,
+    "trading_tax": 1000000
+}

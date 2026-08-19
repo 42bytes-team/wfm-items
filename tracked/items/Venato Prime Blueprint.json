@@ -1,0 +1,102 @@
+{
+    "_id": "68add0fa731e63abe79a5d1c",
+    "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "venato_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/VentoPrimeBlueprint"
+    },
+    "part_of_set": [
+        "venato_prime_blade",
+        "venato_prime_blueprint",
+        "venato_prime_handle",
+        "venato_prime_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Venato Prime Blueprint",
+            "description": "Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against “common enemies” of the united peoples – had any ever emerged from the darkness beyond Tau.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "ru": {
+            "item_name": "Венато Прайм (Чертеж)",
+            "description": "Изготовленная из добровольно пожертвованной кости Владеющего Разумом Ур-Хато и украшенная орокинским люксуратором Сембиком Волом, коса Венато Прайм должна была быть использована против «общих врагов» объединённых народов, если таковые когда-либо появлялись из тьмы за пределами Тау.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "ko": {
+            "item_name": "베나토 프라임 설계도",
+            "description": "센티언트 우르-하토가 자발적으로 내놓은 뼈를 재료로, 오로킨의 호화 장인 셈빅 볼이 장식한 베나토 프라임은 통합된 양 측 사람들의 '공공의 적'에 대항해 사용될 예정이었습니다. – 타우 너머의 어둠에서 그런 존재가 나타나기라도 한다면, 말이지요.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "de": {
+            "item_name": "Venato Prime Blaupause",
+            "description": "Venato Prime wurde aus den freiwillig gespendeten Knochen des Sentients Ur-Hatho gefertigt und von Sembik Vol, einem Luxorator der Orokin, verschönert. Es sollte gegen die 'gemeinsamen Feinde' der vereinten Völker eingesetzt werden – sollten jemals welche aus der Dunkelheit jenseits von Tau aufgetaucht sein.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "fr": {
+            "item_name": "Venato Prime (Schéma)",
+            "description": "Fabriqué à partir des os volontairement donnés par le Sentient Ur-Hatho et embelli par le luxurateur Orokin Sembik Vol, le Venato Prime devait être utilisé contre les 'ennemis communs' des peuples unis – si jamais certains devaient émerger des ténèbres au-delà de Tau.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "pt": {
+            "item_name": "Venato Prime (Diagrama)",
+            "description": "Feita a partir do osso doado voluntariamente pelo Sentient Ur-Hatho e embelezada pelo luxurador Orokin, Sembik Vol, a Venato Prime nasceu para ser usada contra 'inimigos comuns' do povo, caso algum emergisse da escuridão além de Tau.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "zh-hans": {
+            "item_name": "脉纹 Prime 蓝图",
+            "description": "(英文：VENATO PRIME) 由 Sentient Ur-Hatho 自愿捐献的骨骼打造，并由奥罗金奢华工匠森比克·沃尔精心装饰，脉纹 Prime 本应被用于对抗联盟的“共同敌人”——任何从 Tau 之外的黑暗中现身的人。",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "zh-hant": {
+            "item_name": "威拿托 Prime 藍圖",
+            "description": "（英文：VENATO PRIME）由 Sentient 嗚哈嗦自願捐出的骨骼所打造，並經由 Orokin 奢華工匠──參比・沃精雕細琢，威拿托 Prime 原本預備用於對付同盟的「共敵」──只不過，從桃源彼岸的黑暗中從未現過身。",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "es": {
+            "item_name": "Plano de Venato Prime",
+            "description": "Fabricada a partir de los huesos voluntariamente donados del consciente Ur-Hatho y embellecida por el engalanador orokin Sembik Vol, la Venato Prime debía usarse contra los 'enemigos comunes' de los pueblos unidos, si alguna vez emergía alguno de la oscuridad más allá de Tau.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "it": {
+            "item_name": "Venato Prime (Schema)",
+            "description": "Modellata dalle ossa volontariamente donate dal Sentient Ur-Hatho e abbellita dall'Orokin Sembik Vol, la Venato Prime doveva essere brandita contro i 'nemici comuni' dei popoli uniti - qualora ne fosse mai emersa una dall'oscurità oltre Tau.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "pl": {
+            "item_name": "Venato Prime - Schemat",
+            "description": "Kosa Venato Prime, której formę nadała dobrowolnie ofiarowana kość Ur-Hatho, a następnie ozdobił ją dekorator Orokin, Sembik Vol, była przeznaczona do zwalczania 'wspólnych wrogów' zjednoczonych narodów, gdyby takowi wyłonili się z ciemności czyhających poza Tau.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "uk": {
+            "item_name": "Венато-Прайм (кресленик)",
+            "description": "Венато-прайм виготовлено з добровільно пожертвуваної кістки свідомого Ур-Гатго й прикрашено орокінським різьбярем Сембіком Волом. Зброя мала використовуватися супроти «спільних ворогів» об’єднаних народів, якби такі виринули з темряви довкола Тау.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        }
+    },
+    "mastery_level": 14,
+    "ducats": 45,
+    "trading_tax": 2000
+}

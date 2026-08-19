@@ -43,7 +43,7 @@
         },
         "fr": {
             "item_name": "Flux Archonte",
-            "description": "+185% d'Énergie Max\nLes ennemis éliminés par des Pouvoirs de Glace ont 10% de laisser tomber un Orbe d'Énergie. Temps de recharge: 10s.",
+            "description": "+185% d'Énergie Max\nLes ennemis éliminés par des Pouvoirs de Glace ont 10% de chances de laisser tomber un Orbe d'Énergie. Temps de recharge: 10s.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Flux_Archonte",
             "icon": "items/images/en/archon_flow.9f720d15c3cf1d9fbd3506e7bee5bd67.png",
             "thumb": "items/images/en/thumbs/archon_flow.9f720d15c3cf1d9fbd3506e7bee5bd67.128x128.png"
@@ -99,6 +99,6 @@
         }
     },
     "rarity": "archon",
-    "max_rank": 10.0,
+    "max_rank": 10,
     "trading_tax": 1000000
 }

@@ -1,0 +1,103 @@
+{
+    "_id": "6939d5dcd6a357b81964f862",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "primary_bulwark",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/DamageForBonusArmour"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Primary Bulwark",
+            "description": "Gain +1% damage for each unit of armor past 1,000, up to a max of +500%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Основной Бруствер",
+            "description": "Увеличьте урон на +1% за каждую единицу брони сверх 1,000, вплоть до максимального значения +500%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "ko": {
+            "item_name": "프라이머리 불워크",
+            "description": "1,000 이상의 방어력을 갖추고 있을 시, 초과하는 방어력 단위마다 +1%의 피해량이 증가합니다. 최대 500%까지 증가합니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Primäres Bollwerk",
+            "description": "Gewährt +1 % Schaden für jede Rüstungseinheit über 1,000 hinaus, bis zu einem Maximum von +500 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Rempart Principal",
+            "description": "Gagnez +1% de Dégâts pour chaque unité d'Armure au-delà de 1,000, jusqu'à un max de +500%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Baluarte (Armas Primárias)",
+            "description": "Fornecerá +1% de dano para cada unidade de Armadura acima de 1,000, até o limite de +500%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "主要·堡垒",
+            "description": "超过 1,000 护甲值的每一点护甲，增加 1% 伤害，最高可增加 500%。",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "主要壁壘",
+            "description": "超過 1,000 護甲的每一點護甲，增加傷害 1%，最高可達 500%。",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "es": {
+            "item_name": "Baluarte Principal",
+            "description": "Gana +1 % de daño por cada unidad de armadura que supere 1,000, hasta un máximo de +500 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "it": {
+            "item_name": "Primary Bulwark",
+            "description": "Ottieni +1% di danno per ogni unità di armatura oltre 1,000, fino a un massimo di +500%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Bastion Broni Głównej",
+            "description": "Zyskaj +1% obrażeń za każdą jednostkę Pancerza ponad 1,000, do maks +500%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Основний Вал",
+            "description": "Отримайте +1 % від шкоди за кожну одиницю захисту понад 1,000. До +500 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+            "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

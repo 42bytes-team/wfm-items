@@ -1,0 +1,104 @@
+{
+    "_id": "693e6afd03903ae8993ffb08",
+    "tags": [
+        "mod",
+        "common",
+        "any"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "hok_kaal",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Antiques/DamageWhileInvisible"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Hok-Kaal",
+            "description": "After using Void Mode, the next Amp attack deals x3.0 bonus damage (cooldown 5s)",
+            "wiki_link": null,
+            "icon": "items/images/en/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.webp",
+            "thumb": "items/images/en/thumbs/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Хок-Каал",
+            "description": "После перехода в Режим Бездны следующая атака с усилителя наносит x3.0 дополнительный урон (восстановление 5 с)",
+            "wiki_link": null,
+            "icon": "items/images/ru/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/ru/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "ko": {
+            "item_name": "호크-칼",
+            "description": "보이드 모드 사용 후 다음 앰프 공격 시 x3.0 보너스 피해 부여 (재사용 대기 시간 5초)",
+            "wiki_link": null,
+            "icon": "items/images/ko/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/ko/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "de": {
+            "item_name": "Hok-Kaal",
+            "description": "Nach dem Void-Modus verursacht der nächste Verstärker-Angriff x3.0 Bonusschaden (5 s Abklingzeit)",
+            "wiki_link": null,
+            "icon": "items/images/de/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/de/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Hok-Kaal",
+            "description": "Après avoir utilisé le Mode Néant, la prochaine attaque d'Amplificateur inflige des Dégâts bonus x3.0 (temps de recharge 5s)",
+            "wiki_link": null,
+            "icon": "items/images/fr/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/fr/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Hok-Kaal",
+            "description": "Após usar o Modo Void, o próximo ataque da Amp causará 3.0x de dano de bônus (Tempo de Recarga: 5s).",
+            "wiki_link": null,
+            "icon": "items/images/pt/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/pt/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "霍卡",
+            "description": "使用虚空模式后，下一次增幅器攻击会造成 x3.0 额外伤害（冷却时间 5 秒）",
+            "wiki_link": null,
+            "icon": "items/images/zh-hans/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/zh-hans/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "霍卡",
+            "description": "使用虛空模式後，下一次增幅器攻擊造成 3.0 倍額外傷害（冷卻時間 5 秒）",
+            "wiki_link": null,
+            "icon": "items/images/zh-hant/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/zh-hant/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "es": {
+            "item_name": "Hok-Kaal",
+            "description": "Después de usar el modo del Vacío, el siguiente ataque de amp infligirá x3.0 de daño adicional (tiempo de espera: 5 s)",
+            "wiki_link": null,
+            "icon": "items/images/es/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/es/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "it": {
+            "item_name": "Hok-Kaal",
+            "description": "Dopo aver utilizzato la Modalità Void, il prossimo attacco Amp infligge x3.0 danno bonus (tempo di recupero 5s)",
+            "wiki_link": null,
+            "icon": "items/images/it/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+            "thumb": "items/images/it/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Hok-Kaal",
+            "description": "Po użyciu Trybu Pustki następny atak Ampem zadaje dodatkowe x3.0 obrażeń (czas odnowienia 5 s).",
+            "wiki_link": null,
+            "icon": "items/images/en/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.webp",
+            "thumb": "items/images/en/thumbs/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Гок-Каал",
+            "description": "Після переходу в Порожнечу наступна атака з підсилювача завдає x3.0 додаткової шкоди. Час перезаряджання: 5 с",
+            "wiki_link": null,
+            "icon": "items/images/en/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.webp",
+            "thumb": "items/images/en/thumbs/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.128x128.webp"
+        }
+    },
+    "rarity": "common",
+    "max_rank": 5,
+    "trading_tax": 2000
+}

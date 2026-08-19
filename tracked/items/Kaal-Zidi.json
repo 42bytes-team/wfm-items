@@ -1,0 +1,104 @@
+{
+    "_id": "693e6a7803903ae8993ffb00",
+    "tags": [
+        "mod",
+        "uncommon",
+        "any"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "kaal_zidi",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Antiques/Ghostwalk"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Kaal-Zidi",
+            "description": "+30% Void Mode efficiency\n+5% Movement Speed in Void Mode for each <NARAMON_CLEAN>Naramon School Mod",
+            "wiki_link": null,
+            "icon": "items/images/en/kaal_zidi.edc5a3c1e1630c4a1d8f843529ee5c9c.webp",
+            "thumb": "items/images/en/thumbs/kaal_zidi.edc5a3c1e1630c4a1d8f843529ee5c9c.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Каал-Зиди",
+            "description": "+30% к эффективности в Режиме Бездны\n+5% к скорости передвижения в Режиме Бездны за каждый <NARAMON_CLEAN>модификатора школы Нарамон",
+            "wiki_link": null,
+            "icon": "items/images/ru/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/ru/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "ko": {
+            "item_name": "칼-지디",
+            "description": "+30% 보이드 모드 효율\n각 <NARAMON_CLEAN>나라몬 유파 모드 당 보이드 모드에서 +5% 이동 속도",
+            "wiki_link": null,
+            "icon": "items/images/ko/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/ko/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "de": {
+            "item_name": "Kaal-Zidi",
+            "description": "+30 % Void-Modus-Effizienz\n+5 % Bewegungsgeschwindigkeit im Void-Modus für jede Mod der <NARAMON_CLEAN>Naramon-Schule",
+            "wiki_link": null,
+            "icon": "items/images/de/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/de/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Kaal-Zidi",
+            "description": "+30% d'Efficacité en Mode Néant\n+5% de Vitesse de Mouvement en Mode Néant pour chaque Mod de l'École <NARAMON_CLEAN>Naramon",
+            "wiki_link": null,
+            "icon": "items/images/fr/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/fr/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Kaal-Zidi",
+            "description": "+30% de Eficiência do Modo Void.\n+5% de Velocidade de Movimento no Modo Void para cada Mod da Escola <NARAMON_CLEAN>Naramon.",
+            "wiki_link": null,
+            "icon": "items/images/pt/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/pt/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "卡齐",
+            "description": "+30% 虚空模式效率\n每个 <NARAMON_CLEAN>Naramon 学派 Mod 增加 5% 移动速度",
+            "wiki_link": null,
+            "icon": "items/images/zh-hans/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/zh-hans/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "卡茲",
+            "description": "虛空模式效率 +30%\n每個<NARAMON_CLEAN>Naramon 學派 MOD，增加虛空模式移動速度 5%",
+            "wiki_link": null,
+            "icon": "items/images/zh-hant/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/zh-hant/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "es": {
+            "item_name": "Kaal-Zidi",
+            "description": "+30 % de eficiencia de modo del Vacío\n+5 % de velocidad de movimiento en modo del Vacío por cada mod de la escuela <NARAMON_CLEAN>Naramon",
+            "wiki_link": null,
+            "icon": "items/images/es/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/es/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "it": {
+            "item_name": "Kaal-Zidi",
+            "description": "+30% Efficienza Void Mode\n+5% Velocità di Movimento in Modalità Void per ogni Mod Scuola <NARAMON_CLEAN>Naramon",
+            "wiki_link": null,
+            "icon": "items/images/it/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/it/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Kaal-Zidi",
+            "description": "+30% Wydajności Trybu Pustki\n+5% Prędkości Poruszania w Trybie Pustki za każdy <NARAMON_CLEAN> Mod szkoły Naramon",
+            "wiki_link": null,
+            "icon": "items/images/pl/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+            "thumb": "items/images/pl/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Каал-Зіді",
+            "description": "+30 % до ощадливості Переходу в Порожнечу\n+5 % до швидкості руху після Переходу в Порожнечу за кожен <NARAMON_CLEAN>модифікатор школи Нарамон",
+            "wiki_link": null,
+            "icon": "items/images/en/kaal_zidi.edc5a3c1e1630c4a1d8f843529ee5c9c.webp",
+            "thumb": "items/images/en/thumbs/kaal_zidi.edc5a3c1e1630c4a1d8f843529ee5c9c.128x128.webp"
+        }
+    },
+    "rarity": "uncommon",
+    "max_rank": 5,
+    "trading_tax": 4000
+}

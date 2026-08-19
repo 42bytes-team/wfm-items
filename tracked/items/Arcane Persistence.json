@@ -1,0 +1,103 @@
+{
+    "_id": "6939d5d8d6a357b81964f85f",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "arcane_persistence",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MaxDPSTakenForArmour"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Arcane Persistence",
+            "description": "Remove all Shields. If Armor is above 700: Cannot be hit for more than 500 Damage/s. Magnetic Status and Ability Nullifying Effects disable this protection.\n+1 Arcane Revive\n+1 Arcane Revive",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Мистическая Устойчивость",
+            "description": "Снимите все щиты. Если броня выше 700: урон не может превышать 500/с. Эффекты статуса магнита и обнуляющий эффект способностей отключают эту защиту.\n+1 Мистическое Воскрешение\n+1 Мистическое Воскрешение",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "ko": {
+            "item_name": "아케인 퍼시스턴스",
+            "description": "모든 실드를 제거합니다. 방어력이 700 이상일 경우: 초당 500 이상의 피해를 입지 않게 됩니다. 자성 상태 이상 및 어빌리티 무효화 효과가 적용될 시 이 보호 효과가 작동하지 않게 됩니다.\n+1 아케인 부활\n+1 아케인 부활",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Beständigkeit",
+            "description": "Alle Schilde werden entfernt. Ist Rüstung höher als 700: erhält man nicht mehr Schaden als 500 Schaden/s. Magnetismus-Status und Nullfeld-Effekte setzen diesen Schutz aus.\n+1 Arkana Wiederbelebung\n+1 Arkana Wiederbelebung",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Arcane Persistance",
+            "description": "Supprime tous les Boucliers. Si l'Armure est supérieure à 700: les Dégâts subis ne peuvent pas dépasser 500 de Dégâts/s. Les Effets de Statut Magnétique et des Bulles Zéro désactivent cette protection.\n+1 Réanimation Arcane\n+1 Réanimation Arcane",
+            "wiki_link": "https://warframe.fandom.com/fr/wiki/Arcane_R%C3%A9sistance",
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Persistência Arcana",
+            "description": "Removerá todos os escudos. Se sua Armadura for superior a 700, você não sofrerá mais do que 500 de dano/s. Efeitos de Status Magnéticos e de Anulação de Habilidades desativarão essa proteção.\n+1 Reanimação Arcana\n+1 Reanimação Arcana",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "赋能·坚韧",
+            "description": "移除所有护盾。如果护甲值高于 700：每秒受到的伤害不会超过 500。磁力异常状态和技能无效化效果会停用这层保护。\n赋能复活次数 +1\n赋能复活次数 +1",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "堅毅賦能",
+            "description": "移除所有護盾。若護甲值高於 700，受到的傷害每秒不超過 500。磁力狀態及技能消除效果停用這層保護。\n賦能復活次數 +1\n賦能復活次數 +1",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "es": {
+            "item_name": "Persistencia Arcana",
+            "description": "Elimina todos los escudos. Si la armadura está arriba de 700: no se puede recibir más de 500 daño/s. Los efectos de estado magnético y anulación de habilidades desactivan esta protección.\n+1 Revivir Arcano\n+1 Revivir Arcano",
+            "wiki_link": "https://warframe.fandom.com/es/wiki/Resistencia_arcana",
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "it": {
+            "item_name": "Arcane Persistence",
+            "description": "Elimina tutti gli Scudi. Se l'Armatura è superiore a 700: Non è possibile subire un colpo che infligge più di 500 Danno/s. L'Effetto Magnetico e gli Effetti di Annullamento delle Abilità disattivano questa protezione.\n+1 Rianimazione Arcane\n+1 Rianimazione Arcane",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Arkanum Wytrwałości",
+            "description": "Usuwa wszystkie Tarcze. Kiedy Pancerz przekracza 700: otrzymane obrażenia nie mogą przekroczyć wartości 500 obrażeń na sekundę. Efekt Statusu Obr. Magnetycznych i Niwelacja Umiejętności wyłączają ten efekt.\n+1 Wskrzeszenie Arkanum\n+1 Wskrzeszenie Arkanum",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Містична Наполегливість",
+            "description": "Усі щити вилучаються. Якщо захист понад 700: не можна отримати більше ніж 500 шкоди за секунду. Магнетичний ефект стану та здібності, що скасовують ефекти, прибирають цей захист.\n+1 містичне відродження.\n+1 містичне відродження.",
+            "wiki_link": null,
+            "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+            "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

@@ -1,0 +1,113 @@
+{
+    "_id": "6939aa405d9ebda239125d25",
+    "tags": [
+        "warframe",
+        "prime",
+        "set"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "gyre_prime_set",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Powersuits/Gyre/GyrePrime",
+        "type": "set"
+    },
+    "part_of_set": [
+        "gyre_prime_blueprint",
+        "gyre_prime_chassis_blueprint",
+        "gyre_prime_neuroptics_blueprint",
+        "gyre_prime_set",
+        "gyre_prime_systems_blueprint"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "Gyre Prime Set",
+            "description": "Gilded circuits spark and energize frenetic movements that echo through the ages. Dance into eternity with Gyre Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Джайра Прайм: Комплект",
+            "description": "Позолоченные цепи вспыхивают и питают неистовые движения, чей ритм отзывается сквозь века. Танцуйте в вечности вместе с Джайрой Прайм.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "ko": {
+            "item_name": "자이어 프라임 세트",
+            "description": "금빛으로 도금된 회로가 불꽃을 내뿜으며, 시대를 넘어 울려퍼지는 광란의 움직임에 동력을 불어넣습니다. 자이어 프라임과 함께 영원 속으로 춤을 추어 보세요.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "de": {
+            "item_name": "Gyre Prime: Set",
+            "description": "Güldene Schaltkreise schlagen Funken und beleben frenetische Bewegungen, welche durch die Zeiten hallen. Tanze mit Gyre Prime in die Ewigkeit.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Gyre Prime - Set",
+            "description": "Des circuits dorés activent et dynamisent des mouvements frénétiques résonnant à travers les âges. Dansez pour l'éternité avec Gyre Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Gyre Prime: Conjunto",
+            "description": "Circuitos áureos alimentam movimentos frenéticos que ecoam através das eras. Dance rumo à eternidade com a Gyre Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "Gyre Prime 一套",
+            "description": "镀金电路闪烁着能量，驱动着穿越时空的狂乱舞步。与 Gyre Prime 一起舞向永恒。",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "Gyre Prime 一套",
+            "description": "鍍金的電路竄出火花，為狂亂的律動注入能量，穿越時代迴盪。與 Gyre Prime 共舞邁入永恆。",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "es": {
+            "item_name": "Set de Gyre Prime",
+            "description": "Los circuitos dorados activan y energizan movimientos frenéticos que resuenan a través de los tiempos. Baila con Gyre Prime hacia la eternidad.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "it": {
+            "item_name": "Gyre Prime Set",
+            "description": "Circuiti dorati accendono e danno energia a movimenti frenetici che riecheggiano nei secoli. Danza verso l'eternità con Gyre Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Gyre Prime: Zestaw",
+            "description": "Pozłacane obwody rozpalają i napędzają żywiołowe ruchy, które rezonują przez wieki. Wejdź tanecznym krokiem w wieczność z Gyre Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Джайра-Прайм (комплект)",
+            "description": "Позолочені схеми спалахують іскрами та заряджають енергійні шалені руки, які відлунюють крізь віки. Танцюйте вічно з Джайрою-прайм.",
+            "wiki_link": null,
+            "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+            "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        }
+    },
+    "mastery_level": 0,
+    "ducats": 205,
+    "trading_tax": 8000
+}

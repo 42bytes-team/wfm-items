@@ -1,0 +1,104 @@
+{
+    "_id": "693e660b03903ae8993ffaf0",
+    "tags": [
+        "mod",
+        "rare",
+        "any"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "empazu_shol",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Antiques/UltimateInitialChargeSchools"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Empazu-Shol",
+            "description": "+12% Tauron Strike Initial Charge.\n+2% bonus for each Mod from a unique School",
+            "wiki_link": null,
+            "icon": "items/images/en/empazu_shol.6043bd6b8c9b40dd3bf6aa9b0cc0cc50.webp",
+            "thumb": "items/images/en/thumbs/empazu_shol.6043bd6b8c9b40dd3bf6aa9b0cc0cc50.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Эмпазу-Шол",
+            "description": "+12% к скорости зарядки Начального заряда.\n+2% дополнительно за каждый мод уникальной Школы",
+            "wiki_link": null,
+            "icon": "items/images/ru/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/ru/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "ko": {
+            "item_name": "엠파주-숄",
+            "description": "+12% 타우론 일격 초반 충전율.\n고유한 유파로부터의 각 모드마다 +2% 보너스를 획득",
+            "wiki_link": null,
+            "icon": "items/images/ko/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/ko/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "de": {
+            "item_name": "Empazu-Shol",
+            "description": "+12 % Tauron-Schlag-Anfangsladung\n+2 % Bonus für jede Mod einer bestimmten Schule",
+            "wiki_link": null,
+            "icon": "items/images/de/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/de/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Empazu-Shol",
+            "description": "+12% de charge initiale de Frappe Tauron\n+2% bonus pour chaque Mod d'une École unique",
+            "wiki_link": null,
+            "icon": "items/images/fr/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/fr/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Empazu-Shol",
+            "description": "+12% de Carga Inicial da Ofensiva Tauron.\n+2% de bônus para cada Mod de uma Escola diferente.",
+            "wiki_link": null,
+            "icon": "items/images/pt/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/pt/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "恩肖",
+            "description": "增加 12% Tauron 打击初始充能。\n每种独特学派的 Mod 可获得 +2% 的加成",
+            "wiki_link": null,
+            "icon": "items/images/zh-hans/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/zh-hans/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "恩修",
+            "description": "增加桃擊初始充能 12%\n每個獨特學派的 MOD，獲得 2% 加成",
+            "wiki_link": null,
+            "icon": "items/images/zh-hant/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/zh-hant/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "es": {
+            "item_name": "Empazu-Shol",
+            "description": "+12 % de carga inicial de Ataque Tauron.\n+2 % de bonificación por cada mod de una escuela única",
+            "wiki_link": null,
+            "icon": "items/images/es/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/es/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "it": {
+            "item_name": "Empazu-Shol",
+            "description": "+12% Carica Iniziale Colpo Tauron.\n+2% bonus per ogni Mod da una Scuola unica",
+            "wiki_link": null,
+            "icon": "items/images/it/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/it/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Empazu-Shol",
+            "description": "+12% Początkowego Naładowania Ataku Tauronu.\n+2% premii za każdy Mod z innej szkoły",
+            "wiki_link": null,
+            "icon": "items/images/pl/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+            "thumb": "items/images/pl/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Емпазу-Шол",
+            "description": "+12 % початкового заряду тауронського удару\n+2 % додатково за кожен модифікатор неповторної школи",
+            "wiki_link": null,
+            "icon": "items/images/en/empazu_shol.6043bd6b8c9b40dd3bf6aa9b0cc0cc50.webp",
+            "thumb": "items/images/en/thumbs/empazu_shol.6043bd6b8c9b40dd3bf6aa9b0cc0cc50.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

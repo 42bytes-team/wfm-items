@@ -1,0 +1,103 @@
+{
+    "_id": "6939d5ddd6a357b81964f863",
+    "tags": [
+        "rare",
+        "arcane_enhancement"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "primary_overcharge",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MultishotForMaxEnergy"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Primary Overcharge",
+            "description": "While at or above 90% Energy: Gain 35% of Max Energy as Multishot, capped at 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Основной Перезаряд",
+            "description": "При достижении или превышении 90% энергии: увеличьте 35% от максимальной энергии в качестве Мультивыстрела, с ограничением 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "ko": {
+            "item_name": "프라이머리 오버차지",
+            "description": "에너지가 90% 이상일 시: 최대 에너지의 35%를 멀티샷으로 획득하며, 최대 350%까지 중첩됩니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "de": {
+            "item_name": "Arkana: Primäre Überladung",
+            "description": "Gewährt, bei einer Energie von 90 % oder mehr, 35 % der maximalen Energie als Mehrfachschuss, begrenzt auf 350 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Surcharge - Principale",
+            "description": "Tant que l'Énergie est égale ou supérieure à 90%: obtenez 35% de l'Énergie max en Tir Multiple, plafonné à 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Saturação (Armas Primárias)",
+            "description": "Ao possuir pelo menos 90% de Energia: fornecerá 35% da Energia Máxima como Tiro Múltiplo, até o limite de 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "主要·过载",
+            "description": "当能量值达到或超过 90% 时：获得最大能量值的 35% 作为多重射击，上限为 350%。",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "主要超充",
+            "description": "當能量值處於或高於 90% 時：獲得相當於最大能量 35% 的多重射擊，上限為 350%。",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "es": {
+            "item_name": "Sobrecarga Primaria",
+            "description": "Al tener un 90 % o más de energía: obtén un 35 % de energía máxima como multidisparo, hasta un límite del 350 %.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "it": {
+            "item_name": "Primary Overcharge",
+            "description": "Mentre hai il 90% o di più di Energia: Ottieni 35% dell'Energia Massima come Sparo Multiplo, con un limite massimo del 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Przesilenie Broni Głównej",
+            "description": "Mając ponad 90% Energii: zyskaj 35% Energii jako Wielostrzał, do maks. 350%.",
+            "wiki_link": null,
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Основний Надзаряд",
+            "description": "На 90 % енергії або більше: отримайте 35 % від максимальної енергії як мультипостріл, максимум до 350 %.",
+            "wiki_link": "https://warframe.fandom.com/uk/wiki/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9_%D0%B7%D0%B0%D1%80%D1%8F%D0%B4",
+            "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+            "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

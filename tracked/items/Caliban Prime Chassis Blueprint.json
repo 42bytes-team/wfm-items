@@ -1,0 +1,103 @@
+{
+    "_id": "68adcffe731e63abe79a5d12",
+    "tags": [
+        "component",
+        "warframe",
+        "prime",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+    "url_name": "caliban_prime_chassis_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeChassisBlueprint"
+    },
+    "part_of_set": [
+        "caliban_prime_blueprint",
+        "caliban_prime_chassis_blueprint",
+        "caliban_prime_neuroptics_blueprint",
+        "caliban_prime_set",
+        "caliban_prime_systems_blueprint"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Caliban Prime Chassis Blueprint",
+            "description": "Chassis component of the Caliban Prime Warframe.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "ru": {
+            "item_name": "Калибан Прайм: Каркас (Чертеж)",
+            "description": "Компонент варфрейма Калибан Прайм: Каркас.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "ko": {
+            "item_name": "칼리반 프라임 섀시 설계도",
+            "description": "칼리반 프라임 워프레임의 섀시 부분입니다.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "de": {
+            "item_name": "Caliban Prime: Chassis Blaupause",
+            "description": "Chassis-Komponente für den Caliban Prime Warframe.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "fr": {
+            "item_name": "Caliban Prime - Châssis (Schéma)",
+            "description": "Le composant Châssis de la Warframe Caliban Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "pt": {
+            "item_name": "Caliban Prime: Chassi (Diagrama)",
+            "description": "Chassi componente do Warframe Caliban Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "zh-hans": {
+            "item_name": "Caliban Prime 机体 蓝图",
+            "description": "Caliban Prime 战甲的机体组件。",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "zh-hant": {
+            "item_name": "Caliban Prime 機體 藍圖",
+            "description": "Caliban Prime Warframe 的機體組件。",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "es": {
+            "item_name": "Plano de Chasis De Caliban Prime",
+            "description": "Componente del chasis del warframe Caliban Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "it": {
+            "item_name": "Caliban Prime - Chassis (Schema)",
+            "description": "Il componente Chassis per il Warframe Caliban Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "pl": {
+            "item_name": "Caliban Prime: Powłoka - Schemat",
+            "description": "Powłoka dla Warframe'a Caliban Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "uk": {
+            "item_name": "Калібан-Прайм: Каркас (кресленик)",
+            "description": "Деталі каркаса для Калібана-прайм.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        }
+    },
+    "mastery_level": 0,
+    "ducats": 15,
+    "trading_tax": 2000
+}

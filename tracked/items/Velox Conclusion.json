@@ -1,0 +1,105 @@
+{
+    "_id": "69c52999bb986142bb6e02bd",
+    "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "velox"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "velox_conclusion",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Pistol/Event/Nightwave/NightwaveVeloxAugmentMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Velox Conclusion",
+            "description": "On hit, gain +0.6% Ability Strength up to 60% maximum. Consumed on your next Ability cast.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Решение Велокса",
+            "description": "При попадании даёт +0.6% к силе способности до максимума 60%. Расходуется при следующем применении способности.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "ko": {
+            "item_name": "벨록스 컨클루전",
+            "description": "명중 시마다 +0.6%의 어빌리티 위력을 얻으며, 최대 60%까지 중첩됩니다. 다음 어빌리티 시전 시 소모됩니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "de": {
+            "item_name": "Velox-Fazit",
+            "description": "Erhalte bei einem Treffer +0.6 % Fähigkeitsstärke bis zu max. 60 %. Wird beim nächsten Wirken einer Fähigkeit verbraucht.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Conclusion Velox",
+            "description": "Sur coup porté, gagnez +0.6% de Puissance de Pouvoir, jusqu'à un maximum de 60%. Consommé lors du prochain lancement de Pouvoir.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Velox Conclusion",
+            "description": "No acerto, fornecerá +0.6% de Força da Habilidade, até o limite de 60%. O efeito será consumido na próxima conjuração.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "逐电结局",
+            "description": "命中时，获得 +0.6% 技能强度，最多提升至 60%。下次施放技能时消耗。",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "迅屠終局",
+            "description": "命中時，增加技能強度 0.6%，最高可增加至 60%。下次施放技能時消耗。",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "es": {
+            "item_name": "Conclusión Velox",
+            "description": "Al golpear, obtienes +0.6 % de fuerza de habilidad hasta un máximo de 60 %. Se consume en tu siguiente lanzamiento de habilidad.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "it": {
+            "item_name": "Velox Conclusion",
+            "description": "Dopo aver colpito, ottieni +0.6% di Potenza Abilità fino a un massimo del 60%. Consumata al prossimo lancio dell'abilità.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Konkluzja Veloxa",
+            "description": "Przyznaje +0.6% Siły Umiejętności po trafieniu, do maks. 60% Premia jest zużywana przy użyciu Umiejętności.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Велоксові Висновки",
+            "description": "+0.6 % до потужності здібностей після влучання, до 60 % максимально. Споживається під час застосування наступної здібності.",
+            "wiki_link": null,
+            "icon": "items/images/en/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.webp",
+            "thumb": "items/images/en/thumbs/velox_conclusion.262d73bffbeb1616ca77c70a6b1276ea.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

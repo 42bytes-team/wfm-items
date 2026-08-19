@@ -1,0 +1,105 @@
+{
+    "_id": "685d4f1ef41598dddb4cc2f2",
+    "tags": [
+        "mod",
+        "rare",
+        "primary",
+        "simulor"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "spontaneous_singularity",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Nightwave/NightwaveCephPrimaryAugmentMod"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Spontaneous Singularity",
+            "description": "Orbs that strike targets will explode immediately with 90% Bonus Damage and a 18% chance of Singularity that pulls in more targets. Orbs do not bounce or combine.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Спонтанная Сингулярность",
+            "description": "Сферы, которые поражают цели, немедленно взрываются с 90% бонусного урона и 18% шанса на сингулярность, которая притягивает больше целей. Шары не рикошетят и не объединяются.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "ko": {
+            "item_name": "스폰테이너스 싱귤래리티",
+            "description": "목표물에 적중한 오브가 즉시 폭발하며 90%의 추가 피해를 입히며, 18%의 확률로 더 많은 목표물들을 끌어들이는 특이점을 생성합니다. 단 오브를 튕기거나 합칠 수 없습니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "de": {
+            "item_name": "Spontane Singularität",
+            "description": "Kugeln, die Ziele treffen explodieren sofort mit 90 % Bonusschaden und einer 18 % Change, dass Singularität mehr Ziele anzieht. Kugeln prallen nicht ab und verbinden sich nicht.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Singularité Spontanée",
+            "description": "Les orbes qui frappent les cibles explosent immédiatement, avec un bonus de 90% de Dégâts et une chance de 18% de Singularité attirant davantage de cibles. Les orbes ne rebondissent pas et ne se combinent pas.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Spontaneous Singularity",
+            "description": "Os orbes explodirão imediatamente ao atingirem os alvos e causarão 90% de dano adicional, e concederão 18% de chance de gerar uma singularidade que atrairá mais alvos. Os orbes não ricochetearão nem se combinarão.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "自激奇点",
+            "description": "命中目标的球体会立即爆炸，造成 90% 额外伤害，并有 18% 概率产生奇点，将更多目标吸入。球体不再弹跳或融合。",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "自發奇點",
+            "description": "球體擊中目標會立即爆炸，造成 90% 額外傷害，並有 18% 機率吸入更多目標。球體不會彈跳或結合。",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "es": {
+            "item_name": "Singularidad Espontánea",
+            "description": "Los orbes que impactan a los objetivos explotan inmediatamente con un 90 % de daño adicional y un 18 % de probabilidad de singularidad que atrae a más objetivos. Los orbes no rebotan ni se combinan.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "it": {
+            "item_name": "Spontaneous Singularity",
+            "description": "Le sfere che colpiscono i bersagli esploderanno immediatamente con un 90% Danno Bonus e una probabilità del 18% che una sfera attiri altri nemici. Le sfere non rimbalzano né si combinano.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Spontaniczna Osobliwość",
+            "description": "Kule, które trafią wroga, wybuchają natychmiast, zadając dodatkowe 90% Obrażeń i mają 18% szansy na stworzenie Osobliwości, która przyciąga kolejne cele. Kule nie odbijają się ani nie łączą.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Спонтанна Сингулярність",
+            "description": "Кулі після влучання в ціль одразу вибухають із 90 % додаткової шкоди та 18 % ймовірності, що Сингулярність притягне ще більше цілей. Кулі не відбиваються від поверхонь і не поєднуються.",
+            "wiki_link": null,
+            "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+            "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+        }
+    },
+    "rarity": "rare",
+    "max_rank": 5,
+    "trading_tax": 8000
+}

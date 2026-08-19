@@ -1,0 +1,102 @@
+{
+    "_id": "68add07d731e63abe79a5d18",
+    "tags": [
+        "component",
+        "weapon",
+        "prime"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+    "url_name": "vadarya_prime_receiver",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunReceiver"
+    },
+    "part_of_set": [
+        "vadarya_prime_barrel",
+        "vadarya_prime_blueprint",
+        "vadarya_prime_receiver",
+        "vadarya_prime_set",
+        "vadarya_prime_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Vadarya Prime Receiver",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "ru": {
+            "item_name": "Вадария Прайм: Приёмник",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "ko": {
+            "item_name": "바다르야 프라임 리시버",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "de": {
+            "item_name": "Vadarya Prime: Gehäuse",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "fr": {
+            "item_name": "Vadarya Prime - Culasse",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "pt": {
+            "item_name": "Vadarya Prime: Receptor",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "zh-hans": {
+            "item_name": "瓦德雅 Prime 枪机",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "zh-hant": {
+            "item_name": "瓦達雅 Prime 槍機",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "es": {
+            "item_name": "Receptor De Vadarya Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "it": {
+            "item_name": "Vadarya Prime - Castello",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "pl": {
+            "item_name": "Vadarya Prime: Korpus",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        },
+        "uk": {
+            "item_name": "Вадар’я-Прайм: Ствольна Коробка",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null,
+            "icon": "items/unknown.png"
+        }
+    },
+    "mastery_level": 15,
+    "ducats": 45,
+    "trading_tax": 2000
+}

@@ -2,9 +2,10 @@
     "_id": "5526aec1e779896af9418263",
     "tags": [
         "mod",
-        "rare",
         "warframe",
-        "valkyr"
+        "valkyr",
+        "augment",
+        "rare"
     ],
     "icon": "items/images/en/eternal_war.2cfe9dbe6185e422d6789a4c9c69811b.png",
     "thumb": "items/images/en/thumbs/eternal_war.2cfe9dbe6185e422d6789a4c9c69811b.128x128.png",
@@ -23,7 +24,7 @@
         },
         "ru": {
             "item_name": "Вечная Война",
-            "description": "Улучшение способности «Боевой клич»: если способность активна, то длительность способности увеличивается на 2 c за каждого убитого в ближнем бою врага.",
+            "description": "Улучшение способности «Боевой клич»: если способность активна, то длительность способности увеличивается на 2 c за каждого убитого в ближнем бою врага.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%92%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%92%D0%BE%D0%B9%D0%BD%D0%B0",
             "icon": "items/images/ru/eternal_war.1ebbbfa0bb0d32dca53878770b537d07.png",
             "thumb": "items/images/ru/thumbs/eternal_war.1ebbbfa0bb0d32dca53878770b537d07.128x128.png"
@@ -44,14 +45,14 @@
         },
         "fr": {
             "item_name": "Guerre Éternelle",
-            "description": "Augmentation de Cri de Guerre: Quand actif, la durée de Cri de Guerre est prolongée de 2s à chaque Élimination en Mêlée.",
+            "description": "Augmentation de Cri de Guerre: Quand il est actif, la durée de Cri de Guerre est prolongée de 2s à chaque Élimination en Mêlée.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Guerre_%C3%89ternelle",
             "icon": "items/images/en/eternal_war.2cfe9dbe6185e422d6789a4c9c69811b.png",
             "thumb": "items/images/en/thumbs/eternal_war.2cfe9dbe6185e422d6789a4c9c69811b.128x128.png"
         },
         "pt": {
-            "item_name": "Eternal War",
-            "description": "Ampliação Warcry: enquanto ativa, a duração da Warcry será aumentada em 2s para cada eliminação Corpo a Corpo.",
+            "item_name": "Guerra Perpétua",
+            "description": "Ampliação - Grito de Guerra: enquanto ativa, a duração da habilidade será aumentada em 2s para cada eliminação Corpo a Corpo.",
             "wiki_link": "https://warframe.fandom.com/pt-br/wiki/Eternal_War",
             "icon": "items/images/en/eternal_war.2cfe9dbe6185e422d6789a4c9c69811b.png",
             "thumb": "items/images/en/thumbs/eternal_war.2cfe9dbe6185e422d6789a4c9c69811b.128x128.png"

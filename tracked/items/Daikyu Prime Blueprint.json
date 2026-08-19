@@ -1,0 +1,116 @@
+{
+    "_id": "682dfb5635715d4f3e9c64ed",
+    "tags": [
+        "weapon",
+        "primary",
+        "prime",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/blueprint_128x128.png",
+    "url_name": "daikyu_prime_blueprint",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/PrimeDaikyuBlueprint"
+    },
+    "part_of_set": [
+        "daikyu_prime_blueprint",
+        "daikyu_prime_grip",
+        "daikyu_prime_lower_limb",
+        "daikyu_prime_set",
+        "daikyu_prime_string",
+        "daikyu_prime_upper_limb"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Daikyu Prime Blueprint",
+            "description": "Long believed lost, the mighty Daikyu Prime was the pride of many a Tenno dojo. Designed to strike the foe where they are weakest, its powerful shots repay careful marksmanship.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Дайкю Прайм (Чертеж)",
+            "description": "Долгое время считавшийся утерянным, могущественный Дайкю Прайм был гордостью многих Тэнно в Додзе. Созданный для того, чтобы бить врага в самое уязвимое место, его мощные выстрелы вознаграждают меткую стрельбу.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "ko": {
+            "item_name": "다이큐 프라임 설계도",
+            "description": "강력한 힘을 가졌지만, 오랫동안 사라졌다고 믿어진 다이큐 프라임은 수많은 텐노 도장의 자랑이기도 했습니다. 적의 가장 약한 부분을 노려 타격하도록 설계된 이 활의 강한 화살은 정교한 조준과 함께라면 더욱 그에 걸맞는 위력을 냅니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "de": {
+            "item_name": "Daikyu Prime Blaupause",
+            "description": "Der mächtige Daikyu Prime galt lange als verloren, und war der Stolz vieler Tenno Dojos. Er wurde entwickelt, um Gegner dort zu treffen, wo sie am schwächsten sind und seine mächtigen Schüsse sorgfältiges Schießen belohnen.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Daikyu Prime (Schéma)",
+            "description": "Longtemps considéré comme perdu, le puissant Daikyu Prime faisait la fierté de nombreux Dojos Tennos. Conçu pour cibler les points faibles des ennemis, ses tirs puissants récompensent un tir précis.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Daikyu Prime (Diagrama)",
+            "description": "Por muito tempo considerado perdido, o poderoso Daikyu Prime era o orgulho de muitos Dojos dos Tennos. Projetado para atingir os pontos fracos do inimigo, seus golpes poderosos recompensam a precisão na pontaria.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "大久和弓 Prime 蓝图",
+            "description": "（英文：DAIKYU PRIME）长久以来，人们一直认为强大的大久和弓 Prime 早已失传，它是许多 Tenno 道场的骄傲。它旨在直击敌人的弱点，其强大的射击威力与精湛的射击技术相得益彰。",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "大久和弓 Prime 藍圖",
+            "description": "（英文：DAIKYU PRIME）長久以來被認為早已遺失的強力大久弓 Prime，曾是無數 Tenno 道場的驕傲。專攻敵方要害的設計，使強而有力的射擊呼應百發百中的箭術。",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "es": {
+            "item_name": "Plano de Daikyu Prime",
+            "description": "Considerado perdido durante mucho tiempo, el poderoso Daikyu Prime fue el orgullo de muchos dojos tenno. Diseñado para golpear al enemigo en sus puntos más débiles, sus potentes flechazos recompensan la precisión de la puntería.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "it": {
+            "item_name": "Daikyu Prime (Schema)",
+            "description": "A lungo creduto perduto, il potente Daikyu Prime è stato l'orgoglio di molti dojo Tenno. Progettato per colpire il nemico dove è più debole, i suoi colpi potenti richiedono un'attenta mira.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Daikyu Prime - Schemat",
+            "description": "Od dawna uważany za zaginiony, potężny Daikyu Prime był dumą wielu Dojo Tenno. Zaprojektowany, by trafiać wroga tam, gdzie jest najsłabszy, jego potężne strzały nagradzają precyzję.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Дайк’ю-Прайм (кресленик)",
+            "description": "Могутній Дайк’ю-прайм, що вважається зниклим, був колись гордістю доджьо тенно. Створений для ураження в слабкі місця він винагороджує вправне прицілювання потужними пострілами.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_blueprint.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        }
+    },
+    "mastery_level": 15,
+    "ducats": 15,
+    "trading_tax": 2000
+}

@@ -1,10 +1,11 @@
 {
     "_id": "54a74454e779892d5e51562b",
     "tags": [
+        "vauban",
         "mod",
-        "rare",
         "warframe",
-        "vauban"
+        "augment",
+        "rare"
     ],
     "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
     "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png",
@@ -16,84 +17,84 @@
     "i18n": {
         "en": {
             "item_name": "Tesla Bank",
-            "description": "Tesla Nervos Augment: While a target has a Nervos attached, any damage dealt to it will be absorbed by the Nervos and channeled into a 8m burst of Electricity on death.",
+            "description": "Tesla Nervos Augment: Enemy health when a Nervos is first attached is converted into 8m burst of Electricity when killed.",
             "wiki_link": "https://wiki.warframe.com/w/Tesla_Bank",
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "ru": {
             "item_name": "Батарея Тесла",
-            "description": "Улучшение способности «Тесла нервос»: пока к цели прикреплён нервос, любой полученный урон будет поглощён нервосом и перенаправлен во взрыв радиусом 8 м, наносящим урон электричеством при гибели.",
+            "description": "Улучшение способности «Тесла Нервос»: Здоровье противника при первом прикреплении Нервоса преобразуется в разряд электричества, который разряжается залпом в радиусе 8 м при его уничтожении.",
             "wiki_link": "https://warframe.fandom.com/ru/wiki/%D0%91%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F_%D0%A2%D0%B5%D1%81%D0%BB%D0%B0",
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "ko": {
             "item_name": "테슬라 뱅크",
-            "description": "테슬라 너보스 개조: 목표물에게 너보스가 부착되어있는 동안, 목표물이 입는 모든 피해를 너보스가 흡수하여 목표물이 죽을 시 8m 내에 전기 폭발을 일으킵니다.",
+            "description": "테슬라 너보스 개조: 너보스가 처음 달라붙었을 당시 적의 체력만큼이 해당 적을 처치 시 8m의 전기 폭발의 피해로 변환됩니다.",
             "wiki_link": "https://wiki.warframe.com/w/Tesla_Bank",
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "de": {
             "item_name": "Tesla-Bank",
-            "description": "Tesla Nervos Augment: Während eine Nervos an einem Gegner haftet, wird jeglicher Schaden von ihr absorbiert und bei Tod in eine 8 m große Entladung aus Elektrizität kanalisiert.",
+            "description": "Tesla Nervos Augment: Wenn ein Nervos erstmalig angeheftet wird, wird die Gesundheit eines Gegners beim Tod in einen 8 m starken Blitz von Elektrizität umgewandelt.",
             "wiki_link": null,
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "fr": {
             "item_name": "Banque Tesla",
-            "description": "Augmentation Nervos Tesla: Quand un Nervos est fixé à la cible, tous les dégâts lui étant infligés seront absorbés par le Nervos et canalisés lors de son élimination en une explosion Électrique sur une zone de 8m.",
+            "description": "Augmentation Nervos Tesla: Quand un Nervos se fixe à la cible, la Santé de l'ennemi est convertie en une explosion Électrique de 8m à son élimination.",
             "wiki_link": "https://warframe.fandom.com/fr/wiki/Banque_Tesla",
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "pt": {
-            "item_name": "Tesla Bank",
-            "description": "Ampliação Tesla Nervos: enquanto um alvo estiver sendo afetado pela habilidade, quaisquer danos causados serão absorvidos por ela e serão focalizados após a morte do alvo em um disparo Elétrico dentro de um raio de 8m.",
+            "item_name": "Acúmulo De Tesla",
+            "description": "Ampliação - Nervos de Tesla: ao atingir um inimigo pela primeira vez, converterá a Vida do alvo em uma explosão de Eletricidade de 8m quando o alvo for eliminado.",
             "wiki_link": null,
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "zh-hans": {
             "item_name": "特斯拉电容",
-            "description": "特斯拉电激强化：当目标被一个电激球附着时，对该目标造成的任何伤害都会被电激球吸收，并且在其死亡时被转换成 8 米范围内的电击爆炸。",
+            "description": "特斯拉电激强化：当电激胶囊首次附着在敌人身上时，敌人的生命值会在被击杀时转换成 8 米范围内的 电击爆发。",
             "wiki_link": "https://wiki.warframe.com/w/Tesla_Bank",
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "zh-hant": {
             "item_name": "特斯拉電容",
-            "description": "特斯拉電觸強化：當一個突觸附著在一名目標身上時，任何對目標造成的傷害會被突觸吸收，並在目標死亡時轉換成 8 公尺的電擊爆破。",
+            "description": "特斯拉電觸強化：突觸首次附著的敵人生命值，在敵人死亡時會轉化為 8 公尺範圍內的電擊爆發。",
             "wiki_link": "https://wiki.warframe.com/w/Tesla_Bank",
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "es": {
             "item_name": "Batería Tesla",
-            "description": "Aumento de Nervos Tesla: mientras un objetivo tenga pegado un Nervos, cualquier daño que reciba es absorbido por el Nervos y canalizado en un estallido de electricidad de 8m al morir.",
+            "description": "Aumento de Nervos Tesla: la salud del enemigo cuando es atacado por primera vez por un Nervos se convierte en una ráfaga de electricidad de 8 m cuando muere.",
             "wiki_link": "https://warframe.fandom.com/es/wiki/Bater%C3%ADa_Tesla",
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "it": {
             "item_name": "Tesla Bank",
-            "description": "Potenziamento Tesla Nervos: Qualsiasi danno inflitto a un Nervos attaccato a un bersaglio verrà assorbito da esso e alla morte verrà canalizzato in una scarica di Elettricità entro 8m.",
+            "description": "Potenziamento Tesla Nervos: La salute del nemico quando viene attaccato per la prima volta da un Nervos viene convertita in una scarica di Elettricità di 8m quando viene ucciso.",
             "wiki_link": null,
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "pl": {
             "item_name": "Bank Tesli",
-            "description": "Modyfikacja Nerwul: Podczas gdy cel ma doczepioną Nerwulę, każde zadane jej uszkodzenie będzie absorbowane przez Nerwulę i przekazywane przy śmierci jako wyładowania zadające Obr. Elektryczne w zasięgu 8 m.",
+            "description": "Modyfikacja Nerwuli: W chwili przyczepienia Nerwuli do wroga, jego wartość życia jest zamieniana na Obr. od Elektryczności, które zostaną zadane w zasięgu 8 m po jego śmierci.",
             "wiki_link": null,
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
         },
         "uk": {
             "item_name": "Заряд Тесли",
-            "description": "Розширення здібності «Нерв Тесли»: котун вбирає всю отриману носієм шкоду та внаслідок руйнування вибухає й завдає електричної шкоди у межах 8 м.",
+            "description": "Розширення здібності «Нерв Тесли»: коли нерв чіпляється до ворога, його здоров’я перетворюється на електричну шкоду й після його смерті вистрілює залпом у межах 8 м.",
             "wiki_link": "https://wiki.warframe.com/w/Tesla_Bank",
             "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
             "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"

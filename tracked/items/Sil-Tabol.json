@@ -1,0 +1,104 @@
+{
+    "_id": "693e66b603903ae8993ffaf8",
+    "tags": [
+        "mod",
+        "uncommon",
+        "any"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "sil_tabol",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Upgrades/Mods/Antiques/ProcChanceSchool"
+    },
+    "i18n": {
+        "en": {
+            "item_name": "Sil-Tabol",
+            "description": "+60% Amp Status Chance\n+15% Status Damage for each <VAZARIN_CLEAN>Vazarin School Mod",
+            "wiki_link": null,
+            "icon": "items/images/en/sil_tabol.c57d85f64a950adf8a4c46097d3ad05c.webp",
+            "thumb": "items/images/en/thumbs/sil_tabol.c57d85f64a950adf8a4c46097d3ad05c.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Сил-Табол",
+            "description": "+60% к статусу усилителя\n+15% к повреждению от статусного эффекта за каждый <VAZARIN_CLEAN>модификатор школы Вазарин",
+            "wiki_link": null,
+            "icon": "items/images/ru/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/ru/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "ko": {
+            "item_name": "실-타볼",
+            "description": "+60% 앰프 상태 이상 확률\n각 <VAZARIN_CLEAN>바자린 유파 모드 당 +15% 상태 이상 피해",
+            "wiki_link": null,
+            "icon": "items/images/ko/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/ko/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "de": {
+            "item_name": "Sil-Tabol",
+            "description": "+60 % Verstärker-Statuschance\n+15 % Statusschaden für jede Mod der <VAZARIN_CLEAN>Vazarin-Schule",
+            "wiki_link": null,
+            "icon": "items/images/de/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/de/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Sil-Tabol",
+            "description": "+60% de Chances de Statut d'Amplificateur\n+15% de Dégâts de Statut pour chaque Mod de l'École <VAZARIN_CLEAN>Vazarin",
+            "wiki_link": null,
+            "icon": "items/images/fr/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/fr/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Sil-Tabol",
+            "description": "+60% de Chance de Status da Amp.\n+15% de Dano de Status para cada Mod da Escola <VAZARIN_CLEAN>Vazarin.",
+            "wiki_link": null,
+            "icon": "items/images/pt/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/pt/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "西塔",
+            "description": "+60% 增幅器触发几率\n每个 Vazarin 学派 Mod 增加 15% 触发伤害",
+            "wiki_link": null,
+            "icon": "items/images/zh-hans/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/zh-hans/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "希塔",
+            "description": "+60% 增幅器狀態觸發機率\n每個<VAZARIN_CLEAN>Vazarin 學派 MOD，增加狀態傷害 15%",
+            "wiki_link": null,
+            "icon": "items/images/zh-hant/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/zh-hant/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "es": {
+            "item_name": "Sil-Tabol",
+            "description": "+60 % de probabilidad de estado de amp\n+15 % de daño de estado por cada mod de la escuela <VAZARIN_CLEAN>Vazarin",
+            "wiki_link": null,
+            "icon": "items/images/es/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/es/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "it": {
+            "item_name": "Sil-Tabol",
+            "description": "+60% Probabilità Effetto Amp\n+15% Danno Effetto per ogni Mod Scuola <VAZARIN_CLEAN>Vazarin",
+            "wiki_link": null,
+            "icon": "items/images/it/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+            "thumb": "items/images/it/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Sil-Tabol",
+            "description": "+60% Szansy Statusu Ampa\n+15% Obr. Statusu za każdy <VAZARIN_CLEAN> Mod szkoły Vazarin",
+            "wiki_link": null,
+            "icon": "items/images/en/sil_tabol.c57d85f64a950adf8a4c46097d3ad05c.webp",
+            "thumb": "items/images/en/thumbs/sil_tabol.c57d85f64a950adf8a4c46097d3ad05c.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Сіл-Табол",
+            "description": "+60 % до ймовірності накладання ефекту стану підсилювачем\n+15 % до шкоди від ефекту стану за кожен <VAZARIN_CLEAN>модифікатор школи Вазарін",
+            "wiki_link": null,
+            "icon": "items/images/en/sil_tabol.c57d85f64a950adf8a4c46097d3ad05c.webp",
+            "thumb": "items/images/en/thumbs/sil_tabol.c57d85f64a950adf8a4c46097d3ad05c.128x128.webp"
+        }
+    },
+    "rarity": "uncommon",
+    "max_rank": 5,
+    "trading_tax": 4000
+}

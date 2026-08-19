@@ -1,0 +1,112 @@
+{
+    "_id": "67e40055cedcd0be6d13592d",
+    "tags": [
+        "weapon",
+        "component",
+        "blueprint"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
+    "url_name": "riot_848_stock",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/1999EntHybridPistolStockBlueprint"
+    },
+    "part_of_set": [
+        "riot_848_set",
+        "riot_848_barrel",
+        "riot_848_receiver",
+        "riot_848_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Riot-848 Stock Blueprint",
+            "description": "A weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Мятеж-848: Приклад (Чертеж)",
+            "description": "Компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "ko": {
+            "item_name": "라이엇-848 스톡 설계도",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "de": {
+            "item_name": "Riot-848: Schaft Blaupause",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Riot-848 - Crosse (Schéma)",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Riot-848: Coronha (Diagrama)",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "暴乱-848 枪托 蓝图",
+            "description": "一个武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "暴動－848 槍托 藍圖",
+            "description": "製作武器的部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "es": {
+            "item_name": "Plano de Culata De Riot-848",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "it": {
+            "item_name": "Riot-848 - Calcio (Schema)",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Riot-848: Kolba - Schemat",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Бунт-848: Ложе (кресленик)",
+            "description": "Деталь зброї.",
+            "wiki_link": null,
+            "icon": "items/images/en/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.webp",
+            "thumb": "items/images/en/thumbs/riot_848_stock.c54d97ede8604c85769c4bed9af79a50.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 2000
+}

@@ -1,0 +1,111 @@
+{
+    "_id": "67e8c971cedcd0be6d135954",
+    "tags": [
+        "weapon",
+        "secondary",
+        "set"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "url_name": "efv_8_mars_set",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon",
+        "type": "set"
+    },
+    "part_of_set": [
+        "efv_8_mars_barrel",
+        "efv_8_mars_receiver",
+        "efv_8_mars_set",
+        "efv_8_mars_stock"
+    ],
+    "set_root": true,
+    "i18n": {
+        "en": {
+            "item_name": "EFV-8 Mars Set",
+            "description": "The standard issue personal Efervon projector, as sported by all ranks of Scaldra.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "ru": {
+            "item_name": "ЭФВ-8 Марс: Комплект",
+            "description": "Стандартный эфервонский пистолет, имеющийся у бойцов Скальдры всех рангов.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "ko": {
+            "item_name": "EFV-8 마스 세트",
+            "description": "스칼드라의 모든 계급이 사용하는 표준형 개인 에퍼본 투사기입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "de": {
+            "item_name": "EFV-8 Mars: Set",
+            "description": "Der standardmäßige persönliche Efervon-Projektor, wie ihn Scaldra aller Dienstgrade tragen.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "fr": {
+            "item_name": "EFV-8 Mars - Set",
+            "description": "Le projecteur personnel standard Efervon, porté par tous les soldats de la Scaldra.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "pt": {
+            "item_name": "EFV-8 Marte: Conjunto",
+            "description": "Um lançador de Efervão pessoal, utilizado por todos os escalões da Scaldra.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "艾弗旺-8 火星 一套",
+            "description": "（英文：EFV-8 MARS）标准的单兵艾弗旺喷射器，各个军衔的炽蛇军都配有此武器。",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "惡沸患－8 火星 一套",
+            "description": "（英文：EFV-8 MARS）這個惡沸患噴槍是全體清剿隊的標準配槍。",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "es": {
+            "item_name": "Set de EFV-8 Mars",
+            "description": "El lanzador personal estándar de Efervon, usado por todos los soldados de la Scaldra.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "it": {
+            "item_name": "EFV-8 Mars Set",
+            "description": "Il proiettore Efervon personale standard, indossato da tutti i soldati Scaldra.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "pl": {
+            "item_name": "EFV-8 Mars: Zestaw",
+            "description": "Standardowa, ręczna wyrzutnia Eferwonu, używana przez wszystkie stopnie żołnierzy Scaldry.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "uk": {
+            "item_name": "ЕФВ-8 «Марс» (комплект)",
+            "description": "Стандартний ефервонський пістолет, наявний у всіх бійців «Скальдри».",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_set.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 6000
+}

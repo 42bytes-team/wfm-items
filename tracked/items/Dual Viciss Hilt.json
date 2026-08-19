@@ -1,0 +1,110 @@
+{
+    "_id": "67e8c997cedcd0be6d13595b",
+    "tags": [
+        "weapon",
+        "component"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/generic_hilt_128x128.png",
+    "url_name": "dual_viciss_hilt",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooSicklesPlayerWeaponHilt"
+    },
+    "part_of_set": [
+        "dual_viciss_blade",
+        "dual_viciss_hilt",
+        "dual_viciss_set"
+    ],
+    "set_root": false,
+    "quantity_for_set": 2,
+    "i18n": {
+        "en": {
+            "item_name": "Dual Viciss Hilt",
+            "description": "A weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Парные Клинки Викисс: Рукоять",
+            "description": "Компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "ko": {
+            "item_name": "듀얼 비시스 힐트",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "de": {
+            "item_name": "Dual-Viciss: Griff",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Doubles Viciss - Poignée",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Viciss Duplas: Punho",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "双子恶行 握柄",
+            "description": "一个武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "危邪雙鐮 握柄",
+            "description": "製作武器的部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "es": {
+            "item_name": "Empuñadura De Viciss Dobles",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "it": {
+            "item_name": "Dual Viciss - Elsa",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Podwójny Viciss: Rękojeść",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Парні Гнойовики: Ефес",
+            "description": "Деталь зброї.",
+            "wiki_link": null,
+            "icon": "items/images/en/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+            "thumb": "items/images/en/thumbs/dual_viciss_hilt.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 2000
+}

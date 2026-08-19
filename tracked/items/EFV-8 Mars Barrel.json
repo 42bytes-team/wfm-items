@@ -1,0 +1,111 @@
+{
+    "_id": "67e8c972cedcd0be6d135955",
+    "tags": [
+        "weapon",
+        "component"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+    "url_name": "efv_8_mars_barrel",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooPistolPlayerWeaponBarrel"
+    },
+    "part_of_set": [
+        "efv_8_mars_barrel",
+        "efv_8_mars_receiver",
+        "efv_8_mars_set",
+        "efv_8_mars_stock"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "EFV-8 Mars Barrel",
+            "description": "A weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "ru": {
+            "item_name": "ЕФВ-8 Марс: Ствол",
+            "description": "Компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "ko": {
+            "item_name": "EFV-8 마스 배럴",
+            "description": "무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "de": {
+            "item_name": "EFV-8 Mars: Lauf",
+            "description": "Eine Komponente für die Herstellung von Waffen.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "fr": {
+            "item_name": "EFV-8 Mars - Canon",
+            "description": "Un composant servant à la fabrication d'armes.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "pt": {
+            "item_name": "EFV-8 Marte: Cano",
+            "description": "Um componente de fabricação de armas.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "艾弗旺-8 火星 枪管",
+            "description": "一个武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "惡沸患－8 火星 槍管",
+            "description": "製作武器的部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "es": {
+            "item_name": "Cañón De EFV-8 Marte",
+            "description": "Un componente de fabricación de arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "it": {
+            "item_name": "EFV-8 Mars - Canna",
+            "description": "Un componente per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "pl": {
+            "item_name": "EFV-8 Mars: Lufa",
+            "description": "Element wytwarzania Broni.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        },
+        "uk": {
+            "item_name": "ЕФВ-8 «Марс»: Ствол",
+            "description": "Деталь зброї.",
+            "wiki_link": null,
+            "icon": "items/images/en/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.webp",
+            "thumb": "items/images/en/thumbs/efv_8_mars_barrel.7ea6d23799085277f1942e054de9f6fd.128x128.webp"
+        }
+    },
+    "mastery_level": 14,
+    "trading_tax": 2000
+}

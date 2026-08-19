@@ -15,7 +15,7 @@
     "i18n": {
         "en": {
             "item_name": "Indomitable Matrix",
-            "description": "-18% Breach Chance\n+22% Shield Regen during Breach\n+30% Armor when below 53% Hull",
+            "description": "-18% Breach Chance\n+22% Shield Recharge during Breach\n+30% Armor when below 53% Hull",
             "wiki_link": "https://wiki.warframe.com/w/Indomitable_Matrix",
             "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
             "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
@@ -36,14 +36,14 @@
         },
         "de": {
             "item_name": "Unbeugsame Matrix",
-            "description": "-18 % Durchbruchchance\n+22 % Schildregeneration während eines Durchbruchs\n+30 % Rüstung, wenn Hülle bei unter 53 % liegt",
+            "description": "-18 % Durchbruchchance\n+22 % Schildaufladung während eines Durchbruchs\n+30 % Rüstung, wenn Hülle bei unter 53 % liegt",
             "wiki_link": "https://wiki.warframe.com/w/Indomitable_Matrix",
             "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
             "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
         },
         "fr": {
             "item_name": "Matrice Indomptable",
-            "description": "-18% de Chances de Brèche\n+22% de Régénération du Bouclier en cas de Brèche\n+30% de Blindage quand la Coque est sous les 53%",
+            "description": "-18% de Chances de Brèche\n+22% de Recharge du Bouclier en cas de Brèche\n+30% de Blindage quand la Coque est sous les 53%",
             "wiki_link": "https://wiki.warframe.com/w/Indomitable_Matrix",
             "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
             "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
@@ -57,35 +57,35 @@
         },
         "zh-hans": {
             "item_name": "不屈矩阵",
-            "description": "-18% 舰体缺口发生几率\n+22% 舰体产生缺口时的护盾再生速度\n当舰体低于 53% 时，+30% 护甲",
+            "description": "-18% 舰体缺口发生几率\n+22% 舰体产生缺口时的护盾恢复速度\n当舰体低于 53% 时，+30% 护甲",
             "wiki_link": "https://wiki.warframe.com/w/Indomitable_Matrix",
             "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
             "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
         },
         "zh-hant": {
             "item_name": "堅毅戰陣",
-            "description": "-18% 船身破損機率\n+22% 船身破損期間的護盾恢復\n船身完整性低於 53% 時，增加 30% 護甲",
+            "description": "減少船身破損機率 18% 船身破損期間，增加護盾恢復 22%\n船身完整性低於 53% 時，增加護甲 30%",
             "wiki_link": "https://wiki.warframe.com/w/Indomitable_Matrix",
             "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
             "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
         },
         "es": {
             "item_name": "Matriz Indomable",
-            "description": "-18 % de probabilidad de brecha\n+22 % de regeneración de escudo durante una brecha\n+30 % de armadura cuando el casco está por debajo del 53 %",
+            "description": "-18 % de probabilidad de brecha\n+22 % de recarga de escudo durante una brecha\n+30 % de armadura cuando el casco está por debajo del 53 %",
             "wiki_link": "https://wiki.warframe.com/w/Indomitable_Matrix",
             "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
             "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
         },
         "it": {
             "item_name": "Indomitable Matrix",
-            "description": "-18% Probabilità Breccia\n+22% Rigenerazione dello Scudo durante una Breccia\n+30% Armatura quando lo Scafo è inferiore al 53%",
+            "description": "-18% Probabilità Breccia\n+22% Ricarica Scudo durante una Breccia\n+30% Armatura quando lo Scafo è inferiore al 53%",
             "wiki_link": "https://wiki.warframe.com/w/Indomitable_Matrix",
             "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
             "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
         },
         "pl": {
             "item_name": "Matryca Niezłomności",
-            "description": "-18% Szansy na Wyrwę\n+22% Odnowienia Osłon podczas obecnej Wyrwy\n+30% Pancerza, gdy poniżej 53% Kadłuba",
+            "description": "-18% Szansy na Wyrwę\n+22% Odnowienia Osłon podczas trwającej Wyrwy\n+30% Pancerza, gdy poniżej 53% Kadłuba",
             "wiki_link": "https://wiki.warframe.com/w/Indomitable_Matrix",
             "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
             "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"

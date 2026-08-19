@@ -1,0 +1,115 @@
+{
+    "_id": "682dfb5635715d4f3e9c64ef",
+    "tags": [
+        "component",
+        "weapon",
+        "prime"
+    ],
+    "icon": "items/unknown.png",
+    "thumb": "items/unknown.thumb.png",
+    "sub_icon": "sub_icons/weapon/prime_limb_128x128.png",
+    "url_name": "daikyu_prime_upper_limb",
+    "tradable": true,
+    "game_ref": {
+        "uniq_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDaikyuUpperLimb"
+    },
+    "part_of_set": [
+        "daikyu_prime_blueprint",
+        "daikyu_prime_grip",
+        "daikyu_prime_lower_limb",
+        "daikyu_prime_set",
+        "daikyu_prime_string",
+        "daikyu_prime_upper_limb"
+    ],
+    "set_root": false,
+    "quantity_for_set": 1,
+    "i18n": {
+        "en": {
+            "item_name": "Daikyu Prime Upper Limb",
+            "description": "A prime weapon-crafting component.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "ru": {
+            "item_name": "Дайкю Прайм: Верхнее Плечо",
+            "description": "Прайм-компонент оружия.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "ko": {
+            "item_name": "다이큐 프라임 어퍼 림",
+            "description": "프라임 무기 제작 부품입니다.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "de": {
+            "item_name": "Daikyu Prime: Oberteil",
+            "description": "Eine Komponente für die Herstellung von Prime Waffen.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "fr": {
+            "item_name": "Daikyu Prime - Partie Supérieure",
+            "description": "Un composant servant à la fabrication d'armes Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "pt": {
+            "item_name": "Daikyu Prime: Membro Superior",
+            "description": "Um componente de fabricação de Armas Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "zh-hans": {
+            "item_name": "大久和弓 Prime 上弓臂",
+            "description": "一个 Prime 武器的制作部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "zh-hant": {
+            "item_name": "大久和弓 Prime 上弓臂",
+            "description": "製作 Prime 武器的部件。",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "es": {
+            "item_name": "Pala Superior De Daikyu Prime",
+            "description": "Un componente de fabricación de arma prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "it": {
+            "item_name": "Daikyu Prime - Flettente Superiore",
+            "description": "Un componente Prime per la costruzione di un'arma.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "pl": {
+            "item_name": "Daikyu Prime: Górne Ramię",
+            "description": "Element wytwarzania broni Prime.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        },
+        "uk": {
+            "item_name": "Дайк’ю-Прайм: Верхнє Плече",
+            "description": "Деталь прайм-зброї.",
+            "wiki_link": null,
+            "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+            "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+        }
+    },
+    "mastery_level": 15,
+    "ducats": 45,
+    "trading_tax": 2000
+}
